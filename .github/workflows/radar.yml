@@ -1,0 +1,30 @@
+# Robô do radar de pautas: roda no repositório público do site (minutos
+# ilimitados no plano grátis), coleta as manchetes e grava radar/radar.json.
+name: Radar de pautas
+on:
+  schedule:
+    - cron: "17 10-23 * * 1-5"   # dias úteis, 07h17 às 20h17 (Brasília), de hora em hora
+    - cron: "17 12,18,22 * * 0,6" # fim de semana, 3 vezes
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: radar
+  cancel-in-progress: false
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Coletar manchetes
+        run: python3 radar/coletor.py --saida radar/radar.json
+      - name: Gravar
+        run: |
+          git config user.name "radar-kaique-studio"
+          git config user.email "radar@users.noreply.github.com"
+          git add radar/radar.json
+          if git diff --cached --quiet; then echo "sem mudanças"; exit 0; fi
+          git commit -m "Radar: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1

@@ -26,6 +26,7 @@
     --linha: #33332f; --marca: #6b5a00; --ok: #6fd391; --alerta: #ff8a7a; color-scheme: dark; }
 
   * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
   html, body { margin: 0; }
   body { background: var(--fundo); color: var(--tinta); font-family: var(--fonte); font-size: 15px; line-height: 1.45;
          padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px); }
@@ -53,6 +54,18 @@
   .card .m { display: flex; justify-content: space-between; align-items: center; gap: 6px; color: var(--suave); font-size: 12px; }
   .pilula { font-size: 11px; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--linha); text-transform: lowercase; }
   .pilula.pronto { border-color: var(--ok); color: var(--ok); }
+  .abas { display: flex; gap: 6px; margin-bottom: 16px; border-bottom: 1px solid var(--linha); }
+  .abas a { padding: 10px 14px; font-weight: 700; font-size: 14px; color: var(--suave); text-decoration: none; border-bottom: 3px solid transparent; margin-bottom: -1px; }
+  .abas a[aria-current="page"] { color: var(--tinta); border-bottom-color: var(--tinta); }
+  .secao-radar { margin: 18px 0 8px; }
+  .secao-radar h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 0 0 10px; }
+  .lista-pautas { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+  .pauta { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 14px; display: grid; gap: 8px; min-width: 0; }
+  .pauta-t { font-weight: 700; color: var(--tinta); text-decoration: none; line-height: 1.35; overflow-wrap: anywhere; }
+  .pauta-m { margin: 0; font-size: 12.5px; color: var(--suave); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .pilula.video { border-color: var(--alerta); color: var(--alerta); }
+  .pauta .acoes button, .pauta .acoes a.botao { flex: 1 1 120px; min-height: 40px; padding: 8px 14px; }
   .vazio { color: var(--suave); padding: 40px 0; text-align: center; }
   .dica { margin-top: 26px; color: var(--suave); font-size: 13.5px; border-top: 1px solid var(--linha); padding-top: 16px; }
 
@@ -156,6 +169,7 @@
     voltar.hidden = true;
     document.title = 'Kaique Studio';
     app.innerHTML = '';
+    app.append(abas('#/'));
     if (!indice.length) {
       app.append(el('p', { class: 'vazio', text: 'Nenhum carrossel publicado ainda.' }));
     } else {
@@ -187,6 +201,72 @@
       ctx.imageSmoothingQuality = 'high';
       ctx.drawImage(grande, 0, 0, cv.width, cv.height);
     } catch (e) { console.warn(e); }
+  }
+
+  // ---------- radar ----------
+  // Lista o que o robô do GitHub coletou (Google Trends, Google Notícias e RSS
+  // dos veículos). "Quero esse" copia o pedido pronto para colar no Claude.
+  function abas(ativa) {
+    const nav = el('nav', { class: 'abas', 'aria-label': 'Seções' });
+    [['#/', 'Carrosséis'], ['#/radar', 'Radar de pautas']].forEach(([href, txt]) => {
+      const a = el('a', { href, text: txt });
+      if (href === ativa) a.setAttribute('aria-current', 'page');
+      nav.append(a);
+    });
+    return nav;
+  }
+  const haQuanto = (iso) => {
+    if (!iso) return '';
+    const min = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
+    if (min < 60) return `há ${min} min`;
+    const h = Math.round(min / 60);
+    return h < 24 ? `há ${h} h` : `há ${Math.round(h / 24)} d`;
+  };
+
+  async function telaRadar() {
+    titulo.textContent = 'Kaique Studio';
+    voltar.hidden = true;
+    document.title = 'Radar de pautas · Kaique Studio';
+    app.innerHTML = '';
+    app.append(abas('#/radar'));
+    const status = el('p', { class: 'status', role: 'status' });
+    let dados;
+    try { dados = await (await fetch('radar/radar.json' + semCache())).json(); }
+    catch { app.append(el('p', { class: 'vazio', text: 'O radar ainda não tem dados. Ele atualiza de hora em hora.' })); return; }
+    const hora = dados.atualizado ? new Date(dados.atualizado).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }) : '';
+    app.append(el('p', { class: 'nota', text: `Atualizado em ${hora} · ${dados.fontes_ok} fontes · Google Trends, Google Notícias e RSS dos veículos.` }), status);
+
+    async function quero(p) {
+      const txt = `Kaique Studio — faz um carrossel desta pauta: “${p.titulo}” (${p.veiculo}) ${p.url}`;
+      try { await navigator.clipboard.writeText(txt); status.textContent = 'Pedido copiado. Cole na conversa com o Claude.'; }
+      catch { status.textContent = txt; }
+    }
+    function cartaoPauta(p) {
+      const meta = [p.veiculo, haQuanto(p.publicado), p.veiculos > 1 ? `+${p.veiculos - 1} veículos` : ''].filter(Boolean).join(' · ');
+      const chips = el('div', { class: 'chips' });
+      (p.temas || []).forEach((t) => chips.append(el('span', { class: 'pilula', text: t })));
+      if (p.video) chips.append(el('span', { class: 'pilula video', text: 'fala / vídeo' }));
+      return el('article', { class: 'pauta' },
+        el('a', { class: 'pauta-t', href: p.url, target: '_blank', rel: 'noopener', text: p.titulo }),
+        el('p', { class: 'pauta-m', text: meta }), chips,
+        el('div', { class: 'acoes' },
+          el('button', { text: 'Quero esse', onclick: () => quero(p) }),
+          el('a', { class: 'botao sec', href: p.url, target: '_blank', rel: 'noopener', text: 'Abrir matéria' })));
+    }
+    function secao(nome, itens, montar) {
+      if (!itens || !itens.length) return;
+      const lista = el('div', { class: 'lista-pautas' });
+      itens.forEach((i) => lista.append(montar(i)));
+      app.append(el('section', { class: 'secao-radar' }, el('h2', { text: nome }), lista));
+    }
+    secao('Em alta no Google agora', dados.em_alta, (t) => {
+      const n = (t.noticias || [])[0] || {};
+      return cartaoPauta({ titulo: `${t.termo} — ${n.titulo || ''}`.trim(), url: n.url || 'https://trends.google.com/trending?geo=BR',
+        veiculo: `Google Trends ${t.trafego} buscas`, publicado: t.publicado, temas: t.temas, video: t.video, veiculos: 1 });
+    });
+    secao('Pautas do momento', (dados.pautas || []).filter((p) => !p.rotina).slice(0, 25), cartaoPauta);
+    secao('Falas e vídeos repercutindo', dados.falas_e_videos, cartaoPauta);
+    app.append(el('p', { class: 'dica', text: 'Vídeo: o radar mostra a fala que está repercutindo. Se quiser comentar, baixe o vídeo da fonte e mande para o Claude; ele monta o post com crédito.' }));
   }
 
   // ---------- leitor ----------
@@ -524,7 +604,9 @@
   async function rotear() {
     const m = location.hash.match(/^#\/c\/([a-z0-9-]+)$/);
     window.scrollTo(0, 0);
-    if (m) await telaCarrossel(m[1]); else await telaLista();
+    if (m) await telaCarrossel(m[1]);
+    else if (location.hash === '#/radar') await telaRadar();
+    else await telaLista();
   }
   voltar.addEventListener('click', () => { location.hash = '#/'; });
   window.addEventListener('hashchange', rotear);
