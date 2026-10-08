@@ -258,7 +258,7 @@
       const txt = `Kaique Studio — faz um carrossel desta pauta: “${p.titulo}” (${p.veiculo}) ${p.url}`;
       let ok = true;
       try { await navigator.clipboard.writeText(txt); } catch { ok = false; }
-      botao.textContent = ok ? 'Pedido copiado ✓' : 'Copie o texto abaixo';
+      botao.textContent = ok ? 'Pedido copiado ✓' : 'Use a caixa ↓';
       setTimeout(() => { botao.textContent = 'Quero esse'; }, 3500);
       aviso(ok ? 'Pedido copiado. Cole na conversa com o Claude — ou peça direto na caixa de aprovação (aba Radar).'
                : 'Não deu para copiar aqui. Peça direto na caixa de aprovação (aba Radar).', 'https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys');
