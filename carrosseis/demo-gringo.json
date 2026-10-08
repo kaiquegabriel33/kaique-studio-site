@@ -1,0 +1,250 @@
+{
+  "id": "demo-gringo",
+  "titulo": "O gringo comprou, o brasileiro vendeu",
+  "tipo": "análise",
+  "slides": [
+    {
+      "papel": "gancho",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "No primeiro pregão depois do 1º turno, o gringo colocou ==R$ 10 bilhões== na Bolsa brasileira. Em um dia.\n\nFoi mais do que ele trouxe em setembro inteiro."
+        },
+        {
+          "tipo": "noticia",
+          "veiculo": "InfoMoney",
+          "data": "07/10/2026",
+          "manchete": "Estrangeiros trouxeram R$ 10 bilhões para Bolsa apenas no “Flávio Day”",
+          "linhaFina": "Até dia 2 de outubro, o capital estrangeiro já era positivo em R$ 2,55 bilhões e, após a sessão de segunda, ficou em R$ 12,61 bilhões",
+          "tamManchete": 54,
+          "tamLinhaFina": 31
+        }
+      ],
+      "fonte": "Fonte: B3, via InfoMoney e Exame (07/10/2026)."
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "Só que toda ação comprada foi vendida por alguém. E quem vendeu, nesse dia, foi o brasileiro."
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "h": 466,
+          "titulo": "O gringo comprou, o brasileiro vendeu",
+          "subtitulo": "saldo na B3 em 05/10/2026, por tipo de investidor",
+          "rotulos": [
+            "Estrangeiro",
+            "Pessoa física",
+            "Institucional"
+          ],
+          "valores": [
+            10.06,
+            -5.3,
+            -3.96
+          ],
+          "casas": 2,
+          "sinal": true,
+          "sufixo": " bi",
+          "destaques": [
+            0,
+            1,
+            2
+          ],
+          "fonte": "Fonte: B3, via Exame (07/10/2026). Valores em R$."
+        },
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "A pessoa física fez a ==maior venda do ano== justo no dia em que a Bolsa subiu 7,7%.\n\nAlguém está enxergando uma coisa que o outro não está."
+        }
+      ],
+      "fonte": ""
+    },
+    {
+      "papel": "evidência",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "Antes de chamar de amor à primeira vista: esse gringo já foi embora uma vez este ano."
+        },
+        {
+          "tipo": "grafico",
+          "formato": "linha",
+          "h": 620,
+          "titulo": "Entrou, saiu e voltou",
+          "subtitulo": "saldo acumulado do estrangeiro na B3 em 2026, R$ bi",
+          "rotulos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr",
+            "mai",
+            "jun",
+            "jul",
+            "ago",
+            "set",
+            "5/out"
+          ],
+          "valores": [
+            26.3,
+            42.5,
+            53.4,
+            56.6,
+            41.6,
+            33.8,
+            36.4,
+            18.3,
+            27.4,
+            40.0
+          ],
+          "min": 0,
+          "max": 64,
+          "grade": [
+            0,
+            20,
+            40,
+            60
+          ],
+          "eixoY": true,
+          "casas": 1,
+          "anotacoes": [
+            {
+              "i": 3,
+              "texto": "56,6 bi\npico em abril",
+              "lado": "acima"
+            },
+            {
+              "i": 7,
+              "texto": "18,3 bi\n−38 bi em 4 meses",
+              "lado": "abaixo"
+            },
+            {
+              "i": 9,
+              "texto": "40,0 bi",
+              "lado": "acima",
+              "alinhar": "dir"
+            }
+          ],
+          "fonte": "Elaboração própria: B3 e Elos Ayta, mercado secundário. Fim de cada mês."
+        },
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "De maio a agosto, saíram R$ 38 bilhões. Quase ==70% do que tinha entrado== até abril."
+        }
+      ],
+      "fonte": ""
+    },
+    {
+      "papel": "interpretação",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "E a eleição não explica tudo. Para o JPMorgan, o Brasil é o ==“Anti-AI market”==: um hedge, dentro dos emergentes, para quem teme a bolha da IA."
+        },
+        {
+          "tipo": "noticia",
+          "veiculo": "Estadão",
+          "data": "06/10/2026",
+          "manchete": "JPMorgan volta a recomendar Brasil após eleição e vê alta de até 20%",
+          "linhaFina": "Banco havia rebaixado o País em agosto e agora prefere ações que podem ganhar com a queda dos juros"
+        },
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "A ironia: a Bolsa brasileira ficou interessante justamente ==pelo que ela não tem.==\n\nE o mesmo banco tinha rebaixado o Brasil dois meses antes."
+        }
+      ],
+      "fonte": "Fontes: relatório do JPMorgan, via Estadão/Folha Vitória (06/10/2026); The Rio Times (11/08/2026)."
+    },
+    {
+      "papel": "conclusão",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "A pergunta que importa: é o começo de um ciclo ou um rali com data de validade marcada para 25/10?"
+        },
+        {
+          "tipo": "noticia",
+          "veiculo": "Money Times",
+          "data": "07/10/2026",
+          "manchete": "Ibovespa pode subir mais 30% após rali eleitoral? BTG vê espaço para novas altas",
+          "linhaFina": "“Uma reprecificação sustentada das ações brasileiras dependerá da qualidade do novo gabinete e da eficácia do pacote fiscal”, diz o BTG."
+        },
+        {
+          "tipo": "texto",
+          "tam": 37,
+          "texto": "O mercado não espera você ficar confortável com a manchete para subir.\n\nMas também ==não avisa antes de descer.=="
+        }
+      ],
+      "fonte": "Fonte: Money Times (07/10/2026), relatório do BTG Pactual."
+    }
+  ],
+  "legenda": "Na segunda-feira, o gringo colocou R$ 10,06 bilhões na Bolsa brasileira. Maior entrada diária do ano, no mesmo dia em que o Ibovespa subiu 7,7% e fechou em recorde.\n\nDo outro lado do balcão, quem vendeu foi o brasileiro: R$ 5,30 bilhões da pessoa física (a maior venda do ano) e R$ 3,96 bilhões dos institucionais.\n\nSó que esse mesmo gringo tirou R$ 38 bilhões entre maio e agosto. E não é só eleição: para o JPMorgan, o Brasil virou o “Anti-AI market”, uma espécie de hedge dentro dos emergentes para quem teme a bolha da inteligência artificial. O mesmo banco que tinha rebaixado o país em agosto.\n\nFluxo de um dia não é tendência. O BTG vê espaço para até 30% de alta, mas condiciona isso à qualidade do novo governo e ao pacote fiscal. E o segundo turno é dia 25.\n\nFontes: B3; Elos Ayta; InfoMoney, Exame e Money Times (07/10/2026); Estadão/Folha Vitória (06/10/2026); The Rio Times (11/08/2026).\n\nIsto é análise, não recomendação de investimento.",
+  "status": "pronto",
+  "criado": "2026-10-08",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Estrangeiros trouxeram R$ 10 bilhões para Bolsa apenas no “Flávio Day” (07/10/2026)",
+      "url": "https://www.infomoney.com.br/mercados/estrangeiros-trouxeram-r-10-bilhoes-para-bolsa-apenas-no-flavio-day/"
+    },
+    {
+      "titulo": "Exame — Estrangeiro despeja R$ 10 bi na bolsa após 1º turno (07/10/2026)",
+      "url": "https://exame.com/invest/mercados/estrangeiro-despeja-r-10-bi-na-bolsa-apos-1o-turno-maior-aporte-diario-do-ano/"
+    },
+    {
+      "titulo": "Exame — Rali eleitoral não tira o investidor brasileiro da ponta vendedora (08/10/2026)",
+      "url": "https://exame.com/invest/mercados/gringo-sustenta-rali-da-bolsa-enquanto-investidor-local-ainda-vende-acoes/"
+    },
+    {
+      "titulo": "Bora Investir (B3) — fluxo de janeiro de 2026",
+      "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/estrangeiros-ingressam-com-r-2631-bilhoes-em-acoes-na-b3-em-janeiro-de-2026/"
+    },
+    {
+      "titulo": "InfoMoney — fluxo de fevereiro de 2026",
+      "url": "https://www.infomoney.com.br/mercados/fluxo-estrangeiro-na-b3-soma-16-bi-em-fevereiro-e-totaliza-r-425-bi-em-2026/"
+    },
+    {
+      "titulo": "InfoMoney — fluxo de março e 1º trimestre de 2026",
+      "url": "https://www.infomoney.com.br/mercados/estrangeiros-aportam-r-117-bilhoes-em-marco-e-somam-entradas-de-r-53-bi-no-1o-tri/"
+    },
+    {
+      "titulo": "InfoMoney — fluxo do 1º semestre de 2026",
+      "url": "https://www.infomoney.com.br/mercados/estrangeiros-trazem-r-338-bi-para-b3-no-semestre-saida-em-junho-foi-de-r-78-bi/"
+    },
+    {
+      "titulo": "Business Moment — saída de agosto de 2026",
+      "url": "https://businessmoment.com.br/fluxo-estrangeiro-b3-agosto-2026/"
+    },
+    {
+      "titulo": "Estadão via Folha Vitória — JPMorgan volta a recomendar Brasil (“Anti-AI market”) (06/10/2026)",
+      "url": "https://www.folhavitoria.com.br/economia/jpmorgan-volta-a-recomendar-brasil-apos-eleicao-e-ve-alta-de-ate-20-veja-as-acoes-favoritas/"
+    },
+    {
+      "titulo": "InfoMoney — correção da IA e rotação para o Brasil (24/07/2026)",
+      "url": "https://www.infomoney.com.br/mercados/jpmorgan-faz-alerta-alivio-no-fluxo-estrangeiro-para-bolsa-brasileira-nao-deve-durar/"
+    },
+    {
+      "titulo": "The Rio Times — JPMorgan rebaixa o Brasil (11/08/2026)",
+      "url": "https://www.riotimesonline.com/jpmorgan-downgrade-brazil-ibovespa-2026/"
+    },
+    {
+      "titulo": "Money Times — BTG vê espaço para alta de até 30% (07/10/2026)",
+      "url": "https://www.moneytimes.com.br/ibovespa-pode-subir-mais-30-apos-rali-eleitoral-btg-ve-espaco-para-novas-altas-e-aponta-acoes-favoritas-apsa/"
+    }
+  ],
+  "atualizado": "2026-10-08T16:43"
+}

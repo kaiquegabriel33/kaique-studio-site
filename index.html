@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#f3f3f1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Kaique Studio">
+<link rel="apple-touch-icon" href="marca/foto_kaique_original.png">
+<title>Kaique Studio</title>
+<link rel="stylesheet" href="fontes.css">
+<style>
+  /* Layout: lista de carrosséis → leitor de uma coluna, que desliza como no Instagram. */
+  :root {
+    --fundo: #f3f3f1; --superficie: #ffffff; --tinta: #111111; --suave: #5d5d5a; --linha: #dcdcd7;
+    --marca: #ffe873; --ok: #1f7a3d; --alerta: #b42318;
+    --fonte: Montserrat, system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --fundo: #121212; --superficie: #1c1c1b; --tinta: #f2f2ef; --suave: #a6a6a1;
+      --linha: #33332f; --marca: #6b5a00; --ok: #6fd391; --alerta: #ff8a7a; color-scheme: dark; }
+  }
+  :root[data-theme="dark"] { --fundo: #121212; --superficie: #1c1c1b; --tinta: #f2f2ef; --suave: #a6a6a1;
+    --linha: #33332f; --marca: #6b5a00; --ok: #6fd391; --alerta: #ff8a7a; color-scheme: dark; }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--fundo); color: var(--tinta); font-family: var(--fonte); font-size: 15px; line-height: 1.45;
+         padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px); }
+  button, a.botao { font: inherit; font-weight: 700; font-size: 14px; border-radius: 999px; padding: 11px 18px; cursor: pointer;
+    border: 1.5px solid var(--tinta); background: var(--tinta); color: var(--fundo); text-decoration: none; display: inline-flex;
+    align-items: center; justify-content: center; gap: 6px; min-height: 44px; }
+  button.sec, a.botao.sec { background: transparent; color: var(--tinta); }
+  button:disabled { opacity: .45; cursor: default; }
+  button:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px solid var(--marca); outline-offset: 2px; }
+
+  .barra { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; display: flex; align-items: center; gap: 12px;
+    padding: 12px 16px; background: color-mix(in srgb, var(--fundo) 92%, transparent); backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--linha); }
+  .barra h1 { margin: 0; font-size: 17px; font-weight: 800; letter-spacing: -.01em; flex: 1; min-width: 0;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .barra .voltar { padding: 8px 14px; min-height: 40px; }
+  .conteudo { max-width: 1100px; margin: 0 auto; padding: 18px 16px 48px; }
+
+  /* lista */
+  .grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+  .card { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 8px; text-align: left;
+    color: inherit; cursor: pointer; display: flex; flex-direction: column; gap: 8px; min-width: 0; font: inherit; }
+  .card canvas { width: 100%; aspect-ratio: 4 / 5; height: auto; border-radius: 8px; display: block; background: var(--linha); }
+  .card .t { font-weight: 700; font-size: 13.5px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .m { display: flex; justify-content: space-between; align-items: center; gap: 6px; color: var(--suave); font-size: 12px; }
+  .pilula { font-size: 11px; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--linha); text-transform: lowercase; }
+  .pilula.pronto { border-color: var(--ok); color: var(--ok); }
+  .vazio { color: var(--suave); padding: 40px 0; text-align: center; }
+  .dica { margin-top: 26px; color: var(--suave); font-size: 13.5px; border-top: 1px solid var(--linha); padding-top: 16px; }
+
+  /* leitor */
+  .leitor { display: grid; grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  @media (min-width: 900px) { .leitor { grid-template-columns: minmax(0, 520px) minmax(0, 1fr); align-items: start; } }
+  .palco { position: relative; }
+  .trilho { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; border-radius: 10px; scrollbar-width: none;
+    background: var(--linha); }
+  .trilho::-webkit-scrollbar { display: none; }
+  .trilho canvas { flex: 0 0 100%; width: 100%; height: auto; aspect-ratio: 4 / 5; scroll-snap-align: start; display: block; }
+  .contador { position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,.62); color: #fff; font-size: 12px; font-weight: 700;
+    padding: 3px 10px; border-radius: 999px; }
+  .pontos { display: flex; justify-content: center; gap: 6px; margin-top: 10px; }
+  .pontos button { width: 8px; height: 8px; min-height: 0; padding: 0; border-radius: 50%; border: none; background: var(--linha); }
+  .pontos button[aria-current="true"] { background: var(--tinta); }
+  .alerta { color: var(--alerta); font-size: 13px; font-weight: 700; margin-top: 8px; }
+  .acoes { display: flex; flex-wrap: wrap; gap: 8px; }
+  .acoes button, .acoes a.botao { flex: 1 1 150px; }
+  .lado { display: flex; flex-direction: column; gap: 18px; min-width: 0; }
+  .bloco { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 14px 16px; min-width: 0; }
+  .bloco h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 0 0 8px; font-weight: 700; }
+  .legenda { white-space: pre-wrap; font-size: 14.5px; margin: 0; overflow-wrap: anywhere; }
+  .fontes { margin: 0; padding-left: 18px; font-size: 13.5px; }
+  .fontes a { color: var(--tinta); overflow-wrap: anywhere; }
+  .status { font-size: 13px; color: var(--suave); min-height: 1.3em; }
+  details summary { cursor: pointer; font-weight: 700; }
+  .edicao { display: grid; gap: 12px; margin-top: 12px; }
+  .edicao label { font-size: 12px; font-weight: 700; color: var(--suave); display: block; margin-bottom: 4px; }
+  .edicao textarea { width: 100%; min-height: 84px; font: inherit; font-size: 14px; padding: 10px; border-radius: 10px;
+    border: 1px solid var(--linha); background: var(--fundo); color: var(--tinta); resize: vertical; }
+  .nota { font-size: 12.5px; color: var(--suave); }
+  @media (prefers-reduced-motion: reduce) { .trilho { scroll-behavior: auto; } }
+</style>
+</head>
+<body>
+<header class="barra">
+  <button class="sec voltar" id="voltar" hidden>← Voltar</button>
+  <h1 id="titulo">Kaique Studio</h1>
+</header>
+<main class="conteudo" id="app"><p class="vazio">Carregando carrosséis…</p></main>
+
+<script src="vendor/jszip.min.js"></script>
+<script src="render.js"></script>
+<script>
+(function () {
+  'use strict';
+  const R = window.KSRender;
+  const app = document.getElementById('app');
+  const titulo = document.getElementById('titulo');
+  const voltar = document.getElementById('voltar');
+  const LOCAL = ['localhost', '127.0.0.1'].includes(location.hostname);
+  let indice = [];
+  const cache = new Map();
+
+  const el = (tag, props = {}, ...filhos) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(props)) {
+      if (k === 'class') n.className = v; else if (k === 'text') n.textContent = v;
+      else if (k.startsWith('on')) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v);
+    }
+    for (const f of filhos) if (f) n.append(f);
+    return n;
+  };
+  const dataBR = (s) => { if (!s) return ''; const [a, m, d] = s.slice(0, 10).split('-'); return d ? `${d}/${m}/${a}` : s; };
+  const semCache = () => `?v=${Date.now()}`;
+
+  async function carregarIndice() {
+    const r = await fetch('carrosseis/index.json' + semCache());
+    if (!r.ok) throw new Error('índice não encontrado');
+    indice = await r.json();
+  }
+  async function carregarCarrossel(id) {
+    if (cache.has(id)) return cache.get(id);
+    const r = await fetch(`carrosseis/${encodeURIComponent(id)}.json` + semCache());
+    if (!r.ok) throw new Error('carrossel não encontrado');
+    const d = await r.json();
+    cache.set(id, d);
+    return d;
+  }
+
+  // ---------- lista ----------
+  async function telaLista() {
+    titulo.textContent = 'Kaique Studio';
+    voltar.hidden = true;
+    document.title = 'Kaique Studio';
+    app.innerHTML = '';
+    if (!indice.length) {
+      app.append(el('p', { class: 'vazio', text: 'Nenhum carrossel publicado ainda.' }));
+    } else {
+      const grade = el('div', { class: 'grade' });
+      app.append(grade);
+      await R.carregarFontes();
+      for (const it of indice) {
+        const cv = el('canvas', { width: '432', height: '540', 'aria-hidden': 'true' });
+        const card = el('button', { class: 'card', onclick: () => { location.hash = '#/c/' + it.id; } },
+          cv,
+          el('span', { class: 't', text: it.titulo }),
+          el('span', { class: 'm' }, el('span', { text: dataBR(it.atualizado) }),
+            el('span', { class: 'pilula ' + (it.status || ''), text: it.status || 'rascunho' })));
+        grade.append(card);
+        miniatura(it.id, cv);
+      }
+    }
+    app.append(el('p', { class: 'dica', text: 'Para criar um carrossel novo, mande a pauta (link, print ou ideia) para o Claude e peça: “faz um carrossel sobre isso”. Ele aparece aqui quando estiver pronto.' }));
+  }
+
+  const grande = document.createElement('canvas');
+  grande.width = R.W; grande.height = R.H;
+  async function miniatura(id, cv) {
+    try {
+      const d = await carregarCarrossel(id);
+      await R.preCarregar([d.slides[0]]);
+      R.desenharSlide(grande.getContext('2d'), d.slides[0]);
+      const ctx = cv.getContext('2d');
+      ctx.imageSmoothingQuality = 'high';
+      ctx.drawImage(grande, 0, 0, cv.width, cv.height);
+    } catch (e) { console.warn(e); }
+  }
+
+  // ---------- leitor ----------
+  async function telaCarrossel(id) {
+    voltar.hidden = false;
+    app.innerHTML = '<p class="vazio">Montando as páginas…</p>';
+    let d;
+    try { d = structuredClone(await carregarCarrossel(id)); }
+    catch { app.innerHTML = ''; app.append(el('p', { class: 'vazio', text: 'Esse carrossel não existe (ou ainda não foi publicado).' })); return; }
+    titulo.textContent = d.titulo || id;
+    document.title = (d.titulo || id) + ' · Kaique Studio';
+    await R.carregarFontes();
+    await R.preCarregar(d.slides);
+
+    const trilho = el('div', { class: 'trilho', role: 'region', 'aria-label': 'Páginas do carrossel' });
+    const canvases = d.slides.map((s, i) => {
+      const c = el('canvas', { width: String(R.W), height: String(R.H), 'aria-label': `Página ${i + 1}` });
+      trilho.append(c);
+      return c;
+    });
+    const contador = el('span', { class: 'contador', text: `1/${d.slides.length}` });
+    const pontos = el('div', { class: 'pontos' });
+    const pontosBtns = d.slides.map((_, i) => {
+      const b = el('button', { 'aria-label': `Ir para a página ${i + 1}`, onclick: () => irPara(i) });
+      pontos.append(b); return b;
+    });
+    const alerta = el('p', { class: 'alerta', hidden: '' });
+    let atual = 0;
+    function irPara(i) { trilho.scrollTo({ left: i * trilho.clientWidth, behavior: 'smooth' }); }
+    trilho.addEventListener('scroll', () => {
+      const i = Math.round(trilho.scrollLeft / Math.max(1, trilho.clientWidth));
+      if (i !== atual) { atual = i; marcar(); }
+    }, { passive: true });
+    function marcar() {
+      contador.textContent = `${atual + 1}/${d.slides.length}`;
+      pontosBtns.forEach((b, i) => b.setAttribute('aria-current', i === atual ? 'true' : 'false'));
+    }
+    function desenhar(i) {
+      const lay = R.desenharSlide(canvases[i].getContext('2d'), d.slides[i]);
+      return lay;
+    }
+    function desenharTudo() {
+      const estouro = [];
+      d.slides.forEach((_, i) => { if (desenhar(i).estoura) estouro.push(i + 1); });
+      alerta.hidden = !estouro.length;
+      alerta.textContent = estouro.length ? `Atenção: página ${estouro.join(', ')} passa da área útil.` : '';
+    }
+    desenharTudo(); marcar();
+
+    const status = el('p', { class: 'status', role: 'status' });
+    const nomeArq = (i) => `${id}-${String(i + 1).padStart(2, '0')}.png`;
+    const blobs = () => Promise.all(canvases.map((c) => R.canvasParaBlob(c)));
+
+    async function salvarNoCelular() {
+      status.textContent = 'Preparando as imagens…';
+      const bs = await blobs();
+      const arquivos = bs.map((b, i) => new File([b], nomeArq(i), { type: 'image/png' }));
+      if (navigator.canShare && navigator.canShare({ files: arquivos })) {
+        try {
+          await navigator.share({ files: arquivos, title: d.titulo || id });
+          status.textContent = 'Pronto. No menu, toque em “Salvar imagens” para mandar para a galeria.';
+        } catch (e) {
+          status.textContent = e && e.name === 'AbortError' ? 'Cancelado.' : 'Não deu para abrir o compartilhamento. Use “Baixar ZIP”.';
+        }
+        return;
+      }
+      bs.forEach((b, i) => baixar(b, nomeArq(i)));
+      status.textContent = 'Imagens baixadas (este navegador não tem o menu de compartilhar).';
+    }
+    function baixar(blob, nome) {
+      const a = el('a', { href: URL.createObjectURL(blob), download: nome });
+      document.body.append(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    }
+    async function baixarZip() {
+      status.textContent = 'Montando o ZIP…';
+      const zip = new JSZip();
+      (await blobs()).forEach((b, i) => zip.file(nomeArq(i), b));
+      if (d.legenda) zip.file('legenda.txt', d.legenda + '\n');
+      baixar(await zip.generateAsync({ type: 'blob' }), `${id}.zip`);
+      status.textContent = 'ZIP baixado.';
+    }
+    async function copiar(texto, ok) {
+      try { await navigator.clipboard.writeText(texto); status.textContent = ok; }
+      catch { status.textContent = 'Não deu para copiar automaticamente: selecione o texto e copie.'; }
+    }
+
+    const acoes = el('div', { class: 'acoes' },
+      el('button', { onclick: salvarNoCelular, text: 'Salvar no celular' }),
+      el('button', { class: 'sec', onclick: baixarZip, text: 'Baixar ZIP' }),
+      d.legenda ? el('button', { class: 'sec', onclick: () => copiar(d.legenda, 'Legenda copiada.'), text: 'Copiar legenda' }) : null);
+    if (LOCAL) acoes.append(el('button', { class: 'sec', onclick: () => conferirLocal(id, canvases, status), text: 'Exportar e conferir (local)' }));
+
+    const lado = el('div', { class: 'lado' });
+    lado.append(el('div', { class: 'bloco' }, acoes, status));
+    if (d.legenda) lado.append(el('section', { class: 'bloco' }, el('h2', { text: 'Legenda' }), el('p', { class: 'legenda', text: d.legenda })));
+    if (Array.isArray(d.fontes) && d.fontes.length) {
+      const ul = el('ul', { class: 'fontes' });
+      d.fontes.forEach((f) => ul.append(el('li', {}, f.url ? el('a', { href: f.url, target: '_blank', rel: 'noopener', text: f.titulo || f.url }) : el('span', { text: f.titulo }))));
+      lado.append(el('section', { class: 'bloco' }, el('h2', { text: 'Fontes' }), ul));
+    }
+    lado.append(editorTextos(d, desenharTudo, (txt) => copiar(txt, 'Alterações copiadas. Cole no Claude para gravar de vez.')));
+
+    app.innerHTML = '';
+    app.append(el('div', { class: 'leitor' }, el('div', { class: 'palco' }, trilho, contador, pontos, alerta), lado));
+  }
+
+  // Ajuste rápido de texto: vale para salvar agora; para gravar de vez, vai pro Claude.
+  function editorTextos(d, redesenhar, copiarAlteracoes) {
+    const det = el('details', { class: 'bloco' });
+    det.append(el('summary', { text: 'Ajustar textos' }));
+    const caixa = el('div', { class: 'edicao' });
+    caixa.append(el('p', { class: 'nota', text: 'O ajuste vale para salvar as imagens agora. Para gravar de vez no site, copie as alterações e mande para o Claude.' }));
+    const mudancas = new Map();
+    let t;
+    d.slides.forEach((s, i) => (s.elementos || []).forEach((e, j) => {
+      const campos = e.tipo === 'texto' ? ['texto'] : e.tipo === 'noticia' ? ['manchete', 'linhaFina'] : e.tipo === 'grafico' ? ['titulo'] : [];
+      campos.forEach((campo) => {
+        if (typeof e[campo] !== 'string') return;
+        const idc = `ed-${i}-${j}-${campo}`;
+        const ta = el('textarea', { id: idc });
+        ta.value = e[campo];
+        ta.addEventListener('input', () => {
+          e[campo] = ta.value;
+          mudancas.set(idc, { pagina: i + 1, campo, texto: ta.value });
+          clearTimeout(t); t = setTimeout(redesenhar, 250);
+        });
+        caixa.append(el('div', {}, el('label', { for: idc, text: `Página ${i + 1} · ${campo === 'linhaFina' ? 'linha fina' : campo}` }), ta));
+      });
+    }));
+    caixa.append(el('button', { class: 'sec', text: 'Copiar alterações para o Claude', onclick: () => {
+      if (!mudancas.size) return copiarAlteracoes('Nenhuma alteração.');
+      const txt = 'Kaique Studio — alterações no carrossel ' + d.id + ':\n' +
+        [...mudancas.values()].map((m) => `• Página ${m.pagina} (${m.campo}): ${m.texto}`).join('\n');
+      copiarAlteracoes(txt);
+    } }));
+    det.append(caixa);
+    return det;
+  }
+
+  // Só no computador, com o servidor local: grava e confere os PNGs (1080 × 1350).
+  async function conferirLocal(id, canvases, status) {
+    status.textContent = 'Exportando…';
+    const fd = new FormData();
+    for (let i = 0; i < canvases.length; i++) {
+      fd.append(`pagina_${String(i + 1).padStart(2, '0')}`, await R.canvasParaBlob(canvases[i]), `p${i + 1}.png`);
+    }
+    try {
+      const j = await (await fetch(`/api/exportar/${encodeURIComponent(id)}`, { method: 'POST', body: fd })).json();
+      window.__ksExport = j;
+      status.textContent = j.ok ? `Conferido e gravado em ${j.pasta}` : `Falhou: ${j.erro}`;
+    } catch { status.textContent = 'Servidor local não respondeu.'; }
+  }
+
+  async function rotear() {
+    const m = location.hash.match(/^#\/c\/([a-z0-9-]+)$/);
+    window.scrollTo(0, 0);
+    if (m) await telaCarrossel(m[1]); else await telaLista();
+  }
+  voltar.addEventListener('click', () => { location.hash = '#/'; });
+  window.addEventListener('hashchange', rotear);
+  carregarIndice().then(rotear).catch(() => {
+    app.innerHTML = '';
+    app.append(el('p', { class: 'vazio', text: 'Não consegui carregar a lista de carrosséis. Atualize a página.' }));
+  });
+})();
+</script>
+</body>
+</html>
