@@ -208,8 +208,8 @@
   // dos veículos). "Quero esse" copia o pedido pronto para colar no Claude.
   function abas(ativa) {
     const nav = el('nav', { class: 'abas', 'aria-label': 'Seções' });
-    [['#/', 'Carrosséis'], ['#/radar', 'Radar de pautas']].forEach(([href, txt]) => {
-      const a = el('a', { href, text: txt });
+    [['#/', 'Carrosséis'], ['#/radar', 'Radar de pautas'], ['https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys', 'Aprovar sugestões ↗']].forEach(([href, txt]) => {
+      const a = el('a', href.startsWith('http') ? { href, text: txt, target: '_blank', rel: 'noopener' } : { href, text: txt });
       if (href === ativa) a.setAttribute('aria-current', 'page');
       nav.append(a);
     });

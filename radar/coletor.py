@@ -196,6 +196,10 @@ def coletar(cfg: dict) -> dict:
         rotina = e_rotina(lider) or sum(map(e_rotina, g)) >= len(g) / 2
         score = (max(i["pontos"] for i in g) + 3 * min(len(veiculos) - 1, 6) + max(0, 10 - horas / 2.4)
                  - (12 if rotina else 0))
+        # link direto do veículo, quando algum item do grupo tiver (Google Notícias só redireciona)
+        diretos = [i for i in g if "news.google.com" not in i["url"]]
+        if "news.google.com" in lider["url"] and diretos:
+            lider = max(diretos, key=lambda i: (i["veiculo"] in preferidos, -len(i["titulo"])))
         pautas.append({
             "id": hashlib.sha1(normalizar(lider["titulo"]).encode()).hexdigest()[:10],
             "titulo": lider["titulo"], "url": lider["url"], "veiculo": lider["veiculo"],
