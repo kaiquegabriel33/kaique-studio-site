@@ -63,7 +63,14 @@
   .trilho { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; border-radius: 10px; scrollbar-width: none;
     background: var(--linha); }
   .trilho::-webkit-scrollbar { display: none; }
-  .trilho canvas { flex: 0 0 100%; width: 100%; height: auto; aspect-ratio: 4 / 5; scroll-snap-align: start; display: block; }
+  .trilho canvas { flex: 0 0 100%; width: 100%; height: auto; scroll-snap-align: start; display: block; }
+  .video-palco canvas { width: 100%; height: auto; display: block; border-radius: 10px; background: #000; }
+  .campos { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .campos label { font-size: 12px; font-weight: 700; color: var(--suave); display: grid; gap: 4px; }
+  .campos input { font: inherit; padding: 9px 10px; border-radius: 10px; border: 1px solid var(--linha); background: var(--fundo); color: var(--tinta); min-width: 0; }
+  .arquivo { display: grid; gap: 6px; }
+  .arquivo input { font: inherit; font-size: 14px; max-width: 100%; }
+  progress { width: 100%; height: 10px; }
   .contador { position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,.62); color: #fff; font-size: 12px; font-weight: 700;
     padding: 3px 10px; border-radius: 999px; }
   .pontos { display: flex; justify-content: center; gap: 6px; margin-top: 10px; }
@@ -184,10 +191,11 @@
     document.title = (d.titulo || id) + ' · Kaique Studio';
     await R.carregarFontes();
     await R.preCarregar(d.slides);
+    if (d.formato === 'video') return telaVideo(d);
 
     const trilho = el('div', { class: 'trilho', role: 'region', 'aria-label': 'Páginas do carrossel' });
     const canvases = d.slides.map((s, i) => {
-      const c = el('canvas', { width: String(R.W), height: String(R.H), 'aria-label': `Página ${i + 1}` });
+      const c = el('canvas', { width: String(R.W), height: String(R.alturaDe(s)), 'aria-label': `Página ${i + 1}` });
       trilho.append(c);
       return c;
     });
@@ -276,6 +284,162 @@
 
     app.innerHTML = '';
     app.append(el('div', { class: 'leitor' }, el('div', { class: 'palco' }, trilho, contador, pontos, alerta), lado));
+  }
+
+  // ---------- vídeo comentado ----------
+  // O vídeo é escolhido no próprio aparelho e nunca sai dele: o app desenha a
+  // página (cabeçalho + comentário) com o vídeo dentro e grava o arquivo aqui mesmo.
+  async function telaVideo(d) {
+    const id = d.id, slide = d.slides[0];
+    const elVideo = slide.elementos.find((e) => e.tipo === 'video');
+    const cv = el('canvas', { width: String(R.W), height: String(R.alturaDe(slide)), 'aria-label': 'Prévia do vídeo' });
+    const ctx = cv.getContext('2d');
+    const status = el('p', { class: 'status', role: 'status' });
+    const barra = el('progress', { max: '100', value: '0', hidden: '' });
+    const video = document.createElement('video');
+    video.playsInline = true; video.preload = 'auto';
+    let pronto = false, gravando = false, arquivoFinal = null, laco = 0;
+
+    function desenhar() {
+      const s = { ...slide, elementos: slide.elementos.map((e) => (e.tipo === 'video' ? { ...e, _quadro: pronto ? video : null } : e)) };
+      R.desenharSlide(ctx, s);
+    }
+    function loop() { desenhar(); laco = requestAnimationFrame(loop); }
+    desenhar();
+
+    const entrada = el('input', { type: 'file', accept: 'video/*', id: 'arquivo-video' });
+    const inicio = el('input', { type: 'number', min: '0', step: '0.5', value: '0', id: 'v-inicio', inputmode: 'decimal' });
+    const fim = el('input', { type: 'number', min: '0', step: '0.5', value: '0', id: 'v-fim', inputmode: 'decimal' });
+    const btnPrevia = el('button', { class: 'sec', text: 'Tocar prévia' });
+    const btnGerar = el('button', { text: 'Gerar vídeo' });
+    const btnSalvar = el('button', { text: 'Salvar no celular' });
+    btnPrevia.disabled = true; btnGerar.disabled = true; btnSalvar.hidden = true;
+
+    function abrir(arquivo) {
+      arquivoFinal = null; btnSalvar.hidden = true;
+      video.src = URL.createObjectURL(arquivo);
+      video.muted = true;
+      status.textContent = 'Carregando o vídeo…';
+      video.onloadeddata = () => {
+        pronto = true;
+        const dur = Math.floor(video.duration * 10) / 10;
+        fim.value = String(Math.min(dur, 90)); fim.max = String(dur); inicio.max = String(dur);
+        video.currentTime = Math.min(0.1, video.duration);
+        btnPrevia.disabled = false; btnGerar.disabled = false;
+        status.textContent = `Vídeo de ${dur.toFixed(1)} s. Ajuste início e fim se quiser cortar (máx. 90 s).`;
+        cancelAnimationFrame(laco); loop();
+      };
+      video.onerror = () => { status.textContent = 'Não consegui abrir esse vídeo. Tente outro arquivo (MP4 ou MOV).'; };
+    }
+    entrada.addEventListener('change', () => { if (entrada.files && entrada.files[0]) abrir(entrada.files[0]); });
+
+    btnPrevia.addEventListener('click', async () => {
+      if (!video.paused) { video.pause(); btnPrevia.textContent = 'Tocar prévia'; return; }
+      video.currentTime = Number(inicio.value) || 0;
+      video.muted = false;
+      try { await video.play(); btnPrevia.textContent = 'Pausar'; } catch { status.textContent = 'Toque de novo para tocar.'; }
+    });
+    video.addEventListener('timeupdate', () => {
+      const f = Number(fim.value) || video.duration;
+      if (!gravando && video.currentTime >= f) { video.pause(); btnPrevia.textContent = 'Tocar prévia'; }
+    });
+
+    function tipoGravacao() {
+      const opcoes = ['video/mp4;codecs=avc1.42E01E,mp4a.40.2', 'video/mp4;codecs=avc1,mp4a', 'video/mp4',
+        'video/webm;codecs=vp9,opus', 'video/webm'];
+      return opcoes.find((t) => window.MediaRecorder && MediaRecorder.isTypeSupported(t)) || '';
+    }
+
+    let audio = null; // AudioContext só pode ligar o <video> uma vez
+    function ligarAudio(fluxo) {
+      try {
+        if (!audio) {
+          const ac = new (window.AudioContext || window.webkitAudioContext)();
+          const origem = ac.createMediaElementSource(video);
+          const destino = ac.createMediaStreamDestination();
+          origem.connect(destino); origem.connect(ac.destination);
+          audio = { ac, destino };
+        }
+        audio.destino.stream.getAudioTracks().forEach((t) => fluxo.addTrack(t));
+      } catch (e) { console.warn('sem áudio', e); }
+    }
+
+    async function gerar() {
+      const ini = Number(inicio.value) || 0, f = Math.min(Number(fim.value) || video.duration, ini + 90);
+      if (f - ini < 1) { status.textContent = 'O trecho precisa ter pelo menos 1 segundo.'; return; }
+      const tipo = tipoGravacao();
+      if (!tipo) { status.textContent = 'Este navegador não grava vídeo. Use o Safari (iPhone) ou o Chrome atualizado.'; return; }
+      gravando = true; btnGerar.disabled = true; btnPrevia.disabled = true; entrada.disabled = true;
+      btnSalvar.hidden = true; barra.hidden = false; barra.value = 0;
+      status.textContent = 'Gravando… o trecho toca uma vez inteiro; deixe a tela aberta.';
+      const fluxo = cv.captureStream(30);
+      ligarAudio(fluxo);
+      if (audio && audio.ac.state === 'suspended') await audio.ac.resume();
+      const partes = [];
+      const gravador = new MediaRecorder(fluxo, { mimeType: tipo, videoBitsPerSecond: 8000000 });
+      gravador.ondataavailable = (ev) => { if (ev.data && ev.data.size) partes.push(ev.data); };
+      const terminou = new Promise((ok) => { gravador.onstop = ok; });
+      video.pause(); video.muted = false;
+      await new Promise((ok) => { video.onseeked = () => { video.onseeked = null; ok(); }; video.currentTime = ini; });
+      gravador.start(500);
+      try { await video.play(); } catch (e) { console.warn(e); }
+      await new Promise((ok) => {
+        const tick = () => {
+          barra.value = Math.min(100, ((video.currentTime - ini) / (f - ini)) * 100);
+          if (video.currentTime >= f || video.ended) return ok();
+          requestAnimationFrame(tick);
+        };
+        tick();
+      });
+      video.pause();
+      gravador.stop();
+      await terminou;
+      fluxo.getTracks().forEach((t) => { if (t.kind === 'video') t.stop(); });
+      gravando = false; barra.hidden = true;
+      btnGerar.disabled = false; btnPrevia.disabled = false; entrada.disabled = false;
+      const ext = tipo.startsWith('video/mp4') ? 'mp4' : 'webm';
+      arquivoFinal = new File(partes, `${id}.${ext}`, { type: tipo.split(';')[0] });
+      btnSalvar.hidden = false;
+      status.textContent = ext === 'mp4'
+        ? `Vídeo pronto (${(arquivoFinal.size / 1048576).toFixed(1)} MB). Toque em “Salvar no celular”.`
+        : 'Vídeo gerado em WebM: este navegador não grava MP4, e o Instagram pode recusar. No iPhone, use o Safari.';
+    }
+    btnGerar.addEventListener('click', gerar);
+
+    btnSalvar.addEventListener('click', async () => {
+      if (!arquivoFinal) return;
+      if (navigator.canShare && navigator.canShare({ files: [arquivoFinal] })) {
+        try { await navigator.share({ files: [arquivoFinal], title: d.titulo || id }); status.textContent = 'No menu, toque em “Salvar vídeo”.'; }
+        catch (e) { status.textContent = e && e.name === 'AbortError' ? 'Cancelado.' : 'Não deu para abrir o compartilhamento.'; }
+        return;
+      }
+      const a = el('a', { href: URL.createObjectURL(arquivoFinal), download: arquivoFinal.name });
+      document.body.append(a); a.click(); a.remove();
+      status.textContent = 'Vídeo baixado.';
+    });
+
+    const formatoTxt = R.alturaDe(slide) > 1400 ? 'Reels / Stories (9:16)' : 'feed (4:5)';
+    const lado = el('div', { class: 'lado' });
+    lado.append(el('div', { class: 'bloco' },
+      el('h2', { text: '1. Escolha o vídeo' }),
+      el('div', { class: 'arquivo' }, el('label', { for: 'arquivo-video', class: 'nota', text: `O vídeo fica só no seu aparelho. Formato do post: ${formatoTxt}.` }), entrada),
+      el('h2', { text: '2. Corte (segundos)' }),
+      el('div', { class: 'campos' }, el('label', { text: 'Início' }, inicio), el('label', { text: 'Fim' }, fim)),
+      el('h2', { text: '3. Gere e salve' }),
+      el('div', { class: 'acoes' }, btnPrevia, btnGerar, btnSalvar),
+      barra, status));
+    if (d.legenda) {
+      lado.append(el('section', { class: 'bloco' }, el('h2', { text: 'Legenda' }), el('p', { class: 'legenda', text: d.legenda }),
+        el('button', { class: 'sec', text: 'Copiar legenda', onclick: async () => {
+          try { await navigator.clipboard.writeText(d.legenda); status.textContent = 'Legenda copiada.'; } catch { status.textContent = 'Selecione o texto e copie.'; }
+        } })));
+    }
+    if (elVideo && elVideo.credito) lado.append(el('p', { class: 'nota', text: 'Crédito do vídeo na arte: ' + elVideo.credito }));
+    lado.append(editorTextos(d, desenhar, (txt) => navigator.clipboard.writeText(txt).then(() => { status.textContent = 'Alterações copiadas.'; }, () => {})));
+
+    app.innerHTML = '';
+    app.append(el('div', { class: 'leitor' }, el('div', { class: 'palco video-palco' }, cv), lado));
+    window.__ksVideo = { abrir, gerar, video, inicio, fim, status, get arquivo() { return arquivoFinal; } };
   }
 
   // Ajuste rápido de texto: vale para salvar agora; para gravar de vez, vai pro Claude.

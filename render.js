@@ -29,7 +29,9 @@
   const MARGEM = 120;               // margem lateral do texto no modelo
   const LARG_UTIL = W - 2 * MARGEM; // 840
   const TOPO_CONTEUDO = 297;        // onde o texto começa no modelo
-  const LIMITE_INFERIOR = 1262;     // acima do rodapé de fonte
+  const LIMITE_INFERIOR = 1262;     // acima do rodapé de fonte (página 1350)
+  const alturaDe = (slide) => (slide && slide.altura) || H;
+  const limiteDe = (slide) => alturaDe(slide) - (H - LIMITE_INFERIOR);
 
   // Caminhos relativos à página que carrega o motor (o site em site/).
   const ATIVOS = Object.assign({
@@ -185,15 +187,16 @@
     if (!img) return;
     const ri = img.width / img.height, rc = w / h;
     let sx = 0, sy = 0, sw = img.width, sh = img.height;
+    const fonte = img._el || img;
     if (ajuste === 'conter') {
       let dw = w, dh = h;
       if (ri > rc) dh = w / ri; else dw = h * ri;
-      ctx.drawImage(img, x + (w - dw) / 2, y + (h - dh) / 2, dw, dh);
+      ctx.drawImage(fonte, x + (w - dw) / 2, y + (h - dh) / 2, dw, dh);
       return;
     }
     if (ri > rc) { sw = img.height * rc; sx = (img.width - sw) * (foco?.x ?? 0.5); }
     else { sh = img.width / rc; sy = (img.height - sh) * (foco?.y ?? 0.35); }
-    ctx.drawImage(img, sx, sy, sw, sh, x, y, w, h);
+    ctx.drawImage(fonte, sx, sy, sw, sh, x, y, w, h);
   }
 
   // ---------- cabeçalho fixo ----------
@@ -684,6 +687,47 @@
     },
   };
 
+  // Vídeo comentado: o quadro atual do <video> (el._quadro) desenhado na caixa.
+  // Sem vídeo escolhido, mostra um marcador. h: 'resto' ocupa até o rodapé.
+  TIPOS.video = {
+    // Caixa disponível (até o rodapé) e caixa real: quando o vídeo já está
+    // carregado, a caixa toma o formato dele (sem faixas pretas) e centraliza.
+    _caixa(el) {
+      const x0 = el.x ?? MARGEM, wMax = el.w ?? LARG_UTIL;
+      const hMax = (el.h === 'resto' || el.h === undefined)
+        ? Math.max(320, (el._limite ?? LIMITE_INFERIOR) - el.y - (el.credito ? 40 : 0)) : el.h;
+      const v = el._quadro;
+      if (!v || !v.videoWidth || el.ajuste === 'cobrir') return { x: x0, w: wMax, h: hMax };
+      const ar = v.videoWidth / v.videoHeight;
+      if (wMax / ar <= hMax) return { x: x0, w: wMax, h: Math.round(wMax / ar) };
+      const w = Math.round(hMax * ar);
+      return { x: x0 + Math.round((wMax - w) / 2), w, h: hMax };
+    },
+    medir(ctx, el) { return this._caixa(el).h + (el.credito ? 40 : 0); },
+    desenhar(ctx, el, tema) {
+      const c = this._caixa(el), r = el.raio ?? 24, v = el._quadro;
+      ctx.save();
+      retRedondo(ctx, c.x, el.y, c.w, c.h, r); ctx.clip();
+      ctx.fillStyle = '#000'; ctx.fillRect(c.x, el.y, c.w, c.h);
+      if (v && v.videoWidth) {
+        desenharImagemAjustada(ctx, { width: v.videoWidth, height: v.videoHeight, _el: v }, c.x, el.y, c.w, c.h, el.ajuste === 'cobrir' ? 'cobrir' : 'conter', el.foco);
+      } else {
+        ctx.fillStyle = 'rgba(255,255,255,.9)';
+        const cx = c.x + c.w / 2, cy = el.y + c.h / 2;
+        ctx.beginPath(); ctx.arc(cx, cy, 54, 0, Math.PI * 2); ctx.fill();
+        ctx.fillStyle = '#000'; ctx.beginPath();
+        ctx.moveTo(cx - 16, cy - 26); ctx.lineTo(cx - 16, cy + 26); ctx.lineTo(cx + 28, cy); ctx.closePath(); ctx.fill();
+        ctx.font = fonteDe(24, 600); ctx.fillStyle = 'rgba(255,255,255,.8)'; ctx.textAlign = 'center';
+        ctx.fillText('o vídeo entra aqui', cx, cy + 100); ctx.textAlign = 'left';
+      }
+      ctx.restore();
+      if (el.credito) {
+        ctx.font = fonteDe(20, 500); ctx.fillStyle = tema.fraco; ctx.textBaseline = 'alphabetic';
+        ctx.fillText(el.credito, c.x, el.y + c.h + 30);
+      }
+    },
+  };
+
   // ---------- página ----------
   // Elementos com y "auto" são empilhados a partir do topo do conteúdo.
   // Se estourar, aperta primeiro os espaços e depois a fonte (até 4 px a
@@ -712,6 +756,7 @@
       if (reduz && e.tam) e.tam = Math.max(e.tipo === 'texto' ? 32 : 26, e.tam - reduz);
       if (reduz && e.tipo === 'comparacao') e.gapSinal = Math.max(44, (e.gapSinal ?? 54) - reduz * 3);
       e._auto = e.y === undefined || e.y === 'auto';
+      e._limite = limiteDe(slide);
       if (e._auto) { e.y = cy + (e.antes ?? 0); }
       e._h = tipo.medir(ctx, e);
       cy = Math.max(cy, e.y + e._h + gap);
@@ -719,26 +764,28 @@
     }
     let fundo = out.reduce((a, e) => Math.max(a, e.y + e._h), 0);
     // Capa: centraliza o bloco na área útil quando sobra espaço.
-    if (slide.centralizar && fundo < LIMITE_INFERIOR) {
-      const desloc = Math.round((LIMITE_INFERIOR - fundo) / 2);
+    const limite = limiteDe(slide);
+    if (slide.centralizar && fundo < limite) {
+      const desloc = Math.round((limite - fundo) / 2);
       out.forEach((e) => { if (e._auto) e.y += desloc; });
       fundo += desloc;
     }
-    return { elementos: out, fundo, estoura: fundo > LIMITE_INFERIOR };
+    return { elementos: out, fundo, estoura: fundo > limite };
   }
 
   function desenharSlide(ctx, slide, opts = {}) {
     const tema = TEMAS[slide.tema] || TEMAS.claro;
     ctx.save();
-    ctx.clearRect(0, 0, W, H);
-    ctx.fillStyle = tema.fundo; ctx.fillRect(0, 0, W, H);
+    const AH = alturaDe(slide);
+    ctx.clearRect(0, 0, W, AH);
+    ctx.fillStyle = tema.fundo; ctx.fillRect(0, 0, W, AH);
     desenharCabecalho(ctx, tema);
     const lay = diagramarSlide(ctx, slide);
     for (const e of lay.elementos) TIPOS[e.tipo].desenhar(ctx, e, tema);
     if (slide.fonte) {
       ctx.textBaseline = 'alphabetic'; ctx.font = fonteDe(20, 500); ctx.fillStyle = tema.fraco;
       const d = diagramarTexto(ctx, slide.fonte, { tam: 20, peso: 500, pesoDestaque: 700, w: LARG_UTIL, lh: 1.35 });
-      desenharTexto(ctx, d, { x: MARGEM, y: H - 52 - d.altura + 20 * 1.35, w: LARG_UTIL, tam: 20, lh: 1.35, peso: 500, pesoDestaque: 700, cor: tema.fraco }, tema);
+      desenharTexto(ctx, d, { x: MARGEM, y: AH - 52 - d.altura + 20 * 1.35, w: LARG_UTIL, tam: 20, lh: 1.35, peso: 500, pesoDestaque: 700, cor: tema.fraco }, tema);
     }
     if (opts.numerar) {
       ctx.font = fonteDe(22, 700); ctx.fillStyle = tema.fraco; ctx.textAlign = 'right';
@@ -751,7 +798,7 @@
   async function renderizarParaCanvas(slide, canvas, opts) {
     await carregarFontes();
     await preCarregar([slide]);
-    canvas.width = W; canvas.height = H;
+    canvas.width = W; canvas.height = alturaDe(slide);
     return desenharSlide(canvas.getContext('2d'), slide, opts);
   }
 
@@ -759,6 +806,6 @@
     return new Promise((ok) => canvas.toBlob(ok, 'image/png'));
   }
 
-  global.KSRender = { W, H, TEMAS, CAB, MARGEM, LARG_UTIL, TOPO_CONTEUDO, LIMITE_INFERIOR, TIPOS,
+  global.KSRender = { W, H, alturaDe, TEMAS, CAB, MARGEM, LARG_UTIL, TOPO_CONTEUDO, LIMITE_INFERIOR, TIPOS,
     carregarFontes, preCarregar, desenharSlide, diagramarSlide, renderizarParaCanvas, canvasParaBlob, diagramarTexto };
 })(window);
