@@ -71,6 +71,10 @@
   .arquivo { display: grid; gap: 6px; }
   .arquivo input { font: inherit; font-size: 14px; max-width: 100%; }
   progress { width: 100%; height: 10px; }
+  .camada-editor { position: absolute; top: 0; left: 0; touch-action: none; cursor: move; z-index: 2; }
+  .palco.editando .trilho { overflow-x: hidden; }
+  .editor select, .editor input { font: inherit; font-size: 14px; padding: 8px 10px; border-radius: 10px; border: 1px solid var(--linha); background: var(--fundo); color: var(--tinta); width: 100%; }
+  .editor h2 { margin-top: 14px; }
   .contador { position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,.62); color: #fff; font-size: 12px; font-weight: 700;
     padding: 3px 10px; border-radius: 999px; }
   .pontos { display: flex; justify-content: center; gap: 6px; margin-top: 10px; }
@@ -126,6 +130,11 @@
   };
   const dataBR = (s) => { if (!s) return ''; const [a, m, d] = s.slice(0, 10).split('-'); return d ? `${d}/${m}/${a}` : s; };
   const semCache = () => `?v=${Date.now()}`;
+  const carregarScript = (src) => new Promise((ok, erro) => {
+    if (document.querySelector(`script[data-src="${src}"]`)) return ok();
+    const s = document.createElement('script'); s.src = src + semCache(); s.dataset.src = src;
+    s.onload = ok; s.onerror = erro; document.head.append(s);
+  });
 
   async function carregarIndice() {
     const r = await fetch('carrosseis/index.json' + semCache());
@@ -194,20 +203,26 @@
     if (d.formato === 'video') return telaVideo(d);
 
     const trilho = el('div', { class: 'trilho', role: 'region', 'aria-label': 'Páginas do carrossel' });
-    const canvases = d.slides.map((s, i) => {
-      const c = el('canvas', { width: String(R.W), height: String(R.alturaDe(s)), 'aria-label': `Página ${i + 1}` });
-      trilho.append(c);
-      return c;
-    });
     const contador = el('span', { class: 'contador', text: `1/${d.slides.length}` });
     const pontos = el('div', { class: 'pontos' });
-    const pontosBtns = d.slides.map((_, i) => {
-      const b = el('button', { 'aria-label': `Ir para a página ${i + 1}`, onclick: () => irPara(i) });
-      pontos.append(b); return b;
-    });
+    let canvases = [], pontosBtns = [];
+    // (re)monta uma tela por página — o editor chama de novo quando muda a ordem ou a quantidade
+    function montarPaginas() {
+      trilho.innerHTML = ''; pontos.innerHTML = '';
+      canvases = d.slides.map((s, i) => {
+        const c = el('canvas', { width: String(R.W), height: String(R.alturaDe(s)), 'aria-label': `Página ${i + 1}` });
+        trilho.append(c);
+        return c;
+      });
+      pontosBtns = d.slides.map((_, i) => {
+        const b = el('button', { 'aria-label': `Ir para a página ${i + 1}`, onclick: () => irPara(i) });
+        pontos.append(b); return b;
+      });
+    }
+    montarPaginas();
     const alerta = el('p', { class: 'alerta', hidden: '' });
     let atual = 0;
-    function irPara(i) { trilho.scrollTo({ left: i * trilho.clientWidth, behavior: 'smooth' }); }
+    function irPara(i, suave = true) { trilho.scrollTo({ left: i * trilho.clientWidth, behavior: suave ? 'smooth' : 'auto' }); atual = i; marcar(); }
     trilho.addEventListener('scroll', () => {
       const i = Math.round(trilho.scrollLeft / Math.max(1, trilho.clientWidth));
       if (i !== atual) { atual = i; marcar(); }
@@ -270,7 +285,24 @@
       el('button', { onclick: salvarNoCelular, text: 'Salvar no celular' }),
       el('button', { class: 'sec', onclick: baixarZip, text: 'Baixar ZIP' }),
       d.legenda ? el('button', { class: 'sec', onclick: () => copiar(d.legenda, 'Legenda copiada.'), text: 'Copiar legenda' }) : null);
-    if (LOCAL) acoes.append(el('button', { class: 'sec', onclick: () => conferirLocal(id, canvases, status), text: 'Exportar e conferir (local)' }));
+    if (LOCAL) {
+      acoes.append(el('button', { class: 'sec', onclick: () => conferirLocal(id, canvases, status), text: 'Exportar e conferir (local)' }));
+      const btnEditar = el('button', { class: 'sec', text: 'Editar (computador)' });
+      btnEditar.addEventListener('click', async () => {
+        btnEditar.disabled = true;
+        await carregarScript('editor.js');
+        window.__ksEditor = KSEditor.abrir({
+          d, el, trilho, palco: document.querySelector('.palco'), lado,
+          canvases: new Proxy([], { get: (_, k) => canvases[k] }),
+          paginaAtual: () => atual,
+          irPara: (i) => irPara(i, false),
+          redesenhar: (i) => { const lay = desenhar(i); return lay; },
+          aoMudarPaginas: () => { montarPaginas(); atual = Math.min(atual, d.slides.length - 1); marcar(); },
+        });
+        document.querySelector('.palco').classList.add('editando');
+      });
+      acoes.append(btnEditar);
+    }
 
     const lado = el('div', { class: 'lado' });
     lado.append(el('div', { class: 'bloco' }, acoes, status));

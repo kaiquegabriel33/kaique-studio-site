@@ -749,10 +749,10 @@
   function empilhar(ctx, slide, gap, reduz) {
     let cy = slide.topo ?? TOPO_CONTEUDO;
     const out = [];
-    for (const el of slide.elementos || []) {
-      const e = { ...el };
+    (slide.elementos || []).forEach((el, idx) => {
+      const e = { ...el, _idx: idx };
       const tipo = TIPOS[e.tipo];
-      if (!tipo) continue;
+      if (!tipo) return;
       if (reduz && e.tam) e.tam = Math.max(e.tipo === 'texto' ? 32 : 26, e.tam - reduz);
       if (reduz && e.tipo === 'comparacao') e.gapSinal = Math.max(44, (e.gapSinal ?? 54) - reduz * 3);
       e._auto = e.y === undefined || e.y === 'auto';
@@ -761,7 +761,7 @@
       e._h = tipo.medir(ctx, e);
       cy = Math.max(cy, e.y + e._h + gap);
       out.push(e);
-    }
+    });
     let fundo = out.reduce((a, e) => Math.max(a, e.y + e._h), 0);
     // Capa: centraliza o bloco na área útil quando sobra espaço.
     const limite = limiteDe(slide);
