@@ -66,6 +66,13 @@
   .chips { display: flex; flex-wrap: wrap; gap: 6px; }
   .pilula.video { border-color: var(--alerta); color: var(--alerta); }
   .pauta .acoes button, .pauta .acoes a.botao { flex: 1 1 120px; min-height: 40px; padding: 8px 14px; }
+  #aviso { position: fixed; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); transform: translate(-50%, 20px);
+    width: min(560px, calc(100% - 32px)); background: var(--tinta); color: var(--fundo); border-radius: 14px; padding: 12px 14px;
+    font-size: 14px; display: flex; gap: 12px; align-items: center; justify-content: space-between; opacity: 0; pointer-events: none;
+    transition: opacity .2s, transform .2s; z-index: 20; }
+  #aviso.visivel { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+  #aviso a { color: var(--fundo); font-weight: 800; white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) { #aviso { transition: none; } }
   .vazio { color: var(--suave); padding: 40px 0; text-align: center; }
   .dica { margin-top: 26px; color: var(--suave); font-size: 13.5px; border-top: 1px solid var(--linha); padding-top: 16px; }
 
@@ -203,6 +210,17 @@
     } catch (e) { console.warn(e); }
   }
 
+  // aviso flutuante: aparece onde a pessoa estiver, some sozinho
+  function aviso(texto, link) {
+    let t = document.getElementById('aviso');
+    if (!t) { t = el('div', { id: 'aviso', role: 'status' }); document.body.append(t); }
+    t.innerHTML = '';
+    t.append(el('span', { text: texto }));
+    if (link) t.append(el('a', { href: link, target: '_blank', rel: 'noopener', text: 'Abrir caixa' }));
+    t.classList.add('visivel');
+    clearTimeout(t._timer); t._timer = setTimeout(() => t.classList.remove('visivel'), 6000);
+  }
+
   // ---------- radar ----------
   // Lista o que o robô do GitHub coletou (Google Trends, Google Notícias e RSS
   // dos veículos). "Quero esse" copia o pedido pronto para colar no Claude.
@@ -236,22 +254,31 @@
     const hora = dados.atualizado ? new Date(dados.atualizado).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }) : '';
     app.append(el('p', { class: 'nota', text: `Atualizado em ${hora} · ${dados.fontes_ok} fontes · Google Trends, Google Notícias e RSS dos veículos.` }), status);
 
-    async function quero(p) {
+    async function quero(p, botao) {
       const txt = `Kaique Studio — faz um carrossel desta pauta: “${p.titulo}” (${p.veiculo}) ${p.url}`;
-      try { await navigator.clipboard.writeText(txt); status.textContent = 'Pedido copiado. Cole na conversa com o Claude.'; }
-      catch { status.textContent = txt; }
+      let ok = true;
+      try { await navigator.clipboard.writeText(txt); } catch { ok = false; }
+      botao.textContent = ok ? 'Pedido copiado ✓' : 'Copie o texto abaixo';
+      setTimeout(() => { botao.textContent = 'Quero esse'; }, 3500);
+      aviso(ok ? 'Pedido copiado. Cole na conversa com o Claude — ou peça direto na caixa de aprovação (aba Radar).'
+               : 'Não deu para copiar aqui. Peça direto na caixa de aprovação (aba Radar).', 'https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys');
     }
     function cartaoPauta(p) {
       const meta = [p.veiculo, haQuanto(p.publicado), p.veiculos > 1 ? `+${p.veiculos - 1} veículos` : ''].filter(Boolean).join(' · ');
       const chips = el('div', { class: 'chips' });
       (p.temas || []).forEach((t) => chips.append(el('span', { class: 'pilula', text: t })));
-      if (p.video) chips.append(el('span', { class: 'pilula video', text: 'fala / vídeo' }));
+      if (p.video) chips.append(el('span', { class: 'pilula video', text: 'vídeo' }));
+      else if (p.declaracao) chips.append(el('span', { class: 'pilula', text: 'declaração' }));
+      const bQuero = el('button', { text: 'Quero esse' });
+      bQuero.addEventListener('click', () => quero(p, bQuero));
+      const acoes = el('div', { class: 'acoes' }, bQuero,
+        el('a', { class: 'botao sec', href: p.url, target: '_blank', rel: 'noopener', text: 'Abrir matéria' }));
+      if ((p.video || p.declaracao) && p.busca_video) {
+        acoes.append(el('a', { class: 'botao sec', href: p.busca_video, target: '_blank', rel: 'noopener', text: 'Achar o vídeo' }));
+      }
       return el('article', { class: 'pauta' },
         el('a', { class: 'pauta-t', href: p.url, target: '_blank', rel: 'noopener', text: p.titulo }),
-        el('p', { class: 'pauta-m', text: meta }), chips,
-        el('div', { class: 'acoes' },
-          el('button', { text: 'Quero esse', onclick: () => quero(p) }),
-          el('a', { class: 'botao sec', href: p.url, target: '_blank', rel: 'noopener', text: 'Abrir matéria' })));
+        el('p', { class: 'pauta-m', text: meta }), chips, acoes);
     }
     function secao(nome, itens, montar) {
       if (!itens || !itens.length) return;
@@ -265,8 +292,8 @@
         veiculo: `Google Trends ${t.trafego} buscas`, publicado: t.publicado, temas: t.temas, video: t.video, veiculos: 1 });
     });
     secao('Pautas do momento', (dados.pautas || []).filter((p) => !p.rotina).slice(0, 25), cartaoPauta);
-    secao('Falas e vídeos repercutindo', dados.falas_e_videos, cartaoPauta);
-    app.append(el('p', { class: 'dica', text: 'Vídeo: o radar mostra a fala que está repercutindo. Se quiser comentar, baixe o vídeo da fonte e mande para o Claude; ele monta o post com crédito.' }));
+    secao('Declarações e vídeos repercutindo', dados.falas_e_videos, cartaoPauta);
+    app.append(el('p', { class: 'dica', text: '“Achar o vídeo” abre a busca do YouTube com quem falou e o assunto. Escolha um trecho curto, salve o vídeo e mande para o Claude junto com o seu comentário: ele monta o post com o crédito da fonte.' }));
   }
 
   // ---------- leitor ----------

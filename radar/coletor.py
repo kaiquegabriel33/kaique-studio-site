@@ -137,6 +137,20 @@ def mesma_noticia(p: set[str], q: set[str]) -> bool:
     return len(comum) >= 3 and len(comum) / min(len(p), len(q)) >= 0.5
 
 
+def sinais(titulo: str, cfg: dict) -> tuple[bool, bool]:
+    """Pela manchete: fala de vídeo de verdade? é uma declaração repercutindo?"""
+    t = " " + normalizar(titulo) + " "
+    video = any(" " + s in t for s in cfg["sinais_video"])
+    declaracao = any(" " + s + " " in t or " " + s + ":" in t for s in cfg.get("sinais_declaracao", []))
+    return video, declaracao
+
+
+def busca_video(titulo: str) -> str:
+    """Link de BUSCA no YouTube (não baixa nada): quem falou + assunto."""
+    termos = [w for w in re.findall(r"[\wÀ-ÿ$%,.]+", titulo) if len(w) > 2][:9]
+    return "https://www.youtube.com/results?" + urllib.parse.urlencode({"search_query": " ".join(termos)})
+
+
 def agrupar(itens: list[dict]) -> list[list[dict]]:
     grupos: list[list[dict]] = []
     for it in itens:
@@ -180,7 +194,8 @@ def coletar(cfg: dict) -> dict:
 
     recentes = [i for i in brutos if i["publicado"] is None or agora - i["publicado"] <= timedelta(hours=30)]
     for i in recentes:
-        i["temas"], i["pontos"], i["video"] = classificar(i["titulo"] + " " + i["resumo"], cfg)
+        i["temas"], i["pontos"], _ = classificar(i["titulo"] + " " + i["resumo"], cfg)
+        i["video"], i["declaracao"] = sinais(i["titulo"], cfg)
     relevantes = [i for i in recentes if i["temas"]]
     relevantes.sort(key=lambda i: i["publicado"] or agora, reverse=True)
 
@@ -204,7 +219,8 @@ def coletar(cfg: dict) -> dict:
             "id": hashlib.sha1(normalizar(lider["titulo"]).encode()).hexdigest()[:10],
             "titulo": lider["titulo"], "url": lider["url"], "veiculo": lider["veiculo"],
             "publicado": mais_novo.isoformat() if mais_novo else None,
-            "temas": temas, "video": any(i["video"] for i in g), "veiculos": len(veiculos), "rotina": rotina,
+            "temas": temas, "video": any(i["video"] for i in g), "declaracao": lider["declaracao"],
+            "busca_video": busca_video(lider["titulo"]), "veiculos": len(veiculos), "rotina": rotina,
             "outras": [{"veiculo": i["veiculo"], "titulo": i["titulo"], "url": i["url"]} for i in g if i is not lider][:4],
             "score": round(score, 1),
         })
@@ -213,9 +229,10 @@ def coletar(cfg: dict) -> dict:
     em_alta = []
     for tr in trends:
         texto = tr["termo"] + " " + " ".join(n["titulo"] for n in tr["noticias"])
-        temas, pontos, video = classificar(texto, cfg)
+        temas, pontos, _ = classificar(texto, cfg)
         if not temas:
             continue
+        video = any(sinais(n["titulo"], cfg)[0] for n in tr["noticias"])
         em_alta.append({"termo": tr["termo"], "trafego": tr["trafego"], "temas": temas, "video": video,
                         "noticias": tr["noticias"][:3],
                         "publicado": tr["publicado"].isoformat() if tr["publicado"] else None})
@@ -224,7 +241,8 @@ def coletar(cfg: dict) -> dict:
         "atualizado": agora.astimezone(BRT).isoformat(timespec="minutes"),
         "em_alta": em_alta,
         "pautas": pautas[:40],
-        "falas_e_videos": [p for p in pautas if p["video"]][:12],
+        "falas_e_videos": sorted([p for p in pautas if (p["video"] or p["declaracao"]) and not p["rotina"]],
+                                 key=lambda p: (not p["video"], -p["score"]))[:12],
         "fontes_ok": len(tarefas) + 1 - len(falhas),
         "falhas": falhas,
     }
