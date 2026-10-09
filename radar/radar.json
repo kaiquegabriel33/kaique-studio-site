@@ -1,133 +1,273 @@
 {
- "atualizado": "2026-10-08T23:13-03:00",
- "em_alta": [],
+ "atualizado": "2026-10-09T11:24-03:00",
+ "em_alta": [
+  {
+   "termo": "cirio de nazare",
+   "trafego": "200+",
+   "temas": [
+    "mercado",
+    "economia"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Círio de Nazaré: PRF reforça fiscalização nas rodovias federais do PA",
+     "url": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/09/cirio-de-nazare-prf-reforca-fiscalizacao-nas-rodovias-federais-do-pa.ghtml",
+     "veiculo": "G1"
+    },
+    {
+     "titulo": "Viva Maria: Casa de Plácido acolhe peregrinos durante Círio de Nazaré",
+     "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/viva-maria-casa-de-placido-acolhe-peregrinos-durante-cirio-de-nazare",
+     "veiculo": "Agência Brasil"
+    },
+    {
+     "titulo": "Miniaturas em um rio de gente que traduzem histórias de vida",
+     "url": "https://midianinja.org/miniaturas-em-um-rio-de-gente-que-traduzem-historias-de-vida/",
+     "veiculo": "Mídia NINJA"
+    }
+   ],
+   "publicado": "2026-10-09T05:40:00-07:00"
+  },
+  {
+   "termo": "exame",
+   "trafego": "200+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Na cidade onde nasceu a Vale, ele construiu um negócio de R$ 1,8 bilhão bem longe do minério",
+     "url": "https://exame.com/negocios/na-cidade-onde-nasceu-a-vale-ele-construiu-um-negocio-de-r-18-bilhao-bem-longe-do-minerio/",
+     "veiculo": "Exame"
+    },
+    {
+     "titulo": "Com Mbappé entre os sócios, healthtech da França mira aquisições no Brasil; Sami e Alice na mira",
+     "url": "https://exame.com/insight/com-mbappe-entre-os-socios-healthtech-alan-mira-sami-e-alice-para-entrar-no-brasil/p",
+     "veiculo": "Exame"
+    }
+   ],
+   "publicado": "2026-10-09T05:20:00-07:00"
+  },
+  {
+   "termo": "janja lula da silva",
+   "trafego": "2000+",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "noticias": [
+    {
+     "titulo": "TSE manda retirar publicações de Lula, Janja e aliados contra Flávio Bolsonaro",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-manda-retirar-publicacoes-de-lula-janja-e-aliados-contra-flavio-bolsonaro.ghtml",
+     "veiculo": "G1"
+    },
+    {
+     "titulo": "TSE: ministros ordenam que Lula e Janja removam vídeos contra Flávio",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ministros-ordenam-que-lula-e-janja-removam-videos-contra-flavio",
+     "veiculo": "Agência Brasil"
+    },
+    {
+     "titulo": "Mendonça manda PT excluir vídeo ligando corte de R$ 200 bi de Flávio a perdas sociais",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/10/09/mendonca-manda-lula-tirar-video-contra-flavio-bolsonaro.ghtm",
+     "veiculo": "UOL Notícias"
+    }
+   ],
+   "publicado": "2026-10-09T04:50:00-07:00"
+  },
+  {
+   "termo": "ipca",
+   "trafego": "1000+",
+   "temas": [
+    "economia"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Após deflação em agosto, IPCA sobe 0,82% em setembro e volta a superar o teto da meta",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/09/ipca-setembro.ghtml",
+     "veiculo": "G1"
+    },
+    {
+     "titulo": "Contas de luz disparam 8% e guiam maior inflação para setembro desde 2021",
+     "url": "https://economia.uol.com.br/noticias/redacao/2026/10/09/ipca-setembro-2026.ghtm",
+     "veiculo": "UOL Economia"
+    },
+    {
+     "titulo": "Inflação oficial de setembro fica em 0,82%, mostra IBGE",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/inflacao-oficial-de-setembro-fica-em-082-mostra-ibge",
+     "veiculo": "Agência Brasil"
+    }
+   ],
+   "publicado": "2026-10-09T04:50:00-07:00"
+  }
+ ],
  "pautas": [
   {
-   "id": "54de52511f",
-   "titulo": "Petrobras sobe com alta do petróleo em meio a tensões no Oriente Médio",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/01/6562-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post467445",
-   "veiculo": "Folha",
-   "publicado": "2026-10-08T23:44:03+00:00",
+   "id": "7308e1e774",
+   "titulo": "Inflação da baixa renda fica em 0,82% em setembro",
+   "url": "https://www.poder360.com.br/poder-economia/inflacao-da-baixa-renda-fica-em-082-em-setembro/",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-09T14:20:07+00:00",
    "temas": [
     "economia",
-    "mercado",
-    "politica"
+    "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+sobe+com+alta+petr%C3%B3leo+meio+tens%C3%B5es+Oriente+M%C3%A9dio",
-   "veiculos": 23,
+   "busca_video": "https://www.youtube.com/results?search_query=Infla%C3%A7%C3%A3o+baixa+renda+fica+0%2C82%25+setembro",
+   "veiculos": 37,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Finance News",
-     "titulo": "Ibovespa fecha em +0,94%; dólar sobe a R$ 5,02",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFQyMUFkUEx0aWgxOE9Ed05xcjdwOTlUdUlDbFU0MWwyUlo3TUtrLThKWm5CRFRCSWwzU2NGbklqRldzb1NfV3kzcWVIZ01GVFVCWldycVBLckdXN2JlTll5U3lzZE1PYWpOMklqcV9LNEFTOS1oYzJyN0FIcS10RVhB?oc=5"
+     "veiculo": "Portal Tri Notícias",
+     "titulo": "Inflação sobe 0,82% em setembro e ultrapassa teto da meta em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnBMMTNrMVp5dXU5dFYxbVBsOUZVQUFtVkFJb1UwXzM4VExBdW93WEs5YWtsOE9meENvQkpidXdMM0hScmtEdTZlWjBOVENpR293TFN2TUQ5ZkpVQ29mRDBMdzdabmUxYjZQZTVDVkRHRks1Q201ckJvRjFlckJMdDFwb3dUa3A2Z0k4N2paNGFXMElBZ1BiOVhQWGpmdGJnNUZkRGc0a1hWZmt6bGRtT0lB?oc=5"
     },
     {
-     "veiculo": "Mirian Gasparin",
-     "titulo": "Ibovespa sobe 0,94% e dólar é reajustado em 0,27%",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dwYVp0aGlUR0tMNzVUTUdTYnFtUk84UEwwSWhqRjQyVGZEdmhZWWVXQy00akpERy1qd1d3N0lfVVpvS2M2RXItRG5XcXBOV0dra0ZkaE1aSU5MSE15T1RyMGl0a08yX3BCbm40VG1nbE9DdVNJN3BDSkxaQ1BrZ3hCYmhVZzRWQUpCZA?oc=5"
+     "veiculo": "Juruá Online",
+     "titulo": "Inflação acelera para 0,82% em setembro e supera teto da meta em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM29hc1RoNThlV0w2anZ3cngycjRMWEhocXJGVzJfX0o5MlkwN0dCRUszaUgycWRmRktJVXFnWHhiekkteHlJOVhrWUZtM0JPNk05bnhWb0VpUXRFRHZTdFNrd2Ric0dyRXM1WDZUZm9QekJDZVNKYXcwcUozcUQwaTV1Y1NjdUhTY0I2aDhUQkJjNVc3YUxCUFJQZE44d0hF?oc=5"
     },
     {
-     "veiculo": "Mirian Gasparin",
-     "titulo": "Ibovespa sobe 0,94% e dólar é reajustado em 0,27%",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dwYVp0aGlUR0tMNzVUTUdTYnFtUk84UEwwSWhqRjQyVGZEdmhZWWVXQy00akpERy1qd1d3N0lfVVpvS2M2RXItRG5XcXBOV0dra0ZkaE1aSU5MSE15T1RyMGl0a08yX3BCbm40VG1nbE9DdVNJN3BDSkxaQ1BrZ3hCYmhVZzRWQUpCZA?oc=5"
+     "veiculo": "Fato Paulista",
+     "titulo": "Inflação oficial acelera para 0,82% em setembro e supera teto da meta",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90WlB6NXd1ZjdLYkxuRXVBWHZ2a2U3eVdBdU9XT0o3VThIeHZkWUVGX3BJSVBiUXpVSk9PTGpJdUlzMVNOTkd0Y1ZzZ2VfY3VRdlBzeGh0MFhJQlpmRkNEQ0tsTXhwbUtyS3p3?oc=5"
     },
     {
-     "veiculo": "Cruzeiro FM",
-     "titulo": "Bolsa sobe 0,93% com alta do petróleo; dólar fecha a R$ 5,02",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2U5X0x0c296YjQ5NVUyVjZYNlRiTm94VWh2RTA4ZFNkMUtfYWd1bEVybmlVd09NTFpmQkYzdEg2MmJLY0tTLWR6dVVSbG9QWk5XWFNsY1Rrc2wxNVd2dHFqMWhnbzBndEVQMWxrV0lLWGdNR2VkdWNEZ2xIZFgyNWhId0ZRZllpZWFMTHd5WW1GZ2oyRTd6NXZxalBBTk1jRTc4NEc2OE13cXY4NG1B?oc=5"
+     "veiculo": "Agenda do Poder",
+     "titulo": "IBGE: inflação oficial de setembro fica em 0,82%",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDhYdGVOY21wWmprbXRYNk5VYktMTEpNUzdGSW5zbG55QUxyS3BoWnlJcjJJR2Y1eTRqT2hRWFQ5Y3JCWVVtMjliR05CU053NXNIMzBITVRsNVFacU03Mkl0c2FJX3FjaVVScFk4ZUdjQ3F1U2VGcTAwZk9BRFBjNA?oc=5"
     }
    ],
-   "score": 45.0
+   "score": 43.0
   },
   {
-   "id": "5cb749beca",
-   "titulo": "Ibovespa tem ligeira alta com apoio de Petrobras e eleições no radar",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdE9jb2t1VXFScDZBVUtGQ2NQaWlHSkQ5TjBxX2pjU2g1VUNOSEhJOFBxREV5bHh1U29pZnk5bF9rY2o3NDdwSW10V0tPUXZVWFYzR29PVmN2d3FIV3h3T1VlVTJhZ01UXzQxR094TEJxZjVBeWdYTmtNTDZKOS1TblFjenZhc0U1b0hSVzA4cWRPS281SUVkSjV5ak81VURicm52Q1Y4d2hyWmxBWlJGb0dkVGJ5VmlXdXFwN3I2Zi1ZZjB1aE4yRzRTREpMNmRndng40gHTAUFVX3lxTE90T2Nva3VVcVJwNkFVS0ZDY1BpaUdKRDlOMHFfamNTaDVVQ05ISEk4UHFERXlseHVTb2lmeTlsX2tjajc0N3BJbXRXS09RdlVYVjNHb09WY3Z3cUhXeHdPVWVVMmFnTVRfNDFHT3hMQnFmNUF5Z1hOa01MNko5LVNuUWN6dmFzRTVvSFJXMDhxZE9LbzVJRWRKNXlqTzVVRGJybnZDVjh3aHJabEFaUkZvR2RUYnlWaVd1cXA3cjZmLVlmMHVoTjJHNFNESkw2ZGd2eDg?oc=5",
-   "veiculo": "Valor Econômico",
-   "publicado": "2026-10-08T22:45:45+00:00",
+   "id": "6be812d79e",
+   "titulo": "INPC, inflação que corrige salários, acumula 4,29% em 12 meses",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/inpc-inflacao-que-corrige-salarios-acumula-429-em-12-meses",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-10-09T14:07:06+00:00",
    "temas": [
     "economia",
-    "mercado",
-    "politica"
+    "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+tem+ligeira+alta+com+apoio+Petrobras+elei%C3%A7%C3%B5es+radar",
-   "veiculos": 14,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Diário do Estado",
-     "titulo": "Ibovespa termina dia em alta de 0,94% com Petrobras impulsionando o mercado",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMW1fRm5DUEdCdGdfbHJ5NkdIdlBMXzNmM004SzUtSndNelhnRTJMZW1uX2NVNVlHWjBkMWZ2MGpTN2FpcVBOSFgtR2h6Y1NEeE93bFBpNFotenR3UkV3aEJUOVJMMnBSd0JPeTJXbjQzQ2pZbXRqLVdwMXh5cnRBbDFWcEtWMWFRbl9XdGg1dFlPakM2Z21vYW9tYXFjMmJVU095RGpGYmhlZw?oc=5"
-    },
-    {
-     "veiculo": "Diário do Estado",
-     "titulo": "Ibovespa no dia 8: alta significativa com suporte da Petrobras e pesquisas eleitorais",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRDBZTWNXMWtoS2hDQUROcEIwektNU1JEV01ySDVSZzhhNFU4MFhSNlZST3ZEb2hMNU15LXlkeUxkSWdLZ3I0QkRwRi1CMkhKNmVCSWZjNUU1RXc3SHhILU44ajk4NFhuV1VzZkU5Y3h0RGtnYTlQOGx0MHhFRFdyVjd2MEl0VUxLMTJVS3JtQnNpdE1uNmFwVXZKV2lkZF90SmRVenBDUVkyTGN2SENFZnpnNUNTUU55?oc=5"
-    },
-    {
-     "veiculo": "TradingView",
-     "titulo": "Ibovespa fecha em alta com suporte de Petrobras e com cenário eleitoral no radar",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sSWpCbUIxdHo5eXJaOFN4SXBFNUdqb292Ty10c3hvMVd2R2gwSUU2bkVJWVJlUkQzS3hqLWNhOG1XcmNUUkhONVZQYzNUU240a2wzR0xnckJybFh5NnZ0NnNuenJXX1ZNS0ZHMEVKcF9hNVdpX2Fr?oc=5"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Ibovespa fecha em alta com suporte de Petrobras e com cenário eleitoral no radar",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3RKeXJiUjZCQUh5aFY3bUVHU1FGaWZTOXM0WUY2eS1yeWxpUzJ6SXJpaHRtTmJlYVRzZExWRjdSc2FSV2wwZS1Sa3lNTWtWcGp1YUp1dzdoSHEtbjBvUU13LXZ5MTRNT2oxVEtRYW1xeHFMR2EzeVZSNDhqZHV5RUY4OVZtSi1OVWJLUTQ3SXN1SEpfa1hQWWNRUDJFWklMSEg3Uk9FN2hHenBxcllMTzBVT1dfajJWQ1Q3WDNLZ25Lby00Nml2R3BWcU80RWE0TGpKRlBybw?oc=5"
-    }
-   ],
-   "score": 40.6
-  },
-  {
-   "id": "b6524cce2a",
-   "titulo": "Pesquisa Datafolha DF no 2º turno: Celina tem 55% e Grass, 37%",
-   "url": "https://exame.com/brasil/pesquisa-datafolha-df-no-2o-turno-celina-tem-55-e-grass-37/",
-   "veiculo": "Exame",
-   "publicado": "2026-10-08T23:58:37+00:00",
-   "temas": [
-    "comportamento",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pesquisa+Datafolha+turno+Celina+tem+55%25+Grass%2C+37%25",
+   "busca_video": "https://www.youtube.com/results?search_query=INPC%2C+infla%C3%A7%C3%A3o+que+corrige+sal%C3%A1rios%2C+acumula+4%2C29%25+meses",
    "veiculos": 15,
    "rotina": false,
    "outras": [
     {
+     "veiculo": "Portal Terra da Luz",
+     "titulo": "Inflação supera previsão do mercado e acumula alta de 4,58% em 12 meses, segundo dados divulgados pelo IBGE",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWG5DVzRwZk9uS25xOVJTb0pndHNKMlFmY0tudmdrTXdFVU9XUkJ6dnZwOExtaG5VMlRDRnZsU1N4QlBrMEdnQnVxRHI5THVna3lQRjlFSk5XNGhXVUVuaUZ5SGg0RzNnMF92QnhGRkNJa0d2VXhWS3A3Q19peUQya0VacGNEYlhxdXJHUlEwclYzVHZiLVdIUTktUlBUUjRwUk5OM0RlR2E?oc=5"
+    },
+    {
+     "veiculo": "panoramagocomunicacao.com.br",
+     "titulo": "INPC, inflação que corrige salários, acumula 4,29% em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemtRM2duNDA2NjNlMXp4WW1oWFJBYzBfY2ppeEl3XzVWd014cldta3BoazlkMWtNZ2FCbVp5OHNOYlZ2djZaZTZwTE00SlpsRzBGZzc4aGh0THdmSWdqenBNWC1xbjMwQmJfRDkybXZWUjZsd0NORXFfRm9HNnNCQjlkX3RzR0lWNnVPd3djNmFhNm1UcUhIWXZla2w?oc=5"
+    },
+    {
+     "veiculo": "Agência Brasil",
+     "titulo": "INPC, inflação que corrige salários, acumula 4,29% em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGtIOEJ4VUU0NVVubDZiYk85ZjVURERSLUZiM1Ric2tDOVdfc3lhVWNOLTV3YzR2VFc2NVVsSjJJcDNOdW9IWTVaWXFOaWpQVUNaZ2k3eXRYOTJGbzJtbTQ5alBEYWpzbFNMckJqTmxaVnBOTC1RQS16d0paY0Y0NlFob0xKVnRreVd1dEdGS2RjNmJSV1ZGNFo4bE9JclJ6T1VEcXJNR3pvblB2Q1FrYTQxOHkyLWs?oc=5"
+    },
+    {
      "veiculo": "Agora Litoral",
-     "titulo": "Pesquisa Datafolha aponta migração de votos da terceira via no segundo turno",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjNkY2hLaTNvZC11ZVNVVUxTWWVNSmdJcHFJQmhuRjZ6VWJUNHB3T2JwMXQ2UnB4NlRhbmhaaFFTREREYmFfb2NnV3ZjTGNfODFJajRyMVNkMkQ5SVpUTHh3amxYR25FZVFyNmYtcDdjN016d0ZsVlBLWEJfOTQ1VG1ZanNzczloR1JBMU1BZWNFZzExMzV4SV9SSzQ0SFpreTA3M3VoXzU3dEhGT2NLSWRpRllYQ2s?oc=5"
+     "titulo": "Ipca avança 0,82% em setembro e inflação acumula alta em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalgzenV4dEs5T1dTbW04VkV6aGtMSF91bkxYSlBKdi1MMi13VDJlNmlNdXY4d3ByOThtMjFfV2NfVUZ4TDJBX0I4V1V4R1MwaXBZei1LTEpkdTF1UVRxOXJWcGxnUzNQYk1rN01IR1hTMk1jVEFBbV94eFZLQzZRRTVhRllzYV9JNjVkTnlMOTExRFk3X1paRno1aGluTVZkd1lYcnZ3?oc=5"
+    }
+   ],
+   "score": 42.9
+  },
+  {
+   "id": "ebd042d636",
+   "titulo": "Flávio tem 49% dos votos e Lula, 45%, diz Datafolha",
+   "url": "https://valor.globo.com/impresso/noticia/2026/10/09/flavio-tem-49-dos-votos-e-lula-45-diz-datafolha.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T13:54:30+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+49%25+dos+votos+Lula%2C+45%25%2C+diz+Datafolha",
+   "veiculos": 18,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Eleições 2026: Flávio Bolsonaro (PL) amplia vantagem contra Lula (PT) no segundo turno, mostra Atlas/Bloomberg",
+     "url": "https://www.seudinheiro.com/2026/politica/eleicoes-2026-flavio-bolsonaro-amplia-vantagem-e-tem-511-contra-457-de-lula-no-segundo-turno-mostra-atlas-bloomberg-giov/"
+    },
+    {
+     "veiculo": "boca.com.br",
+     "titulo": "Dólar recua com Flávio Bolsonaro liderando nas pesquisas do segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFBGYl9mVDhwQ09OTTdkNG1VR01BamdFNHNkYUd5V2lQN2sxcXZSRXN6RDFDejNjZi05QmNCNEQzNFhyLTViSG5SRmlnamI1UGt3Qjdpc2JHMW5UMkFnVnhqaXlxUUdIaWtlcGRwLTFsXzctSjRiNDlPMjdnMmNwcU5CR1JCbXA5SFktZGpB?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Dólar hoje volta a cair após tombar mais de 4% com Flávio Bolsonaro à frente no primeiro turno",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR3JOOTdDT2lYXzNHYUdOQWNXbWhRQ2FuZExMbW01ZW9SVVFCb252ZjZzNWpCT083ejB3SVlDTGFQM1dmdkYyTjhwdy1GUEJodW1sUnVlbnZubnRhNWRPSzhIZkNQMnRfZEQtOXlrbkJKSEF6YW5CbF9qakt6aTEwbjI5eXNhdW5lY29sTkNDM1g1THVTOEllMlNZNkZJbDZ5YzE5VU5PQkEwTHdTVnRsZGJnRjlfXy03WG5HYjdBNUNlYWlLYkNTVG1DTGpMb0x3QmNjNm9TVkl3RzlOOG94VUlfZ2xuX2FxU29PTmhCZTRqZw?oc=5"
     },
     {
      "veiculo": "InvestNews",
-     "titulo": "Flávio tem 52% e Lula 48% dos votos válidos no 2º turno, aponta Datafolha",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSlo3bWhsLVBJWlVNekltZ1h2YkNWUWo3bFRBNTRZMDVtWjl6V1U5UVE0MEJJVTBEVUIwcGN2alJaVHY2VFUyX2xLVF9zQnBYUERxU0VFWGpic0JkbEJyRWFHVEV0MW9TMmZ4VU4yQ2ZXWlFaV1NkWS1yNNIBgAFBVV95cUxQdlFfczBnZjVsSDN2VEc4TEhzRTB2a290dndfRjZqUVlvcnpHeFlvRmpPRTN6SWNRQ3Fhc0YyY2NZYlpxdFF6RHVNNFFnajlOSzdyTldsY2ZmakFwYWJfaWUtaHBZSnNURVJQSFlWU0Z4a01fS1piLUUxVXZ3ZmZRUQ?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Após Datafolha, Lula diz que sua obrigação é trabalhar para ter mais votos que Flávio Bolsonaro",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/apos-datafolha-lula-diz-que-sua-obrigacao-e-trabalhar-para-ter-mais-votos-que-flavio-bolsonaro.ghtml"
-    },
-    {
-     "veiculo": "Hoje Diário",
-     "titulo": "Primeira pesquisa Datafolha do segundo turno das eleições 2026 mostra Flávio Bolsonaro (PL) com 52% dos votos válidos e Lula (PT) com 48%",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZUcyT0dCOUpyTU5ROXJ5cEtkZFlUU2xHNi12aG1BUjlPbmtNQ2RjSFdLWDVWVGNDNE55Z3hOS3JDMWVlckEyRzNOWWZkWXJXUzhxT2dfT3UtX01ZeUZua3pQSGthTU5lWDlqTWF3Q19Od05vZ05ZYkc0dUtVQ2hrZi1KOGZFdHl2R1RGalZDRGNGellEd2xSVWt1aFc5S001UDNDN3RSbHhXc3pySjV0U2N1UWdXdnpmZk85NmZRUTZlRHkxSERXM1h3MXdHY1BaMDVYTE5ubkVKSGd3UjdfSFRDZm5uR1NjQkxUeHBnUW56Uk5KQW9yaGln?oc=5"
+     "titulo": "Flávio tem 53% contra 47% de Lula no segundo turno, diz Atlas",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2NWcEZSRlg2d1dGUG90ajB4NGk2NVZBbmJGVXE1endRSFJ4dnZiUFdNdkZxYXZSOThMSDBqYllrMWNTSW1FSjNYX3NOcEJNWGlONVlXME9OOGN0VENSYXRUWXpoVGNENkJ4Ukc4UUFkVkdYaTctaW9vbjR4ekdMd3pDYzRBc1F5OV83SlRQTzVCRXl0V094WU1n0gGfAUFVX3lxTE9HWU5nRzNpcTA1MHM1d2ZwRjBmcUdOWmFDTkNJWEEtRjI0U0tZN2VFVG9lTkpGODdDS0paakJqUDBoTGZCd2dxdTNKSzBJZ0dwdElXTDZkbTNDS2VmTmNvYUc1SG5NOFUzSjBnMU1HWi0zODc1bEtOOXFrYlNTcDZpbGVnSm03MDIwWThwckRyb21peVVqdTBUWTdnQV9lNA?oc=5"
     }
    ],
-   "score": 40.1
+   "score": 37.8
+  },
+  {
+   "id": "fc8b8b57f5",
+   "titulo": "Dólar abre em queda com eleição no radar e inflação acima do esperado",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-eleicao-no-radar-e-inflacao-acima-do-esperado.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T13:41:33+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+abre+queda+com+elei%C3%A7%C3%A3o+radar+infla%C3%A7%C3%A3o+acima+esperado",
+   "veiculos": 7,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "VEJA",
+     "titulo": "Ibovespa sobe mais de 1% com eleições no radar, apesar de inflação acima do esperado",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0VVd3JwMko2VC1jZlNmWnVENll4djRCVUhpZno3NzE2TjZ5N3RBYk9IUGRWRzhIRHpUX1BnT0hBcXJlRjg2bS13R3FkX2VxV0JsTkZGSzFMcTc0NGxpMHlYenViNzhzb0pvV2ZBQldtamN0cEJGX215cFI4ZDllT3lhWmdzVkljVGhfOWZyd1hIVkdFbm9DMENJVHBRcnZjZWZFQlNua21Fc29LRzZ1SlR3THZfNDZ1cWc?oc=5"
+    },
+    {
+     "veiculo": "Times Brasil | CNBC",
+     "titulo": "Inflação sobe 0,82% em setembro, acima do esperado, puxada por energia elétrica e alimentos",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2Y5VnZ1WlhFOElPeHM5REk0b0U5ZnV3dnltbnJ6YkxVU3I5d1BtMTFaUmpDYldWY05OaXA0LU9EamtxWHVvS0lPcDljN2tReHJTSUVKUnpPNlVYc2twTjdHOVhtdkNvTEpqVTNEZldkNkQtZkdlLVhIQkkxMmpyZUV3OG53RU1LeFNmX0paWnA3Uy1zbGVQNUUzeFAwS0k1SWlrcUZoR1NLT0VlWi1qOFFMZnZMUVlubWd4bHJMOA?oc=5"
+    },
+    {
+     "veiculo": "Band",
+     "titulo": "IPCA sobe 0,82% em setembro; energia e alimentos pressionam a inflação",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUZ3RXpYZG1KVkI1OHVsbm1COUd1TlF2N245SFh5b2VvTThLVV9WZDdfZWkzRHp4ZS1pLUVTSUhqX0ZoNVpxUXk1VEpRRFpEQmh6eUZXY1JTanlQOVVUNUNVQjRtT3Ixa3lCQ3lCT0JCRDQzOXJLMkJZcm9JTVFiaVIzZTJSNU1ydVE5THY1VTRERWlBeWJiejd1Rk14bGREbWc?oc=5"
+    },
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Dólar abre em queda com eleição no radar e inflação acima do esperado",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnlFSnhNcVJSR2xjZzJ1MHV6aElNcFZnRURHVVRpMy1rNEswdk1OZWVnWXRGYzVSYlI1T1JGVWhpOU5JbXlrNnlNNFZNNTlNYTRXaEM4MEltcDkxRmxJZDRSaUZ1eU1HdlF5b2dGM2o4ZVhYWVZqNXU4enR5a1VaZkxmU1R1allKX1BGT2NUUE9kaEp6MmlJbnVSZ1REclNRRGxmUk9IdHE4UUk5OWxIUmtobm01dlhPS3ZVNDFB?oc=5"
+    }
+   ],
+   "score": 36.7
   },
   {
    "id": "980b629409",
    "titulo": "Galípolo diz à PF que 'esgotou repertório de palavrões' por demora de servidores na fiscalização do Master",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/galipolo-diz-a-pf-que-esgotou-repertorio-de-palavroes-por-demora-de-servidores-na-fiscalizacao-do-master.shtml",
+   "url": "https://c-level.folha.uol.com.br/financas/2026/10/galipolo-diz-a-pf-que-esgotou-repertorio-de-palavroes-por-demora-de-servidores-na-fiscalizacao-do-master.shtml",
    "veiculo": "Folha",
-   "publicado": "2026-10-09T00:43:16+00:00",
+   "publicado": "2026-10-09T04:21:12+00:00",
    "temas": [
     "economia",
     "mercado"
@@ -135,18 +275,13 @@
    "video": false,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+diz+que+esgotou+repert%C3%B3rio+palavr%C3%B5es+por+demora+servidores",
-   "veiculos": 20,
+   "veiculos": 18,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Valor Econômico",
-     "titulo": "Galípolo relata à PF reuniões tensas e 'com palavrões' com servidores do BC suspeitos de favorecer o Master",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeVZEamhyOHlxV0N6Rm1PNGNHUXBKb3p2T1Q5WlYzQkM0T1dzZ3J2RVduQ043ekZiWmR0Z1ZsNkc3T2p5R0xMNS10dGxfdnRPajhtZlAxcFBKNUN4MWpxQlZvVjBVY3hLRTZZeWdhQ01VRGJjTGNIaWVLRVRhWjQxTHpvS3BGbWNBT1JkamxTTTcta2U5VXBlT1AzU0Rqb0ZBcFVMT3JuVF84ZXBOckxrVUxlSjRrQXUxZXdYaUpQVlVzV0dWRDdZRUhxT1MzOVJoWWc4VkE4N3NvN3VsQVJjUTNEUndDWDlaY1pDYkZoMNIB_gFBVV95cUxOQTVmdFRpQkpQSjYxclZJM05YdVpMS1lQbjEtM1d3a1FCcS1HZFFwMHBRMzd2Rl85REFtcDMzaDJFcDhuYUlTczlXdkFhV3B5OEVvdzBFQ2UzV3h3c1ZQcEpOeXN6OWREcE55SlRCUFpRX05jamcwUS05T1ZYU09mbHBMRGdZaHJNNVV3MC0xVDZLWUJ3eTV5UElMSnRFZVdvYmNNZ0hxVURjVld0Z2RIQkZuLWMzNm1EbWJQTmJoajRBZE9fWVJwcWd4enVmQWNzZmlGZGpnYlFxSi00enl6V3VnbWpWQjd4RWNPZkxQd0JSdTJaZHFvUUFQdHRTQQ?oc=5"
-    },
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Galípolo relata à PF demora injustificada do BC no caso Master",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY05GMTlaVk1naTI5UWxIR0pIQy1nYlNWRk1YSHJpaGNoLUsxZXN4Y3ZsWTBLY3FPeEZ1eGtyNHBnQTlGMWpQUjZIUHY0UG55SnNCaHdPZ1hPekIxUDhpclNYazVsZ1pOMW5RUHV4SUxwSUhQaWN5ay1xd3hhRFFXbG8xYVh3YVZfcjZETWo2Rm9fR0Rfd1gxUUNyVk9FZw?oc=5"
+     "veiculo": "TV Master Ao Vivo",
+     "titulo": "Galípolo diz que “esgotou palavrões” em cobranças no BC sobre o Master",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRG90cW1ZNGo2NE84LW1QdWVyemVtczl2YVV0R09uZ1BmUy1YNlpJTGdMTG1aMmxRNTZtR2JUWDZ5c0J4Mm5QVnI4dF9RUFBNcHZkUVZsMTU2S05wSjhpTVF5RTB0WVBwcXpCcTNBQnQ5MGJLeE5KQWRBa2huejB4ZmVOcHdYS2pBRVczdnNqWXVSNUk?oc=5"
     },
     {
      "veiculo": "DOL",
@@ -157,55 +292,21 @@
      "veiculo": "Gazeta do Paraná",
      "titulo": "Gabriel Galípolo diz à PF que “esgotou palavrões” ao cobrar servidores sobre o Master",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0JEYUJ5Qlp4YXVLSTM3YzZtWEJhWVV1Q3Vyc00tV1E3c05MZDhjX1hfR29odFBYWUd3NTVJR21pNXhwSlF6WHMzcmNMeGx4bDZnNm8wX0VwRjZGc0VHVGZyUEV2dXEyWmNtSnQ5cUlXZElzZm41cDdGdnQ0aXV2QkFEMUhjN0dhV1BWQ0xGeWh4R2xpZ2xPY1c0NFpnREU3WV9KTWhqRFo5U3kyNUlTcEpnZ3ZXRUx1OU4zNXdR?oc=5"
+    },
+    {
+     "veiculo": "Folha PE",
+     "titulo": "Galípolo diz à PF que pressionou servidores do BC e 'esgotou os palavrões' em cobranças sobre o Mast",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNFYnVQZnk4VzNYVlNUM2JxSGxNNTUzbXluclF3Y3lQNXNNa2hwS0xadTNaQjEwQXJsLUF0M1hpazZWY001MG9MU0N1STdieDhIN215eTduN1hvV0NscXVWbHZ0THJkTTlOUW05SzEwMWd3TmRtLTJ5Ujc1dC0tU1ppTnlzcTM5Z0I5U3pvQkI5Mk1uNVNmbW5PYjRTZEZrSVNqX0pxOWY0QlN6V0HSAa4BQVVfeXFMTTVDRWJ1UGZ5OFczWFZTVDNicUhsTTU1M215bnJRd2N5UDVzTWtocEtMWnUzWkIxMEFybC1BdDNYaWs2VmNNNTBvTFNDdUk3Yng4SDdteXk3bjdYb1dDbHF1Vmx2dExyZE05TlFtOUsxMDFnd05kbS0yeVI3NXQtLVNaaU55c3EzOWdCOVN6b0JCOTJNbjVTZm1uT2I0U2RGa0lTal9KcTlmNEJTeldB?oc=5"
     }
    ],
-   "score": 39.4
+   "score": 35.8
   },
   {
-   "id": "b9eff6efb1",
-   "titulo": "Por que as eleições mexem tanto com dólar e bolsa? Entenda o que o mercado tenta antecipar",
-   "url": "https://g1.globo.com/economia/noticia/2026/10/08/por-que-as-eleicoes-mexem-tanto-com-dolar-e-bolsa-entenda-o-que-o-mercado-tenta-antecipar.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-09T01:52:30+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Por+que+elei%C3%A7%C3%B5es+mexem+tanto+com+d%C3%B3lar+bolsa+Entenda",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jornal O Sul",
-     "titulo": "Por que as eleições mexem tanto com dólar e Bolsa? Entenda o que o mercado financeiro tenta antecipar",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjdqN1IyR1JzbWN1dmtRSFdLdzZrbFR3NE40V09IdTFFZklIZXE4cjRfNzBqZF9XbW9lN1RJekIwMm5ZRlc5RjlVZWhpcHdJYjZCUUZUUDdydXB4WlpLcEhSVGVyUk5tZ0R3RzI2OTRyTmI5bTZZcFEtZjhpM0RXQVB6VlBqd0tRV1RIaTBEU0QwZjFXSTlTa3lxaHZET0hlZ21TQl91cWp5OUFOaEFCeURITml1empxYWhrWUpzNUlpeTDSAcgBQVVfeXFMTmJ6UGIxQXBSajhiYl9uaTRGa3VSOXg5WnVvN3d3Y1dCVnZoN3lOaDAyY1NoOFhKTEppVkFSWUh2Y2M3MmVqNW5Uak9iQjRZOUFDNmY0aFR6Zm9fNXk0MVFYeDFfa0hxSDdMVlNqZnpkc1loTXJzQzJJNS1ibkFZUXV2RmE2LW8yNWVBM3VRa2ZqNDE3ejJUbFFwaVJCNUhsY3U3dmpsZEpiT09PZTFKZnR6ZXJVMjUzTjh0R3NtUGZQa1l4WmV0SDA?oc=5"
-    },
-    {
-     "veiculo": "Misturebas News",
-     "titulo": "Eleições influenciam dólar e bolsa brasileira; entenda o que movimenta o mercado",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qYXRCdmdRY1kxdE04Mzd1b1lsV2RENUlFZWJ2bnlxUl92ZG5TVEUweXM3Wi05b09HMDBLZnhMdEtuRDc0a3FJRnJYdEdKdFhXbXRHTHZIOVhDVjZEOVhIVkdZWC15UFVtMmRNT2wzbllqQVpk?oc=5"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "O mercado financeiro é bolsonarista? Entenda o movimento da bolsa e do dólar após o primeiro turno",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXFLbnduTTJqcVlTWFFHcDVaZktpTVNjOFY4d1F1SFZRSDFESUl2OEJGMTN6WkRXaGs4WWtWZGYybGZ3c2h3azhBVEdocTd6N2R2cHkwOG9nTDVxc3NCN2twZEFhSTVCYkFiZG50Qk04c0JGSHEwelZtdGI1SGJ1bU95bm1WelFLXzQtSWJUVVVkWTFBTm5sdElXSXQ3MU1mNXNhTW5hazFFU3dBNC13YmlSZGNOMkN4X18zdF9B?oc=5"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "O mercado financeiro é bolsonarista? Entenda o movimento da bolsa e do dólar após o primeiro turno",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYU43Z0l5bUktLWNoZEdSZGg0bDRPbWxlcWdIMElfVkhrRzgyeVp6dm56LVlHSGlCYzRITXR4b3dscjJJXzRPOEo3Z2hMajR0cUNEUmpSbzA0ck1ZV19veFJyaXNlbGM0VnVkQlV1Q1M5TXBmX0hZcW1uOG4yUHRaOGdPc3RYblpqRG52SGxJOExHb2hQbnZsamk2bWtuQ3dXbHdDV0ZWQjRBa3JJendDRnJNc9IBuAFBVV95cUxNNXNBeU85ekxKYzNvSS1ZZ3JkY1lhZnhtTVRxb2ZiSXhnWWEtUXM5LTczdTlpWkNYNndtNDVnUjlWWmZOYTlOMThHa1kzX21rbEZKSFJDRWpPZ0VPVTl5TWVFQlVvQ1ZwWHNkcno3cTF5TUg5eHFKai1HeVNFUnd5SzNvNEl5WWJzN3dlVWl0Q0FzUEltZWJkUk9qLXgyc29UUWhxcXFBc3JmUnVqOGxEYVpkaW01ZVpG?oc=5"
-    }
-   ],
-   "score": 38.9
-  },
-  {
-   "id": "d04322fff2",
-   "titulo": "Ibovespa volta aos 206 mil pontos com alta do petróleo e trade eleitoral",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOEZrZF9TdURldm5GM0tGWU1RWnRWQkk1U2EyY1pMOXFQRmFBSDg5cVFrdVlqb29zdEpzczRYdkZ4TDctOWZsYmZueU5HWlplT0JJZUhtc1VtLVZKU2RNR2Joa0tJQ1RDMlBYRWE3X2R1Q0pxalZ5dTc1WXVpYmVVdjlBRURuZFBFbmJKNDdJS2stYmhDcDJ3Y29PX1NlSXgtbkcyRUZLMThqMUFLZFNGWFlvY0NfM0pwcnBOdWVmZ193MlNIRG9LLTBTanAwNmpNaDdiQlFleEM?oc=5",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-08T20:51:00+00:00",
+   "id": "54de52511f",
+   "titulo": "Petrobras sobe com alta do petróleo em meio a tensões no Oriente Médio",
+   "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/01/6562-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post467445",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T14:16:47+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -213,96 +314,93 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+volta+aos+206+mil+pontos+com+alta+petr%C3%B3leo",
-   "veiculos": 6,
-   "rotina": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+sobe+com+alta+petr%C3%B3leo+meio+tens%C3%B5es+Oriente+M%C3%A9dio",
+   "veiculos": 26,
+   "rotina": true,
    "outras": [
     {
-     "veiculo": "Tribuna do Agreste",
-     "titulo": "Ibovespa atinge 206 mil pontos impulsionado por Petrobras e clima eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXQ4SXVfbDR0UVlQS2YxNmV6Y0V1UkUyM0pCWmlrdHRlc05GUVNIekt5cUQ4dURVOE5jUEtwTEY4TjJoemdKalA5d1o0aWtfSjA0SHBSMUJ2UFIxYk5vTmxhc19mUUtxVjhFdzBKVGVhRkJDZ1pJQTU4Y3UwUVJsY19DMTZ5SzhXU1RSd2xCZ05RQUdGQzlEVkdhb182aGFMS2xTTXBkTERYbF9uenZIUDhCVHpucW9YRGpXTW9zei14VzRnZmxnWks5OXAyZmNY?oc=5"
+     "veiculo": "Exame",
+     "titulo": "Ibovespa sobe e fica perto dos 210 mil pontos; dólar cai abaixo de R$ 5",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzJpSzczeEp1a3NsRlFPaVNjdm9PekxhTTY1Z1BKUmZpVURPLUJvUW9tb0RjeFRJaEV6T0h0R1htYkpFcmZLREhDRDBNQnBveWdmV1YtaHVzSmRDNVFsMXBoNlJ0WVZmajVHQWFSSlhLQnp4QVRQd0JvY3oxaHVDV2dhTmk4Rkg1UjJjWjl5dkVrcGJRTmhoZ1RkT0diRXFvV3h3YTcwMA?oc=5"
     },
     {
-     "veiculo": "Times Brasil | CNBC",
-     "titulo": "Ibovespa supera 207 mil pontos com alta do petróleo e avanço de Flávio Bolsonaro nas pesquisas",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0ZfSEhGVDRhT2M4TFdOQmUzeVd6SFp3dng5ZGI1Qy1NbFV3QWQtU2o5STJQZjc1eGFVUUZidF9SelByZlo1enRwbjZjRmhxcjhaTVEyZmNudE1xM2l4ZUpHMHJQc2V5bGJIdzR6NUN1ZHNUV1VsZGFCYXV0WE1nZTcydzhvbFdybWJGbmFkZ2lOX3A5RkllUFVKME40aDR2QjRFSkpLSDJFVGhNRjJQTVlEXy1ra0EzMy1aM1V1VTVMZFZSNEwzQQ?oc=5"
+     "veiculo": "Exame",
+     "titulo": "Ibovespa sobe e fica perto dos 210 mil pontos; dólar cai abaixo de R$ 5",
+     "url": "https://exame.com/invest/mercados/ibovespa-sobe-e-fica-perto-dos-210-mil-pontos-dolar-cai-abaixo-de-r-5/"
     },
     {
-     "veiculo": "Times Brasil | CNBC",
-     "titulo": "Ibovespa supera 207 mil pontos com alta do petróleo e avanço de Flávio Bolsonaro nas pesquisas",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0ZfSEhGVDRhT2M4TFdOQmUzeVd6SFp3dng5ZGI1Qy1NbFV3QWQtU2o5STJQZjc1eGFVUUZidF9SelByZlo1enRwbjZjRmhxcjhaTVEyZmNudE1xM2l4ZUpHMHJQc2V5bGJIdzR6NUN1ZHNUV1VsZGFCYXV0WE1nZTcydzhvbFdybWJGbmFkZ2lOX3A5RkllUFVKME40aDR2QjRFSkpLSDJFVGhNRjJQTVlEXy1ra0EzMy1aM1V1VTVMZFZSNEwzQQ?oc=5"
+     "veiculo": "Finance News",
+     "titulo": "Ibovespa fecha em +0,94%; dólar sobe a R$ 5,02",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFQyMUFkUEx0aWgxOE9Ed05xcjdwOTlUdUlDbFU0MWwyUlo3TUtrLThKWm5CRFRCSWwzU2NGbklqRldzb1NfV3kzcWVIZ01GVFVCWldycVBLckdXN2JlTll5U3lzZE1PYWpOMklqcV9LNEFTOS1oYzJyN0FIcS10RVhB?oc=5"
     },
     {
-     "veiculo": "SpaceMoney",
-     "titulo": "Ibovespa retoma 206 mil pontos com petróleo e pesquisa",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXV0MUZJLVZpOTJabGtmTDRwT1padnNOSUJ0bzZNQWhnbFFxYlJhZWdTS3ZGSEpSamFGa2dCUGNjcjVHUFFMWFpONGxYTjZTUlZDbDNuUXlXQ1NfdHg4Z2lBWVU0Ti1CUmFXa2dXN0RjSkpESmpwaVd6WDFmQ2dqNzVsQUg?oc=5"
+     "veiculo": "Mirian Gasparin",
+     "titulo": "Ibovespa sobe 0,94% e dólar é reajustado em 0,27%",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dwYVp0aGlUR0tMNzVUTUdTYnFtUk84UEwwSWhqRjQyVGZEdmhZWWVXQy00akpERy1qd1d3N0lfVVpvS2M2RXItRG5XcXBOV0dra0ZkaE1aSU5MSE15T1RyMGl0a08yX3BCbm40VG1nbE9DdVNJN3BDSkxaQ1BrZ3hCYmhVZzRWQUpCZA?oc=5"
     }
    ],
-   "score": 37.8
+   "score": 33.9
   },
   {
-   "id": "39ee0d5b04",
-   "titulo": "Dólar volta a R$ 5 com ambiente externo e ajuste pós-eleitoral",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-volta-r-5-com-ambiente-externo-e-ajuste-pos-eleitoral",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-10-08T21:00:32+00:00",
+   "id": "73ccccd0aa",
+   "titulo": "Ibovespa avança com otimismo eleitoral, mesmo com IPCA acima do esperado",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/ibovespa-avanca-com-otimismo-eleitoral-mesmo-com-ipca-acima-do-esperado.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T13:57:32+00:00",
    "temas": [
+    "economia",
     "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+volta+com+ambiente+externo+ajuste+p%C3%B3s+eleitoral",
-   "veiculos": 6,
-   "rotina": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+avan%C3%A7a+com+otimismo+eleitoral%2C+mesmo+com+IPCA+acima",
+   "veiculos": 9,
+   "rotina": true,
    "outras": [
     {
-     "veiculo": "- Misto Brasil",
-     "titulo": "Ibovespa volta a fechar em mais de 1%. Dólar perde fôlego",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDd2ak91MklPbXFvbmtuLVNRa3Jsb2tJakdCSU0wSjZ1eVA1NzFZYTdwd1pZOTVZLWxuVWl0LXAzVHBwMkllUGVhdEp2eDBib2FySjd1aFdyZ1QyVUlnWGY0STktVW1ZX0o5UlVBRzhhN1QzRHBXVTNDS045ajJkeXdacWgzem9IWmN4cE1SMFRha0wxZXfSAZ4BQVVfeXFMTkZxYmVMbThveHp1SVkyOUs2b3BZNUlNTW93ZXQyZUpZR1RLYzVSdzBfM3FKOWtpZmtWTGt1LXNWQTY0MXBfQ1JPaG1lOFdPSWM3UWZyaGpQRG0waW1PaTNGTDRralRKb0lTdS10SUF2eGhQV3hFRGRpVGNjXzJLVUEzUTZKMmFOUDRubWtfckFmQ0N1eWk3SjNJa2Njc0E?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Taxas do Tesouro Direto caem mesmo com IPCA de setembro acima do esperado",
+     "url": "https://www.infomoney.com.br/onde-investir/taxas-do-tesouro-direto-caem-mesmo-com-ipca-de-setembro-acima-do-esperado/"
     },
     {
-     "veiculo": "O Hoje",
-     "titulo": "Dólar volta a superar R$ 5 e Ibovespa recua",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82cXc5SmprWFotekI0dUhSLXY2U05YcGU4U0lsLWE3M0hXZVlxenNWMGx5anVXdTFoR2tIUDV2aHlQT1hNZjNYaGIwSUMtVlQ1NXhWanhnTWRoNTYxX2I5ajFyRFZITmxDT1M3anh1Ym4zSFhHQy0xMUFqVnI?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Taxas do Tesouro Direto caem mesmo com IPCA de setembro acima do esperado",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUFvN01xVlpsLUxldm55Q04zeUl0Yk1CSkJUWjNuejk5ZmpFdUtaTmN1QVFqSHNBX0ZDZThNU0Q2OHh3UG90c1RWMTQ1eWhEMEJ4b2pnblJXSlYyTXFmZ2ZNVmItOXdPeU5BbUxDQy1xSmNyOGJ4ZG5QSnV3S3VzMjFtRGZxcDYzWVFldUJJclVLeEx4QkN4ZDU4cWV6Y01kZEZCR01pX0cyYmlYV2I2dTRIcFZSMThq0gG-AUFVX3lxTE5oN2t2WEttQ0twWWZ0Q0JrY2hRS2VPTXB3LTk0czBkN1ZKRE5rUVdiQjU2UUJtVHNFM3owNW45NTM2YmZ2dnZ1cnU5cHI0S1dCSG8zRW90a28xdDNXZ3JnbEJQZjR1WXhiU3lmV3ZqQzJFRUtsM0JYdXpTZ3NoUmh0TUxUOEJsUTdYQzVid0xsd2p0YmFoaXlIbWxMYUMzMWZ2V1pnTXpqNUtNcVlYVG1LQjhrcFgyb2RjX2h5RXc?oc=5"
     },
     {
-     "veiculo": "Investidor10",
-     "titulo": "Ibovespa volta a subir, dólar cai e petróleo dispara",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODdTOUd0Vm5UQ211bzFzWFNOaW1xcGJFVjFKb0xfWFRaQmlscFhodFJYVDF6c19wc0xBeUx4WHFvX0hVX1lpNDRhWnpuSUJHNXZ1UnBjY0x1Unljd2tZVEtubndUY1pfdDJicWR2V3VBbEwxTzV4UnlLcnN1eHBKSEVHMUV3ZjF3X3ZVOHFpUjZhcEtRVDF4eFZvNlLSAaIBQVVfeXFMUEc4aTF4QnhScG5UQkFjUHZTNXViQktTcWhQM084U1pHU09KeHdMSlI4eHBuamZza1BPc2ZtcWU2MkpmcUdVcXFUaEE3ZFNGekczQ1RsZ1ByNGlaNEQ1ZFZOOWNtSUphX2ZiNWdHS2JLaWhZMkp3cTNOUTNCSDMwRno3WmtEQU45U05kek9pUEZqTHJYYjJXUjEzdGJjbk92bXl3?oc=5"
+     "veiculo": "Valor Econômico",
+     "titulo": "Ibovespa avança com otimismo eleitoral, mesmo com IPCA acima do esperado",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNampyX3RwalNqNUdtRTIxcFJzbnJGTmRhdmtqTVRiZGtjNlNBTW00a0tMbkI1TmxNcm1zdm9yem9fNVhzYl9iUnVULXpwanJtbkp6aVJFUlE5bVBlWkFJSV8ybjZ5LXBaV1lBcFFENWJBaGdhSDRLMkIwR282MEZKWVNKenlIdVcybVgyOTFaM245TVdzNk5haTlsNVg1TGJoVzExRndYYjB3dTNaWXNNOW0tUXNVRjUxNUY1T1g2Q0dFT1ZiakpDM9IB1wFBVV95cUxPdkRyZ2JYSG1OaThxcE84eEd3QW1KbW84N3dObElIaGFDaHdnWmJyYlJfc1hZdW1TMWw0c0Vaajl2VnN0d1FSRjdKSDBGNF9vXzB2OEczM3A4T1I4dG05V1hTQVhaaERoMjhkbGRFRE1Bd0t3ZlZKRE5IMTRiZFhZQUVrWDRjSFI5bllZeHF6Sm13VTJIUEc1b2Q3N085bVVlV3ViREYwQVBrVDBvSF92RHprN1plTTAwb2VTbmFCbi1GUnRnY1hFVkRxbHk0STFzeEZfRXFOYw?oc=5"
     },
     {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Dólar volta a subir e fecha acima dos R$ 5",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adnBIbE1qZFIwVW5oZzlhQnZndVlvdlRHaU55eDh4ai1Tek90ZFJ6azVETDMxemwwaHNNVExRWnRZUUN5WTNsT3JsLUNCQmVrajdaYWo4bmdCSUxXQkpWVWhxUUJwM0xCQ0E?oc=5"
+     "veiculo": "Valor Econômico",
+     "titulo": "Ibovespa avança com otimismo eleitoral, mesmo com IPCA acima do esperado",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNampyX3RwalNqNUdtRTIxcFJzbnJGTmRhdmtqTVRiZGtjNlNBTW00a0tMbkI1TmxNcm1zdm9yem9fNVhzYl9iUnVULXpwanJtbkp6aVJFUlE5bVBlWkFJSV8ybjZ5LXBaV1lBcFFENWJBaGdhSDRLMkIwR282MEZKWVNKenlIdVcybVgyOTFaM245TVdzNk5haTlsNVg1TGJoVzExRndYYjB3dTNaWXNNOW0tUXNVRjUxNUY1T1g2Q0dFT1ZiakpDM9IB1wFBVV95cUxPdkRyZ2JYSG1OaThxcE84eEd3QW1KbW84N3dObElIaGFDaHdnWmJyYlJfc1hZdW1TMWw0c0Vaajl2VnN0d1FSRjdKSDBGNF9vXzB2OEczM3A4T1I4dG05V1hTQVhaaERoMjhkbGRFRE1Bd0t3ZlZKRE5IMTRiZFhZQUVrWDRjSFI5bllZeHF6Sm13VTJIUEc1b2Q3N085bVVlV3ViREYwQVBrVDBvSF92RHprN1plTTAwb2VTbmFCbi1GUnRnY1hFVkRxbHk0STFzeEZfRXFOYw?oc=5"
     }
    ],
-   "score": 36.8
+   "score": 30.8
   },
   {
-   "id": "10d8e48538",
-   "titulo": "Juros futuros têm forte queda após leilão do Tesouro e alívio nos Treasuries",
-   "url": "https://valor.globo.com/financas/noticia/2026/10/08/juros-futuros-tem-forte-queda-apos-leilao-do-tesouro-e-alivio-nos-treasuries.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T22:24:00+00:00",
+   "id": "0b02bdaa9e",
+   "titulo": "Tesouro vende R$ 33,3 bi em prefixados após queda dos juros; volume é o maior desde dezembro de 2020",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/tesouro-vende-r-333-bi-em-prefixados-apos-queda-dos-juros-volume-e-o-maior-desde-dezembro-de-2020.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T01:49:45+00:00",
    "temas": [
+    "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Juros+futuros+t%C3%AAm+forte+queda+ap%C3%B3s+leil%C3%A3o+Tesouro+al%C3%ADvio",
-   "veiculos": 6,
+   "busca_video": "https://www.youtube.com/results?search_query=Tesouro+vende+33%2C3+prefixados+ap%C3%B3s+queda+dos+juros+volume",
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Money Times",
-     "titulo": "Juros futuros caem com leilão do Tesouro, quadro eleitoral e alívio nos Treasuries",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwa0hHT2VERHVwOVUtMHRqaktOWVJ6ZFpZczBRR3huaWdfamlxOW5jVEpaSkhOd0d1eDdvNFR4d2tZblRGM1ctWjdFX1FVeU9uelVRSjU0eGJ5NGh4R3U1NThxQnpDMUla?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Juros futuros caem com leilão do Tesouro, quadro eleitoral e alívio nos Treasuries",
-     "url": "https://www.moneytimes.com.br/juros-futuros-8-10-26-apsa/"
+     "veiculo": "Jornal O Sul",
+     "titulo": "Tesouro Nacional realiza a maior venda de títulos desde 2020, diante da queda dos juros no mercado financeiro",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjFPczF0a3JyWkVqbFZIWnQ4amRBSDY2ODZsQi1Od2RiNFpaR0l4enp3UXdkLWJGUnpETWlBdmxweVBwbUlCVnozaUdWZ1JrTUpjcXAxcTBveWtSNUFDNEd2a2lkZG03aDN4OEVfY2xJZzVrY0V4SHNVMENDU25GdmRvRHBiYzh6U0lDV01SUjZOa1BJdVdTcTJJcmQydmNTeDVqSjVzUm1zSm9ZeVJraVRmRFduaEZzYTRIeVk1OVBQZ011ZWlTakRJV2dLUdIB0wFBVV95cUxPS2tPR1EzcWhqcmtBMTg5OVdHbkk0c1RKZjRpNDZ5MzVxZDdUMkpHbG5BbkVid3FUSVRmQzZoYlpNWEt1akYyTzNrUEtEOHkySERwRy16WEFFeVRPRktTckVtUlcxQWhPLW90a1YxMXk3VWQtWEF2QXpzaWctaDJtdlc0SmlrekRpOGZKTGFrYXNaTGtpcEpDWnM4YVlVdXM4T2VhNHBoekU1UFh3RUpRSWFWTGtxa2VpNlVtcnJYVXlmdExZejkweFFHaEFCNEs5YXB3?oc=5"
     },
     {
      "veiculo": "SpaceMoney",
@@ -310,209 +408,223 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1dCUkd0UzI4YVVjVkZ0dkhJRDRubVJJM045QWM4SDBGajRNcWpkWVVTUGlQZVBVUld3QWdtWkVFVFp6NF91XzVZX2lBVkdFa2lsdE1BVG1xSEJyVnZlSnlkRjRYbkdvZjRaaXZTZ0tVcEV0MzBuQ0JBNFF2aWxhelZBc0kzWEFXbDhrdXZxVW00aGZKalZBOTNR?oc=5"
     },
     {
-     "veiculo": "Folha",
-     "titulo": "Tesouro vende R$ 33,3 bi em prefixados após queda dos juros; volume é o maior desde dezembro de 2020",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/tesouro-vende-r-333-bi-em-prefixados-apos-queda-dos-juros-volume-e-o-maior-desde-dezembro-de-2020.shtml"
+     "veiculo": "Extra online",
+     "titulo": "Tesouro realiza maior venda de títulos desde 2020 diante de queda dos juros no mercado financeiro",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdi05NzJnbnhGdDhxMmlLZWlrTC0xX1pVb1ZtRHhaRGd4NDlZZksxZm0yZjUwOXFOcWk2TmFFR1BsblNRd2VxMnc0TEtUTkd3WmxFQ21NYVFlNTJ5TG9DS3NqcktZeHp0TGFVQl9WM0Fpb21jSXhncFd0UlVCODVwLXhXNVp6YXJGdHhEM2FuTEp0a3J3ckpyNVowYnVRdEJBUEtRSnByUlFQYVNRT1BMU3RZRU9EeEpsaWRXaV83VTF6N0dvT29ObnRoQXhaVnFqN2I0dlA2MVRBVmxNdzU3aFkyMktreEXSAfYBQVVfeXFMUEhBMGdQRW5MV1pMUDJBY2tHMzQzZE4wQzA3ZDVNaVhMMURmRENIaHk5SS1UNThiYmZ4NTJwMUc5Y29INTFVcVdYZF9tdFdYa2ZjdEpubm1JMFoxcjhOeGxnanloVDlWTmNNc0RNNnFGdVlmYkt0dFo5eDVPemtxTmpvSkRWNzZTSGZRNFBaaEdOSTh3V2d0cE5qaUIxYnpLRk9kWGFTQlZlZEVkZVo1bHJZWjM0LU5MaXBXMG0tV0k4M3Q0eFJ2NlBYWmpHUXZPcXk4Y05KdTJJZDIwTXdTQ1Z5WWZVVlpxUmRnNVVuRkFVUTRmYUdB?oc=5"
+    },
+    {
+     "veiculo": "Times Brasil | CNBC",
+     "titulo": "EXCLUSIVO CNBC: Hassett afirma que EUA têm espaço para manter ou cortar juros diante de economia forte",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNy00U050MUpSdkNvU2lDUGl0WFVIX21HWEpuWVAwdmhTa0Z4aTVJZm50Z3doNDdXSzdkcW1hdldrTTJQZEhqVF85NU4xVDBaM3JoTWJTRGdfVW8wYmNRWTRNSWEwanZFcFV5UUJVT3BnaUpwSkQ0eGRaMlk3cl9QUnBhbVRvNjJ5aUswTjJCMA?oc=5"
     }
    ],
-   "score": 35.4
+   "score": 28.8
   },
   {
-   "id": "5b05c0c347",
-   "titulo": "Durigan prevê envio de MP do Imposto Seletivo após eleições",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/durigan-preve-envio-de-mp-do-imposto-seletivo-apos-eleicoes",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-10-09T01:48:36+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Durigan+prev%C3%AA+envio+Imposto+Seletivo+ap%C3%B3s+elei%C3%A7%C3%B5es",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Poder360",
-     "titulo": "Envio da MP do “imposto do pecado” será após eleições, diz Durigan",
-     "url": "https://www.poder360.com.br/poder-economia/envio-da-mp-do-imposto-do-pecado-sera-apos-eleicoes-diz-durigan/"
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "'Imposto do pecado': discussão sobre alíquotas ficará para depois das eleições, diz ministro da Fazenda",
-     "url": "https://g1.globo.com/economia/noticia/2026/10/08/imposto-do-pecado-discussao-sobre-aliquotas-ficara-para-depois-das-eleicoes-diz-ministro-da-fazenda.ghtml"
-    },
-    {
-     "veiculo": "Folha",
-     "titulo": "Durigan promete MP do 'imposto do pecado' para depois das eleições e fala em acordo com setores afetados",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/durigan-promete-mp-do-imposto-do-pecado-para-depois-das-eleicoes-e-fala-em-acordo-com-setores-afetados.shtml"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Durigan: Compromisso do governo é enviar MP do Imposto Seletivo depois das eleições",
-     "url": "https://valor.globo.com/brasil/noticia/2026/10/08/durigan-compromisso-do-governo-e-enviar-mp-do-imposto-seletivo-depois-das-eleicoes.ghtml"
-    }
-   ],
-   "score": 33.8
-  },
-  {
-   "id": "e6539eafc8",
-   "titulo": "O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/o-que-flavio-bolsonaro-e-lula-propoem-sobre-o-bolsa-familia.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-08T17:03:00+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=que+Fl%C3%A1vio+Bolsonaro+Lula+prop%C3%B5em+sobre+Bolsa+Fam%C3%ADlia",
-   "veiculos": 6,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Money Times",
-     "titulo": "Mercado financeiro já comemora vitória de Flávio Bolsonaro sobre Lula, mas especialistas fazem alerta sobre ajuste fiscal",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbE05aGZfRm1DZWpXNFotbTAtWk5IS0JncGt0SFd1U3pSVVItUnF1TTFSaFJwSTNaSG9QRmNPWGpvbW5nOURlOEVDOXlLYkNKYUJEOTZ4emJZWXhYRlM5SjQwZ1o1STduNm9iMktkZ1N6WWFaX1ctaFJTcTFBZ0hUUVV1bjRaTXhGMERiYUpOTVUtd21UamNFOWtjTUhCTjNub1lvdGJBVGpHdks4OUFBbEZpeEJ6WkwwN21SUTRpeW1Jck1uT2I1cUlLSGktVldVeWl3dE1lR0U1cF9rYjVPWmdfLTZxaGd3NTFn?oc=5"
-    },
-    {
-     "veiculo": "Folha",
-     "titulo": "Lula diz que plano de ajuste de Flávio Bolsonaro é para 'cortar do sangue do povo'",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-plano-de-ajuste-de-flavio-bolsonaro-e-para-cortar-do-sangue-do-povo.shtml"
-    },
-    {
-     "veiculo": "Esquerda Diário",
-     "titulo": "Economia O plano econômico de Flávio Bolsonaro: cortar R$ 200 bilhões de áreas sociais para enriquecer banqueiros",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOU1SR2h4RTBLWXF5MlhHQldVVEd1QnYwZWxtQlp2bGV3X1dQNmhHRjRXdDRybjkyMGpEMTM0QlItZTI5eGFOMmVrcGs0ZU1qRlZmeVVvSEJSY2prX1J1d1dXWk9WMmVrbGtTSFM3c3U0ZzZQbTRCQTJ5TlZmaHBrcWJpeDA3Ymp0WGhqM2NpWS1lWmtHcDIxMDJoZlpwOXllNzUtVVpDakVzRVMzREJzOXktYWRRZmVIN3gzUnRNY3JzVG8?oc=5"
-    },
-    {
-     "veiculo": "40graus.com.br",
-     "titulo": "Flávio desmente fake news do PT sobre Bolsa Família e SUS",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjdTV2paaGIzRHRZaWR4OG1QZlREQmtlSDVPSHNVSUxmZjVQZi0wcGl2VFpjbGVoT2otY0VkcmJiZmZYZ3BIVnR0N2l0SjBXS0IzeEMyMWEwVGJLSlBwdWJ6aG9QSmJKdG1wYUlza3NQM29fd1dDbDlmSV9CQWszNWZuRjBBZ3Fl?oc=5"
-    }
-   ],
-   "score": 33.2
-  },
-  {
-   "id": "fc45e381f5",
-   "titulo": "Ibovespa tenta driblar piora do humor externo e opera em alta com eleições em foco; 5 coisas para saber antes de investir hoje (8)",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2Q3lKNS1XOVQ1dFgtX1hnRktfNDhYdXFPVW9LU2ZFV3duNnJiTWwzaHRGc25iZUVtVlF2dDlNRXdpUENDcDFJTXRLLVhTYTBQdXBOZ3FRamhuOTZubkZ2ajFUak42SGZ6dlNLZ3BR?oc=5",
-   "veiculo": "Money Times",
-   "publicado": "2026-10-08T22:45:00+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+tenta+driblar+piora+humor+externo+opera+alta+com",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "IBOVESPA fecha hoje com alta de 0,94%",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaF9ua2JqTE9faTRlZ1p3QnkweU5JNWpMM3dXR0l5VDhFUWFSTUF0QjUwUF81MW11Z1hHM3BwWmxDUk5jcHhWbHItVUE3MFlQdGJhVU1Sc1J4TlRUS1FlMXJoZ0cza1A4SjJiMXV6QlhkZ2lGYWVpNE5zejd3a3FIdFpJWVZIdw?oc=5"
-    },
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "GFSA3 avança 20,0% e ações em alta com Ibovespa +1,1% hoje",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDlDMnBIQjFxRnFqLTVRV3pHNW5hZ1EtbkpybkdtcklPUDRkeEJpaUkyMVg3WGRlX1pKVzBvb1Z4TS1BUXhMZDg5WFJVejI3QkFsVXlUS1JkWW9FR0FRRHMtVlRYY3JWU2FUTFRrSzhUSlduZXBtQVFGWDVyeExrT3JFY2dtTjUxNXJKelNGcmk1YmV4V0E?oc=5"
-    },
-    {
-     "veiculo": "Jornal Brasília Capital",
-     "titulo": "Ibovespa Hoje: Bolsa Avança com PETR4 e Rumo aos 206 mil Pontos",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFg2d1hzMGZWREZESmpGOWNuaGZLWjVSZTdHeVFrS3NsMGNqOVc2T1kzZDUzNEJmRnhyb3hzSzJOWjFQU3BwSE5DaDlYZ09MVjdJdkpUd3VqV3Fxd3VMXzZCenBidU4yZUkyMXU4V2V4YjZKbWpEYkhFbkdRUi13OHM4QW9vdXpNc2p2T3VvQzh2VHc?oc=5"
-    },
-    {
-     "veiculo": "Rádio Guaíba",
-     "titulo": "Ibovespa B3 recua 0,74%, aos 204 mil pontos, e dólar vai a R$ 5,01",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdXRtUTRaUjlIVDFrcnBRa2RRcGFicGNMNEJlVUJVNlRtdmlZbHdHRWtFaUVmYlhTd0lUcXoxbkN0d2FJNDNySTdnQVNWb1U2a0t6ajFzLVJyX2lRZWJLdTNCakRZelFHZ2hvSXVqNEw0WF9WQ0NDdmtJLXhxeVFTNnF2eGNpRVIxUHQ4?oc=5"
-    }
-   ],
-   "score": 32.6
-  },
-  {
-   "id": "347d93d243",
-   "titulo": "Ibovespa fecha em alta e juros futuros caem com otimismo eleitoral; dólar destoa e sobe",
-   "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+   "id": "cabceb0dc2",
+   "titulo": "Estrangeiros retiram R$ 627,9 milhões em ações da B3 em 7 de outubro",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/estrangeiros-retiram-r-6279-milhes-em-aes-da-b3-em-7-de-outubro.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-09T00:11:38+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+fecha+alta+juros+futuros+caem+com+otimismo+eleitoral",
-   "veiculos": 19,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Cidade Conecta",
-     "titulo": "Mercado financeiro tem oportunidade em Belo Horizonte",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRExRcE5JY3RpR1dpd0ZPc0h5V3d6M29qRVRNbjF5aHlseVVPeWJfWTlDb1lqZVRqOEpzaWRQNWxsMTUxVjdwS01qd2V4dC13czRtWE1tYjVfejNJOGdXbzdTZjV2T1A5ZWhKWnBCS2JoRG9KaDhocVRSbDJuaDFuWTRvNHNJNVo1cEtCSHZTek5TWlZzT1ZSeg?oc=5"
-    },
-    {
-     "veiculo": "boca.com.br",
-     "titulo": "Mercado financeiro tem alta do Ibovespa e valorização do dólar comercial",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRzgtb3I3Yi0wSUJBbnVLRkFETnhyamd5UGswR3hfbFlBUTRVRDdIWHVkeFNNWThBTDBIcDNXRVBycUpmczJ2ek9WVEZHUldzS0gwckNLLW12UkhoOElMRklPSDYxS2dvM0gxM3VhV2FOeU83Tnc?oc=5"
-    },
-    {
-     "veiculo": "Canal Rural",
-     "titulo": "Ibovespa fecha em alta de 0,94% e dólar comercial sobe a R$ 5,0241",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXlJQlR6aVdFY1FWZVczbUNWc0R4SFhZSnBIRHJoSVROQ0ttaWVwR1JzUTF4eTN3cTFFbkJLNFFBVW9vT05DRlRzVVltV2V6TnJSenZDRzV5Tkw0a1B1VTFOS1dISWdmUndqR0didUVtTi12U2pkSGtGWkMyT3dnUUdIMVFUYkFDYl9qZm14cFZvaDQ0RVZ3REdqaTFSVXZIckNuMg?oc=5"
-    },
-    {
-     "veiculo": "Canal Rural",
-     "titulo": "Ibovespa fecha em alta de 0,94% e dólar comercial sobe a R$ 5,0241",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXlJQlR6aVdFY1FWZVczbUNWc0R4SFhZSnBIRHJoSVROQ0ttaWVwR1JzUTF4eTN3cTFFbkJLNFFBVW9vT05DRlRzVVltV2V6TnJSenZDRzV5Tkw0a1B1VTFOS1dISWdmUndqR0didUVtTi12U2pkSGtGWkMyT3dnUUdIMVFUYkFDYl9qZm14cFZvaDQ0RVZ3REdqaTFSVXZIckNuMg?oc=5"
-    }
-   ],
-   "score": 29.2
-  },
-  {
-   "id": "a27b42ad36",
-   "titulo": "Membro do Fed defende mais um aumento dos juros para conter inflação",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0lNNk9GVTA4NG9xSjZ1MWZzQVdvM2lUZVIyYVk0WElUYjRIYW4yenh2T3poYjVkam5RLUk3Y2tkMVlSN21neUJiMmN5bnRTQjV3VWFMaEg3anVKSDdwQ2NxMklHV0VjR2VMUDhDZFlKakZLYUN3REVvcXUtMklseGgzdkFmd2k2aWdnSl80SnBLX2JVT3cxd0ZvR3FWZ2t6YjF2RV9jMkR3SUo1WU1pOWFRVU5pVGktdzd5U0VzMGY2aGl1UEE?oc=5",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-08T21:42:39+00:00",
+   "publicado": "2026-10-09T14:06:11+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Estrangeiros+retiram+627%2C9+milh%C3%B5es+a%C3%A7%C3%B5es+outubro",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Estrangeiros retiram R$ 627,9 milhões em ações da B3 em 7 de outubro",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnlkSVA5U0NMMklHd1pwSE40TjJjUTVHR2NJci1GMzJrNW4wOHRRZUdUbTVTelJYMEEzRXZ1c2lvX1FFOXR2bXpKbWh3ZW5YSHozak5JdElYQ3ZvOVhpUFJtVnh1ZWVhdnJSRXBxd21BdnQxbVJBX1NKbnFsRmJyWTNKSWxOOGgtcEE5YWRzREZtcWpoQ1dYa3NXc1FYOEdIVmdId3Vvc2lEelo1TFh5ZWIxakF3MlRFQjNuN3ln0gHMAUFVX3lxTFB6TEo5VV9ZbWZlYzNNWVg0Y3g2QUU3MDZ6dVBoZS1EcTJjMHBXejVEd01wOTR5bXRicWd6TWFEbnNhRnlsd18xMFRDWDdnLUJmUEt1M0VUcWR2ejA5TWN0d0FLQU1wdWFSZkZMbXNZNlBLWEotZzFSbWdMX2dYRXhhV2VDSmdfODlTTlhSNTRDNktOc3NmdksxWEJQemlFOVhvakxtQXh6V2VLbHJCOFMySDlCTi1KcG15bU5DWUJKN19wamdWLVFMcllVSg?oc=5"
+    }
+   ],
+   "score": 27.9
+  },
+  {
+   "id": "03f62d910f",
+   "titulo": "Manhã no mercado: Euforia eleitoral divide atenções com IPCA em dia de alívio no exterior",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/manha-no-mercado-euforia-eleitoral-divide-atencoes-com-ipca-em-dia-de-alivio-no-exterior.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T11:18:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Manh%C3%A3+mercado+Euforia+eleitoral+divide+aten%C3%A7%C3%B5es+com+IPCA+dia",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 27.7
+  },
+  {
+   "id": "b6a08adc7a",
+   "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/08/representante-da-campanha-diz-que-governo-de-flavio-bolsonaro-nao-privatizaria-banco-do-brasil-caixa-e-petrobras.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-10-08T23:00:04+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Membro+Fed+defende+mais+aumento+dos+juros+para+conter",
+   "busca_video": "https://www.youtube.com/results?search_query=Representante+campanha+diz+que+governo+Fl%C3%A1vio+Bolsonaro+n%C3%A3o+privatizaria",
    "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Vero Notícias",
-     "titulo": "Dirigente do Fed defende alta dos juros nos EUA para conter inflação",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzd2a2NmVnEtS1d2VUhJcTVmZ0xRQWVFY0FrNmtlZWpCNzRBS3FDNkN6MWFDajF4SXZxS2Zrd212ZVZtOUppZEtaUzVXaXBmWFVEWEQ1TGVaQ0UwMW05NEIxRFR2MEVxbDh3M2luVmFETFpUQjdxWEVkS0JSWEJSUUtuem5pX25zQTJpYk9DVnpxd2VKUTBBYUdnV0Joa2pJZHpIcVd3?oc=5"
+     "veiculo": "Blog do BG",
+     "titulo": "Coordenador do plano de Governo de Flávio nega privatização de Petrobras e Banco do Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVgzM3hwQm5ZVUlwcnVYOENEZlQ5bEpMR1VmUWR1SFBXeE02LWVBMVpyQ3FBR2wwdDFBMm9DR2dqMDVXaXNwTnM4RlZKeXFZSFdpLS1nN0RPdi1XM1ZuMmxkSDVfTzNkSzdCYWpzSTZwM3ZHM3RVaXpYalNwU2o2cGdRNHRZRVJEdy1jMDROVXA1Snk5dkV4bHE5aTF3blZtY3F2cmhSNkRQMnVBUXhLSzYybVd6WGpmb3Rv?oc=5"
+    },
+    {
+     "veiculo": "avozdocampo",
+     "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeC15OHBGYXZzZU1LMHFZV3JRb1dmOGctNUNLUEVOTWJRTkNjU0lrUndRakdlVFgyTjFNQUxUeWU5bEV1cmFlMnljQXBjSFp0YWxvWWpMTDczR2UwakFIRHlqUFdjWWdheV9sYTAyN3hOZl9yOG9XYzdwdXFyQnBNU0xtakxBTU9CTzVUNXJ6YWdVTk8zLURjSkJuU3paN3U3NWNKRzd0d05HS0NrdDR3NUpTSXlHZktvNGJqaml5ZUktaUZ4X1d5dXNxZ29aWm01ZDc4SEZNU2VZQk1Mb3hF?oc=5"
+    },
+    {
+     "veiculo": "G1",
+     "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcWNPQXVIMzJCNnFrUEs2VVVzWVVmSVB5ZlVDZUJiZUxnaDR1MlZvcUhPVHVFenhOWW1iczNJUDBLcFdXUVk4MTd6ZGxDNlVMTFRPX290WldxbnhGT3ZWTUF6WWxIUXZPZUhhZlE0N3hEOU5VX2o3b0JEQkJiNGxTY2V1OE9lUDRZekc0ZkFJcURjaFhNQ1FMLTdHSUJTU2RMYVF6QU1kSzAycjZ1MFpuUlY0Tlo2YnFla2plOUZMNl94dEJWT21SUHM4ZThseklqM2FzTTI1aEhGbW54cUdOQ3RNMUdDdHc4d0l0UTNabmVUMHhxM3c2YzBJRdIBigJBVV95cUxNclRnOEZ0MHppckRsaVMwWHZodWlNc3N2ZmY1Rmo4cWY2UEVQckxhb1p5RDdJYkFJTEI1ZHc0ODA4dkxQajNGYURIcVNDVk5EWlZLVzNKVE9xRUU0N1BXX0tweTdYZ09kYUROa0dBN29fTERxdVRpTlNNdUZ6Y29fbWExUjRqVFl2M3hCMGxLMkszeEpDVkU2WTBnTThaeTZZNXpfcGVKSDdXR2VvV0RWMHN6aXJKSHpOSXdaNnppVGthRDBvMmJ0eWl3VXNwc2RrYlBEUEhlMHJVMzc3Rm9VVUllQ3ZIby1LUTF4cHprT3lOUDg1NWRtZnJZZlQzYmE4a0hxTnhpSTBaZw?oc=5"
+    }
+   ],
+   "score": 27.6
+  },
+  {
+   "id": "4bebb654d0",
+   "titulo": "Indústria aponta juros altos como principal barreira ao crédito",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/industria-aponta-juros-altos-como-principal-barreira-ao-credito",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-10-09T14:05:21+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ind%C3%BAstria+aponta+juros+altos+como+principal+barreira+cr%C3%A9dito",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "ADVFN",
+     "titulo": "Juros altos dificultam crédito para a indústria e frustram empresas em 2026, aponta CNI",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWEwWG9tei0weFY0dl8xMTZxTXBNcUVDV1FneHJhMzBCZUhpWHNqRXl2YXpxcHpTcEtSMHNUSndWa0lfRHhiYlRQYWpGRzhTZk1qZWRvZVBoSFJ5RXhKNGFIV3p1bWxlQWdBLVJfbFFVdTRLaWlkZEJIaDVMSnFIc3dwUFpocEpXN0FpZ3dkY09rbzdDeGRlOWxqV24wNjdqN1hSNXpkOTNkb0dWYlJORjRJclF0Z2pjeGwwejZkWQ?oc=5"
+    },
+    {
+     "veiculo": "YacoNews",
+     "titulo": "Crédito caro ainda é principal obstáculo para a indústria, aponta CNI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVdkMUNjWDlWYkdUcGhEUXIwSnp0czdkaGt2RlY4RGRLa2VZam5VM1VVMGJKSVdvWlpEN0l0VTZMVmpiR3RvZjZzZXF5YlFIVFAzNThaMnlwQ1pNMHM3RHJaUkVHOExkQWNuWmhkRGU4SjFJTGg3TkpRdmFQVmZJb1FBZEZNRlA2SVBWLXI2eEV1RnVPUkdLWlFtZ3U?oc=5"
+    }
+   ],
+   "score": 26.9
+  },
+  {
+   "id": "5a877d03cf",
+   "titulo": "Ibovespa abre em alta com pesquisas eleitorais no radar",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRElxYTBScnk3X3NHUWRyczFzcjlUSlZMbmtzeG5GUk9vTTJQTWhLTmxudElNMmJpVS1ZekhkU3RVQ1I5bURHRGFFZTlOUFJXY3JHTlhxMlNxZjJhS3dSOHozSlZzNzdsVjdmWXoxckZHX3pYX3RFd0VDNGkyc2dJTWN5YUtnSXdMU3l2dzFhNFE0Q2pGY1FfM0REZVdmeloxS0pndy03dk9mMnNRTTliaDNiSHpPUQ?oc=5",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-10-09T13:24:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+abre+alta+com+pesquisas+eleitorais+radar",
+   "veiculos": 8,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "Terra",
+     "titulo": "Ibovespa abre em alta com pesquisas eleitorais no radar",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2pjWHUta0wxdThmNUNLRVljLWNjX3Bxbm1DVWMxbUpiZ0ktMGIwNlFGRC02dXhiMGZaSUExME93ek8xWjJSRVRtdkMtbGhvRlBPVDFqcW5hRUJleHRhUG1QNm1qRjZxMEJ1TGdFelRDcnhqamxJdjZpbi1GeXM3V3BGdW9DdF9yV25CVU5pZjdFNU5CQzMtVi1pZFdaRWYtR3ZSMU5COE5xOXdyRFdTQTFRV3Ytdy1OSk5LaXhncE5vMmRrVDlyWWVZbE9LNk9l?oc=5"
+    },
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Ibovespa abre em alta com pesquisas eleitorais no radar Por Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVg3TU9kUll2dFU2a1JYX05DdFgzX0RoT1NPcVBEejNyUFdCbUtzU3RqNGJGYXpUaTF5YTNvX2R4YmlGSk1GeFB6ZGxmOXFTQjVtUU45X244aENDQUxDTGxQdjVLNzR3V1FYSjNod1RqZUNkSWFzV0dib1lPYVNKcmNUZ2ZDU1hoQXYzTEZqZGZieVlVdDNPVnhEaENoYTlrSHdOYVBqeUNVUmRERmJQMA?oc=5"
+    },
+    {
+     "veiculo": "TradingView",
+     "titulo": "Ibovespa abre em alta com pesquisas eleitorais no radar",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJbUhYeEowbHlSMEhGYlRoN1E5T1BmTnVsT19aRm5iNU5xRThRM2dkWHZoT0Z1cnVyQ2kxMnBYV2tWUFVUT2xKdlBndDhPYkhsdnEtMlBtWmVtelNFdndiNVdQd3pzbE0yZjR1Q2xWOVhDWWY0dnNF?oc=5"
     },
     {
      "veiculo": "Canal Rural",
-     "titulo": "Dirigente do FED defende nova alta de juros para conter inflação nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUy0zbnloemhpd0lJTDM1b3NCR1RrSFZUZmFzV2dSY0VUYXFiRGVRMmhkbmdUbWlxWlBLcWFRLUgxWFZlX3lVZTN6ODNueWVoek9XYXczN0JaRWhBUWQxZFRNekNnanF1ckNVNVdVU1NqQ1l4YTNBV0hPc1RNU2U5RFdGai05ZWpBQ01Gc0pRS21CbGFvWXJ4YWRfcHRxYjNtNWY2VGpvRlVCbUFEZ3BJakF3?oc=5"
-    },
-    {
-     "veiculo": "Radio Shiga",
-     "titulo": "Fed sinaliza nova alta de juros ainda neste ano",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjEwdnlGY3hIWGRUUW1vSXBSRWRKQ1o1Skw4UDM0Q2hwdjVWT2ZXdXgxVkpRT0kwLU02N0pKY256WTBjZGlKMkxuM0Z3ZG9qUTJBRmEzdWpLeUl1RkFCSUw2c2ZfZURTVkZIRjhfTEx0Zy1SeWhWc0ZNS1I4VHgweUxwS09oTWFyaFE?oc=5"
+     "titulo": "Dólar cai com pesquisas eleitorais, IPCA e alívio externo no radar",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVphYkE3N3NDQWdZQ1dGdExoeTIwN0pnMlZvdzducW9POFZxcjZqM1QxaTYzS01RMF9rNnhKRVBTRklkOERZM1BHVmFsTTgxbkhuMGFLTFBkaFVsSzBVUFdsWmVUc0lmU1BEZjN0OVVPb2oyR24xVFN6dDV1Z3RYY3cyYkhQWlVRUXVBVnktM1B4dWVmbV80cEJXZkJPbFJZZktuZUVEUVA?oc=5"
     }
    ],
-   "score": 29.1
+   "score": 26.6
+  },
+  {
+   "id": "494d452dfa",
+   "titulo": "Pesquisa Datafolha e IPCA mexem com mercado no último pregão da semana; Ibovespa em dólar sobe nesta sexta-feira (9)",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUNEcVRUTFMxbGlIZS1jdTcwbDJnODFHWE5CUWgtUGhUelNtbThQWUdXX3I4QkJYZTAzdzlDUF92S3ZWWm9lekJRaE53TmdfOU1Ya2wtNUZSMXhvcHNQa2M5bjlqZkp2OTJqUTVOckg2YjFDRUEwVmZ6aVpwVzYteC1tNXFLY3F6WW1jUEtxc0ZpMzFlV3pzcGl4eFVGSkdBNEd5U1g3YTUyVVVsS3lXZnJlbmExeFpiLWs1eC1rTkYtUGNpdTJUa0RLdEVFMjE3MlhqWlhKeTdNcjlVNzNLX0liMA?oc=5",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-09T13:20:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Pesquisa+Datafolha+IPCA+mexem+com+mercado+%C3%BAltimo+preg%C3%A3o+semana",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Brasil 247",
+     "titulo": "Dólar cai e Ibovespa sobe nesta sexta em meio às expectativas eleitorais",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDk0enl0d19TN2VFa3ZvWkpVUDlsRXBzSTVOQWxjOTNjTmdUNzBqY1hHU01RY1VuNWV1UDh0WTFwOTZoZHFZV0FuQnk5Y0VtN3FqS2l0OGdrS2c1M2FvQ0NHMzFqZlBvbVpPQWRGSVZMSUZvSkh4U2VSbldHdU50eUdmd1U2QmNSbHk4OFh0WXFhZ0xfUThZeTd3dDFoV1FJLURWNlBJSXdCc3FR?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Pesquisa Datafolha e IPCA mexem com mercado no último pregão da semana; Ibovespa em dólar sobe nesta sexta-feira (9)",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUNEcVRUTFMxbGlIZS1jdTcwbDJnODFHWE5CUWgtUGhUelNtbThQWUdXX3I4QkJYZTAzdzlDUF92S3ZWWm9lekJRaE53TmdfOU1Ya2wtNUZSMXhvcHNQa2M5bjlqZkp2OTJqUTVOckg2YjFDRUEwVmZ6aVpwVzYteC1tNXFLY3F6WW1jUEtxc0ZpMzFlV3pzcGl4eFVGSkdBNEd5U1g3YTUyVVVsS3lXZnJlbmExeFpiLWs1eC1rTkYtUGNpdTJUa0RLdEVFMjE3MlhqWlhKeTdNcjlVNzNLX0liMA?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Pesquisa Datafolha e IPCA mexem com mercado no último pregão da semana; Ibovespa em dólar sobe nesta sexta-feira (9)",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUNEcVRUTFMxbGlIZS1jdTcwbDJnODFHWE5CUWgtUGhUelNtbThQWUdXX3I4QkJYZTAzdzlDUF92S3ZWWm9lekJRaE53TmdfOU1Ya2wtNUZSMXhvcHNQa2M5bjlqZkp2OTJqUTVOckg2YjFDRUEwVmZ6aVpwVzYteC1tNXFLY3F6WW1jUEtxc0ZpMzFlV3pzcGl4eFVGSkdBNEd5U1g3YTUyVVVsS3lXZnJlbmExeFpiLWs1eC1rTkYtUGNpdTJUa0RLdEVFMjE3MlhqWlhKeTdNcjlVNzNLX0liMA?oc=5"
+    }
+   ],
+   "score": 26.5
+  },
+  {
+   "id": "e82c8aa530",
+   "titulo": "Legacy, Vista e Ace acertam ‘trade’ da eleição e veem mais ganhos",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/legacy-vista-e-ace-acertam-trade-da-eleicao-e-veem-mais-ganho.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T12:54:52+00:00",
+   "temas": [
+    "comportamento",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Legacy%2C+Vista+Ace+acertam+trade+elei%C3%A7%C3%A3o+veem+mais+ganhos",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 26.4
   },
   {
    "id": "adc052fbc2",
    "titulo": "Lula deve passar a defender equilíbrio das contas, e campanha apontará furos de Flávio na área fiscal",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-deve-passar-a-defender-equilibrio-das-contas-e-campanha-apontara-furos-de-flavio-na-area-fiscal.shtml",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/lula-deve-passar-a-defender-equilibrio-das-contas-e-campanha-apontara-furos-de-flavio-na-area-fiscal.shtml",
    "veiculo": "Folha",
    "publicado": "2026-10-08T23:00:00-03:00",
    "temas": [
@@ -523,23 +635,769 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Lula+deve+passar+defender+equil%C3%ADbrio+das+contas%2C+campanha+apontar%C3%A1",
-   "veiculos": 2,
+   "veiculos": 3,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Lula deve passar a defender equilíbrio das contas, e campanha apontará furos de Flávio na área fiscal",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR1h3M0dvRjU0SGVXY2Y3X3Y2eW05SHk0QzNFc3RoMWVfeENKb2VnSFJsN1BwMGRPU09TdW5laXhISzVJQXdyMjZtT0tNX2xsV2xnTkR5VVd1X1Bnc1hyZVhuQURHcEtJc2lXbFlSVVM0YUlGNEZfVk16eFE2MWRtaFRQOUdCMElDdmh6aWF6X0RhVThnWHF5SVFybDV2N1hqUzBMaFRRNU9zY1A2WEt1SmxvdmFwOW1yVm51MVZQZEw0QlFRVVpnWmFOemdYT2FiQ0lYTWpRRGxHRVNRM2lmeVNvb3hHdGc?oc=5"
+    },
     {
      "veiculo": "Estadão",
      "titulo": "Quais as promessas de Flávio e Lula na área econômica?",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2VwbHNsUmllVTQtdFNIeGJ6dTRQVjBVSnpnbm1BeGtNY3h2RXk2TEg4TGQzNGpZcnJhajBCOUdLLVlvY0xQRkhZdHZlaWVrcjRJY3hEbVdsaHpraDNlT2VEbnpSc2gxckdmZ3VHTElvdkFzZlJLajM1NkdNZk5hNTNGOEZodWJ0b3ZDbUNvZHQteWV5cUUzSDgxZE52ME1jZ1ducjJlTWZ1TE9na3JR0gG0AUFVX3lxTFA2RmZWQm82dno1Sl92ZlNZV2xJT3ltUDBPcGtld3JLcjJZSFpIcVViLURzT0tka1lHckdFbm4wazVpRzNta184VmFCbnZNOEtQWF9QWUV1cmo1SU5Famh6bGxSTE52NldrNVZoME1SS2N6M04xOVVfRF93eDFtZkN5N3ZaQ1AwRGJGTzBXVzZfQkNaN0dCSXhRQ1hyN3RCOXFnLVNoajVxMmE2MG1jMW1ZWmdnQw?oc=5"
     }
    ],
-   "score": 27.9
+   "score": 25.8
+  },
+  {
+   "id": "9716ae2312",
+   "titulo": "Agenda do dia: IPCA é destaque",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/agenda-do-dia-ipca-e-destaque.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T10:41:08+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Agenda+dia+IPCA+destaque",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Agenda do dia: IPCA é destaque",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlhXcjdyQ3VnbTd6czJqd2NVNFZtckZoc1Zrc2JtRTRDd1hnd2lmejRpbndfNkpUdWpjYlAzYnM4cjRVb1pBNF83cEpqZ2ptVXhZaDRhUkdHUXNNRW5XakE5UWNyX3l6Uks4NDFoVG5CU1ZXd3FCSk50LUZic1hlWndjYWlVS09JQXJlWG5waWpsYnluNHd0UWV3NWZyWHPSAZ8BQVVfeXFMT0JYV3I3ckN1Z203enMyandjVTRWbXJGaHNWa3NibUU0Q3dYZ3dpZno0aW53XzZKVHVqY2JQM2JzOHI0VW9aQTRfN3BKamdqbVV4WWg0YVJHR1FzTUVuV2pBOVFjcl95elJLODQxaFRuQlNWV3dxQkpOdC1GYnNYZVp3Y2FpVUtPSUFyZVhucGlqbGJ5bjR3dFFldzVmclhz?oc=5"
+    }
+   ],
+   "score": 25.4
+  },
+  {
+   "id": "6977f66baa",
+   "titulo": "Saiba como ficam os serviços bancários no feriado do dia 12 de outubro",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/saiba-como-ficam-os-servicos-bancarios-no-feriado-do-dia-12-de-outubro",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-10-09T13:44:53+00:00",
+   "temas": [
+    "comportamento",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Saiba+como+ficam+servi%C3%A7os+banc%C3%A1rios+feriado+dia+outubro",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "A bolsa abre no feriado de Nossa Senhora Aparecida? Veja como será o funcionamento da B3, dos bancos, do Pix e dos Correios em 12 de outubro",
+     "url": "https://www.seudinheiro.com/2026/economia/bolsa-abre-feriado-nossa-senhora-aparecida-veja-como-sera-funcionamento-b3-bancos-pix-correios-12-de-outubro-rsgp/"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "Bancos e INSS fecham na segunda-feira (12), feriado de Nossa Senhora Aparecida",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/bancos-e-inss-fecham-na-segunda-feira-12-feriado-de-nossa-senhora-aparecida.shtml"
+    },
+    {
+     "veiculo": "Valor Investe",
+     "titulo": "Bolsa e bancos abrem no feriado de 12 outubro? Veja como ficam os serviços financeiros na data",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPa0JyZDJhN1o0OTQ1N3plTTZqbmVrTVZjWmwxSzZzWmN4YVYxYy1UMjF3ZkF5QW9MZ0Q4YWYwV0dFZEdVdFp1TWNrVjFfendaS0t0QXFRbTJSYmhxdEFMWGJNUjhseWZYMWdpeDdqLUs2TkN5N2gyQ1ctN1VQNmV6YTIzdVFXQTRZYWtqOEpxZWxNWkVRcXA4OC1sX2pzNXFYVDhweWtiX0N4ZFktd1ZKenFiMDYyWk0taVB2S3hyMlNXbG0xV2ZoU2dMNDNyWmhMMktDQkZPNllhSWxyT1FScUJCR2RRbGVtbmxSOXZKdzIwWDFwclU2MFYwSHQydVpWZ0hsdzRlbk9KMU3SAZoCQVVfeXFMUFg4SzRjcDh6ZktGYmhFUlUzQzhfUjhKOHlOMmVkTGRIcW4zQnJxajN5bTJ2a1otZXhhUzFyUGhseTRMRFIyR1BsYWlZNjJ0RTREcEYtbDZQNnhsUXdwaFY3TkgwNmxWTUZBcElzNGhHNjFJbTlDUE5neTFycEV5S1g3YzhPZmRXbW5VbWYxTlptbWFrcUQwb0s0TTNCQWt1R1M3Z2hHckZWNjFOTUtfeFpqQUdaMUhfUm9lbUJQSjZMMTBFbm9VWElNMnE1Z0VYcFVQVGRtdUZqdE5yNlQ5UmxPLUdMZ293RUx5M28ycjJxTzl1c2d3c1V5VUxKY2Z3V1dTTE1Ga2RXZW1jX0tFZVprTTM5bHc4N0ZB?oc=5"
+    }
+   ],
+   "score": 24.7
+  },
+  {
+   "id": "395e3bb1e1",
+   "titulo": "BC aprova aumento de capital de R$ 10 bilhões do Bradesco",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/bc-homologa-aumento-de-capital-de-r-10-bilhes-do-bradesco.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T13:07:03+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=aprova+aumento+capital+bilh%C3%B5es+Bradesco",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Conselho da Priner aprova aumento de capital de até R$ 220 milhões",
+     "url": "https://valor.globo.com/empresas/noticia/2026/10/09/conselho-da-priner-aprova-aumento-de-capital-de-at-r-220-milhes.ghtml"
+    }
+   ],
+   "score": 24.5
+  },
+  {
+   "id": "1c7a199452",
+   "titulo": "Ibovespa sobe quase 1%, a 206 mil pontos, com Petrobras e cenário eleitoral no radar",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3lMcVF1YmFjSUxJZnhKUkFGTWNQR0RUdUY0azBXNlk4N0E5ckstSnVaZUtKV2lDVGdCTDRzZUEySFpmdzVXTThtY3BIUlRZdWxBUlVMWTExUXk0ZHdrdHd4b0VNWFJ4VVpLMkowaDdPQnpvbTBXZVlCYkZkQm5xMFZYM3ZLRnRZWnI4Nnk5VEJjY2hpOHVVaDhkUGk1RkxWeTZuMWpuY3Azck51a2lFWFF6aG1Zckw4VkHSAb8BQVVfeXFMTXpKckxvMWotZlBtOFdPMTd0QVBPSHg3aUwwMHpLTVpySWc1VUw1Z012aFljelNnRzd4a01LaUdOLUtPM2tjMlQ0YnZCcDQ4QWEyTk95VVk2b1A5Z20xaE9hX2x0ZDdJbFZDSFp3R3VwdkkzX0kxQk85alVHSE9LNlNXdzV1Wkc1R2xlV3h4ZDEyR0pQelM1VndxMWJjcXQ0Z3Eyd19ST1Vyb1BjREZSamh1S1pOcXhoYXJxbDVSbzg?oc=5",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-09T12:27:21+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+sobe+quase+1%25%2C+206+mil+pontos%2C+com+Petrobras",
+   "veiculos": 6,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Ibovespa sobe 0,94% com impulso da Petrobras",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2NyMXdYVXMzVXNweUtFaGV4NHJtSVhVbEY2TmVQc2F6ZTdmSU1mZkRheXpFLU5zNVRtMEdINnRZM2FBOTBZYTI5N2FsUDNpaDdrQ0cwejMyeElabEV1UjJuN2dicFA2a2V6UmFaQzRQd0Y4YzV3VTljSHExZXRIT1QwVFR4LXlSU3VOM2I5NHFxYl9HYl9PUw?oc=5"
+    },
+    {
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Petróleo sobe 4% e leva Petrobras e Ibovespa à máxima desde abril",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtPbmdJd3h3Z3Y1VWh2akVBZGt4WlRpYlRZY1ZoZHg1eGloajQydm1aSmFJVUlUMFowSE9yQkJrQTlVZGZVOFJxWXAtTXFxb3owZ1ExeFhvMGdnLUhORGI0MEZXWE05VWtoX3RaSnFKc2EzMjQ0VzNQX0R0a3ZKZl9WMVdOUWJPdVFkNHZKSjZ5NW9uYUtHbWVMUjdrN2VFM2d6am1PTnNTemw5UXc?oc=5"
+    },
+    {
+     "veiculo": "BlockTrends",
+     "titulo": "Trade eleitoral leva Ibovespa ao maior nível desde abril com pesquisa de segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QWnM5Sm1ranp5M0tWZWszcDhQb2dIeGVjRlhsNVRYSlhLTnJsZm54cUc2a1VlYmdMYXZ4b1YyUjV1d2R5SGowUHlsN2FZVHhfcUM2Qi1rR19xMWVodDlkVWE2REJtbUE3R3pocEdqWjI2UkhpSkVCMjBMMA?oc=5"
+    },
+    {
+     "veiculo": "Bom Dia Mercado",
+     "titulo": "Fechamento: Ibovespa sobe firme com novo otimismo pós-eleição, impulsionado por Petrobras",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLTV1ODNKdTUyOU40cXlaUjQ1VnhNMFBPUDdINlcwaTNQQXotUVNGOVlIeUtlOXpLa2tRXzlCM1ZOUThQX3Utck5pa0hnV19QOWNFZ2ZURzg2OENxU2RRTmRMX002a3VnNnoyWW12LWNmbDJiYS1FaldoeHZ2azVuM0o3VzI2aU9obWM5NXpvN2c2VXpycm9aTUJzb1pubkRhdldUUUNSSktvalVBZEZhazhjMGRQOGJ2bXZsQVZ4Zi1TQ1Fuam9mZ04wOENFbmIwWEk1b3M2cjdEU2wybUxsVUtCTXBNMndxUVhabjYwcm1tdw?oc=5"
+    }
+   ],
+   "score": 24.2
+  },
+  {
+   "id": "4713561756",
+   "titulo": "Dólar abre em queda, com dados de inflação no foco",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/09/dolar-ibovespa.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-10-09T14:09:59+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+abre+queda%2C+com+dados+infla%C3%A7%C3%A3o+foco",
+   "veiculos": 4,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Ibovespa sobe mais de 1% e dólar aprofunda queda com eleição no foco",
+     "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml"
+    },
+    {
+     "veiculo": "G1",
+     "titulo": "Dólar abre em queda, com dados de inflação no foco",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xT0ppejctRktTZGE3MmJ3VlZjNlIxVW1uVlF6Nzc5VUpMM1dGWmR1eEhDQWZsNVdqaG45eU1sbFlySGJ3MVhRVWk5b3hzZ1ZJSk1IRzRwN2djTzViczF6LVF1SGtQWFcxamhVSFFBWHNYeVVmdzBSc9IBhwFBVV95cUxON2R0Zk1BSWY1RW5peTIwSEdSQ08zRDVNcUNpNEFlRmRxZ0FzZ09GOXd4TVZWX1pDUnl0SzA3dF81a3A0UUN0N185REJLRHktZS1aTlhZQWZHa29ZTC1PMWw4bE56SlJKZnp1U2RkdUs2UHdNM2FRNzZkaEhxN1ZtSzNEbE5qcXM?oc=5"
+    },
+    {
+     "veiculo": "Forbes Brasil",
+     "titulo": "Pré-mercado: Petróleo em Queda e Foco na Inflação de Setembro",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzVVUWh0ZG9yMkFjbUNKa3dFTDlhT01sY0swNmhGTVdPSEQ4NklyUUpzNXNISHJ5TEIxd0RkREt3MmpZcHItYlFxRkdqSXBGWTBaVXZjN3FDcVJWNkZ3d3FGalp2cGRMU0lDQS1FV1k0UWRRYm9MMGVVU2VoTEZwNjBiNzBJaTk5U1hkOFRPNFR6RU5ZMkROQnZBWVJHcGJIUGNIdUwyRQ?oc=5"
+    }
+   ],
+   "score": 23.9
+  },
+  {
+   "id": "df0dfac7ee",
+   "titulo": "Rendimento de títulos do Tesouro dos EUA de 10 anos pode superar 6%, diz corretora",
+   "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/01/6562-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post467447",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T08:53:00-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Rendimento+t%C3%ADtulos+Tesouro+dos+EUA+anos+pode+superar+6%25%2C",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 23.9
+  },
+  {
+   "id": "2b828b7ffb",
+   "titulo": "Firmus, apoiada pela Nvidia, cancela IPO de US$ 5 bilhões na Austrália",
+   "url": "https://valor.globo.com/empresas/noticia/2026/10/09/firmus-apoiada-pela-nvidia-cancela-ipo-de-us-5-bilhoes-na-australia.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T11:14:26+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Firmus%2C+apoiada+pela+Nvidia%2C+cancela+IPO+US%24+bilh%C3%B5es+Austr%C3%A1lia",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "IPO bilionário de empresa de IA apoiada pela Nvidia trava e liga alerta no mercado",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGw1d05hQ3VqaE14Z3JZOGFUMTVSVVJSYUpSUXNuYjBYMDVkWnpKTl9DRUhZT1JoWXEwVEdLdnJTdVhxY21ZX0ZzWkpDS0ZPaEJmaFVERnZJbVc1SWJsaFhfaF9yeHdXNVBocHZvQWRvNmwyeXhWWmo3V2kzeERHWHdBRVpLV0ozN1BKVHBKZUxUZThEc2xvRS05MHRuTF9rN0dYelBEQklRVVlydWs2Skx3Um1NcVRHTFRRRS1B0gHDAUFVX3lxTE9wcXl1TW9RNlZUWUxpbzFKMlVURHFaSUFvbDVRT3BzYzg3QVU4NXFLNlRpeU5TQ2J5TDl5alhDR2V3c3N6b1cydWlqTmlUX09qVlVwYkRFNHlZdml3V0ZVcWMyS0tfTTFEZlRxVlk2aVhZZU1NN2xUczJibF9kOHZfSFhHZ0Y1TWpCWkZLdWlaeHA3MEkydk1wQU1pUEFIZW1DbmxzQVk4czBpUzJaVUhEUHFiTHE1UFFqZjRxREViN2tGVQ?oc=5"
+    }
+   ],
+   "score": 23.7
+  },
+  {
+   "id": "3f2cc4202f",
+   "titulo": "Poupança tem saída líquida de R$ 9,35 bilhões em setembro",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/poupanca-tem-saida-liquida-de-r-935-bilhoes-em-setembro.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T13:17:36+00:00",
+   "temas": [
+    "comportamento",
+    "economia"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Poupan%C3%A7a+tem+sa%C3%ADda+l%C3%ADquida+9%2C35+bilh%C3%B5es+setembro",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "ISTOÉ DINHEIRO",
+     "titulo": "Saques da poupança superam depósitos em R$ 9,35 bilhões em setembro",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zYllHNWZ2MDFiNVNOZ1RTUGdzVm9tLV94cU5pQW5odUpBMGhxWUMyVGdpMng2eXFpNXBkVWNaUm1aRUlEVTVpV3VzWEYtVGdxNjdFYTM4bEdfZTE5QmFVR25keFZkSXRzekE?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Saques na poupança em setembro superam os depósitos em R$ 9,350 bilhões",
+     "url": "https://www.infomoney.com.br/economia/saques-na-poupanca-em-setembro-superam-os-depositos-em-r-9350-bilhoes/"
+    }
+   ],
+   "score": 23.5
+  },
+  {
+   "id": "c51e01ef33",
+   "titulo": "Reajuste CEEE, dólar, Ibovespa, mais agenda e pílulas da economia 08.10",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSF93bXJnVEdOcmYyRlhYYTFUNUlQTkcwdmVzV2d1TzBkR0JTTE5IMlc5c252bXdfR3NWTTRPcGUxX3BkQ05oUWFsV2RHcFl2ODdWeVgzVUh5TmU2bHg2bWczdnZMLTNnQk5Wcm0wTEJ6bmktUDhxQlRxeEhVOHJsZFluenlkZ3VSSjRHSWh4LWtyLS1PX2I3RWtwZ1JZYXo5WXJqcDBaQmlMNG1HSTZoV0RUd3VZbHNRNk94TzNSd1Q5eFZ3Ymx2R3ZadTM4ZVNIYmRQNHplbzJwaXJmd1RrRDNRUklNTTFRRk5TR1F0RjBHWEcycV9FY2l4QldFWTJH?oc=5",
+   "veiculo": "GZH",
+   "publicado": "2026-10-09T11:17:39+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Reajuste+CEEE%2C+d%C3%B3lar%2C+Ibovespa%2C+mais+agenda+p%C3%ADlulas+economia+08.10",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "GZH",
+     "titulo": "Inflação oficial, bets, dólar, Ibovespa, mais agenda e pílulas da economia 09.10",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZjQzOGtsLVREellKQmtQTEw2U21HRlhWSlktVHdhV0VtekZXTWxka1FoNFFuY3NRWEQ3XzY5eG9LSjVhMllfRDRJSU1uQzBTVWRISmVSUkswTWt4S0V5dV9HYTZBcy12N2ZMVlhTMVZxTkJrWTFqREs5QnVIbHJkaEpZTkpVRVB4bXJJLWhvb2MzNlB6djdNeFN2d1JfZGRzRnJRU1lMZVc2S1Jhd3lrTUo1RlVkUW9BS2ZBM2w4TnpBdFBFYzRqQnk2MXNMVGI0NDdqTkNpWmtrWHVkWm8wQk9EdV9GdGRMU01jcmJGRXdBTk0yR00yUTIwMkpLaUR6UUo5bXJPSVhfMG5icnZSbHdFendPR0xrenlqYWU2cw?oc=5"
+    },
+    {
+     "veiculo": "GZH",
+     "titulo": "Inflação oficial, bets, dólar, Ibovespa, mais agenda e pílulas da economia 09.10",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZjQzOGtsLVREellKQmtQTEw2U21HRlhWSlktVHdhV0VtekZXTWxka1FoNFFuY3NRWEQ3XzY5eG9LSjVhMllfRDRJSU1uQzBTVWRISmVSUkswTWt4S0V5dV9HYTZBcy12N2ZMVlhTMVZxTkJrWTFqREs5QnVIbHJkaEpZTkpVRVB4bXJJLWhvb2MzNlB6djdNeFN2d1JfZGRzRnJRU1lMZVc2S1Jhd3lrTUo1RlVkUW9BS2ZBM2w4TnpBdFBFYzRqQnk2MXNMVGI0NDdqTkNpWmtrWHVkWm8wQk9EdV9GdGRMU01jcmJGRXdBTk0yR00yUTIwMkpLaUR6UUo5bXJPSVhfMG5icnZSbHdFendPR0xrenlqYWU2cw?oc=5"
+    }
+   ],
+   "score": 22.7
+  },
+  {
+   "id": "3316f13316",
+   "titulo": "Governo Bolsonaro não fez correção de rumo fiscal, diz Durigan à CNN",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkNUTlFIQVBhM3FSWTlaMm9FQ1pxeWowaUF0NlRGYlVoQkNjSlVpc0JhUVlROTZzSHcwY3ExZFZJbVZwMk1ORHFLZnZnR194S2RXVHQyMDN3ZUlKYjhWRVlhSHJIdUI4SWt0T3dpWUNfUjZoek1KLURFOVBtd08zcVkwcmEzWFVOY2dscWQtN3lEQTE4eTRraEhtTDNXTXVVemVGRVN3X2N1YU5HZFNrZm9ZOFBWRF94Y0lUX0NFQVBVVTVt?oc=5",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-09T01:00:42+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Bolsonaro+n%C3%A3o+fez+corre%C3%A7%C3%A3o+rumo+fiscal%2C+diz+Durigan",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Blog do Paulo Pereira",
+     "titulo": "Ministro Durigan Alerta: Trajetória Fiscal Piorou no Governo Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHhPeTNIWlhlWm45TUNvcWdER1VmNXRMN3lfNXdmUFZCRk91SFFUV2g3amxnZXI3a1EyUFF1TWJGRHY4eWZOSUdkMERFWTJsa3pBRVFvVGZOaENKdHAzcTE1TTBURlNZZVZFZXV6M2ZGUkdEM2lYTGdRWXFGM0s2TndNaEJYTk5WWlF3RlhXZ2dhVURkaE96bExFdVB0RDE4Ui1VdjZHNVIzR0VSVmE4dDVXUUhtY3VqcGd5RVAxTQ?oc=5"
+    },
+    {
+     "veiculo": "Blog do Alberes Xavier",
+     "titulo": "Durigan critica gestão fiscal de Bolsonaro e defende contas públicas do governo Lula",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS1RNUHhWMzhoOTktZDh5OUo0OWpfcEdLbGRrc2hKLVg1Y2NxTXZvSTFhMjdUNEpIb21SOXRRS19DM2RwZjA3QVpfa3U3LV9OcWZCZ1BNLWhISlRUYjlnVWpaeE5zQWdJVWFjNDlWSTdBZkhiQm5BVmt6RlBicHJEeFh6LTVkclVoRUdPd25uZkl6azc4allsaEp5ZGJLRWtCaDNuSGVsVzhlSm5mNUp5WDk4WXNtcWU5Rlg2Mjhad1gtdlNydWNpWm91aw?oc=5"
+    },
+    {
+     "veiculo": "Sobral Online",
+     "titulo": "Governo Bolsonaro não fez correção de rumo fiscal, diz Durigan",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbV9QbV9qTi1kaTAwQ2EwWTVKUU43azIwS296WEM1elByZ3RrTGJ6RzBwaFgtaTRSREhZTGdNRlpJMTZMZ1pxNkRpOXlHaFRrQUJ5UGZfbVU4NEQwQjdCSTM5dE5iekF6VGZ5Tjh4dlhSMTlGLVdoaHVYWndETUl4dDlPcDR2VUxrdzNvdkVvLVhVcXdD?oc=5"
+    }
+   ],
+   "score": 22.4
+  },
+  {
+   "id": "faed953247",
+   "titulo": "Por que essas 7 ações caíram enquanto todas as outras do Ibovespa dispararam hoje?",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYUxDMi16WE12c1ZQVVRKRUtDWUtSbjRLRk16dE16Ull6dVVtSWdaRE5kRE1id2poSk1laG9xOXh3Mk9fNG9zalYtRHRuUlpLWDlGM1hkdU9ZenB5dURvMlVzN01vc1JMUWJNd0JlWkFaZDBBMFNyaGZDcnhBVUpnWl85alVQcFdDVC1hanhwdk91b1dYNG9KZE84QWoyOFNIZjMyQkxqWG9QbWxxdzVxcUZyRkxMN3pzai1FNHh1dElzeU02bl96dnBpV2Nya0xWYXA3VEhWc0I0TFZSZlE?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-10-09T07:44:35+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Por+que+essas+a%C3%A7%C3%B5es+ca%C3%ADram+enquanto+todas+outras+Ibovespa",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "GFSA3 avança 20,0% e ações em alta com Ibovespa +1,1% hoje",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDlDMnBIQjFxRnFqLTVRV3pHNW5hZ1EtbkpybkdtcklPUDRkeEJpaUkyMVg3WGRlX1pKVzBvb1Z4TS1BUXhMZDg5WFJVejI3QkFsVXlUS1JkWW9FR0FRRHMtVlRYY3JWU2FUTFRrSzhUSlduZXBtQVFGWDVyeExrT3JFY2dtTjUxNXJKelNGcmk1YmV4V0E?oc=5"
+    }
+   ],
+   "score": 22.2
+  },
+  {
+   "id": "c528a83407",
+   "titulo": "Tempo real: Juros futuros e dólar caem com liderança de Flávio nas pesquisas; IPCA fica acima do esperado",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoMVdmeFJ2SW1hbWR0U3lud0NneFhWQk1aY2w1Vm9vZ0FNMkZrSXotLVVBZ3RpVGFxUjMtVGNIMkhzUFY2c3hJWHR6VEk0bHRrQVEyVUNCclZzSkpRZG5wT1BsRkJOZjhYUzlJ?oc=5",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-09T12:11:40+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Tempo+real+Juros+futuros+d%C3%B3lar+caem+com+lideran%C3%A7a+Fl%C3%A1vio",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Tempo real: Juros futuros e dólar caem com liderança de Flávio nas pesquisas; IPCA fica acima do esperado",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoMVdmeFJ2SW1hbWR0U3lud0NneFhWQk1aY2w1Vm9vZ0FNMkZrSXotLVVBZ3RpVGFxUjMtVGNIMkhzUFY2c3hJWHR6VEk0bHRrQVEyVUNCclZzSkpRZG5wT1BsRkJOZjhYUzlJ?oc=5"
+    }
+   ],
+   "score": 22.1
+  },
+  {
+   "id": "cf199b318d",
+   "titulo": "Netanyahu convida Flávio Bolsonaro para visita em Israel",
+   "url": "https://exame.com/mundo/netanyahu-convida-flavio-bolsonaro-para-visita-em-israel/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-09T14:14:21+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Netanyahu+convida+Fl%C3%A1vio+Bolsonaro+para+visita+Israel",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Netanyahu liga para Flávio e o convida a visitar Israel para “renovar amizade”",
+     "url": "https://www.infomoney.com.br/politica/netanyahu-liga-para-flavio-e-o-convida-a-visitar-israel-para-renovar-amizade/"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "Flávio Bolsonaro visita cardeal e recebe imagem de Nossa Senhora",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-visita-cardeal-e-recebe-imagem-de-nossa-senhora/"
+    }
+   ],
+   "score": 21.9
+  },
+  {
+   "id": "cd8ed9295e",
+   "titulo": "Inflação acima do esperado ameaça os cortes da Selic? Economistas avaliam o que muda para o BC",
+   "url": "https://www.moneytimes.com.br/inflacao-acima-do-esperado-ameaca-os-cortes-da-selic-economistas-avaliam-o-que-muda-para-o-bc-jcav/",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-09T14:03:35+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Infla%C3%A7%C3%A3o+acima+esperado+amea%C3%A7a+cortes+Selic+Economistas+avaliam+que",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Inflação acima do esperado ameaça os cortes da Selic? Economistas avaliam o que muda para o BC",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVGdSUXdpRjhPOGJTR1pUeEFkOGZsQnNuRm14QzQxZnNhLV9ZNFdBcTJ1cVVmX3FzMEltbjdtenh4ZHZPdVFZRG9EY1luYTBlaUNwUmZOY1owbTdaZ2NPOHowWklQc256cXFDQ2tIand4LU9HVFFVMVEyRVJDbFk4bGQzYWsySU5IWlhpZU1TcUNsWU8wYnI0OU94bU5yTjRnZUl4UkhFaTA2WUFsNnJDbzdWeXdrRjUxNENUQ0VQNEhUZWVzcmhkbQ?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Inflação acima do esperado ameaça os cortes da Selic? Economistas avaliam o que muda para o BC",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVGdSUXdpRjhPOGJTR1pUeEFkOGZsQnNuRm14QzQxZnNhLV9ZNFdBcTJ1cVVmX3FzMEltbjdtenh4ZHZPdVFZRG9EY1luYTBlaUNwUmZOY1owbTdaZ2NPOHowWklQc256cXFDQ2tIand4LU9HVFFVMVEyRVJDbFk4bGQzYWsySU5IWlhpZU1TcUNsWU8wYnI0OU94bU5yTjRnZUl4UkhFaTA2WUFsNnJDbzdWeXdrRjUxNENUQ0VQNEhUZWVzcmhkbQ?oc=5"
+    }
+   ],
+   "score": 21.9
+  },
+  {
+   "id": "39abc9b206",
+   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 1% e volta aos 208 mil pontos",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-09T13:57:46+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+Hoje+Vivo+Bolsa+sobe+volta+aos+208+mil",
+   "veiculos": 5,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 1% e volta aos 208 mil pontos",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWczNU5WVEVSeUpJMVRJRGRNTDhXdVNqOC1QNy11Uml3M2lZTkFva2p6ZlZBNFU4NjRrNGJhS0tfXy1vQWt3VE1kcEVSYjBiQlEwRVVybDE4Uk1vX00wNzdOYzVNYTgxUk1vOV9rVXBwTDZMWnlZdXluaTBaMThnYjh3ZThGUkt1dkgydzZjdw?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 1% e volta aos 208 mil pontos",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWczNU5WVEVSeUpJMVRJRGRNTDhXdVNqOC1QNy11Uml3M2lZTkFva2p6ZlZBNFU4NjRrNGJhS0tfXy1vQWt3VE1kcEVSYjBiQlEwRVVybDE4Uk1vX00wNzdOYzVNYTgxUk1vOV9rVXBwTDZMWnlZdXluaTBaMThnYjh3ZThGUkt1dkgydzZjdw?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 1% e volta aos 208 mil pontos",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWczNU5WVEVSeUpJMVRJRGRNTDhXdVNqOC1QNy11Uml3M2lZTkFva2p6ZlZBNFU4NjRrNGJhS0tfXy1vQWt3VE1kcEVSYjBiQlEwRVVybDE4Uk1vX00wNzdOYzVNYTgxUk1vOV9rVXBwTDZMWnlZdXluaTBaMThnYjh3ZThGUkt1dkgydzZjdw?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 1% e volta aos 208 mil pontos",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWczNU5WVEVSeUpJMVRJRGRNTDhXdVNqOC1QNy11Uml3M2lZTkFva2p6ZlZBNFU4NjRrNGJhS0tfXy1vQWt3VE1kcEVSYjBiQlEwRVVybDE4Uk1vX00wNzdOYzVNYTgxUk1vOV9rVXBwTDZMWnlZdXluaTBaMThnYjh3ZThGUkt1dkgydzZjdw?oc=5"
+    }
+   ],
+   "score": 21.8
+  },
+  {
+   "id": "b36f6fc149",
+   "titulo": "Bolsas sobem em NY com recuperação em ações de tecnologia",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/09/bolsas-sobem-em-ny-com-recuperacao-em-acoes-de-tecnologia.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T13:55:07+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Bolsas+sobem+com+recupera%C3%A7%C3%A3o+a%C3%A7%C3%B5es+tecnologia",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.8
+  },
+  {
+   "id": "c744dcc2f1",
+   "titulo": "Quarto trimestre definirá se inflação de 2026 ficará na meta, nota IBGE",
+   "url": "https://valor.globo.com/brasil/noticia/2026/10/09/quarto-trimestre-definira-se-inflacao-de-2026-ficara-na-meta-nota-ibge.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T13:52:52+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Quarto+trimestre+definir%C3%A1+infla%C3%A7%C3%A3o+2026+ficar%C3%A1+meta%2C+nota+IBGE",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Quarto trimestre definirá se inflação de 2026 ficará na meta, nota IBGE",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeFRIRTBrR3RMM2o3T3NfSHJzaGFLX3k1cG1oeDhLSEFZSWQ1SEowVy1LRnhIRFJSYmlzZ0xUVVRHbkt5NUpqZnlaRHM2Ymo1UjQ4QldkcUxFbjMtc1BiS1FFcHFPRDYxSHd2TFhWTGwzR2VnU1ZMUzAwdUtoV2tqZ1NZNHNRSi1ENnlFM0hIMF9DVkpQS3RxRTJtTFFsdC1udXFCOWgwOVpYQ2QxcS1LSE1Ba3dhOExBektpRTZ3MUc0Zlhp0gHTAUFVX3lxTE4yQlhKeW5ia2tZX1RFcVNYa1JFVDVkcVBqbW1qeUkxbzNxaTk0elNBcWFSQjJwRlk0cV9NRWx1UGsxYjBpSnhRUE1saFNCVnNYVktHWURLWFltY2l4c0dudWY2SHZ5ZVhaWjNaSzlmSzk2YW5DdkxOTVJvbU9NQ09abWxQU2FHU3MxSUdfamZ6aklxMU52Q0xFb214ZlRFcW5Ea2o1WnBWM08tRVY0WEkxRFhsTjM2MjUyVjFkbWQwb0RNbzhDeDRZUm5uVEotNGNxSjQ?oc=5"
+    }
+   ],
+   "score": 21.8
+  },
+  {
+   "id": "52c56959fa",
+   "titulo": "Conta de luz e alimentos pressionam inflação; IPCA sobe 0,82% em setembro",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcHVMNzNMakhlTkRvXzRiaWRTdlM2ano0Rmd2cFZvZ0t0R3hWbTJDWE9NSGpCbE1fZTN5dUpMNmVzZHVEVjNVaV9oQ3dDUnpSZWNVWHZnR01VaFNxdkx0SkZWYmY2UjNaZmlZR1NvRHVQajVpUTc1cml2MnNZOGVaVVV2dDdfQ1JGbGl0V0Mzd2ZnVno5VlBGTko5NTJrdW1aVmpLM2pLQQ?oc=5",
+   "veiculo": "viva.com.br",
+   "publicado": "2026-10-09T13:40:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Conta+luz+alimentos+pressionam+infla%C3%A7%C3%A3o+IPCA+sobe+0%2C82%25+setembro",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Mossoró Notícias",
+     "titulo": "Inflação sobe 0,82% em setembro, puxada pela conta de luz e alta dos alimentos",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanRESXpQbEtLeFlQekNlTThRUko0WE9nd1piTlgwdHdVcnp2WkpmZXQ0TzN1WmtuREgtblNqQTlkdDhMUHJmSk9mRlRlUHJMV01FV0pyb2R5V0JocHlneDJKSHZicFhyZ1hRSVREa0I3T2ozM2lCcmgxekFjUURLc0FZckFpeDZzcm15b0YxVWpRRWFkeXI2QlEybElQdUppdWNlSHZlX01vRVU?oc=5"
+    }
+   ],
+   "score": 21.7
+  },
+  {
+   "id": "ac4d569425",
+   "titulo": "IPCA em setembro registra 0,82%, superando expectativas",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWh3SHhMVmNZcUhRN1lyUEhVd29wRlAtaHUtb1oyQzBKM3JqQlJ3anlWM1hpUHA5UUo2ajJwUnQ0a1plZm0zdk82UTlzQkF0cFk2RDNGbEQyb2JpaEF1RkszMzYtNHFuTHJlVGFjUXc4Q29yX2hkOXhzUmgzbGpQWHNpTE16R1EwanZTNG94bV9YYzJQTURSM20yaGszeGluNHZXem10X1FuT014aHNJdA?oc=5",
+   "veiculo": "Tribuna do Sertão",
+   "publicado": "2026-10-09T13:21:26+00:00",
+   "temas": [
+    "economia"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=IPCA+setembro+registra+0%2C82%25%2C+superando+expectativas",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "ADVFN",
+     "titulo": "Brasil: IPCA avança 0,82% em setembro e supera expectativas. Inflação anual chega a 4,58%",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNng1c0tyTDlBUDBZbE1sU1BUMHVYa2k5dWprbUJLcHljUlF2cWFTTVdJS2ROS1UzbkZJTnRZc3Q0TzFxb1N2TFljTTJIMDZIRW5YMHZCRDZkdVpVWnNYc2I0b1dXdDJrX21oZXNMaEdoTkFlSTJtWVlobFdPTEdLcmw1ZTdCRXZmLUVzZ2RCc05PbEZZQUNIeVlNdjl4Tms3eWZiSzBSaHp1VEZya3FCc1hhMUozenhmcjFrajB3?oc=5"
+    }
+   ],
+   "score": 21.6
+  },
+  {
+   "id": "7cf572e59c",
+   "titulo": "PIB do Brasil deve desacelerar para 1,8% em 2026 e 1,5% em 2027, diz órgão da ONU",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/pib-do-brasil-deve-desacelerar-para-18-em-2026-e-15-em-2027-diz-orgao-da-onu.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T12:54:53+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=PIB+Brasil+deve+desacelerar+para+1%2C8%25+2026+1%2C5%25+2027%2C",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Crescimento econômico mundial deve desacelerar a 2,6% em 2026, diz agência de comércio da ONU",
+     "url": "https://www.moneytimes.com.br/crescimento-economico-mundial-deve-desacelerar-a-26-em-2026-diz-agencia-de-comercio-da-onu/"
+    }
+   ],
+   "score": 21.4
+  },
+  {
+   "id": "feeb16d529",
+   "titulo": "IPCA, força da IA e queda do petróleo pautam os mercados nesta sexta",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hd3locU5uWjZQdVNYb2xHVHJXS0otb09tMGZsdmttdVFjTEd3MFU4RDJucTMyUmxhdG1TcGJkeE5FaGpQNXBTRDZFWS1wT2F0dUpnMzFzVGFSOUZwN2pFUGNmN3d3X3NUNXdsRkhvRkItTmRhLVhmanJ0WlQ0UQ?oc=5",
+   "veiculo": "ISTOÉ DINHEIRO",
+   "publicado": "2026-10-09T12:52:49+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=IPCA%2C+for%C3%A7a+queda+petr%C3%B3leo+pautam+mercados+nesta+sexta",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "ISTOÉ DINHEIRO",
+     "titulo": "IPCA, inteligência artificial e petróleo pautam o mercado nesta sexta",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnpvZnpwanVEN0tMUWM2QUx2MkFCbGd1Z0VYeFFGQ2xLR0c5bGJtZ1R1QVdmMzVaanQ3eWNCRjg1N2dnbHVuRGdVb3RLVVRwVk56ZzBieVpFeGJmdnE4QlZZZDRWZmxGNlVHUGxGakZXT3BwRVBJbEF3Q0lRMGFiTA?oc=5"
+    }
+   ],
+   "score": 21.4
+  },
+  {
+   "id": "8dc7ef0449",
+   "titulo": "Violência, corrupção e economia lideram preocupações dos brasileiros; veja propostas de Flávio Bolsonaro e Lula",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeURaS0JZMFAzUjRqTkQ2Q0lFTFVzc2hjaDluWkVKakdBd2ZWd1JGTldjLXFsRUg2bWpyX3BvZnZRZUtsTzUyMVFfM1hoOGgwdU5IT0JrYWNwZ1llVmUtdk13N21FRmNBQkQxdnNvVGc1XzJIbER0TUo0Z09PQkJVa20yRFprLTJINU5VT3I1OTR4SjRZT1hXTmpQR0pnNlVja3lFaXI0MnFMZEg5UEhtTXNqSEEzOWlDVHJacmlCLUszaHlqVGRldDlUem5KNjZDVWxkMDZPa2FELUk?oc=5",
+   "veiculo": "Jornal da Fronteira",
+   "publicado": "2026-10-09T12:50:32+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Viol%C3%AAncia%2C+corrup%C3%A7%C3%A3o+economia+lideram+preocupa%C3%A7%C3%B5es+dos+brasileiros+veja+propostas",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "G1",
+     "titulo": "Violência, corrupção, economia: veja as propostas de Flávio Bolsonaro e de Lula para os temas que mais preocupam os brasileiros",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMi1xUmplTGotV0pVNXNJVFpxUkVfSjdCYVFfdEVCbi1VclFYM0FYWG5KaGh5SFdRaEJEbGM1U2hsczgxQm9WZGxkdGJBZ2hGUE50cGtZQkk2ZFIzZnl5TnhGLVA4cUlZS3hEQTA2aGE2bW1kcXkyNTNPVXRsd0MtVFJ2Wk9LTFlRWm03SzdlNzZieW55VlV5T0FkZVVzYm51UWVVd00wZWJ0STk2bGhQX2xpNzfSAcMBQVVfeXFMUFVhbGZYWUl1dHRMbGh4RG8talZ1S01vV1QxTnkwQm5PVzFOVGFwQ0xOYnBaSHgwVG1IXzRuYm1xeUlfN0duRlMteGlRUnU4WTdybTlKVGR1MkJOWHF0Skt5TzhLaFYyYUpjZDNkXzdWYkpDUDRPR0ljOG1EbjkyNFdkb0FncTgxR2tLbG93VDZ3Q2RjbUU5WjV5bkxEbVdzUFE2ZGZiekh1S19fNW5yTFVVOWUxeGRFVWk3czF2V2FGSG8w?oc=5"
+    }
+   ],
+   "score": 21.3
+  },
+  {
+   "id": "24fa88dfba",
+   "titulo": "Abertura | Mercados globais operam em alta; Ibovespa futuro sobe em meio ao IPCA de setembro",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX19LTVJsZjMtZXJTWkVwaXRJY0Y3bUJYbFpKbmdqQlFobmJJd2pNNXprXzRiRWF6WGVUTVl4czVjczI2TVozWmtDWml5UEpJV2tzV3pMNHdJYUh2cXdlaGdXaU50NnpiNzcwWDJKVFB3V3RVdnlN?oc=5",
+   "veiculo": "InvesTalk",
+   "publicado": "2026-10-09T12:43:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Abertura+Mercados+globais+operam+alta+Ibovespa+futuro+sobe+meio",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InvesTalk",
+     "titulo": "Abertura | Mercados globais operam em alta; Ibovespa futuro sobe em meio ao IPCA de setembro",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX19LTVJsZjMtZXJTWkVwaXRJY0Y3bUJYbFpKbmdqQlFobmJJd2pNNXprXzRiRWF6WGVUTVl4czVjczI2TVozWmtDWml5UEpJV2tzV3pMNHdJYUh2cXdlaGdXaU50NnpiNzcwWDJKVFB3V3RVdnlN?oc=5"
+    }
+   ],
+   "score": 21.3
+  },
+  {
+   "id": "72f9fc5b9a",
+   "titulo": "B3 (B3SA3) dispara 20% na semana e bate recorde; correção vem aí?",
+   "url": "https://www.infomoney.com.br/mercados/b3-b3sa3-dispara-20-na-semana-e-bate-recorde-correcao-vem-ai/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-09T12:30:45+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=B3SA3+dispara+20%25+semana+bate+recorde+corre%C3%A7%C3%A3o+vem",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "B3 (B3SA3) dispara 20% na semana e bate recorde; correção vem aí?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjl2YlBaaDQ1Z3YzajlpTmJPZlplWXdpdkdqU2tfQk5iQTR5NzJPaVVBcDFtVmxFcW9sQ0x5MkYzakwtUnZWSnNHdnI3eDMyV182N0w0NkpIanNGbXprbndpYnZ6b1BLdnFiWXpjSElJdDJpVFJKQm5rRlo3d01uQ25aa3kwWWFBbkV4ZVNsQ25mNFFrY2hBTWZwbkJxZ29i0gGmAUFVX3lxTE5ibERUTU5Rd2Y5Q1VRczFETnBLSTY4TkxiWFh2VDNIU0ZwTWJTZ3BTcnBFQ2cxLWJqaGE5cGpsRnVBOVI1TUhMWTE2TFRGU3ZBTnJIMXdYOXRZc2Z1Wks4NkNHM3JLYjdyUG1QaEhFaE15eXI4Uy03cjNNVEt1RXYwRUxWbnpWYnQ3ZVQ0NkxEU1M3U29yRDB1WUpoLUpidGFHakQ3blE?oc=5"
+    }
+   ],
+   "score": 21.2
+  }
+ ],
+ "falas_e_videos": [
+  {
+   "id": "407c9919d4",
+   "titulo": "Campanha de Flávio divulga vídeo de apoio de Augusto Cury",
+   "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-divulga-video-de-apoio-de-augusto-cury/",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-09T13:06:15+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Campanha+Fl%C3%A1vio+divulga+v%C3%ADdeo+apoio+Augusto+Cury",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 15.5
+  },
+  {
+   "id": "ebd042d636",
+   "titulo": "Flávio tem 49% dos votos e Lula, 45%, diz Datafolha",
+   "url": "https://valor.globo.com/impresso/noticia/2026/10/09/flavio-tem-49-dos-votos-e-lula-45-diz-datafolha.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T13:54:30+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+49%25+dos+votos+Lula%2C+45%25%2C+diz+Datafolha",
+   "veiculos": 18,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Eleições 2026: Flávio Bolsonaro (PL) amplia vantagem contra Lula (PT) no segundo turno, mostra Atlas/Bloomberg",
+     "url": "https://www.seudinheiro.com/2026/politica/eleicoes-2026-flavio-bolsonaro-amplia-vantagem-e-tem-511-contra-457-de-lula-no-segundo-turno-mostra-atlas-bloomberg-giov/"
+    },
+    {
+     "veiculo": "boca.com.br",
+     "titulo": "Dólar recua com Flávio Bolsonaro liderando nas pesquisas do segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFBGYl9mVDhwQ09OTTdkNG1VR01BamdFNHNkYUd5V2lQN2sxcXZSRXN6RDFDejNjZi05QmNCNEQzNFhyLTViSG5SRmlnamI1UGt3Qjdpc2JHMW5UMkFnVnhqaXlxUUdIaWtlcGRwLTFsXzctSjRiNDlPMjdnMmNwcU5CR1JCbXA5SFktZGpB?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Dólar hoje volta a cair após tombar mais de 4% com Flávio Bolsonaro à frente no primeiro turno",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR3JOOTdDT2lYXzNHYUdOQWNXbWhRQ2FuZExMbW01ZW9SVVFCb252ZjZzNWpCT083ejB3SVlDTGFQM1dmdkYyTjhwdy1GUEJodW1sUnVlbnZubnRhNWRPSzhIZkNQMnRfZEQtOXlrbkJKSEF6YW5CbF9qakt6aTEwbjI5eXNhdW5lY29sTkNDM1g1THVTOEllMlNZNkZJbDZ5YzE5VU5PQkEwTHdTVnRsZGJnRjlfXy03WG5HYjdBNUNlYWlLYkNTVG1DTGpMb0x3QmNjNm9TVkl3RzlOOG94VUlfZ2xuX2FxU29PTmhCZTRqZw?oc=5"
+    },
+    {
+     "veiculo": "InvestNews",
+     "titulo": "Flávio tem 53% contra 47% de Lula no segundo turno, diz Atlas",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2NWcEZSRlg2d1dGUG90ajB4NGk2NVZBbmJGVXE1endRSFJ4dnZiUFdNdkZxYXZSOThMSDBqYllrMWNTSW1FSjNYX3NOcEJNWGlONVlXME9OOGN0VENSYXRUWXpoVGNENkJ4Ukc4UUFkVkdYaTctaW9vbjR4ekdMd3pDYzRBc1F5OV83SlRQTzVCRXl0V094WU1n0gGfAUFVX3lxTE9HWU5nRzNpcTA1MHM1d2ZwRjBmcUdOWmFDTkNJWEEtRjI0U0tZN2VFVG9lTkpGODdDS0paakJqUDBoTGZCd2dxdTNKSzBJZ0dwdElXTDZkbTNDS2VmTmNvYUc1SG5NOFUzSjBnMU1HWi0zODc1bEtOOXFrYlNTcDZpbGVnSm03MDIwWThwckRyb21peVVqdTBUWTdnQV9lNA?oc=5"
+    }
+   ],
+   "score": 37.8
+  },
+  {
+   "id": "980b629409",
+   "titulo": "Galípolo diz à PF que 'esgotou repertório de palavrões' por demora de servidores na fiscalização do Master",
+   "url": "https://c-level.folha.uol.com.br/financas/2026/10/galipolo-diz-a-pf-que-esgotou-repertorio-de-palavroes-por-demora-de-servidores-na-fiscalizacao-do-master.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T04:21:12+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+diz+que+esgotou+repert%C3%B3rio+palavr%C3%B5es+por+demora+servidores",
+   "veiculos": 18,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "TV Master Ao Vivo",
+     "titulo": "Galípolo diz que “esgotou palavrões” em cobranças no BC sobre o Master",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRG90cW1ZNGo2NE84LW1QdWVyemVtczl2YVV0R09uZ1BmUy1YNlpJTGdMTG1aMmxRNTZtR2JUWDZ5c0J4Mm5QVnI4dF9RUFBNcHZkUVZsMTU2S05wSjhpTVF5RTB0WVBwcXpCcTNBQnQ5MGJLeE5KQWRBa2huejB4ZmVOcHdYS2pBRVczdnNqWXVSNUk?oc=5"
+    },
+    {
+     "veiculo": "DOL",
+     "titulo": "Galípolo fala sobre a pressão por demora na fiscalização do Master",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXZWcEZaTGxPMDdjcGZvcnFvQ0FNWWt0dFVRWDcxWW1zb2VVb1dqVnhaYW9JQ1NHMzhVV205VVhfd1ZUbTE2aWhtZVF2SXhzclFmdzBpbHFOaGlmMElrRk1uWXNZR3hpMEpkSnlEQTg1ckN5c19ENFhhLXZXemJXWEF2SkFVRTJ6dVdBQWVwVlJQdW9FRlB0UXRhMkRIY2RiblZLc0oweThPMWUt0gG0AUFVX3lxTE1mbGpKWDZ0MnhsQW5uOGk3N19TVnBPVjNwRUw5UFpLcUFmdHJrRG1KU3RXNVBUeGlmcDdlM2wxanVLMVJZcjEyOHdDRUtheDhSWlJpRktEQkJma3I2aVNoU3ZhSkhFeVl1WlNnRU5EcTdSUUw0THBjblBLRm5BWGZXa1hQU3N1U0dlVVVablEzaFZqS0FmMlRkUElxODlMQnZIUWZGampvRG1fc2F6R09HTVhURA?oc=5"
+    },
+    {
+     "veiculo": "Gazeta do Paraná",
+     "titulo": "Gabriel Galípolo diz à PF que “esgotou palavrões” ao cobrar servidores sobre o Master",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0JEYUJ5Qlp4YXVLSTM3YzZtWEJhWVV1Q3Vyc00tV1E3c05MZDhjX1hfR29odFBYWUd3NTVJR21pNXhwSlF6WHMzcmNMeGx4bDZnNm8wX0VwRjZGc0VHVGZyUEV2dXEyWmNtSnQ5cUlXZElzZm41cDdGdnQ0aXV2QkFEMUhjN0dhV1BWQ0xGeWh4R2xpZ2xPY1c0NFpnREU3WV9KTWhqRFo5U3kyNUlTcEpnZ3ZXRUx1OU4zNXdR?oc=5"
+    },
+    {
+     "veiculo": "Folha PE",
+     "titulo": "Galípolo diz à PF que pressionou servidores do BC e 'esgotou os palavrões' em cobranças sobre o Mast",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNFYnVQZnk4VzNYVlNUM2JxSGxNNTUzbXluclF3Y3lQNXNNa2hwS0xadTNaQjEwQXJsLUF0M1hpazZWY001MG9MU0N1STdieDhIN215eTduN1hvV0NscXVWbHZ0THJkTTlOUW05SzEwMWd3TmRtLTJ5Ujc1dC0tU1ppTnlzcTM5Z0I5U3pvQkI5Mk1uNVNmbW5PYjRTZEZrSVNqX0pxOWY0QlN6V0HSAa4BQVVfeXFMTTVDRWJ1UGZ5OFczWFZTVDNicUhsTTU1M215bnJRd2N5UDVzTWtocEtMWnUzWkIxMEFybC1BdDNYaWs2VmNNNTBvTFNDdUk3Yng4SDdteXk3bjdYb1dDbHF1Vmx2dExyZE05TlFtOUsxMDFnd05kbS0yeVI3NXQtLVNaaU55c3EzOWdCOVN6b0JCOTJNbjVTZm1uT2I0U2RGa0lTal9KcTlmNEJTeldB?oc=5"
+    }
+   ],
+   "score": 35.8
   },
   {
    "id": "b6a08adc7a",
    "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
    "url": "https://g1.globo.com/economia/noticia/2026/10/08/representante-da-campanha-diz-que-governo-de-flavio-bolsonaro-nao-privatizaria-banco-do-brasil-caixa-e-petrobras.ghtml",
    "veiculo": "g1",
-   "publicado": "2026-10-08T15:17:56+00:00",
+   "publicado": "2026-10-08T23:00:04+00:00",
    "temas": [
     "mercado",
     "politica"
@@ -547,9 +1405,14 @@
    "video": false,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Representante+campanha+diz+que+governo+Fl%C3%A1vio+Bolsonaro+n%C3%A3o+privatizaria",
-   "veiculos": 3,
+   "veiculos": 4,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "Blog do BG",
+     "titulo": "Coordenador do plano de Governo de Flávio nega privatização de Petrobras e Banco do Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVgzM3hwQm5ZVUlwcnVYOENEZlQ5bEpMR1VmUWR1SFBXeE02LWVBMVpyQ3FBR2wwdDFBMm9DR2dqMDVXaXNwTnM4RlZKeXFZSFdpLS1nN0RPdi1XM1ZuMmxkSDVfTzNkSzdCYWpzSTZwM3ZHM3RVaXpYalNwU2o2cGdRNHRZRVJEdy1jMDROVXA1Snk5dkV4bHE5aTF3blZtY3F2cmhSNkRQMnVBUXhLSzYybVd6WGpmb3Rv?oc=5"
+    },
     {
      "veiculo": "avozdocampo",
      "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
@@ -561,226 +1424,32 @@
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcWNPQXVIMzJCNnFrUEs2VVVzWVVmSVB5ZlVDZUJiZUxnaDR1MlZvcUhPVHVFenhOWW1iczNJUDBLcFdXUVk4MTd6ZGxDNlVMTFRPX290WldxbnhGT3ZWTUF6WWxIUXZPZUhhZlE0N3hEOU5VX2o3b0JEQkJiNGxTY2V1OE9lUDRZekc0ZkFJcURjaFhNQ1FMLTdHSUJTU2RMYVF6QU1kSzAycjZ1MFpuUlY0Tlo2YnFla2plOUZMNl94dEJWT21SUHM4ZThseklqM2FzTTI1aEhGbW54cUdOQ3RNMUdDdHc4d0l0UTNabmVUMHhxM3c2YzBJRdIBigJBVV95cUxNclRnOEZ0MHppckRsaVMwWHZodWlNc3N2ZmY1Rmo4cWY2UEVQckxhb1p5RDdJYkFJTEI1ZHc0ODA4dkxQajNGYURIcVNDVk5EWlZLVzNKVE9xRUU0N1BXX0tweTdYZ09kYUROa0dBN29fTERxdVRpTlNNdUZ6Y29fbWExUjRqVFl2M3hCMGxLMkszeEpDVkU2WTBnTThaeTZZNXpfcGVKSDdXR2VvV0RWMHN6aXJKSHpOSXdaNnppVGthRDBvMmJ0eWl3VXNwc2RrYlBEUEhlMHJVMzc3Rm9VVUllQ3ZIby1LUTF4cHprT3lOUDg1NWRtZnJZZlQzYmE4a0hxTnhpSTBaZw?oc=5"
     }
    ],
-   "score": 26.4
+   "score": 27.6
   },
   {
-   "id": "93f50a352f",
-   "titulo": "Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’",
-   "url": "https://valor.globo.com/brasil/noticia/2026/10/08/durigan-diz-que-ajuste-fiscal-de-flvio-bolsonaro-iluso-barata-e-vazia-e-mercado-est-comprando.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T21:22:51+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Durigan+diz+que+ajuste+fiscal+Fl%C3%A1vio+Bolsonaro+ilus%C3%A3o+barata",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Poder360",
-     "titulo": "Durigan chama ajuste fiscal de Flávio de “ilusão barata”",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRMRWlhT21FUmtlQmN3UFZXTnNBYXNpVFlkcDBxZkFUX05MS0ZucTU4OElZUnFlX1ZJMWJ0MW11LTRreWwxaDBiS3hWMDVGZzM1UEYwTGtoSUxRUDR0WEFTbUw2N0g4X01tTzVXVHp3MUpXNXE4LUtaRTNBdGRtbHF3UlJQbDlxM0szTVBlYmVtV1RQUXJMTUVEdC1wRzA?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ3IyTU4xU0U0ZTMxSHQ5N21rZjhnakxyQklLWm1RVzFDM3E4QUtNaE1OZ3g2SHRSd3hBY0xwN1JMcG1IS2hESkhmNng5eEJXeWlOQ2VaOVIzZDVob3dCZHlFRjJnaXhiYmJ1aXR3LXgwNWhqOEs2a2l1dmFrby1mLXlpQjd3Q0xiT3lsaDVDTWFJbllyczU4QkpwWVAtOWx5cGtjcG4zRlJtSkltdHp5RVJRVUVLRzU3U2NDdVBVWVdMN3ZkWGJ5dno5bkhzTFBMa2x4cHdfS09Ta2w3TTlKUV9JVGo4YmZLZzlRNFcwYkQ1UdIB8gFBVV95cUxPQ3IyTU4xU0U0ZTMxSHQ5N21rZjhnakxyQklLWm1RVzFDM3E4QUtNaE1OZ3g2SHRSd3hBY0xwN1JMcG1IS2hESkhmNng5eEJXeWlOQ2VaOVIzZDVob3dCZHlFRjJnaXhiYmJ1aXR3LXgwNWhqOEs2a2l1dmFrby1mLXlpQjd3Q0xiT3lsaDVDTWFJbllyczU4QkpwWVAtOWx5cGtjcG4zRlJtSkltdHp5RVJRVUVLRzU3U2NDdVBVWVdMN3ZkWGJ5dno5bkhzTFBMa2x4cHdfS09Ta2w3TTlKUV9JVGo4YmZLZzlRNFcwYkQ1UQ?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOXU5RG1zSmdmb2huX0JqYTRCeEdVMVUzZ0hxeFpKclVTVXdNaF93Q25pc0dLTURhTU1OckNITGNxcnR2Wnl6R091T21ZNUcxN0NMcnN6WW1YVFFEb3EydlJfMFBMS1pBd01CeHJFclk4STNicS13ejdjUkxtN1hjQTJOYVM0ZEpOOXV5dTNOZFdRUTNGbHJuQWVVSUk1MWRZZUg1V0FZNDJtTUVSTHIxOUN2QW1hVXdkWjFkR0s2dnB3dWc0YjF2VnBjYlVjZ25kNXlMUGNHVFFtLWNHQVdYQ2tGY9IB8gFBVV95cUxPQ3IyTU4xU0U0ZTMxSHQ5N21rZjhnakxyQklLWm1RVzFDM3E4QUtNaE1OZ3g2SHRSd3hBY0xwN1JMcG1IS2hESkhmNng5eEJXeWlOQ2VaOVIzZDVob3dCZHlFRjJnaXhiYmJ1aXR3LXgwNWhqOEs2a2l1dmFrby1mLXlpQjd3Q0xiT3lsaDVDTWFJbllyczU4QkpwWVAtOWx5cGtjcG4zRlJtSkltdHp5RVJRVUVLRzU3U2NDdVBVWVdMN3ZkWGJ5dno5bkhzTFBMa2x4cHdfS09Ta2w3TTlKUV9JVGo4YmZLZzlRNFcwYkQ1UQ?oc=5"
-    }
-   ],
-   "score": 26.0
-  },
-  {
-   "id": "efd4549950",
-   "titulo": "Endividamento das famílias cai pela 1ª vez no ano; inadimplência recua nas menores rendas e cresce nas maiores",
-   "url": "https://g1.globo.com/economia/noticia/2026/10/08/inadimplencia-pesquisa-renda-cnc.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-08T21:07:00+00:00",
-   "temas": [
-    "economia"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Endividamento+das+fam%C3%ADlias+cai+pela+vez+ano+inadimpl%C3%AAncia+recua",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Tribuna do Paraná",
-     "titulo": "Endividamento das famílias cai pela primeira vez em 2026",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzBPZG5QQXNQbTloeEpiS3hhSHl0aFJkMmhRYVE3bnA5ZDBoazFsOFY4ZF96Nk5OYV96YzFrVHBrWDJmZEFPbUlPNjZyNlVLWVRtMmJxamFZTHhLaU0waFd1MVp3aFhHWWg2dTV1MWdWMjMxWW9PRkpoV0kyaUlVM1pOeGVsY2tkcEstbk42b2stZ3JsUy1FYUE3TWZ2aDd3bV9JMkxhONIBrAFBVV95cUxOV0JTWXJyajJhSHRVQkZNYTBCX282TGdSOEt0X2cyc2F1eG9vcHdLbGlNQUhnWmVLbG96dURQVmZuYmZkUWZvdThqajlKbHoza0xtN3pfUmxIS3AwR1FaZUhrZkJxSHAzSWNnV0syZnIyTzdfdE41d2g3R0lWcE1NTm1aMTNudkh6cWlvVVRSTXpoaXp2ZzFhXzdXNTVMMzUyUDMyRlBDcjRxcW5N?oc=5"
-    },
-    {
-     "veiculo": "G1",
-     "titulo": "Endividamento das famílias cai pela 1ª vez no ano; inadimplência recua nas menores rendas e cresce nas maiores",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFpOOGRLbEh2LWljb3pzeV9VNEswSlNQX1FvNlYtby0wbWdfYVZIUzUwV2J5YzdxVkl1c2c2b1hwanNGNTVTNTF6cjFrWWpTeXRTaVUtangzM1Q4Vi1pRkJwT09mbDVkZzFaMmNtNDJkc1g4RlR6a3JnZTBaWm8zdGZCY0FfbzNMV2pGQTlEdUPSAZ8BQVVfeXFMTm5LcktTYVhDWDF3bkVkVmhoc3NIY2FlQWhxTnJLa1RYVWplOG92UjlfcXp3eEFuc3RyVWZ5cU1yVy1WX3dqNW1GWFp4bzJfbHU5UlFWZW4yeVh5ZU1VQzN4YXM5M1hkMVpPUHFRSFMzQzd2TVlZcmRkVzBienJXT0lUajAwbW9WNk9UaURFcFZsVXktcHNvNUtrY05ZeUN3?oc=5"
-    }
-   ],
-   "score": 25.9
-  },
-  {
-   "id": "10cb505af5",
-   "titulo": "Dólar sobe levemente entre cautela externa e cenário eleitoral",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFNyUTFMRjZucXpleXlsN2lUc1hIdGgyQ1ZxZjFjc19hZGhQb1ZJZWNlTXlWcjNFVVdHcEJHWWNVd3M3N1ZSVnd5V2lkaW56dU9vR1dma1VSRExRc0ViOHU4czFsSkN4d3YtNFp5STlfNzFkWjk1MlNscjEyeDJlY3liazR2eFNZaWtrSmlTY21sZzFVNnBndEtubDZtS3pzM3Y1SmZaMzFNYUhDWWxLcEh6MHdhX19VQXB5QjBtVm5laXd4UjBSemRrRQ?oc=5",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-08T20:42:38+00:00",
+   "id": "df0dfac7ee",
+   "titulo": "Rendimento de títulos do Tesouro dos EUA de 10 anos pode superar 6%, diz corretora",
+   "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/01/6562-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post467447",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T08:53:00-03:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+levemente+entre+cautela+externa+cen%C3%A1rio+eleitoral",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "ADVFN",
-     "titulo": "Ibovespa sobe com cenário eleitoral e petróleo acima de US$ 100, em dia de cautela global",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONDVxN0hmWW5Dck8yUU4tNTE0RFR5OF9ybE4yTlhWYkQwMVdfcG1ILWlwTWx6cmFhX09ZSFpkY1RqWFVoTGlKSlVYVlhEMVFvTzJycktKTGt2WUd2LUV0aF9qOThzQmdhdUJyYTNaZ1lDZkRRYVl3a2tUZFpaaXFyQTVJYXpVaGZzV19DMHBVMDBJc0dub0h6Z09uOVBvZEE3S2lwOVM4TE1sSE1yVU00WmNhTk9Rc2JQSDZ5eGNHakY?oc=5"
-    },
-    {
-     "veiculo": "Acesse Política",
-     "titulo": "Ibovespa sobe com cenário eleitoral e queda dos juros futuros",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGNseTNRNkg0dEhGNVdSbTJ0TFU4SmliNnZSdjRrQ0g2R3JDTFJGQmVLVUd2OUVmbE5SQlFvdlV1TUVoaGdxRm5NNzFCd2VoVUhTWUhVcy1wcXVvVXpxMjZhcW5VS0I1amFjSnJPRVdscWJKTnRiQ3YxbHZuVXlLWk11SFBQZHBtSlRPVHVldzBzRGJRQmdCT0pxLU1FczlJcnVXMEE4ejhiQQ?oc=5"
-    },
-    {
-     "veiculo": "Folha PE",
-     "titulo": "Dólar sobe levemente entre cautela externa e cenário eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZy1mLTJFa0xRVlpMUjJOVUh4TkF4ejFYNmVtQVJSSHBoM0JjVWpKRWF0LUptZlRLUDQ3b2VzeVZqcWx4cExtN2xnTXhoMTdqZGVTb1U3elZkQjNNaGI2Z2FHTUpySkF3bU1rdU1vNWNEblN0RGNZbjlpb1hZX2gzUWhQRXFCZmx3ODF0ank0TGNOd0NNTmpPTEFhT3huWm5VTjJFeWh3S2VyTlo2Q3fSAa4BQVVfeXFMTmctZi0yRWtMUVZaTFIyTlVIeE5BeHoxWDZlbUFSUkhwaDNCY1VqSkVhdC1KbWZUS1A0N29lc3lWanFseHBMbTdsZ014aDE3amRlU29VN3pWZEIzTWhiNmdhR01KckpBd21Na3VNbzVjRG5TdERjWW45aW9YWV9oM1FoUEVxQmZsdzgxdGp5NExjTndDTU5qT0xBYU94blpuVU4yRXlod0tlck5aNkN3?oc=5"
-    }
-   ],
-   "score": 25.7
-  },
-  {
-   "id": "7abb59e550",
-   "titulo": "Governo dribla decisão de Dino e retém R$ 731,9 milhões da CVM em reserva",
-   "url": "https://valor.globo.com/financas/noticia/2026/10/08/governo-dribla-deciso-de-dino-e-retm-r-7319-milhes-da-cvm-em-reserva.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T19:48:42+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+dribla+decis%C3%A3o+Dino+ret%C3%A9m+731%2C9+milh%C3%B5es+CVM+reserva",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha",
-     "titulo": "Governo dribla decisão de Dino e retém R$ 731,9 milhões da CVM em reserva",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-dribla-decisao-de-dino-e-retem-r-7319-milhoes-da-cvm-em-reserva.shtml"
-    }
-   ],
-   "score": 25.3
-  },
-  {
-   "id": "1299c01dde",
-   "titulo": "Leilão da ANP arrecada R$ 3 bilhões com a venda de 49 blocos",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/leilao-da-anp-arrecada-r-3-bilhoes-com-venda-de-49-blocos",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-10-08T18:35:08+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Leil%C3%A3o+ANP+arrecada+bilh%C3%B5es+com+venda+blocos",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Suno - Investimentos Inteligentes",
-     "titulo": "Petrobras (PETR4) arremata 21 blocos e vai pagar R$ 3,2 bilhões; veja onde",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQTXN0SDlvdEZEcnVhWmhvSWVIaDBqdzB3c0hnTjhYNG1UcDVpb2xkVnFiUzJXU19BZDd2NW1RSl96ZmNFSUJMb0h2dEZrLTRQZjJmWHVhOWRkZjZxLXlvcmVOUndwcFV4YTd1TDZ0eG50aEs0VFZNU0o1Z3E4UdIBgwFBVV95cUxOcEYyNzJocmFmWEp1MWoxbktRYmdXX1ZFMWFnQmlaZzJXRmZKMHFiMnN1THA2ZWs2VlktdWttaWx5TjBBX3R5Xzh5VmIyQ180T1BTWUpPUkJwRGx5MXRxQ1VqeE1PZDJqbmx4Y2ZITlBPMVp5SFVOdWRYaXRUeUh6NXZOYw?oc=5"
-    },
-    {
-     "veiculo": "Monitor do Mercado",
-     "titulo": "Petrobras arremata 21 blocos por R$ 3,2 bilhões em leilão da ANP",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUxFMHdlWW9VYk9DVWF2NWJYTjU3Z0I2d1ZUcVBQQkhNUXM5TktRVzJuTHFVQTBOQnJBTmRQRDVVNUZ5MGFpNG1ucFhvQXJjMXFxY09GeG1NVnotMjNBRHRzZGNzU2l2TC1vODU5MVZfcFVKNHFZWWZCRTBHbVBqVG13R3RHV2Jja0lCMGd6Zy1fOXRUVFFGTVNNSS1iYTRTYzRBNlhDWnRXT2RZWVcw?oc=5"
-    },
-    {
-     "veiculo": "EuQueroInvestir",
-     "titulo": "Petrobras arremata blocos em leilão da ANP; veja quais",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGdhWDZTOERRZFdzMGJVU0swaEN6RmNEZEtjUjkxRWNXaEZDWFdDNnhBbDNJUGp6R21UVHg1bmJEczZ6RUswODh1SExRTFdWaThvTlZ0QkNycEgwWU5GOFNaSlhqRGxwelJqR3RXbi1qOWJiOERTc0tIUzJTdW53QXZPTG1sRm9HZlZSVEp2S1REbjV3?oc=5"
-    }
-   ],
-   "score": 24.8
-  },
-  {
-   "id": "f31fb8329b",
-   "titulo": "Zanin nega pedido de Paes contra anulação de votos de Garotinho",
-   "url": "https://www.poder360.com.br/poder-justica/zanin-nega-pedido-de-paes-contra-anulacao-de-votos-de-garotinho/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-08T23:42:58+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Zanin+nega+pedido+Paes+contra+anula%C3%A7%C3%A3o+votos+Garotinho",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Zanin rejeita pedido de Paes contra decisão do TSE que declara Ruas vencedor no 1º turno no Rio",
-     "url": "https://exame.com/brasil/zanin-rejeita-pedido-de-paes-para-suspender-exclusao-de-votos-de-garotinho-no-rio/"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Zanin nega recurso de Paes contra decisão do TSE que anulou votos de Garotinho",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/zanin-nega-recurso-de-paes-contra-decisao-do-tse-que-anulou-votos-de-garotinho.ghtml"
-    }
-   ],
-   "score": 24.0
-  },
-  {
-   "id": "2eb9fedbfd",
-   "titulo": "Augusto Cury declara apoio a Flávio Bolsonaro no segundo turno",
-   "url": "https://www.infomoney.com.br/politica/augusto-cury-declara-apoio-a-flavio-bolsonaro-no-segundo-turno/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-08T22:58:25+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Augusto+Cury+declara+apoio+Fl%C3%A1vio+Bolsonaro+segundo+turno",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=Rendimento+t%C3%ADtulos+Tesouro+dos+EUA+anos+pode+superar+6%25%2C",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Money Times",
-     "titulo": "Cury oficializa apoio a Flávio Bolsonaro sob condição de ‘pacificação nacional’",
-     "url": "https://www.moneytimes.com.br/cury-oficializa-apoio-a-flavio-bolsonaro-sob-condicao-de-pacificacao-nacional/"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Augusto Cury anuncia apoio a Flávio Bolsonaro no segundo turno",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/augusto-cury-anuncia-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml"
-    }
-   ],
-   "score": 23.6
+   "outras": [],
+   "score": 23.9
   },
   {
    "id": "3316f13316",
    "titulo": "Governo Bolsonaro não fez correção de rumo fiscal, diz Durigan à CNN",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkNUTlFIQVBhM3FSWTlaMm9FQ1pxeWowaUF0NlRGYlVoQkNjSlVpc0JhUVlROTZzSHcwY3ExZFZJbVZwMk1ORHFLZnZnR194S2RXVHQyMDN3ZUlKYjhWRVlhSHJIdUI4SWt0T3dpWUNfUjZoek1KLURFOVBtd08zcVkwcmEzWFVOY2dscWQtN3lEQTE4eTRraEhtTDNXTXVVemVGRVN3X2N1YU5HZFNrZm9ZOFBWRF94Y0lUX0NFQVBVVTVt?oc=5",
    "veiculo": "CNN Brasil",
-   "publicado": "2026-10-08T22:09:21+00:00",
+   "publicado": "2026-10-09T01:00:42+00:00",
    "temas": [
     "economia",
     "politica"
@@ -788,13 +1457,18 @@
    "video": false,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Governo+Bolsonaro+n%C3%A3o+fez+corre%C3%A7%C3%A3o+rumo+fiscal%2C+diz+Durigan",
-   "veiculos": 3,
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Vero Notícias",
+     "veiculo": "Blog do Paulo Pereira",
+     "titulo": "Ministro Durigan Alerta: Trajetória Fiscal Piorou no Governo Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHhPeTNIWlhlWm45TUNvcWdER1VmNXRMN3lfNXdmUFZCRk91SFFUV2g3amxnZXI3a1EyUFF1TWJGRHY4eWZOSUdkMERFWTJsa3pBRVFvVGZOaENKdHAzcTE1TTBURlNZZVZFZXV6M2ZGUkdEM2lYTGdRWXFGM0s2TndNaEJYTk5WWlF3RlhXZ2dhVURkaE96bExFdVB0RDE4Ui1VdjZHNVIzR0VSVmE4dDVXUUhtY3VqcGd5RVAxTQ?oc=5"
+    },
+    {
+     "veiculo": "Blog do Alberes Xavier",
      "titulo": "Durigan critica gestão fiscal de Bolsonaro e defende contas públicas do governo Lula",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEJEVmpCWjhuUFlyN2cyMld4T2pObFRUaFJ5TGl1R0NhZ2Fhd1lwTjN4N3dGSGJod0lFUlZ6NVpuM3hzQ0ZWdU5jLVM3RWNOZWF6d0xVOGU0WXhxam84REZheTJUTndhSjBYQkRRRTZLVExFU2ZhMnp0eGNRblBpdmN2TFQ3UFdoVFB5bzdKTTBoRDRNUUdTZFcxcVluSVIxOVFVZ1FySFlhWFV4dnRQSGd1NnV2T2podndz?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS1RNUHhWMzhoOTktZDh5OUo0OWpfcEdLbGRrc2hKLVg1Y2NxTXZvSTFhMjdUNEpIb21SOXRRS19DM2RwZjA3QVpfa3U3LV9OcWZCZ1BNLWhISlRUYjlnVWpaeE5zQWdJVWFjNDlWSTdBZkhiQm5BVmt6RlBicHJEeFh6LTVkclVoRUdPd25uZkl6azc4allsaEp5ZGJLRWtCaDNuSGVsVzhlSm5mNUp5WDk4WXNtcWU5Rlg2Mjhad1gtdlNydWNpWm91aw?oc=5"
     },
     {
      "veiculo": "Sobral Online",
@@ -802,447 +1476,54 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbV9QbV9qTi1kaTAwQ2EwWTVKUU43azIwS296WEM1elByZ3RrTGJ6RzBwaFgtaTRSREhZTGdNRlpJMTZMZ1pxNkRpOXlHaFRrQUJ5UGZfbVU4NEQwQjdCSTM5dE5iekF6VGZ5Tjh4dlhSMTlGLVdoaHVYWndETUl4dDlPcDR2VUxrdzNvdkVvLVhVcXdD?oc=5"
     }
    ],
-   "score": 23.3
-  },
-  {
-   "id": "2ffc86295c",
-   "titulo": "PGR defende soltar com tornozeleira ex-presidente do INSS",
-   "url": "https://valor.globo.com/politica/noticia/2026/10/08/pgr-defende-soltar-com-tornozeleira-ex-presidente-do-inss.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-09T00:50:32+00:00",
-   "temas": [
-    "comportamento",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=PGR+defende+soltar+com+tornozeleira+presidente+INSS",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha",
-     "titulo": "PGR defende fim de prisão preventiva de ex-presidente do INSS, mas ação está paralisada no STF",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pgr-defende-fim-de-prisao-preventiva-de-ex-presidente-do-inss-mas-acao-esta-paralisada-no-stf.shtml"
-    }
-   ],
    "score": 22.4
   },
   {
-   "id": "404db221ff",
-   "titulo": "Alberto Musalem, do Fed, sinaliza novos aumentos de juros nos EUA",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZxc2VPOGR1M1FBTE9LTEJ2a2N6UnFKNDJfMGYwNVQxMC1oNm50anpXUFB1Vkxpb1hqX2VYbGNoUnpEUkZZby1kMElpWFJ6eFo4bGNld0Z2aFFmVjVNMkpyY0R0QUxVenFQNUtXVTBCb1ZUaUd2VGJtSGJReVpLZlFoRHhzR0tNdjZlUm5vZkp3SmRuUS04a3dvdjN6Q2ZY?oc=5",
-   "veiculo": "ADVFN",
-   "publicado": "2026-10-08T20:04:53+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alberto+Musalem%2C+Fed%2C+sinaliza+novos+aumentos+juros+nos+EUA",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "TradingView",
-     "titulo": "Musalem, do Fed, diz que redução da inflação exigirá mais aumentos nas taxas de juros",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mZFc4ZWgxdmwyN3JtRDdJZEtULWxseGJRRmZJamt6a3Bka3VfVjZqSk05c1JHaWc0Z0dPTFRNaGlhQldzb2RITXZIc2FWa1NxSzJIdHFmWmtkN1BQTmVZd0JLZGlRWW1ieHRsUEowWHBiZWUwUG84?oc=5"
-    },
-    {
-     "veiculo": "TradingView",
-     "titulo": "Musalem, do Fed, diz que redução da inflação exigirá mais aumentos nas taxas de juros",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zM1dnNHhZZUZGVjg4OGJleHZNeFlURUxKU2l3a2t1em9wQzA5WmdCREU5SVk1eVlxODE5eVFVUE9JUFNaaGRmMTFfSlFCQVVGNl92NUlKWWlDdFZ5Q3RERnZrN01ncG8wMnNLckoyTEFxYkgxaGcyRA?oc=5"
-    },
-    {
-     "veiculo": "Invezz",
-     "titulo": "Rendimentos do Tesouro sobem enquanto Waller, do Fed, sinaliza novos aumentos de juros",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFc1bXR5cDNNQlV2dTdtU0JKZTN6R003cnFMRlRyeS10aUU5Y3p4NmxFRHFHQlgwNnk2djlHWHgwU3Q4ZW1FakRYS2hLeFpibEg3Qi1vOWFGenJ4c09UamQwbEFmcVlzY2dJUjROaW1BanBtQzFTSTRweDBfSm5MdmRwd2RaQTh2bWtmaDVxT2pEbHNVN1JzVE03YnlTUVVCWERjRERmX3A1WWdxX1RJZnJrY0J0VHliQ2xSdjVkdVhvdEt2M3c?oc=5"
-    }
-   ],
-   "score": 22.4
-  },
-  {
-   "id": "85a600935b",
-   "titulo": "Publicamente, Flávio Bolsonaro defende reajuste de aposentadorias acima da inflação",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/publicamente-flavio-bolsonaro-defende-reajuste-de-aposentadorias-acima-da-inflacao.shtml",
+   "id": "7cf572e59c",
+   "titulo": "PIB do Brasil deve desacelerar para 1,8% em 2026 e 1,5% em 2027, diz órgão da ONU",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/pib-do-brasil-deve-desacelerar-para-18-em-2026-e-15-em-2027-diz-orgao-da-onu.shtml",
    "veiculo": "Folha",
-   "publicado": "2026-10-08T12:50:00-03:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Publicamente%2C+Fl%C3%A1vio+Bolsonaro+defende+reajuste+aposentadorias+acima+infla%C3%A7%C3%A3o",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha",
-     "titulo": "Entenda o reajuste das aposentadorias, auxílios e BPC do INSS, na mira de Flávio Bolsonaro",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/entenda-o-reajuste-das-aposentadorias-auxilios-e-bpc-do-inss-na-mira-de-flavio-bolsonaro.shtml"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Entenda o reajuste das aposentadorias, auxílios e BPC do INSS, na mira de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjRQQ01UU0duSWVGV1FkRXU4WVNRakRLaDRYQkZQRkM0c1lyUGlMVC1lTVBoNVdmTlp3eHpvbHk2NDlOYmtrOGNDTkd4d0tUc1Q2d0Zrb1FaaDBqa2dvZmQyTFVpVlJLemhtaTJJT2pRYlgzTDRVSV93TncwWkxHUWExeEN2NzllcVlET3luejZhUXNYTEw0Q0Y1OHgxZDhmampiQklVWGs1Nk1lelhXUnRyT2FkcmhHZVBfMUotbmRLaWh4UWhoQmR1V2dPbVBmWF9RUnBZaw?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Publicamente, Flávio Bolsonaro defende reajuste de aposentadorias acima da inflação",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2xFMkFUd2NFdXJzRXhqamZIYWxzT200VGRQcTNWQWlaYVN0YV9Sdmczd3VjX2pmX3FNRHlHS08wbm15a2ZfR2NzT1B2X01qQnBlWXdiejJRTVQtTVRzeDdYZVF1U0JiU0kyZFYyTnNTWC1Vd1dZY3lUbXZ3OXZQQnhrTmRubFpGbm9RYUNXa3dXWmx2MENzeHNGb2JSWmNtT0NBU3gtYjlpdnpkb3djVDZ6Qkx2R0xvMnJCSWlTVGpTTEx4VHhSUU44OGI1WVU?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Publicamente, Flávio Bolsonaro defende reajuste de aposentadorias acima da inflação",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2xFMkFUd2NFdXJzRXhqamZIYWxzT200VGRQcTNWQWlaYVN0YV9Sdmczd3VjX2pmX3FNRHlHS08wbm15a2ZfR2NzT1B2X01qQnBlWXdiejJRTVQtTVRzeDdYZVF1U0JiU0kyZFYyTnNTWC1Vd1dZY3lUbXZ3OXZQQnhrTmRubFpGbm9RYUNXa3dXWmx2MENzeHNGb2JSWmNtT0NBU3gtYjlpdnpkb3djVDZ6Qkx2R0xvMnJCSWlTVGpTTEx4VHhSUU44OGI1WVU?oc=5"
-    }
-   ],
-   "score": 21.7
-  },
-  {
-   "id": "8a8a5a5835",
-   "titulo": "Ministro anuncia três leilões portuários em dezembro, com R$ 582,7 milhões em investimentos",
-   "url": "https://valor.globo.com/brasil/noticia/2026/10/08/ministro-anuncia-trs-leiles-porturios-em-dezembro-com-r-5827-milhes-em-investimentos.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T22:37:01+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ministro+anuncia+tr%C3%AAs+leil%C3%B5es+portu%C3%A1rios+dezembro%2C+com+582%2C7+milh%C3%B5es",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.5
-  },
-  {
-   "id": "7818fceeae",
-   "titulo": "Mercado aposta em novas altas dos juros nos EUA",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGdPeUtoNHk3WElGYWotaXhMamdwaWtldjViSVhrU0t0SzZnX0E2NDVBcFJIZUg2OEdmX19GUFBobkRJSzZGbHpNWWZCa2JpU29uT0NkYXpqbkdRWkQ5UXZON0JrYUZzVGFPYkZrX2Q0Z01tYlMtZlNjY3lDMWxQQ3RjTjY1WlE?oc=5",
-   "veiculo": "Monitor Mercantil",
-   "publicado": "2026-10-08T17:54:21+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+aposta+novas+altas+dos+juros+nos+EUA",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Monitor Mercantil",
-     "titulo": "Mercado aposta em novas altas dos juros nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGdPeUtoNHk3WElGYWotaXhMamdwaWtldjViSVhrU0t0SzZnX0E2NDVBcFJIZUg2OEdmX19GUFBobkRJSzZGbHpNWWZCa2JpU29uT0NkYXpqbkdRWkQ5UXZON0JrYUZzVGFPYkZrX2Q0Z01tYlMtZlNjY3lDMWxQQ3RjTjY1WlE?oc=5"
-    },
-    {
-     "veiculo": "Empiricus",
-     "titulo": "Ibovespa hoje: Novas pesquisas eleitorais do 2º turno e juros dos EUA sob pressão; veja destaques desta quinta (8)",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVdDQnlnNy1YeHIyajVwTDFJRjRxN1dRWFVWcXVJQmNpM2tocXZkUXROSEZjMUtVelU0WkswNlZMT1hjcG5maDBlcE1yVm8zTnlzLTBMMVk2YzlmZnlSN1dJLUZvY1Fqc0RRTmxTWDU2MGRKY0ZXZ0pLS28zOWZUZ3NEcU1GU2hkVUE5RXlxUEphRlpkX0FpMi1BcVhuV3ctdVdJZWRoWmhXR1R2RHU4SVh5YUQyVXV2OVl1b0tCeFhYRkdoenRwSDY5U3o2a21CN25XaFR1MGdVelc5YWpDNloyQndPNFdKbkNMNEdsTmVzSVduRFBIME9ZNA?oc=5"
-    },
-    {
-     "veiculo": "O POVO",
-     "titulo": "Pesquisas para o 2º turno: veja quais são publicadas nesta quinta (08/10)",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYWhIRjFtS01nWmljRVFhS0c1MVJZSWJfakVjSlYxaG5WTHZfaXAtN05FYURlb1F5OW0zMENiLUx5SjAtRk5vOThRdzFSRHhXLVJ6bmtMVFhkYW5GR3B3WEloaG05VWRWbENQNWxLRWoxLU1yS0IxczZNc252OWNrOVBQb3RqOXlXckpyM3ExQ1JUNmNyQklhS0tITWFrMkFXMDVnOXM1cGwwSzlhMUlueW9oX2dqZXRTVGZ6RHdmdzJrWWs0ZXVkVFlXYUR4RGVXNlVJ?oc=5"
-    }
-   ],
-   "score": 21.5
-  },
-  {
-   "id": "08ede04e4c",
-   "titulo": "Ibovespa e dólar avançam com foco em cenário eleitoral e petróleo",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTRNeUZCTUJRZmdodXA2ck5ZWFhwOEFuN19fTWZiSm5peEk3eExDa240Y0loWVhNMmtmcWxxOEdDc0hYR0NEN1R3cTRjN1N2UHY3dVVlMVhubWRnMmhmWFk0WEhPWGNuaXpJTmQzVlBvNnJ2cjBFM1dua2d3d042TlFoaDg2YU1mWUpOeE8tdW5NY2VseU0ySW00NF8tMlNjc3JN?oc=5",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-08T23:17:53+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+d%C3%B3lar+avan%C3%A7am+com+foco+cen%C3%A1rio+eleitoral+petr%C3%B3leo",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "TradingView",
-     "titulo": "Ibovespa e dólar sobem com investidores de olho em cenário eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FWjdHeDNucjEyOW4zYkpmWXdXVXlqTzRfTHBqMHEtLWdOWm1LRW1wdkQ3SS1QYzBZMUM5UmdaSlhVWS1tYXYxVXRRWTVHclVWaXpzVVBDalRNRWtCM2t6X3pwWUFfdkpLVUVlU3JXOFRERnVoS1RV?oc=5"
-    },
-    {
-     "veiculo": "TradingView",
-     "titulo": "Ibovespa e dólar sobem com investidores de olho em cenário eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTcXUyM3JYSEFvdHRueFNtLW5GdDY4ckt4ZTgtb0ZpWEtQa3ozTkpXdHNXUHpUYVQ2ZlNsWGFZS0VKLUwwRThWRmlaWmdsRlFya0ppeHZoQ3paQ0p1aTlFSTZKNzdERzZ1U1ZFcjN4QUFGRGc3RF9heg?oc=5"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Ibovespa e dólar avançam com foco em cenário eleitoral e petróleo",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTRNeUZCTUJRZmdodXA2ck5ZWFhwOEFuN19fTWZiSm5peEk3eExDa240Y0loWVhNMmtmcWxxOEdDc0hYR0NEN1R3cTRjN1N2UHY3dVVlMVhubWRnMmhmWFk0WEhPWGNuaXpJTmQzVlBvNnJ2cjBFM1dua2d3d042TlFoaDg2YU1mWUpOeE8tdW5NY2VseU0ySW00NF8tMlNjc3JN?oc=5"
-    }
-   ],
-   "score": 20.8
-  },
-  {
-   "id": "260bcbed89",
-   "titulo": "Bradesco (BBDC4) tem aumento de capital homologado pelo BC e ajusta JCP por ação",
-   "url": "https://www.moneytimes.com.br/bradesco-bbdc4-tem-aumento-de-capital-homologado-pelo-bc-e-ajusta-jcp-por-acao/",
-   "veiculo": "Money Times",
-   "publicado": "2026-10-08T23:07:55+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bradesco+BBDC4+tem+aumento+capital+homologado+pelo+ajusta+JCP",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.7
-  },
-  {
-   "id": "c649983e33",
-   "titulo": "CEO da Petrobras (PETR4): Os possíveis nomes para um eventual governo Flávio, segundo jornal",
-   "url": "https://www.moneytimes.com.br/os-possiveis-ceos-da-petrobras-petr4-em-um-governo-flavio-segundo-jornal-rnda/",
-   "veiculo": "Money Times",
-   "publicado": "2026-10-08T23:00:57+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=CEO+Petrobras+PETR4+poss%C3%ADveis+nomes+para+eventual+governo+Fl%C3%A1vio%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.7
-  },
-  {
-   "id": "76d98b0877",
-   "titulo": "EUA impõem novas sanções à frota clandestina de petróleo do Irã",
-   "url": "https://valor.globo.com/mundo/noticia/2026/10/08/eua-impem-novas-sanes-frota-clandestina-de-petrleo-do-ir.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T18:21:09+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=EUA+imp%C3%B5em+novas+san%C3%A7%C3%B5es+frota+clandestina+petr%C3%B3leo+Ir%C3%A3",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha",
-     "titulo": "Petróleo dispara e chega a ultrapassar US$ 105 após novas ameaças de ataques dos EUA ao Irã",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petroleo-dispara-mais-de-5-e-ultrapassa-us-105-apos-novas-ameacas-de-ataques-dos-eua-ao-ira.shtml"
-    }
-   ],
-   "score": 20.7
-  },
-  {
-   "id": "8633dcc585",
-   "titulo": "Durigan: endividamento público depende dos juros; governo Lula não gastou além da conta",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTd6N0hmbGY3ZGNtWGdGN0JzNkFyWjMxMWFGaE5YTW9KV3B4dkt1cUNCSWtsdUdMdmFFRG5MUmhiTlhBWkxVQlItMlFtMTBrQXlxbjFIWGVpRlRfM3QydnNkZGZ3TmViT2Y0YW5XWVZuWUU1RWJZZVg2TlFPdGpwY1ZtWXdiTnFNWEVGeUVFRmdmalFOTWdpd3FfRi1MRDBGZGpsMlgxR2Y3bjkwcjNHR9IBsAFBVV95cUxQbTd6N0hmbGY3ZGNtWGdGN0JzNkFyWjMxMWFGaE5YTW9KV3B4dkt1cUNCSWtsdUdMdmFFRG5MUmhiTlhBWkxVQlItMlFtMTBrQXlxbjFIWGVpRlRfM3QydnNkZGZ3TmViT2Y0YW5XWVZuWUU1RWJZZVg2TlFPdGpwY1ZtWXdiTnFNWEVGeUVFRmdmalFOTWdpd3FfRi1MRDBGZGpsMlgxR2Y3bjkwcjNHRw?oc=5",
-   "veiculo": "Folha PE",
-   "publicado": "2026-10-08T20:27:00+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Durigan+endividamento+p%C3%BAblico+depende+dos+juros+governo+Lula+n%C3%A3o",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.6
-  },
-  {
-   "id": "b76f98c8a6",
-   "titulo": "Índices de renda fixa da B3 atrelados à inflação lideram ganhos no 3º trimestre",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajM2SUVRTUFhN3ZETW9DdGpmOFRYWHBSWENtRGtsaV9CRjIwOHQ2eGJTY0ctUmd6Yks4aTNRaFM0VjlrbDNITS11WXFSdjNCLUNMZzVWbW5UQkN5Z2VzeWpzZnZFcHZtaTRMNURsNHRHNkxVN3lqdlA0SlVwNkoxZlVxOEpRSnpmd2F4dENteW94MFZ2bkdSZ1RuVHdrbENKZkZNZW9tdlJNeWVDbjZNeTNKalByc3FYNEZ6WTU2VFBoZw?oc=5",
-   "veiculo": "Monitor do Mercado",
-   "publicado": "2026-10-08T15:41:53+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=%C3%8Dndices+renda+fixa+atrelados+infla%C3%A7%C3%A3o+lideram+ganhos+trimestre",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Finance News",
-     "titulo": "Títulos públicos atrelados à inflação lideram valorização dos índices de renda fixa da B3 no trimestre",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFNyZkl5QzVUM0ZST0VBNWRJaER6ZnNyUmFtMjUzMjRoVkE2OW9Xc2lUSWV2MmJhdDdkUWNRcTFGY2x1WmdJRURKMXJLVkR6SGRMTmNBNm1pc09XQmt5WGRjWDcwR1Znb3VLU2s3cjdvRzV6S1AybXc0dWtPcVR6U1AyVmxTaWFRVGtzYVUtU1NXMmtsVGx6aTNrbEFZZVdBV0Q4dUdrYU9UbnFRM2pQYy1YT1JhUHZoRmRRZFBnblZ2bXE4SFl4RXRMdHRlNDhCOTZFWA?oc=5"
-    }
-   ],
-   "score": 20.6
-  },
-  {
-   "id": "03d25e7a01",
-   "titulo": "Flávio vai congelar o salário mínimo e cortar recursos da saúde e educação, diz Haddad",
-   "url": "https://valor.globo.com/noticia/2026/10/08/flvio-vai-congelar-o-salrio-mnimo-e-cortar-recursos-da-sade-e-educao-diz-haddad.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T22:36:23+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+vai+congelar+sal%C3%A1rio+m%C3%ADnimo+cortar+recursos+sa%C3%BAde+educa%C3%A7%C3%A3o%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.5
-  },
-  {
-   "id": "b32465af37",
-   "titulo": "Expectativa de novo governo leva Bolsa a recorde; dólar cai 4,12%",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkxWQTQzSUpsc3Bma1NEWXJybWlUSU5NaUh1bjcxNnNuU1JaaG1nODhHS1NFNTBaM0QyVjJkb2c3eDJXbHlJQnA4U3ZCVlpCRzBjNl9sRUF4d0J3NzVTZENIZGVNZ0hCTWpLbGtxMVpRa3hGaXNPLV96cW1maUphcFF6eTl1Z25xaXBBMFA5aWpVdXRBbHZWdmJKWmlxZUQwR0E?oc=5",
-   "veiculo": "Jornale",
-   "publicado": "2026-10-08T17:31:25+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Expectativa+novo+governo+leva+Bolsa+recorde+d%C3%B3lar+cai+4%2C12%25",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.4
-  },
-  {
-   "id": "be2b47c629",
-   "titulo": "Prefixados tem maior leilão desde dezembro de 2020 — e o ‘trade eleitoral’ está por trás disso",
-   "url": "https://www.moneytimes.com.br/prefixados-tem-maior-leilao-desde-dezembro-de-2020-e-o-trade-eleitoral-esta-por-tras-disso-apsa/",
-   "veiculo": "Money Times",
-   "publicado": "2026-10-08T21:48:57+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Prefixados+tem+maior+leil%C3%A3o+desde+dezembro+2020+trade+eleitoral",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Nord Investimentos",
-     "titulo": "A Bolsa teve a maior alta desde 2020. O que já está no preço?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVdhZEZqN1BsTjN1ZjhhZ2lxbXJ0bmxsZkFqdF91bVprejA5OHdoa3RvZFV5VUZLQVZYZEF4Xzc2ZDl0SXBSYVpmM0dFRVNZSDVRSTRvTWtVUzZBTlZMY2lpUHlqQ3JxeXVBOF9US1VGOXIyUXppR25iYWJsQTlvQXFZWWhEWklfZF92M3JpenZxOWUtM0FERU5icnNHdndNeTJz?oc=5"
-    }
-   ],
-   "score": 20.2
-  },
-  {
-   "id": "fb91e1a440",
-   "titulo": "IIF: mercados emergentes perdem US$ 26,3 bilhões em setembro, no mês em que o Fed voltou a subir os juros",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2dkTUI1Y1NqeWxoUW80VUp6UkdXdVJTSUNLX3Zoam9lZW10RGVDNVdXMXBscFlrSFpBeHJSYkFQdDNpU19wOVM0d0haMWV4VGx5R3Rsal9xT29zTzFWbGY2enhVeFlVZDB5SnV1WTM0R1VyeXJrSmFQYkZ4c2JCT3RLa3dLaXdlQzFDYWlGRTJYNmNuUjc1NzBnNS02a2lLR0ZRdVVLNVlUbFEyVXZpbDdrV2tSaHpTLVNzWEptVktNVXQzQW1VUTJ4cEpqbV9RbmxLOEo3RdIB3AFBVV95cUxQX0otMFVDT05SOWhwYWgtbVBaVThWR0pkLTg5Q2VVTGRrTWZINk1yejhNTS01YXRZdWxCU1laSk5adnVaWUw5S1VreFhmWkMtSkF2cGFaeVE5SDMxQm95RjNGaFhPbVpIT1F6Qkt6bXQ3Y29Rbi1GemEzUVN0TGw3M184RUxfdktXbzNGS3RCWXFqZ3QtTzlNSUJNRmtfMzAwYTlvMjAtYXRVSkF0cjFxbkJFdkxLMThSaWhYSTZwSW40UURGdVFDX0tfaGJyT01yQldTdm1kRW04dlBE?oc=5",
-   "veiculo": "O Cafezinho",
-   "publicado": "2026-10-08T21:26:00+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=IIF+mercados+emergentes+perdem+US%24+26%2C3+bilh%C3%B5es+setembro%2C+m%C3%AAs",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.0
-  },
-  {
-   "id": "aa1c20e5f5",
-   "titulo": "Bolsa reage a pesquisas eleitorais e se aproxima de novo recorde",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9vUzk0bEFiODEzY19vTXBtWHJsWHNfM1lnQnBQRVFyLVh5eTBQelA2TjEzSzZzemYyZWVGWThJM1JRdGtJSGk5UG13VHhyS3MwdVphTms1aW41ZVp1Z0d1Umw2UVhVMTZTZXNhMEhldUltaDRuaUQ3M0FZTUxtMWpHSkJfTDFPR1hCVlQyR0c2cWtvQktjTEhHcUMtbWhWMFg5MDU0SENTbm80ZEs1ckxGclV6SUFy?oc=5",
-   "veiculo": "band.com.br",
-   "publicado": "2026-10-08T23:23:13+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bolsa+reage+pesquisas+eleitorais+aproxima+novo+recorde",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.8
-  },
-  {
-   "id": "79f983ce17",
-   "titulo": "Décio Oddone, Adriano Pires e Eduardo Pazuello são cotados para Petrobras caso Flávio seja eleito",
-   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/decio-oddone-adriano-pires-e-eduardo-pazuello-sao-cotados-para-petrobras-caso-flavio-seja-eleito.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T20:49:37+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%A9cio+Oddone%2C+Adriano+Pires+Eduardo+Pazuello+s%C3%A3o+cotados+para",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.8
-  }
- ],
- "falas_e_videos": [
-  {
-   "id": "980b629409",
-   "titulo": "Galípolo diz à PF que 'esgotou repertório de palavrões' por demora de servidores na fiscalização do Master",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/galipolo-diz-a-pf-que-esgotou-repertorio-de-palavroes-por-demora-de-servidores-na-fiscalizacao-do-master.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-09T00:43:16+00:00",
+   "publicado": "2026-10-09T12:54:53+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+diz+que+esgotou+repert%C3%B3rio+palavr%C3%B5es+por+demora+servidores",
-   "veiculos": 20,
+   "busca_video": "https://www.youtube.com/results?search_query=PIB+Brasil+deve+desacelerar+para+1%2C8%25+2026+1%2C5%25+2027%2C",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Valor Econômico",
-     "titulo": "Galípolo relata à PF reuniões tensas e 'com palavrões' com servidores do BC suspeitos de favorecer o Master",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeVZEamhyOHlxV0N6Rm1PNGNHUXBKb3p2T1Q5WlYzQkM0T1dzZ3J2RVduQ043ekZiWmR0Z1ZsNkc3T2p5R0xMNS10dGxfdnRPajhtZlAxcFBKNUN4MWpxQlZvVjBVY3hLRTZZeWdhQ01VRGJjTGNIaWVLRVRhWjQxTHpvS3BGbWNBT1JkamxTTTcta2U5VXBlT1AzU0Rqb0ZBcFVMT3JuVF84ZXBOckxrVUxlSjRrQXUxZXdYaUpQVlVzV0dWRDdZRUhxT1MzOVJoWWc4VkE4N3NvN3VsQVJjUTNEUndDWDlaY1pDYkZoMNIB_gFBVV95cUxOQTVmdFRpQkpQSjYxclZJM05YdVpMS1lQbjEtM1d3a1FCcS1HZFFwMHBRMzd2Rl85REFtcDMzaDJFcDhuYUlTczlXdkFhV3B5OEVvdzBFQ2UzV3h3c1ZQcEpOeXN6OWREcE55SlRCUFpRX05jamcwUS05T1ZYU09mbHBMRGdZaHJNNVV3MC0xVDZLWUJ3eTV5UElMSnRFZVdvYmNNZ0hxVURjVld0Z2RIQkZuLWMzNm1EbWJQTmJoajRBZE9fWVJwcWd4enVmQWNzZmlGZGpnYlFxSi00enl6V3VnbWpWQjd4RWNPZkxQd0JSdTJaZHFvUUFQdHRTQQ?oc=5"
-    },
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Galípolo relata à PF demora injustificada do BC no caso Master",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY05GMTlaVk1naTI5UWxIR0pIQy1nYlNWRk1YSHJpaGNoLUsxZXN4Y3ZsWTBLY3FPeEZ1eGtyNHBnQTlGMWpQUjZIUHY0UG55SnNCaHdPZ1hPekIxUDhpclNYazVsZ1pOMW5RUHV4SUxwSUhQaWN5ay1xd3hhRFFXbG8xYVh3YVZfcjZETWo2Rm9fR0Rfd1gxUUNyVk9FZw?oc=5"
-    },
-    {
-     "veiculo": "DOL",
-     "titulo": "Galípolo fala sobre a pressão por demora na fiscalização do Master",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXZWcEZaTGxPMDdjcGZvcnFvQ0FNWWt0dFVRWDcxWW1zb2VVb1dqVnhaYW9JQ1NHMzhVV205VVhfd1ZUbTE2aWhtZVF2SXhzclFmdzBpbHFOaGlmMElrRk1uWXNZR3hpMEpkSnlEQTg1ckN5c19ENFhhLXZXemJXWEF2SkFVRTJ6dVdBQWVwVlJQdW9FRlB0UXRhMkRIY2RiblZLc0oweThPMWUt0gG0AUFVX3lxTE1mbGpKWDZ0MnhsQW5uOGk3N19TVnBPVjNwRUw5UFpLcUFmdHJrRG1KU3RXNVBUeGlmcDdlM2wxanVLMVJZcjEyOHdDRUtheDhSWlJpRktEQkJma3I2aVNoU3ZhSkhFeVl1WlNnRU5EcTdSUUw0THBjblBLRm5BWGZXa1hQU3N1U0dlVVVablEzaFZqS0FmMlRkUElxODlMQnZIUWZGampvRG1fc2F6R09HTVhURA?oc=5"
-    },
-    {
-     "veiculo": "Gazeta do Paraná",
-     "titulo": "Gabriel Galípolo diz à PF que “esgotou palavrões” ao cobrar servidores sobre o Master",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0JEYUJ5Qlp4YXVLSTM3YzZtWEJhWVV1Q3Vyc00tV1E3c05MZDhjX1hfR29odFBYWUd3NTVJR21pNXhwSlF6WHMzcmNMeGx4bDZnNm8wX0VwRjZGc0VHVGZyUEV2dXEyWmNtSnQ5cUlXZElzZm41cDdGdnQ0aXV2QkFEMUhjN0dhV1BWQ0xGeWh4R2xpZ2xPY1c0NFpnREU3WV9KTWhqRFo5U3kyNUlTcEpnZ3ZXRUx1OU4zNXdR?oc=5"
+     "veiculo": "Money Times",
+     "titulo": "Crescimento econômico mundial deve desacelerar a 2,6% em 2026, diz agência de comércio da ONU",
+     "url": "https://www.moneytimes.com.br/crescimento-economico-mundial-deve-desacelerar-a-26-em-2026-diz-agencia-de-comercio-da-onu/"
     }
    ],
-   "score": 39.4
+   "score": 21.4
+  },
+  {
+   "id": "72f9fc5b9a",
+   "titulo": "B3 (B3SA3) dispara 20% na semana e bate recorde; correção vem aí?",
+   "url": "https://www.infomoney.com.br/mercados/b3-b3sa3-dispara-20-na-semana-e-bate-recorde-correcao-vem-ai/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-09T12:30:45+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=B3SA3+dispara+20%25+semana+bate+recorde+corre%C3%A7%C3%A3o+vem",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "B3 (B3SA3) dispara 20% na semana e bate recorde; correção vem aí?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjl2YlBaaDQ1Z3YzajlpTmJPZlplWXdpdkdqU2tfQk5iQTR5NzJPaVVBcDFtVmxFcW9sQ0x5MkYzakwtUnZWSnNHdnI3eDMyV182N0w0NkpIanNGbXprbndpYnZ6b1BLdnFiWXpjSElJdDJpVFJKQm5rRlo3d01uQ25aa3kwWWFBbkV4ZVNsQ25mNFFrY2hBTWZwbkJxZ29i0gGmAUFVX3lxTE5ibERUTU5Rd2Y5Q1VRczFETnBLSTY4TkxiWFh2VDNIU0ZwTWJTZ3BTcnBFQ2cxLWJqaGE5cGpsRnVBOVI1TUhMWTE2TFRGU3ZBTnJIMXdYOXRZc2Z1Wks4NkNHM3JLYjdyUG1QaEhFaE15eXI4Uy03cjNNVEt1RXYwRUxWbnpWYnQ3ZVQ0NkxEU1M3U29yRDB1WUpoLUpidGFHakQ3blE?oc=5"
+    }
+   ],
+   "score": 21.2
   },
   {
    "id": "a27b42ad36",
@@ -1257,7 +1538,7 @@
    "video": false,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Membro+Fed+defende+mais+aumento+dos+juros+para+conter",
-   "veiculos": 4,
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
@@ -1269,285 +1550,68 @@
      "veiculo": "Canal Rural",
      "titulo": "Dirigente do FED defende nova alta de juros para conter inflação nos EUA",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUy0zbnloemhpd0lJTDM1b3NCR1RrSFZUZmFzV2dSY0VUYXFiRGVRMmhkbmdUbWlxWlBLcWFRLUgxWFZlX3lVZTN6ODNueWVoek9XYXczN0JaRWhBUWQxZFRNekNnanF1ckNVNVdVU1NqQ1l4YTNBV0hPc1RNU2U5RFdGai05ZWpBQ01Gc0pRS21CbGFvWXJ4YWRfcHRxYjNtNWY2VGpvRlVCbUFEZ3BJakF3?oc=5"
-    },
-    {
-     "veiculo": "Radio Shiga",
-     "titulo": "Fed sinaliza nova alta de juros ainda neste ano",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQjEwdnlGY3hIWGRUUW1vSXBSRWRKQ1o1Skw4UDM0Q2hwdjVWT2ZXdXgxVkpRT0kwLU02N0pKY256WTBjZGlKMkxuM0Z3ZG9qUTJBRmEzdWpLeUl1RkFCSUw2c2ZfZURTVkZIRjhfTEx0Zy1SeWhWc0ZNS1I4VHgweUxwS09oTWFyaFE?oc=5"
     }
    ],
-   "score": 29.1
+   "score": 21.0
   },
   {
-   "id": "b6a08adc7a",
-   "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
-   "url": "https://g1.globo.com/economia/noticia/2026/10/08/representante-da-campanha-diz-que-governo-de-flavio-bolsonaro-nao-privatizaria-banco-do-brasil-caixa-e-petrobras.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-08T15:17:56+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Representante+campanha+diz+que+governo+Fl%C3%A1vio+Bolsonaro+n%C3%A3o+privatizaria",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "avozdocampo",
-     "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeC15OHBGYXZzZU1LMHFZV3JRb1dmOGctNUNLUEVOTWJRTkNjU0lrUndRakdlVFgyTjFNQUxUeWU5bEV1cmFlMnljQXBjSFp0YWxvWWpMTDczR2UwakFIRHlqUFdjWWdheV9sYTAyN3hOZl9yOG9XYzdwdXFyQnBNU0xtakxBTU9CTzVUNXJ6YWdVTk8zLURjSkJuU3paN3U3NWNKRzd0d05HS0NrdDR3NUpTSXlHZktvNGJqaml5ZUktaUZ4X1d5dXNxZ29aWm01ZDc4SEZNU2VZQk1Mb3hF?oc=5"
-    },
-    {
-     "veiculo": "G1",
-     "titulo": "Representante da campanha diz que governo de Flávio Bolsonaro não privatizaria Banco do Brasil, Caixa e Petrobras",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcWNPQXVIMzJCNnFrUEs2VVVzWVVmSVB5ZlVDZUJiZUxnaDR1MlZvcUhPVHVFenhOWW1iczNJUDBLcFdXUVk4MTd6ZGxDNlVMTFRPX290WldxbnhGT3ZWTUF6WWxIUXZPZUhhZlE0N3hEOU5VX2o3b0JEQkJiNGxTY2V1OE9lUDRZekc0ZkFJcURjaFhNQ1FMLTdHSUJTU2RMYVF6QU1kSzAycjZ1MFpuUlY0Tlo2YnFla2plOUZMNl94dEJWT21SUHM4ZThseklqM2FzTTI1aEhGbW54cUdOQ3RNMUdDdHc4d0l0UTNabmVUMHhxM3c2YzBJRdIBigJBVV95cUxNclRnOEZ0MHppckRsaVMwWHZodWlNc3N2ZmY1Rmo4cWY2UEVQckxhb1p5RDdJYkFJTEI1ZHc0ODA4dkxQajNGYURIcVNDVk5EWlZLVzNKVE9xRUU0N1BXX0tweTdYZ09kYUROa0dBN29fTERxdVRpTlNNdUZ6Y29fbWExUjRqVFl2M3hCMGxLMkszeEpDVkU2WTBnTThaeTZZNXpfcGVKSDdXR2VvV0RWMHN6aXJKSHpOSXdaNnppVGthRDBvMmJ0eWl3VXNwc2RrYlBEUEhlMHJVMzc3Rm9VVUllQ3ZIby1LUTF4cHprT3lOUDg1NWRtZnJZZlQzYmE4a0hxTnhpSTBaZw?oc=5"
-    }
-   ],
-   "score": 26.4
-  },
-  {
-   "id": "93f50a352f",
-   "titulo": "Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’",
-   "url": "https://valor.globo.com/brasil/noticia/2026/10/08/durigan-diz-que-ajuste-fiscal-de-flvio-bolsonaro-iluso-barata-e-vazia-e-mercado-est-comprando.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T21:22:51+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Durigan+diz+que+ajuste+fiscal+Fl%C3%A1vio+Bolsonaro+ilus%C3%A3o+barata",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Poder360",
-     "titulo": "Durigan chama ajuste fiscal de Flávio de “ilusão barata”",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRMRWlhT21FUmtlQmN3UFZXTnNBYXNpVFlkcDBxZkFUX05MS0ZucTU4OElZUnFlX1ZJMWJ0MW11LTRreWwxaDBiS3hWMDVGZzM1UEYwTGtoSUxRUDR0WEFTbUw2N0g4X01tTzVXVHp3MUpXNXE4LUtaRTNBdGRtbHF3UlJQbDlxM0szTVBlYmVtV1RQUXJMTUVEdC1wRzA?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ3IyTU4xU0U0ZTMxSHQ5N21rZjhnakxyQklLWm1RVzFDM3E4QUtNaE1OZ3g2SHRSd3hBY0xwN1JMcG1IS2hESkhmNng5eEJXeWlOQ2VaOVIzZDVob3dCZHlFRjJnaXhiYmJ1aXR3LXgwNWhqOEs2a2l1dmFrby1mLXlpQjd3Q0xiT3lsaDVDTWFJbllyczU4QkpwWVAtOWx5cGtjcG4zRlJtSkltdHp5RVJRVUVLRzU3U2NDdVBVWVdMN3ZkWGJ5dno5bkhzTFBMa2x4cHdfS09Ta2w3TTlKUV9JVGo4YmZLZzlRNFcwYkQ1UdIB8gFBVV95cUxPQ3IyTU4xU0U0ZTMxSHQ5N21rZjhnakxyQklLWm1RVzFDM3E4QUtNaE1OZ3g2SHRSd3hBY0xwN1JMcG1IS2hESkhmNng5eEJXeWlOQ2VaOVIzZDVob3dCZHlFRjJnaXhiYmJ1aXR3LXgwNWhqOEs2a2l1dmFrby1mLXlpQjd3Q0xiT3lsaDVDTWFJbllyczU4QkpwWVAtOWx5cGtjcG4zRlJtSkltdHp5RVJRVUVLRzU3U2NDdVBVWVdMN3ZkWGJ5dno5bkhzTFBMa2x4cHdfS09Ta2w3TTlKUV9JVGo4YmZLZzlRNFcwYkQ1UQ?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Durigan diz que ajuste fiscal de Flávio Bolsonaro é ‘ilusão barata e vazia e mercado está comprando’",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOXU5RG1zSmdmb2huX0JqYTRCeEdVMVUzZ0hxeFpKclVTVXdNaF93Q25pc0dLTURhTU1OckNITGNxcnR2Wnl6R091T21ZNUcxN0NMcnN6WW1YVFFEb3EydlJfMFBMS1pBd01CeHJFclk4STNicS13ejdjUkxtN1hjQTJOYVM0ZEpOOXV5dTNOZFdRUTNGbHJuQWVVSUk1MWRZZUg1V0FZNDJtTUVSTHIxOUN2QW1hVXdkWjFkR0s2dnB3dWc0YjF2VnBjYlVjZ25kNXlMUGNHVFFtLWNHQVdYQ2tGY9IB8gFBVV95cUxPQ3IyTU4xU0U0ZTMxSHQ5N21rZjhnakxyQklLWm1RVzFDM3E4QUtNaE1OZ3g2SHRSd3hBY0xwN1JMcG1IS2hESkhmNng5eEJXeWlOQ2VaOVIzZDVob3dCZHlFRjJnaXhiYmJ1aXR3LXgwNWhqOEs2a2l1dmFrby1mLXlpQjd3Q0xiT3lsaDVDTWFJbllyczU4QkpwWVAtOWx5cGtjcG4zRlJtSkltdHp5RVJRVUVLRzU3U2NDdVBVWVdMN3ZkWGJ5dno5bkhzTFBMa2x4cHdfS09Ta2w3TTlKUV9JVGo4YmZLZzlRNFcwYkQ1UQ?oc=5"
-    }
-   ],
-   "score": 26.0
-  },
-  {
-   "id": "2eb9fedbfd",
-   "titulo": "Augusto Cury declara apoio a Flávio Bolsonaro no segundo turno",
-   "url": "https://www.infomoney.com.br/politica/augusto-cury-declara-apoio-a-flavio-bolsonaro-no-segundo-turno/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-08T22:58:25+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Augusto+Cury+declara+apoio+Fl%C3%A1vio+Bolsonaro+segundo+turno",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Money Times",
-     "titulo": "Cury oficializa apoio a Flávio Bolsonaro sob condição de ‘pacificação nacional’",
-     "url": "https://www.moneytimes.com.br/cury-oficializa-apoio-a-flavio-bolsonaro-sob-condicao-de-pacificacao-nacional/"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Augusto Cury anuncia apoio a Flávio Bolsonaro no segundo turno",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/augusto-cury-anuncia-apoio-a-flvio-bolsonaro-no-segundo-turno.ghtml"
-    }
-   ],
-   "score": 23.6
-  },
-  {
-   "id": "3316f13316",
-   "titulo": "Governo Bolsonaro não fez correção de rumo fiscal, diz Durigan à CNN",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkNUTlFIQVBhM3FSWTlaMm9FQ1pxeWowaUF0NlRGYlVoQkNjSlVpc0JhUVlROTZzSHcwY3ExZFZJbVZwMk1ORHFLZnZnR194S2RXVHQyMDN3ZUlKYjhWRVlhSHJIdUI4SWt0T3dpWUNfUjZoek1KLURFOVBtd08zcVkwcmEzWFVOY2dscWQtN3lEQTE4eTRraEhtTDNXTXVVemVGRVN3X2N1YU5HZFNrZm9ZOFBWRF94Y0lUX0NFQVBVVTVt?oc=5",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-08T22:09:21+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Bolsonaro+n%C3%A3o+fez+corre%C3%A7%C3%A3o+rumo+fiscal%2C+diz+Durigan",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Durigan critica gestão fiscal de Bolsonaro e defende contas públicas do governo Lula",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEJEVmpCWjhuUFlyN2cyMld4T2pObFRUaFJ5TGl1R0NhZ2Fhd1lwTjN4N3dGSGJod0lFUlZ6NVpuM3hzQ0ZWdU5jLVM3RWNOZWF6d0xVOGU0WXhxam84REZheTJUTndhSjBYQkRRRTZLVExFU2ZhMnp0eGNRblBpdmN2TFQ3UFdoVFB5bzdKTTBoRDRNUUdTZFcxcVluSVIxOVFVZ1FySFlhWFV4dnRQSGd1NnV2T2podndz?oc=5"
-    },
-    {
-     "veiculo": "Sobral Online",
-     "titulo": "Governo Bolsonaro não fez correção de rumo fiscal, diz Durigan",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbV9QbV9qTi1kaTAwQ2EwWTVKUU43azIwS296WEM1elByZ3RrTGJ6RzBwaFgtaTRSREhZTGdNRlpJMTZMZ1pxNkRpOXlHaFRrQUJ5UGZfbVU4NEQwQjdCSTM5dE5iekF6VGZ5Tjh4dlhSMTlGLVdoaHVYWndETUl4dDlPcDR2VUxrdzNvdkVvLVhVcXdD?oc=5"
-    }
-   ],
-   "score": 23.3
-  },
-  {
-   "id": "2ffc86295c",
-   "titulo": "PGR defende soltar com tornozeleira ex-presidente do INSS",
-   "url": "https://valor.globo.com/politica/noticia/2026/10/08/pgr-defende-soltar-com-tornozeleira-ex-presidente-do-inss.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-09T00:50:32+00:00",
+   "id": "b292501d77",
+   "titulo": "Smart Fit ou Magalu? 7 ações do varejo podem ganhar com uma virada dos juros, diz BTG",
+   "url": "https://exame.com/invest/mercados/smart-fit-ou-magalu-7-acoes-do-varejo-podem-ganhar-com-uma-virada-dos-juros-diz-btg/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-09T10:34:42-03:00",
    "temas": [
     "comportamento",
-    "mercado",
-    "politica"
+    "mercado"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=PGR+defende+soltar+com+tornozeleira+presidente+INSS",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha",
-     "titulo": "PGR defende fim de prisão preventiva de ex-presidente do INSS, mas ação está paralisada no STF",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pgr-defende-fim-de-prisao-preventiva-de-ex-presidente-do-inss-mas-acao-esta-paralisada-no-stf.shtml"
-    }
-   ],
-   "score": 22.4
-  },
-  {
-   "id": "85a600935b",
-   "titulo": "Publicamente, Flávio Bolsonaro defende reajuste de aposentadorias acima da inflação",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/publicamente-flavio-bolsonaro-defende-reajuste-de-aposentadorias-acima-da-inflacao.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-08T12:50:00-03:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Publicamente%2C+Fl%C3%A1vio+Bolsonaro+defende+reajuste+aposentadorias+acima+infla%C3%A7%C3%A3o",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha",
-     "titulo": "Entenda o reajuste das aposentadorias, auxílios e BPC do INSS, na mira de Flávio Bolsonaro",
-     "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/entenda-o-reajuste-das-aposentadorias-auxilios-e-bpc-do-inss-na-mira-de-flavio-bolsonaro.shtml"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Entenda o reajuste das aposentadorias, auxílios e BPC do INSS, na mira de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjRQQ01UU0duSWVGV1FkRXU4WVNRakRLaDRYQkZQRkM0c1lyUGlMVC1lTVBoNVdmTlp3eHpvbHk2NDlOYmtrOGNDTkd4d0tUc1Q2d0Zrb1FaaDBqa2dvZmQyTFVpVlJLemhtaTJJT2pRYlgzTDRVSV93TncwWkxHUWExeEN2NzllcVlET3luejZhUXNYTEw0Q0Y1OHgxZDhmampiQklVWGs1Nk1lelhXUnRyT2FkcmhHZVBfMUotbmRLaWh4UWhoQmR1V2dPbVBmWF9RUnBZaw?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Publicamente, Flávio Bolsonaro defende reajuste de aposentadorias acima da inflação",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2xFMkFUd2NFdXJzRXhqamZIYWxzT200VGRQcTNWQWlaYVN0YV9Sdmczd3VjX2pmX3FNRHlHS08wbm15a2ZfR2NzT1B2X01qQnBlWXdiejJRTVQtTVRzeDdYZVF1U0JiU0kyZFYyTnNTWC1Vd1dZY3lUbXZ3OXZQQnhrTmRubFpGbm9RYUNXa3dXWmx2MENzeHNGb2JSWmNtT0NBU3gtYjlpdnpkb3djVDZ6Qkx2R0xvMnJCSWlTVGpTTEx4VHhSUU44OGI1WVU?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Publicamente, Flávio Bolsonaro defende reajuste de aposentadorias acima da inflação",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2xFMkFUd2NFdXJzRXhqamZIYWxzT200VGRQcTNWQWlaYVN0YV9Sdmczd3VjX2pmX3FNRHlHS08wbm15a2ZfR2NzT1B2X01qQnBlWXdiejJRTVQtTVRzeDdYZVF1U0JiU0kyZFYyTnNTWC1Vd1dZY3lUbXZ3OXZQQnhrTmRubFpGbm9RYUNXa3dXWmx2MENzeHNGb2JSWmNtT0NBU3gtYjlpdnpkb3djVDZ6Qkx2R0xvMnJCSWlTVGpTTEx4VHhSUU44OGI1WVU?oc=5"
-    }
-   ],
-   "score": 21.7
-  },
-  {
-   "id": "03d25e7a01",
-   "titulo": "Flávio vai congelar o salário mínimo e cortar recursos da saúde e educação, diz Haddad",
-   "url": "https://valor.globo.com/noticia/2026/10/08/flvio-vai-congelar-o-salrio-mnimo-e-cortar-recursos-da-sade-e-educao-diz-haddad.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-08T22:36:23+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+vai+congelar+sal%C3%A1rio+m%C3%ADnimo+cortar+recursos+sa%C3%BAde+educa%C3%A7%C3%A3o%2C",
+   "busca_video": "https://www.youtube.com/results?search_query=Smart+Fit+Magalu+a%C3%A7%C3%B5es+varejo+podem+ganhar+com+uma",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.5
+   "score": 20.7
   },
   {
-   "id": "6f101ddf52",
-   "titulo": "O debate sobre a reforma tributária",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/braulio-borges/2026/10/o-debate-sobre-a-reforma-tributaria.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-08T17:47:00-03:00",
+   "id": "f89af6f510",
+   "titulo": "Quem está na frente para presidente no 2º turno? Veja o que diz a primeira pesquisa",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/quem-esta-na-frente-para-presidente-no-2o-turno-veja-o-que-diz-a-primeira-pesquisa.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-09T14:02:57+00:00",
    "temas": [
-    "economia",
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=debate+sobre+reforma+tribut%C3%A1ria",
+   "busca_video": "https://www.youtube.com/results?search_query=Quem+est%C3%A1+frente+para+presidente+turno+Veja+que+diz",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "O GLOBO",
-     "titulo": "O que é 'split payment' na Reforma Tributária e o que dizem equipes de Lula e Flávio sobre o mecanismo",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdkFjQk5sbUJkOVc4bFBNZWZUREluRksxSFRYVjQyWEpJTFFLdHdUMTVoSFRCWDdqTmp2dkphVVRrVUQ3WVg5UlZ2dkxLQUFKOXA3NkVQNHRDX2R1SWprbDlaQTRJczBNMDZGMjdSeUlyNGJhbEw0c3l6aWNBS1ROVGJuZzZBZmRTWnlPNDJXb2lUcFFTWllmUTVRMmJlN2N0RFpKNUFlTjVsclZTV2F4T0dhMWExSktKT2hjeHJLXzJsV0Vid05fZ1NNMVhCaGNnZTFHZkJ4WFlOVGRiQjlIeXdkX094WFBFbXBTTHlwdU4zUldwNGlPM3REaGZzYlpuNHItREpxZ9IBlgJBVV95cUxPRTVVQWtuUFlzcGp2YlZVZmxTb291cUVLTWdvY01FUFA4NEZGOUp4NGFGcUtBc0ZIWldHZG1ZY2RRWnNKbWVNUm9uLUQ3RHBFZDNkcUJEYUsxR2NlQXY4V2JvM1JxRkh3RlJ1WkpUdndOT0pCMWdhUmRpRmMyN3VqSlNTYm5vWF9CY1h1Y1RvVXRoMHRhSUFWU2RDMm0zZHA0SEpibzFGbG82NWRHdHdHdmNkRlhfUWpiZ3FyYUtLRTFXT2l0TFFCR1l0TUc1WDhzcTE1SVFjeFY4eDVJSFJPQS1kWDg0aHJKY0hZRFdUdXdza3oxSUVtdWdfYmhhQ003NXl1LVpyRnYtUDR5TW1pQjFJRVBHUQ?oc=5"
+     "veiculo": "BBC",
+     "titulo": "Com novas pesquisas, quem está à frente? Veja Lula x Flávio Bolsonaro no agregador da BBC do 2º turno",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16NHBHb2M0WF9sV1ZhdlVaUGpEbHBaS0RUV3d4TWhaU1hOS3dwQTdPNkQxRzlwVi1lbGU3dmllTVh0WmhNTnNBV2t0YUZpYlhwTmVCbUJndTlwTUpRTHNGSlpGRdIBaEFVX3lxTFBoUmlQNmptOER3ME9ONDBfZ1dxZDNCcjBkaUFzOGpHMXpubzdjRlZXVmRVUV84bXZPeXNMdTR2ZzVoa0cyWmVCRjBvMG1zb1hYWC0xUGI3c29zZzhTdTREREo2TG1GX1Iy?oc=5"
     }
    ],
-   "score": 19.7
+   "score": 18.8
   },
   {
-   "id": "4844bbe5d5",
-   "titulo": "Inquilinos em alerta em caso de vitória de Flávio; com Bolsonaro inflação dos alugueis bateu recorde",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSnJhN1NBSng4X05vX0JZMWNDakdSVE8tSHpPWERvQ2lLYkdyYkdQY2dHQ3VVenQybHZuQTZXZUw3dnRhM0MzOGRTOThfRmJxS19zNEdwWkdCdlZ2VGdRSWtBR0djNUFNMkg5emYxWjNlY2wySFZVbGVDLV9tTGJfWnZ2NVFnMnV1VXFMU2pnZzJ2WjloUVdCOHBZUm4tZG1URVZOWV90WjMtTkg5aDViRVhRUnJNTjV5WF9HdHZ3WXJPSVdmU2pjWDJFTHR0QzhNU2dJNg?oc=5",
-   "veiculo": "SRzd",
-   "publicado": "2026-10-08T16:34:56+00:00",
+   "id": "5d1291f8b0",
+   "titulo": "Poupança tem saque líquido de R$ 9,35 bi em agosto, diz BC",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/poupanca-tem-saque-liquido-de-r-935-bi-em-agosto-diz-bc.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-09T11:16:00-03:00",
    "temas": [
-    "economia",
-    "mercado",
-    "politica"
+    "comportamento",
+    "economia"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Inquilinos+alerta+caso+vit%C3%B3ria+Fl%C3%A1vio+com+Bolsonaro+infla%C3%A7%C3%A3o+dos",
+   "busca_video": "https://www.youtube.com/results?search_query=Poupan%C3%A7a+tem+saque+l%C3%ADquido+9%2C35+agosto%2C+diz",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.0
-  },
-  {
-   "id": "f687b681cc",
-   "titulo": "Contradições do discurso econômico de Flávio expõem dúvidas no ajuste fiscal prometido pelo candidato",
-   "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/contradicoes-do-discurso-economico-de-flavio-expoem-duvidas-no-ajuste-fiscal-prometido-pelo-candidato.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-08T13:35:00-03:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Contradi%C3%A7%C3%B5es+discurso+econ%C3%B4mico+Fl%C3%A1vio+exp%C3%B5em+d%C3%BAvidas+ajuste+fiscal+prometido",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Contradições do discurso econômico de Flávio expõem dúvidas no ajuste fiscal prometido pelo candidato",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYWFEbld3MWw0dGdDZElKc1FiOEdrb0stZTdvZ0tJTkx0cnVkZW9BdkhwUFAxWU5xd0x6aTZzaFltbmJKWGMxTmhOYUVjNGZVY1IwTG9VWGtQVFVHSHlSVEZocFdvbUg0R3k5Wi0wdzNjM1I4VUlWWURia1B1RDRsazIwVEdCWVlzY3BmMzdVeGdUMTlTT3pxZ19kNzAxR0hkSjZnejVUQ3d3WHBPNWc1MHZHY1E1bmZYbG0wLVY3dmlwT0g0MTBTTmdFaFdwanlqekZVdEE4czdVaG5QV2V1M0dtQkctOFZf?oc=5"
-    }
-   ],
-   "score": 18.0
+   "score": 17.9
   }
  ],
  "fontes_ok": 22,
