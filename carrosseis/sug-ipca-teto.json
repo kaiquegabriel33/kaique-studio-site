@@ -1,0 +1,173 @@
+{
+  "id": "sug-ipca-teto",
+  "titulo": "A inflação passou do teto depois do corte",
+  "status": "pronto",
+  "criado": "2026-10-09T12:00",
+  "atualizado": "2026-10-09T13:33:25-03:00",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 38,
+          "texto": "O Banco Central cortou os juros em setembro com a inflação abaixo do teto da meta.\n\n==Três semanas depois, ela voltou para cima.==",
+          "tipo": "texto"
+        },
+        {
+          "credito": "Foto: Agência Brasil",
+          "data": "09/10/2026",
+          "imagem": "midia/sug-ipca-teto/inflacao-oficial-de-setembro-fica-em-0-82-mostra.jpg",
+          "manchete": "Inflação oficial de setembro fica em 0,82%, mostra IBGE",
+          "tipo": "noticia",
+          "veiculo": "Agência Brasil"
+        }
+      ],
+      "papel": "gancho",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "contexto": "O teto da meta é 4,5%. Em agosto, quando o BC cortou, estava em 4,22%.",
+          "rotulo": "de inflação em 12 meses, até setembro",
+          "tamValor": 150,
+          "tipo": "numero",
+          "valor": "4,58%"
+        },
+        {
+          "casas": 2,
+          "colunas": [
+            "no mês"
+          ],
+          "cores": true,
+          "destaques": [
+            1
+          ],
+          "larguraColuna": 200,
+          "linhas": [
+            {
+              "rotulo": "O que o mercado esperava",
+              "valores": [
+                0.6
+              ]
+            },
+            {
+              "rotulo": "O que veio",
+              "valores": [
+                0.82
+              ]
+            }
+          ],
+          "subtitulo": "inflação no mês, %",
+          "sufixo": "%",
+          "tipo": "tabela",
+          "titulo": "Só setembro"
+        }
+      ],
+      "fonte": "Fontes: IBGE; boletim Focus do Banco Central (05/10).",
+      "papel": "fato",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 38,
+          "texto": "Quem puxou foi a conta de luz. Em agosto ela veio com o desconto do Bônus de Itaipu. Em setembro o desconto acabou, e a luz subiu 7,98%.",
+          "tipo": "texto"
+        },
+        {
+          "casas": 2,
+          "destaques": [
+            0
+          ],
+          "formato": "barras_h",
+          "h": 420,
+          "reservaValor": 200,
+          "rotulos": [
+            "Com a conta de luz (o que veio)",
+            "Sem a conta de luz (cálculo do IBGE)"
+          ],
+          "subtitulo": "IPCA de setembro, %",
+          "sufixo": "%",
+          "tipo": "grafico",
+          "titulo": "Sem a conta de luz, a inflação do mês seria bem menor",
+          "valores": [
+            0.82,
+            0.52
+          ]
+        }
+      ],
+      "fonte": "Fontes: IBGE, via Agência Brasil e Valor (09/10/2026).",
+      "papel": "evidência",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 38,
+          "texto": "E a feira. Depois de três meses de queda, a comida voltou a subir. O IBGE culpa o frio e a chuva.",
+          "tipo": "texto"
+        },
+        {
+          "casas": 1,
+          "destaques": [
+            0
+          ],
+          "formato": "barras_h",
+          "h": 560,
+          "reservaValor": 170,
+          "rotulos": [
+            "Tomate",
+            "Batata",
+            "Cebola",
+            "Arroz"
+          ],
+          "subtitulo": "alta em setembro, %",
+          "sufixo": "%",
+          "tipo": "grafico",
+          "titulo": "O que mais subiu na feira",
+          "valores": [
+            37.76,
+            24.07,
+            10.14,
+            4.56
+          ]
+        }
+      ],
+      "fonte": "Fonte: IBGE, via Agência Brasil (09/10/2026).",
+      "papel": "evidência",
+      "tema": "claro"
+    },
+    {
+      "centralizar": true,
+      "elementos": [
+        {
+          "tam": 40,
+          "texto": "Luz e tomate vão e voltam. Em outubro a bandeira é verde e a conta alivia.\n\nO número que o BC olha mesmo é outro: ==serviços, que sobem 5,98% em 12 meses.== E serviço não cai com a chuva.\n\nO próximo corte de juros vai precisar de outro argumento.",
+          "tipo": "texto"
+        }
+      ],
+      "fonte": "Opinião do autor. Serviços: IBGE, via Agência Brasil.",
+      "papel": "conclusão",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "O BC cortou os juros com a inflação abaixo do teto. Três semanas depois, ela voltou para cima.\n\nO IPCA subiu 0,82% em setembro, o maior desde março. O mercado esperava 0,60% (boletim Focus). Em 12 meses, a inflação foi a 4,58%, acima do teto de 4,5%. Quando o Copom cortou a Selic para 13,75%, no dia 16, o acumulado estava em 4,22%.\n\nQuem puxou foi a conta de luz: em agosto ela veio com o desconto do Bônus de Itaipu; em setembro o desconto acabou e a energia subiu 7,98%. Sem a conta de luz, a inflação do mês teria sido de 0,52%, segundo cálculo do IBGE.\n\nNa feira, depois de três meses de queda, a comida voltou a subir: tomate +37,8%, batata +24,1%, cebola +10,1%. O IBGE aponta frio e chuva.\n\nLuz e tomate vão e voltam. O que pesa para os juros são os serviços, que sobem 5,98% em 12 meses.\n\nFontes: IBGE, via Agência Brasil e Valor (09/10/2026); boletim Focus do Banco Central (05/10/2026).\n\nIsto é análise, não recomendação de investimento.",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — Inflação oficial de setembro fica em 0,82%, mostra IBGE (09/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/inflacao-oficial-de-setembro-fica-em-082-mostra-ibge"
+    },
+    {
+      "titulo": "Valor — IPCA de setembro teria subido 0,52% e não 0,82% sem energia elétrica, mostra IBGE (09/10/2026)",
+      "url": "https://valor.globo.com/"
+    },
+    {
+      "titulo": "IBGE — SIDRA, tabela 1737 (IPCA: mês e 12 meses)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/63,69,2263,2265/p/202608,202609"
+    },
+    {
+      "titulo": "G1 — Copom reduz a Selic de 14% para 13,75% (16/09/2026)",
+      "url": "https://g1.globo.com/economia/"
+    }
+  ]
+}
