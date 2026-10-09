@@ -149,7 +149,7 @@
 <header class="barra">
   <button class="sec voltar" id="voltar" hidden>← Voltar</button>
   <h1 id="titulo">Kaique Studio</h1>
-  <a class="botao sec central" href="https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys" target="_blank" rel="noopener"><span class="longo">Pedir e aprovar</span><span class="curto">Pedir</span> ↗</a>
+  <a class="botao sec central" href="https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys" target="_blank" rel="noopener"><span class="longo">Voltar para a Central</span><span class="curto">Central</span> ↗</a>
 </header>
 <main class="conteudo" id="app"><p class="vazio">Carregando carrosséis…</p></main>
 
@@ -216,7 +216,7 @@
     const box = el('section', { class: 'intro' },
       el('h2', { text: 'Como funciona' }),
       el('ol', {},
-        el('li', { text: 'Em “Pedir e aprovar” você pede uma pauta (ou escolhe uma do radar) e aprova o que o Claude montar.' }),
+        el('li', { text: 'Na Central você pede conteúdo e aprova o que o Claude montar.' }),
         el('li', { text: 'O que você aprova aparece aqui, pronto.' }),
         el('li', { text: 'Abra, salve as imagens, copie a legenda e poste.' })));
     box.append(el('button', { class: 'sec', text: 'Entendi', onclick: () => { try { localStorage.setItem('ks-intro-ok', '1'); } catch { /* segue */ } box.remove(); } }));
@@ -231,7 +231,7 @@
     const intro = introducao();
     if (intro) app.append(intro);
     if (!indice.length) {
-      app.append(el('p', { class: 'vazio', text: 'Nada pronto ainda. Toque em “Pedir e aprovar” para pedir uma pauta.' }));
+      app.append(el('p', { class: 'vazio', text: 'Nada pronto ainda. Toque em “Central” para pedir ou aprovar um conteúdo.' }));
       return;
     }
     const ordem = [...indice].sort((a, b) => (postados.tem(a.id) - postados.tem(b.id)) || String(b.atualizado).localeCompare(String(a.atualizado)));
