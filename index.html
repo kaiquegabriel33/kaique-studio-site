@@ -250,14 +250,15 @@
       app.append(el('p', { class: 'vazio', text: 'Nada pronto ainda. Toque em “Central” para pedir ou aprovar um conteúdo.' }));
       return;
     }
-    const ordem = [...indice].sort((a, b) => (postados.tem(a.id) - postados.tem(b.id)) || String(b.atualizado).localeCompare(String(a.atualizado)));
+    const foi = (x) => !!x.postado_em || postados.tem(x.id);
+    const ordem = [...indice].sort((a, b) => (foi(a) - foi(b)) || String(b.atualizado).localeCompare(String(a.atualizado)));
     const grade = el('div', { class: 'grade' });
     app.append(grade);
     const minha = navegacao;
     await R.carregarFontes();
     if (minha !== navegacao) return;
     for (const it of ordem) {
-      const feito = postados.tem(it.id);
+      const feito = !!it.postado_em || postados.tem(it.id);   // postado_em vem do Claude (vale em todo aparelho)
       const cv = el('canvas', { width: '432', height: '540', 'aria-hidden': 'true' });
       const tipo = it.formato === 'video' ? 'Vídeo comentado' : `${it.paginas} páginas`;
       const card = el('button', { class: 'card' + (feito ? ' postado' : ''), onclick: () => { location.hash = '#/c/' + it.id; } },
