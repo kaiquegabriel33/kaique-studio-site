@@ -37,7 +37,8 @@
   const eReels = (slide) => alturaDe(slide) > 1600;
   const deslocamentoDe = (slide) => (eReels(slide) ? REELS_TOPO : 0);
   // limite em coordenadas do conteúdo (já deslocado)
-  const limiteDe = (slide) => (eReels(slide) ? alturaDe(slide) - REELS_BASE - REELS_TOPO : alturaDe(slide) - (H - LIMITE_INFERIOR));
+  // no Reels a linha de fonte também precisa ficar fora da faixa que o Instagram cobre: reserva o espaço dela
+  const limiteDe = (slide) => (eReels(slide) ? alturaDe(slide) - REELS_BASE - REELS_TOPO - (slide.fonte ? 76 : 0) : alturaDe(slide) - (H - LIMITE_INFERIOR));
 
   // Caminhos relativos à página que carrega o motor (o site em site/).
   const ATIVOS = Object.assign({
@@ -93,9 +94,11 @@
   // **negrito**  ==marca-texto==   \n = quebra de linha
   function tokenizar(texto) {
     const paragrafos = String(texto || '').split('\n');
+    // ==/** valem até fechar, mesmo atravessando uma quebra de linha
+    let negrito = false, marca = false;
     return paragrafos.map((par) => {
       const runs = [];
-      let negrito = false, marca = false, buf = '';
+      let buf = '';
       const flush = () => { if (buf) runs.push({ t: buf, negrito, marca }); buf = ''; };
       for (let i = 0; i < par.length; i++) {
         if (par[i] === '*' && par[i + 1] === '*') { flush(); negrito = !negrito; i++; continue; }
@@ -139,6 +142,22 @@
         const wSem = ctx.measureText(p.t.replace(/\s+$/, '')).width;
         if (x > 0 && x + wSem > larg) fechar();
         if (x === 0 && /^\s+$/.test(p.t)) continue;
+        if (wSem > larg) {
+          // palavra maior que a linha (link, número enorme): quebra por letra em vez de vazar da página
+          let pedaco = '';
+          for (const ch of p.t) {
+            if (pedaco && ctx.measureText(pedaco + ch).width > larg) {
+              linha.push({ t: pedaco, x: 0, w: ctx.measureText(pedaco).width, negrito: p.negrito, marca: p.marca });
+              fechar();
+              pedaco = '';
+            }
+            pedaco += ch;
+          }
+          const wp = ctx.measureText(pedaco).width;
+          linha.push({ t: pedaco, x: 0, w: wp, negrito: p.negrito, marca: p.marca });
+          x = wp;
+          continue;
+        }
         linha.push({ t: p.t, x, w: wTot, negrito: p.negrito, marca: p.marca });
         x += wTot;
       }
@@ -534,7 +553,31 @@
     // linha
     ctx.beginPath(); val.forEach((v, i) => (i ? ctx.lineTo(sx(i), sy(v)) : ctx.moveTo(sx(i), sy(v))));
     ctx.strokeStyle = tema.barra; ctx.lineWidth = 5; ctx.lineJoin = 'round'; ctx.lineCap = 'round'; ctx.stroke();
-    val.forEach((v, i) => { ctx.beginPath(); ctx.arc(sx(i), sy(v), 6, 0, Math.PI * 2); ctx.fillStyle = tema.cartao; ctx.fill(); ctx.lineWidth = 4; ctx.strokeStyle = tema.barra; ctx.stroke(); });
+    // série longa (diária, por exemplo): sem bolinha em cada ponto, que vira borrão
+    if (n <= 14) val.forEach((v, i) => { ctx.beginPath(); ctx.arc(sx(i), sy(v), 6, 0, Math.PI * 2); ctx.fillStyle = tema.cartao; ctx.fill(); ctx.lineWidth = 4; ctx.strokeStyle = tema.barra; ctx.stroke(); });
+    // tendência: tracejado do primeiro ao último ponto
+    if (el.tendencia) {
+      ctx.save(); ctx.setLineDash([14, 12]); ctx.strokeStyle = tema.fraco; ctx.lineWidth = 3;
+      ctx.beginPath(); ctx.moveTo(sx(0), sy(val[0])); ctx.lineTo(sx(n - 1), sy(val[n - 1])); ctx.stroke(); ctx.restore();
+    }
+    // começo e fim em destaque (bolha amarela com o valor): quem só bate o olho entende a história
+    if (el.inicioFim) {
+      for (const i of [0, n - 1]) {
+        const px = sx(i), py = sy(val[i]), txt = fmt(val[i], el);
+        ctx.font = fonteDe(28, 800);
+        const r = Math.max(46, ctx.measureText(txt).width / 2 + 16);
+        const cx = Math.min(Math.max(px, a.x + r), a.x + a.w - r);
+        let cy = py - r - 22;
+        if (cy - r < a.y - 30) cy = py + r + 22;            // sem espaço em cima: a bolha vai para baixo
+        ctx.strokeStyle = tema.texto; ctx.lineWidth = 3;
+        ctx.beginPath(); ctx.moveTo(px, py); ctx.lineTo(cx, cy + (cy > py ? -r : r)); ctx.stroke();
+        ctx.beginPath(); ctx.arc(cx, cy, r, 0, Math.PI * 2); ctx.fillStyle = tema.marca; ctx.fill();
+        ctx.lineWidth = 3; ctx.strokeStyle = tema.texto; ctx.stroke();
+        ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillStyle = tema.texto; ctx.fillText(txt, cx, cy + 1);
+        ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
+        ctx.beginPath(); ctx.arc(px, py, 9, 0, Math.PI * 2); ctx.fillStyle = tema.texto; ctx.fill();
+      }
+    }
     // eixo X
     ctx.textBaseline = 'alphabetic'; ctx.font = fonteDe(20, 600); ctx.fillStyle = tema.fraco; ctx.textAlign = 'center';
     rot.forEach((r, i) => ctx.fillText(r, sx(i), a.y + a.h));
@@ -781,7 +824,11 @@
       const e = { ...el, _idx: idx };
       const tipo = TIPOS[e.tipo];
       if (!tipo) return;
-      if (reduz && e.tam) e.tam = Math.max(e.tipo === 'texto' ? 32 : 26, e.tam - reduz);
+      // encolhe também o texto sem tamanho definido (padrão 37) e nunca aumenta o que já é pequeno
+      if (reduz && (e.tam || e.tipo === 'texto')) {
+        const base = e.tam ?? 37, piso = e.tipo === 'texto' ? 32 : 26;
+        e.tam = Math.max(Math.min(base, piso), base - reduz);
+      }
       if (reduz && e.tipo === 'comparacao' && e.sinal !== '') e.gapSinal = Math.max(44, (e.gapSinal ?? 54) - reduz * 3);
       e._auto = e.y === undefined || e.y === 'auto';
       e._limite = limiteDe(slide);
@@ -818,7 +865,7 @@
     if (slide.fonte) {
       ctx.textBaseline = 'alphabetic'; ctx.font = fonteDe(20, 500); ctx.fillStyle = tema.fraco;
       const d = diagramarTexto(ctx, slide.fonte, { tam: 20, peso: 500, pesoDestaque: 700, w: LARG_UTIL, lh: 1.35 });
-      const base = eReels(slide) ? limiteDe(slide) + 60 : AH - 52;
+      const base = eReels(slide) ? limiteDe(slide) + 44 : AH - 52;   // Reels: a última linha termina antes da faixa coberta
       desenharTexto(ctx, d, { x: MARGEM, y: base - d.altura + 20 * 1.35, w: LARG_UTIL, tam: 20, lh: 1.35, peso: 500, pesoDestaque: 700, cor: tema.fraco }, tema);
     }
     ctx.restore();
