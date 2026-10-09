@@ -116,6 +116,32 @@
   .edicao textarea { width: 100%; min-height: 84px; font: inherit; font-size: 14px; padding: 10px; border-radius: 10px;
     border: 1px solid var(--linha); background: var(--fundo); color: var(--tinta); resize: vertical; }
   .nota { font-size: 12.5px; color: var(--suave); }
+  .barra .central { padding: 8px 14px; min-height: 40px; font-size: 13px; white-space: nowrap; flex: 0 0 auto; }
+  .barra .central .curto { display: none; }
+  @media (max-width: 520px) {
+    .barra { gap: 8px; padding: 10px 12px; }
+    .barra h1 { font-size: 15.5px; }
+    .barra .voltar { padding: 6px 10px; min-height: 36px; font-size: 13px; }
+    .barra .central { padding: 6px 12px; min-height: 36px; }
+    .barra .central .longo { display: none; }
+    .barra .central .curto { display: inline; }
+  }
+  .intro { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 14px 16px; margin-bottom: 18px; }
+  .intro h2 { margin: 0 0 8px; font-size: 16px; }
+  .intro ol { margin: 0 0 10px; padding-left: 20px; line-height: 1.6; }
+  .intro button { min-height: 36px; padding: 6px 14px; font-size: 13px; }
+  .titulo-secao { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 4px 0 12px; }
+  .pilula.postado { border-color: var(--suave); color: var(--suave); }
+  .card.postado { opacity: .62; }
+  .passo { display: grid; gap: 10px; }
+  .passo + .passo { border-top: 1px solid var(--linha); padding-top: 14px; }
+  .passo h2 { display: flex; gap: 10px; align-items: center; text-transform: none; letter-spacing: 0; font-size: 15px; color: var(--tinta); margin: 0; }
+  .passo h2 .n { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: var(--tinta); color: var(--fundo); font-size: 13px; flex: 0 0 26px; }
+  .passo .grande { width: 100%; min-height: 52px; font-size: 15.5px; }
+  .legenda-curta { white-space: pre-wrap; font-size: 14px; margin: 0; color: var(--suave); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .mais summary { padding: 4px 0; }
+  .mais[open] summary { margin-bottom: 12px; }
+  .mais .bloco { margin-top: 12px; }
   @media (prefers-reduced-motion: reduce) { .trilho { scroll-behavior: auto; } }
 </style>
 </head>
@@ -123,6 +149,7 @@
 <header class="barra">
   <button class="sec voltar" id="voltar" hidden>← Voltar</button>
   <h1 id="titulo">Kaique Studio</h1>
+  <a class="botao sec central" href="https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys" target="_blank" rel="noopener"><span class="longo">Pedir e aprovar</span><span class="curto">Pedir</span> ↗</a>
 </header>
 <main class="conteudo" id="app"><p class="vazio">Carregando carrosséis…</p></main>
 
@@ -171,30 +198,58 @@
   }
 
   // ---------- lista ----------
+  // "Já postei" fica guardado neste aparelho (o site não tem banco de dados).
+  const postados = {
+    ler() { try { return JSON.parse(localStorage.getItem('ks-postados') || '{}'); } catch { return {}; } },
+    tem(id) { return !!this.ler()[id]; },
+    marcar(id, sim) {
+      const m = this.ler();
+      if (sim) m[id] = new Date().toISOString(); else delete m[id];
+      try { localStorage.setItem('ks-postados', JSON.stringify(m)); } catch { /* sem armazenamento: só não lembra */ }
+    },
+  };
+
+  function introducao() {
+    let fechada = false;
+    try { fechada = localStorage.getItem('ks-intro-ok') === '1'; } catch { /* segue */ }
+    if (fechada) return null;
+    const box = el('section', { class: 'intro' },
+      el('h2', { text: 'Como funciona' }),
+      el('ol', {},
+        el('li', { text: 'Em “Pedir e aprovar” você pede uma pauta (ou escolhe uma do radar) e aprova o que o Claude montar.' }),
+        el('li', { text: 'O que você aprova aparece aqui, pronto.' }),
+        el('li', { text: 'Abra, salve as imagens, copie a legenda e poste.' })));
+    box.append(el('button', { class: 'sec', text: 'Entendi', onclick: () => { try { localStorage.setItem('ks-intro-ok', '1'); } catch { /* segue */ } box.remove(); } }));
+    return box;
+  }
+
   async function telaLista() {
-    titulo.textContent = 'Kaique Studio';
+    titulo.textContent = 'Prontos para postar';
     voltar.hidden = true;
     document.title = 'Kaique Studio';
     app.innerHTML = '';
-    app.append(abas('#/'));
+    const intro = introducao();
+    if (intro) app.append(intro);
     if (!indice.length) {
-      app.append(el('p', { class: 'vazio', text: 'Nenhum carrossel publicado ainda.' }));
-    } else {
-      const grade = el('div', { class: 'grade' });
-      app.append(grade);
-      await R.carregarFontes();
-      for (const it of indice) {
-        const cv = el('canvas', { width: '432', height: '540', 'aria-hidden': 'true' });
-        const card = el('button', { class: 'card', onclick: () => { location.hash = '#/c/' + it.id; } },
-          cv,
-          el('span', { class: 't', text: it.titulo }),
-          el('span', { class: 'm' }, el('span', { text: dataBR(it.atualizado) }),
-            el('span', { class: 'pilula ' + (it.status || ''), text: it.status || 'rascunho' })));
-        grade.append(card);
-        miniatura(it.id, cv);
-      }
+      app.append(el('p', { class: 'vazio', text: 'Nada pronto ainda. Toque em “Pedir e aprovar” para pedir uma pauta.' }));
+      return;
     }
-    app.append(el('p', { class: 'dica', text: 'Para criar um carrossel novo, mande a pauta (link, print ou ideia) para o Claude e peça: “faz um carrossel sobre isso”. Ele aparece aqui quando estiver pronto.' }));
+    const ordem = [...indice].sort((a, b) => (postados.tem(a.id) - postados.tem(b.id)) || String(b.atualizado).localeCompare(String(a.atualizado)));
+    const grade = el('div', { class: 'grade' });
+    app.append(grade);
+    await R.carregarFontes();
+    for (const it of ordem) {
+      const feito = postados.tem(it.id);
+      const cv = el('canvas', { width: '432', height: '540', 'aria-hidden': 'true' });
+      const tipo = it.formato === 'video' ? 'Vídeo comentado' : `${it.paginas} páginas`;
+      const card = el('button', { class: 'card' + (feito ? ' postado' : ''), onclick: () => { location.hash = '#/c/' + it.id; } },
+        cv,
+        el('span', { class: 't', text: it.titulo }),
+        el('span', { class: 'm' }, el('span', { text: `${tipo} · ${dataBR(it.atualizado)}` }),
+          el('span', { class: 'pilula ' + (feito ? 'postado' : 'pronto'), text: feito ? 'postado' : 'novo' })));
+      grade.append(card);
+      miniatura(it.id, cv);
+    }
   }
 
   const grande = document.createElement('canvas');
@@ -242,11 +297,10 @@
   };
 
   async function telaRadar() {
-    titulo.textContent = 'Kaique Studio';
-    voltar.hidden = true;
+    titulo.textContent = 'Radar de pautas';
+    voltar.hidden = false;
     document.title = 'Radar de pautas · Kaique Studio';
     app.innerHTML = '';
-    app.append(abas('#/radar'));
     const status = el('p', { class: 'status', role: 'status' });
     let dados;
     try { dados = await (await fetch('radar/radar.json' + semCache())).json(); }
@@ -388,10 +442,35 @@
       catch { status.textContent = 'Não deu para copiar automaticamente: selecione o texto e copie.'; }
     }
 
+    const n = d.slides.length;
+    const passos = el('div', { class: 'bloco' });
+    function passo(numero, rotulo, ...filhos) {
+      return el('section', { class: 'passo' }, el('h2', {}, el('span', { class: 'n', text: String(numero) }), el('span', { text: rotulo })), ...filhos);
+    }
+    const bSalvar = el('button', { class: 'grande', text: n > 1 ? `Salvar as ${n} imagens` : 'Salvar a imagem' });
+    bSalvar.addEventListener('click', salvarNoCelular);
+    passos.append(passo(1, 'Salve no celular', bSalvar));
+    if (d.legenda) {
+      const bLeg = el('button', { class: 'grande sec', text: 'Copiar legenda' });
+      bLeg.addEventListener('click', async () => { await copiar(d.legenda, 'Legenda copiada. Agora é só colar no Instagram.'); bLeg.textContent = 'Legenda copiada ✓'; });
+      passos.append(passo(2, 'Copie a legenda', el('p', { class: 'legenda-curta', text: d.legenda }), bLeg));
+    }
+    const bPostei = el('button', { class: 'sec', text: postados.tem(id) ? 'Postado ✓ (desfazer)' : 'Marcar como postado' });
+    bPostei.addEventListener('click', () => {
+      const sim = !postados.tem(id); postados.marcar(id, sim);
+      bPostei.textContent = sim ? 'Postado ✓ (desfazer)' : 'Marcar como postado';
+    });
+    passos.append(passo(d.legenda ? 3 : 2, 'Poste',
+      el('p', { class: 'nota', text: 'No Instagram, escolha as imagens na galeria e, no corte, toque em 4:5 para não perder o topo.' }),
+      el('div', { class: 'acoes' },
+        el('a', { class: 'botao', href: 'instagram://library', text: 'Abrir o Instagram' }), bPostei)));
+    passos.append(status);
+
+    const bStory = el('button', { class: 'sec', text: 'Story de divulgação' });
+    bStory.addEventListener('click', () => storyDivulgacao(d, canvases[0], status));
     const acoes = el('div', { class: 'acoes' },
-      el('button', { onclick: salvarNoCelular, text: 'Salvar no celular' }),
-      el('button', { class: 'sec', onclick: baixarZip, text: 'Baixar ZIP' }),
-      d.legenda ? el('button', { class: 'sec', onclick: () => copiar(d.legenda, 'Legenda copiada.'), text: 'Copiar legenda' }) : null);
+      bStory,
+      el('button', { class: 'sec', onclick: baixarZip, text: 'Baixar tudo (ZIP)' }));
     if (LOCAL) {
       acoes.append(el('button', { class: 'sec', onclick: () => conferirLocal(id, canvases, status), text: 'Exportar e conferir (local)' }));
       const btnEditar = el('button', { class: 'sec', text: 'Editar (computador)' });
@@ -412,17 +491,47 @@
     }
 
     const lado = el('div', { class: 'lado' });
-    lado.append(el('div', { class: 'bloco' }, acoes, status));
-    if (d.legenda) lado.append(el('section', { class: 'bloco' }, el('h2', { text: 'Legenda' }), el('p', { class: 'legenda', text: d.legenda })));
+    lado.append(passos);
+    const mais = el('details', { class: 'mais' }, el('summary', { text: 'Mais opções' }));
+    mais.append(acoes);
+    if (d.legenda) mais.append(el('section', { class: 'bloco' }, el('h2', { text: 'Legenda completa' }), el('p', { class: 'legenda', text: d.legenda })));
     if (Array.isArray(d.fontes) && d.fontes.length) {
       const ul = el('ul', { class: 'fontes' });
       d.fontes.forEach((f) => ul.append(el('li', {}, f.url ? el('a', { href: f.url, target: '_blank', rel: 'noopener', text: f.titulo || f.url }) : el('span', { text: f.titulo }))));
-      lado.append(el('section', { class: 'bloco' }, el('h2', { text: 'Fontes' }), ul));
+      mais.append(el('section', { class: 'bloco' }, el('h2', { text: `Fontes (${d.fontes.length})` }), ul));
     }
-    lado.append(editorTextos(d, desenharTudo, (txt) => copiar(txt, 'Alterações copiadas. Cole no Claude para gravar de vez.')));
+    mais.append(editorTextos(d, desenharTudo, (txt) => copiar(txt, 'Alterações copiadas. Cole no Claude para gravar de vez.')));
+    lado.append(mais);
 
     app.innerHTML = '';
     app.append(el('div', { class: 'leitor' }, el('div', { class: 'palco' }, trilho, contador, pontos, alerta), lado));
+  }
+
+  // Story 9:16 com a capa do carrossel, para avisar que tem post novo no feed.
+  async function storyDivulgacao(d, capa, status) {
+    const tema = R.TEMAS[d.slides[0].tema] || R.TEMAS.claro;
+    const c = document.createElement('canvas'); c.width = 1080; c.height = 1920;
+    const g = c.getContext('2d');
+    g.fillStyle = tema.fundo; g.fillRect(0, 0, 1080, 1920);
+    g.fillStyle = tema.texto; g.textAlign = 'center';
+    // fora das áreas do topo (~270 px) e do rodapé (~340 px) que o Instagram cobre no story
+    g.font = '800 58px Montserrat'; g.fillText('Carrossel novo no perfil', 540, 345);
+    g.font = '500 34px Montserrat'; g.fillStyle = tema.suave; g.fillText(`${d.slides.length} páginas · toque na minha foto para ver`, 540, 405);
+    const w = 820, h = Math.round(w * capa.height / capa.width), x = 130, y = 460;
+    g.save(); g.shadowColor = 'rgba(0,0,0,.18)'; g.shadowBlur = 40; g.shadowOffsetY = 12;
+    g.beginPath(); g.roundRect(x, y, w, h, 28); g.fillStyle = '#fff'; g.fill(); g.restore();
+    g.save(); g.beginPath(); g.roundRect(x, y, w, h, 28); g.clip(); g.drawImage(capa, x, y, w, h); g.restore();
+    g.font = '700 36px "Open Sans", Montserrat'; g.fillStyle = tema.texto; g.fillText('@kaiquegabriel.i', 540, y + h + 80);
+    const blob = await R.canvasParaBlob(c);
+    const arq = new File([blob], `${d.id}-story.png`, { type: 'image/png' });
+    if (navigator.canShare && navigator.canShare({ files: [arq] })) {
+      try { await navigator.share({ files: [arq] }); status.textContent = 'Story pronto: salve e poste nos stories.'; }
+      catch (e) { status.textContent = e && e.name === 'AbortError' ? 'Cancelado.' : 'Não deu para compartilhar.'; }
+      return;
+    }
+    const a = el('a', { href: URL.createObjectURL(blob), download: arq.name });
+    document.body.append(a); a.click(); a.remove();
+    status.textContent = 'Story baixado.';
   }
 
   // ---------- vídeo comentado ----------
@@ -568,7 +677,7 @@
       el('div', { class: 'acoes' }, btnPrevia, btnGerar, btnSalvar),
       barra, status));
     if (d.legenda) {
-      lado.append(el('section', { class: 'bloco' }, el('h2', { text: 'Legenda' }), el('p', { class: 'legenda', text: d.legenda }),
+      lado.append(el('section', { class: 'bloco' }, el('h2', { text: '4. Copie a legenda e poste' }), el('p', { class: 'legenda-curta', text: d.legenda }),
         el('button', { class: 'sec', text: 'Copiar legenda', onclick: async () => {
           try { await navigator.clipboard.writeText(d.legenda); status.textContent = 'Legenda copiada.'; } catch { status.textContent = 'Selecione o texto e copie.'; }
         } })));
