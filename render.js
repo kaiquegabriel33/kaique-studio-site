@@ -791,14 +791,16 @@
       out.push(e);
     });
     let fundo = out.reduce((a, e) => Math.max(a, e.y + e._h), 0);
-    // Capa: centraliza o bloco na área útil quando sobra espaço.
+    // Centralizar: o bloco inteiro (cabeçalho + texto) desce junto para o meio quando sobra espaço.
+    // Antes só o texto descia e abria um buraco entre o nome e o texto.
     const limite = limiteDe(slide);
+    let desloc = 0;
     if (slide.centralizar && fundo < limite) {
-      const desloc = Math.round((limite - fundo) / 2);
+      desloc = Math.round((limite - fundo) / 2);
       out.forEach((e) => { if (e._auto) e.y += desloc; });
       fundo += desloc;
     }
-    return { elementos: out, fundo, estoura: fundo > limite };
+    return { elementos: out, fundo, estoura: fundo > limite, cabecalhoDy: desloc };
   }
 
   function desenharSlide(ctx, slide, opts = {}) {
@@ -810,8 +812,8 @@
     const dy = deslocamentoDe(slide);
     ctx.save();
     ctx.translate(0, dy);
-    desenharCabecalho(ctx, tema);
     const lay = diagramarSlide(ctx, slide);
+    ctx.save(); ctx.translate(0, lay.cabecalhoDy || 0); desenharCabecalho(ctx, tema); ctx.restore();
     for (const e of lay.elementos) TIPOS[e.tipo].desenhar(ctx, e, tema);
     if (slide.fonte) {
       ctx.textBaseline = 'alphabetic'; ctx.font = fonteDe(20, 500); ctx.fillStyle = tema.fraco;

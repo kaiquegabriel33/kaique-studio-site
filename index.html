@@ -377,7 +377,16 @@
     const minha = navegacao;
     let d;
     try { d = structuredClone(await carregarCarrossel(id)); }
-    catch { if (minha === navegacao) { app.innerHTML = ''; app.append(el('p', { class: 'vazio', text: 'Esse carrossel não existe (ou ainda não foi publicado).' })); } return; }
+    catch {
+      if (minha === navegacao) {
+        // quase sempre é o site ainda atualizando (leva ~1 min depois de aprovar)
+        app.innerHTML = '';
+        app.append(el('div', { class: 'vazio' },
+          el('p', { text: 'Ainda não chegou aqui. Se você acabou de aprovar, o site leva cerca de 1 minuto para atualizar.' }),
+          el('button', { class: 'grande', text: 'Tentar de novo', onclick: () => telaCarrossel(id) })));
+      }
+      return;
+    }
     if (minha !== navegacao) return;                     // a pessoa já voltou para a lista
     titulo.textContent = d.titulo || id;
     document.title = (d.titulo || id) + ' · Kaique Studio';
@@ -454,7 +463,10 @@
     const nomeArq = (i) => `${id}-${String(i + 1).padStart(2, '0')}.png`;
     const blobs = () => Promise.all(canvases.map((c) => R.canvasParaBlob(c)));
 
+    let legendaCopiada = false;
     async function salvarNoCelular() {
+      // a legenda vai para a área de transferência no mesmo toque (o celular só deixa copiar dentro do toque)
+      if (toque && d.legenda && !legendaCopiada) navigator.clipboard.writeText(d.legenda).then(() => { legendaCopiada = true; }, () => {});
       status.textContent = 'Preparando as imagens…';
       let bs;
       try { bs = await (imagensProntas || blobs()); }
@@ -463,9 +475,13 @@
       if (toque && navigator.canShare && navigator.canShare({ files: arquivos })) {
         try {
           await navigator.share({ files: arquivos, title: d.titulo || id });
-          status.textContent = 'Pronto. No menu, toque em “Salvar imagens” para mandar para a galeria.';
+          status.textContent = legendaCopiada
+            ? 'Legenda copiada. Se escolheu o Instagram: na legenda, segure e toque em Colar. Se salvou nas Fotos: toque em “Abrir o Instagram”.'
+            : 'Pronto. Agora toque em “Copiar legenda” e cole no Instagram.';
         } catch (e) {
-          status.textContent = e && e.name === 'AbortError' ? 'Cancelado.' : 'Não deu para abrir o compartilhamento. Use “Baixar ZIP”.';
+          status.textContent = e && e.name === 'AbortError' ? 'Cancelado.'
+            : e && e.name === 'NotAllowedError' ? 'Toque de novo em “Postar no Instagram” para abrir o menu.'
+            : 'Não deu para abrir o compartilhamento. Use “Baixar ZIP”.';
         }
         return;
       }
@@ -498,20 +514,23 @@
     function passo(numero, rotulo, ...filhos) {
       return el('section', { class: 'passo' }, el('h2', {}, el('span', { class: 'n', text: String(numero) }), el('span', { text: rotulo })), ...filhos);
     }
-    const bSalvar = el('button', { class: 'grande', text: n > 1 ? `Salvar as ${n} imagens` : 'Salvar a imagem' });
+    const bSalvar = el('button', { class: 'grande', text: toque ? 'Postar no Instagram' : (n > 1 ? `Salvar as ${n} imagens` : 'Salvar a imagem') });
     bSalvar.addEventListener('click', salvarNoCelular);
-    passos.append(passo(1, 'Salve no celular', bSalvar));
+    passos.append(toque
+      ? passo(1, 'Mande para o Instagram', bSalvar,
+          el('p', { class: 'nota', text: `A legenda já vai copiada. No menu, toque em Instagram (as ${n} imagens entram juntas) e cole a legenda. Se o Instagram não aparecer, toque em “Salvar imagens”.` }))
+      : passo(1, 'Salve as imagens', bSalvar));
     if (d.legenda) {
       const bLeg = el('button', { class: 'grande sec', text: 'Copiar legenda' });
       bLeg.addEventListener('click', async () => { if (await copiar(d.legenda, 'Legenda copiada. Agora é só colar no Instagram.')) bLeg.textContent = 'Legenda copiada ✓'; });
-      passos.append(passo(2, 'Copie a legenda', el('p', { class: 'legenda-curta', text: d.legenda }), bLeg));
+      passos.append(passo(2, toque ? 'Se precisar, copie a legenda de novo' : 'Copie a legenda', el('p', { class: 'legenda-curta', text: d.legenda }), bLeg));
     }
     const bPostei = el('button', { class: 'sec', text: postados.tem(id) ? 'Postado ✓ (desfazer)' : 'Marcar como postado' });
     bPostei.addEventListener('click', () => {
       const sim = !postados.tem(id); postados.marcar(id, sim);
       bPostei.textContent = sim ? 'Postado ✓ (desfazer)' : 'Marcar como postado';
     });
-    passos.append(passo(d.legenda ? 3 : 2, 'Poste',
+    passos.append(passo(d.legenda ? 3 : 2, toque ? 'Salvou nas Fotos? Poste pelo Instagram' : 'Poste',
       el('p', { class: 'nota', text: 'No Instagram, escolha as imagens na galeria e, no corte, toque em 4:5 para não perder o topo.' }),
       el('div', { class: 'acoes' },
         el('a', { class: 'botao', href: 'instagram://library', text: 'Abrir o Instagram' }), bPostei)));
