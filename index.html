@@ -30,7 +30,7 @@
   html, body { margin: 0; }
   body { background: var(--fundo); color: var(--tinta); font-family: var(--fonte); font-size: 15px; line-height: 1.45;
          padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px); }
-  button, a.botao { font: inherit; font-weight: 700; font-size: 14px; border-radius: 999px; padding: 11px 18px; cursor: pointer;
+  button, a.botao, span.botao { font: inherit; font-weight: 700; font-size: 14px; border-radius: 999px; padding: 11px 18px; cursor: pointer;
     border: 1.5px solid var(--tinta); background: var(--tinta); color: var(--fundo); text-decoration: none; display: inline-flex;
     align-items: center; justify-content: center; gap: 6px; min-height: 44px; }
   button.sec, a.botao.sec { background: transparent; color: var(--tinta); }
@@ -48,6 +48,19 @@
 
   /* lista */
   .grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+  /* lista de postar: uma linha por post */
+  .lista-postar { display: grid; gap: 10px; max-width: 720px; margin: 0 auto; }
+  .secao-site { margin: 12px 0 0; font-size: 13px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--suave); }
+  .item-postar { display: grid; grid-template-columns: 72px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 10px;
+    background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; color: var(--tinta); text-decoration: none; }
+  .item-postar canvas { width: 72px; height: auto; aspect-ratio: 4 / 5; object-fit: contain; border-radius: 6px; background: var(--linha); }
+  .item-texto { display: grid; gap: 2px; min-width: 0; }
+  .item-texto strong { font-size: 15px; line-height: 1.3; }
+  .item-botao { min-height: 40px; padding: 8px 14px; font-size: 14px; white-space: nowrap; }
+  .ja-postados { margin-top: 8px; background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 10px 14px; }
+  .ja-postados summary { font-weight: 700; cursor: pointer; min-height: 32px; }
+  .ja-postados ul { margin: 6px 0 0; padding-left: 18px; display: grid; gap: 6px; }
+  .ja-postados a { color: var(--tinta); font-weight: 600; }
   .card { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 8px; text-align: left;
     color: inherit; cursor: pointer; display: flex; flex-direction: column; gap: 8px; min-width: 0; font: inherit; }
   .card canvas { width: 100%; aspect-ratio: 4 / 5; height: auto; object-fit: contain; border-radius: 8px; display: block; background: var(--linha); }
@@ -225,53 +238,46 @@
     },
   };
 
-  function introducao() {
-    let fechada = false;
-    try { fechada = localStorage.getItem('ks-intro-ok') === '1'; } catch { /* segue */ }
-    if (fechada) return null;
-    const box = el('section', { class: 'intro' },
-      el('h2', { text: 'Como funciona' }),
-      el('ol', {},
-        el('li', { text: 'Na Central você pede conteúdo e aprova o que o Claude montar.' }),
-        el('li', { text: 'O que você aprova aparece aqui, pronto.' }),
-        el('li', { text: 'Abra, salve as imagens, copie a legenda e poste.' })));
-    box.append(el('button', { class: 'sec', text: 'Entendi', onclick: () => { try { localStorage.setItem('ks-intro-ok', '1'); } catch { /* segue */ } box.remove(); } }));
-    return box;
-  }
-
+  // O site é só a ferramenta de postar: pedir, aprovar e ver resultados fica na Central.
+  // A lista mostra primeiro o que falta postar (uma linha por post, botão direto); os postados ficam recolhidos.
   async function telaLista() {
     // volta à lista = busca de novo (ajuste novo, post novo); sem rede, fica com o que já tinha
     cache.clear();
     try { await carregarIndice(); } catch { /* segue com o índice anterior */ }
-    titulo.textContent = 'Prontos para postar';
+    titulo.textContent = 'Postar';
     voltar.hidden = true;
-    document.title = 'Kaique Studio';
+    document.title = 'Postar · Kaique Studio';
     app.innerHTML = '';
-    const intro = introducao();
-    if (intro) app.append(intro);
-    if (!indice.length) {
-      app.append(el('p', { class: 'vazio', text: 'Nada pronto ainda. Toque em “Central” para pedir ou aprovar um conteúdo.' }));
-      return;
-    }
     const foi = (x) => !!x.postado_em || postados.tem(x.id);
-    const ordem = [...indice].sort((a, b) => (foi(a) - foi(b)) || String(b.atualizado).localeCompare(String(a.atualizado)));
-    const grade = el('div', { class: 'grade' });
-    app.append(grade);
+    const recentes = (a, b) => String(b.atualizado).localeCompare(String(a.atualizado));
+    const aPostar = indice.filter((x) => !foi(x)).sort(recentes);
+    const jaFoi = indice.filter(foi).sort((a, b) => String(b.postado_em || '').localeCompare(String(a.postado_em || '')));
+    const caixa = el('div', { class: 'lista-postar' });
+    caixa.append(el('p', { class: 'nota', text: 'Aqui você só posta. Pedir, aprovar e ver os resultados fica na Central.' }));
+    caixa.append(el('h2', { class: 'secao-site', text: aPostar.length ? `Para postar (${aPostar.length})` : 'Para postar' }));
+    if (!aPostar.length) caixa.append(el('p', { class: 'vazio', text: 'Nada esperando para postar. O que você aprovar na Central aparece aqui.' }));
+    const tipoDe = (it) => it.formato === 'video' ? 'Vídeo' : it.formato === 'story' ? 'Story'
+      : it.paginas > 1 ? `Carrossel · ${it.paginas} páginas` : 'Post de 1 página';
     const minha = navegacao;
     await R.carregarFontes();
     if (minha !== navegacao) return;
-    for (const it of ordem) {
-      const feito = !!it.postado_em || postados.tem(it.id);   // postado_em vem do Claude (vale em todo aparelho)
-      const cv = el('canvas', { width: '432', height: '540', 'aria-hidden': 'true' });
-      const tipo = it.formato === 'video' ? 'Vídeo comentado' : it.paginas > 1 ? `${it.paginas} páginas` : 'Post de 1 página';
-      const card = el('button', { class: 'card' + (feito ? ' postado' : ''), onclick: () => { location.hash = '#/c/' + it.id; } },
+    for (const it of aPostar) {
+      const cv = el('canvas', { width: '192', height: '240', 'aria-hidden': 'true' });
+      caixa.append(el('a', { class: 'item-postar', href: '#/c/' + it.id },
         cv,
-        el('span', { class: 't', text: it.titulo }),
-        el('span', { class: 'm' }, el('span', { text: `${tipo} · ${dataBR(it.atualizado)}` }),
-          el('span', { class: 'pilula ' + (feito ? 'postado' : 'pronto'), text: feito ? 'postado' : 'novo' })));
-      grade.append(card);
+        el('span', { class: 'item-texto' }, el('strong', { text: it.titulo }), el('span', { class: 'nota', text: `${tipoDe(it)} · aprovado ${dataBR(it.atualizado)}` })),
+        el('span', { class: 'botao item-botao', text: 'Postar ›' })));
       miniatura(it.id, cv);
     }
+    if (jaFoi.length) {
+      const det = el('details', { class: 'ja-postados' }, el('summary', { text: `Já postados (${jaFoi.length})` }));
+      const ul = el('ul', {});
+      jaFoi.forEach((it) => ul.append(el('li', {}, el('a', { href: '#/c/' + it.id, text: it.titulo }),
+        el('span', { class: 'nota', text: it.postado_em ? ` · postado ${dataBR(it.postado_em)}` : ' · marcado como postado' }))));
+      det.append(ul);
+      caixa.append(det);
+    }
+    app.append(caixa);
   }
 
   const grande = document.createElement('canvas');
