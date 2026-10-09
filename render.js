@@ -97,8 +97,16 @@
 
   // ---------- texto rico ----------
   // **negrito**  ==marca-texto==   \n = quebra de linha
+  // Número não se separa da moeda nem da unidade: "R$ 104", "US$ 72", "1,3 bi", "26,5 milhões", "30 dias"
+  // viram um bloco só (espaço inseparável) e nunca quebram em duas linhas.
+  function colarNumeros(t) {
+    return String(t || '')
+      .replace(/(R\$|US\$|€|£) (?=[\d−-])/g, '$1 ')
+      .replace(/(\d) (bi|mi|tri|mil|bilhões?|milhões?|trilhões?|reais|dólares|anos?|meses|mês|dias?|horas?|pontos?|litros?|%)(?=[\s.,;:!?)”"=*]|$)/g, '$1 $2');
+  }
+
   function tokenizar(texto) {
-    const paragrafos = String(texto || '').split('\n');
+    const paragrafos = colarNumeros(texto).split('\n');
     // ==/** valem até fechar, mesmo atravessando uma quebra de linha
     let negrito = false, marca = false;
     return paragrafos.map((par) => {
@@ -114,7 +122,7 @@
       // quebra em palavras preservando o espaço que vem depois
       const palavras = [];
       for (const r of runs) {
-        const partes = r.t.match(/[^\s]+\s*|\s+/g) || [];
+        const partes = r.t.match(/[^ \t]+[ \t]*|[ \t]+/g) || [];   // só espaço comum separa palavra (o inseparável fica junto)
         for (const p of partes) palavras.push({ t: p, negrito: r.negrito, marca: r.marca });
       }
       return palavras;
