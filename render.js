@@ -370,9 +370,20 @@
 
   // Gráfico: barras horizontais, barras verticais ou linha.
   TIPOS.grafico = {
-    medir(ctx, el) { return el.h ?? 560; },
+    // barras_h precisa de ~92 px por linha (rótulo + barra + valor); com h menor
+    // as linhas se atropelam, então o cartão cresce e o aviso de área útil acusa
+    medir(ctx, el) {
+      const h = el.h ?? 560;
+      if ((el.formato || 'barras_h') !== 'barras_h') return h;
+      const w = el.w ?? LARG_UTIL, pad = 44;
+      let cab = 0;
+      if (el.titulo) cab += diagramarTexto(ctx, el.titulo, { tam: 32, peso: 800, pesoDestaque: 800, w: w - 2 * pad, lh: 1.22 }).altura + 4;
+      if (el.subtitulo) cab += 24 * 1.4 + 6;
+      const linha = el.notas ? 118 : 92;
+      return Math.max(h, Math.ceil(2 * pad + cab + 24 + (el.rotulos || []).length * linha + (el.fonte ? 44 : 0)));
+    },
     desenhar(ctx, el, tema) {
-      const x = el.x ?? MARGEM, y = el.y, w = el.w ?? LARG_UTIL, h = el.h ?? 560, pad = 44;
+      const x = el.x ?? MARGEM, y = el.y, w = el.w ?? LARG_UTIL, h = this.medir(ctx, el), pad = 44;
       cartao(ctx, x, y, w, h, tema);
       let cy = y + pad;
       ctx.textBaseline = 'alphabetic';
@@ -583,7 +594,8 @@
         const dx = it.texto ? diagramarTexto(ctx, it.texto, { tam: 27, peso: 500, pesoDestaque: 700, w: inner, lh: 1.36 }) : null;
         return { it, dt, dx, h: pad * 2 - 12 + dt.altura + (dx ? 10 + dx.altura : 0) };
       });
-      const gapSinal = el.gapSinal ?? 54;
+      // sinal: '' empilha os cartões sem sinal entre eles (lista de 3–4 itens)
+      const gapSinal = el.gapSinal ?? (el.sinal === '' ? 18 : 54);
       const h = itens.reduce((a, i) => a + i.h, 0) + gapSinal * Math.max(0, itens.length - 1);
       return { pad, w, inner, itens, gapSinal, h };
     },
@@ -593,9 +605,11 @@
       let cy = el.y;
       L.itens.forEach((r, i) => {
         if (i) {
-          ctx.font = fonteDe(44, 800); ctx.fillStyle = tema.texto; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
-          ctx.fillText(el.sinal || '≠', x + L.w / 2, cy + L.gapSinal / 2 + 2);
-          ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
+          if (el.sinal !== '') {
+            ctx.font = fonteDe(44, 800); ctx.fillStyle = tema.texto; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+            ctx.fillText(el.sinal || '≠', x + L.w / 2, cy + L.gapSinal / 2 + 2);
+            ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
+          }
           cy += L.gapSinal;
         }
         cartao(ctx, x, cy, L.w, r.h, tema, { raio: 24, fundo: r.it.destaque ? tema.texto : undefined });
@@ -754,7 +768,7 @@
       const tipo = TIPOS[e.tipo];
       if (!tipo) return;
       if (reduz && e.tam) e.tam = Math.max(e.tipo === 'texto' ? 32 : 26, e.tam - reduz);
-      if (reduz && e.tipo === 'comparacao') e.gapSinal = Math.max(44, (e.gapSinal ?? 54) - reduz * 3);
+      if (reduz && e.tipo === 'comparacao' && e.sinal !== '') e.gapSinal = Math.max(44, (e.gapSinal ?? 54) - reduz * 3);
       e._auto = e.y === undefined || e.y === 'auto';
       e._limite = limiteDe(slide);
       if (e._auto) { e.y = cy + (e.antes ?? 0); }

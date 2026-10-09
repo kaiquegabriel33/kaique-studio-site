@@ -81,6 +81,23 @@ def _itens_tolerante(bruto: bytes):
             continue
 
 
+def limpar_link(link: str) -> str:
+    """Tira redirecionadores de RSS: redir.folha.com.br/redir/online/mercado/rss091/*https://... -> https://..."""
+    if "redir" in link and "*http" in link:
+        return link.split("*", 1)[1]
+    return link
+
+
+def e_rotina(titulo: str, cfg: dict) -> bool:
+    """Cotação do dia ("Ibovespa tem ligeira alta", "Dólar volta a R$ 5"): frase fixa ou ativo + movimento."""
+    t = " " + normalizar(titulo) + " "
+    if any(k in t for k in cfg.get("rotina", [])):
+        return True
+    m = cfg.get("rotina_mercado") or {}
+    inicio = " " + " ".join(t.split()[:3]) + " "
+    return any(s in inicio for s in m.get("ativos", [])) and any(v in t for v in m.get("movimentos", []))
+
+
 def ler_rss(veiculo: str, url: str) -> list[dict]:
     itens = []
     bruto = baixar(url)
@@ -90,7 +107,7 @@ def ler_rss(veiculo: str, url: str) -> list[dict]:
         fonte_itens = list(_itens_tolerante(bruto))
     for it in fonte_itens:
         titulo = limpar_titulo(it.findtext("title"))
-        link = (it.findtext("link") or "").strip()
+        link = limpar_link((it.findtext("link") or "").strip())
         fonte = it.find("source")
         nome = veiculo
         if fonte is not None and fonte.text:          # Google Notícias informa o veículo real
@@ -207,8 +224,8 @@ def coletar(cfg: dict) -> dict:
         mais_novo = max((i["publicado"] for i in g if i["publicado"]), default=None)
         horas = (agora - mais_novo).total_seconds() / 3600 if mais_novo else 12
         temas = sorted({t for i in g for t in i["temas"]})
-        e_rotina = lambda i: any(k in " " + normalizar(i["titulo"]) + " " for k in cfg.get("rotina", []))
-        rotina = e_rotina(lider) or sum(map(e_rotina, g)) >= len(g) / 2
+        rot = lambda i: e_rotina(i["titulo"], cfg)
+        rotina = rot(lider) or sum(map(rot, g)) >= len(g) / 2
         score = (max(i["pontos"] for i in g) + 3 * min(len(veiculos) - 1, 6) + max(0, 10 - horas / 2.4)
                  - (12 if rotina else 0))
         # link direto do veículo, quando algum item do grupo tiver (Google Notícias só redireciona)

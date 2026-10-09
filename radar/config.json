@@ -231,7 +231,13 @@
     "sobe e fecha",
     "cai e fecha",
     "tem leve",
-    "oscila"
+    "oscila",
+    "ligeira alta",
+    "ligeira queda",
+    "opera em alta",
+    "opera em queda",
+    "sobe levemente",
+    "cai levemente"
   ],
   "sinais_declaracao": [
     "diz",
@@ -250,5 +256,46 @@
     "ironiza",
     "defende",
     "alerta"
-  ]
+  ],
+  "rotina_mercado": {
+    "ativos": [
+      " ibovespa ",
+      " dolar ",
+      " bolsa ",
+      " bolsas ",
+      " juros futuros ",
+      " di ",
+      " euro ",
+      " petroleo ",
+      " bitcoin ",
+      " ouro ",
+      " acoes ",
+      " petrobras "
+    ],
+    "movimentos": [
+      " sobe ",
+      " cai ",
+      " avanca",
+      " recua",
+      " opera ",
+      " oscila",
+      " ligeira",
+      " levemente",
+      " volta a",
+      " volta aos",
+      " tem alta",
+      " tem queda",
+      " tem forte",
+      " forte alta",
+      " forte queda",
+      " renova",
+      " dispara",
+      " despenca",
+      " reage ",
+      " firme",
+      " amplia",
+      " devolve",
+      " tenta "
+    ]
+  }
 }
