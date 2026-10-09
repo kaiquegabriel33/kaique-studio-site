@@ -803,9 +803,27 @@
   // Elementos com y "auto" são empilhados a partir do topo do conteúdo.
   // Se estourar, aperta primeiro os espaços e depois a fonte (até 4 px a
   // menos, nunca abaixo de 32 px no corpo). Com auto: false, respeita o slide.
+  // Página de feed com pouco conteúdo: em vez de centralizar (o nome mudava de lugar de uma página
+  // para outra), o texto cresce até ocupar uns 3/4 da área útil. Cabeçalho sempre no mesmo lugar.
+  const TEXTO_MAX = 58, PREENCHER_ALVO = 0.78, PREENCHER_SE_MENOS = 0.6;
+  function preencher(ctx, slide, lay) {
+    if (slide.auto === false || slide.preencher === false || eReels(slide)) return lay;
+    const topo = slide.topo ?? TOPO_CONTEUDO, limite = limiteDe(slide), util = limite - topo;
+    if (!(slide.elementos || []).some((e) => e.tipo === 'texto' && (e.y === undefined || e.y === 'auto'))) return lay;
+    if ((lay.fundo - topo) / util >= PREENCHER_SE_MENOS) return lay;
+    let melhor = lay;
+    for (const cresce of [3, 6, 9, 12, 15, 18, 21]) {
+      const t = empilhar(ctx, slide, 44, 0, cresce);
+      if (t.estoura || (t.fundo - topo) / util > PREENCHER_ALVO) break;
+      melhor = t;
+    }
+    return melhor;
+  }
+
   function diagramarSlide(ctx, slide) {
     let lay = empilhar(ctx, slide, slide.espaco ?? 40, 0);
-    if (!lay.estoura || slide.auto === false) return lay;
+    if (!lay.estoura) return preencher(ctx, slide, lay);
+    if (slide.auto === false) return lay;
     for (const gap of [36, 32, 28]) {
       lay = empilhar(ctx, slide, gap, 0);
       if (!lay.estoura) return lay;
@@ -817,7 +835,7 @@
     return lay;
   }
 
-  function empilhar(ctx, slide, gap, reduz) {
+  function empilhar(ctx, slide, gap, reduz, cresce = 0) {
     let cy = slide.topo ?? TOPO_CONTEUDO;
     const out = [];
     (slide.elementos || []).forEach((el, idx) => {
@@ -830,6 +848,7 @@
         e.tam = Math.max(Math.min(base, piso), base - reduz);
       }
       if (reduz && e.tipo === 'comparacao' && e.sinal !== '') e.gapSinal = Math.max(44, (e.gapSinal ?? 54) - reduz * 3);
+      if (cresce && e.tipo === 'texto') { const base = e.tam ?? 37; e.tam = Math.max(base, Math.min(TEXTO_MAX, base + cresce)); }
       e._auto = e.y === undefined || e.y === 'auto';
       e._limite = limiteDe(slide);
       if (e._auto) { e.y = cy + (e.antes ?? 0); }
@@ -838,11 +857,11 @@
       out.push(e);
     });
     let fundo = out.reduce((a, e) => Math.max(a, e.y + e._h), 0);
-    // Centralizar: o bloco inteiro (cabeçalho + texto) desce junto para o meio quando sobra espaço.
-    // Antes só o texto descia e abria um buraco entre o nome e o texto.
+    // Centralizar: só em tela em pé (story/Reels, uma tela só). O bloco inteiro (cabeçalho + texto) desce
+    // junto. No feed não: o nome tem de ficar no mesmo lugar em todas as páginas do carrossel.
     const limite = limiteDe(slide);
     let desloc = 0;
-    if (slide.centralizar && fundo < limite) {
+    if (slide.centralizar && eReels(slide) && fundo < limite) {
       desloc = Math.round((limite - fundo) / 2);
       out.forEach((e) => { if (e._auto) e.y += desloc; });
       fundo += desloc;
