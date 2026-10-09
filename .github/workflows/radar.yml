@@ -3,8 +3,10 @@
 name: Radar de pautas
 on:
   schedule:
-    - cron: "17 10-23 * * 1-5"   # dias úteis, 07h17 às 20h17 (Brasília), de hora em hora
-    - cron: "17 12,18,22 * * 0,6" # fim de semana, 3 vezes
+    # O GitHub atrasa ou pula execuções agendadas: de meia em meia hora para ter folga.
+    # A rotina do Claude no computador coleta sozinha se o radar daqui passar de 90 min.
+    - cron: "7,37 10-23 * * 1-5"   # dias úteis, 07h07 às 20h37 (Brasília)
+    - cron: "17 12,15,18,21 * * 0,6" # fim de semana, 4 vezes
   workflow_dispatch: {}
 permissions:
   contents: write
