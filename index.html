@@ -466,7 +466,7 @@
     let legendaCopiada = false;
     async function salvarNoCelular() {
       // a legenda vai para a área de transferência no mesmo toque (o celular só deixa copiar dentro do toque)
-      if (toque && d.legenda && !legendaCopiada) navigator.clipboard.writeText(d.legenda).then(() => { legendaCopiada = true; }, () => {});
+      if (d.legenda && !legendaCopiada) navigator.clipboard.writeText(d.legenda).then(() => { legendaCopiada = true; }, () => {});
       status.textContent = 'Preparando as imagens…';
       let bs;
       try { bs = await (imagensProntas || blobs()); }
@@ -486,7 +486,8 @@
         return;
       }
       bs.forEach((b, i) => baixar(b, nomeArq(i)));
-      status.textContent = toque ? 'Imagens baixadas (este navegador não tem o menu de compartilhar).' : 'Imagens baixadas na pasta Downloads.';
+      status.textContent = toque ? 'Imagens baixadas (este navegador não tem o menu de compartilhar).'
+        : `Imagens na pasta Downloads${legendaCopiada ? ' e legenda copiada' : ''}. Agora toque em “Abrir o Instagram”, clique em Criar (+), escolha as imagens e cole a legenda (Ctrl+V).`;
     }
     function baixar(blob, nome) {
       const a = el('a', { href: URL.createObjectURL(blob), download: nome });
@@ -514,12 +515,12 @@
     function passo(numero, rotulo, ...filhos) {
       return el('section', { class: 'passo' }, el('h2', {}, el('span', { class: 'n', text: String(numero) }), el('span', { text: rotulo })), ...filhos);
     }
-    const bSalvar = el('button', { class: 'grande', text: toque ? 'Postar no Instagram' : (n > 1 ? `Salvar as ${n} imagens` : 'Salvar a imagem') });
+    const bSalvar = el('button', { class: 'grande', text: toque ? 'Postar no Instagram' : (n > 1 ? `Baixar as ${n} imagens e copiar a legenda` : 'Baixar a imagem e copiar a legenda') });
     bSalvar.addEventListener('click', salvarNoCelular);
     passos.append(toque
       ? passo(1, 'Mande para o Instagram', bSalvar,
           el('p', { class: 'nota', text: `A legenda já vai copiada. No menu, toque em Instagram (as ${n} imagens entram juntas) e cole a legenda. Se o Instagram não aparecer, toque em “Salvar imagens”.` }))
-      : passo(1, 'Salve as imagens', bSalvar));
+      : passo(1, 'Baixe as imagens', bSalvar));
     if (d.legenda) {
       const bLeg = el('button', { class: 'grande sec', text: 'Copiar legenda' });
       bLeg.addEventListener('click', async () => { if (await copiar(d.legenda, 'Legenda copiada. Agora é só colar no Instagram.')) bLeg.textContent = 'Legenda copiada ✓'; });
@@ -531,9 +532,13 @@
       bPostei.textContent = sim ? 'Postado ✓ (desfazer)' : 'Marcar como postado';
     });
     passos.append(passo(d.legenda ? 3 : 2, toque ? 'Salvou nas Fotos? Poste pelo Instagram' : 'Poste',
-      el('p', { class: 'nota', text: 'No Instagram, escolha as imagens na galeria e, no corte, toque em 4:5 para não perder o topo.' }),
+      el('p', { class: 'nota', text: toque ? 'No Instagram, escolha as imagens na galeria e, no corte, toque em 4:5 para não perder o topo.'
+        : 'No Instagram (web): Criar (+) › Postar › escolha as imagens da pasta Downloads › no corte, 4:5 › cole a legenda.' }),
       el('div', { class: 'acoes' },
-        el('a', { class: 'botao', href: 'instagram://library', text: 'Abrir o Instagram' }), bPostei)));
+        // celular abre o app; no computador, o Instagram na web (Criar › escolher as imagens › colar a legenda)
+        toque ? el('a', { class: 'botao', href: 'instagram://app', text: 'Abrir o Instagram' })
+          : el('a', { class: 'botao', href: 'https://www.instagram.com/', target: '_blank', rel: 'noopener', text: 'Abrir o Instagram' }),
+        bPostei)));
     passos.append(status);
 
     const bStory = el('button', { class: 'sec', text: 'Story de divulgação' });
