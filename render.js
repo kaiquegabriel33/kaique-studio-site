@@ -765,8 +765,10 @@
     // carregado, a caixa toma o formato dele (sem faixas pretas) e centraliza.
     _caixa(el) {
       const x0 = el.x ?? MARGEM, wMax = el.w ?? LARG_UTIL;
+      // 'resto' deixa 160 px embaixo para a legenda da fala (o corte põe a legenda abaixo do vídeo,
+      // fora da tarja da TV e acima da faixa que o Instagram cobre)
       const hMax = (el.h === 'resto' || el.h === undefined)
-        ? Math.max(320, (el._limite ?? LIMITE_INFERIOR) - el.y - (el.credito ? 40 : 0)) : el.h;
+        ? Math.max(320, (el._limite ?? LIMITE_INFERIOR) - el.y - (el.credito ? 40 : 0) - (el.reservaLegenda ?? 160)) : el.h;
       const v = el._quadro;
       if (!v || !v.videoWidth || el.ajuste === 'cobrir') return { x: x0, w: wMax, h: hMax };
       const ar = v.videoWidth / v.videoHeight;
