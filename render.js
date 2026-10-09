@@ -31,7 +31,13 @@
   const TOPO_CONTEUDO = 297;        // onde o texto começa no modelo
   const LIMITE_INFERIOR = 1262;     // acima do rodapé de fonte (página 1350)
   const alturaDe = (slide) => (slide && slide.altura) || H;
-  const limiteDe = (slide) => alturaDe(slide) - (H - LIMITE_INFERIOR);
+  // Reels/Stories (9:16): o Instagram cobre o topo (título "Reels", câmera) e a base (nome, legenda,
+  // botões). Cabeçalho e conteúdo descem REELS_TOPO px e nada passa de altura - REELS_BASE.
+  const REELS_TOPO = 220, REELS_BASE = 420;
+  const eReels = (slide) => alturaDe(slide) > 1600;
+  const deslocamentoDe = (slide) => (eReels(slide) ? REELS_TOPO : 0);
+  // limite em coordenadas do conteúdo (já deslocado)
+  const limiteDe = (slide) => (eReels(slide) ? alturaDe(slide) - REELS_BASE - REELS_TOPO : alturaDe(slide) - (H - LIMITE_INFERIOR));
 
   // Caminhos relativos à página que carrega o motor (o site em site/).
   const ATIVOS = Object.assign({
@@ -47,7 +53,8 @@
     const p = new Promise((ok) => {
       const img = new Image();
       img.onload = () => ok(img);
-      img.onerror = () => { console.warn('imagem não carregou', src); ok(null); };
+      // falhou (internet instável): sai do cache para a próxima tentativa carregar de novo
+      img.onerror = () => { console.warn('imagem não carregou', src); cacheImg.delete(src); ok(null); };
       img.src = src;
     });
     cacheImg.set(src, p);
@@ -63,18 +70,23 @@
       if (el.src) srcs.add(el.src);
       if (el.imagem) srcs.add(el.imagem);
     }
+    const falhas = [];
     await Promise.all([...srcs].map(async (src) => {
-      const img = await carregarImagem(src);
-      cacheImg.get(src)._img = img;
+      const p = carregarImagem(src);
+      const img = await p;
+      p._img = img;
+      if (!img) falhas.push(src);
     }));
+    return falhas;   // a tela avisa: "uma imagem não carregou, atualize"
   }
 
   async function carregarFontes() {
     const pesos = [400, 500, 600, 700, 800];
-    await Promise.all([
+    const r = await Promise.allSettled([
       ...pesos.map((p) => document.fonts.load(`${p} 40px ${FONTE}`, 'ÁáçãéêíóõúKq@')),
       document.fonts.load('400 36px "Open Sans"', '@kaiquegabriel.i'),
     ]);
+    return r.every((x) => x.status === 'fulfilled');   // false: desenha com a fonte do sistema e a tela avisa
   }
 
   // ---------- texto rico ----------
@@ -451,7 +463,7 @@
   function barrasH(ctx, el, a, tema) {
     const rot = el.rotulos || [], val = el.valores || [], n = rot.length;
     if (!n) return;
-    const max = el.max ?? Math.max(...val.map((v) => Math.abs(Number(v))));
+    const max = (el.max ?? Math.max(...val.map((v) => Math.abs(Number(v))))) || 1;   // tudo zero: sem NaN
     const slot = a.h / n, barH = Math.min(52, slot * 0.3);
     const reservaValor = el.reservaValor ?? 225;
     rot.forEach((r, i) => {
@@ -476,7 +488,7 @@
   function barrasV(ctx, el, a, tema) {
     const rot = el.rotulos || [], val = (el.valores || []).map(Number), n = rot.length;
     if (!n) return;
-    const max = el.max ?? Math.max(...val), min = Math.min(0, ...val);
+    const max = el.max ?? Math.max(0, ...val), min = Math.min(0, ...val);   // só negativos: zero no topo
     const baseH = a.h - 44, slot = a.w / n, bw = Math.min(110, slot * 0.6);
     const zeroY = a.y + baseH * (max / (max - min || 1));
     val.forEach((v, i) => {
@@ -499,7 +511,9 @@
   function linha(ctx, el, a, tema) {
     const rot = el.rotulos || [], val = (el.valores || []).map(Number), n = val.length;
     if (n < 2) return;
-    const max = el.max ?? Math.max(...val), min = el.min ?? Math.min(0, ...val);
+    let max = el.max ?? Math.max(...val);
+    const min = el.min ?? Math.min(0, ...val);
+    if (!(max > min)) max = min + 1;                          // série constante ou vazia: escala válida
     const eixoY = el.eixoY ? 56 : 0, folgaX = 26;
     const x0 = a.x + eixoY + folgaX, x1 = a.x + a.w - folgaX;
     const topo = a.y + 46, ph = a.h - 46 - 40;
@@ -737,7 +751,7 @@
       ctx.restore();
       if (el.credito) {
         ctx.font = fonteDe(20, 500); ctx.fillStyle = tema.fraco; ctx.textBaseline = 'alphabetic';
-        ctx.fillText(el.credito, c.x, el.y + c.h + 30);
+        ctx.fillText(el.credito, Math.max(c.x, MARGEM), el.y + c.h + 30);
       }
     },
   };
@@ -793,14 +807,20 @@
     const AH = alturaDe(slide);
     ctx.clearRect(0, 0, W, AH);
     ctx.fillStyle = tema.fundo; ctx.fillRect(0, 0, W, AH);
+    const dy = deslocamentoDe(slide);
+    ctx.save();
+    ctx.translate(0, dy);
     desenharCabecalho(ctx, tema);
     const lay = diagramarSlide(ctx, slide);
     for (const e of lay.elementos) TIPOS[e.tipo].desenhar(ctx, e, tema);
     if (slide.fonte) {
       ctx.textBaseline = 'alphabetic'; ctx.font = fonteDe(20, 500); ctx.fillStyle = tema.fraco;
       const d = diagramarTexto(ctx, slide.fonte, { tam: 20, peso: 500, pesoDestaque: 700, w: LARG_UTIL, lh: 1.35 });
-      desenharTexto(ctx, d, { x: MARGEM, y: AH - 52 - d.altura + 20 * 1.35, w: LARG_UTIL, tam: 20, lh: 1.35, peso: 500, pesoDestaque: 700, cor: tema.fraco }, tema);
+      const base = eReels(slide) ? limiteDe(slide) + 60 : AH - 52;
+      desenharTexto(ctx, d, { x: MARGEM, y: base - d.altura + 20 * 1.35, w: LARG_UTIL, tam: 20, lh: 1.35, peso: 500, pesoDestaque: 700, cor: tema.fraco }, tema);
     }
+    ctx.restore();
+    lay.deslocamento = dy;
     if (opts.numerar) {
       ctx.font = fonteDe(22, 700); ctx.fillStyle = tema.fraco; ctx.textAlign = 'right';
       ctx.fillText(opts.numerar, W - 64, 196); ctx.textAlign = 'left';
@@ -817,9 +837,32 @@
   }
 
   function canvasParaBlob(canvas) {
-    return new Promise((ok) => canvas.toBlob(ok, 'image/png'));
+    return new Promise((ok, erro) => {
+      try {
+        canvas.toBlob((b) => (b ? ok(b) : erro(new Error('sem memória para gerar a imagem'))), 'image/png');
+      } catch (e) { erro(e); }
+    });
   }
 
-  global.KSRender = { W, H, alturaDe, TEMAS, CAB, MARGEM, LARG_UTIL, TOPO_CONTEUDO, LIMITE_INFERIOR, TIPOS,
-    carregarFontes, preCarregar, desenharSlide, diagramarSlide, renderizarParaCanvas, canvasParaBlob, diagramarTexto };
+  // Texto da página para leitor de tela (o canvas em si é só desenho).
+  function textoDoSlide(slide) {
+    const limpo = (t) => String(t || '').replace(/\*\*|==/g, '').replace(/\s+/g, ' ').trim();
+    const partes = [];
+    for (const e of (slide && slide.elementos) || []) {
+      if (e.tipo === 'texto') partes.push(limpo(e.texto));
+      else if (e.tipo === 'noticia') partes.push(`Notícia, ${limpo(e.veiculo)}: ${limpo(e.manchete)}. ${limpo(e.linhaFina)}`);
+      else if (e.tipo === 'manchetes') (e.itens || []).forEach((m) => partes.push(`${limpo(m.veiculo)}: ${limpo(m.manchete)}`));
+      else if (e.tipo === 'citacao') partes.push(`${(e.citacoes || []).map(limpo).join(' ')} (${limpo(e.autor)})`);
+      else if (e.tipo === 'numero') partes.push(`${limpo(e.valor)} ${limpo(e.rotulo)}. ${limpo(e.contexto)}`);
+      else if (e.tipo === 'grafico') partes.push(`Gráfico: ${limpo(e.titulo)}. ` + (e.rotulos || []).map((r, i) => `${limpo(r)}: ${(e.valores || [])[i]}`).join('; '));
+      else if (e.tipo === 'comparacao') (e.itens || []).forEach((i) => partes.push(`${limpo(i.titulo)}: ${limpo(i.texto)}`));
+      else if (e.tipo === 'linha_tempo') (e.marcos || []).forEach((m) => partes.push(`${limpo(m.ano)}: ${limpo(m.titulo)}`));
+      else if (e.tipo === 'tabela') partes.push(`Tabela: ${limpo(e.titulo)}`);
+      else if (e.tipo === 'video') partes.push('Vídeo');
+    }
+    return partes.filter(Boolean).join(' · ').slice(0, 900);
+  }
+
+  global.KSRender = { W, H, alturaDe, deslocamentoDe, limiteDe, TEMAS, CAB, MARGEM, LARG_UTIL, TOPO_CONTEUDO, LIMITE_INFERIOR, TIPOS,
+    carregarFontes, preCarregar, desenharSlide, diagramarSlide, renderizarParaCanvas, canvasParaBlob, diagramarTexto, textoDoSlide };
 })(window);

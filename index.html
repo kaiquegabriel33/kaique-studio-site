@@ -35,7 +35,8 @@
     align-items: center; justify-content: center; gap: 6px; min-height: 44px; }
   button.sec, a.botao.sec { background: transparent; color: var(--tinta); }
   button:disabled { opacity: .45; cursor: default; }
-  button:focus-visible, a:focus-visible, textarea:focus-visible { outline: 3px solid var(--marca); outline-offset: 2px; }
+  button:focus-visible, a:focus-visible, textarea:focus-visible, input:focus-visible, select:focus-visible,
+  .trilho:focus-visible, h1:focus-visible { outline: 3px solid var(--tinta); outline-offset: 2px; }   /* o amarelo some no fundo claro */
 
   .barra { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; display: flex; align-items: center; gap: 12px;
     padding: 12px 16px; background: color-mix(in srgb, var(--fundo) 92%, transparent); backdrop-filter: blur(8px);
@@ -98,8 +99,11 @@
   .contador { position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,.62); color: #fff; font-size: 12px; font-weight: 700;
     padding: 3px 10px; border-radius: 999px; }
   .pontos { display: flex; justify-content: center; gap: 6px; margin-top: 10px; }
-  .pontos button { width: 8px; height: 8px; min-height: 0; padding: 0; border-radius: 50%; border: none; background: var(--linha); }
-  .pontos button[aria-current="true"] { background: var(--tinta); }
+  /* ponto de 8 px, mas a área de toque tem 28 px */
+  .pontos { gap: 0; }
+  .pontos button { width: 28px; height: 28px; min-height: 0; padding: 0; border: none; background: none; display: grid; place-items: center; }
+  .pontos button::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--linha); }
+  .pontos button[aria-current="true"]::before { background: var(--tinta); }
   .alerta { color: var(--alerta); font-size: 13px; font-weight: 700; margin-top: 8px; }
   .acoes { display: flex; flex-wrap: wrap; gap: 8px; }
   .acoes button, .acoes a.botao { flex: 1 1 150px; }
@@ -132,7 +136,7 @@
   .intro button { min-height: 36px; padding: 6px 14px; font-size: 13px; }
   .titulo-secao { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 4px 0 12px; }
   .pilula.postado { border-color: var(--suave); color: var(--suave); }
-  .card.postado { opacity: .62; }
+  .card.postado .t { color: var(--suave); }   /* sem opacidade: a data continua legível */
   .passo { display: grid; gap: 10px; }
   .passo + .passo { border-top: 1px solid var(--linha); padding-top: 14px; }
   .passo h2 { display: flex; gap: 10px; align-items: center; text-transform: none; letter-spacing: 0; font-size: 15px; color: var(--tinta); margin: 0; }
@@ -143,15 +147,17 @@
   .mais[open] summary { margin-bottom: 12px; }
   .mais .bloco { margin-top: 12px; }
   @media (prefers-reduced-motion: reduce) { .trilho { scroll-behavior: auto; } }
+  h1:focus { outline: none; }
 </style>
 </head>
 <body>
 <header class="barra">
   <button class="sec voltar" id="voltar" hidden>← Voltar</button>
-  <h1 id="titulo">Kaique Studio</h1>
+  <h1 id="titulo" tabindex="-1">Kaique Studio</h1>
   <a class="botao sec central" href="https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys" target="_blank" rel="noopener"><span class="longo">Voltar para a Central</span><span class="curto">Central</span> ↗</a>
 </header>
 <main class="conteudo" id="app"><p class="vazio">Carregando carrosséis…</p></main>
+<div id="aviso" role="status" aria-live="polite"></div>
 
 <script src="vendor/jszip.min.js"></script>
 <script src="render.js"></script>
@@ -165,12 +171,22 @@
   const LOCAL = ['localhost', '127.0.0.1'].includes(location.hostname);
   let indice = [];
   const cache = new Map();
+  const reduzMovimento = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const toque = matchMedia('(pointer: coarse)').matches;   // celular: menu de compartilhar; PC: baixa direto
+  let navegacao = 0;          // cada troca de tela ganha um número; tela antiga que termina de carregar não desenha
+  let sairTela = null;        // limpeza da tela atual (vídeo tocando, laços, memória)
 
+  // link vindo de dado (fontes, radar) nunca vira "javascript:"
+  const linkSeguro = (v) => {
+    try { return ['http:', 'https:', 'blob:', 'instagram:'].includes(new URL(v, location.href).protocol) ? v : '#'; }
+    catch { return '#'; }
+  };
   const el = (tag, props = {}, ...filhos) => {
     const n = document.createElement(tag);
     for (const [k, v] of Object.entries(props)) {
       if (k === 'class') n.className = v; else if (k === 'text') n.textContent = v;
-      else if (k.startsWith('on')) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v);
+      else if (k.startsWith('on')) n.addEventListener(k.slice(2), v);
+      else n.setAttribute(k, k === 'href' ? linkSeguro(v) : v);
     }
     for (const f of filhos) if (f) n.append(f);
     return n;
@@ -237,7 +253,9 @@
     const ordem = [...indice].sort((a, b) => (postados.tem(a.id) - postados.tem(b.id)) || String(b.atualizado).localeCompare(String(a.atualizado)));
     const grade = el('div', { class: 'grade' });
     app.append(grade);
+    const minha = navegacao;
     await R.carregarFontes();
+    if (minha !== navegacao) return;
     for (const it of ordem) {
       const feito = postados.tem(it.id);
       const cv = el('canvas', { width: '432', height: '540', 'aria-hidden': 'true' });
@@ -258,6 +276,8 @@
     try {
       const d = await carregarCarrossel(id);
       await R.preCarregar([d.slides[0]]);
+      grande.height = R.alturaDe(d.slides[0]);          // capa de Reels (9:16) também
+      cv.height = Math.round(cv.width * grande.height / grande.width);
       R.desenharSlide(grande.getContext('2d'), d.slides[0]);
       const ctx = cv.getContext('2d');
       ctx.imageSmoothingQuality = 'high';
@@ -267,8 +287,7 @@
 
   // aviso flutuante: aparece onde a pessoa estiver, some sozinho
   function aviso(texto, link) {
-    let t = document.getElementById('aviso');
-    if (!t) { t = el('div', { id: 'aviso', role: 'status' }); document.body.append(t); }
+    const t = document.getElementById('aviso');   // já existe desde o início: o leitor de tela anuncia o primeiro aviso
     t.innerHTML = '';
     t.append(el('span', { text: texto }));
     if (link) t.append(el('a', { href: link, target: '_blank', rel: 'noopener', text: 'Abrir caixa' }));
@@ -354,16 +373,25 @@
   async function telaCarrossel(id) {
     voltar.hidden = false;
     app.innerHTML = '<p class="vazio">Montando as páginas…</p>';
+    const minha = navegacao;
     let d;
     try { d = structuredClone(await carregarCarrossel(id)); }
-    catch { app.innerHTML = ''; app.append(el('p', { class: 'vazio', text: 'Esse carrossel não existe (ou ainda não foi publicado).' })); return; }
+    catch { if (minha === navegacao) { app.innerHTML = ''; app.append(el('p', { class: 'vazio', text: 'Esse carrossel não existe (ou ainda não foi publicado).' })); } return; }
+    if (minha !== navegacao) return;                     // a pessoa já voltou para a lista
     titulo.textContent = d.titulo || id;
     document.title = (d.titulo || id) + ' · Kaique Studio';
-    await R.carregarFontes();
-    await R.preCarregar(d.slides);
-    if (d.formato === 'video') return telaVideo(d);
+    const fontesOk = await R.carregarFontes();
+    const falhas = await R.preCarregar(d.slides);
+    if (minha !== navegacao) return;
+    const problemaCarga = !fontesOk || falhas.length
+      ? 'Uma imagem ou fonte não carregou (internet instável?). Atualize a página antes de salvar.' : '';
+    if (d.formato === 'video') return telaVideo(d, problemaCarga);
 
-    const trilho = el('div', { class: 'trilho', role: 'region', 'aria-label': 'Páginas do carrossel' });
+    const trilho = el('div', { class: 'trilho', role: 'region', tabindex: '0', 'aria-label': 'Páginas do carrossel. Use as setas para trocar de página.' });
+    trilho.addEventListener('keydown', (ev) => {
+      if (ev.key === 'ArrowRight') { ev.preventDefault(); irPara(Math.min(d.slides.length - 1, atual + 1)); }
+      if (ev.key === 'ArrowLeft') { ev.preventDefault(); irPara(Math.max(0, atual - 1)); }
+    });
     const contador = el('span', { class: 'contador', text: `1/${d.slides.length}` });
     const pontos = el('div', { class: 'pontos' });
     let canvases = [], pontosBtns = [];
@@ -371,7 +399,8 @@
     function montarPaginas() {
       trilho.innerHTML = ''; pontos.innerHTML = '';
       canvases = d.slides.map((s, i) => {
-        const c = el('canvas', { width: String(R.W), height: String(R.alturaDe(s)), 'aria-label': `Página ${i + 1}` });
+        const c = el('canvas', { width: String(R.W), height: String(R.alturaDe(s)), role: 'img',
+          'aria-label': `Página ${i + 1} de ${d.slides.length}: ${R.textoDoSlide(s)}` });
         trilho.append(c);
         return c;
       });
@@ -383,7 +412,7 @@
     montarPaginas();
     const alerta = el('p', { class: 'alerta', hidden: '' });
     let atual = 0;
-    function irPara(i, suave = true) { trilho.scrollTo({ left: i * trilho.clientWidth, behavior: suave ? 'smooth' : 'auto' }); atual = i; marcar(); }
+    function irPara(i, suave = true) { trilho.scrollTo({ left: i * trilho.clientWidth, behavior: suave && !reduzMovimento ? 'smooth' : 'auto' }); atual = i; marcar(); }
     trilho.addEventListener('scroll', () => {
       const i = Math.round(trilho.scrollLeft / Math.max(1, trilho.clientWidth));
       if (i !== atual) { atual = i; marcar(); }
@@ -398,10 +427,26 @@
     }
     function desenharTudo() {
       const estouro = [];
-      d.slides.forEach((_, i) => { if (desenhar(i).estoura) estouro.push(i + 1); });
-      alerta.hidden = !estouro.length;
-      alerta.textContent = estouro.length ? `Atenção: página ${estouro.join(', ')} passa da área útil.` : '';
+      d.slides.forEach((s, i) => {
+        if (desenhar(i).estoura) estouro.push(i + 1);
+        canvases[i].setAttribute('aria-label', `Página ${i + 1} de ${d.slides.length}: ${R.textoDoSlide(s)}`);
+      });
+      const msgs = [];
+      if (estouro.length) msgs.push(`Atenção: página ${estouro.join(', ')} passa da área útil.`);
+      if (problemaCarga) msgs.push(problemaCarga);
+      alerta.hidden = !msgs.length;
+      alerta.textContent = msgs.join(' ');
+      prepararImagens();
     }
+    // As imagens ficam prontas antes do toque em "Salvar": no iPhone o menu de compartilhar
+    // só abre se for chamado logo depois do toque.
+    let imagensProntas = null, tPreparo = 0;
+    function prepararImagens() {
+      imagensProntas = null;
+      clearTimeout(tPreparo);
+      tPreparo = setTimeout(() => { imagensProntas = blobs(); imagensProntas.catch(() => { imagensProntas = null; }); }, 400);
+    }
+    sairTela = () => { clearTimeout(tPreparo); canvases.forEach((c) => { c.width = 0; c.height = 0; }); };   // devolve a memória dos canvas
     desenharTudo(); marcar();
 
     const status = el('p', { class: 'status', role: 'status' });
@@ -410,9 +455,11 @@
 
     async function salvarNoCelular() {
       status.textContent = 'Preparando as imagens…';
-      const bs = await blobs();
+      let bs;
+      try { bs = await (imagensProntas || blobs()); }
+      catch { status.textContent = 'O celular ficou sem memória para gerar as imagens. Feche outras abas e atualize a página.'; return; }
       const arquivos = bs.map((b, i) => new File([b], nomeArq(i), { type: 'image/png' }));
-      if (navigator.canShare && navigator.canShare({ files: arquivos })) {
+      if (toque && navigator.canShare && navigator.canShare({ files: arquivos })) {
         try {
           await navigator.share({ files: arquivos, title: d.titulo || id });
           status.textContent = 'Pronto. No menu, toque em “Salvar imagens” para mandar para a galeria.';
@@ -422,7 +469,7 @@
         return;
       }
       bs.forEach((b, i) => baixar(b, nomeArq(i)));
-      status.textContent = 'Imagens baixadas (este navegador não tem o menu de compartilhar).';
+      status.textContent = toque ? 'Imagens baixadas (este navegador não tem o menu de compartilhar).' : 'Imagens baixadas na pasta Downloads.';
     }
     function baixar(blob, nome) {
       const a = el('a', { href: URL.createObjectURL(blob), download: nome });
@@ -432,14 +479,17 @@
     async function baixarZip() {
       status.textContent = 'Montando o ZIP…';
       const zip = new JSZip();
-      (await blobs()).forEach((b, i) => zip.file(nomeArq(i), b));
+      let bs;
+      try { bs = await (imagensProntas || blobs()); }
+      catch { status.textContent = 'Sem memória para gerar as imagens. Atualize a página e tente de novo.'; return; }
+      bs.forEach((b, i) => zip.file(nomeArq(i), b));
       if (d.legenda) zip.file('legenda.txt', d.legenda + '\n');
       baixar(await zip.generateAsync({ type: 'blob' }), `${id}.zip`);
       status.textContent = 'ZIP baixado.';
     }
     async function copiar(texto, ok) {
-      try { await navigator.clipboard.writeText(texto); status.textContent = ok; }
-      catch { status.textContent = 'Não deu para copiar automaticamente: selecione o texto e copie.'; }
+      try { await navigator.clipboard.writeText(texto); status.textContent = ok; return true; }
+      catch { status.textContent = 'Não deu para copiar automaticamente: abra “Legenda completa” em Mais opções, selecione e copie.'; return false; }
     }
 
     const n = d.slides.length;
@@ -452,7 +502,7 @@
     passos.append(passo(1, 'Salve no celular', bSalvar));
     if (d.legenda) {
       const bLeg = el('button', { class: 'grande sec', text: 'Copiar legenda' });
-      bLeg.addEventListener('click', async () => { await copiar(d.legenda, 'Legenda copiada. Agora é só colar no Instagram.'); bLeg.textContent = 'Legenda copiada ✓'; });
+      bLeg.addEventListener('click', async () => { if (await copiar(d.legenda, 'Legenda copiada. Agora é só colar no Instagram.')) bLeg.textContent = 'Legenda copiada ✓'; });
       passos.append(passo(2, 'Copie a legenda', el('p', { class: 'legenda-curta', text: d.legenda }), bLeg));
     }
     const bPostei = el('button', { class: 'sec', text: postados.tem(id) ? 'Postado ✓ (desfazer)' : 'Marcar como postado' });
@@ -537,13 +587,14 @@
   // ---------- vídeo comentado ----------
   // O vídeo é escolhido no próprio aparelho e nunca sai dele: o app desenha a
   // página (cabeçalho + comentário) com o vídeo dentro e grava o arquivo aqui mesmo.
-  async function telaVideo(d) {
+  async function telaVideo(d, problemaCarga = '') {
     const id = d.id, slide = d.slides[0];
     const elVideo = slide.elementos.find((e) => e.tipo === 'video');
     const cv = el('canvas', { width: String(R.W), height: String(R.alturaDe(slide)), 'aria-label': 'Prévia do vídeo' });
     const ctx = cv.getContext('2d');
     const status = el('p', { class: 'status', role: 'status' });
-    const barra = el('progress', { max: '100', value: '0', hidden: '' });
+    const barra = el('progress', { max: '100', value: '0', hidden: '', 'aria-label': 'Progresso da gravação' });
+    if (problemaCarga) status.textContent = problemaCarga;
     const video = document.createElement('video');
     video.playsInline = true; video.preload = 'auto';
     let pronto = false, gravando = false, arquivoFinal = null, laco = 0;
@@ -554,6 +605,16 @@
     }
     function loop() { desenhar(); laco = requestAnimationFrame(loop); }
     desenhar();
+    let audio = null; // AudioContext só pode ligar o <video> uma vez
+    // Ao sair da tela: para o vídeo, o laço de desenho, o áudio e devolve a memória.
+    sairTela = () => {
+      cancelAnimationFrame(laco);
+      gravando = false;
+      try { video.pause(); } catch { /* segue */ }
+      if (video.src) { URL.revokeObjectURL(video.src); video.removeAttribute('src'); video.load(); }
+      if (audio) { audio.ac.close().catch(() => {}); audio = null; }
+      cv.width = 0; cv.height = 0;
+    };
 
     const entrada = el('input', { type: 'file', accept: 'video/*', id: 'arquivo-video' });
     const inicio = el('input', { type: 'number', min: '0', step: '0.5', value: '0', id: 'v-inicio', inputmode: 'decimal' });
@@ -565,6 +626,7 @@
 
     function abrir(arquivo) {
       arquivoFinal = null; btnSalvar.hidden = true;
+      if (video.src) URL.revokeObjectURL(video.src);
       video.src = URL.createObjectURL(arquivo);
       video.muted = true;
       status.textContent = 'Carregando o vídeo…';
@@ -598,7 +660,6 @@
       return opcoes.find((t) => window.MediaRecorder && MediaRecorder.isTypeSupported(t)) || '';
     }
 
-    let audio = null; // AudioContext só pode ligar o <video> uma vez
     function ligarAudio(fluxo) {
       try {
         if (!audio) {
@@ -609,7 +670,8 @@
           audio = { ac, destino };
         }
         audio.destino.stream.getAudioTracks().forEach((t) => fluxo.addTrack(t));
-      } catch (e) { console.warn('sem áudio', e); }
+        return true;
+      } catch (e) { console.warn('sem áudio', e); return false; }
     }
 
     async function gerar() {
@@ -620,49 +682,71 @@
       gravando = true; btnGerar.disabled = true; btnPrevia.disabled = true; entrada.disabled = true;
       btnSalvar.hidden = true; barra.hidden = false; barra.value = 0;
       status.textContent = 'Gravando… o trecho toca uma vez inteiro; deixe a tela aberta.';
-      const fluxo = cv.captureStream(30);
-      ligarAudio(fluxo);
-      if (audio && audio.ac.state === 'suspended') await audio.ac.resume();
+      let gravador = null, fluxo = null, motivo = '';
       const partes = [];
-      const gravador = new MediaRecorder(fluxo, { mimeType: tipo, videoBitsPerSecond: 8000000 });
-      gravador.ondataavailable = (ev) => { if (ev.data && ev.data.size) partes.push(ev.data); };
-      const terminou = new Promise((ok) => { gravador.onstop = ok; });
-      video.pause(); video.muted = false;
-      await new Promise((ok) => { video.onseeked = () => { video.onseeked = null; ok(); }; video.currentTime = ini; });
-      gravador.start(500);
-      try { await video.play(); } catch (e) { console.warn(e); }
-      await new Promise((ok) => {
-        const tick = () => {
-          barra.value = Math.min(100, ((video.currentTime - ini) / (f - ini)) * 100);
-          if (video.currentTime >= f || video.ended) return ok();
-          requestAnimationFrame(tick);
-        };
-        tick();
-      });
-      video.pause();
-      gravador.stop();
-      await terminou;
-      fluxo.getTracks().forEach((t) => { if (t.kind === 'video') t.stop(); });
-      gravando = false; barra.hidden = true;
-      btnGerar.disabled = false; btnPrevia.disabled = false; entrada.disabled = false;
-      const ext = tipo.startsWith('video/mp4') ? 'mp4' : 'webm';
-      arquivoFinal = new File(partes, `${id}.${ext}`, { type: tipo.split(';')[0] });
-      btnSalvar.hidden = false;
-      status.textContent = ext === 'mp4'
-        ? `Vídeo pronto (${(arquivoFinal.size / 1048576).toFixed(1)} MB). Toque em “Salvar no celular”.`
-        : 'Vídeo gerado em WebM: este navegador não grava MP4, e o Instagram pode recusar. No iPhone, use o Safari.';
+      const parar = (m) => { if (!motivo) motivo = m; };
+      const aoPausar = () => { if (gravando && video.currentTime < f - 0.2) parar('O vídeo parou no meio (tela bloqueou ou chegou uma notificação). Gere de novo com a tela acesa.'); };
+      const aoSumir = () => { if (document.hidden) parar('A gravação parou porque você saiu da tela. Gere de novo e deixe a tela aberta.'); };
+      video.addEventListener('pause', aoPausar);
+      video.addEventListener('error', aoPausar);
+      document.addEventListener('visibilitychange', aoSumir);
+      try {
+        fluxo = cv.captureStream(30);
+        const comSom = ligarAudio(fluxo);
+        if (audio && audio.ac.state === 'suspended') await audio.ac.resume();
+        gravador = new MediaRecorder(fluxo, { mimeType: tipo, videoBitsPerSecond: 8000000 });
+        gravador.ondataavailable = (ev) => { if (ev.data && ev.data.size) partes.push(ev.data); };
+        const terminou = new Promise((ok) => { gravador.onstop = ok; });
+        video.pause(); video.muted = false;
+        await new Promise((ok) => { video.onseeked = () => { video.onseeked = null; ok(); }; video.currentTime = ini; });
+        gravador.start(500);
+        try { await video.play(); } catch { parar('Não consegui tocar o vídeo. Toque em “Gerar vídeo” de novo.'); }
+        const limite = performance.now() + (f - ini + 5) * 1000;     // nunca fica gravando para sempre
+        await new Promise((ok) => {
+          const tick = () => {
+            barra.value = Math.min(100, ((video.currentTime - ini) / (f - ini)) * 100);
+            if (video.currentTime >= f || video.ended || motivo) return ok();
+            if (performance.now() > limite) { parar('O vídeo travou no meio da gravação. Tente de novo.'); return ok(); }
+            requestAnimationFrame(tick);
+          };
+          tick();
+        });
+        video.pause();
+        gravador.stop();
+        await terminou;
+        if (motivo) { status.textContent = motivo; return; }
+        const ext = tipo.startsWith('video/mp4') ? 'mp4' : 'webm';
+        arquivoFinal = new File(partes, `${id}.${ext}`, { type: tipo.split(';')[0] });
+        btnSalvar.hidden = false;
+        status.textContent = (ext === 'mp4'
+          ? `Vídeo pronto (${(arquivoFinal.size / 1048576).toFixed(1)} MB). Toque em “Salvar no celular”.`
+          : 'Vídeo gerado em WebM: este navegador não grava MP4, e o Instagram pode recusar. No iPhone, use o Safari.')
+          + (comSom ? '' : ' Atenção: o vídeo saiu sem som.');
+      } catch (e) {
+        console.warn(e);
+        status.textContent = 'Não deu para gerar o vídeo aqui. Atualize a página e tente de novo.';
+      } finally {
+        video.removeEventListener('pause', aoPausar);
+        video.removeEventListener('error', aoPausar);
+        document.removeEventListener('visibilitychange', aoSumir);
+        if (gravador && gravador.state !== 'inactive') { try { gravador.stop(); } catch { /* segue */ } }
+        if (fluxo) fluxo.getTracks().forEach((t) => { if (t.kind === 'video') t.stop(); });
+        gravando = false; barra.hidden = true;
+        btnGerar.disabled = false; btnPrevia.disabled = false; entrada.disabled = false;
+      }
     }
     btnGerar.addEventListener('click', gerar);
 
     btnSalvar.addEventListener('click', async () => {
       if (!arquivoFinal) return;
-      if (navigator.canShare && navigator.canShare({ files: [arquivoFinal] })) {
+      if (toque && navigator.canShare && navigator.canShare({ files: [arquivoFinal] })) {
         try { await navigator.share({ files: [arquivoFinal], title: d.titulo || id }); status.textContent = 'No menu, toque em “Salvar vídeo”.'; }
         catch (e) { status.textContent = e && e.name === 'AbortError' ? 'Cancelado.' : 'Não deu para abrir o compartilhamento.'; }
         return;
       }
       const a = el('a', { href: URL.createObjectURL(arquivoFinal), download: arquivoFinal.name });
       document.body.append(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 4000);
       status.textContent = 'Vídeo baixado.';
     });
 
@@ -731,18 +815,21 @@
       fd.append(`pagina_${String(i + 1).padStart(2, '0')}`, await R.canvasParaBlob(canvases[i]), `p${i + 1}.png`);
     }
     try {
-      const j = await (await fetch(`/api/exportar/${encodeURIComponent(id)}`, { method: 'POST', body: fd })).json();
+      const j = await (await fetch(`/api/exportar/${encodeURIComponent(id)}`, { method: 'POST', body: fd, headers: { 'X-KS': '1' } })).json();
       window.__ksExport = j;
       status.textContent = j.ok ? `Conferido e gravado em ${j.pasta}` : `Falhou: ${j.erro}`;
     } catch { status.textContent = 'Servidor local não respondeu.'; }
   }
 
   async function rotear() {
+    navegacao++;
+    if (sairTela) { try { sairTela(); } catch { /* segue */ } sairTela = null; }
     const m = location.hash.match(/^#\/c\/([a-z0-9-]+)$/);
     window.scrollTo(0, 0);
     if (m) await telaCarrossel(m[1]);
     else if (location.hash === '#/radar') await telaRadar();
     else await telaLista();
+    titulo.focus({ preventScroll: true });     // leitor de tela anuncia a tela nova
   }
   voltar.addEventListener('click', () => { location.hash = '#/'; });
   window.addEventListener('hashchange', rotear);

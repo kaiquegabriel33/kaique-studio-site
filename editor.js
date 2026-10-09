@@ -23,7 +23,8 @@
     function snapshot() { desfazer.push(JSON.stringify(d.slides)); if (desfazer.length > 60) desfazer.shift(); }
     function marcarSujo() { sujo = true; btnSalvar.textContent = 'Salvar alterações •'; }
     function slideAtual() { return d.slides[cfg.paginaAtual()]; }
-    function elAtual() { return sel && d.slides[sel.pagina] ? d.slides[sel.pagina].elementos[sel.idx] : null; }
+    // selecionado só vale na página que está na tela (trocar de página pelos pontos não apaga o elemento errado)
+    function elAtual() { return sel && sel.pagina === cfg.paginaAtual() && d.slides[sel.pagina] ? d.slides[sel.pagina].elementos[sel.idx] : null; }
 
     function redesenhar(i = cfg.paginaAtual()) {
       lays[i] = cfg.redesenhar(i);
@@ -45,6 +46,7 @@
       if (!e) return;
       const b = caixa(e);
       g.save();
+      g.translate(0, (lays[i] && lays[i].deslocamento) || 0);   // Reels: conteúdo desenhado mais abaixo
       g.strokeStyle = '#1a73e8'; g.lineWidth = 4; g.setLineDash([14, 8]);
       g.strokeRect(b.x - 6, b.y - 6, b.w + 12, b.h + 12);
       g.setLineDash([]); g.fillStyle = '#1a73e8';
@@ -54,7 +56,8 @@
     function caixa(e) { return { x: e.x ?? R.MARGEM, y: e.y, w: e.w ?? R.LARG_UTIL, h: e._h }; }
     function pontoPagina(ev) {
       const r = camada.getBoundingClientRect();
-      return { x: (ev.clientX - r.left) * camada.width / r.width, y: (ev.clientY - r.top) * camada.height / r.height };
+      const dy = (lays[cfg.paginaAtual()] && lays[cfg.paginaAtual()].deslocamento) || 0;
+      return { x: (ev.clientX - r.left) * camada.width / r.width, y: (ev.clientY - r.top) * camada.height / r.height - dy };
     }
 
     let arrasto = null;
