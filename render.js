@@ -613,6 +613,34 @@
     }
   }
 
+  // Caixa de texto do Instagram, como ele usa no story: comentário curto em caixa branca, letra serifada,
+  // centralizado, em cima do print da notícia ou do gráfico.
+  const SERIFA = 'Georgia, "Times New Roman", serif';
+  TIPOS.caixa_story = {
+    _lay(ctx, el) {
+      const w = el.w ?? LARG_UTIL, pad = 26, tam = el.tam ?? 42, lh = 1.22;
+      ctx.font = `400 ${tam}px ${SERIFA}`;
+      const linhas = [];
+      let atual = '';
+      for (const p of String(el.texto || '').split(/\s+/).filter(Boolean)) {
+        const t = atual ? atual + ' ' + p : p;
+        if (atual && ctx.measureText(t).width > w - 2 * pad) { linhas.push(atual); atual = p; } else atual = t;
+      }
+      if (atual) linhas.push(atual);
+      const larg = Math.min(w, Math.max(...linhas.map((l) => ctx.measureText(l).width), 0) + 2 * pad);
+      return { w, larg, pad, tam, lh, linhas, h: linhas.length * tam * lh + 2 * pad - tam * (lh - 1) };
+    },
+    medir(ctx, el) { return this._lay(ctx, el).h; },
+    desenhar(ctx, el) {
+      const L = this._lay(ctx, el), x0 = (el.x ?? MARGEM) + (L.w - L.larg) / 2;
+      ctx.save();
+      ctx.fillStyle = '#ffffff'; retRedondo(ctx, x0, el.y, L.larg, L.h, 8); ctx.fill();
+      ctx.fillStyle = '#111111'; ctx.font = `400 ${L.tam}px ${SERIFA}`; ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+      L.linhas.forEach((ln, i) => ctx.fillText(ln, x0 + L.larg / 2, el.y + L.pad + i * L.tam * L.lh));
+      ctx.restore();
+    },
+  };
+
   // Linha do tempo vertical.
   TIPOS.linha_tempo = {
     _lay(ctx, el) {
