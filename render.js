@@ -13,6 +13,11 @@
              cartao: '#ffffff', borda: '#e4e4e4', linha: '#ececec', marca: '#ffec8a',
              barra: '#000000', barraSec: '#cfcfcf', nome: '#000000', arroba: '#000000',
              positivo: '#14743a', fundoPos: '#e6f3ea', negativo: '#b42318', fundoNeg: '#fbe9e7' },
+    // amarelo da marca (o mesmo do grifo) para story: fundo de cor, texto preto, grifo branco
+    amarelo: { fundo: '#ffe873', texto: '#111111', suave: '#3d3a2a', fraco: '#5c5740',
+               cartao: '#fffbe0', borda: '#e8d45a', linha: '#f1df6a', marca: '#ffffff',
+               barra: '#111111', barraSec: '#d9c64f', nome: '#111111', arroba: '#111111',
+               positivo: '#14743a', fundoPos: '#e6f3ea', negativo: '#b42318', fundoNeg: '#fbe9e7' },
     escuro: { fundo: '#000000', texto: '#ffffff', suave: '#b5b5b5', fraco: '#8d8d8d',
               cartao: '#111111', borda: '#2a2a2a', linha: '#222222', marca: '#6b5a00',
               barra: '#ffffff', barraSec: '#4a4a4a', nome: '#f8f8f8', arroba: '#ffffff',
@@ -881,7 +886,8 @@
     ctx.save();
     ctx.translate(0, dy);
     const lay = diagramarSlide(ctx, slide);
-    ctx.save(); ctx.translate(0, lay.cabecalhoDy || 0); desenharCabecalho(ctx, tema); ctx.restore();
+    // story com cara de story: sem a foto e o @ (semCabecalho)
+    if (!slide.semCabecalho) { ctx.save(); ctx.translate(0, lay.cabecalhoDy || 0); desenharCabecalho(ctx, tema); ctx.restore(); }
     for (const e of lay.elementos) TIPOS[e.tipo].desenhar(ctx, e, tema);
     if (slide.fonte) {
       ctx.textBaseline = 'alphabetic'; ctx.font = fonteDe(20, 500); ctx.fillStyle = tema.fraco;
