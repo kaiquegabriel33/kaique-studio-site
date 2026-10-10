@@ -1,0 +1,94 @@
+{
+  "id": "sug-story-trump-fed",
+  "titulo": "Story: Trump de novo contra o Fed",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-09T20:45:00-03:00",
+  "legenda": "",
+  "comentario": "Trump brigando de novo com quem decide os juros nos EUA. Eu fico de olho porque o juro de lá mexe no dólar daqui. Você tem alguma parte do seu dinheiro fora do real?\n\n(story 2) Da primeira vez que ele tentou tirar ela, em agosto de 2025, o ouro estava em 3.373 dólares. Hoje, 4.220: subiu 25%. Quando banco central vira briga política, o dinheiro do mundo corre pro ouro.\n\n(story 3) E não sou só eu de olho: o Stuhlberger, do Verde, tá animado com a bolsa daqui, mas acendeu o alerta pros juros dos EUA.",
+  "repost_url": "https://www1.folha.uol.com.br/mercado/2026/10/trump-cria-comite-para-investigar-novamente-diretora-do-fed.shtml",
+  "fontes": [
+    {
+      "titulo": "Folha — Trump cria comitê para investigar novamente diretora do Fed (09/10/2026)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/trump-cria-comite-para-investigar-novamente-diretora-do-fed.shtml"
+    },
+    {
+      "titulo": "Reuters (via Hargreaves Lansdown) — Dollar, longer-dated Treasuries slide as Trump escalates attack on Fed; gold rises (26/08/2025)",
+      "url": "https://www.hl.co.uk/news/dollar-longer-dated-treasuries-slide-as-trump-escalates-attack-on-fed-gold-rises"
+    },
+    {
+      "titulo": "Google Finanças — Ouro (GCW00), 5 anos (até 09/10/2026)",
+      "url": "https://www.google.com/finance/quote/GCW00:COMEX?hl=pt-BR"
+    },
+    {
+      "titulo": "Seu Dinheiro — Fundo Verde, de Stuhlberger, vê espaço para novo rali da bolsa com o 'trade Flávio' — mas faz alerta para risco lá fora (09/10/2026)",
+      "url": "https://www.seudinheiro.com/2026/bolsa-dolar/fundo-verde-de-stuhlberger-ve-espaco-para-novo-rali-da-bolsa-com-o-trade-flavio-mas-faz-alerta-para-risco-la-fora-miql/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "elementos": [
+        {
+          "texto": "Trump brigando de novo com quem decide os juros nos EUA. Eu fico de olho porque o juro de lá mexe no dólar daqui. Você tem alguma parte do seu dinheiro fora do real?",
+          "tipo": "caixa_story"
+        },
+        {
+          "ajuste": "conter",
+          "borda": false,
+          "h": 507,
+          "raio": 18,
+          "src": "midia/sug-story-trump-fed/print-folha.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro"
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "elementos": [
+        {
+          "texto": "Da primeira vez que ele tentou tirar ela, em agosto de 2025, o ouro estava em 3.373 dólares. Hoje, 4.220: subiu 25%. Quando banco central vira briga política, o dinheiro do mundo corre pro ouro.",
+          "tipo": "caixa_story"
+        },
+        {
+          "ajuste": "conter",
+          "borda": false,
+          "h": 600,
+          "raio": 18,
+          "src": "midia/sug-story-trump-fed/grafico-gcw00-comex-5a.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro"
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "elementos": [
+        {
+          "texto": "E não sou só eu de olho: o Stuhlberger, do Verde, tá animado com a bolsa daqui, mas acendeu o alerta pros juros dos EUA.",
+          "tipo": "caixa_story"
+        },
+        {
+          "ajuste": "conter",
+          "borda": false,
+          "h": 562,
+          "raio": 18,
+          "src": "midia/sug-story-trump-fed/print-seu-dinheiro.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro"
+    }
+  ],
+  "atualizado": "2026-10-10T20:40"
+}
