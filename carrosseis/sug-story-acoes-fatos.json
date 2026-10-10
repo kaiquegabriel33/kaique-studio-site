@@ -1,0 +1,40 @@
+{
+  "id": "sug-story-acoes-fatos",
+  "titulo": "Story: ações com a Fatos",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-09T17:30:00-03:00",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "elementos": [
+        {
+          "texto": "Teve ação subindo mais de 50% só em outubro. Passei a tarde revendo carteira com cliente, uma por uma. Quer revisar a sua? Me chama.",
+          "tipo": "caixa_story"
+        },
+        {
+          "ajuste": "conter",
+          "borda": false,
+          "h": 442,
+          "raio": 18,
+          "src": "midia/sug-story-acoes-fatos/print-suno.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro"
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Suno — Ibovespa sextou em clima de feriadão: bate recorde nos 209 mil pontos e MGLU3 dispara 19% (09/10/2026)",
+      "url": "https://www.suno.com.br/noticias/ibovespa-hoje-recorde-209-mil-mglu3-feriado-mt/"
+    }
+  ],
+  "comentario": "Teve ação subindo mais de 50% só em outubro. Passei a tarde revendo carteira com cliente, uma por uma. Quer revisar a sua? Me chama.",
+  "repost_url": "https://www.suno.com.br/noticias/ibovespa-hoje-recorde-209-mil-mglu3-feriado-mt/",
+  "atualizado": "2026-10-10T12:45:00-03:00"
+}

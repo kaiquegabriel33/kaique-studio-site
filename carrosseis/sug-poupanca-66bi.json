@@ -1,0 +1,103 @@
+{
+  "id": "sug-poupanca-66bi",
+  "titulo": "R$ 10 mil na poupança renderam R$ 831",
+  "status": "pronto",
+  "criado": "2026-10-09T12:00",
+  "atualizado": "2026-10-10T12:45:00-03:00",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 54,
+          "texto": "==R$ 66 bilhões== saíram da poupança em 2026.",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 600,
+          "raio": 18,
+          "src": "midia/sug-poupanca-66bi/print-infomoney.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "capa",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 46,
+          "texto": "R$ 10 mil parados por 12 meses viraram:",
+          "tipo": "texto"
+        },
+        {
+          "rotulo": "na poupança",
+          "tamValor": 140,
+          "tipo": "numero",
+          "valor": "R$ 831"
+        },
+        {
+          "rotulo": "numa aplicação que segue a Selic, já descontado o imposto",
+          "tamValor": 140,
+          "tipo": "numero",
+          "valor": "==R$ 1.194=="
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "rotulo": "a menos, a cada R$ 10 mil, só por deixar na poupança.",
+          "tamRotulo": 44,
+          "tamValor": 190,
+          "tipo": "numero",
+          "valor": "R$ 363"
+        },
+        {
+          "tam": 46,
+          "texto": "E olha que a poupança é isenta de imposto.\n\n==Mesmo isenta, perde.==",
+          "tipo": "texto"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 42,
+          "texto": "Ainda tem R$ 1 trilhão lá dentro.\n\nTem quem saque para pagar conta, e tudo bem. Mas quem deixou parado por costume ==pagou caro para não pensar no assunto.==",
+          "tipo": "texto"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "R$ 66 bilhões saíram da poupança em 2026. Quem ficou pagou caro para não pensar no assunto.\n\nR$ 10 mil na poupança renderam R$ 831 em um ano. Numa aplicação que segue a Selic, já com imposto, R$ 1.194.\n\nPelas séries do Banco Central, a poupança rendeu 8,31% de outubro de 2025 a setembro de 2026. O CDI (a taxa de referência dos bancos, que anda colada na Selic), 14,47%. Numa aplicação de um ano que rende o CDI, como um CDB que pague 100% do CDI, o imposto de renda leva 17,5% do ganho, e mesmo assim sobram R$ 363 a mais a cada R$ 10 mil (conta minha). A poupança é isenta, e mesmo isenta perde.\n\nO brasileiro está percebendo: em setembro, os saques passaram os depósitos em R$ 9,35 bilhões, o quarto mês seguido. No ano, saíram R$ 66,4 bilhões a mais do que entraram. Ainda assim, ela guarda R$ 1 trilhão.\n\nNem todo saque é gente trocando de investimento. Mas quem deixou parado por costume pagou caro para não pensar no assunto.\n\nFontes: Banco Central (Relatório de Poupança; séries SGS 7828 e 4391); InfoMoney (09/10/2026). Print: InfoMoney (09/10/2026).\n\nIsto é análise, não recomendação de investimento.",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Saques na poupança em setembro superam os depósitos em R$ 9,350 bilhões (09/10/2026)",
+      "url": "https://www.infomoney.com.br/economia/saques-na-poupanca-em-setembro-superam-os-depositos-em-r-9350-bilhoes/"
+    },
+    {
+      "titulo": "Reuters, via Antena1 — retiradas líquidas de R$ 9,350 bi em setembro (o título diz “agosto” por erro)",
+      "url": "https://www.antena1.com.br/noticias/poupanca-tem-saque-liquido-de-r9350-bi-em-agosto-diz-bc"
+    },
+    {
+      "titulo": "Banco Central — SGS 24 (captação líquida da poupança)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.24/dados?formato=json"
+    },
+    {
+      "titulo": "Banco Central — SGS 7828 (rentabilidade da poupança)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7828/dados?formato=json"
+    },
+    {
+      "titulo": "Banco Central — SGS 4391 (CDI mensal)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4391/dados?formato=json"
+    }
+  ],
+  "formato": "carrossel"
+}

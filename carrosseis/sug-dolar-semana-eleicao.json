@@ -1,0 +1,39 @@
+{
+  "id": "sug-dolar-semana-eleicao",
+  "titulo": "Quem correu pro dólar antes da eleição",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-09T20:45:00-03:00",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 56,
+          "texto": "Quem correu pro dólar antes da eleição ==pagou caro.==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 717,
+          "raio": 18,
+          "src": "midia/sug-dolar-semana-eleicao/grafico-usd-brl-1m.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "Quem correu pro dólar antes da eleição pagou caro: a moeda caiu 4,4% numa semana e voltou pra baixo de R$ 5.\n\nNa sexta antes do 1º turno, o dólar estava perto de R$ 5,21. Nesta sexta (9), fechou a R$ 4,98. Foi a maior queda numa semana depois de um primeiro turno desde que o real existe, em 1994. A anterior era de 2022: 3,36%.\n\nConta simples: R$ 10 mil trocados por dólar na sexta passada valem hoje uns R$ 443 a menos em reais (10 mil × 4,43%).\n\nO motivo é a eleição: o mercado passou a apostar mais na vitória do Flávio Bolsonaro e tirou parte do medo do preço. Mas tem banco grande achando que foi rápido demais. O BMO projeta o dólar de volta acima de R$ 5,10 até o fim do ano.\n\nPra quem tem viagem marcada, a semana foi ótima. Pra quem comprou no susto, nem tanto.\n\nFontes: Valor Econômico, \"Dólar tem maior queda semanal pós-1º turno desde criação do real\" (09/10/2026); cotação oficial do dólar (Ptax), Banco Central, de 01/09 a 09/10/2026.\nGráfico: Google Finanças (1 mês).",
+  "fontes": [
+    {
+      "titulo": "Valor — Dólar tem maior queda semanal pós-1º turno desde criação do real (09/10/2026)",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/09/dolar-tem-maior-queda-semanal-pos-1o-turno-desde-criacao-do-real.ghtml"
+    },
+    {
+      "titulo": "Banco Central — dólar Ptax de venda (SGS, série 1), 01/09 a 09/10/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/09/2026&dataFinal=09/10/2026"
+    }
+  ],
+  "atualizado": "2026-10-10T12:45:00-03:00"
+}
