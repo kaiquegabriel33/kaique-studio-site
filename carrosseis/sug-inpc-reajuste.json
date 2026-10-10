@@ -1,0 +1,40 @@
+{
+  "id": "sug-inpc-reajuste",
+  "titulo": "Reajuste abaixo de 4,29% não é aumento",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-10T13:50:00-03:00",
+  "atualizado": "2026-10-10T17:50",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 50,
+          "texto": "Se o seu reajuste vier abaixo de ==4,29%==, seu salário encolheu.",
+          "tipo": "texto"
+        },
+        {
+          "tam": 32,
+          "texto": "É a inflação de quem ganha de 1 a 5 salários mínimos em 12 meses, o INPC. A régua que muita categoria usa pra negociar aumento.",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 470,
+          "raio": 18,
+          "src": "midia/sug-inpc-reajuste/print-agencia-brasil-inpc-inflacao-que-corrige-salari.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "Se o seu reajuste vier abaixo de 4,29%, não foi aumento. Seu salário encolheu.\n\nSaiu o INPC de setembro, a inflação das famílias que ganham de 1 a 5 salários mínimos. Subiu 0,82% no mês e 4,29% em 12 meses (em agosto eram 3,98%).\n\nÉ esse número que muita categoria usa como régua pra negociar reajuste. E é o INPC fechado de dezembro que corrige o seguro-desemprego, o teto do INSS e quem recebe benefício acima do salário mínimo.\n\nConta simples: quem ganha R$ 3.000 precisa ir pra uns R$ 3.129 só pra comprar o mesmo que comprava um ano atrás. O que vier abaixo disso saiu do seu bolso.\n\nFontes: IBGE, via Agência Brasil, \"INPC, inflação que corrige salários, acumula 4,29% em 12 meses\" (outubro de 2026). Conta nossa: R$ 3.000 x 1,0429. Print: Agência Brasil.",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — INPC, inflação que corrige salários, acumula 4,29% em 12 meses (10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/inpc-inflacao-que-corrige-salarios-acumula-429-em-12-meses"
+    }
+  ]
+}

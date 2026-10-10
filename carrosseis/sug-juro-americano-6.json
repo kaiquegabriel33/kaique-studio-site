@@ -1,0 +1,48 @@
+{
+  "id": "sug-juro-americano-6",
+  "titulo": "O investimento mais seguro do mundo paga 5,24%",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-09T22:40:00-03:00",
+  "atualizado": "2026-10-10T17:50",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 50,
+          "texto": "O investimento mais seguro do mundo já paga ==5,24% ao ano.==",
+          "tipo": "texto"
+        },
+        {
+          "tam": 32,
+          "texto": "É o título de 10 anos do governo americano. Começou 2026 em 4,19%, e a Pimco acha que passa de 6%.",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 640,
+          "raio": 18,
+          "src": "midia/sug-juro-americano-6/grafico-treasury-10a-cnbc.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "O investimento mais seguro do mundo já paga 5,24% ao ano. E tem gestora grande achando que vai a 6%.\n\nTô falando do título de 10 anos do Tesouro americano, que o mercado chama de Treasury. É onde o mundo inteiro estaciona dinheiro quando quer dormir tranquilo.\n\nEle começou o ano pagando 4,19%. Nesta sexta (9), fechou em 5,24%. Na segunda (5) chegou a 5,31%, o maior do ano.\n\nPra dar tamanho: US$ 10 mil ali rendem uns US$ 524 por ano, em dólar e com o governo americano de devedor. Em janeiro eram uns US$ 419.\n\nA Pimco, gigante da renda fixa, acha que esse juro passa de 6%. O diretor de investimentos dela, Dan Ivascyn, disse ao Financial Times que uma nova alta pode atrapalhar ações e títulos de empresas.\n\nA nossa bolsa bateu recorde esta semana com esse vento contra lá fora. Se o seguro americano continuar subindo, fica mais difícil convencer o dinheiro a vir correr risco aqui.\n\nFontes: Departamento do Tesouro dos EUA, taxas diárias dos títulos (Daily Treasury Par Yield Curve), 02/01 e 09/10/2026; Valor Econômico/Financial Times, \"Gigante da renda fixa, Pimco vê rendimento dos Treasuries de 10 anos romper 6%\" (09/10/2026). Gráfico: CNBC (Tradeweb).",
+  "fontes": [
+    {
+      "titulo": "Departamento do Tesouro dos EUA — Daily Treasury Par Yield Curve Rates, 2026",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+    },
+    {
+      "titulo": "Valor/Financial Times — Gigante da renda fixa, Pimco vê rendimento dos Treasuries de 10 anos romper 6% (09/10/2026)",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/09/ft-gigante-da-renda-fixa-pimco-v-rendimento-dos-treasuries-de-10-anos-romper-6-pontos-percentuais.ghtml"
+    },
+    {
+      "titulo": "CNBC — U.S. 10 Year Treasury (US10Y), gráfico de 1 ano",
+      "url": "https://www.cnbc.com/quotes/US10Y"
+    }
+  ]
+}

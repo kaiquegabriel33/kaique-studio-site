@@ -1,0 +1,90 @@
+{
+  "id": "sug-grafico-petroleo-gasolina",
+  "titulo": "O petróleo caro paga o desconto da gasolina",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-09T18:10:00-03:00",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "O petróleo caro está pagando ==o desconto da sua gasolina.==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 471,
+          "raio": 18,
+          "src": "midia/sug-grafico-petroleo-gasolina/print-agencia-brasil.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "capa",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "rotulo": "a menos de imposto federal por litro, além do desconto que já existia.",
+          "tamRotulo": 40,
+          "tamValor": 170,
+          "tipo": "numero",
+          "valor": "R$ 0,26"
+        },
+        {
+          "tam": 44,
+          "texto": "Para o governo, a gasolina sem imposto custa ==uns R$ 2,4 bilhões por mês.==",
+          "tipo": "texto"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 42,
+          "texto": "De onde sai o dinheiro? Da receita extra do petróleo caro, segundo o Ministério do Planejamento.",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 640,
+          "raio": 18,
+          "src": "midia/sug-grafico-petroleo-gasolina/grafico-bzw00-nymex-ytd.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 46,
+          "texto": "A conta fecha enquanto o barril ficar caro.\n\nSe o petróleo cair, a receita extra encolhe. E o desconto vale 30 dias: ==vence no começo de novembro, já depois da eleição.==",
+          "tipo": "texto"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "O petróleo caro está pagando o desconto da sua gasolina. A conta fecha enquanto o barril ficar caro.\n\nO governo zerou os impostos federais da gasolina (PIS, Cofins e Cide) por 30 dias. O corte de imposto no litro foi de R$ 0,63 para R$ 0,89: são R$ 0,26 a mais de desconto (conta nossa: 0,89 − 0,63). Na bomba o efeito tende a ser menor, porque a gasolina comum leva etanol e o posto precisa repassar. Para o governo, custa uns R$ 2,4 bilhões por mês.\n\nSegundo o Ministério do Planejamento, quem paga é a receita extra do petróleo da União. O barril (Brent) foi de US$ 72 em fevereiro para US$ 104 nesta sexta (9), depois de passar de US$ 118 em março.\n\nSe o petróleo cair, essa receita encolhe e o desconto passa a sair de outro lugar. E ele vale 30 dias: vence no começo de novembro, já depois da eleição.\n\nFontes: Agência Brasil (09/10/2026); ICE Brent, fechamento do mês, via Yahoo Finance. Print: Agência Brasil. Gráfico: Google Finanças.",
+  "fontes": [
+    {
+      "titulo": "Yahoo Finance — Brent Crude Oil (BZ=F), histórico",
+      "url": "https://finance.yahoo.com/quote/BZ%3DF/history/"
+    },
+    {
+      "titulo": "Agência Brasil — Tributos da gasolina são zerados e subsídios a combustíveis, ampliados (09/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tributos-da-gasolina-sao-zerados-e-subsidios-combustiveis-ampliados"
+    },
+    {
+      "titulo": "Google Finanças — Brent Crude Oil (BZW00), no ano",
+      "url": "https://www.google.com/finance/quote/BZW00:NYMEX?hl=pt-BR"
+    }
+  ],
+  "atualizado": "2026-10-10T17:50"
+}

@@ -72,6 +72,7 @@
   }
   async function preCarregar(slides) {
     const srcs = new Set([ATIVOS.foto, ATIVOS.selo]);
+    for (const s of slides) if (s.fundo && s.fundo.src) srcs.add(s.fundo.src);
     for (const s of slides) for (const el of s.elementos || []) {
       if (el.src) srcs.add(el.src);
       if (el.imagem) srcs.add(el.imagem);
@@ -929,6 +930,12 @@
     const AH = alturaDe(slide);
     ctx.clearRect(0, 0, W, AH);
     ctx.fillStyle = tema.fundo; ctx.fillRect(0, 0, W, AH);
+    // foto de fundo (story/capa com foto real dele, 10/10): cobre a página; `escurecer` 0-1 ajuda a ler o texto branco
+    if (slide.fundo && slide.fundo.src) {
+      const img = imagemPronta(slide.fundo.src);
+      if (img) desenharImagemAjustada(ctx, img, 0, 0, W, AH, 'cobrir', slide.fundo.foco);
+      if (slide.fundo.escurecer) { ctx.fillStyle = `rgba(0,0,0,${Math.min(0.8, +slide.fundo.escurecer)})`; ctx.fillRect(0, 0, W, AH); }
+    }
     const dy = deslocamentoDe(slide);
     ctx.save();
     ctx.translate(0, dy);

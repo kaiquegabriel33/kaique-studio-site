@@ -1,0 +1,48 @@
+{
+  "id": "sug-diarista-sem-cnpj",
+  "titulo": "Diarista e manicure não precisam abrir CNPJ",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-10T13:50:00-03:00",
+  "atualizado": "2026-10-10T17:50",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 50,
+          "texto": "Diarista e manicure ==não precisam abrir CNPJ.== Pelo menos até 2028.",
+          "tipo": "texto"
+        },
+        {
+          "tam": 32,
+          "texto": "Quem trabalha no CPF e fatura até R$ 40,5 mil por ano está dispensado de CNPJ e de nota fiscal. A Receita decidiu isso em agosto.",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 470,
+          "raio": 18,
+          "src": "midia/sug-diarista-sem-cnpj/print-infomoney-e-falso-video-que-diz-que-diaris.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "Recebeu o vídeo dizendo que sua diarista vai ter que abrir CNPJ? Pode tranquilizar ela. Pelo menos até 2028.\n\nO vídeo que rodou essa semana diz que quem não pedir nota da diarista, do jardineiro ou da manicure pode até ser preso. O ministro da Fazenda, Dario Durigan, desmentiu nas redes: \"Diarista, manicure e jardineiro não terão que abrir CNPJ e nem emitir nota fiscal\".\n\nO vídeo se apoia num pedaço de verdade. A reforma tributária criou o nanoempreendedor: quem trabalha por conta própria, no CPF, e fatura até R$ 40,5 mil por ano (uns R$ 3.375 por mês). A regra previa CNPJ para esse pessoal a partir de 2027. Em agosto, a Receita e o comitê do novo imposto dispensaram o CNPJ e a nota até o fim de 2028.\n\nHoje não tem obrigação nenhuma. Depois de 2028, depende da regra que vier. O resto é vídeo de grupo da família.\n\nFontes: InfoMoney/Agência O Globo, \"É falso vídeo que diz que diarista e manicure terão que abrir CNPJ e emitir NF\" (10/10/2026); Ato Conjunto RFB/CGIBS nº 6, de 28/08/2026. Print: InfoMoney.",
+  "fontes": [
+    {
+      "titulo": "InfoMoney/Agência O Globo — É falso vídeo que diz que diarista e manicure terão que abrir CNPJ e emitir NF (10/10/2026)",
+      "url": "https://www.infomoney.com.br/minhas-financas/e-falso-video-que-diz-que-diarista-e-manicure-terao-que-abrir-cnpj-e-emitir-nf/"
+    },
+    {
+      "titulo": "CGIBS — Ato Conjunto RFB/CGIBS nº 6, de 28/08/2026 (dispensa de CNPJ e documento fiscal do nanoempreendedor até 31/12/2028)",
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202608/28193542-ade-rfb-cgibs-n-6-28-8-2026-com-paragrafo-unico-assinado.pdf"
+    },
+    {
+      "titulo": "Jornal Contábil — Nanoempreendedor está isento de CNPJ e nota fiscal até 2028 (31/08/2026)",
+      "url": "https://jornalcontabil.com.br/noticia/nanoempreendedor-esta-isento-de-cnpj-e-nota-fiscal-ate-2028/"
+    }
+  ]
+}
