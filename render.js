@@ -620,19 +620,30 @@
     _lay(ctx, el) {
       const w = el.w ?? LARG_UTIL, pad = 26, tam = el.tam ?? 42, lh = 1.22;
       ctx.font = `400 ${tam}px ${SERIFA}`;
-      const linhas = [];
-      let atual = '';
-      for (const p of String(el.texto || '').split(/\s+/).filter(Boolean)) {
-        const t = atual ? atual + ' ' + p : p;
-        if (atual && ctx.measureText(t).width > w - 2 * pad) { linhas.push(atual); atual = p; } else atual = t;
+      const linhas = [], cabe = w - 2 * pad;
+      // \n quebra a linha; "R$ 104" não se separa (colarNumeros usa espaço inseparável, por isso só o espaço comum divide)
+      for (const par of colarNumeros(el.texto).split('\n')) {
+        let atual = '';
+        for (let p of par.split(/[ \t]+/).filter(Boolean)) {
+          while (ctx.measureText(p).width > cabe && p.length > 1) {   // palavra maior que a caixa: parte, sem vazar
+            if (atual) { linhas.push(atual); atual = ''; }
+            let k = p.length - 1;
+            while (k > 1 && ctx.measureText(p.slice(0, k)).width > cabe) k--;
+            linhas.push(p.slice(0, k)); p = p.slice(k);
+          }
+          const t = atual ? atual + ' ' + p : p;
+          if (atual && ctx.measureText(t).width > cabe) { linhas.push(atual); atual = p; } else atual = t;
+        }
+        if (atual) linhas.push(atual);
       }
-      if (atual) linhas.push(atual);
+      if (!linhas.length) return { w, larg: 0, pad, tam, lh, linhas, h: 0 };   // sem texto: nada de caixinha solta
       const larg = Math.min(w, Math.max(...linhas.map((l) => ctx.measureText(l).width), 0) + 2 * pad);
       return { w, larg, pad, tam, lh, linhas, h: linhas.length * tam * lh + 2 * pad - tam * (lh - 1) };
     },
     medir(ctx, el) { return this._lay(ctx, el).h; },
     desenhar(ctx, el) {
       const L = this._lay(ctx, el), x0 = (el.x ?? MARGEM) + (L.w - L.larg) / 2;
+      if (!L.linhas.length) return;
       ctx.save();
       ctx.fillStyle = '#ffffff'; retRedondo(ctx, x0, el.y, L.larg, L.h, 8); ctx.fill();
       ctx.fillStyle = '#111111'; ctx.font = `400 ${L.tam}px ${SERIFA}`; ctx.textAlign = 'center'; ctx.textBaseline = 'top';
@@ -961,7 +972,8 @@
     const limpo = (t) => String(t || '').replace(/\*\*|==/g, '').replace(/\s+/g, ' ').trim();
     const partes = [];
     for (const e of (slide && slide.elementos) || []) {
-      if (e.tipo === 'texto') partes.push(limpo(e.texto));
+      if (e.tipo === 'texto' || e.tipo === 'caixa_story') partes.push(limpo(e.texto));
+      else if (e.tipo === 'imagem') partes.push(e.alt ? limpo(e.alt) : 'Imagem');
       else if (e.tipo === 'noticia') partes.push(`Notícia, ${limpo(e.veiculo)}: ${limpo(e.manchete)}. ${limpo(e.linhaFina)}`);
       else if (e.tipo === 'manchetes') (e.itens || []).forEach((m) => partes.push(`${limpo(m.veiculo)}: ${limpo(m.manchete)}`));
       else if (e.tipo === 'citacao') partes.push(`${(e.citacoes || []).map(limpo).join(' ')} (${limpo(e.autor)})`);
