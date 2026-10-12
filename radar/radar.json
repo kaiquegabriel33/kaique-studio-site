@@ -1,13 +1,343 @@
 {
- "atualizado": "2026-10-11T18:59-03:00",
- "em_alta": [],
+ "atualizado": "2026-10-12T16:43-03:00",
+ "em_alta": [
+  {
+   "termo": "programa eleitoral sem som",
+   "trafego": "200+",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Programa de Flávio vai ao ar sem áudio e homenageia Nossa Senhora Aparecida; Lula também menciona santa",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/programa-de-flavio-homenageia-nossa-senhora-lula-tambem-menciona-santa.ghtml",
+     "veiculo": "G1"
+    },
+    {
+     "titulo": "Programa eleitoral de Flávio fica sem som, e candidato vê ação proposital",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/10/12/programa-eleitoral-de-flavio-fica-sem-som-e-candidato-ve-acao-proposital.htm",
+     "veiculo": "UOL Notícias"
+    },
+    {
+     "titulo": "Propaganda eleitoral de Flávio Bolsonaro é exibida sem áudio nesta segunda",
+     "url": "https://www.cnnbrasil.com.br/blogs/stevao-limana/eleicoes/propaganda-eleitoral-de-flavio-bolsonaro-e-exibida-sem-audio-nesta-segunda/",
+     "veiculo": "CNN Brasil"
+    }
+   ],
+   "publicado": "2026-10-12T12:10:00-07:00"
+  }
+ ],
  "pautas": [
   {
-   "id": "2e158956fe",
-   "titulo": "Agenda de mercados: inflação nos EUA e dados de atividade no Brasil são destaque",
-   "url": "https://valor.globo.com/financas/noticia/2026/10/11/agenda-de-mercados-inflacao-nos-eua-e-dados-de-atividade-no-brasil-sao-destaque.ghtml",
+   "id": "13731ac746",
+   "titulo": "Nobel de economia vai para estudiosos da estabilização macroeconômica",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/nobel-de-economia-vai-para-estudiosos-da-estabilizacao-macroeconomica.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T16:02:24+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nobel+economia+vai+para+estudiosos+estabiliza%C3%A7%C3%A3o+macroecon%C3%B4mica",
+   "veiculos": 12,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "O GLOBO",
+     "titulo": "Nobel de Economia vai para Robert E. Hall e Michael Woodford por estudos sobre como reduzir crises e inflação",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVpiYTlRZHlfN0NrU25IY2RWWEpXbjliUU1fbHRGQUNUdFJZQ3F3eWpNTzRxVm5heTU1Y3lSRFZfZHc1bTluX1paV25NQ0JvcUlRRDhxR3pXX0xRQlE2QTFnSjV5d0RpMk9val9PLXNYYlNta3U0U25WVWdVS0VncmpnSDFrV2xkYUpKRTUwM2pQSUZmXy1GV9IBpwFBVV95cUxNTHQ4VzJTNW14VkFnUzU1SGNfWTZXRjl0dFhkdmdBQ3lZZmxveE5zdFdUY0lQN0Z3TkFINTRuVU96VmJ5cnRMNVlKY1lMWnoyRENNQktRdzQ5aWRzb01UOVdWQUw5aWRrY09XeVJhT3FvMGpuU3lGNFJQZEJ2VjVfNjUxNmNQS3pYMV9kQW0tSXlaMFhvSXpPZVFGUm4wYlNTbGFmNHVyRQ?oc=5"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "Quem são Robert E. Hall e Michael Woodford, vencedores do Nobel de Economia 2026",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/quem-sao-robert-e-hall-e-michael-woodford-vencedores-do-nobel-de-economia-2026.shtml"
+    },
+    {
+     "veiculo": "O Popular",
+     "titulo": "Nobel de economia vai para estudiosos da estabilização macroeconômica",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPelczaEp4M3hRekdUN2pQRXRDT3dpSlB6OWY4Q1lKRlY0bUR5SDBjdUpEWkdJQ3p5WVNzTzA1R1hDbUlhaTVRNF9yemExVlIzNFJhYWRnQ1JVdUo0a2JxM1hzcW94dkMzcnFFV0d3cTNGUWVqemZSQ0dqT1gxRmpwYmVac0xSckhEWU1INE8xNnBqZXNpaG8yZUcyc0ZJdTFEOVZKYXJLQy1tbGE4bXVudDJn?oc=5"
+    },
+    {
+     "veiculo": "Bloomberg Línea Brasil",
+     "titulo": "Robert E. Hall e Michael Woodford recebem o Prêmio Nobel de Economia",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlJUTVRsdWhDa2ZCU3lYakt5RU5KU2FDdUdsX29yMG1MaXNtX3VtZ0lYLXh1LUVXbFBDSjRfc19LOGhFOUJ2eFpLVDQxNnVHVHAtVDYtS3BhWE1oVy1HZDJNUFJGMk1aNHdkTDh5bzhJX0VvcmtEMlZ5akhXM241R0Q0TjVoUVNFeGtsVFdmSWtibjJQbWZJZ2Y4T013OUhaUjZzMjNTTDBFTzNiWHBrcVNOdkN3aknSAcsBQVVfeXFMTm1BZWxBRlQ4WUpwYjRxZ3U0bmVHMFNUODZBNVhTYUVzZVNjb3otbTkyV1FWbDlYYl9oWVV4Uk5sbWhwZ2ViSy1COHlYcnc4Y3RxQTVGME1SV0VVVXNqZXVhNXYwbTN0VFdvOXozaTBNaXRtaXA2SnN1c2NXQlNMTE9VS0pUNXZ5ajhHTDZlSWFPYnJzWDFvVFdxMlNkZXJ3VE5BNGlvSHpKdUpWNVozdXdSQ2FBQVh2cllOdTNXRm5VQnBmS0hET292Wnc?oc=5"
+    }
+   ],
+   "score": 32.5
+  },
+  {
+   "id": "91ccfc68f8",
+   "titulo": "Crianças e adolescentes acumulam R$ 3,5 bi na Bolsa de Valores",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclFnTThvSEFaMVFUVjhudGQ4MlM5akFhNVVUbmRoQlhhLVNJM2ZmbkU0MGRSbkFqaFpGZUhmREJuczNYSmhnTEdqMVMzUXYxOHJRdFJnd1ozTTU3WUVhMEF0Y0hUTkwzOTRXRkhLMFF4em0ySFNxSFhJdGZDZmxGM25lT3BiNkxZRmlSb1g0YzVuVHF6OFdMNQ?oc=5",
+   "veiculo": "Monitor Mercantil",
+   "publicado": "2026-10-12T18:03:00+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Crian%C3%A7as+adolescentes+acumulam+3%2C5+Bolsa+Valores",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Crianças e adolescentes têm R$ 3,5 bilhões investidos na Bolsa, aponta B3",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUJ6dHd0STM1VFhyeWEtRmhfYlR1YmlZRkFZMGU1TG02ZUU1RU8xdUhHbGNhQjEzTTc4Y3NJb0t0aEZkRzExN1lZdEpwVzJDcGNVQ2ItNUdsZEgxSWkzdUwyaWlabjBrLVphWWlBZ0hmcTJOaEwxbTBnNHJMUVdkSFliZ1FmenQzRHYwVU8yRnJwWVF0RkhwLVU3c0F3R0E2dHFRZg?oc=5"
+    },
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Crianças e adolescentes têm R$ 3,5 bilhões investidos na Bolsa, aponta B3",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUJ6dHd0STM1VFhyeWEtRmhfYlR1YmlZRkFZMGU1TG02ZUU1RU8xdUhHbGNhQjEzTTc4Y3NJb0t0aEZkRzExN1lZdEpwVzJDcGNVQ2ItNUdsZEgxSWkzdUwyaWlabjBrLVphWWlBZ0hmcTJOaEwxbTBnNHJMUVdkSFliZ1FmenQzRHYwVU8yRnJwWVF0RkhwLVU3c0F3R0E2dHFRZg?oc=5"
+    },
+    {
+     "veiculo": "Suno - Investimentos Inteligentes",
+     "titulo": "Dia das Crianças: pequenos investidores já têm R$ 3,5 bilhões na bolsa",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEcycURqSkZtVkV2SEFLYXQ3b0RkOERaNllkYmdqbm5aNjVlSXd3eDQ0Z1ZMaFJBT0NPWW1LbXpDeDk4d3c2U21XYWwyRURnZXVQTVMyM3hvQ2Z5cWVYem8zcl9ib1VlTXk5dkVadW5MS1Rqd29fTUw4LUNXTXNVU9IBhgFBVV95cUxOLUdrb0tqOTJxRVRfN3I4V2VPalFRMGliOWlHXzZjU1hiUlhKNlpDbWRNQmRodGVveDJISkkxZWdKcjJVN0JGaUhqYVJPc3VpRjdmUG5xeFJsNDJKNlRmc05CVDhmLWl2UmloSWJRczk0R2xrbjNLV2FYdkVoc0pKMHpSLUpoQQ?oc=5"
+    },
+    {
+     "veiculo": "Band",
+     "titulo": "Mais de 60 mil crianças e adolescentes investem na Bolsa de Valores",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVIzVHhZWE9zelliZ3N1RkRoZkR6RGNPbjVHWVZTWUFDWVFsQ3lHRE41WjEtUUoyOWIyb3hLNDNiSndCRHFrQU9tdTZNcnRGVE96UGRVYUNoSkd5dVg0VXBYZ3RjYld2T1dFRWhPNVFIR0JPNi1YT0R2YkdoZldJdjFmeVlwQjBUNTUyWEFobEdCNm9iYlhvZFU4ckZHNTdua3c?oc=5"
+    }
+   ],
+   "score": 30.3
+  },
+  {
+   "id": "7b10fcbc81",
+   "titulo": "Lula x Flávio Bolsonaro: Duas novas pesquisas de 2° turno saem nos próximos dias",
+   "url": "https://www.moneytimes.com.br/duas-novas-pesquisas-de-voto-da-disputa-presidencial-no-2-turno-saem-nos-proximos-dias/",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-12T19:36:10+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+Fl%C3%A1vio+Bolsonaro+Duas+novas+pesquisas+turno+saem+nos",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "VEJA",
+     "titulo": "As quatro novas pesquisas eleitorais sobre a disputa entre Flávio e Lula no segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1JBVHlhekNMcGVwNjJrMVpnMDVtUFR6SnR0VjdsT0tfdUZMU3Z1NHQ3cVMyTTJaVC1GMHE4c25UbjMtNE1naWlmaWU2MjRSakg4SkVCdmxkb0RrelpQMGZQdjhzdEo5UDFKRG5HUF8tNzF0RFl1NGtXSUJlYXZMb3NfYXFtc1RrcHhoaWFyWjhYa0p3bXNUQ1QyS2xRYUdZb0kxMW1rZGhfc3pFOFBNY0JxMl85SWlObVVWS2E5eFU3VW8?oc=5"
+    },
+    {
+     "veiculo": "40graus.com.br",
+     "titulo": "Flávio Bolsonaro tem 50% contra 44% de Lula no 2º turno, aponta DataTrends",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjhuTlE5S0NNN0VlYjhXMU1EUUdUVlVLbkVDNFlXUmk3WDFIcVF3dE1MamFqWjNBZ3BNdlN6U1JBYVlvVmdYZ0N1QVkycUlwN3ljZGZkNnlydG9CV0h4WDBGQ3d3N0RZSmlSY2tFUElEbS03eGthS1hTRS1udTliWVZUaVpSLWs?oc=5"
+    },
+    {
+     "veiculo": "Se Ligue Bahia",
+     "titulo": "Pesquisa DataTrends aponta Flávio Bolsonaro 6,2 pontos à frente de Lula no 2º turno",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzV3ZVNjc2FVUG0xUUNrUlE4MGg0ak02dEZTT0l4S1ladmZ1Z1JTcUEteXh1RmdZNDJ0ZXQ5UTNCZERHZ2NUdmxnMWhxUGZKY0dyMU9HQ2pnYjdSMHlrSUxxcmZOZU5ZWnNvd0dZTGoyb1FEMUJqRXhjWktITjJtWW9XS3NEMnF6RjZUYlkxWXA5X3Z4bUZfTVptMXpKRWJyei1lQjNFUmxzOFp6dTVYbFlLNG9aSG1YdmFSaQ?oc=5"
+    }
+   ],
+   "score": 27.9
+  },
+  {
+   "id": "aae44e84c3",
+   "titulo": "Lula acusa Flávio Bolsonaro de mentir sobre propostas econômicas",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-acusa-flvio-de-mentir-sobre-propostas-econmicas.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-11T21:33:34+00:00",
+   "publicado": "2026-10-12T10:44:00-03:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+acusa+Fl%C3%A1vio+Bolsonaro+mentir+sobre+propostas+econ%C3%B4micas",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Folha",
+     "titulo": "O que Flávio Bolsonaro e Lula propõem sobre o funcionalismo público",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/o-que-flavio-bolsonaro-e-lula-propoem-sobre-o-funcionalismo-publico.shtml"
+    },
+    {
+     "veiculo": "BBC",
+     "titulo": "O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQZ1ZIUkFfNTlDQmh2UmxSMnFzOGJNQ0s0cHFlSWVOZ29nY1hoM25iMHJWaTE2c2FnellKLUtOY1lnV2pxTm41RThyQVViS0VXSExpOXVzbEtxbXFmMzd4MklaTQ?oc=5"
+    },
+    {
+     "veiculo": "O GLOBO",
+     "titulo": "Contas que não fecham: plano genérico de Flávio Bolsonaro e gradualismo de Lula deixam dúvida sobre Orçamento",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV3ZxMDJFV0NER3otZnNkRVhfdWdZVWtQMzNxYTRDQlptaHJiSzN4bWxBUDdqRllCWDdobnVKV1AxeGFQOVZvSjVmSnphN3ZrN1VyWkh6cnktbkF2aXhHWkd1NkNHOUVxVGRqdnhxSnIwSEpPRkxRRmpnaUlTTGo2UExrREljdHVTTFU2TEVzY0VEc05qaFo1RTdXNDQ3UkNxY3FBamt4XzhwOHdCbVBKUml1Vi1SLVlpNWVOMU1aZzJGTkstUGdTT1BvNjNzQ0ZHbEQzd3ptVi1QNkhRVGFOa3Q2eHdrZkVtM0VoRkx30gH8AUFVX3lxTFA1cl80Y1Z5Q2doWDFPUDV4REtoM2JPOGgyeTd2MWdwU01BajR3V0FtU2pVelpxWTA2QmlKV3BOb1NQTm1KUXM4bXhiSThyUUhaQ2tUZUQwV0NxT0ctc3EwVmoxc2tNZ24wVW1NREhpa3d5TVpRYllweEtueWo3MFdDZlRiYjNycVktX1B0SDBSTFZKN0JBb1VXeTVpSlNnVndqYk5vdm9CbFdxNVZvMDlzWFBsWTlzUWZ1SWtHVjJTTS1aajVkNFg4MjZ6R2FrcEFCejdxZ09jczBIZDF6WElqeF82eHo4NElUQk1lRmtlOW40NEhTSW5fUm52dw?oc=5"
+    },
+    {
+     "veiculo": "O GLOBO",
+     "titulo": "Contas que não fecham: plano genérico de Flávio Bolsonaro e gradualismo de Lula deixam dúvida sobre Orçamento",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV3ZxMDJFV0NER3otZnNkRVhfdWdZVWtQMzNxYTRDQlptaHJiSzN4bWxBUDdqRllCWDdobnVKV1AxeGFQOVZvSjVmSnphN3ZrN1VyWkh6cnktbkF2aXhHWkd1NkNHOUVxVGRqdnhxSnIwSEpPRkxRRmpnaUlTTGo2UExrREljdHVTTFU2TEVzY0VEc05qaFo1RTdXNDQ3UkNxY3FBamt4XzhwOHdCbVBKUml1Vi1SLVlpNWVOMU1aZzJGTkstUGdTT1BvNjNzQ0ZHbEQzd3ptVi1QNkhRVGFOa3Q2eHdrZkVtM0VoRkx30gH8AUFVX3lxTFA1cl80Y1Z5Q2doWDFPUDV4REtoM2JPOGgyeTd2MWdwU01BajR3V0FtU2pVelpxWTA2QmlKV3BOb1NQTm1KUXM4bXhiSThyUUhaQ2tUZUQwV0NxT0ctc3EwVmoxc2tNZ24wVW1NREhpa3d5TVpRYllweEtueWo3MFdDZlRiYjNycVktX1B0SDBSTFZKN0JBb1VXeTVpSlNnVndqYk5vdm9CbFdxNVZvMDlzWFBsWTlzUWZ1SWtHVjJTTS1aajVkNFg4MjZ6R2FrcEFCejdxZ09jczBIZDF6WElqeF82eHo4NElUQk1lRmtlOW40NEhTSW5fUm52dw?oc=5"
+    }
+   ],
+   "score": 25.5
+  },
+  {
+   "id": "8dcbdf1065",
+   "titulo": "Wall Street opera mista com alta dos preços do petróleo, de olho em balanços e dados",
+   "url": "https://www.moneytimes.com.br/wall-street-opera-mista-com-alta-dos-precos-do-petroleo-de-olho-em-balancos-e-dados/",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-12T19:22:27+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Wall+Street+opera+mista+com+alta+dos+pre%C3%A7os+petr%C3%B3leo%2C",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Terra",
+     "titulo": "Wall Street opera mista com alta dos preços do petróleo, de olho em balanços e dados",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQT1RUcWQ3aEdjbTAtN2JXdXRSRzZhdmRLb3NscjFYTmwtaE5zNElKcTJFbC1wMDFrT1M1ZUNYZmtqOTdYUV8xeFhkRmRUbHB1Umd2VXRFTVpPSjZyM2Q5ZzU3Tno3VWxTcVJ5Nmt5dlFGTUY3UVBYbUNVSGhyeXJwbnlzS3pUSTVEemNWSTFCMmpsUThwS3FuTDlOcUdTbUlTalBGaTgxOUtRMFY1ZVVtSmd1OVZ3aGVHVndwNmU5UE92OWVkbmZXbUNDX1VnM1dLQ1o1Ti1McGs4VlNDWlVWQzZENFc1dllLenhKT2NIN3RxOHZpNmZDcGhYdDE1N0U?oc=5"
+    },
+    {
+     "veiculo": "Agora Litoral",
+     "titulo": "Wall Street opera estável com cautela para balanços e CPI",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0hieGF2Q2haSmppVUJqMFdoemNUc2VMdmtRQmdzdHV6cXJoYURBM1ZGem5jRldjWHBueFFwV0RiNDJ1Qk1FUDRKZ1g2Y0psbFZGU3lVY1owWU91OWpxT0FMSlpDOGtDQTIzR0tQLUlSRGJUdW84Um9rQlFiQjdFOFNfTldocXRHUWR0enhrdDdqZTk2WGFfRThNa2NJQQ?oc=5"
+    },
+    {
+     "veiculo": "Agora Litoral",
+     "titulo": "Wall Street opera estável com cautela para balanços e CPI",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0hieGF2Q2haSmppVUJqMFdoemNUc2VMdmtRQmdzdHV6cXJoYURBM1ZGem5jRldjWHBueFFwV0RiNDJ1Qk1FUDRKZ1g2Y0psbFZGU3lVY1owWU91OWpxT0FMSlpDOGtDQTIzR0tQLUlSRGJUdW84Um9rQlFiQjdFOFNfTldocXRHUWR0enhrdDdqZTk2WGFfRThNa2NJQQ?oc=5"
+    }
+   ],
+   "score": 24.9
+  },
+  {
+   "id": "42b71133c8",
+   "titulo": "Flávio Bolsonaro vai visitar o pai após Moraes liberar reencontro",
+   "url": "https://exame.com/brasil/flavio-bolsonaro-vai-visitar-o-pai-apos-moraes-liberar-reencontro/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-12T19:09:43+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+vai+visitar+pai+ap%C3%B3s+Moraes+liberar+reencontro",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Flávio Bolsonaro comemora decisão de Moraes e deve visitar o pai nesta terça (13)",
+     "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-comemora-decisao-de-moraes-e-deve-visitar-o-pai-nesta-terca-13/"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Flávio comemora decisão de Moraes e diz que visitará Jair Bolsonaro nesta terça-feira",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/flavio-comemora-decisao-de-moraes-e-diz-que-visitara-jair-bolsonaro-nesta-terca-feira.ghtml"
+    }
+   ],
+   "score": 24.8
+  },
+  {
+   "id": "41f5d86a21",
+   "titulo": "Flávio Bolsonaro eleito? Expectativa após 1° turno derruba dólar abaixo dos R$ 5 e coloca estas 4 ações no radar dos bancões",
+   "url": "https://www.seudinheiro.com/2026/bolsa-dolar/flavio-bolsonaro-eleito-expectativa-apos-1-turno-derruba-dolar-abaixo-dos-r-5-e-coloca-estas-4-acoes-no-radar-dos-bancoes-bdap/",
+   "veiculo": "Seu Dinheiro",
+   "publicado": "2026-10-12T16:03:52+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+eleito+Expectativa+ap%C3%B3s+turno+derruba+d%C3%B3lar+abaixo",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Flávio Bolsonaro eleito? Expectativa após 1° turno derruba dólar abaixo dos R$ 5 e coloca estas 4 ações no radar dos bancões",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOa2IwbkFjVWxqdW9oZXVIRDZnOEw3X2s2SXNrb0RPemxmdFRqNGxLUmVtR0FTdnFsYlhqdm9peGxWaDJKdkJfRnY3WnoyZDZYa3UtZmdCSW9xazdnZ08xbGNJQUd0UmxQQkw3YzdfR1NETE9zSjlMRl8wMk5TcTNMSThUMUJpZTlGc205TDRuSzBSLVRkUHd3WFlpTDljRV9UVy1hMG4xdGlEMUJvLWhyYXpzS1g4VHlFemt0WGZTaFRVV09mR0M4d05Sa3BrY0hJOHVTYnEtZXQtaTBPUk5DNG9MT0xkOXg2cXVRdGU1OThsRndheGlxT2g1QXNoeVd3dkE?oc=5"
+    },
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Flávio Bolsonaro eleito? Expectativa após 1° turno derruba dólar abaixo dos R$ 5 e coloca estas 4 ações no radar dos bancões",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOa2IwbkFjVWxqdW9oZXVIRDZnOEw3X2s2SXNrb0RPemxmdFRqNGxLUmVtR0FTdnFsYlhqdm9peGxWaDJKdkJfRnY3WnoyZDZYa3UtZmdCSW9xazdnZ08xbGNJQUd0UmxQQkw3YzdfR1NETE9zSjlMRl8wMk5TcTNMSThUMUJpZTlGc205TDRuSzBSLVRkUHd3WFlpTDljRV9UVy1hMG4xdGlEMUJvLWhyYXpzS1g4VHlFemt0WGZTaFRVV09mR0M4d05Sa3BrY0hJOHVTYnEtZXQtaTBPUk5DNG9MT0xkOXg2cXVRdGU1OThsRndheGlxT2g1QXNoeVd3dkE?oc=5"
+    }
+   ],
+   "score": 24.5
+  },
+  {
+   "id": "f16e065466",
+   "titulo": "Hammack, do Fed, defende que o banco central não adie novos aumentos nos juros",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/12/hammack-do-fed-defende-que-o-banco-central-no-adie-novos-aumentos-nos-juros.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T18:17:34+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Hammack%2C+Fed%2C+defende+que+banco+central+n%C3%A3o+adie+novos",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Hammack, do Fed, defende que o banco central não adie novos aumentos nos juros",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRDlzQVo0ZmEyOGlBay1yRUlhZTVwNG4zSm5lQW1fX1g0VTBReE5iMUJvbTBuVU5rU2VFR2FtSkhXbHUxTTYzbWtRbHZIU3pXNDRGMkVjelRuaHl0c0Y1TEpTcmdKUVV1azVrV0djYWxKejZxd1EwNElOeW1LZEx4bndsSm5xa3UtSTEzTGd3dHNKR3ItOWR5cWt5UkdjNWF6Vm0xRHJFa3dVdUhOR1dIN0UzMDNxSTJsTG0wZzc4ckRySkhua3ptb25oLUFKUdIB3AFBVV95cUxQbnpNdHpCMlQ2QkgxM1BwZUdrc3BHb3NWcnhUX1JoS2o4V0JJTXE3WXVfanZFX1B2NlQyak43bzdBQ0xRN3Y3ZENxZGZmekNXa0pnVE84bk43cl82VDdHanNtUGRhRHBvckdjSjNFaTRtN3JSeHRtT1hISW9XZ3NRdWRGenBuNmxWZEFscE11X0lka3NPc1IydjIzY0Zib3lhMnoxWGRSNmdqRTFaSmJkbEdqVnhmeHFoV2pWSnBfX3hHbG1yVG1RMFhxa1FQTkhYUWRSRmFzd1U3Q2tX?oc=5"
+    }
+   ],
+   "score": 24.4
+  },
+  {
+   "id": "29428bd41f",
+   "titulo": "Bolsas sobem na Europa com impulso de bancos e apesar de avanço nos preços do petróleo",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/12/bolsas-sobem-na-europa-com-impulso-de-bancos-e-apesar-de-avanco-nos-precos-do-petroleo.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T18:02:15+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Bolsas+sobem+Europa+com+impulso+bancos+apesar+avan%C3%A7o+nos",
+   "veiculos": 8,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Bolsas da Europa sobem à espera de balanços e conflitos",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPams0UUJrS3U5V01zNmx2R1Vwa2ZvTnFwR3VhZTNkSnlzamRlMHlqNWZCdWh4S1p6aDA3SHZJSU5OTm55M2NjSFVVOUFBazYwclN2b0lpTmJFdEFoV0ZxT0VLaVMwU3dLUG93ZXItMVRWTWZ6b2ttRDE0VTNva2pmYXE2eFpWSHgtanZkb09TZzJ2Rk0?oc=5"
+    },
+    {
+     "veiculo": "Tribuna do Sertão",
+     "titulo": "Bolsas da Europa fecham em alta, à espera de balanços e com conflitos geopolíticos no radar",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTnE5aHZFcEMtTjJ2Uklzc2N4ckhxM3huMGRVX29zMDNQWTJTX1JpWU9vSDhXNVJIai1CWGxxMEZiX05SZWtFXzRxSDhjYVFMQXBwZ1MyUHhmb08wWlJNZmplWmhaa1NET1NFSVQ2Z0RnS2l6Qi1jUWlFQ3FkQUptLTRYWTRmR0RUOVEteHdVUjRTamJCWXpmUGJQODZWMWdmcFJNWUxmTHBVZ1BxRlhjUFl4czMxYUcwbE9nVzJaUWw0RG0zSlpfMFI0ekJpZ2xpcWtfaW9zSHI1NzdiUFMzaDhkNA?oc=5"
+    },
+    {
+     "veiculo": "Gazeta Mercantil",
+     "titulo": "Bolsas europeias sobem com bancos em alta e expectativa por balanços trimestrais",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3JId2J0ZFJMbDBfZkxiYVVJdDVzd25md0NuVm45VkdmMjVUWmxRLWtIM3dZMHoxRUVJRC1sdG9QaGlfOHp4RzQtcXVYVHN4MzFJYkNLQV92UUE2R2R3TVQyOGg0QjVGb1pkSkIyWG5qMGc2M3VCWTBfTEQwX19JX2hYS1pIQ1VF?oc=5"
+    },
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Bolsas europeias sobem com força dos bancos e expectativa por balanços trimestrais",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemxva1lDb1FKell5bkZOS0diS19ObVB6ajNHWDNIUmoxb0UwYjV4bWFCLXpPWGtPb3N5RklMWVc3Y25rbWJXbE1tVXQ3WXUyd2h3VjBaRE5BUm9rSlR3Z3JwbEc0MkxTOXBNWjlVenBjME9qd21YN0N5NDBoWXktMUFBZzc3VVNKLWRCUE12TVZXd1hMS1dNcVJ6TWhuMTJYTUw0?oc=5"
+    }
+   ],
+   "score": 24.3
+  },
+  {
+   "id": "cb010d36ce",
+   "titulo": "Além do Planalto: como a eleição para o Congresso pode afetar impostos, empresas e dinheiro público",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/12/alem-do-planalto-como-a-eleicao-para-o-congresso-pode-afetar-impostos-empresas-e-dinheiro-publico.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-10-12T09:55:50+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -15,71 +345,245 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Agenda+mercados+infla%C3%A7%C3%A3o+nos+EUA+dados+atividade+Brasil+s%C3%A3o",
-   "veiculos": 4,
+   "busca_video": "https://www.youtube.com/results?search_query=Al%C3%A9m+Planalto+como+elei%C3%A7%C3%A3o+para+Congresso+pode+afetar+impostos%2C",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "BlockTrends",
-     "titulo": "Inflação nos EUA e prévia do PIB brasileiro dominam a agenda econômica da semana de 12 a 16 de outubro",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xTHh6aDZBMElMdHM3dFBoeVE1N3h0UXZvTmN2OXVrcHpXSTdjczZyWGdXR2pENzFocE4wa1p2MzIxN01McWpTTXpCdHViaEJyQlhQbURQMk9sVWtpWEZHWGF1RndJR2s5ek1WY2VnYWdCQ1Nl?oc=5"
-    },
-    {
-     "veiculo": "BlockTrends",
-     "titulo": "Inflação nos EUA e prévia do PIB brasileiro dominam a agenda econômica da semana de 12 a 16 de outubro",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xTHh6aDZBMElMdHM3dFBoeVE1N3h0UXZvTmN2OXVrcHpXSTdjczZyWGdXR2pENzFocE4wa1p2MzIxN01McWpTTXpCdHViaEJyQlhQbURQMk9sVWtpWEZHWGF1RndJR2s5ek1WY2VnYWdCQ1Nl?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Agenda da semana: inflação dos EUA, varejo brasileiro e IBC-Br movimentam mercados",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1JtZnY2LXQwYzJ0VzRZdUk1aDREYzdSNU1QeGlwUzJYZHJvdzE1d213eEUzWlFUMktEUnZkdkJhS0xOVThFbnhGcU5KcEM3eW1XZjFNUHN3Z2dXZXRMZWVKdlFGRjR1cUtlU1UxS0xMeFBHQjI1NzNhaTFST09qNVlBUVVYY1BCNFBuV0tKR0YzMTU1UmJUN0hfWDctbEtiSmt0M0FoX2tSYUhXbGtJY0N3?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Agenda: Mercado espera por prévia do PIB e inflação nos EUA esta semana; confira os indicadores",
-     "url": "https://www.moneytimes.com.br/agenda-mercado-espera-por-previa-do-pib-e-inflacao-nos-eua-esta-semana-confira-os-indicadores-jcav/"
+     "veiculo": "Imirante.com",
+     "titulo": "Como a eleição para o Congresso pode afetar impostos, empresas e dinheiro público",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzJYTnhsemVIUHRwRUpsS2Nvcy1mNHp4SHZLQU9oYUpQWVQtNDBwS0JGWTUydWRfSmZOcmdhTlY0M3JiVXRGdUxrZGVoYUJISUZoWHBBdm1UbTFZaVlZLXozWS1fSW4tVFB5bE1iNmhMQlgwbXlZNnVYcFJHMmw1ZUtTNjBJeS1kWm15MWdiVHFoMWZ6UWh5OVVZLUZJSkFhQUd1bkVWbUFEdDc50gGsAUFVX3lxTE93MlhOeGx6ZUhQdHBFSmxLY29zLWY0enhIdktBT2hhSlBZVC00MHBLQkZZNTJ1ZF9KZk5yZ2FOVjQzcmJVdEZ1TGtkZWhhQkhJRmhYcEF2bVRtMVlpWVktejNZLV9Jbi1UUHlsTWI2aExCWDBteVk2dVhwUkcybDVlS1M2MEl5LWRabXkxZ2JUcWgxZnpRaHk5VVktRklKQWFBR3VuRVZtQUR0Nzk?oc=5"
     }
    ],
-   "score": 31.8
+   "score": 23.9
   },
   {
-   "id": "bb45ce7365",
-   "titulo": "Corregedor do TSE libera canal “Exército do Lula” de Janones",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/corregedor-do-tse-libera-canal-exercito-do-lula-de-janones/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-11T21:33:14+00:00",
+   "id": "210f79c2eb",
+   "titulo": "Área técnica do TSE vê riscos, mas não acha fake news no canal ‘Exército do Lula’",
+   "url": "https://www.infomoney.com.br/politica/area-tecnica-do-tse-ve-riscos-mas-nao-acha-fake-news-no-canal-exercito-do-lula/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-12T19:30:00+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Corregedor+TSE+libera+canal+Ex%C3%A9rcito+Lula+Janones",
+   "busca_video": "https://www.youtube.com/results?search_query=%C3%81rea+t%C3%A9cnica+TSE+riscos%2C+mas+n%C3%A3o+acha+fake+news",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Exame",
+     "titulo": "Assessoria do TSE diz que não encontrou fake news apontadas por Flávio em canal de Lula",
+     "url": "https://exame.com/brasil/assessoria-do-tse-diz-que-nao-encontrou-fake-news-apontadas-por-flavio-em-canal-de-lula/"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "TSE diz não ter identificado fake news apontadas por Flávio Bolsonaro no canal 'Exército do Lula'",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/tse-diz-nao-ter-identificado-fake-news-apontadas-por-flavio-bolsonaro-no-canal-exercito-do-lula.ghtml"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Kassio manda assessoria do TSE identificar possíveis fake news do 'Exército de Lula'",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/kassio-manda-assessoria-do-tse-identificar-possiveis-fake-news-do-exercito-de-lula.ghtml"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Nunes Marques atende pedido de Flávio Bolsonaro e suspende canal 'Exército do Lula'",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/nunes-marques-atende-pedido-de-flvio-e-suspende-canal-do-whatsapp-exrcito-do-lula.ghtml"
+    }
+   ],
+   "score": 22.9
+  },
+  {
+   "id": "0ce2b63854",
+   "titulo": "Inflação oficial de setembro fica em 0,82%, mostra IBGE",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0ZSY3FqNlJJeDVDU09ucEZxWUlwX3BBQzJjanpqNVU2UG5nd3Myc2J5dnBZUUNqd2Z0bXozQVg4ZDVSRGNjMUl1NW9LUVZQWE0tUUd1VG4wN1lfQ3RQOHJuZE5XLTNzd1RadDVfTnJCR0dscENEbzVZZHhGUG9VeE9ybnpwbGh2MW40?oc=5",
+   "veiculo": "Rádio Araranguá FM 95.5",
+   "publicado": "2026-10-12T13:30:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Infla%C3%A7%C3%A3o+oficial+setembro+fica+0%2C82%25%2C+mostra+IBGE",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Portal Obidense",
+     "titulo": "Inflação sobe para 0,82%, maior índice em 6 meses, mostra IBGE",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS051bTRuRDRGRU55a3RWRTBZRDVVcklaaHFUaWFZRjlDY3p1TEJSWUFfYTlyVjBacy1qZm0zSks2S3JQRnVqTmpTYmJDdjJYS0FKc0FkSlBaakdoVmhrWVRmVThjQmMzUU9mTU1hbnN6VVBtZ1U0YUFTWTY4d2c5Sy1tY1RqYk5OTGx3M0Y2Yk1EeV9ScFh1aGJnZTktLUdha3c?oc=5"
+    },
+    {
+     "veiculo": "Portal Obidense",
+     "titulo": "Inflação sobe para 0,82%, maior índice em 6 meses, mostra IBGE",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS051bTRuRDRGRU55a3RWRTBZRDVVcklaaHFUaWFZRjlDY3p1TEJSWUFfYTlyVjBacy1qZm0zSks2S3JQRnVqTmpTYmJDdjJYS0FKc0FkSlBaakdoVmhrWVRmVThjQmMzUU9mTU1hbnN6VVBtZ1U0YUFTWTY4d2c5Sy1tY1RqYk5OTGx3M0Y2Yk1EeV9ScFh1aGJnZTktLUdha3c?oc=5"
+    },
+    {
+     "veiculo": "Prensa Mercosur",
+     "titulo": "Inflação sobe 0,82% em setembro após queda registrada em agosto, diz IBGE",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTdRVV84VDA1ZUZNZVdGT21fUHFMbENGU2JNQWs2MXJsV25VM1JxYlI5XzZLTjA1RzM2LTVWcllmVXZqemlfUzBVcGxtdC10aElPUmRSUWdmSUNjcnZTQjFPRFBPbkV6TktuUEVLbWthWWJ1amprTlUzeEh0LXQ1bWRNbXZnd3ctNzg3NV9MRC1PSGFjZVNkbU9JendYc0JnUDZSd3NSSlVVcmNtcnc?oc=5"
+    }
+   ],
+   "score": 22.4
+  },
+  {
+   "id": "90c550a47a",
+   "titulo": "Temporada 3T26: XP vê lucros do S&P 500 crescendo 31%, mas avanços concentrados em 2 setores",
+   "url": "https://www.moneytimes.com.br/temporada-3t26-xp-ve-lucros-do-sp-500-crescendo-31-mas-avancos-concentrados-em-2-setores/",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-12T19:18:03+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Temporada+3T26+lucros+500+crescendo+31%25%2C+mas+avan%C3%A7os+concentrados",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.8
+  },
+  {
+   "id": "198fc413c4",
+   "titulo": "Flávio Bolsonaro reclama de propaganda sem áudio na TV e cobra esclarecimentos",
+   "url": "https://exame.com/brasil/flavio-bolsonaro-reclama-de-propaganda-sem-audio-na-tv-e-cobra-esclarecimentos/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-12T19:01:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+reclama+propaganda+sem+%C3%A1udio+cobra+esclarecimentos",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Flávio Bolsonaro reclama de propaganda eleitoral exibida sem som; TSE abre investigação",
+     "url": "https://www.moneytimes.com.br/flavio-bolsonaro-reclama-de-propaganda-eleitoral-exibida-sem-som-nao-vao-calar-minha-voz-igdl/"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "TSE diz que está apurando transmissão sem som de propaganda de Flávio na televisão",
+     "url": "https://www.infomoney.com.br/politica/tse-diz-que-esta-apurando-transmissao-sem-som-de-propaganda-de-flavio-na-televisao/"
+    }
+   ],
+   "score": 21.7
+  },
+  {
+   "id": "81aa443ac0",
+   "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-votacao-do-fim-da-6x1-antes-do-segundo-turno-ja-esta-acordada-com-alcolumbre.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T11:45:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+vota%C3%A7%C3%A3o+fim+6x1+antes+segundo+turno",
    "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Poder360",
-     "titulo": "Campanha de Flávio critica decisão que libera canal “Exército de Lula”",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-critica-decisao-que-libera-canal-exercito-de-lula/"
+     "veiculo": "Notícias ao Minuto Brasil",
+     "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dnb0xIckF5bUJsZlpTWVoxdzd3VXFVa0piZ3JwaG9Vck4teV9MeTlpV19VNWxLZjE2YjVQSXNpZ005eWZ4NFY2dVZkaXozelVjNWNxWlZ3Mkk5RjJFWFlMLXY3OVBYczA1c2Y3YW50VVdjN2U4YXo4bnNkMGRnUGRBVENJaVJOOEEzQWtYTGV2M0MyZ3dmaHRuM1ZQR2FvZDRNcU10TmlSdlEtUzNGb2NHZmtsdUJQM0w4akUzdUlRZDNvQllRTklMemVMMkpaeTFRUTZBZmJtUQ?oc=5"
     },
     {
-     "veiculo": "Exame",
-     "titulo": "Corregedor do TSE revoga suspensão de Nunes Marques e mantém 'Exército do Lula' no ar",
-     "url": "https://exame.com/brasil/corregedor-do-tse-revoga-suspensao-de-nunes-marques-e-mantem-exercito-do-lula-no-ar/"
+     "veiculo": "SWI swissinfo.ch",
+     "titulo": "Lula aposta no fim da escala 6x1 de olho no segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHF4UXV3RXFCdHR3bVAwSHg5UzRLSmJza2tPWDAwR3F2aDYzdzB2dUlGM3FFcGFUSWxNeFh1NVpoVzZzR3p2WUEwVXNJeHU0cEJYTFVUek5EeFJwSUNONFJsTkxHMTVPTkxxbWRlZmRrdS1vMnBQVW5YQk5EVndvaExFc3JGa2pUczY5bzNId3VNT1BGLVNJbHlKcw?oc=5"
     },
     {
      "veiculo": "Valor",
-     "titulo": "Relator no TSE derruba decisão de Nunes Marques e mantém canal de Whatsapp 'Exército do Lula' no ar",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/relator-no-tse-derruba-decisao-de-nunes-marques-e-mantem-canal-de-whatsapp-exercito-do-lula-no-ar.ghtml"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Lula critica decisão do TSE sobre canal no WhatsApp e fala em medidas 'tendenciosas'",
-     "url": "https://exame.com/brasil/lula-critica-decisao-do-tse-sobre-canal-no-whatsapp-e-fala-em-medidas-tendenciosas/"
+     "titulo": "Lula diz que votação do PEC do fim da escala 6x1 antes do segundo turno está ‘conversada’ com Alcolumbre",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-diz-que-votao-do-pec-do-fim-da-escala-6x1-antes-do-segundo-turno-est-conversada-com-alcolumbre.ghtml"
     }
    ],
-   "score": 27.8
+   "score": 21.7
+  },
+  {
+   "id": "7927f891e2",
+   "titulo": "Moraes autoriza Flávio a voltar com visitas a ex-presidente Bolsonaro",
+   "url": "https://valor.globo.com/politica/noticia/2026/10/12/moraes-autoriza-flavio-a-voltar-com-visitas-a-ex-presidente-bolsonaro.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T13:46:08+00:00",
+   "temas": [
+    "comportamento",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Moraes+autoriza+Fl%C3%A1vio+voltar+com+visitas+presidente+Bolsonaro",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BBC",
+     "titulo": "Por que Alexandre de Moraes decidiu autorizar visitas de Flávio a Jair Bolsonaro após 3 meses de proibição",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0X3VGWVc2Q0hHdTRjd2dZZHh4azF2ck95SVNkLWh3czM1SDlkekRTMkRHS2lDVHNDc243WGVDQUxVZmFTcWRIbjU5YVJral82RDI3bWMtRWJxLUhSMmc3bF9lWFF2VUZy0gFoQVVfeXFMUHRfdUZZVzZDSEd1NGN3Z1lkeHhrMXZyT3lJU2QtaHdzMzVIOWR6RFMyREdLaUNUc0NzbjdYZUNBTFVmYVNxZEhuNTlhUmtqXzZEMjdtYy1FYnEtSFIyZzdsX2VYUXZVRnI?oc=5"
+    }
+   ],
+   "score": 21.5
+  },
+  {
+   "id": "5f50579c6d",
+   "titulo": "Hammack, do Fed, defende política monetária restritiva para conter inflação",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjd3aWVPb3lpbl9KaV9LR2Qxd3JucTZNRElRdGg5XzdRWmxUZzZUaWFDeGJSTldISzc3NHM1R3Z1cnlvcmJ5LVdRUGNTUWFfdm1nd1JsZ19VcW80YWlyWW9tX1loLXRNem5kN0lIZFdmX2FkVGdLZWp1RU1kOFNqalpkVl9jYXdRc3ByWW5JNEZyZVdpdEZ4bk42RjZaazVqSjN3aW83T1JmbGdIWkhCUmUzaDhidDZDdlFfUGxHN0VtUQ?oc=5",
+   "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "publicado": "2026-10-12T17:19:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Hammack%2C+Fed%2C+defende+pol%C3%ADtica+monet%C3%A1ria+restritiva+para+conter+infla%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.0
+  },
+  {
+   "id": "a4cf0ef20c",
+   "titulo": "Queda do dólar: Veja 4 ações que podem ganhar com o real mais forte",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazJyX2JaODJKNWNKMjRMZWYybHZMVmNOZTB1RkVqUEd5ODhaaHduVTBnM3NUenpsWElzZmFrLXBMMFNJTGh5STFQQ2xuUFhzWHpiOWdRU3RDVnN2R19FaHpFZjVfaUdXeGotbEY2QVVRenpJaWNxQUp5dVBhTXhIeUdXZkk3a0pjRHB1dHd6SUNNcHduUEZoVldCVQ?oc=5",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-12T12:33:28+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Queda+d%C3%B3lar+Veja+a%C3%A7%C3%B5es+que+podem+ganhar+com+real",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BlockTrends",
+     "titulo": "Dólar abaixo de R$ 5 após eleições de 2026: quais ações se beneficiam do real mais forte no Brasil",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU9JLUViQ21CUFhqRHlLWTRueFBjZmx0WmV6di1MbmRiU3AyOHVLVXpMV09TQWd5NlcxSzI3bHJEM1BKSFdCbmhCVERJcUVMX0RjSFppOEpfMjNYRXVNWDRYY1FubS1iUWVfUmNOTmk0d01KaUxCUTZqMm81TlhiZGw1UUlPUQ?oc=5"
+    },
+    {
+     "veiculo": "BlockTrends",
+     "titulo": "Dólar abaixo de R$ 5 após eleições de 2026: quais ações se beneficiam do real mais forte no Brasil",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU9JLUViQ21CUFhqRHlLWTRueFBjZmx0WmV6di1MbmRiU3AyOHVLVXpMV09TQWd5NlcxSzI3bHJEM1BKSFdCbmhCVERJcUVMX0RjSFppOEpfMjNYRXVNWDRYY1FubS1iUWVfUmNOTmk0d01KaUxCUTZqMm81TlhiZGw1UUlPUQ?oc=5"
+    },
+    {
+     "veiculo": "BlockTrends",
+     "titulo": "Dólar abaixo de R$ 5 após eleições de 2026: quais ações se beneficiam do real mais forte no Brasil",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU9JLUViQ21CUFhqRHlLWTRueFBjZmx0WmV6di1MbmRiU3AyOHVLVXpMV09TQWd5NlcxSzI3bHJEM1BKSFdCbmhCVERJcUVMX0RjSFppOEpfMjNYRXVNWDRYY1FubS1iUWVfUmNOTmk0d01KaUxCUTZqMm81TlhiZGw1UUlPUQ?oc=5"
+    }
+   ],
+   "score": 21.0
   },
   {
    "id": "a4ddad57f6",
@@ -98,965 +602,567 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 27.8
+   "score": 21
   },
   {
-   "id": "c325b5ccdc",
-   "titulo": "Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana",
-   "url": "https://www.moneytimes.com.br/ibovespa-nas-alturas-com-ajuste-fiscal-banco-do-brasil-bbas3-em-queda-e-as-promessas-de-flavio-os-destaques-da-semana/",
-   "veiculo": "Money Times",
-   "publicado": "2026-10-11T14:10:00+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+nas+alturas+com+ajuste+fiscal%2C+Banco+Brasil+BBAS3",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Kinvo",
-     "titulo": "Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZU52UGQ3LTJGVWtOWFdGYzZfcW4zZFdHdmhkbHdMaU02UUxWUjlUU3dTZmpiN0d0MEhEODRoUFNKUkdLRFpZTnF4LUJSSDVUODRCZ1lDYlU2RkxPNERxZF9IVUIxVHd4T2NYb3BoeEpSSHVvQWZQT0wtMVFvN2NLLUtNN2M4YmlJa0o3RjhuWS1SYlowQk5MX3huUnZQc3dFejJzNHNwelo4cjBhZXY5R1ZoNHdsWDFXU1Z4TE5Ka193UU5MMEQxbFRUN2dDSmNHUk9zblo4UjVEbmdzSENv?oc=5"
-    },
-    {
-     "veiculo": "Kinvo",
-     "titulo": "Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZU52UGQ3LTJGVWtOWFdGYzZfcW4zZFdHdmhkbHdMaU02UUxWUjlUU3dTZmpiN0d0MEhEODRoUFNKUkdLRFpZTnF4LUJSSDVUODRCZ1lDYlU2RkxPNERxZF9IVUIxVHd4T2NYb3BoeEpSSHVvQWZQT0wtMVFvN2NLLUtNN2M4YmlJa0o3RjhuWS1SYlowQk5MX3huUnZQc3dFejJzNHNwelo4cjBhZXY5R1ZoNHdsWDFXU1Z4TE5Ka193UU5MMEQxbFRUN2dDSmNHUk9zblo4UjVEbmdzSENv?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUNMVGtZbTJGUEFRU20yaklsWVhLLXpGX1gzQi16QmE3eVRlN1F0bHI5S3BGeVBEZklHNW4xZEluTnlLMW9vd3Y0TnFtNmdUWFMwTGg5X2M3Ml9aaW45V192N3JsWjZ3T2RCcUd3cDYwcjVVVzNiSm5sdGM5QVhSZHJGaXl5eUkwY3pHUG8zbDRmc0JPY2xFWXl5bE1EX3dyb2daX3NnZEkwbzNMd0xXRk9QVlJEZUNXa3BLN05rbW9JcG9OaTFILXdPWXBGdzNEN253LU5VcTdGbWpqYjZOdVRR?oc=5"
-    }
-   ],
-   "score": 25.7
-  },
-  {
-   "id": "40acbf95f6",
-   "titulo": "Ratinho Jr declara apoio a Flávio Bolsonaro no 2º turno",
-   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ratinho-jr-declara-apoio-a-flvio-bolsonaro-no-2-turno.ghtml",
+   "id": "b3a0c89db1",
+   "titulo": "Pesquisa de Nobel deu respaldo à atuação dos BCs quando juros estavam em zero, diz estrategista da Itaú Asset",
+   "url": "https://valor.globo.com/mundo/noticia/2026/10/12/pesquisa-de-nobel-deu-respaldo-a-atuacao-dos-bcs-quando-juros-estavam-em-zero-diz-estrategista-da-itau-asset.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-11T21:44:23+00:00",
+   "publicado": "2026-10-12T19:28:09+00:00",
    "temas": [
+    "economia",
     "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Ratinho+declara+apoio+Fl%C3%A1vio+Bolsonaro+turno",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Poder360",
-     "titulo": "Flávio pede investigação contra diretor da PF por interferência eleitoral",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-pede-investigacao-contra-diretor-da-pf-por-interferencia-eleitoral/"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/campanha-de-flavio-bolsonaro-pede-investigacao-de-diretor-da-pf-por-entrevista-no-primeiro-turno.ghtml"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Flávio Bolsonaro aciona Justiça Eleitoral contra diretor-geral da PF por suposto favorecimento ao PT",
-     "url": "https://exame.com/brasil/flavio-bolsonaro-aciona-justica-eleitoral-contra-diretor-geral-da-pf-por-suposto-favorecimento-ao-pt/"
-    }
-   ],
-   "score": 24.9
-  },
-  {
-   "id": "6be812d79e",
-   "titulo": "INPC, inflação que corrige salários, acumula 4,29% em 12 meses",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0htUWcyQkc4NV94VkdvQVFtemdza1ZpZFQ5Sm5BSERyQUtMejRkV2QwVTdxbWsxZDlHMlhRUERTMERvM05lQ0I1Q0JkVTNlSC14QmVQVDR2ekJFRzVvYmhYQTNSTHZLcXpZMVIxaVJYcHpQS0lwTUhCU1pnZW5ZUVdKbi12TmxQa0RDNTBEQWNQc09fY0lhNUVqbXBObVnSAZ8BQVVfeXFMTXZiTFY2Mm5IMlE0YXlURzhLWUlWcGMyQXdZMFRhM21HdWFDWTJRRVk0M2Jtbm81LTBxdU9ENVRXdl9lNkVwNUhFcmljZEgxbE1UbC02NVBYR0VWc3U3dmQyb2NvUmgyZnFoWFBYRUdXMGV3aDJDN2FjUElKUnZOTXkzajZreUpocTJtXzhTbW94UzNsT04xdXJkNUJzT1JN?oc=5",
-   "veiculo": "diariodigital.com.br",
-   "publicado": "2026-10-11T15:09:00+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=INPC%2C+infla%C3%A7%C3%A3o+que+corrige+sal%C3%A1rios%2C+acumula+4%2C29%25+meses",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CPG Click Petróleo e Gás",
-     "titulo": "Inflação usada para reajustar salários chega a 4,29% em 12 meses e acende atenção sobre o cálculo do salário mínimo, seguro-desemprego e benefícios do INSS em 2027",
-     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPM1hfX0NIYXlRX04tdHdJMThrS0ZCWnI4bHFtYVJQOTl3MlJqV2dQSVVQTEcwM1Z3aF9KdXB2UE9LdEwteW54d0pHLU04TDFDRFl6eTFuVGNXSU1rZGRCYzc0a2NVRTJVdmZNWHFJLUc5YjhmZzhDRC05dGd5UThPamdrSWlrakxKWTJlUUliT2RmbzhKTnZTNEtKRUdEczhCTTdYaGxlNlRCaG1aazE1VVZoUXFqRjMxb2pEOHMtTEtPRnhhS3lRM1I3bVNwWmdIYVhTR1FSVU1oZG5jem92SjZMU3lsTWdzYkFVX3drOGRzR1JKOWRLaWRCUzRFSFRWNWM0alhjRmtTclNlWkR1elF0LWpfbnVxSlRVZE00VUtsRVhkZC01WWxJeGN6a0hkd3Y1c0d5SUVjSXVwYVZoQVNUX1E?oc=5"
-    }
-   ],
-   "score": 24.1
-  },
-  {
-   "id": "a88f6d7f2d",
-   "titulo": "Tesouro Direto: títulos passam por mudanças importantes",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU25MWUhYaTZVdXRDVWVGS0RzM2RiVkxOTUlBcVJiay1raThydHVYLUx4NWd5Nlk0YktTOTZfbjcxMUVHR3NrSTJDcHJwLVhHMXN2Qm1QX203X1JOUWxmc29lc1gtZkhJUGVGWm9leEtlZ2hlb2dpUHFHRGdQRXJTTGMyRGpvT3M?oc=5",
-   "veiculo": "Acionista.com.br",
-   "publicado": "2026-10-11T18:20:22+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Tesouro+Direto+t%C3%ADtulos+passam+por+mudan%C3%A7as+importantes",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Mix Vale",
-     "titulo": "Taxas dos títulos do Tesouro Direto caem para mínimas após venda recorde",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFo1NVZKRGxFZXdyZjJ3RUt2d3hzNVg5akoyZ05GNWp3ajFZTDMwYXRfVWhhN3UzcTJuUlJYa1ZpOTllT1pZdTBEUVNrUlprY21mM0FFM1VxNEdVVGV6aFhDR1ZTLWZyMGliLUlZalBNWmxBcTRTRXA5azRKbGRCS0dLZnNHaFhfTGlQZ3UwZzgyY0szYXIyZWJGYzNpUXNPaUd2NW5EU3dEYWh3ZG0xQdIBsAFBVV95cUxPeFo1NVZKRGxFZXdyZjJ3RUt2d3hzNVg5akoyZ05GNWp3ajFZTDMwYXRfVWhhN3UzcTJuUlJYa1ZpOTllT1pZdTBEUVNrUlprY21mM0FFM1VxNEdVVGV6aFhDR1ZTLWZyMGliLUlZalBNWmxBcTRTRXA5azRKbGRCS0dLZnNHaFhfTGlQZ3UwZzgyY0szYXIyZWJGYzNpUXNPaUd2NW5EU3dEYWh3ZG0xQQ?oc=5"
-    }
-   ],
-   "score": 23.5
-  },
-  {
-   "id": "afd5285aa0",
-   "titulo": "Disparada dos títulos muda apostas para juros em grandes economias",
-   "url": "https://www.infomoney.com.br/mercados/disparada-dos-titulos-muda-apostas-para-juros-em-grandes-economias/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T19:41:47+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Disparada+dos+t%C3%ADtulos+muda+apostas+para+juros+grandes+economias",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Disparada dos títulos muda apostas para juros em grandes economias",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObk5RWkNnMk5NY2hNVmc4R183ZkFaa2ZmZmpmbmV4Q2tsaTZDYnlpUnQ5RkZDeFJhS1gzaTdXVVQ5WXBGQ0F3N04tUFZiWlB2emFJeWRHaVJpVTd3MHRlS21INFdUWGtxaVFwR2pSSXVWQW4yTkk5bmVjMmJOSjJxVUVXSXZ5OVlYZGJRVkYwTVFSd05Ea1RmTjVnT0JrY3JHSEFfRDJNUzDSAa4BQVVfeXFMTnBpMEo4VUkzMnFzdm5RZWdMdll1NlgyZWVNVEJOSHpLRFIzRDRtbFBsTGFjQURaRlBocFZVbmdxNWtra29fdmYtQXRtckZPUDBCTmhoUTdiNUZIRmh1SnA3Ylo3SHFlSEp2VWN6bzduRVBYbTRzS0V2bUVRZXJrY0dkT1V1SG04RzFEa0NkNWdDRzN4Y2VhTGhoTjJwMko5Sm1HZWRfWXd5RmYwRDJB?oc=5"
-    }
-   ],
-   "score": 23.0
-  },
-  {
-   "id": "1cdcd1626b",
-   "titulo": "Small caps disparam 20% na semana; veja 10 ações para buscar ganhos na bolsa, segundo a Eleven",
-   "url": "https://www.seudinheiro.com/2026/mercados/small-caps-disparam-20-na-semana-veja-10-acoes-para-buscar-ganhos-na-bolsa-segundo-a-eleven-lefp/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-10-11T18:32:57+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Small+caps+disparam+20%25+semana+veja+a%C3%A7%C3%B5es+para+buscar",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Small caps disparam 20% na semana; veja 10 ações para buscar ganhos na bolsa, segundo a Eleven",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXNCX202eHZ5RkRXVThNZi0xZm9nMWVxYno1a0lrNV9NNjNMc1FkcDE0NU9uNEo3dGhGOEdOM2JWUGw1WHRhUXJDWHI1Unh1VmZObkdMcnBlcUFzRUlnSlFObFp3dXFtaXRqcnN0TzB5TmhtbFRNQ0xqVTV0dFBiR3VzU0liSGpPU2NudVZNQlRUOGtlV0Fac0k0NWVDR0JuaHl6YzJKdkJscDBXa29HMVBTZERYdFh5RG9SUDdlV0JiWi11MXFGVlI0Y1UzMTV3LWlqOG9n?oc=5"
-    },
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Small caps disparam 20% na semana; veja 10 ações para buscar ganhos na bolsa, segundo a Eleven",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXNCX202eHZ5RkRXVThNZi0xZm9nMWVxYno1a0lrNV9NNjNMc1FkcDE0NU9uNEo3dGhGOEdOM2JWUGw1WHRhUXJDWHI1Unh1VmZObkdMcnBlcUFzRUlnSlFObFp3dXFtaXRqcnN0TzB5TmhtbFRNQ0xqVTV0dFBiR3VzU0liSGpPU2NudVZNQlRUOGtlV0Fac0k0NWVDR0JuaHl6YzJKdkJscDBXa29HMVBTZERYdFh5RG9SUDdlV0JiWi11MXFGVlI0Y1UzMTV3LWlqOG9n?oc=5"
-    },
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "5 ações para buscar ganhos na bolsa e superar o Ibovespa nesta semana, segundo Terra Investimentos",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc0hmZnBJZzlvVFQxZ3B5NVJsQkdnNnlpTUVqaTBoalV6RE9sQXZWb1dwVlpxTVVfaU9KWFJ6c2ROUENkT1ZVQ2tkU0djLVhoU2pvYWlRTENYNW9vNDdCZDIyek9ZdW5TNS1Va3ZiemtFdVE0WllSek1DSV90T0hDRURkeWdJYWJqMkZ4Vm12RXZ4UDRwY2JLMHNYMERDeGxyRFlGdlFjMTdzSHhnOWRKZDRxLTZkX0psVmw0di1WbXdycmZmMWlPNURxUFJHTnJMM3k4cXhJcGEzZVo2cjNZcGZR?oc=5"
-    },
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "5 ações para buscar ganhos na bolsa e superar o Ibovespa nesta semana, segundo Terra Investimentos",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc0hmZnBJZzlvVFQxZ3B5NVJsQkdnNnlpTUVqaTBoalV6RE9sQXZWb1dwVlpxTVVfaU9KWFJ6c2ROUENkT1ZVQ2tkU0djLVhoU2pvYWlRTENYNW9vNDdCZDIyek9ZdW5TNS1Va3ZiemtFdVE0WllSek1DSV90T0hDRURkeWdJYWJqMkZ4Vm12RXZ4UDRwY2JLMHNYMERDeGxyRFlGdlFjMTdzSHhnOWRKZDRxLTZkX0psVmw0di1WbXdycmZmMWlPNURxUFJHTnJMM3k4cXhJcGEzZVo2cjNZcGZR?oc=5"
-    }
-   ],
-   "score": 22.6
-  },
-  {
-   "id": "c71bf5cc39",
-   "titulo": "Lula diz que CCJ retomará PEC da Segurança na 4ª feira",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-ccj-vota-pec-da-seguranca-publica-na-4a-feira/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-11T20:20:03+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+CCJ+retomar%C3%A1+PEC+Seguran%C3%A7a+feira",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Canal MyNews",
-     "titulo": "Em ato na Paulista, Lula cobra votação do fim da escala 6x1 e defende PEC da Segurança Pública",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNm9HOXVrQXN0LTdrM1RycExINFZDem1wTUlrVlVoUHZJcjRKdVFTUWNfQ00ycWxLakd0VkJkeUNUcmZGNkh4X2Z6MnNVYWRteFVFQ0lheVVEcHNPNVJpQ05ramJEVFgzUUdNdHFPeFVMa3ZNOHRVTGd2YzZTRm56cTNSdzdDS19NS1lMejVibGNkZDIyTGIzYTFiQzlnVnFUV19Kb0Z0U2R6Z0NTanNqVFdPNWp6Y1hpRF9lTUV5OXJrMlRDYVV1Sy0yTlpYM2My?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Lula diz que votação do PEC do fim da escala 6x1 antes do segundo turno está ‘conversada’ com Alcolumbre",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-diz-que-votao-do-pec-do-fim-da-escala-6x1-antes-do-segundo-turno-est-conversada-com-alcolumbre.ghtml"
-    }
-   ],
-   "score": 21.3
-  },
-  {
-   "id": "81aa443ac0",
-   "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-votacao-do-fim-da-6x1-antes-do-segundo-turno-ja-esta-acordada-com-alcolumbre.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-11T20:14:34+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+vota%C3%A7%C3%A3o+fim+6x1+antes+segundo+turno",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "SWI swissinfo.ch",
-     "titulo": "Lula aposta no fim da escala 6x1 de olho no segundo turno",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHF4UXV3RXFCdHR3bVAwSHg5UzRLSmJza2tPWDAwR3F2aDYzdzB2dUlGM3FFcGFUSWxNeFh1NVpoVzZzR3p2WUEwVXNJeHU0cEJYTFVUek5EeFJwSUNONFJsTkxHMTVPTkxxbWRlZmRrdS1vMnBQVW5YQk5EVndvaExFc3JGa2pUczY5bzNId3VNT1BGLVNJbHlKcw?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRlJaSFlEWlpKRXJJd3F0Ql9JVnhtMHExb1I4a090X2ptWFBQdlJXTXdKNFB2cmk0UG4tSXJPVFFGLTlRTEJWbEhQbF96ZTJxNjU4ODg0ZFRQRk5iaFBwb0ZFS3pnWTBBblBaVjFTUTZXQUFWV3pOalY2NmdMS3VYYkJfRndyTC0zWGNEcjdfbHVnRmJnQXJna0gzb09DdUxvUUZmeW4xS2JIS1VBVk1NY2hQaDNFQ3FyYjBFNzN6Zi1fUXg0U044Rk1KbU9tWDlkODNFNklfczI?oc=5"
-    }
-   ],
-   "score": 21.3
-  },
-  {
-   "id": "ff80bc1fb6",
-   "titulo": "Títulos do Tesouro disparam até 13% na semana do 1º turno",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXNUMWZqM2JnT3NrS0RNS0t5QlBOaHAwREVKNFV0bmloNWpsZUJuM1F6MThWNUlEUHVBc2JBdl9JT2tvWXFLM3VhNmhnOXJnazc4M0hDcDNzZWU5YVd6Q0dlb1Utd2hncDlBZThXUExJcXIzSnBUN3M3dmN5MVRQMWZaN3pnZmhaaXZtZXJ4LWFoemRUOE1WWDI4c3M4OTdEbUJFUGo2WQ?oc=5",
-   "veiculo": "TV Sim Brasil",
-   "publicado": "2026-10-11T15:30:00+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=T%C3%ADtulos+Tesouro+disparam+at%C3%A9+13%25+semana+turno",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Tesouro Direto sobe até 13% na semana da eleição e passa o Ibovespa",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlU3eGdkVko1S0hWOXpqd0JZT1J5aE5EQTFrV2VQc2JTSFhPRGRCS1lHd3RVUXprMGp5eF9tMFVyUHBUX1BXTjhjZmZtajB0cE9GR3RudThsdFp4RXdGYnJwZlh2RTFsWjlKcEVVZnpWMlZ6a1EwQ2E3Z093azh0ZksyR19HbVlhdVlveGJrU01OaGltZTVING1LNnd3RXkwTFE?oc=5"
-    }
-   ],
-   "score": 21.3
-  },
-  {
-   "id": "9d43d1acc8",
-   "titulo": "Dólar e bolsa batem recordes após 1º turno desde 1994",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mNTNZa0psRm04OHNObzNaSzZkSWQ1M2xhTmVFVkVMRXZmSUNDRVdybW9CeWJ0elZnSGxKS0h4RmxUUG9nSUJZdFhhWmRldm9JNldfd2F4WEhhY2plZjJwUUF2ZGRDOTJRbTVITkhFUHNxSkFTbmpLTlRWV2IwelE?oc=5",
-   "veiculo": "Acia Araçatuba",
-   "publicado": "2026-10-11T11:40:00+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+bolsa+batem+recordes+ap%C3%B3s+turno+desde+1994",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Dólar e Bolsa têm melhor semana pós-eleição desde 1994",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFRsU1J1M3NGYU5mclB1UWYzckFlQno3Rmx6d2wyT091NmZObWJXSHJnNUEwQ1ljblZuekNNTlVjaHQ2YllWdG9VNDJXZmlxLWwyOElRZ1RNRm5nSXp3azNWQXZmOU5HSUFHNTc2RUp6VjFSQ2VoSVJhNTdWcVlpOC1ZQ1dOeTBzUGUybEJmbDg3dG8?oc=5"
-    },
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Dólar e Bolsa têm melhor semana pós-eleição desde 1994",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFRsU1J1M3NGYU5mclB1UWYzckFlQno3Rmx6d2wyT091NmZObWJXSHJnNUEwQ1ljblZuekNNTlVjaHQ2YllWdG9VNDJXZmlxLWwyOElRZ1RNRm5nSXp3azNWQXZmOU5HSUFHNTc2RUp6VjFSQ2VoSVJhNTdWcVlpOC1ZQ1dOeTBzUGUybEJmbDg3dG8?oc=5"
-    },
-    {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Dólar e bolsa batem recordes após 1º turno desde 1994",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mNTNZa0psRm04OHNObzNaSzZkSWQ1M2xhTmVFVkVMRXZmSUNDRVdybW9CeWJ0elZnSGxKS0h4RmxUUG9nSUJZdFhhWmRldm9JNldfd2F4WEhhY2plZjJwUUF2ZGRDOTJRbTVITkhFUHNxSkFTbmpLTlRWV2IwelE?oc=5"
-    },
-    {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Dólar e bolsa batem recordes após 1º turno desde 1994",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mNTNZa0psRm04OHNObzNaSzZkSWQ1M2xhTmVFVkVMRXZmSUNDRVdybW9CeWJ0elZnSGxKS0h4RmxUUG9nSUJZdFhhWmRldm9JNldfd2F4WEhhY2plZjJwUUF2ZGRDOTJRbTVITkhFUHNxSkFTbmpLTlRWV2IwelE?oc=5"
-    }
-   ],
-   "score": 20.7
-  },
-  {
-   "id": "fc3cc22b30",
-   "titulo": "NTN-Bs a 9% ou a 5,5%: os cenários da Kinea para o ajuste fiscal",
-   "url": "https://valor.globo.com/financas/intraday/post/2026/10/ntn-bs-a-9percent-ou-a-55percent-os-cenarios-da-kinea-para-o-ajuste-fiscal.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-11T11:02:01+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=NTN+5%2C5%25+cen%C3%A1rios+Kinea+para+ajuste+fiscal",
+   "busca_video": "https://www.youtube.com/results?search_query=Pesquisa+Nobel+deu+respaldo+atua%C3%A7%C3%A3o+dos+BCs+quando+juros",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.4
+   "score": 20.9
   },
   {
-   "id": "0e46bf78d3",
-   "titulo": "Crise dos títulos franceses revive fantasma da dívida soberana na Europa",
-   "url": "https://www.infomoney.com.br/economia/crise-dos-titulos-franceses-revive-fantasma-da-crise-da-divida-soberana-na-europa/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T21:40:47+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Crise+dos+t%C3%ADtulos+franceses+revive+fantasma+d%C3%ADvida+soberana+Europa",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Crise dos títulos franceses revive fantasma da crise da dívida soberana na Europa",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRW5lX1ctNnZXRWpuT1liWHJIU0lsaVN2ZFhKVVZFRHlDbDd5LXNRTjBsMVRqT1JTY00zZzNGVFhCeGMyRzQ4eGZmVEtBaklmVDdPazY0anJfb1RjYVdNYmd5VXB5RmVkMHRKMW9Yei0wcm1CQ0xiOG53bFJOWHp0RW04NnRoNnBxN0lHbEY2SlBnM3Z5eWJ6NWI0Vm4zbEpEWk1tQVhZN0RKZUhOTVV6bVBIUERlTFZHOVB6SA?oc=5"
-    },
-    {
-     "veiculo": "Seu Crédito Digital",
-     "titulo": "Crise dos títulos franceses: entenda os riscos",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zZDRic0FRcHJ3VDMtTXFkbmxkVkduOVdwSnh3ZXF3LUNyVG56RFdCdmkxWjczcG9kQzBVZmVkdWpLcUhqTU10TFFiMnN2bjZQMUZFb1k4TDRvRWQzcGd5UWtZWnBJU2wtNFhGeHBOTHlUQV9aMTNJM2dB?oc=5"
-    }
-   ],
-   "score": 19.9
-  },
-  {
-   "id": "3fd9380d65",
-   "titulo": "Gemini Agent impulsiona ações da Alphabet após queda de 98% no custo de token",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjlUXzdxUHJhZU5Qb0lfb29DLVFidmdIaXJiQzlUS1ZkbHlvTF94V3A5X1p2SU0xQ1RubEpqTWg1ZFBoeWFscGJhOV96N2NmZm1GYW9naVpHdGdvdnUtTldFbzhDeW5WNWVfVzZwUWxCVk1JZER2TGN1WllOb3ctRUpwd3NPcHZ2dXNScFBPVXNtN3FfSWFuelptcXJUaW9VZWxsOVpGeVpESmxhNU5Gc2FYSm1EZ9IBtgFBVV95cUxQNjlUXzdxUHJhZU5Qb0lfb29DLVFidmdIaXJiQzlUS1ZkbHlvTF94V3A5X1p2SU0xQ1RubEpqTWg1ZFBoeWFscGJhOV96N2NmZm1GYW9naVpHdGdvdnUtTldFbzhDeW5WNWVfVzZwUWxCVk1JZER2TGN1WllOb3ctRUpwd3NPcHZ2dXNScFBPVXNtN3FfSWFuelptcXJUaW9VZWxsOVpGeVpESmxhNU5Gc2FYSm1EZw?oc=5",
-   "veiculo": "Mix Vale",
-   "publicado": "2026-10-11T16:45:54+00:00",
+   "id": "68d631d8b6",
+   "titulo": "Os preços do ouro hoje, 13 de outubro de 2026, estão em queda, os investidores estão cautelosos e as importações de ouro para atender à demanda do consumidor na China atingiram um recorde histórico.",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSzQtekVLRkx2S25SeVY2U0thTmdlb2dhY0M0SnhJMVJIOHZwQlE4OWF0NDJmVXFTUnRfcFRCRFJoalQtSi1zMlZWQVdzMzB2d3V5LW10S0dCYzNRa21Nd0RuWFdCR3NJSFFSZ0x4SUlLVnVXaHNsTEVLdHZiQmhTZThDQWI0UXlCdGI1YmNseEdUZVBrWlJmV2I0aElmRUZaamhncnhaY3cxVHpuUTBtYWxGVkV1RHBpVTk1UG9hQXVURDMxblVWOE8xeUFIWEU2X2x0OHZsdVJsUi1xT3cwYQ?oc=5",
+   "veiculo": "Vietnam.vn",
+   "publicado": "2026-10-12T14:44:34+00:00",
    "temas": [
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Gemini+Agent+impulsiona+a%C3%A7%C3%B5es+Alphabet+ap%C3%B3s+queda+98%25+custo",
+   "busca_video": "https://www.youtube.com/results?search_query=pre%C3%A7os+ouro+hoje%2C+outubro+2026%2C+est%C3%A3o+queda%2C+investidores+est%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 19.9
+  },
+  {
+   "id": "dc260e9920",
+   "titulo": "Chefe do FMI se diz alarmada com o tsunami em câmera lenta da IA sobre empregos e impostos",
+   "url": "https://c-level.folha.uol.com.br/ia/2026/10/chefe-do-fmi-se-diz-alarmada-com-o-tsunami-em-camera-lenta-da-ia-sobre-empregos-e-impostos.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T11:24:00-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Chefe+FMI+diz+alarmada+com+tsunami+c%C3%A2mera+lenta+sobre",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
    "score": 19.8
   },
   {
-   "id": "c7519e6e2e",
-   "titulo": "Fazenda investiga 14 bets por subdeclaração de receita; só Blaze pode ter gerado prejuízo de R$ 96 mi",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/10/fazenda-investiga-14-bets-por-subdeclaracao-de-receita-so-blaze-pode-ter-gerado-prejuizo-de-r-96-mi.shtml",
+   "id": "0a81e2503e",
+   "titulo": "Mercados na Ásia fecham sem direção única com acordo EUA-Rússia",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbl9HenpCNDNDMnRUdUdNOWZYeGY1SUgxQ0VQX3dGRWVzQW5aU055SGQ4dk5yWUFfREFjUGNXU1BXdGdUNDJDWkVHSklXTkI2Z0sxN3hhVC1SVHFuV0VRUHlZYW1XM3ROdHJyemE2TVd4dEQxaWxlcWIxMmU5RE9Zc3hVQzNVa21uT0F2Q2g2amZTal9PQjRXY2h1Y2t5U25aZ0FUNnBBcXh4eWFFQWZxOXVuYTRpMHc?oc=5",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-12T14:00:00+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercados+%C3%81sia+fecham+sem+dire%C3%A7%C3%A3o+%C3%BAnica+com+acordo+EUA",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Bolsas da Ásia fecham sem direção única após plano de Trump de comprar diesel russo",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT08zMTk0T3cwQmhqNFpfc0ZUejBYOXlTVFBYczNZaHp3MDZIZGZNNTR4aENSS3FQWHBwMndnR0p0TzZCXzlLaEstUGptSUQwRXFPMldDTkFXOWtkbENCT3puTjNDQWFzS0VfMWtRYjV0WEQyVGtaR3pzWUN4dkxUYTFleFJxUERMS3A2R0hKUHJsX21LaWxDNTBiWWN5UQ?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Bolsas de Ásia e Pacífico fecham mistas após plano de Trump de comprar diesel russo",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmtNZ0dfaWNtNlhaYlFXUFNZdF96SjlBb2haY3BTYUZfQWFWcC1ZT1lBZ01jeWgxdzhwa0ZpRTl4a2tYQUQzVmpCdVlJV2UyMHNZUDdyaUFUOEgzd2xXU1dMZ19zeHFRUFE2MEhfcEdzWlhZb0tvVFBzRlFkdHF5QjhTMDVNSVcyZGc1dFE3aC13X1VNRm9UOWdlR1JFZ0w1Yl9Zd1pCR1NrS3RENG93QWNvZTVRVzlHYkZWYktvNNIBxAFBVV95cUxOdm1BS0dMZEhpZlhDczhfam5hYUo2V2pLRmtVbXA3QmdtRlU4Ulcyd0ZKQUFSOHhsTXBLR19fSUNiMkpUZmw4eFppaVNoSUJZZGdTWGhYeTZIS1dJWi1jNTZCZ3B5bWFnbUl0WjVMTTkxcXZGZWdlZGhvQjVzMWo2d0JBRERFV2hOOGNHSlVuazE3Zm50Tkc2RThOTXBiTGNTVjhkNUlQZ2Q4RGozVlY2U3ZTZkZCVkNjOEVPS1p1eFpNenlR?oc=5"
+    },
+    {
+     "veiculo": "A Gazeta News",
+     "titulo": "Bolsas da Ásia e do Pacífico fecham mistas após plano de Trump de comprar diesel russo",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVcxSGFacjE2RnBiamVaaWdmRFRSMHFPc0Q2QWZiR08zV0xFVExyVVo1Q1N2UkdBT1U4VC1CbG9yWENtVTRnbEM1cktySnJpd05NRDEtZHMyNTJZMGN4V2hWYUZOZml6S3Nxcmx0UVljVlpCdGJtYXZ3clVWSzJ2V2k5NW91Z25VVnBPUkgxVVI2SFVGVGhYQ2ROa1hrSkNJY19OSjhROFFCQjVBcVBnWkYtRm9yYmsxUTkyZXZVMTZubEw2aHl0RA?oc=5"
+    }
+   ],
+   "score": 19.6
+  },
+  {
+   "id": "57c2d882d5",
+   "titulo": "Conta para crianças ajuda a ensinar a lidar com dinheiro, mas não substitui educação financeira; veja opções",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/conta-para-criancas-ajuda-a-ensinar-a-lidar-com-dinheiro-mas-nao-substitui-educacao-financeira-veja-opcoes.shtml",
    "veiculo": "Folha",
-   "publicado": "2026-10-11T12:30:00-03:00",
+   "publicado": "2026-10-12T15:55:09+00:00",
    "temas": [
     "comportamento",
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fazenda+investiga+bets+por+subdeclara%C3%A7%C3%A3o+receita+Blaze+pode+ter",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.3
-  },
-  {
-   "id": "d228551b29",
-   "titulo": "Fundos de investimento renderam até 3% ao mês em 2026; saiba se renda fixa ou ações",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pPcUR0a2JISm9CZEN1VzVlMHNJTDRpelFpQUxzdnZXUzdVRm1leEFvVGZkVm1IVjZiNG5HUUhxeHlrS196SWFiYkNhbFRNUlBVWjRWWGljLTBkRmRQYi1pa1JZYVpKOEVVVW5jVjhDX3ZJdjRpb2ZuRE5pVEk3Uk8tV0pTUUlCSjduLTNMQkNRX2NueU1uUW5UaW01NFdqc3JPWUJ0ZTNncl9KRi1GV2VrUkRMNTYxNDdCbDBKbGM4OTlw0gHKAUFVX3lxTE12ckNpLTJLdHVJMkdmT2Uzdm05NlQwSGdRcmpKWjliVmQ4MnljLUhNTVVlbW92THk3THlMVEpvUjNZSHdpMmlsRkFuVzdmNHFoREZGRjdkWExheUw3VzFCOERpeU5MTHdHdC1ydGpOUENOQ2ZEaWFYRWFWWWhUZ3VGbGlOX2dadWJjSUFtOXF6TkpvVXJGTDdIc1JWNnpYbmF0R1Jkc1VhSlVMQnpKZHk0NGNlOGs3UnJpdnNLNFhOWDlNWHg0bHFyVnc?oc=5",
-   "veiculo": "Investidor10",
-   "publicado": "2026-10-11T14:02:00+00:00",
-   "temas": [
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fundos+investimento+renderam+at%C3%A9+m%C3%AAs+2026+saiba+renda+fixa",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 18.7
-  },
-  {
-   "id": "38ddfb6ad5",
-   "titulo": "Se seus pais deixarem de herança mais dívidas do que bens, você terá de pagar a diferença?",
-   "url": "https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/10/se-seus-pais-deixarem-de-heranca-mais-dividas-do-que-bens-voce-tera-de-pagar-a-diferenca.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-11T18:00:00-03:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=seus+pais+deixarem+heran%C3%A7a+mais+d%C3%ADvidas+que+bens%2C+voc%C3%AA",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 18.6
-  },
-  {
-   "id": "ce835005b6",
-   "titulo": "Vantagem de Flávio nas pesquisas antecipa disputa dentro da campanha por nome para Fazenda",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/vantagem-de-flavio-nas-pesquisas-antecipa-disputa-dentro-da-campanha-por-nome-para-fazenda.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-11T13:11:27+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Vantagem+Fl%C3%A1vio+nas+pesquisas+antecipa+disputa+dentro+campanha+por",
+   "busca_video": "https://www.youtube.com/results?search_query=Conta+para+crian%C3%A7as+ajuda+ensinar+lidar+com+dinheiro%2C+mas",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Portal ABC do ABC",
-     "titulo": "Ministério da Fazenda gera disputa na campanha de Flávio",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdS1tTHpvV0ViT21Meml0S0pVWVd6b2YxaWJicmt6WWJISGF1ZllyQTdnMUp2eGZHQ2RkdzJxMnhHTHFOVDh3ZGNKcGc0LVlsY0ctMW0zcGVMaFpFalV0Z19EZVNZb0VDZzBIUkFxcEpBS1FuN1psSFQ0Rjlhd3c?oc=5"
+     "veiculo": "melhorinvestimento.net",
+     "titulo": "Educação financeira infantil: como ensinar crianças a lidar com o dinheiro",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzd5bC1EdU45WlFDREwwS0xSX2RDRXJBS1duTEx2d0FxNjZFVU42Wmw0YUF3SHUyZHhQVEdneXhTRUlnWXF5eTZ4dzNLMWtqWXMyUDN1LVhKeXdQYkttNnNZTDRTZUpRZWVWWHBibkEySFVRZ2I3U0ZYT0lLOHRZRHZVWW9qdG1NeVk2VVFoZUd0TG1rWGlqRlh2UDVXU2M?oc=5"
     },
     {
      "veiculo": "Folha de S.Paulo",
-     "titulo": "Vantagem de Flávio nas pesquisas antecipa disputa dentro da campanha por nome para Fazenda",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFk3TEw4RV8td184NzZvTVY5TU1OSlo0eHo2MENUX2M1ZzR1WnlaSWN2RDYxUThvU0FvTXJUV0pGcno4VHpwUklsYm5ybjZIdHBGS0RUMmpJQWV2RVF1clcwQTluUklMMF9WZVdTNGQycXJaNFVSR0sxWjJxMGY2cUVoMDBVWmFTTHp1N0ctMFJycVI0U1lzS2o3SjMtdVk1Z2t4ZTVpdmFrM1UtUFppZVhfem8wX21sNGRRRTVwNTlQenJaMHNEclBFS3JyX3B5b0ZRbnFwVXRzdw?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Vantagem de Flávio nas pesquisas antecipa disputa dentro da campanha por nome para Fazenda",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFk3TEw4RV8td184NzZvTVY5TU1OSlo0eHo2MENUX2M1ZzR1WnlaSWN2RDYxUThvU0FvTXJUV0pGcno4VHpwUklsYm5ybjZIdHBGS0RUMmpJQWV2RVF1clcwQTluUklMMF9WZVdTNGQycXJaNFVSR0sxWjJxMGY2cUVoMDBVWmFTTHp1N0ctMFJycVI0U1lzS2o3SjMtdVk1Z2t4ZTVpdmFrM1UtUFppZVhfem8wX21sNGRRRTVwNTlQenJaMHNEclBFS3JyX3B5b0ZRbnFwVXRzdw?oc=5"
+     "titulo": "Conta para crianças ajuda a ensinar a lidar com dinheiro, mas não substitui educação financeira; veja opções",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVllYaG1JWG5fVi1MZmVFZ2tOSWFVaXo4Rlk0N1phc2czTGhUNldESVYyZ3dJcExuQnF5Sm9vMnI5ZldJTmhGTVp5U092eFJYeGlqTEV4enJ1SVI4RUJTTkNTWmVhRkl4Uk9kckdZY0t5R1ctcEhSMTJqUVlaUFdVc2VtSWZpUGUzaDNCWFpEN2NqNHBYSjZrWHMtUVRDdUFDcGRCcUlOQUlmV1FDdW5kQU4wcTlhT2JwbHJRbjhJWmxldDFhNlItdlpBTURtNkJDejFacjNEMnZtajJzVUNRUzg4cEphY0czQjZsRUhjOA?oc=5"
     }
    ],
-   "score": 18.3
+   "score": 19.4
   },
   {
-   "id": "2d8edd2a64",
-   "titulo": "Flávio Bolsonaro diz que Lula não aprendeu nada na cadeia",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-diz-que-lula-nao-aprendeu-nada-na-cadeia/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-11T20:02:06+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+diz+que+Lula+n%C3%A3o+aprendeu+nada+cadeia",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Lula perdeu votos para a abstenção, e não para Flávio Bolsonaro, diz Lavareda",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3c2WEtKV0J1X1d2aUxNUDhLaWRweVNnWm5qaHhqcnh0Sm9aUE4tMm13YmRVdkFZREFHX2hfeUFhcUVyNjE3RTAyVExFUVRRa0x1aWwtMGNGRVBVcG5XTmR2SlRiM0xzZHpENnlOVEplcmVHMUJWdDdkeVZNWU9FMTVWRml4WV9CODgxaWlZRFB5ZXlGREpuZmg0WWYxWHdoWVNZ?oc=5"
-    }
-   ],
-   "score": 18.2
-  },
-  {
-   "id": "e3e2024fec",
-   "titulo": "Calendário econômico: inflação nos EUA e atividade econômica no Brasil são destaques",
-   "url": "https://www.infomoney.com.br/mercados/calendario-economico-inflacao-nos-estados-unidos-e-atividade-economica-no-brasil/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T20:00:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Calend%C3%A1rio+econ%C3%B4mico+infla%C3%A7%C3%A3o+nos+EUA+atividade+econ%C3%B4mica+Brasil+s%C3%A3o",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Calendário econômico: inflação nos EUA e atividade econômica no Brasil são destaques",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEZscG05XzhkMkduS2xfNU5FN3FxeG1PU1diQkkxdDlranhiX0k2dUx1dGd5WG54MENUZUh0ZVZJT21lYk56d2c5UW44REJpY2t0MEpFMVdyMlhjcmFpa0dhc0lGMjNGU1pDSDBjUmtyVGJZWWNtOTVaS25aOXV3LW5FdjBpa1dNaUFJMmxZZjFFU2s2bHdvQnpnTVVlWGZnVVJ4UU9GYUZvYnJvamk5MVpRTWg4NjI2VEU40gHAAUFVX3lxTE1mVExGZG1kMExCRXdwaHRkZXBVem9lejBmVDNyQnN5SFlxdnBJc3J6QTZyUDlsZFlPcFN2SXJ5N2RpZEJ2YzRpXzJRTFVTZFFOd1dGSHR3X29Ld2pfVzd4S0Z1ZmNuSy1HR0ZNX0xYQk5KWmNvS2FBX1JUQ2pYQUplSUF1STF3MHpwX1REaG9WQUx6UXlGUy1Zck5KdF9DRkw0ekI5d3hZOUFTdFJGbkUxdWpWQzNySDdDekNkTGhYaw?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Calendário econômico: inflação nos EUA e atividade econômica no Brasil são destaques",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEZscG05XzhkMkduS2xfNU5FN3FxeG1PU1diQkkxdDlranhiX0k2dUx1dGd5WG54MENUZUh0ZVZJT21lYk56d2c5UW44REJpY2t0MEpFMVdyMlhjcmFpa0dhc0lGMjNGU1pDSDBjUmtyVGJZWWNtOTVaS25aOXV3LW5FdjBpa1dNaUFJMmxZZjFFU2s2bHdvQnpnTVVlWGZnVVJ4UU9GYUZvYnJvamk5MVpRTWg4NjI2VEU40gHAAUFVX3lxTE1mVExGZG1kMExCRXdwaHRkZXBVem9lejBmVDNyQnN5SFlxdnBJc3J6QTZyUDlsZFlPcFN2SXJ5N2RpZEJ2YzRpXzJRTFVTZFFOd1dGSHR3X29Ld2pfVzd4S0Z1ZmNuSy1HR0ZNX0xYQk5KWmNvS2FBX1JUQ2pYQUplSUF1STF3MHpwX1REaG9WQUx6UXlGUy1Zck5KdF9DRkw0ekI5d3hZOUFTdFJGbkUxdWpWQzNySDdDekNkTGhYaw?oc=5"
-    },
-    {
-     "veiculo": "Valor Investe",
-     "titulo": "Inflação nos EUA e dados de atividade no Brasil são destaque",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU3lZcU5QNEVxWnNTRlNmSVV3aHE5X2hwa1d3eHpIWkJjMUJvUHg2ZE1xaWcyOWNpQWRTVWNneWt5Z3VwMHlJZmRqUTRYa29QYjVmUDQ3QnJMTl81a0Y2Mnl1QnhfRGNIU0JxcGlvMll2Z093M3hZOWYwRHI4dmRDMi0wSkJCSlFHV0tONGZiNlM3RDhadnpsZFJzV2N0TldXMVdZTi1NUHRicXZtYXRPT2tLQVVPY1JRS0FuMG5YU3ZVTWhRektOZ1Byc1JyS2VUcGfSAdIBQVVfeXFMUFN5WXFOUDRFcVpzU0ZTZklVd2hxOV9ocGtXd3h6SFpCYzFCb1B4NmRNcWlnMjljaUFkU1VjZ3lreWd1cDB5SWZkalE0WGtvUGI1ZlA0N0JyTE5fNWtGNjJ5dUJ4X0RjSFNCcXBpbzJZdmdPdzN4WTlmMERyOHZkQzItMEpCQkpRR1dLTjRmYjZTN0Q4WnZ6bGRSc1djdE5XVzFXWU4tTVB0YnF2bWF0T09rS0FVT2NSUUtBbjBuWFN2VU1oUXpLTmdQcnNScktlVHBn?oc=5"
-    }
-   ],
-   "score": 18.2
-  },
-  {
-   "id": "f65c06adf0",
-   "titulo": "Bolsa bate recordes com cenário eleitoral e reforça vantagem de investir antes das altas",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTBYakdvTjlVTFdrRkM0OV9EemRxOHdBZUdmQ1d0MHRTS2dsWFMwdUtoeWZGV1N2VkM2ZzhSaUZlTGdhMlUtQzF5OUV6bW5mM3dPUHBXQjV0Q2Yyc1dLem84bDlWMGV0bFNiTXJORzdQNW9TMm1fSW9HYjRZZlFWQmc0aEROeDBFeEc2bVZxUjhybzFKNzRXUmJhZk5Kc1VZU2djWk03RjdyeGh6ZlFsaE9sZlctMHM3M05yOXhSM1lSMG9xemIzVg?oc=5",
-   "veiculo": "Jornal Pequeno",
-   "publicado": "2026-10-11T12:28:52+00:00",
+   "id": "3572cb0213",
+   "titulo": "Ouro fecha em queda, em correção de ganhos, antes do CPI nos EUA",
+   "url": "https://www.moneytimes.com.br/metais-ouro-fecha-em-queda-em-correcao-de-ganhos-antes-do-cpi-dos-eua-igdl/",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-12T19:36:25+00:00",
    "temas": [
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bolsa+bate+recordes+com+cen%C3%A1rio+eleitoral+refor%C3%A7a+vantagem+investir",
+   "busca_video": "https://www.youtube.com/results?search_query=Ouro+fecha+queda%2C+corre%C3%A7%C3%A3o+ganhos%2C+antes+CPI+nos+EUA",
+   "veiculos": 4,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Ouro fecha em queda com expectativa sobre CPI dos EUA",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUtOd2xvTnk2UkhFRDcyV1YyTFZHU3RaSzc5T0ZFV091Q3FUbjNBdWtxUDZfZkV4NVR0TDhoT2tBUUFicThDMFdpaUFNZmJidkZzOVR1NjUyblJsZXZ0RGhiRlpvM2F4MW1ZbE9mT2VEYmZKbHRFaGJsQUVNZmVvLW53ZEdkU0tING1QSllmSWpsV00ySjZteHpSaDhlNkVoWExDdFMwZUMyZw?oc=5"
+    },
+    {
+     "veiculo": "BlockTrends",
+     "titulo": "Ouro cai 0,61% antes do CPI dos EUA e investidores avaliam próximo passo do Fed sobre juros",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUdwb0JFWEkzSGdXUlJqS0FPUUVxamJoTUVzNDJFZmlRaDNRVVdiclI5OVpJY1BvaHh2ZjB0NFJ3eXdSaWpJVjNBWDlyeDRaY2RkWl9yTDFsVHlkRHotUHBreDBUdGFLWVdXMHJUV1pCVk9fRVMtSTBEQnQtb2xQTA?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Ouro fecha em queda, em correção de ganhos, antes do CPI nos EUA",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjlYN2lxcnVfd1hCYlpIcmNFT3dEQ2lkZW9jek4xdnVJekRxSzdSQ3R5cldQbGpST0RaLU1GZ3h3aUREMG90aGlUMExMMGRPQnh2YlFxN1V5bXpLdEZ3TThSOHc0Wlo2T1BMdGxZbVdVY2paNjM1YW9jYzZHcHl6eGw4ZFR1ck9xRV9YWGJ2RUVuZ3V2M2hPOHZUR3NneVZJaHR3RVFaMmg?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Ouro fecha em queda, em correção de ganhos, antes do CPI nos EUA",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjlYN2lxcnVfd1hCYlpIcmNFT3dEQ2lkZW9jek4xdnVJekRxSzdSQ3R5cldQbGpST0RaLU1GZ3h3aUREMG90aGlUMExMMGRPQnh2YlFxN1V5bXpLdEZ3TThSOHc0Wlo2T1BMdGxZbVdVY2paNjM1YW9jYzZHcHl6eGw4ZFR1ck9xRV9YWGJ2RUVuZ3V2M2hPOHZUR3NneVZJaHR3RVFaMmg?oc=5"
+    }
+   ],
+   "score": 19.0
+  },
+  {
+   "id": "3845ffa09c",
+   "titulo": "Empresas do S&P 500 devem lucrar 31% mais no 3T26 — e esses dois setores devem largar na frente",
+   "url": "https://www.seudinheiro.com/2026/internacional/temporada-3t26-xp-ve-lucros-do-sp-500-crescendo-31-mas-avancos-concentrados-em-2-setores-ccgg/",
+   "veiculo": "Seu Dinheiro",
+   "publicado": "2026-10-12T19:33:56+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Empresas+500+devem+lucrar+31%25+mais+3T26+esses+dois",
    "veiculos": 1,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Jornal Pequeno",
-     "titulo": "Bolsa bate recordes com cenário eleitoral e reforça vantagem de investir antes das altas",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTBYakdvTjlVTFdrRkM0OV9EemRxOHdBZUdmQ1d0MHRTS2dsWFMwdUtoeWZGV1N2VkM2ZzhSaUZlTGdhMlUtQzF5OUV6bW5mM3dPUHBXQjV0Q2Yyc1dLem84bDlWMGV0bFNiTXJORzdQNW9TMm1fSW9HYjRZZlFWQmc0aEROeDBFeEc2bVZxUjhybzFKNzRXUmJhZk5Kc1VZU2djWk03RjdyeGh6ZlFsaE9sZlctMHM3M05yOXhSM1lSMG9xemIzVg?oc=5"
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Empresas do S&P 500 devem lucrar 31% mais no 3T26 — e esses dois setores devem largar na frente",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZTR5ellOV3dPalVnMjc5QW5QWjFpdG9ocUUyQkpwZy1Yb1ptU0ZnMFpMbVMxSTVsUFRWdmhJdGJad2ZBb2xwNGh2ZkFGQ2JLVXpMcmtReGMyaG9SdUIzNU96Z0ZWX3ZiYzladDRUUUJhLVZNbmFfTmJyV2ptYkh3TXNXT3BxYkh1aTBiT0xDdEV5SzJjTnhCOTNGM2Nzc3RWaWRQUGNHamVNOEd6UVdJSjFNenBIZU82VFp4UXQ5eTNDUzB2SUEtRlJBRW1JS25JdGNaZVR6SGk?oc=5"
     }
    ],
-   "score": 18.0
+   "score": 18.9
   },
   {
-   "id": "b88f53e24e",
-   "titulo": "Títulos públicos atrelados à inflação lideram valorização dos índices de renda fixa da B3 no trimestre",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSG1hWVZEUm1LNF9weGJSb1RreWl1X3RwclNnWlg5VXJ6M25ZcjZTcmJnSkN4MUFNeWk4YVpEQ3J1VGtDdU11d0tnNEQtUzNlT3JOeGlHRTlxQnZLYmROaUNJV0JVeWl4elBaSnpndkdoNzFXQWViOUs5dTJCWDg3RkJsWWIwbWxCSFVhUDdSTEtGazRoZkFXQ1ZVOXVjSHh5LTZmN1hPLXdxdzdFekVmTUM0c2FqRjdneXo1czhRZTg4TWFtRlFIT2pRNzd3V1hMMS1kWlJ3?oc=5",
-   "veiculo": "BitNotícias",
-   "publicado": "2026-10-11T17:00:04+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=T%C3%ADtulos+p%C3%BAblicos+atrelados+infla%C3%A7%C3%A3o+lideram+valoriza%C3%A7%C3%A3o+dos+%C3%ADndices+renda",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "BitNotícias",
-     "titulo": "Títulos públicos atrelados à inflação lideram valorização dos índices de renda fixa da B3 no trimestre",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSG1hWVZEUm1LNF9weGJSb1RreWl1X3RwclNnWlg5VXJ6M25ZcjZTcmJnSkN4MUFNeWk4YVpEQ3J1VGtDdU11d0tnNEQtUzNlT3JOeGlHRTlxQnZLYmROaUNJV0JVeWl4elBaSnpndkdoNzFXQWViOUs5dTJCWDg3RkJsWWIwbWxCSFVhUDdSTEtGazRoZkFXQ1ZVOXVjSHh5LTZmN1hPLXdxdzdFekVmTUM0c2FqRjdneXo1czhRZTg4TWFtRlFIT2pRNzd3V1hMMS1kWlJ3?oc=5"
-    }
-   ],
-   "score": 16.9
-  },
-  {
-   "id": "ecb903683a",
-   "titulo": "Ele superou dívida milionária e lidera a maior escola de oratória do Brasil, que mira R$ 220 milhões",
-   "url": "https://exame.com/negocios/ele-superou-divida-milionaria-e-lidera-a-maior-escola-de-oratoria-do-brasil-que-mira-r-220-milhoes/",
-   "veiculo": "Exame",
-   "publicado": "2026-10-11T13:31:41-03:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ele+superou+d%C3%ADvida+milion%C3%A1ria+lidera+maior+escola+orat%C3%B3ria+Brasil%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 16.7
-  },
-  {
-   "id": "77ee37bd0c",
-   "titulo": "Agenda do STF: Ministros podem julgar Funrural e fretamento de ônibus na próxima semana",
-   "url": "https://valor.globo.com/legislacao/noticia/2026/10/11/agenda-do-stf-ministros-podem-julgar-funrural-e-fretamento-de-onibus-na-proxima-semana.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-11T14:00:00+00:00",
+   "id": "ea87df2218",
+   "titulo": "Tereza Cristina vê ambiente para discutir impeachment de ministros do STF a partir de 2027",
+   "url": "https://www.moneytimes.com.br/tereza-cristina-ve-ambiente-para-investigar-ministros-do-stf-e-diz-que-senado-sera-cobrado-igdl/",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-12T18:29:00+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Agenda+STF+Ministros+podem+julgar+Funrural+fretamento+%C3%B4nibus+pr%C3%B3xima",
+   "busca_video": "https://www.youtube.com/results?search_query=Tereza+Cristina+ambiente+para+discutir+impeachment+ministros+STF+partir",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 16.7
+   "score": 18.5
   },
   {
-   "id": "f1ac0b4327",
-   "titulo": "Camilo Santana diz não ter dúvidas da aprovação do fim da 6x1 no Senado",
-   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/camilo-santana-diz-no-ter-dvidas-da-aprovao-do-fim-da-6x1-no-senado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-11T16:09:33+00:00",
+   "id": "e948fb9921",
+   "titulo": "Inflação oficial sobe 0,82% e supera teto da meta",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjVyV1Z0Y3VjOUNGanF1MzFDY3ZGeVlSTEZmeTU4VldacGtOMC1jSkZWQUV1OFNveEZQVE1YcVJCbTBHZmR3bTFkaV9pNHBlekp2UU5keTJWN2FjUUdrSTdnaWlHQ0lxeEZORTEtZ0dtQVJSSWRCZkpaSE1SakUtV3FzVlBiSndHN19ub3pDdjZ0ZGpu0gGUAUFVX3lxTE9uNXJXVnRjdWM5Q0ZqcXUzMUNjdkZ5WVJMRmZ5NThWV1pwa04wLWNKRlZBRXU4U294RlBUTVhxUkJtMEdmZHdtMWRpX2k0cGV6SnZRTmR5MlY3YWNRR2tJN2dpaUdDSXF4Rk5FMS1nR21BUlJJZEJmSlpITVJqRS1XcXNWUGJKd0c3X25vekN2NnRkam4?oc=5",
+   "veiculo": "O Cafezinho",
+   "publicado": "2026-10-12T11:21:15+00:00",
    "temas": [
-    "mercado",
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Infla%C3%A7%C3%A3o+oficial+sobe+0%2C82%25+supera+teto+meta",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "soubrasilia.com",
+     "titulo": "IPCA de setembro sobe 0,82%, maior alta desde março, e passa do teto da meta em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSTd3aU1ZWGRwVExBLWZJNEVkZUIyZjVwckZFbVRZMnZxNHFpM0pmdHZDR1FtRXJHb3lVc0ZDVFBHdmdCNHFjUlhIbS1kVUJORFlUY2RoRWtfck5iZk1mNnJ4MzdaTmZhX3BRUTFvbjQtZVVUUW9MRDgtdkVpd1E?oc=5"
+    }
+   ],
+   "score": 18.5
+  },
+  {
+   "id": "e59979684d",
+   "titulo": "Hammack, do Fed: rendimentos dos Treasuries são modestos para padrões históricos",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDdmeFFHcTJ0RGdkbGMtTTZWSXdkOFVrWmRUOW1lSnBCeVJlaHp3b214NzNoc01ZN0ptSEJSN3B3aElLeWRadEU3ZGdLcHhuZ1BfTHpDcFVVVTNrOWF2TTlTN1VXc0gxbG9JbXJsSWFDODVkclktQ2VaSDhFUzRzdmpYc0VMQWQ4NHE0ZWprOXIxaUFVZi1uZXFTWFVLWmdVWjJWbDRhQVBFVnA4SmpCYjdaeUc0ZW1kRUFhcHNPLTFZWUFiSlhWcA?oc=5",
+   "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "publicado": "2026-10-12T17:50:00+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Hammack%2C+Fed+rendimentos+dos+Treasuries+s%C3%A3o+modestos+para+padr%C3%B5es",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.2
+  },
+  {
+   "id": "fad4a1e497",
+   "titulo": "Presidente do TSE marca reunião entre campanhas de Lula e Flávio Bolsonaro amanhã",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/presidente-do-tse-marca-reunio-entre-campanhas-de-lula-e-flvio-bolsonaro-amanh.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T17:49:00+00:00",
+   "temas": [
     "politica"
    ],
    "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Camilo+Santana+diz+n%C3%A3o+ter+d%C3%BAvidas+aprova%C3%A7%C3%A3o+fim+6x1",
-   "veiculos": 1,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Presidente+TSE+marca+reuni%C3%A3o+entre+campanhas+Lula+Fl%C3%A1vio+Bolsonaro",
+   "veiculos": 2,
    "rotina": false,
-   "outras": [],
-   "score": 16.6
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Nunes Marques convoca campanhas de Flávio Bolsonaro e Lula para reunião nesta terça (13)",
+     "url": "https://www.moneytimes.com.br/kassio-convoca-campanhas-de-flavio-e-lula-para-reuniao-nesta-terca-13-igdl/"
+    }
+   ],
+   "score": 18.2
   },
   {
-   "id": "a3724ed7f0",
-   "titulo": "Tesouro IPCA+ 2050 lidera e bate Ibovespa após 1º turno",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3h2d2kwZ3JiQ1ZDUVljaVNXUW5NdkNrYkd2Z2F1cmY4TkZKUW1FYlNhWFlHSTJtaG0yNEdmSzBPMi1jSllSTkROaTE4dzhlZXZsejVnVXctSGEwN21YRFZLTGhnUVdqektaNFRMRE9wZGFDSERwWm5RZEt5QTRuLTZiUVF6VkxPcEJobzIyeExfZ3luUUxRLURjWlhtdWlDLUtpY1lmQ2tXZC04blJ3TkVn?oc=5",
+   "id": "49e18a36ce",
+   "titulo": "Dirigente do Fed defende juros mais altos contra inflação",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3JweTU3a3FIS205dnNPZkxjbFBtWFE5Rm12emdUX1FCSU9mM0RQZG5iRVZyZlJpcEFmTGhCSVpZbURpal90aXE3cmVfSmw0OTFUbXp4Z2xvdUNmQXVNaDZXYzJuRWROWlNiamVPRXozdHFZWEV1aVVqdURJRm56NVVfdnRHOW8?oc=5",
    "veiculo": "SpaceMoney",
-   "publicado": "2026-10-11T15:44:03+00:00",
+   "publicado": "2026-10-12T17:48:49+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Tesouro+IPCA+2050+lidera+bate+Ibovespa+ap%C3%B3s+turno",
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Dirigente+Fed+defende+juros+mais+altos+contra+infla%C3%A7%C3%A3o",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 16.4
+   "score": 18.2
   },
   {
-   "id": "bb16101eca",
-   "titulo": "Plataforma de cursos on-line Coursera quer crescer no mercado corporativo",
-   "url": "https://valor.globo.com/empresas/noticia/2026/10/11/plataforma-de-cursos-on-line-coursera-quer-crescer-no-mercado-corporativo.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-11T15:24:28+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Plataforma+cursos+line+Coursera+quer+crescer+mercado+corporativo",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 16.3
-  },
-  {
-   "id": "199f386275",
-   "titulo": "Governo Lula estuda elevar teto do microcrédito de R$ 21 mil para R$ 30 mil",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVZDQkRGTlVCTkZFNUlPdnhvSWIzN3VZZmVKLTZQS1dWSGZWc3pGaHlvQzM1b3doZW9tb1BWT2ctbHVyVnppd3FXVVNrTjMwZlpxbVo4TnFIaWxSRHlEeTI4ZWNZaFJPZ2M5eU9ka085cUJHd3ZHT19fUVhJdUxuaU51TFJhUzE5RUl4NktUdWY?oc=5",
-   "veiculo": "BPMoney",
-   "publicado": "2026-10-11T20:06:00+00:00",
+   "id": "90189a1010",
+   "titulo": "Eurasia eleva para 80% chance de vitória de Flávio Bolsonaro contra Lula",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM001enJOT0x4d3kzYk5OQ1BOei12a1ZGRm5lRWFVaWlLcDladm5ZSHJoaU5CQVotZEMtR0w2YXpiMTZybWhLb0V5N2NPbW40M0FORFJLUlpoMHZkdy1xT203MWFlOHhENndwelRvNzl3LVhRQ21ZM3ZsUnpRelU5MXlUX0ZScTFsUGI5cmM3dDFlY2p5NS1kY2dGZjdYY2pIdXBORWdJYV96T3M?oc=5",
+   "veiculo": "VEJA",
+   "publicado": "2026-10-12T17:09:06+00:00",
    "temas": [
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+estuda+elevar+teto+microcr%C3%A9dito+mil+para+mil",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Governo Lula estuda elevar teto do microcrédito de R$ 21 mil para R$ 30 mil",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVZDQkRGTlVCTkZFNUlPdnhvSWIzN3VZZmVKLTZQS1dWSGZWc3pGaHlvQzM1b3doZW9tb1BWT2ctbHVyVnppd3FXVVNrTjMwZlpxbVo4TnFIaWxSRHlEeTI4ZWNZaFJPZ2M5eU9ka085cUJHd3ZHT19fUVhJdUxuaU51TFJhUzE5RUl4NktUdWY?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Governo Lula estuda elevar teto do microcrédito de R$ 21 mil para R$ 30 mil",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVZDQkRGTlVCTkZFNUlPdnhvSWIzN3VZZmVKLTZQS1dWSGZWc3pGaHlvQzM1b3doZW9tb1BWT2ctbHVyVnppd3FXVVNrTjMwZlpxbVo4TnFIaWxSRHlEeTI4ZWNZaFJPZ2M5eU9ka085cUJHd3ZHT19fUVhJdUxuaU51TFJhUzE5RUl4NktUdWY?oc=5"
-    }
-   ],
-   "score": 16.2
-  },
-  {
-   "id": "a4d361baf0",
-   "titulo": "Mercado financeiro eleva projeção da inflação para 5,01%",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXdCbGZsSGhGR3NIRVV3Zm5vazlWNzR6ZXlQWFhyS2RiVjhpU0VXRGg0RXIxNGJIcVY5dmNLT1lWeVNOak9PbHd1a3JCXzYxLTVveW5wZXdHeGktSEVSVkFoSUJZRnF2OE9ZbVdsbWxLcFRzY1l4ZnNpMk5kd2U3ZTFlbTU2eWJMSGd4cg?oc=5",
-   "veiculo": "Jornal do Commercio Amazonas",
-   "publicado": "2026-10-11T14:58:22+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+financeiro+eleva+proje%C3%A7%C3%A3o+infla%C3%A7%C3%A3o+para+5%2C01%25",
+   "busca_video": "https://www.youtube.com/results?search_query=Eurasia+eleva+para+80%25+chance+vit%C3%B3ria+Fl%C3%A1vio+Bolsonaro+contra",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 16.1
+   "score": 17.9
   },
   {
-   "id": "0ce2b63854",
-   "titulo": "Inflação oficial de setembro fica em 0,82%, mostra IBGE",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVhodnJ2X25FT1ZXc1BZTWxNNkVVeWZ3cGo2bUNtWF9lbExUcWZnZ3hXWS1iU0l2ZEZvRWdvZHo3dk9PQ1lZdDdQeWNVTTdjUFd3Y0lXWTVfUFFDSnNXR3NnMkNVWTVnbTc2OWt3VXZXQ3V5Y1Y2RmRuYXMwWGFscVVIOFE5bnlzWTZ4R2tHVzdBb3J1dE130gGXAUFVX3lxTE9hc0d0NDhiNFdHV2Vhbm5nWnVEN24wc0d6WEhiZ3R6bzJUT2E3Y3djLWlkT3l4ZXVZZXBNeTVPSkJuOUNvYi02UUV5dnY5V1BHTXJiSk1pOC03aUp1Zkw5VUowMGlXMTJXNXAxblNrTDhFckFiVWx4NnRhQ2htUUJ1T202OUNDaThINjYtZzNCQnVDWUtOM1U?oc=5",
-   "veiculo": "diariodigital.com.br",
-   "publicado": "2026-10-11T14:53:00+00:00",
-   "temas": [
-    "economia"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Infla%C3%A7%C3%A3o+oficial+setembro+fica+0%2C82%25%2C+mostra+IBGE",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "diariodigital.com.br",
-     "titulo": "Inflação oficial de setembro fica em 0,82%, mostra IBGE",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXNHdDQ4YjRXR1dlYW5uZ1p1RDduMHNHelhIYmd0em8yVE9hN2N3Yy1pZE95eGV1WWVwTXk1T0pCbjlDb2ItNlFFeXZ2OVdQR01yYkpNaTgtN2lKdWZMOVVKMDBpVzEyVzVwMW5Ta0w4RXJBYlVseDZ0YUNobVFCdU9tNjlDQ2k4SDY2LWczQkJ1Q1lLTjNV0gGXAUFVX3lxTE9hc0d0NDhiNFdHV2Vhbm5nWnVEN24wc0d6WEhiZ3R6bzJUT2E3Y3djLWlkT3l4ZXVZZXBNeTVPSkJuOUNvYi02UUV5dnY5V1BHTXJiSk1pOC03aUp1Zkw5VUowMGlXMTJXNXAxblNrTDhFckFiVWx4NnRhQ2htUUJ1T202OUNDaThINjYtZzNCQnVDWUtOM1U?oc=5"
-    },
-    {
-     "veiculo": "noticiarte",
-     "titulo": "Inflação oficial de setembro fica em 0,82%, mostra IBGE",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXdSXzFrVEZSSUl3cVA2dFlnaHNZd1dyc21uNVNtbkRVc050OS1JZGhVRFltYUotc2NZdWhWRlVxZXJXcnBSbm5lQ0d1Vy15WXctWThuLXJRMHE3bXA4ZWNyTjhpclJJODUxd0IyeDZVUUwzNmRLZ2l2cndseDNRWk1rZ3hfQQ?oc=5"
-    }
-   ],
-   "score": 16.0
-  },
-  {
-   "id": "4faeb6e9f1",
-   "titulo": "Alckmin aponta caminho para Lula reverter placar no segundo turno",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0J0Ql8yalVFZ0s3eWRHT2ZRTWh6cW96eEF1cUNPNjBvLWkyeE01V3JHcWhhVzBERDB5Nmh5TG5OTTZzYmR5dExJYmMwcXlNYnlNbmNTOHgwODlhd1lTRmJ4MDBlZGV3MkpUSmg3UHgzTkNJQUVIalRDSnhoTFFkTUpwVklmWnptV0JDamJyT1FTZTQyY3RMOFlKMTZJSHZFaGhFSUNZQXA?oc=5",
-   "veiculo": "Agora Litoral",
-   "publicado": "2026-10-11T16:38:00+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alckmin+aponta+caminho+para+Lula+reverter+placar+segundo+turno",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Muita Informação",
-     "titulo": "Alckmin aponta abstenção de 33 milhões como desafio para Lula no 2º turno e intensifica agenda religiosa",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQazY4UkNWaDhIVXIwdFFYVjJVSXVCNVpaRXotS1lSSzJiTTZ5bHZfdzBtSHRCTkZfbWVWX1RTN2U4dFRFN3llRGE4bDhtMnV1SW5wbHRWQTNYVk1Hci1ldkJLZG5ZWXVsc1RzaHdOS3NIM21RQ3J0OXczQ1lmQlE1WlRYQjN0eUhKR09DaDhrbmtWVkc4OXVMS1FZT0VMZnozMUlIT1FsVHdOSEN4eXBEZmhoS1lBcnhMY016M1U4RGllS0RxOVlyT3BBd1BNeXlBb0EwdmNFYXJCNHdhZWc?oc=5"
-    }
-   ],
-   "score": 15.8
-  },
-  {
-   "id": "327e4b7b3e",
-   "titulo": "Morgan Stanley vê Ibovespa subir até 20% e muda apostas para a Bolsa brasileira",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcDU1VGRhQmxFOGQwWTdhMHJiMEl3T1k1NDRuRnlmaGlxS2hieEJBZEFmS3dTQVVVZGJMYjRvek43QnJtckhJRXd4U0VRQ2htcGNVdzlLOHUzcFZPNkc3RjA4aFdvMlJMb0lfaHRObk0wU0VoVDZxaUVNMVVNaFVWdS1CaVJ5djhuRjc4dDNSMDcyYzRVcmo5SEQ3SlZVTWRFbVRCS0F5MThHSUlENElxc2wtVDVzbm8wcFZQTG1BSDlFRDJ1ZGZMNFdRRk0ycVJ1MDRsVUZoY1E2NmtmTnc?oc=5",
-   "veiculo": "Estadão",
-   "publicado": "2026-10-11T09:13:27+00:00",
-   "temas": [
-    "comportamento",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Morgan+Stanley+Ibovespa+subir+at%C3%A9+20%25+muda+apostas+para",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 15.7
-  },
-  {
-   "id": "237b0561d3",
-   "titulo": "Alta vazão fecha passarela das Cataratas do Iguaçu no Paraná",
-   "url": "https://www.poder360.com.br/poder-brasil/alta-vazao-fecha-passarela-das-cataratas-do-iguacu-no-parana/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-11T21:02:22+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alta+vaz%C3%A3o+fecha+passarela+das+Cataratas+Igua%C3%A7u+Paran%C3%A1",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 15.6
-  },
-  {
-   "id": "0879300fc2",
-   "titulo": "Os preços do ouro se recuperam após duas semanas de queda, mas a atuação do Fed permanece uma incógnita.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzZxcU9XY2xYZEhSUUVWbFJKMlc5dHJ5NVFVdGV2RHNqemZpMnpuMU82RG9EbzRsdTBKS1pjUHNSN0RJcjhMbDBLQnRjVTByZVdMRXhZZ3VhSEFVYjd1Z2ZfM1lKMHpKNWFFXzdPUU4zWnBxdUcySG5SLTJteWRHQVNKblg?oc=5",
-   "veiculo": "Vietnam.vn",
-   "publicado": "2026-10-11T13:56:51+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=pre%C3%A7os+ouro+recuperam+ap%C3%B3s+duas+semanas+queda%2C+mas+atua%C3%A7%C3%A3o",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 15.6
-  },
-  {
-   "id": "346dab33ad",
-   "titulo": "Oriente Médio e alto endividamento serão alguns dos temas presentes nas reuniões do FMI e Banco Mundial em Bangcoc",
-   "url": "https://valor.globo.com/financas/noticia/2026/10/11/oriente-mdio-e-alto-endividamento-sero-alguns-dos-temas-presentes-nas-reunies-do-fmi-e-banco-mundial-em-bangcoc.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-11T13:47:56+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Oriente+M%C3%A9dio+alto+endividamento+ser%C3%A3o+alguns+dos+temas+presentes",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 15.6
-  },
-  {
-   "id": "c1274faadc",
-   "titulo": "Elon Musk invade telefonia móvel com acordo de US$ 8 bilhões e assusta rivais",
-   "url": "https://www.infomoney.com.br/business/elon-musk-invade-telefonia-movel-com-acordo-de-us-8-bilhoes-e-assusta-rivais/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T20:51:21+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Elon+Musk+invade+telefonia+m%C3%B3vel+com+acordo+US%24+bilh%C3%B5es",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 15.5
-  },
-  {
-   "id": "8b8d347d84",
-   "titulo": "Flávio alerta para falsas promessas de cargos e chama intermediários de “picaretas”",
-   "url": "https://www.infomoney.com.br/politica/flavio-alerta-para-falsas-promessas-de-cargos-e-chama-intermediarios-de-picaretas/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T20:42:38+00:00",
+   "id": "190f6c1e34",
+   "titulo": "Ministro diz que Lula fará ajuste das contas em 4 anos e vê 'conversa fiada' de Flávio",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/ministro-diz-que-lula-fara-ajuste-das-contas-em-4-anos-e-ve-conversa-fiada-de-flavio.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T17:04:21+00:00",
    "temas": [
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+alerta+para+falsas+promessas+cargos+chama+intermedi%C3%A1rios+picaretas",
+   "busca_video": "https://www.youtube.com/results?search_query=Ministro+diz+que+Lula+far%C3%A1+ajuste+das+contas+anos",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jornal de Brasília",
+     "titulo": "Ministro diz que Lula fará ajuste das contas em 4 anos e vê ‘conversa fiada’ de Flávio",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSTlnbEFXaWJnT2VTUVIzZDl0NzZDY1RHbFRoMzl3dGlHRUxEa01rMS03cFh2UHVUVktCNjVVekYyMHpqcG1Id1RuLU92cFNiQlFsTHVzZmVTWHN2XzBxMFdqa0tnNVA5NnZjamVBV25GUXJ2bTBSOWh2Q2t0cVd3NGl5bHdvY2NTMWZDTGpDbU9KamVEQzFxMkplM2xkOXdweFQ1UmFtWFpaVWNOSW1KV25HaEk0OUR0STBMQkFZakt2bTJrR1p4UTlINFpjUHZ5?oc=5"
+    }
+   ],
+   "score": 17.9
+  },
+  {
+   "id": "44faa070ba",
+   "titulo": "Vendas da LVMH no 3º tri são impactadas por desaceleração na China",
+   "url": "https://valor.globo.com/empresas/noticia/2026/10/12/vendas-da-lvmh-no-3-tri-so-impactadas-por-desacelerao-na-china.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T16:57:36+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Vendas+LVMH+tri+s%C3%A3o+impactadas+por+desacelera%C3%A7%C3%A3o+China",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.5
+   "score": 17.8
   },
   {
-   "id": "8af87a5665",
-   "titulo": "Feriadão, dados de serviços e inflação mexerão com os mercados na semana",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEpGUGUzdkRGcDd0bUU5ZldoMTFGRGJYZ0dUdTBsNi1HZ25neUk1QVJ1bmpFUzF6aDlNLXpVNnhiNk9yOEV3MkQ4ZzNMdllES3E1d1FOdWZzWE1Fc1oxSkFySWN3UXpyX1luY0ZtWmRpZDZ0cm9EVHJLOVR3UkdsV0d0ZnV6N3FfOWNJak11MmNSUlMtaThKLUdUZncxaGZyN2NBbW1ycnZaNFItVWVEWGRVemtVaVJvVTlqSNIBvAFBVV95cUxNOEpGUGUzdkRGcDd0bUU5ZldoMTFGRGJYZ0dUdTBsNi1HZ25neUk1QVJ1bmpFUzF6aDlNLXpVNnhiNk9yOEV3MkQ4ZzNMdllES3E1d1FOdWZzWE1Fc1oxSkFySWN3UXpyX1luY0ZtWmRpZDZ0cm9EVHJLOVR3UkdsV0d0ZnV6N3FfOWNJak11MmNSUlMtaThKLUdUZncxaGZyN2NBbW1ycnZaNFItVWVEWGRVemtVaVJvVTlqSA?oc=5",
-   "veiculo": "Investidor10",
-   "publicado": "2026-10-11T13:30:00+00:00",
+   "id": "0bd1653145",
+   "titulo": "Em Aparecida, Alckmin defende liberdade religiosa e pede isenção da Justiça Eleitoral",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/em-aparecida-alckmin-defende-liberdade-religiosa-e-pede-iseno-da-justia-eleitoral.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T16:40:07+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Aparecida%2C+Alckmin+defende+liberdade+religiosa+pede+isen%C3%A7%C3%A3o+Justi%C3%A7a+Eleitoral",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 17.7
+  },
+  {
+   "id": "19be6e81b4",
+   "titulo": "Apoiadores de Lula ocupam quarteirões em Copacabana durante ato",
+   "url": "https://exame.com/brasil/apoiadores-de-lula-ocupam-quarteiroes-em-copacabana-durante-ato/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-12T15:46:20-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Apoiadores+Lula+ocupam+quarteir%C3%B5es+Copacabana+durante+ato",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Apoiadores ocupam quarteirões da Praia de Copacabana (RJ) em ato sem Lula no Rio",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/apoiadores-ocupam-quarteiroes-da-praia-de-copacabana-rj-em-ato-sem-lula-no-rio.ghtml"
+    }
+   ],
+   "score": 17.6
+  },
+  {
+   "id": "91d724777a",
+   "titulo": "Nobel de Economia: vencedores criaram modelo que orienta decisões de juros dos bancos centrais",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaW1hdVdzdDNrZ19tRU5JWV9xYW81NUJTUllyWkpHeXRkZnhtSFpxN196aE5fWGppdFEwekpQc1NnWkJyUDlad2NzaEJBU2N4SVlJNGo2XzZyOXUzT0dFRWxsaGF1Vnl3QzhMTXd4dkJMV0JmTVUwemRmMkJEZ2ExYlpzNUtRdDVZTXJORXJfV0FWRVY5X0tOZG5BNFBCVXFNODcxei1TdWJpUjBrVzNqMdIBtAFBVV95cUxOc1BiejF6eVJQT1Q4cEdWTnNCSzhyUktUZzFoR01oT3NvcGJ4bzk2V2NqWUZnVHN0ZVJyZUczOUJISU0zNlpOUndMSDFvTElrejNybTZ5MmVIdXhSRDRmTGRVa2l0ank1UWJKSTZRcWFrVWdkV0NmYTVBdkJYYlB3WUhsWXdCQmRnNjNaNl9HbW91Skx0d3ZDQ2RXUTdIUWttbUQxZXNwWXZDd2hGc2NPdlA0ekM?oc=5",
+   "veiculo": "Folha PE",
+   "publicado": "2026-10-12T16:23:32+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Feriad%C3%A3o%2C+dados+servi%C3%A7os+infla%C3%A7%C3%A3o+mexer%C3%A3o+com+mercados+semana",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Nobel+Economia+vencedores+criaram+modelo+que+orienta+decis%C3%B5es+juros",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Investidor10",
-     "titulo": "Feriadão, dados de serviços e inflação mexerão com os mercados na semana",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEpGUGUzdkRGcDd0bUU5ZldoMTFGRGJYZ0dUdTBsNi1HZ25neUk1QVJ1bmpFUzF6aDlNLXpVNnhiNk9yOEV3MkQ4ZzNMdllES3E1d1FOdWZzWE1Fc1oxSkFySWN3UXpyX1luY0ZtWmRpZDZ0cm9EVHJLOVR3UkdsV0d0ZnV6N3FfOWNJak11MmNSUlMtaThKLUdUZncxaGZyN2NBbW1ycnZaNFItVWVEWGRVemtVaVJvVTlqSNIBvAFBVV95cUxNOEpGUGUzdkRGcDd0bUU5ZldoMTFGRGJYZ0dUdTBsNi1HZ25neUk1QVJ1bmpFUzF6aDlNLXpVNnhiNk9yOEV3MkQ4ZzNMdllES3E1d1FOdWZzWE1Fc1oxSkFySWN3UXpyX1luY0ZtWmRpZDZ0cm9EVHJLOVR3UkdsV0d0ZnV6N3FfOWNJak11MmNSUlMtaThKLUdUZncxaGZyN2NBbW1ycnZaNFItVWVEWGRVemtVaVJvVTlqSA?oc=5"
+     "veiculo": "O GLOBO",
+     "titulo": "Nobel de Economia: vencedores criaram modelo que orienta decisões de juros dos bancos centrais, explica economista",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOeHZPWjdON1N2NnNtOUtrcE4xanV4NVYxUzUyenV5MGl1MlN4Mm9FeHdiblNpQmhsUDZzVEJiY1BIUGZLZ2U5eTd3aEwyb05fQUpJY1pwanFPZUNscVFyRGJBM3JNUVZUc3RrcUNsa3FoekFDVzRjRGlDamRLc3RGZWFUeDl2UWdzQWp4UjhQX2JoTjA3QnBsdjNrOUpOZnVqM2FTVXRHN1RFbFpsM1puZWEtLXBwdXFJNTN6NGRHd0RpTFFYTkVGY2V5dC03SG9mS2tUaF90UGhhWXhIeGtIWElJQmM2RmVhTUQwUm1tTTRhNFZ6STlXdzZtTnEteTlqbkE4a19iQUdDekoxeDNF0gGPAkFVX3lxTE54dk9aN043U3Y2c205S2twTjFqdXg1VjFTNTJ6dXkwaXUyU3gyb0V4d2JuU2lCaGxQNnNUQmJjUEhQZktnZTl5N3doTDJvTl9BSkljWnBqcU9lQ2xxUXJEYkEzck1RVlRzdGtxQ2xrcWh6QUNXNGNEaUNqZEtzdEZlYVR4OXZRZ3NBanhSOFBfYmhOMDdCcGx2M2s5Sk5mdWozYVNVdEc3VEVsWmwzWm5lYS0tcHB1cUk1M3o0ZEd3RGlMUVhORUZjZXl0LTdIb2ZLa1RoX3RQaGFZeEh4a0hYSUlCYzZGZWFNRDBSbW1NNGE0VnpJOVd3Nm1OcS15OWpuQThrX2JBR0N6SjF4M0U?oc=5"
     }
    ],
-   "score": 15.5
+   "score": 17.6
+  },
+  {
+   "id": "0a89b22cc1",
+   "titulo": "Campanha de Lula acusa Flávio de associar vídeo de usuários de drogas no Chile ao ato petista na Paulista",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/campanha-de-lula-acusa-flavio-de-associar-video-de-usuarios-de-drogas-no-chile-ao-ato-de-lula-na-paulista.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T16:18:37+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Campanha+Lula+acusa+Fl%C3%A1vio+associar+v%C3%ADdeo+usu%C3%A1rios+drogas+Chile",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Plantão Brasil",
+     "titulo": "Desespero bolsonarista: canal oficial de Flávio no WhatsApp usa vídeo do Chile para atacar ato pró-Lula na Paulista",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWE4wTEpvMlkwLVN2Znh0TEtyNkZKdVNMS2FocllPS3h4Q0s4WTM2bXR2N296UzJFNF82OTdvczVuY0JTSHo4TDBLaDB6Rk95MVNlbVp6VVBJSXZ6bXRDV3h1TmdXakR2MTNackF5U0NvTzY0VF94a3dmRk9rZDF5clFVYkN6ME5TcFBvbEotdkVrc2NYNnR5UEQ3WDBRb3BhX0drcGxnWThZWFlMX1dScjVPMFpYYmVKZ0JRb2VuZw?oc=5"
+    }
+   ],
+   "score": 17.6
+  },
+  {
+   "id": "674d84a0b7",
+   "titulo": "China sanciona ministros de Paraguai e Belize por relação com Taiwan",
+   "url": "https://www.poder360.com.br/poder-internacional/china-sanciona-ministros-de-paraguai-e-belize-por-relacao-com-taiwan/",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-12T18:30:21+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=China+sanciona+ministros+Paraguai+Belize+por+rela%C3%A7%C3%A3o+com+Taiwan",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "China anuncia sanções a ministros de Paraguai e Belize por laços com Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXZoczVBWjJtRHZkMXNnU1JmVGtVdzVSNHdvLUt2dmJaRkVSMGVKbGY1NkwyZGZWc1ZYT24zTG95OVZyVmRqLUtNYXA0MXBfV2tTeTZhZjVzbmhodm9oZ3RiQno1aEtiU3pvLTRheGJJalRQSGVidVRkdmpzeTBoaUd2dDFudFNJSDhaYWZqN2REbGhXdkYtcE5OUkFqeHkxSmxrTk45UFI5ckZHeHlQeg?oc=5"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "China impõe sanções a ministros de Paraguai e Belize por relação com Taiwan",
+     "url": "https://valor.globo.com/mundo/noticia/2026/10/12/china-impe-sanes-a-ministros-de-paraguai-e-belize-por-relao-com-taiwan.ghtml"
+    }
+   ],
+   "score": 17.5
+  },
+  {
+   "id": "26fc19118e",
+   "titulo": "Elon Musk injeta US$ 276 milhões e se torna o maior doador dos republicanos nos EUA",
+   "url": "https://exame.com/mundo/elon-musk-injeta-us-276-milhoes-e-se-torna-o-maior-doador-dos-republicanos-nos-eua/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-12T15:24:47-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Elon+Musk+injeta+US%24+276+milh%C3%B5es+torna+maior+doador",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 17.5
   }
  ],
  "falas_e_videos": [
   {
-   "id": "e79fa9bcf1",
-   "titulo": "Carregador portátil provoca incêndio em voo na Índia; assista",
-   "url": "https://exame.com/mundo/carregador-portatil-provoca-incendio-em-voo-na-india-assista/",
-   "veiculo": "Exame",
-   "publicado": "2026-10-11T18:12:19-03:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Carregador+port%C3%A1til+provoca+inc%C3%AAndio+voo+%C3%8Dndia+assista",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 12.7
-  },
-  {
-   "id": "66c86cfd91",
-   "titulo": "Cleitinho nega apoio a Alcolumbre em vídeo sobre 6 X 1",
-   "url": "https://www.poder360.com.br/poder-congresso/cleitinho-nega-apoio-a-alcolumbre-em-video-sobre-6-x-1/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-11T20:57:36+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Cleitinho+nega+apoio+Alcolumbre+v%C3%ADdeo+sobre",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 11.6
-  },
-  {
-   "id": "40acbf95f6",
-   "titulo": "Ratinho Jr declara apoio a Flávio Bolsonaro no 2º turno",
-   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/ratinho-jr-declara-apoio-a-flvio-bolsonaro-no-2-turno.ghtml",
+   "id": "0a89b22cc1",
+   "titulo": "Campanha de Lula acusa Flávio de associar vídeo de usuários de drogas no Chile ao ato petista na Paulista",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/campanha-de-lula-acusa-flavio-de-associar-video-de-usuarios-de-drogas-no-chile-ao-ato-de-lula-na-paulista.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-11T21:44:23+00:00",
+   "publicado": "2026-10-12T16:18:37+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Ratinho+declara+apoio+Fl%C3%A1vio+Bolsonaro+turno",
-   "veiculos": 3,
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Campanha+Lula+acusa+Fl%C3%A1vio+associar+v%C3%ADdeo+usu%C3%A1rios+drogas+Chile",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Poder360",
-     "titulo": "Flávio pede investigação contra diretor da PF por interferência eleitoral",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-pede-investigacao-contra-diretor-da-pf-por-interferencia-eleitoral/"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/campanha-de-flavio-bolsonaro-pede-investigacao-de-diretor-da-pf-por-entrevista-no-primeiro-turno.ghtml"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Flávio Bolsonaro aciona Justiça Eleitoral contra diretor-geral da PF por suposto favorecimento ao PT",
-     "url": "https://exame.com/brasil/flavio-bolsonaro-aciona-justica-eleitoral-contra-diretor-geral-da-pf-por-suposto-favorecimento-ao-pt/"
+     "veiculo": "Plantão Brasil",
+     "titulo": "Desespero bolsonarista: canal oficial de Flávio no WhatsApp usa vídeo do Chile para atacar ato pró-Lula na Paulista",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWE4wTEpvMlkwLVN2Znh0TEtyNkZKdVNMS2FocllPS3h4Q0s4WTM2bXR2N296UzJFNF82OTdvczVuY0JTSHo4TDBLaDB6Rk95MVNlbVp6VVBJSXZ6bXRDV3h1TmdXakR2MTNackF5U0NvTzY0VF94a3dmRk9rZDF5clFVYkN6ME5TcFBvbEotdkVrc2NYNnR5UEQ3WDBRb3BhX0drcGxnWThZWFlMX1dScjVPMFpYYmVKZ0JRb2VuZw?oc=5"
     }
    ],
-   "score": 24.9
+   "score": 17.6
   },
   {
-   "id": "c71bf5cc39",
-   "titulo": "Lula diz que CCJ retomará PEC da Segurança na 4ª feira",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-ccj-vota-pec-da-seguranca-publica-na-4a-feira/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-11T20:20:03+00:00",
+   "id": "d6a9a90e3e",
+   "titulo": "VÍDEO: LULA VIRA NA PESQUISA INTERNA E FLÁVIO BOLSONARO TEM CRlSE DE PÂNlCO COM EXÉRCITO DO LULA!! VIRADA!!",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzMxSjVJMjllN290LUd5Qk8zUm40QkVGWlBJQ2NEdXp5T19qUHZhODZWUXRQeDFpSUNzOFJxcWIzekxTU0dUR2ktV3ktUUtUdmtrWnlSLVl0SWFIa2RaSmwwR01jdWd6RjBacml6VVAwVDhjaVQ4cWdEaXE3QklGcEZZYWhIMm1yYnROSkJjR25iaVdyVDRVWW0wNXJxYTY0aHZWZUhZVkhXSC12ejN2Vl9RaXNVMGlmcDRkaWNCN2Q?oc=5",
+   "veiculo": "Plantão Brasil",
+   "publicado": "2026-10-12T12:31:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=V%C3%8DDEO+LULA+VIRA+PESQUISA+INTERNA+FL%C3%81VIO+BOLSONARO+TEM+CRlSE",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 13.0
+  },
+  {
+   "id": "f16e065466",
+   "titulo": "Hammack, do Fed, defende que o banco central não adie novos aumentos nos juros",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/12/hammack-do-fed-defende-que-o-banco-central-no-adie-novos-aumentos-nos-juros.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T18:17:34+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Hammack%2C+Fed%2C+defende+que+banco+central+n%C3%A3o+adie+novos",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Hammack, do Fed, defende que o banco central não adie novos aumentos nos juros",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRDlzQVo0ZmEyOGlBay1yRUlhZTVwNG4zSm5lQW1fX1g0VTBReE5iMUJvbTBuVU5rU2VFR2FtSkhXbHUxTTYzbWtRbHZIU3pXNDRGMkVjelRuaHl0c0Y1TEpTcmdKUVV1azVrV0djYWxKejZxd1EwNElOeW1LZEx4bndsSm5xa3UtSTEzTGd3dHNKR3ItOWR5cWt5UkdjNWF6Vm0xRHJFa3dVdUhOR1dIN0UzMDNxSTJsTG0wZzc4ckRySkhua3ptb25oLUFKUdIB3AFBVV95cUxQbnpNdHpCMlQ2QkgxM1BwZUdrc3BHb3NWcnhUX1JoS2o4V0JJTXE3WXVfanZFX1B2NlQyak43bzdBQ0xRN3Y3ZENxZGZmekNXa0pnVE84bk43cl82VDdHanNtUGRhRHBvckdjSjNFaTRtN3JSeHRtT1hISW9XZ3NRdWRGenBuNmxWZEFscE11X0lka3NPc1IydjIzY0Zib3lhMnoxWGRSNmdqRTFaSmJkbEdqVnhmeHFoV2pWSnBfX3hHbG1yVG1RMFhxa1FQTkhYUWRSRmFzd1U3Q2tX?oc=5"
+    }
+   ],
+   "score": 24.4
+  },
+  {
+   "id": "81aa443ac0",
+   "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-votacao-do-fim-da-6x1-antes-do-segundo-turno-ja-esta-acordada-com-alcolumbre.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T11:45:00+00:00",
    "temas": [
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+CCJ+retomar%C3%A1+PEC+Seguran%C3%A7a+feira",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+vota%C3%A7%C3%A3o+fim+6x1+antes+segundo+turno",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Canal MyNews",
-     "titulo": "Em ato na Paulista, Lula cobra votação do fim da escala 6x1 e defende PEC da Segurança Pública",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNm9HOXVrQXN0LTdrM1RycExINFZDem1wTUlrVlVoUHZJcjRKdVFTUWNfQ00ycWxLakd0VkJkeUNUcmZGNkh4X2Z6MnNVYWRteFVFQ0lheVVEcHNPNVJpQ05ramJEVFgzUUdNdHFPeFVMa3ZNOHRVTGd2YzZTRm56cTNSdzdDS19NS1lMejVibGNkZDIyTGIzYTFiQzlnVnFUV19Kb0Z0U2R6Z0NTanNqVFdPNWp6Y1hpRF9lTUV5OXJrMlRDYVV1Sy0yTlpYM2My?oc=5"
+     "veiculo": "Notícias ao Minuto Brasil",
+     "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2dnb0xIckF5bUJsZlpTWVoxdzd3VXFVa0piZ3JwaG9Vck4teV9MeTlpV19VNWxLZjE2YjVQSXNpZ005eWZ4NFY2dVZkaXozelVjNWNxWlZ3Mkk5RjJFWFlMLXY3OVBYczA1c2Y3YW50VVdjN2U4YXo4bnNkMGRnUGRBVENJaVJOOEEzQWtYTGV2M0MyZ3dmaHRuM1ZQR2FvZDRNcU10TmlSdlEtUzNGb2NHZmtsdUJQM0w4akUzdUlRZDNvQllRTklMemVMMkpaeTFRUTZBZmJtUQ?oc=5"
+    },
+    {
+     "veiculo": "SWI swissinfo.ch",
+     "titulo": "Lula aposta no fim da escala 6x1 de olho no segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHF4UXV3RXFCdHR3bVAwSHg5UzRLSmJza2tPWDAwR3F2aDYzdzB2dUlGM3FFcGFUSWxNeFh1NVpoVzZzR3p2WUEwVXNJeHU0cEJYTFVUek5EeFJwSUNONFJsTkxHMTVPTkxxbWRlZmRrdS1vMnBQVW5YQk5EVndvaExFc3JGa2pUczY5bzNId3VNT1BGLVNJbHlKcw?oc=5"
     },
     {
      "veiculo": "Valor",
@@ -1064,161 +1170,156 @@
      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/lula-diz-que-votao-do-pec-do-fim-da-escala-6x1-antes-do-segundo-turno-est-conversada-com-alcolumbre.ghtml"
     }
    ],
-   "score": 21.3
+   "score": 21.7
   },
   {
-   "id": "81aa443ac0",
-   "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/lula-diz-que-votacao-do-fim-da-6x1-antes-do-segundo-turno-ja-esta-acordada-com-alcolumbre.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-11T20:14:34+00:00",
+   "id": "5f50579c6d",
+   "titulo": "Hammack, do Fed, defende política monetária restritiva para conter inflação",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjd3aWVPb3lpbl9KaV9LR2Qxd3JucTZNRElRdGg5XzdRWmxUZzZUaWFDeGJSTldISzc3NHM1R3Z1cnlvcmJ5LVdRUGNTUWFfdm1nd1JsZ19VcW80YWlyWW9tX1loLXRNem5kN0lIZFdmX2FkVGdLZWp1RU1kOFNqalpkVl9jYXdRc3ByWW5JNEZyZVdpdEZ4bk42RjZaazVqSjN3aW83T1JmbGdIWkhCUmUzaDhidDZDdlFfUGxHN0VtUQ?oc=5",
+   "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "publicado": "2026-10-12T17:19:00+00:00",
    "temas": [
-    "politica"
+    "economia",
+    "mercado"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+vota%C3%A7%C3%A3o+fim+6x1+antes+segundo+turno",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=Hammack%2C+Fed%2C+defende+pol%C3%ADtica+monet%C3%A1ria+restritiva+para+conter+infla%C3%A7%C3%A3o",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "SWI swissinfo.ch",
-     "titulo": "Lula aposta no fim da escala 6x1 de olho no segundo turno",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHF4UXV3RXFCdHR3bVAwSHg5UzRLSmJza2tPWDAwR3F2aDYzdzB2dUlGM3FFcGFUSWxNeFh1NVpoVzZzR3p2WUEwVXNJeHU0cEJYTFVUek5EeFJwSUNONFJsTkxHMTVPTkxxbWRlZmRrdS1vMnBQVW5YQk5EVndvaExFc3JGa2pUczY5bzNId3VNT1BGLVNJbHlKcw?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Lula diz que votação do fim da 6x1 antes do segundo turno já está acordada com Alcolumbre",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRlJaSFlEWlpKRXJJd3F0Ql9JVnhtMHExb1I4a090X2ptWFBQdlJXTXdKNFB2cmk0UG4tSXJPVFFGLTlRTEJWbEhQbF96ZTJxNjU4ODg0ZFRQRk5iaFBwb0ZFS3pnWTBBblBaVjFTUTZXQUFWV3pOalY2NmdMS3VYYkJfRndyTC0zWGNEcjdfbHVnRmJnQXJna0gzb09DdUxvUUZmeW4xS2JIS1VBVk1NY2hQaDNFQ3FyYjBFNzN6Zi1fUXg0U044Rk1KbU9tWDlkODNFNklfczI?oc=5"
-    }
-   ],
-   "score": 21.3
+   "outras": [],
+   "score": 21.0
   },
   {
-   "id": "2d8edd2a64",
-   "titulo": "Flávio Bolsonaro diz que Lula não aprendeu nada na cadeia",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-diz-que-lula-nao-aprendeu-nada-na-cadeia/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-11T20:02:06+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+diz+que+Lula+n%C3%A3o+aprendeu+nada+cadeia",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Lula perdeu votos para a abstenção, e não para Flávio Bolsonaro, diz Lavareda",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3c2WEtKV0J1X1d2aUxNUDhLaWRweVNnWm5qaHhqcnh0Sm9aUE4tMm13YmRVdkFZREFHX2hfeUFhcUVyNjE3RTAyVExFUVRRa0x1aWwtMGNGRVBVcG5XTmR2SlRiM0xzZHpENnlOVEplcmVHMUJWdDdkeVZNWU9FMTVWRml4WV9CODgxaWlZRFB5ZXlGREpuZmg0WWYxWHdoWVNZ?oc=5"
-    }
-   ],
-   "score": 18.2
-  },
-  {
-   "id": "f1ac0b4327",
-   "titulo": "Camilo Santana diz não ter dúvidas da aprovação do fim da 6x1 no Senado",
-   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/camilo-santana-diz-no-ter-dvidas-da-aprovao-do-fim-da-6x1-no-senado.ghtml",
+   "id": "b3a0c89db1",
+   "titulo": "Pesquisa de Nobel deu respaldo à atuação dos BCs quando juros estavam em zero, diz estrategista da Itaú Asset",
+   "url": "https://valor.globo.com/mundo/noticia/2026/10/12/pesquisa-de-nobel-deu-respaldo-a-atuacao-dos-bcs-quando-juros-estavam-em-zero-diz-estrategista-da-itau-asset.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-11T16:09:33+00:00",
+   "publicado": "2026-10-12T19:28:09+00:00",
    "temas": [
+    "economia",
     "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Camilo+Santana+diz+n%C3%A3o+ter+d%C3%BAvidas+aprova%C3%A7%C3%A3o+fim+6x1",
+   "busca_video": "https://www.youtube.com/results?search_query=Pesquisa+Nobel+deu+respaldo+atua%C3%A7%C3%A3o+dos+BCs+quando+juros",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 16.6
+   "score": 20.9
   },
   {
-   "id": "8b8d347d84",
-   "titulo": "Flávio alerta para falsas promessas de cargos e chama intermediários de “picaretas”",
-   "url": "https://www.infomoney.com.br/politica/flavio-alerta-para-falsas-promessas-de-cargos-e-chama-intermediarios-de-picaretas/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T20:42:38+00:00",
+   "id": "dc260e9920",
+   "titulo": "Chefe do FMI se diz alarmada com o tsunami em câmera lenta da IA sobre empregos e impostos",
+   "url": "https://c-level.folha.uol.com.br/ia/2026/10/chefe-do-fmi-se-diz-alarmada-com-o-tsunami-em-camera-lenta-da-ia-sobre-empregos-e-impostos.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T11:24:00-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Chefe+FMI+diz+alarmada+com+tsunami+c%C3%A2mera+lenta+sobre",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 19.8
+  },
+  {
+   "id": "49e18a36ce",
+   "titulo": "Dirigente do Fed defende juros mais altos contra inflação",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3JweTU3a3FIS205dnNPZkxjbFBtWFE5Rm12emdUX1FCSU9mM0RQZG5iRVZyZlJpcEFmTGhCSVpZbURpal90aXE3cmVfSmw0OTFUbXp4Z2xvdUNmQXVNaDZXYzJuRWROWlNiamVPRXozdHFZWEV1aVVqdURJRm56NVVfdnRHOW8?oc=5",
+   "veiculo": "SpaceMoney",
+   "publicado": "2026-10-12T17:48:49+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Dirigente+Fed+defende+juros+mais+altos+contra+infla%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.2
+  },
+  {
+   "id": "190f6c1e34",
+   "titulo": "Ministro diz que Lula fará ajuste das contas em 4 anos e vê 'conversa fiada' de Flávio",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/ministro-diz-que-lula-fara-ajuste-das-contas-em-4-anos-e-ve-conversa-fiada-de-flavio.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T17:04:21+00:00",
    "temas": [
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+alerta+para+falsas+promessas+cargos+chama+intermedi%C3%A1rios+picaretas",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Ministro+diz+que+Lula+far%C3%A1+ajuste+das+contas+anos",
+   "veiculos": 2,
    "rotina": false,
-   "outras": [],
-   "score": 15.5
+   "outras": [
+    {
+     "veiculo": "Jornal de Brasília",
+     "titulo": "Ministro diz que Lula fará ajuste das contas em 4 anos e vê ‘conversa fiada’ de Flávio",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSTlnbEFXaWJnT2VTUVIzZDl0NzZDY1RHbFRoMzl3dGlHRUxEa01rMS03cFh2UHVUVktCNjVVekYyMHpqcG1Id1RuLU92cFNiQlFsTHVzZmVTWHN2XzBxMFdqa0tnNVA5NnZjamVBV25GUXJ2bTBSOWh2Q2t0cVd3NGl5bHdvY2NTMWZDTGpDbU9KamVEQzFxMkplM2xkOXdweFQ1UmFtWFpaVWNOSW1KV25HaEk0OUR0STBMQkFZakt2bTJrR1p4UTlINFpjUHZ5?oc=5"
+    }
+   ],
+   "score": 17.9
   },
   {
-   "id": "26071cf028",
-   "titulo": "Flávio volta a descartar reeleição e diz que fará apenas um mandato se eleito",
-   "url": "https://www.infomoney.com.br/politica/flavio-volta-a-descartar-reeleicao-e-diz-que-fara-apenas-um-mandato-se-eleito/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T20:33:53+00:00",
+   "id": "0bd1653145",
+   "titulo": "Em Aparecida, Alckmin defende liberdade religiosa e pede isenção da Justiça Eleitoral",
+   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/12/em-aparecida-alckmin-defende-liberdade-religiosa-e-pede-iseno-da-justia-eleitoral.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-12T16:40:07+00:00",
    "temas": [
+    "economia",
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+volta+descartar+reelei%C3%A7%C3%A3o+diz+que+far%C3%A1+apenas+mandato",
+   "busca_video": "https://www.youtube.com/results?search_query=Aparecida%2C+Alckmin+defende+liberdade+religiosa+pede+isen%C3%A7%C3%A3o+Justi%C3%A7a+Eleitoral",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.4
+   "score": 17.7
   },
   {
-   "id": "7acdbd060a",
-   "titulo": "Flávio Bolsonaro fala em cenário favorável, mas alerta aliados contra salto alto no 2º turno",
-   "url": "https://exame.com/brasil/flavio-bolsonaro-fala-em-cenario-favoravel-mas-alerta-aliados-contra-salto-alto-no-2o-turno/",
-   "veiculo": "Exame",
-   "publicado": "2026-10-11T17:06:02-03:00",
+   "id": "58f589a6ee",
+   "titulo": "Dólar ronda máxima em 18 meses, enquanto tensão no Golfo e inflação nos EUA mantêm investidores em alerta",
+   "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/01/6562-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post467453",
+   "veiculo": "Folha",
+   "publicado": "2026-10-12T12:30:00-03:00",
    "temas": [
-    "politica"
+    "economia",
+    "mercado"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+fala+cen%C3%A1rio+favor%C3%A1vel%2C+mas+alerta+aliados+contra",
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+ronda+m%C3%A1xima+meses%2C+enquanto+tens%C3%A3o+Golfo+infla%C3%A7%C3%A3o+nos",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.2
+   "score": 17.2
   },
   {
-   "id": "3565ad895a",
-   "titulo": "Messias diz que Senado aprovará fim da 6 X 1 e pede votos para Lula",
-   "url": "https://www.poder360.com.br/poder-congresso/messias-diz-que-senado-aprovara-fim-da-6-x-1-e-pede-votos-para-lula/",
+   "id": "212b8f6e81",
+   "titulo": "Lula e Flávio têm 49% cada um no 2º turno no Amazonas, diz PoderData",
+   "url": "https://www.poder360.com.br/poderdata/lula-e-flavio-tem-49-no-2o-turno-no-amazonas-diz-poderdata/",
    "veiculo": "Poder360",
-   "publicado": "2026-10-11T19:29:06+00:00",
+   "publicado": "2026-10-12T19:30:29+00:00",
    "temas": [
     "politica"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Messias+diz+que+Senado+aprovar%C3%A1+fim+pede+votos+para",
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+Fl%C3%A1vio+t%C3%AAm+49%25+cada+turno+Amazonas%2C+diz+PoderData",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.0
-  },
-  {
-   "id": "f08654218b",
-   "titulo": "Janones celebra reversão de bloqueio ao “Exército do Lula” e fala em fim da “censura”",
-   "url": "https://www.infomoney.com.br/politica/janones-celebra-reversao-de-bloqueio-ao-exercito-do-lula-e-fala-em-fim-da-censura/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-11T20:47:38+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Janones+celebra+revers%C3%A3o+bloqueio+Ex%C3%A9rcito+Lula+fala+fim+censura",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 14.5
+   "score": 16.9
   }
  ],
  "fontes_ok": 22,
