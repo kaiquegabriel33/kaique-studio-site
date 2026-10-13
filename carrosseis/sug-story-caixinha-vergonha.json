@@ -1,0 +1,33 @@
+{
+  "id": "sug-story-caixinha-vergonha",
+  "titulo": "Story: caixinha do que você tem vergonha de perguntar",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-13T10:40",
+  "atualizado": "2026-10-13T18:20",
+  "legenda": "",
+  "comentario": "Pergunta da caixinha: “Vale a pena deixar dinheiro parado na conta só porque tenho vergonha de perguntar como investir?” Respondo no próximo story.",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-caixinha-vergonha/fundo-bar-noite.jpg",
+        "escurecer": 0.35,
+        "foco": {
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "y": 520,
+          "texto": "Pergunta da caixinha: “Vale a pena deixar dinheiro parado na conta só porque tenho vergonha de perguntar como investir?” Respondo no próximo story."
+        }
+      ]
+    }
+  ],
+  "fontes": []
+}
