@@ -1,7 +1,100 @@
 {
- "atualizado": "2026-10-14T19:06-03:00",
- "em_alta": [],
+ "atualizado": "2026-10-14T19:32-03:00",
+ "em_alta": [
+  {
+   "termo": "prio",
+   "trafego": "200+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Prio (PRIO3): Bank of America vê dividendos bilionários no radar e eleva preço-alvo",
+     "url": "https://www.moneytimes.com.br/prio-prio3-bank-of-america-ve-dividendos-bilionarios-no-radar-e-eleva-preco-alvo/",
+     "veiculo": "Money Times"
+    },
+    {
+     "titulo": "BofA eleva preço-alvo da Prio (PRIO3) para R$ 74 e projeta dividendos bilionários",
+     "url": "https://bpmoney.com.br/mercado/acoes/bofa-eleva-preco-alvo-prio-prio3-dividendos-bilionarios/",
+     "veiculo": "BPMoney"
+    },
+    {
+     "titulo": "Orbis atinge 5% da PRIO (PRIO3)",
+     "url": "https://visnoinvest.com.br/news/15718/orbis-atinge-5-da-prio-prio3",
+     "veiculo": "Visno Invest"
+    }
+   ],
+   "publicado": "2026-10-14T15:00:00-07:00"
+  },
+  {
+   "termo": "paulo sérgio nogueira de oliveira",
+   "trafego": "200+",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Moraes reduz pena de ex-ministro de Bolsonaro e libera trabalho no Exército",
+     "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-reduz-pena-de-ex-ministro-de-bolsonaro-e-libera-trabalho-no-exercito",
+     "veiculo": "Metrópoles"
+    },
+    {
+     "titulo": "Moraes reduz pena de ex-ministro Paulo Sérgio Nogueira e autoriza trabalho no Exército",
+     "url": "https://noticias.r7.com/brasilia/moraes-reduz-pena-de-ex-ministro-paulo-sergio-nogueira-e-autoriza-trabalho-no-exercito-14102026/",
+     "veiculo": "R7"
+    },
+    {
+     "titulo": "Moraes reduz pena de general condenado por trama golpista",
+     "url": "https://oantagonista.com.br/brasil/moraes-reduz-pena-de-general-condenado-por-trama-golpista/",
+     "veiculo": "O Antagonista"
+    }
+   ],
+   "publicado": "2026-10-14T14:50:00-07:00"
+  }
+ ],
  "pautas": [
+  {
+   "id": "5b21b0c8a4",
+   "titulo": "Bolsas caem em NY com ‘techs’ e dados de inflação dos EUA acima do esperado",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/14/bolsas-caem-em-ny-com-techs-e-dados-de-inflacao-dos-eua-acima-do-esperado.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-14T20:49:59+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Bolsas+caem+com+techs+dados+infla%C3%A7%C3%A3o+dos+EUA+acima",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "TradingView",
+     "titulo": "Wall Street despenca à medida que dados de inflação acima do esperado alimentam preocupações com aumentos de juros do Fed",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55cWx3VjdCNDJMYmdNVEdZWE1BczIweDhIcmdZYkVFOWJpZFFBZ0h6Z2FJa2ZOc3p3ZWJnRXJ5UW1EcEwwV0FET3llNjZNZHR2Qms2Y1d6RTk0MXREcGN2QTlRYnZydEV0TThZOXNGbTc5MUFvNm5N?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Inflação acima do esperado vai impactar nos juros dos EUA? Veja opinião de especialista da Boa Brasil Capital",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXZSdVVYbUMtVm03RlNfaXhjY3J3SWExTU1pOHlUMHRab3pQaUl1aFlEVm0xaWZwZnZrVzQ4MFNoWjA4UjZXTi1ELWs4aU1hQS1Bc1VyWmdONkRRbEdQeUY1NmhWU0xPZHduSTdFNUhUakxXYnlfY1RYdTlPNTZ2anlnaFVLUEgyb1g2WHNtbG9GM2t3TW5rcjZvTkZEeElmc29tSFNqN0wyblNTYW92VHhyOS1Mczdp?oc=5"
+    },
+    {
+     "veiculo": "Valor Investe",
+     "titulo": "Citi passa a prever alta de juros nos EUA em dezembro após inflação acima do esperado",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOa0pONGFOYk93TDRTUUp5SnZKbEY0N2N4OUhFdHRlaEpYSFZmTElGSzN6cXdBeFMzN2p0MlZjSkdEb0tXTnczeVNoT0U0c3RSWVB5NVRzZlBqM012TGF6SmtwTFFEV09uNmhnOVplNmZXUFdscUlhNkI2QVc2RTZqdDB0bEZIZlU1WlJIMlJ2WUhLZWZkTy04aXJMVEdwTlZMbVUyRXZNcHpfa2JCS3B4QzFVcTR6VGFWd1RSVzZzTUlaVlFwUDBCc2x6NGJGSllFTWVvek9JVnBLUmtxVGI0NzdqWXgwRzJQbm96eUM1XzF3MVNDczFzUGhVTEp6S3g1LUtUVXdLQ0FFTzRyMzBONnEta0rSAaMCQVVfeXFMT3prYlZ6R1pUSE1ObUI0djZ6QmlZZ1IwQW5wcllva1JEOGo3V05NdXRVWVhwaVQ3SUpPNlo3SlBVb09RRHV5ck9wY05FYjFkclZ5Rk5XOW9TekdzRFNLWGg1SzVVWkZ4bU9EZEY4QXFSTFlFODJpdENDOUtVcHVXOXZXWWpNaHdCeVlocURBR3E5b2FnejNOWnFfeXpkc3h0Wm9SMlJYaUhXb3o4a1dpSHpyU0VNM2huSUh4bDdPWTBzdm41eWFUS0s2NjY0ejc0X3BXUkd1c01ieFVkNnM0VXF0OUYzcmFZMjBtSDhDM0VyZ0FVRGZmRlFtU096d3RacGt1U3IxMEFsU0dVNnI4Zl90U1MxQVR0LUhmNU9mYzdtVWJJ?oc=5"
+    },
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Inflação dos EUA acima do esperado eleva apostas em alta de juros pelo Fed em outubro, mostra CME",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1VYcmxndHgxOW1xWnVJV3JtVEV4TDdnRm15dVJtSHZlN0xweVN6Nl9UcVNGcVRKdmZaNEQyQXdRYndBekhnWjJPeF9tMWJ4QzdRcW82Q0ZfTHNobmJQemctZEYxYzN0R3B6THNBejR2Ry1pOHNDUnVaek4zeDc2aGhUOTRTLWtHSjJLam9nc3l0c2t6THZJUXRkcjFJcXlwVTB0V2Q3TXg0R3VwN3BCTVdwS1VRUmdEVXRIZGdDbWZVaEdYaE1CTFJmdHVydVhzb0Rtb3BxMUJHRWpQQkxILTEtb3BzR0nSAfYBQVVfeXFMUFc3di1LMlZqRVBMVlUyaWlLSzlVa090Q2F1VnR6d0N3bExiS1VMV3hyR1RQaWhjM19EZC1jQS1WNTZSb05meXAyZlBZZS1aa1dza3VDVFRaWm1EZlRiVXVPMEdHSDBNU3NNbE9idEdtanl6WkxfenIxNzJsLV90RS1iam5VX29yWHZmc2ZXZnZqLU5BT0FsMmZ4bFBWcVE2eWF2eklWQ2xyaVEyVjBqMkxQTkJqUkU3V3BHc1FtVUo4VnVSNi0wTDZ6MXBKb005QVN0Zno0aUVwNEg1bkU0TkdERkRlWW14dXB2dUM0bGpKMkJuV2FR?oc=5"
+    }
+   ],
+   "score": 42.3
+  },
   {
    "id": "f0fe6e1bd8",
    "titulo": "Apple atinge valor de mercado de US$ 5 trilhões",
@@ -38,47 +131,7 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcU9JVWJyT2tXM0s4Y2pON083NDJrQ3dfd0FqOGtacnZ0UzAzRDhWYzlvSmxWQ3BxbnFnU0UzRE8tWi1KTDRCeUNlcWV4NVJfSzNhVGYxMUVpQWZkQjBkNFNZQ3RNQjFiNm54V3JlTEdTZUNTX2NzZ0NuYks5Y18xY2hvOElfMzdHcTltWl9ZUlRyVlNoUUlya1BfZFVpUk1lcW9Pa3ZSakVPdGFCS3Mw?oc=5"
     }
    ],
-   "score": 39.8
-  },
-  {
-   "id": "5b21b0c8a4",
-   "titulo": "Bolsas caem em NY com ‘techs’ e dados de inflação dos EUA acima do esperado",
-   "url": "https://valor.globo.com/financas/noticia/2026/10/14/bolsas-caem-em-ny-com-techs-e-dados-de-inflacao-dos-eua-acima-do-esperado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-14T20:49:59+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bolsas+caem+com+techs+dados+infla%C3%A7%C3%A3o+dos+EUA+acima",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "TradingView",
-     "titulo": "Wall Street despenca à medida que dados de inflação acima do esperado alimentam preocupações com aumentos de juros do Fed",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55cWx3VjdCNDJMYmdNVEdZWE1BczIweDhIcmdZYkVFOWJpZFFBZ0h6Z2FJa2ZOc3p3ZWJnRXJ5UW1EcEwwV0FET3llNjZNZHR2Qms2Y1d6RTk0MXREcGN2QTlRYnZydEV0TThZOXNGbTc5MUFvNm5N?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Inflação acima do esperado vai impactar nos juros dos EUA? Veja opinião de especialista da Boa Brasil Capital",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXZSdVVYbUMtVm03RlNfaXhjY3J3SWExTU1pOHlUMHRab3pQaUl1aFlEVm0xaWZwZnZrVzQ4MFNoWjA4UjZXTi1ELWs4aU1hQS1Bc1VyWmdONkRRbEdQeUY1NmhWU0xPZHduSTdFNUhUakxXYnlfY1RYdTlPNTZ2anlnaFVLUEgyb1g2WHNtbG9GM2t3TW5rcjZvTkZEeElmc29tSFNqN0wyblNTYW92VHhyOS1Mczdp?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Inflação dos EUA acima do esperado eleva apostas em alta de juros pelo Fed em outubro, mostra CME",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1VYcmxndHgxOW1xWnVJV3JtVEV4TDdnRm15dVJtSHZlN0xweVN6Nl9UcVNGcVRKdmZaNEQyQXdRYndBekhnWjJPeF9tMWJ4QzdRcW82Q0ZfTHNobmJQemctZEYxYzN0R3B6THNBejR2Ry1pOHNDUnVaek4zeDc2aGhUOTRTLWtHSjJLam9nc3l0c2t6THZJUXRkcjFJcXlwVTB0V2Q3TXg0R3VwN3BCTVdwS1VRUmdEVXRIZGdDbWZVaEdYaE1CTFJmdHVydVhzb0Rtb3BxMUJHRWpQQkxILTEtb3BzR0nSAfYBQVVfeXFMUFc3di1LMlZqRVBMVlUyaWlLSzlVa090Q2F1VnR6d0N3bExiS1VMV3hyR1RQaWhjM19EZC1jQS1WNTZSb05meXAyZlBZZS1aa1dza3VDVFRaWm1EZlRiVXVPMEdHSDBNU3NNbE9idEdtanl6WkxfenIxNzJsLV90RS1iam5VX29yWHZmc2ZXZnZqLU5BT0FsMmZ4bFBWcVE2eWF2eklWQ2xyaVEyVjBqMkxQTkJqUkU3V3BHc1FtVUo4VnVSNi0wTDZ6MXBKb005QVN0Zno0aUVwNEg1bkU0TkdERkRlWW14dXB2dUM0bGpKMkJuV2FR?oc=5"
-    },
-    {
-     "veiculo": "TradingView",
-     "titulo": "Mercado se divide sobre chances de elevação de juros pelo Fed com inflação em alta",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HYVJOb3VVdEJ5Sno1LUtWdE5ybHFMWC1WTy10WUNycmZpOFEtMDNWQWhjbjFXeVd0bzdnSFFodVRJb1ZqdEc3aHpwSVhieU44N255eGY0aUFEQTNIdjBIZWVNZEpZbVV1R2UwSlNsVG43N0FUb3cw?oc=5"
-    }
-   ],
-   "score": 39.5
+   "score": 39.6
   },
   {
    "id": "56b80f3ac4",
@@ -118,14 +171,14 @@
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWVkNkdIV3BzY09pVTRvX0IzZG42bTczeHZBMHMzZjF6XzZCdkxta2ROcnRIblhMemdZTWtQQ1pJY1pWNnZXNHptaEk5QWhCWmlpYXJhSDVOZk5iSTc3UjZyTmk4NkpnRkhncVF3RkdhcGM0WVRmcUFzQWJTbFdDMzB4cjVIUVUzS2ZDZk9oOTBwVVpndGJvazJYaUhfd0xlalNMdTJqbXNUZk80QW1WNG94em9NRk14aU5HbHlURDE1QjBJS3FoYmhDSk9FU2trNGtoRkluWThVZw?oc=5"
     }
    ],
-   "score": 38.4
+   "score": 38.2
   },
   {
    "id": "48f2ebd3cc",
    "titulo": "Quaest: Flávio Bolsonaro tem 46% e Lula, 44% no 2º turno",
    "url": "https://www.infomoney.com.br/politica/quaest-2-turno-flavio-lula/",
    "veiculo": "InfoMoney",
-   "publicado": "2026-10-14T22:01:47+00:00",
+   "publicado": "2026-10-14T19:05:22-03:00",
    "temas": [
     "economia",
     "mercado",
@@ -134,13 +187,13 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Quaest+Fl%C3%A1vio+Bolsonaro+tem+46%25+Lula%2C+44%25+turno",
-   "veiculos": 14,
+   "veiculos": 15,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "InfoMoney",
-     "titulo": "Quaest: governo Lula é desaprovado por 49% e aprovado por 45% dos eleitores",
-     "url": "https://www.infomoney.com.br/politica/quaest-governo-lula-aprovacao-desaprovacao/"
+     "veiculo": "Exame",
+     "titulo": "Lula ou Flávio? Quaest mostra para onde vão os votos de Cury, Caiado e Renan Santos",
+     "url": "https://exame.com/brasil/lula-ou-flavio-quaest-mostra-para-onde-vao-os-votos-de-cury-caiado-e-renan-santos/"
     },
     {
      "veiculo": "InfoMoney",
@@ -148,17 +201,17 @@
      "url": "https://www.infomoney.com.br/politica/quaest-transferencia-de-votos-lula-flavio/"
     },
     {
-     "veiculo": "Poder360",
-     "titulo": "Quaest confirma PoderData/Aya: Flávio tem 46% e Lula tem 44% no 2º turno",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-46-e-lula-tem-44-no-2o-turno-diz-quaest/"
+     "veiculo": "O POVO",
+     "titulo": "Pesquisa Quaest mostra Flávio Bolsonaro com 51% e Lula com 49% no 2º turno em votos válidos",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkpiNGEyTzhMR3U1Zkc2YnkyMWdnaVd2QWdMRXdIczh6SWM3cENPMlJ6WEt0Z0szZVlpS1EzR3FaMjFoZ2R6OUNBNVcwYXVXZl9VeU9OMW1XREcxRk42SFFjRkFjVW1nWVk2aFd0VVI4MVRmcjM3aGl2TG9Ec3Zob0R0VG1MTEptT0ZZa25rM2VQTDE1R0xRemNHdGd4X0Z2Q1pZM3J3UGJOc1hSZS04dFpmNS11dzZWWUR0b2VwejJBNGNGLXZseQ?oc=5"
     },
     {
-     "veiculo": "NSC Total",
-     "titulo": "Primeira pesquisa Quaest no 2º turno mostra Lula e Flávio Bolsonaro empatados tecnicamente",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa1FndGJnMmVEczdPbGs4VnZEY05jOWVRMmVBTlZrWXFEX2RFVk9NMWgxbHA3bXRWMlZXbkhDXzZhdXF2VDBaTE1sbEs0MHNTcmhkZWZkY1FVSFZUdXp0Wl8xR3hEUlNyZ3Zzb0ZzaHQwQUlOdkZoMG9fNS1wRFhpRnA5MllLeEY4b1U1SE0tTlQ1VkFKMzBSUmNpRFVlZUlVc0JpZWlZVjBuR3plMXlWLWl1dUxtSGViY25WSUxvLXlwUS0wLVE?oc=5"
+     "veiculo": "Money Times",
+     "titulo": "Flávio Bolsonaro, com 46%, e Lula, com 44%, estão empatados tecnicamente no segundo turno, aponta pesquisa Quaest",
+     "url": "https://www.moneytimes.com.br/pesquisa-quaest-14-de-outubro-gaep/"
     }
    ],
-   "score": 37.0
+   "score": 36.8
   },
   {
    "id": "c65a662b34",
@@ -194,51 +247,52 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnF2UE9IMGZRT2ZQU1Q2dk9hMGdWN2Y0Q3h5YVNvZTJlU3ZUT0xIalBKM2pCQ1pDWHRXMF92QlRLakxmQTJsNTJubjlTZldyUkpUczdxdW1OQ05NeHJaQVllUFNtY2ZLamk1RG1odmcwVHh6bmNtRDItV0VxOEJWSjdlVURQV3JlaXRlRlQwQmJTaUE?oc=5"
     },
     {
-     "veiculo": "BPMoney",
-     "titulo": "Inflação dos EUA acelera em setembro e reacende debate sobre juros do Fed",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnF2UE9IMGZRT2ZQU1Q2dk9hMGdWN2Y0Q3h5YVNvZTJlU3ZUT0xIalBKM2pCQ1pDWHRXMF92QlRLakxmQTJsNTJubjlTZldyUkpUczdxdW1OQ05NeHJaQVllUFNtY2ZLamk1RG1odmcwVHh6bmNtRDItV0VxOEJWSjdlVURQV3JlaXRlRlQwQmJTaUE?oc=5"
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Inflação dos EUA acelera para 3,7% em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHZFTS1INFBiQlBLRUUzRGZ6LWt2MWVuSEQxOEstVjg3NzFFQThURjVHOEdSV0gzMWhteVNuVkhYT3BXb1JNQVZTMlVUSXg0R1V1bHJiYXc4dFFjR0owbnNOdEVQWUF0MzVaSlBlRFR6ejBzc2lxMUp4Uy10RlpBNnJYdUxKMTFPeHNXSUZpZDBENFlIUUNxaTBiSW56dDNQQXctR2JVQQ?oc=5"
     }
    ],
-   "score": 36.2
+   "score": 35.0
   },
   {
-   "id": "a8a3c743cb",
-   "titulo": "Flávio Bolsonaro e Lula aparecem empatados na primeira pesquisa Quaest para o segundo turno",
-   "url": "https://www.seudinheiro.com/2026/politica/flavio-bolsonaro-com-46-e-lula-com-44-estao-empatados-tecnicamente-no-segundo-turno-aponta-pesquisa-quaest-ccgg/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-10-14T21:28:21+00:00",
+   "id": "9f9f291169",
+   "titulo": "Dólar fecha em alta com cenário eleitoral e inflação dos EUA; Bolsa recua",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-cenario-eleitoral-e-fim-da-escala-6x1-no-radar.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-14T22:07:00+00:00",
    "temas": [
     "economia",
+    "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+Lula+aparecem+empatados+primeira+pesquisa+Quaest+para",
-   "veiculos": 6,
-   "rotina": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+fecha+alta+com+cen%C3%A1rio+eleitoral+infla%C3%A7%C3%A3o+dos+EUA",
+   "veiculos": 31,
+   "rotina": true,
    "outras": [
     {
-     "veiculo": "Notícias Agrícolas",
-     "titulo": "Flávio Bolsonaro tem 46% e Lula soma 44% no 2º turno, mostra pesquisa Quaest",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV2R1ejhMbExwTVNLaTZSUGdRakRUSWpZa290LWJZOVhfWWlnZWNpazl2VnJTSjdGY1NFZ0NqUjdCX19CVVpuUWNkajhlRmpJNjNPRDNZUUtvZWU4RzBaaUc5NC1VZHhBTWR3aUhhZ3FYNmEtcGR5YnlrMVFWaXJVeFIwd0l3SHZURW9SV1NnTGFOWGFUSVIxaHJpQkR4X0N5bTdNV1h5dm84czBGaGttNEVEbFVrTV9IVExXcnBiR3ZNc2JiZWwxeUZNSGE3em55T2x2Mzk3ck5GVU5lbHNzUDJrd9IB6AFBVV95cUxQZG42bV9wMGcySGd4SWdCUWpLY1FnMGhDZnM3VTdNV05zaFZXV25WSVE1SzkzNGc1aDk3dTR3NGx0TExpdVRjcXRQakV0UEZOY3VIanlwaXlBWHphN19HMWVyTnVXQlVkU0FteERNUzhXMjVITFh1dDZRQzlXS3hoYjNoekdUbS0tSmxYOGpqNWdSdUtUb0U2dXBROTN4dXRNWUtmRTVSejMtamw0WTJVVEJaTXVpcXdRNHgtejRqNTNmMWZ0YVJIRGVRM1Y3U2RUVW43UnVwV1ZNc1d5Sl8wRjlGU1cwNEls?oc=5"
+     "veiculo": "Correio Braziliense",
+     "titulo": "Bolsa fecha em queda nesta quarta, mas ainda acumula alta de 10% em outubro",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa2pSYWlHV0I2c0xrVkk3eXd0LTFWdzNTVWZ5NVdNQmlEclc2OC1QQlRDZ0luNlRNMDBnMkFiT1h3RDRqNDlZYmZ5NUI2Q1pSUkROcUhXRTBWUEpvVklvbWRHNlVia3dwcUFWNUFzeEdZTnVWbWZFMlZ1NE0yTHMzcWRHYUhldHAyRTAzVS0xLWRQRnBYWWlhQnhRS0hNU2FnUnhDd1piY01VeERFbGVpVGlURjJjY1lFUHVDODhySG5US3RSMjkwZFJTRjlIV0Q3LUtvRlV0YzfSAd4BQVVfeXFMUDg1RXg2Z29iTGNST0R3bkxWMVhsTjZEa0pZWEdXX0FxblBBN3NPNGZQclQtMnYwSTI1YV9UeWlNdUY1QVV3MGxnMFpGWXRnc3p3MWE5dWljMmRKcXZjb2VwOFRJeXZHRlJkd0oxLUotWFlnU3htOHUwSEI0RU5yQlpVbVFCYy05RXR2QXdqYkZhZmNlZHVVVXF0ZHViX2VaOE1sWXd5cGgwejZqN1ExR2ZHWkFvRFlocF9vaFM0QVBSTWw0eXRTWWRYN1gwMUlaekFTRldfWmFzYWNueTFn?oc=5"
     },
     {
-     "veiculo": "O POVO",
-     "titulo": "Pesquisa Quaest mostra Flávio Bolsonaro com 51% e Lula com 49% no 2º turno em votos válidos",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkpiNGEyTzhMR3U1Zkc2YnkyMWdnaVd2QWdMRXdIczh6SWM3cENPMlJ6WEt0Z0szZVlpS1EzR3FaMjFoZ2R6OUNBNVcwYXVXZl9VeU9OMW1XREcxRk42SFFjRkFjVW1nWVk2aFd0VVI4MVRmcjM3aGl2TG9Ec3Zob0R0VG1MTEptT0ZZa25rM2VQTDE1R0xRemNHdGd4X0Z2Q1pZM3J3UGJOc1hSZS04dFpmNS11dzZWWUR0b2VwejJBNGNGLXZseQ?oc=5"
+     "veiculo": "Bem Paraná",
+     "titulo": "Cenário eleitoral e inflação nos EUA influenciam alta do dólar e queda da Bolsa nesta quarta",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVkNWU1p1TFFjbHJoQUtMSW5GNW1pdWtmelY3bWk3X2hOcDk2N3Z6QUI3V0xWR2lUZmZCSDNPUzdnV3NYZnpjMzZvVWh3d3J6el9vT0JoREk3Qm9uNldkcTU1cHNIUzlPSGFCTVFBWE9QcmZhSEJqRzRDNGZNdHc3VGNLOGhud3I5UHlWaTlUcE9oNjRyUmZpNlpzdUdEMnV3V00teWhaak9nZFRkYmp1WVdtT2Rvb3VYOFhrdmQ3QjNmYUVzWTRLQ0tCb2UwLWNnWU5sYjM1MNIB3AFBVV95cUxQZW1vcWdIN0tLalJjTnBSand2WTN0eWc2UVZ5SXpTN3RGLTM4MzBmQkNlNzlFbDdYNVpfWXRIU3pLVnVzOGlDdDNTTXdES2lmM0VId1BYam0ydmZhQUxUdnYzaVNhbkNOVWJBTy1sU1hIWFJ4azBiTUlYYmpSejFVb2RHb00wNmVKbDl6U3NWcXpVcG5FMDlzT0tOeGMweUt5aW5CMjJZR3FRX0hxanFSYTMxV2NxU3hZckdSb1Y4elh2VTBpY1pzUzFaQU9nRFVNQTdvTHpudGxpLXFF?oc=5"
     },
     {
-     "veiculo": "Money Times",
-     "titulo": "Flávio Bolsonaro, com 46%, e Lula, com 44%, estão empatados tecnicamente no segundo turno, aponta pesquisa Quaest",
-     "url": "https://www.moneytimes.com.br/pesquisa-quaest-14-de-outubro-gaep/"
+     "veiculo": "Investidor10",
+     "titulo": "Ibovespa perde mais de 1% com inflação nos EUA; dólar sobe",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0Y3cDhoVk82NkJQY3dtbjI2WGtZNWV5ak95cnhUV0F3YlVaNWtrZk5Ub2E0ZWtwZ3pqZWhTaGlsOW5OeXZfdVFNWjJZMWZJamdPcGRRSGZMSVp1Y25pVi1hdGd2MzdMTEREdGU3aFpzM0xzbXRaUDRPRk9zbzJPVUpfSkhBSERtSFhYUlA4Sy1aM3A1LUwxdnR2SmRDcXRDcEhN0gGoAUFVX3lxTE1lMWRick5FNkRWaHFnSzZNZ01MTVZ4QnBMLXMwTkc1U1hyYWlBYVBlVzZoUk5rN1ZkcWhGNWZVWmdRRW9zTGFtaUs5TGFxdW1vQ296ekVqZ3pWcVlSaTVCLW5NVTdJcUFhNFJoSThzWFFycDRiN21LTHRNR3lGX01HRTRvMlhqNHVwM2J3RXNlMHBveDBoTjdEdW9waDdrOElvVVVEUjJiZw?oc=5"
     },
     {
-     "veiculo": "O GLOBO",
-     "titulo": "Eleitores de Flávio estão mais otimistas com o futuro da economia do que os de Lula, aponta pesquisa",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMXFhTFFPVFowSlA4a05tLVlUT3RNQTZaVm0yUUkxcUlJNjhhclprZ21rTFMzc1lYOURiTHVpenFHcEZKLWpMbTNXSHZfSG9nR0F0V1BDazlteVA3NFpsdmY0TGlXdzlUUWJqdFQ3MDdadUFXbTAwUmJDb3RYV2Frb2NkelNISTRWZjRncWx0dXVsdFo3aWtMb3pKZk8yY25YS0NRanVzOGRTMVB5VnhaVEc0d1M5eDlRUHhqRFVJaTE3c0U0ZHdXbmxTWkJ6NVI5M1V3U2xaOGdqQ3pkTW1FQ09JMno4M3d6d3MxQ19OSDRDUW1O0gGDAkFVX3lxTE1TRkh5Ym11UGFjQVZ5U1pkVlpGSE1aR2FpSXpYRi15XzlEaXNEWHpkNm5xVlczVl9xOWpYUU1objNQbWg4aXdxWm5yRUtvazVUSzFGbFNfSGp1T1J3OTBtRkVBZ0xGb3B5YUJJTGFXbzdGMG5iV3J4eTJrdkZkQVg1VGRnNkhZcGJtalZ0WXJ5QmxBblpGRWpQQVVjUmMxOXM4aDQwckJLaF9icXdqZUhEb0ozeERMaWNPNXB6ZHpLdDhQZlpUN2gxZkpGOWVWLU5PcGVjTERZMVpHTzA5UlJDV3RTTFo0ak1pZEowQ09GcUROMUVHYm13VWlYcXB2SjlhODA?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Ibovespa tem nova queda de mais de 1% com inflação nos EUA e pesquisa no radar",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVVgyXzBZdnRsUnVab0piRmlRTmJCaUtRUFRlLURJSlRwUHp6dEpUVlBnTjdhQWNHQkFVYmFBbGZEV3JIWjNac2tPX1pHUDZzOFhpU2hsd3RFRXcyOU1VSUVIcGhXMHVwdmgwdEJsTEdGRzNZQjh3MEZFOE5aNE1hYnFSVGZzRThKZVhoemppcnNHc0tjUE5NckRNa1l2QjA5dUxidDhSWDYzQ3Q2MVJ5VXctNlFRak9ONUZVUdIBvAFBVV95cUxOVVgyXzBZdnRsUnVab0piRmlRTmJCaUtRUFRlLURJSlRwUHp6dEpUVlBnTjdhQWNHQkFVYmFBbGZEV3JIWjNac2tPX1pHUDZzOFhpU2hsd3RFRXcyOU1VSUVIcGhXMHVwdmgwdEJsTEdGRzNZQjh3MEZFOE5aNE1hYnFSVGZzRThKZVhoemppcnNHc0tjUE5NckRNa1l2QjA5dUxidDhSWDYzQ3Q2MVJ5VXctNlFRak9ONUZVUQ?oc=5"
     }
    ],
-   "score": 33.7
+   "score": 32.8
   },
   {
    "id": "e785ca4849",
@@ -255,7 +309,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+5%2C03+Ibovespa+cai+0%2C18%25+com+infla%C3%A7%C3%A3o+dos",
-   "veiculos": 47,
+   "veiculos": 28,
    "rotina": true,
    "outras": [
     {
@@ -279,7 +333,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmRTUXhPaWk0TFZhdGhIYzFON1F0bm1QekJHUUtVSTlYQndOaV9zRGlMckI5QVN2RXRZT21KVno5RklSX0JLSnVOSmpYdWJUWWNQdHl5eGJ5SDctRnFaekFnNGZlejh4QW5ycHEyR3pKN3JxcVBrRF9OQ1pjU3ZNTzl1YXhFRDBsSmRKa0lpSWhxZFBtTl9QcGxfUmpWY2lPRGdMQkxmNFVJY3JjZG01bWFuRnJhejlacWRNRlBRNldwUDdJRUFkUWV6QmhMLUtyS0hFd0dB?oc=5"
     }
    ],
-   "score": 33.0
+   "score": 32.8
   },
   {
    "id": "3b2cda744e",
@@ -314,7 +368,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbThIRDMyV2dmMmZKbzJtVjV0Zm9lZnNpTUd3cHNFN3hTekJtQUVqX05Kai1ISHJPZG9PZmZIcEU1NEZMbDNDaUNRUEMxdDg3bS1PZXY5cWFMU0dGMmtsMkZqOWtIUVZKczczNDlwTVItX2hMVmxVY2lTaDRvdEdtY0QwVjZyZzNQY3JTbUhNUEF5clNpVWVERFpNci1oUTF2VjJKM05kSUFwOG1wODJLdVhXLXh3S1pfZXVoT2ZYQzd0dFpncDc2TUZ2UjZxUHJHaTd4STdn0gHkAUFVX3lxTE5LSGlpM3ZtNEpILWtVdDFNTUtEazQ5MkxUNHdyVFc0MWpxS21qTEQtQmRnSklQN2hDNWppMjF3dHhSS0hKQUE0WXQ5cXkzNEkxTTNVSmEwUVpPVVNtWVdaeWhsdjZPTmJibjk1eXN3d2pEUFE3bU81Z09SS3NiOTlJQVZhcXN0UHV3dXhkTUdwZE9fWEc2QzhxQ3Y0T0pscTA1a3V5M09tcG5uTERLTVh3QUNKNVBMNzhjLWpPVzlXa0RESlQteEU4WXF6TDFCQjJERUxxR0F0REtlNldNMVhtanUzTw?oc=5"
     }
    ],
-   "score": 31.5
+   "score": 31.3
   },
   {
    "id": "aad2d4de17",
@@ -339,7 +393,7 @@
      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/14/perdao-de-dividas-pix-de-r-5-mil-e-teto-maior-para-mei-entenda-o-plano-do-governo-para-o-empreendedor.ghtml"
     }
    ],
-   "score": 30.8
+   "score": 30.6
   },
   {
    "id": "e785ca4849",
@@ -379,7 +433,7 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUM4ZVprUm4yYVlQTjNJckljQ2NZZWVaWmRsYWx0Y1lWbW1Lbnh0bFlhYlZxWldqNEtaZWl3bVlEZmd5aVR1T0E0Rld1bUFVZFlCRFh0ZnhpSXAyd3hJb0NKMmtMd3dmcExfVmNIRDNQV3kxdzEza1lZWkRqSHRzSkFqNEdkSFU5ZHU2UGNaRjBjOW9tY3M5SFdvTjZtTlAw0gGgAUFVX3lxTE9ZQzhlWmtSbjJhWVBOM0lySWNDY1llZVpaZGxhbHRjWVZtbUtueHRsWWFiVnFaV2o0S1plaXdtWURmZ3lpVHVPQTRGV3VtQVVkWUJEWHRmeGlJcDJ3eElvQ0oya0x3d2ZwTF9WY0hEM1BXeTF3MTNrWVlaRGpIdHNKQWo0R2RIVTlkdTZQY1pGMGM5b21jczlIV29ONm1OUDA?oc=5"
     }
    ],
-   "score": 29.8
+   "score": 29.6
   },
   {
    "id": "9fcfbcefe4",
@@ -413,7 +467,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGRxS09PdzhJOXg5X3hDNHk4bkVlcTNtQlZ1N2lhMlpLVGtiektnQXM2R1ZxcVZlaXV6NFN4SE94X2E2OVRRc2g5Vm9QZ1ZaanFBWXd1anhNWlNaSnNGbXRtc0RhcEFVYkx1Q0hEX2QyRlRRdG9ZR192cGNFYm9vQXRvR2ZoTER0VVpkdXB5NFdReXJrVlZWa1hHSlM2Y0ZZNGduSS04UjdnQ090UFhRdXdR?oc=5"
     }
    ],
-   "score": 29.5
+   "score": 29.3
   },
   {
    "id": "5230399d32",
@@ -452,7 +506,7 @@
      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOW1idG5TamdZX2lIb1d4dEhjMWliaEliOFd0NlNEY280X2hFMDNqbzA0SFdXbjRXd094YU00OHZfWWphNVVfX3NTTTlkNEs4V2d5ZVdGclZNSWx6NlZEMlVwRk1PbzlqYmRJOENESXZaZUY5YTVpUERvakJDcWpVMUk1V25wUlVMbUZNY2ozUWlRQzhqTUQxUFRiRjczR3ljdWNMaWFneUtkQWVUclBRQmFvR0I1OTNMVUZxWFBvVXUySk1XUUxQUmJVbWsxM1lmRml0SGhCNVV4WVdCM1U5N2k3YzdrV1JiTmRGUEt2RExBSEZEZWc?oc=5"
     }
    ],
-   "score": 27.8
+   "score": 27.7
   },
   {
    "id": "94840b2359",
@@ -491,7 +545,7 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmV3LUZuWW1HdEFQbmRQRll5WW92M3RrN2lrWHZ4WUpJX0Z4eTJtdGdyTkpBYUVUZXhsWTd5NmRDdzZRVWNWelhWdHUzTUZQN0hRWjlFaW9lVXFrZVg0LXRNa1dlaGo4MzFxeXRHaFdTZEpZU0JJZVFDSDRWQ3hWYXdIS21fLTU5dWFFRTNDaFlnYl9nelhN0gGXAUFVX3lxTFBGZXctRm5ZbUd0QVBuZFBGWXlZb3YzdGs3aWtYdnhZSklfRnh5Mm10Z3JOSkFhRVRleGxZN3k2ZEN3NlFVY1Z6WFZ0dTNNRlA3SFFaOUVpb2VVcWtlWDQtdE1rV2VoajgzMXF5dEdoV1NkSllTQkllUUNINFZDeFZhd0hLbV8tNTl1YUVFM0NoWWdiX2d6WE0?oc=5"
     }
    ],
-   "score": 27.1
+   "score": 26.9
   },
   {
    "id": "21bf9a9ac9",
@@ -525,31 +579,7 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNENWQUotXzdtMWxPdk1hYW9STE5xQjlKWTA0UjFPTXpqM0FJYTFTb1J0X2VPYUhTUjF4c2R1UUNkTEZac2hIZnpCZ1FuTjJpdGNCWGJwR0dSVEl1aTRPYWpxQVljTGJheWhfSnBmckJkVEZJRWNrRS14RVNWVkFERFIxYnZBZUpkcEVvNWtfYlJRRmZfanJSdlB4ZncwUV94cFNkZzVVaVZScXlQZGQzZUNaQVQ4SnVCSWpncWxB0gHDAUFVX3lxTE9DRFE5WUkycGVhemI1Z2VBbGF0R2J0NjJRR1dsXzRXN2dLVzc4b09lQUpFLWlheGl3cE5UUU1lVm52NjI4cUJzZHlTUjVfeXkyMWNLVVNoNExXeG54dTdqeUE3RklVT0pmTjYta2FSOWMwemhPVVFPd3RuOXBEOXhQbzVxOHhMaDlyOXRnQ085RHlFM2RhMkhrdno2d3BkTFFBMXk1Q1E1eDEweEltQmpNSG9BMkg2TkxsQlhZOHoxa3pqTQ?oc=5"
     }
    ],
-   "score": 26.9
-  },
-  {
-   "id": "ca51386788",
-   "titulo": "Após 1º turno, gestores já enxergam Ibovespa aos 220 mil pontos no fim de 2026, mostra BofA",
-   "url": "https://www.moneytimes.com.br/pesquisa-gestores-bofa-14-10-26-apsa/",
-   "veiculo": "Money Times",
-   "publicado": "2026-10-14T21:38:40+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+turno%2C+gestores+enxergam+Ibovespa+aos+220+mil+pontos",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Money Times",
-     "titulo": "Após 1º turno, gestores já enxergam Ibovespa aos 220 mil pontos no fim de 2026, mostra BofA",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaUFzUlJPSzc0bnU5RkNIcWpYNGpqUXU3R2k2b29KeW5MTkdqTVBrM3VaRXdoWG1zc09FdE9fVm9ZbnNRTWFpTTFjZWNsYjczVjJKbXhYYTVGS1dFSHV0Vnp1Z2Z4Z1czZXpRQ2ZpREktTEZua2c?oc=5"
-    }
-   ],
-   "score": 25.8
+   "score": 26.7
   },
   {
    "id": "1566d31ca5",
@@ -574,7 +604,31 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlA4ZTBfZVZ5SjM3MXRQYU5nb3NFNXM4YlN0RGsyNk85YmpBTEN0Z2FQZmsyUXJkZVlYcENaNVA3RXBpc2lTQjJMMS10R3Q1UlplRnVzb2VqZVJVekxBX1Nfd3ZqSGRuS2trdmJRSjJYR2xWalktSkhuUTFBZHpwVTJkdHVGNDV2UmY0S0NNeHRobm56YTV2Q0ZTT0N6Q1ZKY01PWlRIR2Y3Zw?oc=5"
     }
    ],
-   "score": 25.8
+   "score": 25.7
+  },
+  {
+   "id": "ca51386788",
+   "titulo": "Após 1º turno, gestores já enxergam Ibovespa aos 220 mil pontos no fim de 2026, mostra BofA",
+   "url": "https://www.moneytimes.com.br/pesquisa-gestores-bofa-14-10-26-apsa/",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-14T21:38:40+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+turno%2C+gestores+enxergam+Ibovespa+aos+220+mil+pontos",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Após 1º turno, gestores já enxergam Ibovespa aos 220 mil pontos no fim de 2026, mostra BofA",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZaUFzUlJPSzc0bnU5RkNIcWpYNGpqUXU3R2k2b29KeW5MTkdqTVBrM3VaRXdoWG1zc09FdE9fVm9ZbnNRTWFpTTFjZWNsYjczVjJKbXhYYTVGS1dFSHV0Vnp1Z2Z4Z1czZXpRQ2ZpREktTEZua2c?oc=5"
+    }
+   ],
+   "score": 25.6
   },
   {
    "id": "c48da4b8d9",
@@ -602,7 +656,35 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjNSYnZWSzN6LTJDTlNIeGMwbWpZcURDMk9SWUtmZnlLLTVfVHpNcjBmVjV1TUlmTXVYYnA5eVZNUTZwS1FkMXFfMFpORTdLSXdvemUxT2syeHFJQWU5dEstSmt1MXJKVzk5WjFZY2pKWFZNaE5NUVFHdW90bnRuc1p6bnYyS2FVd0xfODkxV285bEFIUWc?oc=5"
     }
    ],
-   "score": 25.6
+   "score": 25.4
+  },
+  {
+   "id": "a8a3c743cb",
+   "titulo": "Flávio Bolsonaro e Lula aparecem empatados na primeira pesquisa Quaest para o segundo turno",
+   "url": "https://www.seudinheiro.com/2026/politica/flavio-bolsonaro-com-46-e-lula-com-44-estao-empatados-tecnicamente-no-segundo-turno-aponta-pesquisa-quaest-ccgg/",
+   "veiculo": "Seu Dinheiro",
+   "publicado": "2026-10-14T21:28:21+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+Lula+aparecem+empatados+primeira+pesquisa+Quaest+para",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Notícias Agrícolas",
+     "titulo": "Flávio Bolsonaro tem 46% e Lula soma 44% no 2º turno, mostra pesquisa Quaest",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV2R1ejhMbExwTVNLaTZSUGdRakRUSWpZa290LWJZOVhfWWlnZWNpazl2VnJTSjdGY1NFZ0NqUjdCX19CVVpuUWNkajhlRmpJNjNPRDNZUUtvZWU4RzBaaUc5NC1VZHhBTWR3aUhhZ3FYNmEtcGR5YnlrMVFWaXJVeFIwd0l3SHZURW9SV1NnTGFOWGFUSVIxaHJpQkR4X0N5bTdNV1h5dm84czBGaGttNEVEbFVrTV9IVExXcnBiR3ZNc2JiZWwxeUZNSGE3em55T2x2Mzk3ck5GVU5lbHNzUDJrd9IB6AFBVV95cUxQZG42bV9wMGcySGd4SWdCUWpLY1FnMGhDZnM3VTdNV05zaFZXV25WSVE1SzkzNGc1aDk3dTR3NGx0TExpdVRjcXRQakV0UEZOY3VIanlwaXlBWHphN19HMWVyTnVXQlVkU0FteERNUzhXMjVITFh1dDZRQzlXS3hoYjNoekdUbS0tSmxYOGpqNWdSdUtUb0U2dXBROTN4dXRNWUtmRTVSejMtamw0WTJVVEJaTXVpcXdRNHgtejRqNTNmMWZ0YVJIRGVRM1Y3U2RUVW43UnVwV1ZNc1d5Sl8wRjlGU1cwNEls?oc=5"
+    },
+    {
+     "veiculo": "Gazeta do Povo",
+     "titulo": "Quaest divulga primeira pesquisa de 2º turno para governador do Amazonas",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0JHOVRsTnNac1hMRENlOWtHem1STFVTMVJPaTVGdUJxMkRrdldGSllRWi05eW1XMnB6aUFEZWh5ZHRXN3E4emlDV0FybzJiLVlIZmJFUV9pWlRKc3RXNmlTTlN5cWdwTXlmenc4eEFWNHV0REtPeDByYlJUNUFnbUl4S01XS3o0MkJGNDA2MVZSaHNBQ0FIMV9DUk41TjI3c0pvdzVkclN4Q3hjb3pJYV9SU2tPT0xsanZPbVpJVGk2Zw?oc=5"
+    }
+   ],
+   "score": 24.6
   },
   {
    "id": "1f82a7afc5",
@@ -620,7 +702,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.0
+   "score": 23.9
   },
   {
    "id": "779761054c",
@@ -638,7 +720,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.7
+   "score": 23.5
   },
   {
    "id": "1ea129ffc8",
@@ -656,7 +738,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.7
+   "score": 23.5
   },
   {
    "id": "d469945ee3",
@@ -675,7 +757,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.2
+   "score": 23.0
   },
   {
    "id": "51a5b72714",
@@ -693,7 +775,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.8
+   "score": 22.6
   },
   {
    "id": "27eb93da7c",
@@ -722,25 +804,6 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0UyT3VKemk5azV3dF9lclpOamstYkJLSjRJUnRXeHE5cHo1MXZkZFVTbUtjckRLMHJoNTJTNGxQTEx4MmFiWnlaQjY3SG1iNHJzWkRqZ2RJQXY5bE45aE81djUwOVpuamNwT0pMMXE5T2NOUkJyWm5Oczc5T09fbTA5NlAwc1J5WHBIbGh3NlBkbG9URGFNWDRrbmRHUQ?oc=5"
     }
    ],
-   "score": 22.5
-  },
-  {
-   "id": "5999d9411f",
-   "titulo": "Tesouro IPCA+ entregou mais de 14% de valorização com resultado do 1º turno; confira as oportunidades na renda fixa para a segunda metade das eleições",
-   "url": "https://www.seudinheiro.com/2026/renda-fixa/tesouro-ipca-entregou-mais-de-14-de-valorizacao-com-resultado-do-1o-turno-confira-as-oportunidades-na-renda-fixa-para-a-segunda-metade-das-eleicoes-lbrdis624/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-10-14T18:05:19+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Tesouro+IPCA+entregou+mais+14%25+valoriza%C3%A7%C3%A3o+com+resultado+turno",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
    "score": 22.3
   },
   {
@@ -760,7 +823,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.1
+   "score": 22.0
   },
   {
    "id": "e9eafd4f57",
@@ -785,7 +848,7 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWVtV3k3b0syX0s2b0Flekg1Q09FOTZ5R1Jtb19FN0xsOUQ1SjRvUnh1V3piMXgybEhGUlpMQlVRc0tzVHM3c3hMNE1pWWs1TFRPNGlVVl9PbE56d1NSMl9CMkxlZFliWko0MDFONmJMRm9HMC1xVk5vV19tSXY5Mmk4Wkhodk1SZ1hiXzlnbGY3TDBJRjJ0OTR2M2FzUnd4VlMwSg?oc=5"
     }
    ],
-   "score": 22.0
+   "score": 21.8
   },
   {
    "id": "25ce91670e",
@@ -803,7 +866,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.8
+   "score": 21.6
   },
   {
    "id": "82bf2960ed",
@@ -822,12 +885,12 @@
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Portal 96FM",
-     "titulo": "Lula admite que economia do Brasil está “longe do ideal” e anuncia pacote para MEIs a 12 dias do segundo turno",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZHVFWUdZUVhYSGFUOVk5c3UzQ1hhalVxanFiQzI2dXU1aTZEYmdlWEtJT29sTDctR2tVUC03bXY2UGlwOE5KSlU1azJEYklCLW9sNmFoc041WGwwRTJrS1BKQVVublFMVGVlSUo1aVpDUU1zNEtPRlpKWGNDNlhJU29jeGhxZnNyNXB0aE90a2M0b2ZMU3JwTEpZY3hEb2Q5cHBwb3kxVDRjYlo3elFQa09tR1lrbUR4Mk9OOUxxWUVFWkdtM1ViLVNxSld2QVNsTkVJ?oc=5"
+     "veiculo": "O GLOBO",
+     "titulo": "Com MEIs, pacote de benefícios do governo Lula chega a R$ 260 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVNLOTZpY3ZsanRKc203ejR1S3J3eW83S3dJTFgtVWZLaEhqUjJESFVzblJZampYdS1oNTZ6aFhQeVNQMDdZTkVTTXdVOXBnR3ZVMEo0TU5fbFpNTWxOa1hSMXV0cGNBQ2YxX3B4ZXp0Q1Z1ZWhzeWk1ZVVJTEJuX2cyQl9HYVUyMThlTHlwQklVRnRJd2F4MVduTmQ3M1ZFcDliVG1hSdIBtgFBVV95cUxOczlKeWNhSEJIb09ZM2d5OU5tZE9HRTY2U2JfRUdNMEpRREVhdkpXU09na0RoVWdOU0xmM0MxcEpUUF90Wi1DRUp6aGdfVTZRZkU2ZEd5U3dXZThlS2dPWkJCYWVRRkZfeGtqal9WaV9BZXY4VEJ1NEpXN0VfaXhWNlhjZmdiaTlQN1h0UDNVRFF4Ylh1TzVlSjltVzBYd2padUVJT1dNYjZKamZ5aGFrdDlPVGJNZw?oc=5"
     }
    ],
-   "score": 21.8
+   "score": 21.6
   },
   {
    "id": "0f44471eb4",
@@ -844,7 +907,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.7
+   "score": 21.5
   },
   {
    "id": "76fc5cf889",
@@ -867,7 +930,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLURjV3lCOG5JS3cwd1BqdVk3RVJTRThTcExwVzJ0dDZKd1pHMkI0MDBLT3QweXRvNnptU3R6aldLcGtwbFpIQkprYk55d2ozMFhpYnB6V09Rd2V5WlY3dmt2d3I2ZXhNWEtQMWI5Vnltcm5zTzU2enNHa0NmQnplX0txX0lPRXp6RXpJN2Zqa0ZIZHNQdU40SWY4WGNOZkkwYXQ2TmExZVB1ZTBld0dQR1dEMA?oc=5"
     }
    ],
-   "score": 21.7
+   "score": 21.5
   },
   {
    "id": "b4ab1bfd51",
@@ -885,7 +948,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.6
+   "score": 21.4
   },
   {
    "id": "b3b29bfd0b",
@@ -910,7 +973,7 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnFjSzJXNng4QVpMYk55RFdjOWhqNkdNdUZ4NEY0SWlza0V6RzZuQ1R3ZlhWMk82U1o2N0poMEJyWkxlR2ZXZ3BOUHVCR0NYNFVBSjdCXzgybEZlZWs3UDNNdmhLWWs2bmZiX1Q4RWtLcXJJMUpiME5xMnd4b3k2b3c0TnM5eF85TkItNm1pelNsQzJ5clh5QjY2TlZ1TTF1WWh2STRwdF95OGtMWnRfVnFZaEl3a2F4dlFaVjVQMA?oc=5"
     }
    ],
-   "score": 21.6
+   "score": 21.4
   },
   {
    "id": "a6e966a358",
@@ -933,7 +996,7 @@
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQWhGclJhb19kM092NHdaVDZfcFpvR2hGTXVtSVotS2R1UE1ReFJXMU56cXRHZGFQei16d2I5WVdOTjFzLW5rTzNwclpUODgyWGJrNFNwRzQ0eTdtNU5oYjZfcDJ6V3hJcnE1ZHhiOG1ELTZZMlp5b2RQUDk2ODBCbU8xelEtZUxCRmV6QU9iTDNneDVLb21vVW5vZDBrbUZZdHJ0UFRMMTdlNGJBQXQ0UG5qM3JwU3N4RmJobGJjRVZHLXc2QW9WVC1yT1R6Q0pFZ2d1emFoSngweV9UREltSDE2bGh3TE9NTmlkZQ?oc=5"
     }
    ],
-   "score": 21.5
+   "score": 21.3
   },
   {
    "id": "1d320a2288",
@@ -961,7 +1024,7 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVHhMeGVsMk5IZkRMV1dQN0NyM0ZsSjROdFVkcmlBQ1BDUG5rWFFiY1R5Z0dwbWZFWEI4SkszNVNSVVRfRFRtamRaeUtpaUxpeW1hLWUtd3ItQXdoZVRYS0NyWmM2UU15R0FINFhyUkJxU05DSmVmWlVmSF8wYzFTN29STWxlMzJlWVJXSC1VSFhBYzFJN0pnczlTdlZ1NFphdTBYemcyX25YVGZIaXFnN1JtdGpGYnNsWC13WXhn0gHDAUFVX3lxTFBVeWxaUEJPaWJDVnJUamhCYl9BLXhvZ0taWnJQalNMUWVkanV3NTUzSnFPSGJJeDEwM29Hb0NYX0hEbHVXRlRXN0ZWTGt6SXU3N1RLQk9meWpGSTdhUWR0ZGJLbURYc1ZuZUxITEk5clVLdjAzanpMUkw0bGM4YURCWkdZOWlpd09qMk9lTnBxWk1fTjZwbFVtOE5tYmEyWjlwVTlHZUdFdU1QTG1JUmVCS1MxbXltWEtVamoxNW9DdlRjMA?oc=5"
     }
    ],
-   "score": 21.4
+   "score": 21.2
   },
   {
    "id": "44a852c215",
@@ -984,7 +1047,7 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcG9nem01VVRlUEs4NURWVWFNTkd4LU9DMWc2ZjM3Z3RJYTNDWWwwUHVLU1ZpZzFrX3RQUV84MWEwUGc5SnhZZFo4MWZfRTNHcEdyMzR4RU1ock81TVFuUWJBRmRQNW1zY0lObGhFSkJnRmFXZmhaVERHRktlOVUwZjRXcjdsNGs1d2VjZTFXTmFlT2VSRW1qUWpEVWhUNC1rOUM0TzFwUnVEUWFUZkVWVmptaEVnVVFTQng0UDJnOHo3SU1MVEYtTVpPQzI?oc=5"
     }
    ],
-   "score": 21.3
+   "score": 21.2
   },
   {
    "id": "48d233560a",
@@ -1001,7 +1064,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.3
+   "score": 21.1
   },
   {
    "id": "8c53fed663",
@@ -1018,7 +1081,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.3
+   "score": 21.1
   },
   {
    "id": "e88bee15e7",
@@ -1043,7 +1106,7 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0pKQjdVVDdUT0o1UWNHVnZFbnE1ZjIxUENWdGtlellZbkZEdXBuckMyT1BBRlZvYndUQktwajB6eW1sSUJLQ1k2ZEQzbURpcEFnTjZsaEpBLXNuTGtaOE4yUzJfNFJXblRfS0p3aExwcEdyd3ZBOWhQTEc5QWhfUXJVQkdCeUFqSkFnRnhmTjZvN2FTaVlfSHJULUN1SDl3LU9BVHphdnhZaXotS3c?oc=5"
     }
    ],
-   "score": 21.3
+   "score": 21.1
   },
   {
    "id": "f623c9c46b",
@@ -1061,7 +1124,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.3
+   "score": 21.1
   },
   {
    "id": "fc88680e00",
@@ -1091,7 +1154,7 @@
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWGpOVnpoOTQ0SjhYdldLWDFneFBKS1dXOGQ0QnhDM0lHa1FtYVJfUTdLNUQ5OFpNR2RyRUtsRkdCMW9lZndPaTZva2tqRnNWQ0tlQnZUT2c4RFFJTUFXVDRuXzllek9tY1J4cW1wMko4S3ZtUGhteTU4bGhET004NnFTSXlvX3lsaFM5Y1NsMUt3ZlRHRnNTT00tZHQyOVBHWTlvS21vWFBxSG5uOW1XRGtMWWxLQmdjVGF2WnkyMkdrbjVJNF92UUFXd251UURET050NUZsMHV5OEFWeVoyNEtLYW9XTGNjNzl4Tm930gH8AUFVX3lxTE0yNVltclFWN0QwbGJnaXNieFNhT1JjWTJRa2FmQXc0aHAyQndxUEprN2J4UnkyR3R5SUhSeTE5c1V6QXJsNXgxc005X0RXcEhEUkFzWDREd3J3NHdrUWhlMUp5YlZTS0ZNNDRTT0hqWnVtaS1YaTdDek9kNWRESWVnS2dKZFdlY21qSkI2ckwwNlBnVW5LUG1LdkFNSndQRi16ZWJsc0h3cS1qZFJjeHJ1ZHpWa1Bhd3RnUmlSckczN3RGbzhfc1hTbEdKV1I2bEszX3k2blc3UnVLVE5GMXpoS2o4VENuRG1OQUNuc0RWaW5KOFlqUzV6YmVhVA?oc=5"
     }
    ],
-   "score": 21.3
+   "score": 21.1
   }
  ],
  "falas_e_videos": [
@@ -1129,12 +1192,12 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnF2UE9IMGZRT2ZQU1Q2dk9hMGdWN2Y0Q3h5YVNvZTJlU3ZUT0xIalBKM2pCQ1pDWHRXMF92QlRLakxmQTJsNTJubjlTZldyUkpUczdxdW1OQ05NeHJaQVllUFNtY2ZLamk1RG1odmcwVHh6bmNtRDItV0VxOEJWSjdlVURQV3JlaXRlRlQwQmJTaUE?oc=5"
     },
     {
-     "veiculo": "BPMoney",
-     "titulo": "Inflação dos EUA acelera em setembro e reacende debate sobre juros do Fed",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnF2UE9IMGZRT2ZQU1Q2dk9hMGdWN2Y0Q3h5YVNvZTJlU3ZUT0xIalBKM2pCQ1pDWHRXMF92QlRLakxmQTJsNTJubjlTZldyUkpUczdxdW1OQ05NeHJaQVllUFNtY2ZLamk1RG1odmcwVHh6bmNtRDItV0VxOEJWSjdlVURQV3JlaXRlRlQwQmJTaUE?oc=5"
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Inflação dos EUA acelera para 3,7% em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHZFTS1INFBiQlBLRUUzRGZ6LWt2MWVuSEQxOEstVjg3NzFFQThURjVHOEdSV0gzMWhteVNuVkhYT3BXb1JNQVZTMlVUSXg0R1V1bHJiYXc4dFFjR0owbnNOdEVQWUF0MzVaSlBlRFR6ejBzc2lxMUp4Uy10RlpBNnJYdUxKMTFPeHNXSUZpZDBENFlIUUNxaTBiSW56dDNQQXctR2JVQQ?oc=5"
     }
    ],
-   "score": 36.2
+   "score": 35.0
   },
   {
    "id": "9fcfbcefe4",
@@ -1168,7 +1231,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGRxS09PdzhJOXg5X3hDNHk4bkVlcTNtQlZ1N2lhMlpLVGtiektnQXM2R1ZxcVZlaXV6NFN4SE94X2E2OVRRc2g5Vm9QZ1ZaanFBWXd1anhNWlNaSnNGbXRtc0RhcEFVYkx1Q0hEX2QyRlRRdG9ZR192cGNFYm9vQXRvR2ZoTER0VVpkdXB5NFdReXJrVlZWa1hHSlM2Y0ZZNGduSS04UjdnQ090UFhRdXdR?oc=5"
     }
    ],
-   "score": 29.5
+   "score": 29.3
   },
   {
    "id": "21bf9a9ac9",
@@ -1202,7 +1265,7 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNENWQUotXzdtMWxPdk1hYW9STE5xQjlKWTA0UjFPTXpqM0FJYTFTb1J0X2VPYUhTUjF4c2R1UUNkTEZac2hIZnpCZ1FuTjJpdGNCWGJwR0dSVEl1aTRPYWpxQVljTGJheWhfSnBmckJkVEZJRWNrRS14RVNWVkFERFIxYnZBZUpkcEVvNWtfYlJRRmZfanJSdlB4ZncwUV94cFNkZzVVaVZScXlQZGQzZUNaQVQ4SnVCSWpncWxB0gHDAUFVX3lxTE9DRFE5WUkycGVhemI1Z2VBbGF0R2J0NjJRR1dsXzRXN2dLVzc4b09lQUpFLWlheGl3cE5UUU1lVm52NjI4cUJzZHlTUjVfeXkyMWNLVVNoNExXeG54dTdqeUE3RklVT0pmTjYta2FSOWMwemhPVVFPd3RuOXBEOXhQbzVxOHhMaDlyOXRnQ085RHlFM2RhMkhrdno2d3BkTFFBMXk1Q1E1eDEweEltQmpNSG9BMkg2TkxsQlhZOHoxa3pqTQ?oc=5"
     }
    ],
-   "score": 26.9
+   "score": 26.7
   },
   {
    "id": "c48da4b8d9",
@@ -1230,7 +1293,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjNSYnZWSzN6LTJDTlNIeGMwbWpZcURDMk9SWUtmZnlLLTVfVHpNcjBmVjV1TUlmTXVYYnA5eVZNUTZwS1FkMXFfMFpORTdLSXdvemUxT2syeHFJQWU5dEstSmt1MXJKVzk5WjFZY2pKWFZNaE5NUVFHdW90bnRuc1p6bnYyS2FVd0xfODkxV285bEFIUWc?oc=5"
     }
    ],
-   "score": 25.6
+   "score": 25.4
   },
   {
    "id": "27eb93da7c",
@@ -1259,7 +1322,7 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0UyT3VKemk5azV3dF9lclpOamstYkJLSjRJUnRXeHE5cHo1MXZkZFVTbUtjckRLMHJoNTJTNGxQTEx4MmFiWnlaQjY3SG1iNHJzWkRqZ2RJQXY5bE45aE81djUwOVpuamNwT0pMMXE5T2NOUkJyWm5Oczc5T09fbTA5NlAwc1J5WHBIbGh3NlBkbG9URGFNWDRrbmRHUQ?oc=5"
     }
    ],
-   "score": 22.5
+   "score": 22.3
   },
   {
    "id": "76fc5cf889",
@@ -1282,7 +1345,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLURjV3lCOG5JS3cwd1BqdVk3RVJTRThTcExwVzJ0dDZKd1pHMkI0MDBLT3QweXRvNnptU3R6aldLcGtwbFpIQkprYk55d2ozMFhpYnB6V09Rd2V5WlY3dmt2d3I2ZXhNWEtQMWI5Vnltcm5zTzU2enNHa0NmQnplX0txX0lPRXp6RXpJN2Zqa0ZIZHNQdU40SWY4WGNOZkkwYXQ2TmExZVB1ZTBld0dQR1dEMA?oc=5"
     }
    ],
-   "score": 21.7
+   "score": 21.5
   },
   {
    "id": "f623c9c46b",
@@ -1300,7 +1363,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.3
+   "score": 21.1
   },
   {
    "id": "499b5f7e22",
@@ -1318,7 +1381,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.7
+   "score": 19.5
   },
   {
    "id": "911a8d09a6",
@@ -1346,7 +1409,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzl4TnM1TzFfb3Qta3dhN0lmenZqWkVFam5KTXlEUnE1YnRyNnNsczY0VTh3LXRqNVh4Q2RLMmI0X3RiT2VrOGNpampsc3hCZllPVEE1S0F1M0k2WkYtdFBjQzI5UmRoRWVYV1lObFA3N1hnZ1FQcTFwdlBwakp2OFpJZVJ3ZTBQUTlWSkF3T0d4dExEbEtjeUF3MjZaaUp5UWhNUXdxSmROcTRaV1RqbTBTZ9IBuAFBVV95cUxQZmVaWGw2Q0hCRG92UWlRZHQ1bXpJdms0VU9JbEY3UDNHUHVIVWlKMXRrc2VIWFBMd1NKalozTWZMd1FxMjRHaHUtS3FxclUtR1FnXzdrQmVkVEJIbi1BZndHdlhTUG5OdklBb1NXTVhCYjF3bmxGNHNUSjBnTnZVWW9EMDBEM0J3blppMXMyUWM2YmU0aUMzUHZJSXVOMGxTVldONTR0M2NOX2wwTHNmcl9XNE5RM3g4?oc=5"
     }
    ],
-   "score": 18.8
+   "score": 18.6
   },
   {
    "id": "1eba3ec2d9",
@@ -1363,7 +1426,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 18.4
+   "score": 18.2
   },
   {
    "id": "6898d70e6e",
@@ -1381,7 +1444,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 18.2
+   "score": 18.0
   },
   {
    "id": "ae56390ac8",
@@ -1399,7 +1462,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 18.2
+   "score": 18.0
   }
  ],
  "fontes_ok": 22,
