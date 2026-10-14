@@ -227,16 +227,8 @@
   }
 
   // ---------- lista ----------
-  // "Já postei" fica guardado neste aparelho (o site não tem banco de dados).
-  const postados = {
-    ler() { try { return JSON.parse(localStorage.getItem('ks-postados') || '{}'); } catch { return {}; } },
-    tem(id) { return !!this.ler()[id]; },
-    marcar(id, sim) {
-      const m = this.ler();
-      if (sim) m[id] = new Date().toISOString(); else delete m[id];
-      try { localStorage.setItem('ks-postados', JSON.stringify(m)); } catch { /* sem armazenamento: só não lembra */ }
-    },
-  };
+  // 14/10: "postado" mora só na Central (antes também ficava neste aparelho e desencontrava). O site espelha a
+  // Central pelo sincronizar_site.py: `postado_em` no índice.
 
   // O site é só a ferramenta de postar: pedir, aprovar e ver resultados fica na Central.
   // A lista mostra primeiro o que falta postar (uma linha por post, botão direto); os postados ficam recolhidos.
@@ -248,7 +240,7 @@
     voltar.hidden = true;
     document.title = 'Postar · Kaique Studio';
     app.innerHTML = '';
-    const foi = (x) => !!x.postado_em || postados.tem(x.id);
+    const foi = (x) => !!x.postado_em;
     const recentes = (a, b) => String(b.atualizado).localeCompare(String(a.atualizado));
     const aPostar = indice.filter((x) => !foi(x)).sort(recentes);
     const jaFoi = indice.filter(foi).sort((a, b) => String(b.postado_em || '').localeCompare(String(a.postado_em || '')));
@@ -535,11 +527,7 @@
       bLeg.addEventListener('click', async () => { if (await copiar(d.legenda, 'Legenda copiada. Agora é só colar no Instagram.')) bLeg.textContent = 'Legenda copiada ✓'; });
       passos.append(passo(2, toque ? 'Se precisar, copie a legenda de novo' : 'Copie a legenda', el('p', { class: 'legenda-curta', text: d.legenda }), bLeg));
     }
-    const bPostei = el('button', { class: 'sec', text: postados.tem(id) ? 'Postado ✓ (desfazer)' : 'Marcar como postado' });
-    bPostei.addEventListener('click', () => {
-      const sim = !postados.tem(id); postados.marcar(id, sim);
-      bPostei.textContent = sim ? 'Postado ✓ (desfazer)' : 'Marcar como postado';
-    });
+    const bPostei = el('p', { class: 'nota', text: 'Postou? Marque na Central (Postar › Já postei): ela avisa este site.' });
     passos.append(passo(d.legenda ? 3 : 2, toque ? 'Salvou nas Fotos? Poste pelo Instagram' : 'Poste',
       el('p', { class: 'nota', text: toque ? 'No Instagram, escolha as imagens na galeria e, no corte, toque em 4:5 para não perder o topo.'
         : 'No Instagram (web): Criar (+) › Postar › escolha as imagens da pasta Downloads › no corte, 4:5 › cole a legenda.' }),
