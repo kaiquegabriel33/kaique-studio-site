@@ -1,6 +1,33 @@
 {
- "atualizado": "2026-10-18T12:54-03:00",
- "em_alta": [],
+ "atualizado": "2026-10-18T13:06-03:00",
+ "em_alta": [
+  {
+   "termo": "passeata flavio bolsonaro",
+   "trafego": "100+",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "André Santana: Ser amigo de ACM Neto e Vorcaro não torna Flavio Bolsonaro soteropolitano",
+     "url": "https://noticias.uol.com.br/colunas/andre-santana/2026/10/17/ser-amigo-de-acm-neto-e-vorcaro-nao-torna-flavio-bolsonaro-soteropolitano.htm",
+     "veiculo": "UOL Notícias"
+    },
+    {
+     "titulo": "Flávio realiza ato na Bahia e recebe título de Cidadão de Salvador",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-realiza-ato-na-bahia-e-recebe-titulo-de-cidadao-de-salvador/",
+     "veiculo": "Poder360"
+    },
+    {
+     "titulo": "Na BA, Flávio Bolsonaro recebe título de cidadão soteropolitano e promete concluir ponte Salvador-Itaparica se for eleito",
+     "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/17/flavio-bolsonaro-passeata-em-salvador.ghtml",
+     "veiculo": "G1"
+    }
+   ],
+   "publicado": "2026-10-18T08:50:00-07:00"
+  }
+ ],
  "pautas": [
   {
    "id": "d00434fbbe",
@@ -9,12 +36,13 @@
    "veiculo": "Exame",
    "publicado": "2026-10-18T12:29:31-03:00",
    "temas": [
+    "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Vox+Brasil+que+explica+vantagem+num%C3%A9rica+Lula+contra+Fl%C3%A1vio",
-   "veiculos": 7,
+   "veiculos": 10,
    "rotina": false,
    "outras": [
     {
@@ -38,7 +66,45 @@
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1keVQ2eGhnQzFUR2lJWGg2NGxCWEd0b0VUcXVjUFlEUXJFTnpWUEpKR19sXzJBcUYxb2JyOVBLYUVkbktmcHZld0R4NTFhcjhjVFJ3aEpTUTA?oc=5"
     }
    ],
-   "score": 36.8
+   "score": 39.7
+  },
+  {
+   "id": "63bdd9927a",
+   "titulo": "Lula ultrapassa Flávio em popularidade digital após 1º turno",
+   "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-ultrapassa-flavio-em-popularidade-digital-apos-1o-turno/",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-18T14:36:49+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+ultrapassa+Fl%C3%A1vio+popularidade+digital+ap%C3%B3s+turno",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "VEJA",
+     "titulo": "As novas pesquisas sobre a disputa Flávio e Lula às vésperas do segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUFMWVluTkxnM29oNlNZZEZIT1pnbUxOUjZrNW9tZmhwYmN0ZGxYMklZemNLcC0xUlp2VmRzUmVnem9IelF0V0FjTkY4SlVxM3c4dlpPdFJhV19tYTJhTkpzNmVDSXQ3bTBMeENrVXNxNjctZzJ3SjRlQVVfeTJEOGlzSk9pM3JCa1EwX2dKU3RUY2tQc2pvT05ONy00MUw0bFpVVE5BQ18xb1N4U183M0E4QzY3eGNaN0E?oc=5"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Lula e Flávio se enfrentam em debate neste domingo, visto como decisivo para o 2º turno",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/lula-e-flavio-se-enfrentam-em-debate-neste-domingo-visto-como-decisivo-para-o-2o-turno.ghtml"
+    },
+    {
+     "veiculo": "Correio do Povo Penedo",
+     "titulo": "Motivações de voto em Flávio e Lula segundo Datafolha",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDBDRnREay1XNGNHNDFMQjJPMHBCWXpqN2hvQWl6YUprcWc5N016V1VzT1VBVThHUHJZNU5ZSndmZlV1OTlpMDIxNmFrWFh5dWRBRFlwckRSVmpkdUtJckJ4VWNGYXc2TjVnZUJXY1FsV3NSSkVMR05IWjhTRG5LdVY4dFRvR0tUamdQRUExY1VJVC1aWExJeTJ6RXQ2LUtOVE1tR0FfLTl1Tmc?oc=5"
+    },
+    {
+     "veiculo": "Correio Braziliense",
+     "titulo": "Datafolha: Mudança move eleitores de Flávio, e pauta social atrai os de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjJNZEtxUmwzaEE4VFY2Wkhkb24xczJYZ212amtBZEdrZ0E4MmlOcWYwMWdUTGhkVThYUFZvZFpQWkVsUTJSMHBhSnFzbVlxQUY3WE1PXzRnUHg0cW9XRVZ5dTliNThWOHBwSThNTDNiSzJ3M2xTcVVzUmtpc3Bld2xwdzR6RGhLRG9EQTVvZ1pWdGpWZXVsVWotZW95RWdYWk9GdVFELWpRblhpY2dmSVdOa3AzYUhGODlMeUx0ZGdnY05WeGRuctIBzgFBVV95cUxPRkE2SXlKSzBoNHcxdDkxWUZOR0F4Zi1tWlQwRjg4aHE0VWh6TE9jVEVTN1pYR3JHdzhaZi05ZEJWZmJ5WXhuMjluRG9rZjFnWks1cDRVbUQ1S2tNdzdzMl93WXNDN1Frc0hoS1V0WWU2QTRBWWxrZFpHRFlIb1ZoOUhUZWkxR25leHM1cTBBY3ZETTRkZ1FRaGthZ0ZqMTFwNzJQdEVxVHA4SVRoUm53WEtQNXNLamVhNjNkbFE0bDM0UGZhb0tCTWRZbWdzQQ?oc=5"
+    }
+   ],
+   "score": 30.4
   },
   {
    "id": "f9dec4955a",
@@ -87,7 +153,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 29.3
+   "score": 29.2
   },
   {
    "id": "cf6a4e0f8a",
@@ -112,7 +178,7 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQmI1QWthZVpBRTAtSlVYRWM5Vy1leFhpazVxb1hKTnJPbEI1REJuNjZQUXM1YVhmVU5hTkx4UDM4TExjN3d5X2ZPTGJpYi1rWHlZejU2V05vcC1QTDhDSmRpX1k2NEhqMjdR?oc=5"
     }
    ],
-   "score": 24.0
+   "score": 23.9
   },
   {
    "id": "4ac40607b2",
@@ -136,7 +202,7 @@
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGpIdjU0bm52UlEzRUdjUndiUDEzSnFDbzNXbmg1SGlrSEoxU2pLRXE0M0JaNng3UHJFQXVIVUFBOEhrSkF5YXBOTzhkU09OSzVIUjdvMWcxTE41Sk5xdGJmU0I5d1hPMi1rRVdHaks1ZlZ0S2kxaHR5V2RMbWVPMGVHVVdTTU1pOE0zMG9Rdnl1TVFPWFY3bnltMllFRUhXYi1Vd3l3TXBxWm5CZmpEV2NkYlYwLW56RjdIYTVZX3IxMUFSTVVkekp3SUNCUEx0SkEyeWRndjdzT3FQZlNoT1A4UGY0QdIB9AFBVV95cUxOamdrcEtlOXRVZ0YtWW82V2JkUzZ5WWxGWmM4Q2RoR0RjbDN0bFI3eHF1cGMwTGxjRVVWeW1kN1U2NXE0bjhTNGIwUkM1d09VdVVkQi1WREZiLXk1T1I2UDRHVWhtamF2UE5RMGN4eGdVdDZLWjQzbFdCRlFsSk9HWkEtbERaUVQwMXNxSXMyb2IwaGhYYzBUNm5PcFlQTzU2b3FmeHl4dGlLRTBOSnpVcGZCOFV3ckktQWZvZm5fR2ZpME1YLTV6WDBEeGR4emVqZ3BMRURUN19NN2dpa3JJdXZIYVh2d25aYzJHbE8tdl9aZ3hH?oc=5"
     }
    ],
-   "score": 23.8
+   "score": 23.7
   },
   {
    "id": "8e7ae33f9d",
@@ -165,7 +231,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeEh5YmE5ZkJWU2JpTWZrRWtVTEVmZlRJRWdPVWpzazQxZWx6RmxRcUNOemJETHNIcEJwZlp2SHpwR18xWnN0aEpIOGJtblE1MzBBT2N5VERJUU1GQWk4Y29WcEppbVMwMGdiT0w3TXVUZWxTa1A0MjR2bWFsWjgzcjNuVnZZcHBwN2x6cVQ3YVFtSHBZR1hERE9DS1JKU3NUbC14QUN1Wkp3VTdGRU5GM1pWU2o5SERhRkZfVmREYzdjZjBfREZLRE5YTFlNU1BuZUkzatIB4wFBVV95cUxQTVM0OGVEY2NlTzYzTnlGSjZxLTJYLUJkcThOVnphbUQ2UFM1emJURmtHMTFvNm9aSGktYmtSQjVpR3MtSnNFYlBuSVRvUVBKX1BUajYtQmNUNVhTVEhndkxzWWN0dTJmOVZ3TkhYSTQxRExaLUdJb2ZxMDVMc3dtaHoyWEN1cmpMdDNheGZWa1Y1ZjFiVlhYZnRLdTRZTF81QUJQNkJ6SUcwX250TTV1Z1hNRzNTMWpJT0N1NlNBaGczMHdhSk54NHMtMTlzRjdoRjg2dHFjOTNMX3lEZmdKVDNRaw?oc=5"
     }
    ],
-   "score": 23.5
+   "score": 23.4
   },
   {
    "id": "cfbd899fe4",
@@ -184,7 +250,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.2
+   "score": 23.1
   },
   {
    "id": "86e26327f1",
@@ -202,7 +268,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.1
+   "score": 23.0
   },
   {
    "id": "27b7d20b6d",
@@ -223,42 +289,43 @@
    "score": 21.9
   },
   {
-   "id": "10066d879e",
-   "titulo": "Ao vivo: Flávio Bolsonaro realiza ato na av. Paulista",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-bolsonaro-realiza-ato-na-av-paulista/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-18T15:13:01+00:00",
+   "id": "f296c05c9f",
+   "titulo": "Ibovespa hoje fecha em queda após pesquisas eleitorais; dólar sobe mais de 1%",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGozN28wZmpfeEZSWUhqNUhDYU9HaVdQWXB1UU1QYVVkWUYtSGtBVGN4endSR0ZvMWVsaVVhQUc1QlJVYlFPNEh5WEQtc1Rrd053U0lUUEh1WmlVU2Q2R2dUem9vSWtUcVVnWnVjRWZKbG1SWWxVMFhuUXFsbW1pbGVVRUU3NUFoQ2VWN1F5LVpIeUlDYVhtbEc5bTVWVHpYVlI0MFhSQk9JVWlGOFdwMWVZZ09MU0IzTWNkY3ltc3MyYUlFUVJvekNmSTc4V0pBYk5WRlQ3V09WR0ZjOWRWVmxVMGRxclMwdkR2am9RRnJ2R2w2Tmp3?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-10-18T10:17:21+00:00",
    "temas": [
+    "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=vivo+Fl%C3%A1vio+Bolsonaro+realiza+ato+av.+Paulista",
-   "veiculos": 7,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+hoje+fecha+queda+ap%C3%B3s+pesquisas+eleitorais+d%C3%B3lar+sobe",
+   "veiculos": 5,
    "rotina": true,
    "outras": [
     {
-     "veiculo": "Poder360",
-     "titulo": "Veja imagens do ato de Flávio Bolsonaro na av. Paulista",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/veja-imagens-do-ato-de-flavio-bolsonaro-na-av-paulista/"
+     "veiculo": "O Maringá",
+     "titulo": "Dólar sobe 1,15% e fecha a R$ 5,09; Ibovespa recua 1,06% em dia de cautela no mercado",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU0VHYWVIcXZYdks4ZHBqX3Rid3k3em1RVmYtSDE5VHRlNnJOZWFZckFvTS1uS0NYZTBwOV82RU5LTTJMS1o3WnlPZEV0aXBJLU1YczVHbjc0eGRyWWIwNVdHSlJlVWpTT0ZJcVllTjhRUGNNVnNrWWQ4WHNUN2FGcm9PdmkzNFRIekZKc2w3Uy1HS3NvMHNrbUZrYUx1SDVvQ095RXRQR2luN21XaFJ3Um5tTWxFZ9IBtgFBVV95cUxPU0VHYWVIcXZYdks4ZHBqX3Rid3k3em1RVmYtSDE5VHRlNnJOZWFZckFvTS1uS0NYZTBwOV82RU5LTTJMS1o3WnlPZEV0aXBJLU1YczVHbjc0eGRyWWIwNVdHSlJlVWpTT0ZJcVllTjhRUGNNVnNrWWQ4WHNUN2FGcm9PdmkzNFRIekZKc2w3Uy1HS3NvMHNrbUZrYUx1SDVvQ095RXRQR2luN21XaFJ3Um5tTWxFZw?oc=5"
     },
     {
-     "veiculo": "InfoMoney",
-     "titulo": "Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel",
-     "url": "https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/"
+     "veiculo": "Diário do Estado",
+     "titulo": "Ibovespa sobe no início do dia com foco nas eleições",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemtSLW5weHVKLTJXMS0xNHlyUndvcG5wcWNGdGMwUW1YWk9BaEw0UGRzZjBVZGh6aXI5dU1EaGpVbC13SjE0SVF5WVZUWEtJUlVGNHlHMWxYR0RnYjdnVnZBblNqX0h5Z2RFd2lsMXJDRlJyWF9Gc0ZiU0M3OHFoX2ItMnhFbGdSakhQN1FR?oc=5"
     },
     {
-     "veiculo": "Valor",
-     "titulo": "Flávio Bolsonaro participa de ato de bolsonaristas na Avenida Paulista",
-     "url": "https://valor.globo.com/politica/noticia/2026/10/18/flavio-bolsonaro-participa-de-ato-de-bolsonaristas-na-avenida-paulista.ghtml"
+     "veiculo": "Diário do Estado",
+     "titulo": "Ibovespa sobe no início do dia com foco nas eleições",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemtSLW5weHVKLTJXMS0xNHlyUndvcG5wcWNGdGMwUW1YWk9BaEw0UGRzZjBVZGh6aXI5dU1EaGpVbC13SjE0SVF5WVZUWEtJUlVGNHlHMWxYR0RnYjdnVnZBblNqX0h5Z2RFd2lsMXJDRlJyWF9Gc0ZiU0M3OHFoX2ItMnhFbGdSakhQN1FR?oc=5"
     },
     {
-     "veiculo": "Money Times",
-     "titulo": "Debate da Band entre Lula e Flávio Bolsonaro vai acontecer? Veja data, horário e onde assistir",
-     "url": "https://www.moneytimes.com.br/debate-da-band-entre-lula-e-flavio-bolsonaro-veja-data-horario-e-onde-assistir-rnda/"
+     "veiculo": "93 Notícias",
+     "titulo": "Dólar avança 1,15% e fecha a R$ 5,087; Ibovespa cai 1,06%",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXJEbmIyT0FzVVJxOU1IclVRU0w5VUQ4YlRqMGZqRnlGY2ZHU051Nm1wNWdieklGQm5FSDlrTV9OdHJ5MGszRWZDU3Y0TnRwaW9mTjNFT0p4ZXJvV3BlaXJvUjd1ZmxxY1pROVNOMUZxb1VTLV9VdXZxVWxEdWpYVmcxMA?oc=5"
     }
    ],
-   "score": 21.7
+   "score": 21.6
   },
   {
    "id": "6b809ab3cb",
@@ -287,7 +354,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZnZMaHFyc2hNVVBuQjFVbGtHTTJSV1BZeDkyeTR3aFI0cjMzT2JPNHNVOEQyOXJyNGFCdnNIRVZ0eTZ6REtSVjZJeXBwOW5FczdxSlg4MEJoV1N6T1VHSTMyUW1uQVIzdGR3SGN1R29NLVhMZllWc1BHTTlxZ1hHNk8wempxWmY5TVdFQ0w2UWlTYWt5aXQxR0FDdVJucGVuR2MzRkdFTjJzSWFYQlNNTGNjWlg5UGRPdmI4Y095QWMxekowNVprNHM5eWJfMHQ5SHJ4VzB2WHY4OWNHb3BGd252TDNiYktZYkpUME1aeEJMUFBkM2F6eW5Qb3o2RGZPOXEwblhWOFdCemZhZEVTUTltMTJxdw?oc=5"
     }
    ],
-   "score": 21.6
+   "score": 21.5
   },
   {
    "id": "188fd3b9e6",
@@ -310,64 +377,7 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnJ1WmluNDdTWjZVRWl4OHBRMENkNDdVU0tkNV9BTGo2bVhxT3h0ZFI0NTFoeDRwMHBHZndKbjg3d2ViSGhWUjJkZldzbWF2OEZLUGlyd0p0RV9oQ3VGTUpIQVhSaHNWdmFRb3o0bThoZlU1dmRHY2hpRVVsOGZNZXJIN2Q4eXgwd0J3V0ZsWlNVR1JURTRsVVI2c0JPUkloSk1xa3dkYzFJZmZuVlBpeVZ6SlZKd1BXUGZvc1gwWUNlVXAxZFE?oc=5"
     }
    ],
-   "score": 20.9
-  },
-  {
-   "id": "c49bb91904",
-   "titulo": "Agregador Inteligov/EXAME: Mailza Assis tem 50,55% e Alan Rick, 49,45%, no 2º turno no Acre",
-   "url": "https://exame.com/brasil/agregador-inteligov-exame-mailza-assis-tem-5055-e-alan-rick-4945-no-2o-turno-no-acre/",
-   "veiculo": "Exame",
-   "publicado": "2026-10-18T11:12:36-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Agregador+Inteligov+EXAME+Mailza+Assis+tem+50%2C55%25+Alan+Rick%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Agregador Inteligov/EXAME: Dorinha tem 52,53% e Vicentinho, 47,47%, no 2º turno em Tocantins",
-     "url": "https://exame.com/brasil/agregador-inteligov-exame-dorinha-tem-5253-e-vicentinho-4747-no-2o-turno-em-tocantins/"
-    }
-   ],
-   "score": 20.3
-  },
-  {
-   "id": "9361061ded",
-   "titulo": "Datafolha: Mudança move eleitores de Flávio, e pauta social atrai os de Lula",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjJNZEtxUmwzaEE4VFY2Wkhkb24xczJYZ212amtBZEdrZ0E4MmlOcWYwMWdUTGhkVThYUFZvZFpQWkVsUTJSMHBhSnFzbVlxQUY3WE1PXzRnUHg0cW9XRVZ5dTliNThWOHBwSThNTDNiSzJ3M2xTcVVzUmtpc3Bld2xwdzR6RGhLRG9EQTVvZ1pWdGpWZXVsVWotZW95RWdYWk9GdVFELWpRblhpY2dmSVdOa3AzYUhGODlMeUx0ZGdnY05WeGRuctIBzgFBVV95cUxPRkE2SXlKSzBoNHcxdDkxWUZOR0F4Zi1tWlQwRjg4aHE0VWh6TE9jVEVTN1pYR3JHdzhaZi05ZEJWZmJ5WXhuMjluRG9rZjFnWks1cDRVbUQ1S2tNdzdzMl93WXNDN1Frc0hoS1V0WWU2QTRBWWxrZFpHRFlIb1ZoOUhUZWkxR25leHM1cTBBY3ZETTRkZ1FRaGthZ0ZqMTFwNzJQdEVxVHA4SVRoUm53WEtQNXNLamVhNjNkbFE0bDM0UGZhb0tCTWRZbWdzQQ?oc=5",
-   "veiculo": "Correio Braziliense",
-   "publicado": "2026-10-18T08:12:04+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Datafolha+Mudan%C3%A7a+move+eleitores+Fl%C3%A1vio%2C+pauta+social+atrai+Lula",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Correio do Povo Penedo",
-     "titulo": "Motivações de voto em Flávio e Lula segundo Datafolha",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDBDRnREay1XNGNHNDFMQjJPMHBCWXpqN2hvQWl6YUprcWc5N016V1VzT1VBVThHUHJZNU5ZSndmZlV1OTlpMDIxNmFrWFh5dWRBRFlwckRSVmpkdUtJckJ4VWNGYXc2TjVnZUJXY1FsV3NSSkVMR05IWjhTRG5LdVY4dFRvR0tUamdQRUExY1VJVC1aWExJeTJ6RXQ2LUtOVE1tR0FfLTl1Tmc?oc=5"
-    },
-    {
-     "veiculo": "SpaceMoney",
-     "titulo": "Datafolha: o que motiva o voto em Flávio e em Lula",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zVTR0TExTTXo0UUNqbmpsYWNBb2p4Q0FDQXRoYXdyclMtU2FZMXhGcDhhNEM4QUREX0d5Y052NVgwQVFUUEd4aVBrY0NRdlpUOVhlNjRTLXZWVlU3VTNJdGdYOFozYjZkYTNHenl5d2hxRWFKdGxuTDRldE1uTnM?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Datafolha: eleitores de Flávio dizem votar por mudança, e os de Lula, por proteção social",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnFpZ3piMWVFVlFqbkQ2MkRwNWd4YWJPOG9CQWpKOGUtOUxSTlRJbzFuSW9UTnJ2MlFKczNnOWFpM1VFRkxlZ0ZMNUpmZnhzQXl0R0o2YUVpbHBjZHM0MFpDb3FtMEdwb3V2SUdfY0tQX2U4T0hoaWhOQWVJVTNka3NNTzgtUFJkOVlhajB6WDcwcEVDQ29fNmtqMlJUZ3RQdExuOUNBWDluU3pWRE9XMG1FZUl2a09KWmhkeWRtY1VLb2JnNjV2ZThxNWdOUi0yM2c?oc=5"
-    }
-   ],
-   "score": 19.8
+   "score": 20.8
   },
   {
    "id": "a843b481ab",
@@ -386,7 +396,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.2
+   "score": 19.1
   },
   {
    "id": "f3a5ed2084",
@@ -401,24 +411,6 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Filho+Temer+aparece+v%C3%ADdeo+com+adesivo+apoio+Lula",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 18.8
-  },
-  {
-   "id": "313bbfa6bd",
-   "titulo": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
-   "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-18T08:00:01+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Perd%C3%A3o+d%C3%ADvidas+MEIs+pode+aliviar+contas%2C+mas+n%C3%A3o+resolve",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
@@ -460,42 +452,59 @@
    "score": 18.7
   },
   {
-   "id": "fdc5f333c8",
-   "titulo": "Ibovespa em alta: Olhando para o cenário eleitoral",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHJHRlJLSldZMEpQWnYyZzBZaEpiajFoZWxGVHFhWTMtRjhoX1ViQWFuZHdjdk9vMC0xWDNiNlFaWjZKNFNNeVhXak04U3c2UkhnSmNMSmcxSmY1S1Rub2tnZ05halpYaG5FUnIwUG1iVkw4eTIyQk9EQWdiVlZZTHU1Nlk0NzI5cXc?oc=5",
-   "veiculo": "Diário do Estado",
-   "publicado": "2026-10-18T15:00:17+00:00",
+   "id": "10066d879e",
+   "titulo": "Ao vivo: Flávio Bolsonaro realiza ato na av. Paulista",
+   "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-bolsonaro-realiza-ato-na-av-paulista/",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-18T15:13:01+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+alta+Olhando+para+cen%C3%A1rio+eleitoral",
-   "veiculos": 1,
-   "rotina": false,
+   "busca_video": "https://www.youtube.com/results?search_query=vivo+Fl%C3%A1vio+Bolsonaro+realiza+ato+av.+Paulista",
+   "veiculos": 6,
+   "rotina": true,
    "outras": [
     {
-     "veiculo": "Diário do Estado",
-     "titulo": "Ibovespa em Alta: Olhos Voltados para o Cenário Eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2Zpbl84d3NfNzlBSUFQc3BTbExzTzNpb1pfVk5vSG5lWjN5bk5qNUp5U0ZHRFZ1dTJPQ3BfbUItTXBwc1VqNUkwVEI3eGFVWnZkUlhqTDBtdG5IS0JRVVZROTBlTmZKWXZDYndWWmhiZ1NubGxFX1ppY3FTUk41b05HaVlEa1p1NWcxd1RPSlhlZkE?oc=5"
+     "veiculo": "Poder360",
+     "titulo": "Veja imagens do ato de Flávio Bolsonaro na av. Paulista",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/veja-imagens-do-ato-de-flavio-bolsonaro-na-av-paulista/"
     },
     {
-     "veiculo": "Diário do Estado",
-     "titulo": "Ibovespa em Alta: Olhos Voltados para o Cenário Eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2Zpbl84d3NfNzlBSUFQc3BTbExzTzNpb1pfVk5vSG5lWjN5bk5qNUp5U0ZHRFZ1dTJPQ3BfbUItTXBwc1VqNUkwVEI3eGFVWnZkUlhqTDBtdG5IS0JRVVZROTBlTmZKWXZDYndWWmhiZ1NubGxFX1ppY3FTUk41b05HaVlEa1p1NWcxd1RPSlhlZkE?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel",
+     "url": "https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/"
     },
     {
-     "veiculo": "Diário do Estado",
-     "titulo": "Ibovespa avança com mercado atento ao cenário eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMm9kRnlWMV92VGtKYTN3ajVKRnVlY1FUMjB5S1hfX0s1Qkd3S21QQzFfM19zZldVa1dEcGEtaE9kUDA2OXhnNzlnNHF0QlBpYkUwWjlYSDh4SUxnQmtRUC16MlFENlVpWmlTZ3RDOGczd3BtQl9hNFdnYXFhU3psZmFxbHN2YTdydUN1NEFDM1Rpdw?oc=5"
+     "veiculo": "Valor",
+     "titulo": "Flávio Bolsonaro participa de ato de bolsonaristas na Avenida Paulista",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/18/flavio-bolsonaro-participa-de-ato-de-bolsonaristas-na-avenida-paulista.ghtml"
     },
     {
-     "veiculo": "Diário do Estado",
-     "titulo": "Ibovespa inicia sexta-feira em alta com foco no cenário eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk1oei1rNGxCOXNWMjNRSTBCTzVycGtSQXdNUVllZFRmZldlVHFQVUYxZ3c2WF9idXFpWXlhZjZiRTdxdmcxc2NvYnNzVmV0T1ZYaWtPbmtUR3BXLUh5U0VHVFM5d1kxT3ZsNDd6TnQ5RUx2OEdldUk1M1lMdXQtZGRWMThaa19mSTNJdVNVSzFBYUZHSlp4MFdhcVg0cmc?oc=5"
+     "veiculo": "Money Times",
+     "titulo": "Debate da Band entre Lula e Flávio Bolsonaro vai acontecer? Veja data, horário e onde assistir",
+     "url": "https://www.moneytimes.com.br/debate-da-band-entre-lula-e-flavio-bolsonaro-veja-data-horario-e-onde-assistir-rnda/"
     }
    ],
+   "score": 18.6
+  },
+  {
+   "id": "313bbfa6bd",
+   "titulo": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
+   "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-10-18T08:00:01+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Perd%C3%A3o+d%C3%ADvidas+MEIs+pode+aliviar+contas%2C+mas+n%C3%A3o+resolve",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
    "score": 18.6
   },
   {
@@ -513,29 +522,6 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 18.5
-  },
-  {
-   "id": "63bdd9927a",
-   "titulo": "Lula ultrapassa Flávio em popularidade digital após 1º turno",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-ultrapassa-flavio-em-popularidade-digital-apos-1o-turno/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-18T14:21:47+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+ultrapassa+Fl%C3%A1vio+popularidade+digital+ap%C3%B3s+turno",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "Lula e Flávio se enfrentam em debate neste domingo, visto como decisivo para o 2º turno",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/lula-e-flavio-se-enfrentam-em-debate-neste-domingo-visto-como-decisivo-para-o-2o-turno.ghtml"
-    }
-   ],
    "score": 18.4
   },
   {
@@ -553,7 +539,24 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 18.3
+   "score": 18.2
+  },
+  {
+   "id": "c49bb91904",
+   "titulo": "Agregador Inteligov/EXAME: Mailza Assis tem 50,55% e Alan Rick, 49,45%, no 2º turno no Acre",
+   "url": "https://exame.com/brasil/agregador-inteligov-exame-mailza-assis-tem-5055-e-alan-rick-4945-no-2o-turno-no-acre/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-18T11:12:36-03:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Agregador+Inteligov+EXAME+Mailza+Assis+tem+50%2C55%25+Alan+Rick%2C",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.2
   },
   {
    "id": "dca8c08293",
@@ -571,7 +574,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 18.3
+   "score": 18.2
   },
   {
    "id": "dd52d83fd8",
@@ -594,7 +597,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGRaLWZIMFlUVXZUcWZ2M3VPWUdxek5NVWoxMVRxdDNyaHgyMDhLTm5NY2hBMmpXOFJqS1IxWlkyM2NDdUhXdnkwWTkxNnVhelpuNzRxcVp6Rm42Mk84dTFxVW9mTWljaTVvVmVEd19kZVNVODF2OHFvZkdSY3MtVEZQeFdZalJWVUF3NG1IOERlWGJ3bHdXdXlBSV9iSVR0eDZ6ZzZLbjg4dw?oc=5"
     }
    ],
-   "score": 18.2
+   "score": 18.1
   },
   {
    "id": "76177d3d08",
@@ -617,7 +620,7 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3VCRHI1ZkktcGUtVVduWVpiSlpRR05lMkhncHBlWXh3eWhSLVBBWmFHNEpPdThUeDVJWDZ4XzBuZkJWU0FKSENrSnBXN0NZUmFTWGQza0Njb3Jvc3M1RVhNdHF6dEg4aXo5b0s3SG5HeU5qd1ZWQ1hzSUNOcGlORVRaLThUOHQ1VXI5cXJ4c21ucWRBbkxjUDBBOFVQZXJLSzFUWUJuamx1S3hFT3FRbUZLeG41Zw?oc=5"
     }
    ],
-   "score": 17.9
+   "score": 17.8
   },
   {
    "id": "86f1b0b9ee",
@@ -691,7 +694,7 @@
      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/17/quem-esta-na-frente-para-presidente-no-segundo-turno-veja-resultado-das-ultimas-pesquisas-por-genero-idade-e-escolaridade.ghtml"
     }
    ],
-   "score": 17.0
+   "score": 16.9
   },
   {
    "id": "9c567d9114",
@@ -708,7 +711,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 17.0
+   "score": 16.9
   },
   {
    "id": "e5dac5c63c",
@@ -726,7 +729,24 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 16.2
+   "score": 16.1
+  },
+  {
+   "id": "5640f40270",
+   "titulo": "Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido",
+   "url": "https://www.infomoney.com.br/business/nscale-diz-que-microsoft-desistiu-de-acordo-para-data-center-no-reino-unido/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-18T16:00:00+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Nscale+diz+que+Microsoft+desistiu+acordo+para+data+center",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 16.0
   },
   {
    "id": "ca588c6e09",
@@ -744,7 +764,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 16.1
+   "score": 16.0
   },
   {
    "id": "8e58a3a233",
@@ -797,7 +817,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVBmVGE5eVoxc2xSanRMbFlHaW1XVDJWOEJ1Y3l3emVlME5mc2pySDIxbGFWRWpyOVdodVpTbzhEOVJFaEpmVFp4cVZ4MW1UVnQzbTVfQV9RUjZTWEpub2lVQTdrN1l4VEpQbHFVMzU0d0dhblZIWlNBMlF1MXpiemNzamczV3RBWWtIOEZFU0t6QnRHNEFxNk0yRGFhcXc3ZVNjZVlBSWFZR3hvcjVaTDR3OF8wa0tYWEMtUk5MTTNSUnp6UnctYks4b3F0MnduQW83SA?oc=5"
     }
    ],
-   "score": 16.0
+   "score": 15.9
   },
   {
    "id": "190c73e4b0",
@@ -816,7 +836,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.9
+   "score": 15.8
   },
   {
    "id": "4626dfec35",
@@ -834,7 +854,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.8
+   "score": 15.7
   },
   {
    "id": "90f47d0451",
@@ -862,7 +882,7 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNXZqX2RndnRpeFRvS0NQRW5JMkRRTXVIYVhrVEFncWduQU5MRTIta2Zoby1BeVZvZVAtaHY3aWZlU0p2RnYyTFF2cWJDY1kwRk1tYlpPUXRYLUNZVFd3TS1ydFNaMklfOVFsR1BhU3hmRzE2RTcxdUtZaEhkTzRFdjhpTkxkeWNtMjRzTGwzUmJzb2szeVc5YnlqZzY0UVBWZDNoTXJiYU8wUjJWM3k4ekE0NkhZZWl1WFNRT01NemJ6ZEd6cHpNbVJyOFZBMWN2Nk8zUVdhTGNNaTg?oc=5"
     }
    ],
-   "score": 15.7
+   "score": 15.6
   },
   {
    "id": "163c3b7c46",
@@ -879,7 +899,24 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.7
+   "score": 15.6
+  },
+  {
+   "id": "6373f31db9",
+   "titulo": "Governo Lula: 'Compra de votos' já soma R$ 290 bi; desordem orçamentária será legado amargo para a próxima administração e demandará ajuste profundo",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQYjVUQ2VWNFJ1S3hJZkZvVGFBd1h2MXhUZzAyYkVqQmJqbElKd0Y2MGNjQlZXR2VZeF9NZlhkQzhCRlNoQVJUUVRsV1hUNW8zUDJGNkNMQUpmMXViU1lUZE9MUDNuZkhfcWwtQ0dzeEVzaGphWDhBeXpBWlFCbVFSanl5VjBVT1Q1S1dXY3ZlMkFuWmd2bU4zdlhURW9ERFVlVEhzNGVJUU1UVmZabjh4TGhqSmdzVzUtajJwTlBPZ3k1djh0OS1QN3N6X3RDWUJXcFNxLW9FREJGRVhpRFloM2R2N2ItSEJmdENCc3J4TTBQdWdVQkwzdlVOMWR4VXpLQTFveWp3TkVFMlpsYkhkZ3FHOUVrZw?oc=5",
+   "veiculo": "Blog do Roberto Gonçalves",
+   "publicado": "2026-10-18T12:38:13+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+Compra+votos+soma+290+desordem+or%C3%A7ament%C3%A1ria+ser%C3%A1",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 15.6
   },
   {
    "id": "993997f531",
@@ -896,7 +933,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.6
+   "score": 15.5
   },
   {
    "id": "1b01b8dba9",
@@ -914,24 +951,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.6
-  },
-  {
-   "id": "0c61b52335",
-   "titulo": "Após a euforia eleitoral, mercados da América Latina enfrentam a realidade",
-   "url": "https://www.infomoney.com.br/onde-investir/apos-a-euforia-eleitoral-mercados-da-america-latina-enfrentam-a-realidade/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-18T14:55:08+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+euforia+eleitoral%2C+mercados+Am%C3%A9rica+Latina+enfrentam+realidade",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 15.6
+   "score": 15.5
   }
  ],
  "falas_e_videos": [
@@ -951,7 +971,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 18.8
+   "score": 18.7
   },
   {
    "id": "3a2741f4e8",
@@ -968,7 +988,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 11.2
+   "score": 11.1
   },
   {
    "id": "8e7ae33f9d",
@@ -997,7 +1017,24 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeEh5YmE5ZkJWU2JpTWZrRWtVTEVmZlRJRWdPVWpzazQxZWx6RmxRcUNOemJETHNIcEJwZlp2SHpwR18xWnN0aEpIOGJtblE1MzBBT2N5VERJUU1GQWk4Y29WcEppbVMwMGdiT0w3TXVUZWxTa1A0MjR2bWFsWjgzcjNuVnZZcHBwN2x6cVQ3YVFtSHBZR1hERE9DS1JKU3NUbC14QUN1Wkp3VTdGRU5GM1pWU2o5SERhRkZfVmREYzdjZjBfREZLRE5YTFlNU1BuZUkzatIB4wFBVV95cUxQTVM0OGVEY2NlTzYzTnlGSjZxLTJYLUJkcThOVnphbUQ2UFM1emJURmtHMTFvNm9aSGktYmtSQjVpR3MtSnNFYlBuSVRvUVBKX1BUajYtQmNUNVhTVEhndkxzWWN0dTJmOVZ3TkhYSTQxRExaLUdJb2ZxMDVMc3dtaHoyWEN1cmpMdDNheGZWa1Y1ZjFiVlhYZnRLdTRZTF81QUJQNkJ6SUcwX250TTV1Z1hNRzNTMWpJT0N1NlNBaGczMHdhSk54NHMtMTlzRjdoRjg2dHFjOTNMX3lEZmdKVDNRaw?oc=5"
     }
    ],
-   "score": 23.5
+   "score": 23.4
+  },
+  {
+   "id": "5640f40270",
+   "titulo": "Nscale diz que Microsoft desistiu de acordo para data center no Reino Unido",
+   "url": "https://www.infomoney.com.br/business/nscale-diz-que-microsoft-desistiu-de-acordo-para-data-center-no-reino-unido/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-18T16:00:00+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Nscale+diz+que+Microsoft+desistiu+acordo+para+data+center",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 16.0
   },
   {
    "id": "c581681bd3",
@@ -1014,7 +1051,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.3
+   "score": 15.2
   },
   {
    "id": "99b54a2a71",
@@ -1056,7 +1093,7 @@
      "url": "https://www.moneytimes.com.br/pib-do-eua-pode-atingir-us-44-trilhoes-ate-2030-com-avanco-da-ia-diz-cofundador-da-anthropic/"
     }
    ],
-   "score": 14.5
+   "score": 14.4
   },
   {
    "id": "1df1c2dfa0",
@@ -1073,7 +1110,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 14.0
+   "score": 13.9
   },
   {
    "id": "d21987d2c2",
@@ -1090,7 +1127,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 12.2
+   "score": 12.1
   },
   {
    "id": "8a4b33228b",
@@ -1125,7 +1162,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 10.2
+   "score": 10.1
   },
   {
    "id": "9c5320702d",
@@ -1142,30 +1179,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 9.9
-  },
-  {
-   "id": "1f8d25e9bb",
-   "titulo": "Reação do mercado ao 2º turno deve ser mais tênue, diz especialista",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlJreVdGcVp6QWN6b0FIWjBBczl6d0V0alVLTnVra2d6NDlmVktlUEZCckQ1Rno2Y0xlekVuaDNYbV9lRUNDTlItdHZsaUJjN2dVbF9fRVRKdEJuZWtUT2lucWFJNnB6Z2RYSVkxczR6ZU01alBaQUdRNTRueVp4NU5XbEE1WnNyWjZEa21WWEZzWFJObnVOQ29hMHBuazE4czZoUnVaOHNWZnpxWDJyV0pCNDlYQmFwbTFFOFNKc1ZWTVk?oc=5",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-18T07:30:57+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Rea%C3%A7%C3%A3o+mercado+turno+deve+ser+mais+t%C3%AAnue%2C+diz+especialista",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Reação do mercado ao 2º turno deve ser mais tênue, diz especialista",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlJreVdGcVp6QWN6b0FIWjBBczl6d0V0alVLTnVra2d6NDlmVktlUEZCckQ1Rno2Y0xlekVuaDNYbV9lRUNDTlItdHZsaUJjN2dVbF9fRVRKdEJuZWtUT2lucWFJNnB6Z2RYSVkxczR6ZU01alBaQUdRNTRueVp4NU5XbEE1WnNyWjZEa21WWEZzWFJObnVOQ29hMHBuazE4czZoUnVaOHNWZnpxWDJyV0pCNDlYQmFwbTFFOFNKc1ZWTVk?oc=5"
-    }
-   ],
-   "score": 9.5
+   "score": 9.8
   }
  ],
  "fontes_ok": 22,
