@@ -206,7 +206,7 @@
       });
       for (const r of ln.runs) {
         ctx.font = fonteDe(tam, r.negrito ? pesoDest : peso);
-        ctx.fillStyle = o.cor || tema.texto;
+        ctx.fillStyle = (r.marca && o.corTextoMarca) || o.cor || tema.texto;   // corTextoMarca: letra preta no grifo vivo do tema escuro
         ctx.fillText(r.t, dx + r.x, by);
       }
     });
@@ -281,7 +281,7 @@
   function opcTexto(el) {
     return { x: el.x ?? MARGEM, y: el.y, w: el.w ?? LARG_UTIL, tam: el.tam ?? 37, lh: el.lh ?? 1.4,
              peso: el.peso ?? 700, pesoDestaque: el.pesoDestaque ?? 800, alinhar: el.alinhar,
-             cor: el.cor, corMarca: el.corMarca };
+             cor: el.cor, corMarca: el.corMarca, corTextoMarca: el.corTextoMarca };
   }
 
   TIPOS.imagem = {
