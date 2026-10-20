@@ -935,6 +935,8 @@
       const img = imagemPronta(slide.fundo.src);
       if (img) desenharImagemAjustada(ctx, img, 0, 0, W, AH, 'cobrir', slide.fundo.foco);
       if (slide.fundo.escurecer) { ctx.fillStyle = `rgba(0,0,0,${Math.min(0.8, +slide.fundo.escurecer)})`; ctx.fillRect(0, 0, W, AH); }
+      // 20/10, ele: "e se a gente der uma clareada no plano de fundo?": véu branco por cima da foto do story
+      if (slide.fundo.clarear) { ctx.fillStyle = `rgba(255,255,255,${Math.min(0.8, +slide.fundo.clarear)})`; ctx.fillRect(0, 0, W, AH); }
     }
     const dy = deslocamentoDe(slide);
     ctx.save();
