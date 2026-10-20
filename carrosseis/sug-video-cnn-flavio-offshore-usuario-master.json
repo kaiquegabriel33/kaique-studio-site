@@ -1,0 +1,72 @@
+{
+  "id": "sug-video-cnn-flavio-offshore-usuario-master",
+  "titulo": "No pedido do Lula ao TSE, a offshore do jato do Vorcaro e o Flávio como “usuário master” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-20T14:05",
+  "atualizado": "2026-10-20T16:45",
+  "trecho": {
+    "inicio": "eu mostro aqui a vocês",
+    "fim": "divulgada pela imprensa",
+    "texto": "eu mostro aqui a vocês que são elencadas essas empresas que o documento diz serem, terem Flávio Bolsonaro no quadro de sócio e aqui eu chamo a atenção de vocês desta última. Por quê? O que é que eles dizem no documento? Que é uma empresa offshore, registrada na Ilha da Madeira, de titularidade com o senhor Willer Tomás, que é aquele advogado com quem Flávio Bolsonaro, inclusive, andou num avião, que pertencia a uma empresa que tinha conexão com Daniel Vorcaro, em cuja conta bancária o candidato Flávio Bolsonaro figuraria como usuário master, segundo a apuração da Polícia Federal, que foi divulgada pela imprensa.",
+    "trocar_palavras": {
+      "Willer Tomás": "Willer Tomaz",
+      "Vurcaro": "Vorcaro",
+      "Borcaro": "Vorcaro"
+    },
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "eu mostro aqui a vocês",
+        "texto": "20/10: pedido do Lula ao TSE para abrir o sigilo dos dois candidatos"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "usuário master",
+        "texto": "PF (O Globo, 14/10): a conta era da offshore, no Santander. Flávio nega"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "No pedido do Lula ao TSE, a offshore do jato do Vorcaro e o Flávio como ==“usuário master”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "A CNN leu ao vivo o pedido do Lula ao TSE. A última empresa da lista é a que mais chama atenção.\n\nFoi na terça (20/10), às 11h37. O Lula pediu para abrir o sigilo bancário, fiscal e telefônico dele e da família, desde que o Flávio faça o mesmo. O documento lista empresas que teriam o Flávio como sócio. Uma delas é uma offshore na Ilha da Madeira, em nome do advogado Willer Tomaz.\n\nO que se sabe: em 14/10, o jornal O Globo revelou um relatório da PF que aponta o Flávio como “usuário master” da conta dessa offshore no Santander. A empresa era dona de 1/3 do jato que o Flávio usou numa viagem aos EUA em janeiro de 2025. Outra sócia do jato tinha o Daniel Vorcaro, ex-dono do Banco Master. A conta era da offshore, não do Vorcaro.\n\nO outro lado: o Flávio nega ter tido qualquer conta com o advogado. O Willer Tomaz diz que os e-mails não provam sociedade. A PF fala em hipótese, não em prova.\n\nVocê abriria o seu sigilo? Comenta aí.\n\nVídeo: CNN Brasil (20/10/2026). Reportagem: O Globo (14/10/2026).\n\n#FlavioBolsonaro #Vorcaro #BancoMaster #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (YouTube) — LIVE CNN de 20/10/2026, ao vivo",
+      "url": "https://www.youtube.com/watch?v=dW_VbkiQZzE"
+    },
+    {
+      "titulo": "CNN Brasil (blog Gustavo Uribe) — Lula autoriza TSE a quebrar sigilo sob condição de que Flávio faça o mesmo (20/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/lula-autoriza-tse-a-quebrar-sigilo-sob-condicao-de-que-flavio-faca-o-mesmo/"
+    },
+    {
+      "titulo": "Times Brasil (CNBC) — PF aponta Flávio Bolsonaro como “usuário master” de conta de offshore ligada a Vorcaro (14/10/2026, a partir de O Globo)",
+      "url": "https://timesbrasil.com.br/brasil/pf-aponta-flavio-bolsonaro-como-usuario-master-de-conta-de-offshore-ligada-a-vorcaro/"
+    },
+    {
+      "titulo": "Jornal do Brasil — PF cita Flávio Bolsonaro como “usuário master” de conta de empresa de advogado (10/2026)",
+      "url": "https://www.jb.com.br/brasil/policia/2026/10/1061225-pf-cita-flavio-bolsonaro-como-usuario-master-de-conta-de-empresa-de-advogado.html"
+    }
+  ]
+}
