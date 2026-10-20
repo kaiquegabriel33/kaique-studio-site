@@ -1,0 +1,66 @@
+{
+  "id": "sug-video-haddad-mais-perigoso",
+  "titulo": "Haddad: “Flávio é muito mais perigoso que o pai” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-15T18:50",
+  "atualizado": "2026-10-15T18:50",
+  "video_url": "https://www.youtube.com/watch?v=OrAvaf4luTQ&t=405s",
+  "trecho_txt": "Entrevista do Haddad ao UOL News (15/10). O link abre 15 s antes: grave de 7:00 a 8:01 (“…servida pra sociedade brasileira.”), celular deitado, tela cheia. Eu corto de “Eu considero Flávio” até “sociedade brasileira”.",
+  "trecho": {
+    "inicio": "Eu considero Flávio",
+    "fim": "abafar o caso do Master",
+    "girar": "horario",
+    "texto": "Eu considero Flávio, Josias, para te ser muito honesto, muito mais perigoso que o pai, porque ele é uma pessoa que ele consegue operar num grau de racionalidade que o pai não operava, né? O pai, por exemplo, tinha uma relação com o centrão de outro, de outro nível. Ele inclusive no começo do governo desprezava o centrão. Quando a popularidade dele começou a baixar, ele trouxe o centrão para dentro do governo e até fez uma brincadeira na internet dizendo que ele sempre foi do centrão, mas isso da metade do governo pra frente. Hoje o centrão, figuras do centrão, não quero generalizar, dependem muito da vitória do Flávio Bolsonaro para conseguir abafar o caso do Master.",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "muito mais perigoso que o pai",
+        "texto": "Haddad ao UOL News em 15/10, a 10 dias do 2º turno",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "abafar o caso do Master",
+        "texto": "Em maio, Flávio admitiu ter ido à casa do Vorcaro",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Haddad diz que o Flávio é ==“muito mais perigoso que o pai”==."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Muito mais perigoso que o pai.” É assim que o Haddad vê o Flávio, e ele explica o porquê com o caso Master.\n\nFoi numa entrevista ao UOL News nesta quinta (15). Para o ex-ministro da Fazenda do Lula, parte do centrão depende da vitória do Flávio para “abafar” o caso Master, e “tem uma pizza” sendo preparada.\n\nO que se sabe do lado do Flávio: em maio, ele admitiu ter ido à casa do Vorcaro, dono do Master, para “colocar um ponto final” no dinheiro do filme sobre o pai. Não achei resposta dele a essa fala do Haddad até agora. O 2º turno é no dia 25.\n\nPerigoso ou só estratégia de campanha? Comenta aí.\n\nVídeo: UOL News (15/10/2026). Visita ao Vorcaro: Exame e Revista Oeste.\n\n#Haddad #FlavioBolsonaro #BancoMaster #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Fim da escala 6x1: tem muito alarmismo no mercado, mas faz parte do jogo, afirma Haddad (UOL News, 15/10/2026)",
+      "url": "https://www.youtube.com/watch?v=OrAvaf4luTQ"
+    },
+    {
+      "titulo": "Exame: Flávio Bolsonaro admite ter visitado Vorcaro após prisão do banqueiro",
+      "url": "https://exame.com/brasil/flavio-bolsonaro-admite-ter-visitado-vorcaro-apos-prisao-do-banqueiro/"
+    },
+    {
+      "titulo": "Revista Oeste: Flávio confirma ter ido à casa de Vorcaro: “coloquei um ponto final”",
+      "url": "https://revistaoeste.com/politica/flavio-confirma-ter-ido-a-casa-de-vorcaro-coloquei-um-ponto-final/"
+    }
+  ]
+}

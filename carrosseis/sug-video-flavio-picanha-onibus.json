@@ -1,0 +1,61 @@
+{
+  "id": "sug-video-flavio-picanha-onibus",
+  "titulo": "Flávio sobre o ônibus de graça do Lula: \"a picanha tá vindo de ônibus\" (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T14:50",
+  "atualizado": "2026-10-16T14:50",
+  "video_url": "https://www.youtube.com/watch?v=OGSwf4uWacI&t=508s",
+  "trecho_txt": "Live do Flávio no canal dele (TV Celular Flavio Bolsonaro, 15/10). O link abre 15 s antes: grave de 8:43 a 9:20 (de \"Bom, hoje o Lula prometeu\" até \"Não é possível que alguém ainda acredita nele\"), celular deitado, tela cheia.",
+  "trecho": {
+    "inicio": "hoje o Lula prometeu",
+    "fim": "alguém ainda acredita nele",
+    "texto": "Bom, hoje o Lula prometeu, Mike, prometeu que vai dar ônibus de graça aí, né? E agora eu descobri porque é que a picanha ainda não chegou. Porque a picanha tá vindo de ônibus, cara. Ele prometeu picanha, entregou. Ele tá prometendo tudo que ele não vai entregar agora. Ele perdeu a linha de novo. Vai, tá prometendo ônibus de graça que não vai entregar também. Será que tem gente que acredita nisso, cara? Eu fico preocupado que não é possível, cara, que tem gente que ainda tem que o Lula ainda consegue mentir, mentir, mentir. Não é possível que alguém ainda acredita nele.",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "prometeu que vai dar ônibus de graça",
+        "texto": "15/10: Lula promete PEC do passe livre no fim de semana",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "prometeu picanha não entregou ele tá prometendo tudo",
+        "texto": "Picanha foi promessa do Lula na campanha de 2022",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Flávio debocha do ônibus de graça do Lula: ==“a picanha tá vindo de ônibus”==."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "\"A picanha tá vindo de ônibus.\" Foi assim que o Flávio respondeu à promessa de ônibus de graça do Lula.\n\nNa live desta quinta (15), ele disse que o Lula promete o que não vai entregar. No mesmo dia, o Lula tinha prometido mandar uma PEC com passe livre no fim de semana em toda cidade com transporte coletivo, pago com emendas parlamentares. PEC precisa de 3/5 dos votos na Câmara e no Senado.\n\nO 2º turno é no dia 25.\n\nÔnibus de graça no fim de semana: promessa que sai do papel ou não? Comenta aí.\n\nVídeo: live do Flávio Bolsonaro no YouTube (15/10/2026).\n\n#tarifazero #transporte #FlavioBolsonaro #picanha #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Celular Flavio Bolsonaro (YouTube) — Live de quinta, 15/10/2026 (8:43 a 9:20)",
+      "url": "https://www.youtube.com/watch?v=OGSwf4uWacI"
+    },
+    {
+      "titulo": "Poder360 (YouTube) — Lula promete ônibus de graça aos fins de semana (15/10/2026)",
+      "url": "https://www.youtube.com/watch?v=fjlzXj89hfE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "sug-video-flavio-nunes-marques-investigado",
+  "titulo": "Nunes Marques, indicado por Bolsonaro, deve ser investigado? A resposta do Flávio (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T23:15",
+  "atualizado": "2026-10-19T01:00",
+  "trecho": {
+    "inicio": "o senhor tem defendido não só a investigação",
+    "fim": "a lei tem que valer para todo mundo",
+    "texto": "o senhor tem defendido não só a investigação, mas o impeachment do ministro Alexandre de Moraes por causa das relações dele com o dono do Banco Master. Daí eu pergunto, mas e o ministro Kassio Nunes Marques, porque ele foi indicado pelo seu pai e mensagens apreendidas no celular do Daniel Vorcaro indicam que ele, além de bancar despesas do ministro, pagou a um filho dele por meio de uma empresa de consultoria. Nunes Marques também precisa ser investigado? Todo mundo tem que estar abaixo da lei, esse é o problema do Brasil hoje, Renata. Qual o problema do Brasil? As pessoas acham que estão acima da lei, a lei tem que valer para todo mundo.",
+    "gancho": false,
+    "trocar_palavras": {
+      "Cássio": "Kassio"
+    },
+    "contexto": [
+      {
+        "desde": "o impeachment do ministro",
+        "texto": "Entrevista à TV Globo, 2º turno, 16/10",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "Nunes Marques",
+        "texto": "Kassio Nunes Marques: indicado ao STF por Bolsonaro em 2020",
+        "cor": "amarelo"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Nunes Marques, indicado pelo pai dele, também precisa ser investigado? Flávio: ==“Todo mundo tem que estar abaixo da lei”==."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Todo mundo tem que estar abaixo da lei.” Foi a resposta do Flávio quando a Renata perguntou se o ministro Kassio Nunes Marques também precisa ser investigado.\n\nO Flávio defende o impeachment do Alexandre de Moraes pelas relações com o dono do Banco Master. A Renata lembrou que Nunes Marques foi indicado pelo pai dele e que mensagens no celular do Vorcaro indicam que ele bancou despesas do ministro e pagou um filho dele. O Flávio não disse o nome do ministro na resposta.\n\nVale para os dois? Comenta aí.\n\nVídeo: entrevista à TV Globo (16/10/2026).\n\n#FlavioBolsonaro #STF #NunesMarques #Vorcaro #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo — entrevista de Flávio Bolsonaro a Renata Lo Prete, 2º turno (16/10/2026, ao vivo)",
+      "url": "https://g1.globo.com/"
+    }
+  ]
+}

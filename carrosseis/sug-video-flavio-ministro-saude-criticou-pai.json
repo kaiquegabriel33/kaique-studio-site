@@ -1,0 +1,59 @@
+{
+  "id": "sug-video-flavio-ministro-saude-criticou-pai",
+  "titulo": "O ministro da Saúde escolhido pelo Flávio criticou o governo do pai na pandemia (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T23:05",
+  "atualizado": "2026-10-19T01:00",
+  "trecho": {
+    "inicio": "O senhor escolheu para ministro",
+    "fim": "é para o SUS ter padrão Einstein",
+    "texto": "O senhor escolheu para ministro da saúde, aliás, foi a primeira escolha que o senhor anunciou, um médico renomado, Cláudio Lottenberg, que na pandemia ocorrida durante o governo do seu pai, criticou a demora do governo para comprar vacinas. Numa entrevista, ele disse, e eu cito aqui, entre aspas, o Brasil vai pagar um preço caro por essa demora, a gente está ouvindo várias desculpas e nenhuma é adequada, fecha aspas. Minha pergunta para o senhor é sobre o futuro. Como o seu ministro, ele teria liberdade para tomar as medidas necessárias numa situação de emergência de saúde pública? Com certeza, Renata, inclusive na minha conversa com ele, quando eu fiz esse convite, foi exatamente isso. Vamos olhar para a frente. Dr. Cláudio Lottenberg, vamos lembrar, ele foi o presidente do melhor hospital do Brasil, que é o Albert Einstein, que fica ali em São Paulo. E qual a ideia? É ele trazer essas boas práticas que existem nesse melhor hospital do Brasil, e até um dos melhores da América Latina, para dentro do SUS. É para o SUS ter padrão Einstein.",
+    "gancho": false,
+    "trocar_palavras": {
+      "Lutenberg": "Lottenberg"
+    },
+    "contexto": [
+      {
+        "desde": "Cláudio Lottenberg",
+        "texto": "Claudio Lottenberg presidiu o Hospital Israelita Albert Einstein",
+        "cor": "verde"
+      },
+      {
+        "desde": "criticou a demora do governo",
+        "texto": "Entrevista à TV Globo, 2º turno, 16/10",
+        "cor": "vermelho"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "O ministro da Saúde do Flávio criticou o governo do pai na pandemia: ==“o Brasil vai pagar um preço caro por essa demora”==."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“O Brasil vai pagar um preço caro por essa demora.” Quem disse isso na pandemia, sobre a compra de vacinas pelo governo Bolsonaro, foi Claudio Lottenberg, o nome que o Flávio anunciou para ministro da Saúde.\n\nA Renata leu a frase ao vivo e perguntou se ele teria liberdade numa emergência. O Flávio disse que sim: “Vamos olhar para a frente”. E prometeu um “SUS padrão Einstein”, com telemedicina e prontuário único.\n\nBoa escolha? Comenta aí.\n\nVídeo: entrevista à TV Globo (16/10/2026).\n\n#FlavioBolsonaro #SUS #saude #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo — entrevista de Flávio Bolsonaro a Renata Lo Prete, 2º turno (16/10/2026, ao vivo)",
+      "url": "https://g1.globo.com/"
+    }
+  ]
+}
