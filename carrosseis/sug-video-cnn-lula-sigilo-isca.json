@@ -1,0 +1,68 @@
+{
+  "id": "sug-video-cnn-lula-sigilo-isca",
+  "titulo": "Lula abre o sigilo da família “desde que” Flávio abra o do pai e dos irmãos; PL: “não deve morder esta isca” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-20T14:05",
+  "atualizado": "2026-10-20T18:15",
+  "trecho": {
+    "inicio": "elencados os nomes dos familiares",
+    "fim": "deve, portanto, ignorar",
+    "texto": "E aí nós temos aqui elencados os nomes dos familiares, Jair Messias Bolsonaro, Rogéria Bolsonaro, Carlos Bolsonaro, Eduardo Bolsonaro e Jair Renan Bolsonaro, além de Fernanda Antunes Figueira Bolsonaro. Isabel Mega, nós temos ele autorizando os dados dele e dos parentes, desde que o candidato adversário também o faça. Essa expressão é importantíssima, Elisa, porque ela muda tudo, né? E dificilmente, pela apuração que a gente tem, conversando hoje mais cedo com integrantes do PL, Flávio Bolsonaro vai topar o desafio. Isso por quê? Qual é o discurso que a gente já escuta de dentro do Partido Liberal? Eles entendem que isso é uma isca e que Flávio Bolsonaro, na expressão utilizada por um aliado para mim, não deve morder esta isca, deve, portanto, ignorar.",
+    "trocar_palavras": {
+      "Willer Tomás": "Willer Tomaz",
+      "Vurcaro": "Vorcaro",
+      "Borcaro": "Vorcaro"
+    },
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "elencados os nomes",
+        "texto": "20/10: Lula pediu ao TSE abrir o sigilo dele, da Janja e dos filhos (8 anos)"
+      },
+      {
+        "cor": "verde",
+        "desde": "desde que o candidato adversário",
+        "texto": "Só vale se o Flávio abrir o dele e o da família"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Lula abre o sigilo da família “desde que” o Flávio abra o do pai e dos irmãos. PL: ==“não deve morder esta isca”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "O desafio do debate virou papel. Mas tem um “desde que”.\n\nNa terça (20/10), o Lula entregou ao TSE uma autorização para abrir o sigilo bancário, fiscal e telefônico dele, da Janja e dos cinco filhos, dos últimos oito anos, com divulgação para todo mundo. A condição: o Flávio fazer o mesmo com ele, a mulher, o pai, a mãe e os irmãos.\n\nNa CNN, a repórter contou o que ouviu no PL: o partido vê isso como “isca”, e o Flávio não deve topar. Até agora ele não disse se aceita.\n\nSe fosse você, abria? Comenta aí.\n\nVídeo: CNN Brasil (20/10/2026).\n\n#Lula #FlavioBolsonaro #sigilo #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (YouTube) — LIVE CNN de 20/10/2026, ao vivo",
+      "url": "https://www.youtube.com/watch?v=dW_VbkiQZzE"
+    },
+    {
+      "titulo": "CNN Brasil (blog Gustavo Uribe) — Lula autoriza TSE a quebrar sigilo sob condição de que Flávio faça o mesmo (20/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/lula-autoriza-tse-a-quebrar-sigilo-sob-condicao-de-que-flavio-faca-o-mesmo/"
+    },
+    {
+      "titulo": "Metrópoles — Lula diz que vai autorizar TSE a quebrar sigilo dele e de familiares",
+      "url": "https://www.metropoles.com/brasil/lula-diz-que-vai-autorizar-tse-a-quebrar-sigilo-dele-e-de-familiares"
+    }
+  ]
+}
