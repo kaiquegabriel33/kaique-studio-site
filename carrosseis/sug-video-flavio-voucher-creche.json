@@ -1,0 +1,51 @@
+{
+  "id": "sug-video-flavio-voucher-creche",
+  "titulo": "Flávio promete voucher de creche privada onde faltar vaga (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T22:15",
+  "atualizado": "2026-10-16T22:15",
+  "trecho": {
+    "inicio": "Eu sempre citava o exemplo daquela mãe solo",
+    "fim": "Ela tinha que ter esse direito",
+    "texto": "Eu sempre citava o exemplo daquela mãe solo que sustenta o seu filho sozinho, que às vezes não tem com quem deixar a sua criança. E com essa escala seis por um engessada, ela não conseguiu um emprego. Então, eu sou a favor de mais liberdade, portanto, isso também pressupõe o que a escala seis por um seja extinta e uma outra acontecesse. Então, no meu governo, eu vou garantir creche para as mães que podem deixar as suas filhas, seus filhos. Onde não tiver vaga na rede pública, você vai ter um voucher que o governo vai bancar para você colocar a sua criança numa creche privada. E eu estava defendendo, por exemplo, uma mãe que só pode trabalhar de manhã, Renata, só pode trabalhar quatro horas por dia. Ela tinha que ter esse direito.",
+    "gancho": false,
+    "contexto": [
+      {
+        "desde": "voucher",
+        "texto": "Promessa feita na entrevista à Globo de 16/10",
+        "cor": "verde"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Flávio promete: onde não tiver vaga na creche pública, ==“você vai ter um voucher que o governo vai bancar”==."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Voucher de creche. O Flávio prometeu na Globo, nesta sexta (16): “onde não tiver vaga na rede pública, você vai ter um voucher que o governo vai bancar para você colocar a sua criança numa creche privada”.\n\nEle usou o exemplo da mãe solo que não tem com quem deixar o filho e que só pode trabalhar meio período. Não disse quanto custaria nem de onde viria o dinheiro.\n\nVoucher de creche é boa ideia? Comenta aí.\n\nVídeo: TV Globo (16/10/2026).\n\n#FlavioBolsonaro #creche #maes #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo — entrevista de Flávio Bolsonaro a Renata Lo Prete, 2º turno (16/10/2026, ao vivo)",
+      "url": "https://g1.globo.com/"
+    }
+  ]
+}
