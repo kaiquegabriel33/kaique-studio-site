@@ -1,0 +1,56 @@
+{
+  "id": "sug-video-lula-divida-cinco-filhos",
+  "titulo": "Lula sobre a dívida pública: “Eu criei uma família com cinco filhos” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T17:30",
+  "atualizado": "2026-10-16T17:30",
+  "video_url": "https://www.youtube.com/watch?v=mjj0TKexl_8",
+  "trecho_txt": "Trecho da entrevista do Lula à Globo (canal g1, 15/10). Grave do começo até 1:16 (“…pouco dinheiro na mão de muitos é riqueza.”), celular deitado, tela cheia. Eu corto de “o fato da dívida pública” até “é riqueza”.",
+  "trecho": {
+    "inicio": "o fato da dívida pública",
+    "fim": "mão de muitos é riqueza",
+    "texto": "o fato da dívida pública ter crescido 10 pontos percentuais no seu governo e de boa parte dos economistas considerar que a trajetória da dívida, mais até do que o valor dela, a trajetória da dívida é insustentável. Isso são realidades. E você acha que eu não tô preocupado? O senhor tá preocupado? Tô preocupado. Eu criei uma família com cinco filhos. Eu sei o que que é dívida. Eu sei que se a gente perder o controle do nosso orçamento, eu sei que a coisa quebra e vai pro lado mais pobre. Mas agora vamos falar da grande dívida, que é a dívida pública. Caso o senhor se reeleja, o senhor cogita tratar essa questão de uma outra maneira ou não? Eu posso te falar uma coisa, ô Renata, com todo o respeito. Veja, eu tenho divergência de muitos economistas, porque eu tenho uma tese econômica. A minha tese é o seguinte: dinheiro na mão de poucos é pobreza e pouco dinheiro na mão de muitos é riqueza.",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "cinco filhos",
+        "texto": "Dívida bruta: 71,7% do PIB em dez/2022; 82,9% em ago/2026 (Banco Central)",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula responde sobre a dívida pública: ==“Eu criei uma família com cinco filhos”==."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Eu criei uma família com cinco filhos. Eu sei o que que é dívida.” A resposta do Lula sobre a dívida pública.\n\nNa entrevista à Globo desta quinta (15), a Renata perguntou da dívida. Ele disse que se preocupa, mas que discorda de muitos economistas: “dinheiro na mão de poucos é pobreza e pouco dinheiro na mão de muitos é riqueza”.\n\nOs números do Banco Central: a dívida bruta do governo era 71,7% do PIB em dezembro de 2022 e chegou a 82,9% em agosto de 2026. Dívida maior pesa nos juros, e juro alto chega no seu cartão, no financiamento e no preço das coisas.\n\nDá pra cuidar do país como se cuida da casa? Comenta aí.\n\nVídeo: g1/TV Globo (15/10/2026). Dados: Banco Central, série 13762 (dívida bruta do governo geral).\n\n#Lula #dividapublica #economia #juros #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "g1 (YouTube) — Eleições 2026: Lula responde sobre aumento da dívida pública (15/10/2026)",
+      "url": "https://www.youtube.com/watch?v=mjj0TKexl_8"
+    },
+    {
+      "titulo": "Banco Central — SGS série 13762: dívida bruta do governo geral (% do PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json"
+    }
+  ]
+}
