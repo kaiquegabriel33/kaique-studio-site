@@ -1,0 +1,41 @@
+{
+  "id": "sug-story-bolsa-familia-antecipado",
+  "titulo": "Story: Bolsa Família antecipado e o El Niño eleitor",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-20T10:50",
+  "atualizado": "2026-10-20T10:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Bolsa Família de outubro ia até o dia 31. Agora cai todo até quarta, 4 dias antes do 2º turno. O governo diz que é por causa do El Niño. Esse El Niño vota?"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bolsa-familia-antecipado/print-poder360-lula-antecipa-bolsa-familia-reaj.png",
+          "h": 657,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Poder360 — Lula antecipa Bolsa Família reajustado para antes do 2º turno (19/10/2026: pagamento de 19 a 21/10, antes ia até 31/10; MDS cita o El Niño)",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-antecipa-o-bolsa-familia-reajustado-para-antes-do-2o-turno/"
+    },
+    {
+      "titulo": "Correio Braziliense — Pagamento do Bolsa Família é antecipado para antes do 2º turno",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/10/7523377-pagamento-do-bolsa-familia-e-antecipado-para-antes-do-2-turno.html"
+    }
+  ]
+}

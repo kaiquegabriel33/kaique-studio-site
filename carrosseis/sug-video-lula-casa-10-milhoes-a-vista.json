@@ -1,0 +1,71 @@
+{
+  "id": "sug-video-lula-casa-10-milhoes-a-vista",
+  "titulo": "Lula cobra a “casa de 10 milhões à vista” do Flávio; a escritura diz outra coisa (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-20T11:30",
+  "atualizado": "2026-10-20T20:55",
+  "video_url": "https://www.youtube.com/watch?v=GUmKSL3GuWI&t=3797s",
+  "trecho_txt": "Comício do Lula em Porto Alegre (19/10), canal do Lula. O link abre em 1:03:17. Grave de 1:03:30 até 1:04:40 (“ladrão nenhum, fascista nenhum vai governar esse país”), celular deitado, tela cheia. Eu corto de “Não é possível os ladrões” até “vai governar esse país”.",
+  "trecho": {
+    "inicio": "Não é possível os ladrões",
+    "fim": "é o dia da verdade",
+    "texto": "Não é possível os ladrões quererem governar o país e acusando gente honesta. Portanto, ele tem a chance de provar. Eu amanhã entregarei a minha procuração para abrir o sigilo do meu filho e meu e da minha mulher. E eu quero que ele abra do pai e dos irmãos dele. Eu quero saber aonde tá os 134 milhões do Banco Master. Eu quero saber aonde ele pode ter comprado uma casa de 10 milhões à vista com o salário que ele ganha, que é igual ao meu. Portanto, dia 25 é o dia da verdade.",
+    "cta": true,
+    "crop": [810, 1080, 690, 0],
+    "foco_falante": false,
+    "contexto": [
+      {
+        "desde": "Eu amanhã entregarei",
+        "texto": "19/10: Lula disse que levaria a autorização ao TSE no dia 20",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "casa de 10 milhões",
+        "texto": "Escritura: R$ 5,97 mi (2021), R$ 3,1 mi financiados no BRB",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula cobra a ==“casa de 10 milhões à vista”== do Flávio. A escritura conta outra história."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Lula quer saber como o Flávio comprou “uma casa de 10 milhões à vista”. A escritura conta outra história.\n\nFoi no comício em Porto Alegre, em 19/10, um dia depois do debate da Band. O Lula disse que levaria ao TSE uma autorização para abrir o sigilo dele, da mulher e dos filhos, e desafiou o Flávio a fazer o mesmo com o pai e os irmãos.\n\nO que os documentos mostram: a casa do Flávio no Lago Sul, em Brasília, foi registrada por R$ 5,97 milhões em 2021. Não foi à vista: o casal pagou R$ 2,87 milhões de entrada e financiou R$ 3,1 milhões no BRB, banco público do DF, dívida quitada três anos depois.\n\nO outro lado: o Flávio diz que comprou com dinheiro do trabalho e da venda de um imóvel no Rio, e no debate afirmou que não tem “absolutamente nada a esconder”. Os R$ 134 milhões que o Lula cita são o que o Vorcaro, do Banco Master, prometeu ao filme sobre o Bolsonaro (Intercept).\n\nNúmero errado na boca de presidente vale ou não vale? Comenta aí.\n\nVídeo: canal do Lula no YouTube (19/10/2026). Fontes: Correio Braziliense, Poder360, Intercept.\n\n#Lula #FlavioBolsonaro #BancoMaster #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Canal do Lula (YouTube) — Lula em Porto Alegre: O Brasil Pronto Pra Mais (19/10/2026), fala em 1:03:32",
+      "url": "https://www.youtube.com/watch?v=GUmKSL3GuWI"
+    },
+    {
+      "titulo": "Correio Braziliense — Este é o valor da mansão comprada por Flávio Bolsonaro; Lula questionou em debate na Band (19/10/2026)",
+      "url": "https://1news.correiobraziliense.com.br/noticia/898819/noticias/este-e-o-valor-da-mansao-comprada-por-flavio-bolsonaro-lula-questionou-em-debate-na-band-19102026"
+    },
+    {
+      "titulo": "Poder360 — Lula diz que levará na 3ª feira ao TSE autorização para quebrar sigilo (19/10/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-levara-na-3a-feira-ao-tse-autorizacao-para-quebrar-sigilo/"
+    },
+    {
+      "titulo": "Bahia Notícias — Flávio teria se encontrado com Vorcaro e negociado R$ 134 mi para bancar o filme Dark Horse (Intercept)",
+      "url": "https://www.bahianoticias.com.br/noticia/316832-flavio-bolsonaro-teria-se-encontrado-com-vorcaro-e-negociado-r-134-mi-para-bancar-o-filme-dark-horse"
+    }
+  ]
+}

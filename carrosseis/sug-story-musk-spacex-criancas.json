@@ -1,0 +1,37 @@
+{
+  "id": "sug-story-musk-spacex-criancas",
+  "titulo": "Story: Musk promete ações da SpaceX para criança dos EUA",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-19T22:30",
+  "atualizado": "2026-10-19T22:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Musk prometeu dar ações da SpaceX pra toda criança dos EUA a partir de 2027. Se cumprir, criança lá cresce sócia de empresa. Você já investe alguma coisa no nome do seu filho?"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-musk-spacex-criancas/print-g1-elon-musk-promete-dar-acoes-da-s.png",
+          "h": 569,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "g1 — Elon Musk promete dar ações da SpaceX a crianças dos EUA; doação pode valer R$ 53 bilhões (19/10/2026)",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/19/elon-musk-acoes-da-spacex-criancas.ghtml"
+    }
+  ]
+}
