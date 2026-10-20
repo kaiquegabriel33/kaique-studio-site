@@ -1,0 +1,37 @@
+{
+  "id": "sug-story-dolar-protecao-2011",
+  "titulo": "Story: proteção contra o dólar no maior nível desde 2011",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-18T19:35",
+  "atualizado": "2026-10-18T19:35",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A uma semana do 2º turno, a proteção contra o dólar subir tá no maior nível desde 2011. O medo do mercado é a virada do Lula. Você compra dólar antes ou espera?"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-dolar-protecao-2011/print-valor-temor-de-virada-de-lula-faz-prot.png",
+          "h": 600,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Valor — Temor de virada de Lula faz proteção contra alta do dólar saltar à máxima desde 2011 (18/10/2026)",
+      "url": "https://valor.globo.com/financas/intraday/post/2026/10/temor-de-virada-de-lula-faz-protecao-contra-alta-do-dolar-saltar-a-maxima-desde-2011.ghtml"
+    }
+  ]
+}
