@@ -1,0 +1,150 @@
+{
+  "id": "sug-carrossel-varejo-entra-sai",
+  "titulo": "Uma sai, outra entra: Americanas fora da recuperação, Ri Happy renegociando R$ 827 mi",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-20T23:30",
+  "atualizado": "2026-10-20T23:30",
+  "slides": [
+    {
+      "papel": "capa",
+      "tema": "claro",
+      "fundo": {
+        "src": "midia/sug-carrossel-varejo-entra-sai/fachada-ri-happy.jpg",
+        "foco": {
+          "y": 0.45
+        },
+        "clarear": 0.62
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 64,
+          "texto": "Na mesma semana, uma ==saiu== da recuperação e a outra ==entrou== no aperto."
+        },
+        {
+          "tipo": "texto",
+          "tam": 38,
+          "texto": "Americanas e Ri Happy. O que isso diz do varejo."
+        }
+      ]
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 42,
+          "texto": "A Ri Happy pediu para renegociar **R$ 827,4 milhões** com os credores. É recuperação ==extrajudicial==: as lojas seguem abertas."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-varejo-entra-sai/print-forbes-ri-happy.png",
+          "h": 640,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "numero",
+          "valor": "==R$ 70 milhões==",
+          "rotulo": "por ano, só para pagar a dívida",
+          "contexto": "São 204 lojas próprias, 88 franquias e mais de 2.600 empregos.",
+          "tamValor": 96,
+          "tamRotulo": 40
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-varejo-entra-sai/fachada-ri-happy.jpg",
+          "h": 520,
+          "ajuste": "cobrir",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 42,
+          "texto": "Do outro lado, a Justiça encerrou a recuperação da Americanas em 19/10. A ação chegou a subir ==25%== no dia seguinte."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-varejo-entra-sai/print-seu-dinheiro-americanas.png",
+          "h": 640,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 42,
+          "texto": "Mas a conta era de **R$ 43 bilhões** quando ela pediu socorro, e ainda teve ==prejuízo de R$ 274 milhões== no 2º trimestre."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-varejo-entra-sai/grafico-amer3-5d.png",
+          "h": 560,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fecho",
+      "tema": "claro",
+      "fundo": {
+        "src": "midia/sug-carrossel-varejo-entra-sai/americanas-foto.jpg",
+        "foco": {
+          "y": 0.4
+        },
+        "clarear": 0.62
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Juro alto pesa mais em quem vive de ==estoque e crédito==. Uma sobreviveu ao rombo; a outra corre contra o Natal."
+        },
+        {
+          "tipo": "texto",
+          "tam": 40,
+          "texto": "E você: qual loja acha que é a próxima? Comenta aí."
+        }
+      ]
+    }
+  ],
+  "legenda": "Na mesma semana, a Americanas saiu da recuperação judicial e a Ri Happy foi renegociar R$ 827 milhões.\n\nA Ri Happy e mais cinco empresas do grupo (PBKids, Partout, New Toys, Brincar e Divertudo) pediram à Justiça de São Paulo uma recuperação extrajudicial: é uma negociação com os credores, e as lojas seguem funcionando. 42% dos credores já aderiram. Só o serviço da dívida chegou a cerca de R$ 70 milhões por ano.\n\nA Americanas teve a recuperação encerrada pela 4ª Vara Empresarial do Rio em 19/10, quase quatro anos depois do rombo. A ação chegou a subir 25% em 20/10. Mas a dívida no começo era de R$ 43 bilhões, ainda cabe recurso, e a empresa teve prejuízo de R$ 274 milhões no 2º trimestre.\n\nQual loja você acha que é a próxima?\n\nFontes: Forbes Brasil (19/10/2026), Conjur e Seu Dinheiro (20/10/2026), DGABC (resultado do 2º tri). Fotos: reprodução Forbes Brasil e Seu Dinheiro. Gráfico: Google Finanças.\n\n#RiHappy #Americanas #varejo #recuperacaojudicial #investimentos",
+  "fontes": [
+    {
+      "titulo": "Forbes Brasil — Ri Happy tenta renegociar R$ 827 milhões antes do Natal (19/10/2026)",
+      "url": "https://forbes.com.br/forbes-money/2026/10/ri-happy-recuperacao-extrajudicial-divida-827-milhoes/"
+    },
+    {
+      "titulo": "Conjur — Recuperação judicial das Americanas é encerrada (20/10/2026)",
+      "url": "https://conjur.com.br/2026-out-20/recuperacao-judicial-do-grupo-americanas-chega-ao-fim/"
+    },
+    {
+      "titulo": "Seu Dinheiro — Americanas vira a página e dispara 25% na B3 (20/10/2026)",
+      "url": "https://www.seudinheiro.com/2026/empresas/americanas-amer3-vira-a-pagina-da-recuperacao-judicial-mira-nova-fase-e-dispara-25-na-b3-o-que-esperar-da-varejista-lmrs/"
+    },
+    {
+      "titulo": "DGABC — Americanas tem prejuízo de R$ 274 milhões no 2Tri26",
+      "url": "https://www.dgabc.com.br/Noticia/4340877/americanas-tem-prejuizo-de-r-274-milhoes-no-2tri26-alta-de-179-6-ante-um-ano"
+    }
+  ]
+}
