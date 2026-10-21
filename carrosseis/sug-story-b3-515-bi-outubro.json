@@ -1,0 +1,48 @@
+{
+  "id": "sug-story-b3-515-bi-outubro",
+  "titulo": "Story: Bolsa ganha R$ 515 bi em outubro",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-21T10:05:00-03:00",
+  "atualizado": "2026-10-21T10:05",
+  "legenda": "",
+  "comentario": "As empresas da Bolsa ganharam R$ 515 bilhões em só 13 pregões de outubro. É a 4ª maior alta desde 2020, e o mês nem acabou. Muito disso é gringo voltando depois do 1º turno.",
+  "repost_url": "https://bpmoney.com.br/mercado/b3-ganha-515-bilhoes-outubro-4-maior-alta-mensal-desde-2020/",
+  "fontes": [
+    {
+      "titulo": "BPMoney — B3 soma R$ 515 bilhões em valor de mercado e tem 4ª maior alta mensal desde 2020 (20/10/2026), dados da Elos Ayta",
+      "url": "https://bpmoney.com.br/mercado/b3-ganha-515-bilhoes-outubro-4-maior-alta-mensal-desde-2020/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "As empresas da Bolsa ganharam R$ 515 bilhões em só 13 pregões de outubro. É a 4ª maior alta desde 2020, e o mês nem acabou. Muito disso é gringo voltando depois do 1º turno."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-b3-515-bi-outubro/print-bpmoney-recortado.png",
+          "h": 513,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-b3-515-bi-outubro/b3-soma-r-515-bilhoes-em-valor-de-mercado-e-tem.jpg",
+        "foco": {
+          "x": 0.7,
+          "y": 0.5
+        },
+        "clarear": 0.2
+      }
+    }
+  ]
+}
