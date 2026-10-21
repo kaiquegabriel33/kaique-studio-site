@@ -1,0 +1,44 @@
+{
+  "id": "sug-post-netflix-lucro-acao-cai",
+  "titulo": "A Netflix lucrou 43,8% a mais. E a ação caiu.",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-20T19:45",
+  "atualizado": "2026-10-21T16:15",
+  "slides": [
+    {
+      "papel": "capa",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 42,
+          "texto": "A Netflix lucrou ==43,8% a mais==. E a ação caiu. **Por quê?**"
+        },
+        {
+          "tipo": "texto",
+          "tam": 32,
+          "texto": "**1.** Previu lucro de US$ 0,67 por ação até dezembro. Esperavam ==US$ 0,73==.\n\n**2.** Cortou a meta de anúncios de 2026: de US$ 3 bi para ==US$ 2,7 bi==.\n\n**3.** A receita cresceu 12%, o ritmo mais lento em quase três anos."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-post-netflix-lucro-acao-cai/print-valor-netflix-tem-lucro-de-us-3-66-bil.png",
+          "h": 300,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "A Netflix lucrou 43,8% a mais no trimestre. E a ação caiu. Por quê?\n\nO passado foi bom: lucro de US$ 3,66 bilhões entre julho e setembro e lucro por ação de US$ 0,87, acima dos US$ 0,82 esperados.\n\nO problema foi o que ela disse sobre o futuro:\n\n1. Para outubro a dezembro, previu lucro de US$ 0,67 por ação. Os analistas esperavam US$ 0,73.\n2. Cortou a meta de receita com publicidade em 2026, de cerca de US$ 3 bilhões para US$ 2,7 bilhões, porque algumas ferramentas de anúncio atrasaram.\n3. A receita cresceu 12%, para US$ 12,87 bilhões: o crescimento mais lento em quase três anos.\n\nA ação caiu perto de 6% no pós-mercado. Bolsa não paga pelo que a empresa fez. Paga pelo que acha que ela ainda vai fazer.\n\nIsto é análise, não recomendação de investimento.\n\nPrint: Reprodução/Valor. Fontes: Valor Econômico (20/10/2026), carta aos acionistas da Netflix, Reuters via The Next Web (21/10/2026).",
+  "fontes": [
+    {
+      "titulo": "Valor — Netflix tem lucro de US$ 3,66 bilhões no 3º trimestre, alta de 43,8% (20/10/2026)",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/20/netflix-tem-lucro-de-us-366-bilhes-no-3-trimestre-alta-de-438-pontos-percentuais.ghtml"
+    },
+    {
+      "titulo": "The Next Web (Reuters) — Netflix forecasts weak Q4 profit and cuts its 2026 ad sales target to $2.7B (21/10/2026)",
+      "url": "https://thenextweb.com/news/netflix-q3-2026-results-q4-forecast"
+    }
+  ]
+}
