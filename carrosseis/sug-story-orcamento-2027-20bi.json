@@ -1,0 +1,37 @@
+{
+  "id": "sug-story-orcamento-2027-20bi",
+  "titulo": "Story: R$ 20 bi tirados de alguma área em 2027",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-20T10:50",
+  "atualizado": "2026-10-20T10:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O governo vai tirar R$ 20 bilhões de outras áreas do Orçamento de 2027 pra caber as medidas anunciadas na campanha. De qual área? Não disseram. Quem ganhar dia 25 descobre."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-orcamento-2027-20bi/print-agencia-brasil-governo-pretende-realocar-r-20-b.png",
+          "h": 471,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — Governo pretende realocar R$ 20 bilhões no Orçamento de 2027 (19/10/2026; nota do MPO: acomodar medidas de estímulo anunciadas recentemente, sem dizer quais áreas perdem)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-pretende-realocar-r-20-bilhoes-no-orcamento-de-2027"
+    }
+  ]
+}

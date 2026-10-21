@@ -1,0 +1,65 @@
+{
+  "id": "sug-story-bolsa-515-bi",
+  "titulo": "Story: a Bolsa ganhou R$ 515 bi em outubro",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-20T19:50:00-03:00",
+  "atualizado": "2026-10-20T19:50",
+  "legenda": "",
+  "comentario": "Em 13 pregões de outubro, as empresas da B3 ganharam R$ 515 bilhões em valor de mercado.\n\n(story 2) Quase tudo veio depois do 1º turno. A pergunta é: o 2º turno já tá no preço?",
+  "repost_url": "https://www.poder360.com.br/poder-economia/bolsa-brasileira-ganha-r-515-bi-em-outubro-4a-maior-alta-desde-2020/",
+  "fontes": [
+    {
+      "titulo": "Poder360 — Bolsa brasileira ganha R$ 515 bi em outubro; 4ª maior alta desde 2020 (20/10/2026, levantamento Elos Ayta)",
+      "url": "https://www.poder360.com.br/poder-economia/bolsa-brasileira-ganha-r-515-bi-em-outubro-4a-maior-alta-desde-2020/"
+    },
+    {
+      "titulo": "Google Finanças — Ibovespa, 1 mês (até 20/10/2026)",
+      "url": "https://www.google.com/finance/quote/IBOV:INDEXBVMF?hl=pt-BR"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Em 13 pregões de outubro, as empresas da B3 ganharam R$ 515 bilhões em valor de mercado."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bolsa-515-bi/print-poder360-bolsa-brasileira-ganha-r-515-bi.png",
+          "h": 661,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Quase tudo veio depois do 1º turno. A pergunta é: o 2º turno já tá no preço?"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bolsa-515-bi/grafico-ibov-indexbvmf-1m.png",
+          "h": 719,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ]
+    }
+  ]
+}
