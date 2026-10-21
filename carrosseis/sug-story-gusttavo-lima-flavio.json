@@ -1,0 +1,53 @@
+{
+  "id": "sug-story-gusttavo-lima-flavio",
+  "titulo": "Story: Gusttavo Lima declara voto no Flávio e pede programas sociais",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-21T13:55:00-03:00",
+  "atualizado": "2026-10-21T13:55",
+  "legenda": "",
+  "comentario": "O Gusttavo Lima já disse que vota no Flávio. Mas fez um pedido no vídeo: manter os programas sociais. Contou que só estudou porque a família tinha o Bolsa Escola.",
+  "repost_url": "https://www.metropoles.com/brasil/gusttavo-lima-pede-a-flavio-para-manter-acoes-sociais-proximo-presidente",
+  "fontes": [
+    {
+      "titulo": "Metrópoles — Gusttavo Lima pede a Flávio para manter ações sociais: \"Próximo presidente\" (20/10/2026)",
+      "url": "https://www.metropoles.com/brasil/gusttavo-lima-pede-a-flavio-para-manter-acoes-sociais-proximo-presidente"
+    },
+    {
+      "titulo": "Terra — Gusttavo Lima posta vídeo com Flávio Bolsonaro e pede que senador mantenha programas sociais (21/10/2026), imagem do vídeo",
+      "url": "https://www.terra.com.br/noticias/eleicoes/videos/gusttavo-lima-posta-video-com-flavio-bolsonaro-e-pede-que-senador-mantenha-programas-sociais-se-eleito,3291b5383b2831c2854e6595bd653cdc7t4b2j8t.html"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Gusttavo Lima já disse que vota no Flávio. Mas fez um pedido no vídeo: manter os programas sociais. Contou que só estudou porque a família tinha o Bolsa Escola."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-gusttavo-lima-flavio/print-metropoles-recortado.png",
+          "h": 360,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-gusttavo-lima-flavio/gusttavo-lima-e-flavio-video.jpg",
+        "foco": {
+          "x": 0.27,
+          "y": 0.4
+        },
+        "clarear": 0.2
+      }
+    }
+  ],
+  "papel_story": "conteudo"
+}
