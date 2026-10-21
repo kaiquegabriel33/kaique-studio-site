@@ -1,9 +1,35 @@
 {
- "atualizado": "2026-10-21T11:14-03:00",
+ "atualizado": "2026-10-21T11:59-03:00",
  "em_alta": [
   {
+   "termo": "neofeed",
+   "trafego": "200+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Nem Wall Street, nem Faria Lima: Brasil começa a testar o mercado de panda bonds",
+     "url": "https://neofeed.com.br/negocios/nem-wall-street-nem-faria-lima-brasil-comeca-a-testar-o-mercado-de-panda-bonds/",
+     "veiculo": "NeoFeed"
+    },
+    {
+     "titulo": "‘Panda bonds’: Tesouro aborda investidores chineses mirando emissão de 5 bilhões de yuans",
+     "url": "https://veja.abril.com.br/economia/panda-bonds-tesouro-aborda-investidores-chineses-mirando-emissao-de-5-bilhoes-de-yuans/",
+     "veiculo": "VEJA"
+    },
+    {
+     "titulo": "Panda Bonds: Vale (VALE3) quer emitir títulos de renda fixa na China",
+     "url": "https://investidor10.com.br/noticias/panda-bonds-vale-vale3-quer-emitir-titulos-de-renda-fixa-na-china-123367/",
+     "veiculo": "Investidor10"
+    }
+   ],
+   "publicado": "2026-10-21T07:40:00-07:00"
+  },
+  {
    "termo": "wege3",
-   "trafego": "500+",
+   "trafego": "1000+",
    "temas": [
     "mercado",
     "economia"
@@ -11,45 +37,19 @@
    "video": false,
    "noticias": [
     {
-     "titulo": "WEG registra lucro de R$ 1,67 bilhão no 3º trimestre, alta de 0,9%",
-     "url": "https://economia.uol.com.br/noticias/redacao/2026/10/21/weg-lucra-r-167-bilhao-no-terceiro-trimestre-de-2026-alta-de-09.htm",
+     "titulo": "6 ações que podem brilhar e 6 ações que podem decepcionar na temporada do 3º tri",
+     "url": "https://www.infomoney.com.br/mercados/temporada-balancos-3t26-seis-acoes-que-podem-brilhar-e-seis-acoes-que-podem-decepcionar/",
+     "veiculo": "InfoMoney"
+    },
+    {
+     "titulo": "WEG cai mais de 4% após balanço e analistas falam em pressão sobre margens",
+     "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/21/weg-cai-mais-de-4-apos-balanco-e-analistas-falam-em-pressao-sobre-margens.htm",
      "veiculo": "UOL Economia"
     },
     {
      "titulo": "Desaceleração da economia dá o tom nos balanços do 3º tri",
      "url": "https://valor.globo.com/empresas/noticia/2026/10/21/desaceleracao-da-economia-da-o-tom-nos-balancos-do-3o-tri.ghtml",
      "veiculo": "Valor Econômico"
-    },
-    {
-     "titulo": "6 ações que podem brilhar e 6 ações que podem decepcionar na temporada do 3º tri",
-     "url": "https://www.infomoney.com.br/mercados/temporada-balancos-3t26-seis-acoes-que-podem-brilhar-e-seis-acoes-que-podem-decepcionar/",
-     "veiculo": "InfoMoney"
-    }
-   ],
-   "publicado": "2026-10-21T06:20:00-07:00"
-  },
-  {
-   "termo": "devedor",
-   "trafego": "200+",
-   "temas": [
-    "economia"
-   ],
-   "video": false,
-   "noticias": [
-    {
-     "titulo": "O Estado brasileiro é o primeiro devedor contumaz",
-     "url": "https://conjur.com.br/2026-out-21/o-estado-brasileiro-e-o-primeiro-devedor-contumaz/",
-     "veiculo": "Consultor Jurídico"
-    },
-    {
-     "titulo": "Dívida externa cresce mais que reservas e Brasil volta a ser devedor internacional após 19 anos",
-     "url": "https://www.estadao.com.br/economia/divida-externa-cresce-mais-que-reservas-e-brasil-volta-a-ser-devedor-internacional-apos-19-anos/",
-     "veiculo": "Estadão"
-    },
-    {
-     "titulo": "Brasil volta a ser um devedor internacional",
-     "url": "https://oantagonista.com.br/economia/brasil-volta-a-ser-um-devedor-internacional/",
-     "veiculo": "O Antagonista"
     }
    ],
    "publicado": "2026-10-21T06:20:00-07:00"
@@ -57,11 +57,89 @@
  ],
  "pautas": [
   {
+   "id": "c3b3e69223",
+   "titulo": "Ações da Americanas fecham em alta de 15% após fim da recuperação judicial",
+   "url": "https://c-level.folha.uol.com.br/negocios/2026/10/acoes-da-americanas-disparam-mais-de-20-apos-fim-da-recuperacao-judicial.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-21T14:07:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%B5es+Americanas+fecham+alta+15%25+ap%C3%B3s+fim+recupera%C3%A7%C3%A3o+judicial",
+   "veiculos": 62,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Tribuna do Paraná",
+     "titulo": "Ações da Americanas sobem 15,58% após fim da recuperação judicial",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeW5jb0dRYVFVVHV1NjA3SDFJdTdiNjhuSlR5N1dRSEw0a0N0UmlvSjRwUERkOWRPaUJCRTZ1aGh3c2h4cUxKeVhKTTVOQllhUlhmcElBTTd5ZFROa1k3N2FpLUh5YnJEcW5xTkt0TVllUWdIeTVsQmpEUzc3aFVZUWFWTU9rbTNsSEJMR2dIQjU4S0cwYzluTHFPWU41MkRHSXdEY0lYRm5kVGZyY3pvYdIBtgFBVV95cUxPa3JISllyTUZ6UFRmTGEwdDcta0tTdnhPSUhhNlNBVXFqa1RwY0tiT2xxT1NOTUJqbWdDNThWVmNQdHhORUFYNDE0ci1pQ1MyZVlJc19GaVVVdlBHdkF1N3RiUlI1SXRNQ0I4cnRnM3JfOHNrbmlNaThNLTF3ZEM3ZkZNWk5DQzdKNkFmd2QtQ2tDd3NabkRXV2V1TjdSOE9xVmV0bkFzc2hyaTVTcTNzUVBMYzNTdw?oc=5"
+    },
+    {
+     "veiculo": "Tribuna do Paraná",
+     "titulo": "Ações da Americanas sobem 15,58% após fim da recuperação judicial",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeW5jb0dRYVFVVHV1NjA3SDFJdTdiNjhuSlR5N1dRSEw0a0N0UmlvSjRwUERkOWRPaUJCRTZ1aGh3c2h4cUxKeVhKTTVOQllhUlhmcElBTTd5ZFROa1k3N2FpLUh5YnJEcW5xTkt0TVllUWdIeTVsQmpEUzc3aFVZUWFWTU9rbTNsSEJMR2dIQjU4S0cwYzluTHFPWU41MkRHSXdEY0lYRm5kVGZyY3pvYdIBtgFBVV95cUxPa3JISllyTUZ6UFRmTGEwdDcta0tTdnhPSUhhNlNBVXFqa1RwY0tiT2xxT1NOTUJqbWdDNThWVmNQdHhORUFYNDE0ci1pQ1MyZVlJc19GaVVVdlBHdkF1N3RiUlI1SXRNQ0I4cnRnM3JfOHNrbmlNaThNLTF3ZEM3ZkZNWk5DQzdKNkFmd2QtQ2tDd3NabkRXV2V1TjdSOE9xVmV0bkFzc2hyaTVTcTNzUVBMYzNTdw?oc=5"
+    },
+    {
+     "veiculo": "Gazeta do Povo",
+     "titulo": "Ações da Americanas sobem após fim da recuperação judicial; Veja o histórico dos papéis",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3dZMm5XU1hXcVBfOU5KbHJwZzRfdWpnMml5SENLeVl0THk0M1MwV0V6bGpzbE9wTHpkS19HMjlENjctaWFXQ2ZpQnkwbU1SWFBFTlF0blhfYWV1QS1YcGZOUzh1OXVhTDVKMDVGUXJuWWVIVE9LZEowRXZMeXlnVVAtUnAzWFZuZXRhM29VaXA4ZTRDT2dfYUg1NE01WThtUWh0amtuWDA3LVkzZlE?oc=5"
+    },
+    {
+     "veiculo": "Gazeta do Povo",
+     "titulo": "Ações da Americanas sobem após fim da recuperação judicial; Veja o histórico dos papéis",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3dZMm5XU1hXcVBfOU5KbHJwZzRfdWpnMml5SENLeVl0THk0M1MwV0V6bGpzbE9wTHpkS19HMjlENjctaWFXQ2ZpQnkwbU1SWFBFTlF0blhfYWV1QS1YcGZOUzh1OXVhTDVKMDVGUXJuWWVIVE9LZEowRXZMeXlnVVAtUnAzWFZuZXRhM29VaXA4ZTRDT2dfYUg1NE01WThtUWh0amtuWDA3LVkzZlE?oc=5"
+    }
+   ],
+   "score": 45.6
+  },
+  {
+   "id": "d87e39ceee",
+   "titulo": "Após pesquisa apontar Flávio Bolsonaro com 52%, bolsa beira novo recorde",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2hPNFlteDI5LW44Y1kyZHd4TnpEd2xVN2ktLXVKT09BQkZ2Q0ZfNjQzZTRoY2habXVmVWViTHRGdm9DbkdkMEVXNXpTTnlxel9WV0xUR3VCaVNtbDZkZmpfUUF4d29lUWJnYnVUa3ZiSVBmNXVFbFFyYkxSTFlicTBRekVRRWR4N0UyZC1VdTBHVzlMLXRjSi04NVpUd1NvYk0xWGw1NnVmaWdhT00wWG1oTE83TC1oMGxSTXBJdllqX3M?oc=5",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-21T12:32:00+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+pesquisa+apontar+Fl%C3%A1vio+Bolsonaro+com+52%25%2C+bolsa+beira",
+   "veiculos": 15,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Portal Felipeh Campos",
+     "titulo": "Após pesquisa apontar Flávio na frente, bolsa fecha próxima de recorde",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdGdZb0dkdUx2YmtublgyS181aHVzbTNJQS1qeVNQc3RITlZNQ0U1LU9TaGVHY1FyUVE5VTE3LTZqRk5tSVRVRjF3Mm0wUG1MZW5wWEJpTHZoVTRQeDZHWVA4R0VwRVAtS3BTdUp5TFNYSFVpN0R6QUg0QUszSUFzUFUtWF8zSFc3cXZLalpzeElaWlFzYzBKZ0VPaHBQaGN0V0xoNk5YNlNTVmZFT0RWeUd3RWx0RGM?oc=5"
+    },
+    {
+     "veiculo": "Portal 96FM",
+     "titulo": "Após pesquisa apontar Flávio Bolsonaro com 52%, bolsa beira novo recorde",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN1ZPdE1jVmd3YUZvRi10ZF9vcnFGeUJnNDMxeWR4dGRYTG5hMVJJZlJuM2dNRjl3dlYyTnFsRXRfek9hRXk2akFDYWE0cnNjckFYUFgtck5SNTFuN3drZUZpbHZodWRaMmRybU42Zi1MTXh6Z0MtNFhURXJ6S2NJY0lyWm9hTm1OUXg4dWJoTmlFWmVuaXIxbER2RXlpSGFY?oc=5"
+    },
+    {
+     "veiculo": "Blog do BG",
+     "titulo": "Com Flávio na liderança em pesquisa, Bolsa fecha próxima de recorde",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnZMRU05S3pNZnZVTUg3akQ0OWJUSDcwbWRTZk9xRXJZenFlQlE2LTBRdjRHeGVENjhpZjYwbzdHLWNqTV9ya184TkViQU0yZWRTMVJXeTQ1R3U4YVctendQNWtNRkZLVjcwUEVnV1NfM2dZZXVyaG0yNUpiYlVLZXpjMGxucU9QN3VtWWZRcDYyU09vX2pURFQzMA?oc=5"
+    },
+    {
+     "veiculo": "Blog do BG",
+     "titulo": "Com Flávio na liderança em pesquisa, Bolsa fecha próxima de recorde",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnZMRU05S3pNZnZVTUg3akQ0OWJUSDcwbWRTZk9xRXJZenFlQlE2LTBRdjRHeGVENjhpZjYwbzdHLWNqTV9ya184TkViQU0yZWRTMVJXeTQ1R3U4YVctendQNWtNRkZLVjcwUEVnV1NfM2dZZXVyaG0yNUpiYlVLZXpjMGxucU9QN3VtWWZRcDYyU09vX2pURFQzMA?oc=5"
+    }
+   ],
+   "score": 43.0
+  },
+  {
    "id": "e50070a5f5",
    "titulo": "Justiça de SP aprova recuperação judicial do Grupo Casas Bahia",
    "url": "https://c-level.folha.uol.com.br/negocios/2026/10/justica-de-sp-aprova-recuperacao-judicial-do-grupo-casas-bahia.shtml",
    "veiculo": "Folha",
-   "publicado": "2026-10-21T10:57:00-03:00",
+   "publicado": "2026-10-21T14:49:14+00:00",
    "temas": [
     "economia",
     "mercado"
@@ -69,184 +147,184 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Justi%C3%A7a+aprova+recupera%C3%A7%C3%A3o+judicial+Grupo+Casas+Bahia",
-   "veiculos": 75,
+   "veiculos": 25,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Conexão Marília",
-     "titulo": "Justiça do Rio encerra recuperação judicial da Americanas",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2lXUUpfQjZSY2xZemJyZEhnYVljcm5qeUlyT0YyNkktLXdXQmhLUGJ4dDg0NGVPZ2tGN1ViWEJ5eGw3OWRLdVNOTFhBWkZ5QlozYlV0QUxueXdsamRFempmdkZIc1pjbzBZbzROUTFSVnJFM0d4RGZxNzN5bWpENWhVNWxDVy1WOFNBUE50SEliZXlKeDNlY1FaVVpQMWhP?oc=5"
+     "veiculo": "BPMoney",
+     "titulo": "Justiça de SP aprova recuperação judicial do grupo Casas Bahia (BHIA3)",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjAzUVpFejZkRXRwc1BZaDJTaFMwUkxiUE9mX0ZPNUZ3dXZMdDdjMFV2UHB0cmwxa19kaDF3QlZFbWJuM2JlUGk5ZHdETVBLOExHMGx1QVg1VDVtSEVQSHQ3T2N1U1c5QTk4R0RwVGFvRGRtc0t1LTBKQ0ZRMC12U3lzWGhMQlJwSW5pWEJSenhBNXNxM2tnWlZ2UDB3OUR4RXRrR2l2bWpnSFk?oc=5"
     },
     {
-     "veiculo": "Conexão Marília",
-     "titulo": "Justiça do Rio encerra recuperação judicial da Americanas",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2lXUUpfQjZSY2xZemJyZEhnYVljcm5qeUlyT0YyNkktLXdXQmhLUGJ4dDg0NGVPZ2tGN1ViWEJ5eGw3OWRLdVNOTFhBWkZ5QlozYlV0QUxueXdsamRFempmdkZIc1pjbzBZbzROUTFSVnJFM0d4RGZxNzN5bWpENWhVNWxDVy1WOFNBUE50SEliZXlKeDNlY1FaVVpQMWhP?oc=5"
-    },
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Ações da Americanas sobem 15,58% após fim da recuperação judicial",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzMyZUhOYkdDWW1tQllpa3M4eU9IRFFZZElLdFlQNEE2VnFxeHkyZTAyRXpfVkN6LTBFd2FkX2hzYjhpSkpOZDJjOFBEcG1ya01BOEJqQmEyeElDeVdBbDhOQ3JJaExHQVpYWEFmZTdJMDJlNDBRbUJBdHM1cnpQQkNMM2kyX1RQVHpNRFdGNUZCbUZxbk1hQ0tiMmhqRE0?oc=5"
-    },
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Ações da Americanas sobem 15,58% após fim da recuperação judicial",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzMyZUhOYkdDWW1tQllpa3M4eU9IRFFZZElLdFlQNEE2VnFxeHkyZTAyRXpfVkN6LTBFd2FkX2hzYjhpSkpOZDJjOFBEcG1ya01BOEJqQmEyeElDeVdBbDhOQ3JJaExHQVpYWEFmZTdJMDJlNDBRbUJBdHM1cnpQQkNMM2kyX1RQVHpNRFdGNUZCbUZxbk1hQ0tiMmhqRE0?oc=5"
-    }
-   ],
-   "score": 45.9
-  },
-  {
-   "id": "9d8896d0d7",
-   "titulo": "Flávio tem 45% contra 44% de Lula no 2º turno, diz Quaest",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-45-contra-44-de-lula-no-2o-turno-diz-quaest/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-21T11:03:13-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+45%25+contra+44%25+Lula+turno%2C+diz+Quaest",
-   "veiculos": 15,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Pesquisa Quaest: rejeição a Lula cai para 47% e fica abaixo dos 52% de Flávio Bolsonaro",
-     "url": "https://exame.com/brasil/pesquisa-quaest-rejeicao-a-lula-cai-para-47-e-fica-abaixo-dos-52-de-flavio-bolsonaro/"
+     "veiculo": "Rádio Itatiaia",
+     "titulo": "Justiça de São Paulo aprova recuperação judicial do grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMTBrTjVfdEUza0txZm9VVGNvWUNxWEpncGJ1b19WQ1pETTlwNXV4WXFtN2psd3VMNkQ2YmpKcnZUYjZVMXhfTFJUdXBEeXFrdFBwaVNnWTFGN0FrMXlVblMtXzMzVklQZk5adnNPajU5VlUtV3NFVWItcnVlV3ZFbXNNSWVMbGdTSVoxWEhPNWNHVHA0UlI4SjNYNUpBY0E2ZUE2cHpPRzRxRzBMcWFvbGcxeGk5ZEU?oc=5"
     },
     {
      "veiculo": "Money Times",
-     "titulo": "Pesquisa Quaest: Diferença entre Flávio Bolsonaro e Lula diminui para 1 ponto e cenário de empate técnico se mantém; rejeição se inverte",
-     "url": "https://www.moneytimes.com.br/pesquisa-quaest-diferenca-entre-flavio-bolsonaro-lula-diminui-para-um-ponto-cenario-empate-tecnico-jcav/"
+     "titulo": "Casas Bahia (BHIA3): Justiça de São Paulo aprova recuperação judicial da varejista",
+     "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-justica-de-sao-paulo-aprova-recuperacao-judicial-da-varejista-lmrs/"
     },
     {
-     "veiculo": "Exame",
-     "titulo": "Pesquisa Futura: Flávio Bolsonaro tem 51,1% e Lula, 48,9%, no 2º turno",
-     "url": "https://exame.com/brasil/pesquisa-futura-flavio-bolsonaro-tem-511-e-lula-489-no-2o-turno/"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Quaest: Rejeição a Lula cai de 53% para 47% de Flávio oscila de 54% para 52%",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/quaest-rejeicao-a-lula-cai-de-53percent-para-47percent-de-flavio-oscila-de-54percent-para-52percent.ghtml"
+     "veiculo": "Money Times",
+     "titulo": "Casas Bahia (BHIA3): Justiça de São Paulo aprova recuperação judicial da varejista",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVZnbFQtSHEtM1lJVFhZOTNSWkdwUzdGVm5rSDdtNDhUZ1g3Q0o2UnRQNFZnT1l1bFRQd015Q3pLZzBnRkhGRnVRaFhSRmhNRHM0UVNPNldFYUIwazZWc2pPYVVrdWRSdmZnQkNoZTViRkYtSExBOVpOWlFwSHkzTXd2ekdQWDR1UzhmckxOYzFYTXRGWVptS1o5aE1NRlhTdDJfWEt1aU1ncHBIczk3cEdHTFVEQQ?oc=5"
     }
    ],
-   "score": 42.9
-  },
-  {
-   "id": "91ba3fec08",
-   "titulo": "Ações da Americanas sobem após fim da recuperação judicial; Veja o histórico dos papéis",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3dZMm5XU1hXcVBfOU5KbHJwZzRfdWpnMml5SENLeVl0THk0M1MwV0V6bGpzbE9wTHpkS19HMjlENjctaWFXQ2ZpQnkwbU1SWFBFTlF0blhfYWV1QS1YcGZOUzh1OXVhTDVKMDVGUXJuWWVIVE9LZEowRXZMeXlnVVAtUnAzWFZuZXRhM29VaXA4ZTRDT2dfYUg1NE01WThtUWh0amtuWDA3LVkzZlE?oc=5",
-   "veiculo": "Gazeta do Povo",
-   "publicado": "2026-10-21T13:45:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%B5es+Americanas+sobem+ap%C3%B3s+fim+recupera%C3%A7%C3%A3o+judicial+Veja+hist%C3%B3rico",
-   "veiculos": 10,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Gazeta do Povo",
-     "titulo": "Ações da Americanas sobem após fim da recuperação judicial; Veja o histórico dos papéis",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3dZMm5XU1hXcVBfOU5KbHJwZzRfdWpnMml5SENLeVl0THk0M1MwV0V6bGpzbE9wTHpkS19HMjlENjctaWFXQ2ZpQnkwbU1SWFBFTlF0blhfYWV1QS1YcGZOUzh1OXVhTDVKMDVGUXJuWWVIVE9LZEowRXZMeXlnVVAtUnAzWFZuZXRhM29VaXA4ZTRDT2dfYUg1NE01WThtUWh0amtuWDA3LVkzZlE?oc=5"
-    },
-    {
-     "veiculo": "iG Economia",
-     "titulo": "Americanas fecha em alta após encerrar recuperação judicial",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEp6c2hCM2ZDdVllQWtsbUVydFVMTkplblR2M0s5ZElXMzA5ZWQ3am1VQmk5cHZjUHEtZ3FDX2wzM09pOGlIS2hLOUVPQ2Jxb0JLWFJkbXozbGFJR3hHNzgwcWVSa3JwXzkwdmpwOUJMdmoyNTlZdG4zdkRRQkdrQUU2cHVwRnNhYmxfRkJfNzNHcG5WV2lJQkpTQU1BWmZyeFh4U9IBqgFBVV95cUxOSTVzWWc3S09PMlEzcjMtelVCVnh3ZHpHV2Z1UjV1U2lSMmM2NUE4Nzd6Z1paNUZpVWFTQUlOdlFyR2dXOGhKMUNVZm9hOGM4bjF2QlpzX3Z0MXZNMFlIcjI3QVdpRnRhVHY4WG4tQ3BsOFFTck9YbDZIT0FQLXpEVWYyUkhYT2hvdWF3cnJMNlhLVzdhZjV4My1OVjZYOTY3RmtzZUd1ZFJCZw?oc=5"
-    },
-    {
-     "veiculo": "iG Economia",
-     "titulo": "Americanas fecha em alta após encerrar recuperação judicial",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEp6c2hCM2ZDdVllQWtsbUVydFVMTkplblR2M0s5ZElXMzA5ZWQ3am1VQmk5cHZjUHEtZ3FDX2wzM09pOGlIS2hLOUVPQ2Jxb0JLWFJkbXozbGFJR3hHNzgwcWVSa3JwXzkwdmpwOUJMdmoyNTlZdG4zdkRRQkdrQUU2cHVwRnNhYmxfRkJfNzNHcG5WV2lJQkpTQU1BWmZyeFh4U9IBqgFBVV95cUxOSTVzWWc3S09PMlEzcjMtelVCVnh3ZHpHV2Z1UjV1U2lSMmM2NUE4Nzd6Z1paNUZpVWFTQUlOdlFyR2dXOGhKMUNVZm9hOGM4bjF2QlpzX3Z0MXZNMFlIcjI3QVdpRnRhVHY4WG4tQ3BsOFFTck9YbDZIT0FQLXpEVWYyUkhYT2hvdWF3cnJMNlhLVzdhZjV4My1OVjZYOTY3RmtzZUd1ZFJCZw?oc=5"
-    },
-    {
-     "veiculo": "iG Economia",
-     "titulo": "Americanas fecha em alta após encerrar recuperação judicial",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEp6c2hCM2ZDdVllQWtsbUVydFVMTkplblR2M0s5ZElXMzA5ZWQ3am1VQmk5cHZjUHEtZ3FDX2wzM09pOGlIS2hLOUVPQ2Jxb0JLWFJkbXozbGFJR3hHNzgwcWVSa3JwXzkwdmpwOUJMdmoyNTlZdG4zdkRRQkdrQUU2cHVwRnNhYmxfRkJfNzNHcG5WV2lJQkpTQU1BWmZyeFh4U9IBqgFBVV95cUxOSTVzWWc3S09PMlEzcjMtelVCVnh3ZHpHV2Z1UjV1U2lSMmM2NUE4Nzd6Z1paNUZpVWFTQUlOdlFyR2dXOGhKMUNVZm9hOGM4bjF2QlpzX3Z0MXZNMFlIcjI3QVdpRnRhVHY4WG4tQ3BsOFFTck9YbDZIT0FQLXpEVWYyUkhYT2hvdWF3cnJMNlhLVzdhZjV4My1OVjZYOTY3RmtzZUd1ZFJCZw?oc=5"
-    }
-   ],
-   "score": 39.8
-  },
-  {
-   "id": "9b52d8d3b8",
-   "titulo": "Instagram remove áudio de vídeo de Nikolas Ferreira sobre o Nordeste",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXVwYVNQSTA3UjFta2JiaHI1cW9VZXlzMU9SRmpxa05xRmxDNUhSVUNFUkc3UkR3Mk1VWlFIYVdBbWZNM2NMUkpBMmlmVVl3LXp5QXFNYkppcUk4aUV4UWtadHhqX0hVQnFJcnNuaWJGbm5MTUFseS0yek1NclZvNjQ0S0ZvSXBKb3VIY3JweHUtMV95RFFicjdKc3ZDRExEU2wta3dBLWdXY0dMbmw0am53?oc=5",
-   "veiculo": "Portal Tri Notícias",
-   "publicado": "2026-10-21T14:05:00+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Instagram+remove+%C3%A1udio+v%C3%ADdeo+Nikolas+Ferreira+sobre+Nordeste",
-   "veiculos": 21,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Portal49",
-     "titulo": "Mesmo sem áudio, vídeo de Nikolas Ferreira atinge 144 milhões de visualizações no Instagram",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1Z0aDhQdXpwYmF1YWpGM29nTUxsVzc3ZkJzSFZBMHRLdXlhcDA0YlhXT1RqVGFMdklEbXNHd2wwaGVmaUtXX3E2OFVxRGFvOTNHdWJCamdSUXNxd0djcmVvVTBxeHBSYzd5YzhiWlhiTVlhTFVYWTBCY2hGVE1Bb3BUU01SSTR1SkV3ck81Y0xEZXZXVFN4aG8wVjhTUUZHam5tTkI1ZkNJaURTdmVyc3RVeWlYUnNRSXZJM3FtWWVEVnpsOU9z?oc=5"
-    },
-    {
-     "veiculo": "Portal Tri Notícias",
-     "titulo": "Instagram remove áudio de vídeo de Nikolas Ferreira sobre o Nordeste",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXVwYVNQSTA3UjFta2JiaHI1cW9VZXlzMU9SRmpxa05xRmxDNUhSVUNFUkc3UkR3Mk1VWlFIYVdBbWZNM2NMUkpBMmlmVVl3LXp5QXFNYkppcUk4aUV4UWtadHhqX0hVQnFJcnNuaWJGbm5MTUFseS0yek1NclZvNjQ0S0ZvSXBKb3VIY3JweHUtMV95RFFicjdKc3ZDRExEU2wta3dBLWdXY0dMbmw0am53?oc=5"
-    },
-    {
-     "veiculo": "Bahia Já",
-     "titulo": "Política - VIDEO DE NIKOLAS FERREIRA NA BAHIA ABALOU CAMPANHA NO NORDESTE (TF)",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVl5UkFDS1ZPcFcxV1N1Yms5ai1Nd1BEN1hyQU45VmRxbUVmT1hNRGU0Qjc0YWl6dmdvNFhiNVRlR0o4bzlqc3JENDk4MzhFOGZWMlhzOGdGWWdRMDZ6LTdkSWo3eVZ4NmQ0Sl9GdzN5bmFLNFlkRERMZHdzWVVRaFhqbzZtbnh5RUdvOWZkNmN6YU5mRF8tdUVSZjFPcXgwUE5INDlUV2h0cmU1dW42bXY4ajVKLVdNSFA3OEVHZU5IdVJFODZfbkFn?oc=5"
-    },
-    {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Vídeo de Nikolas sobre o Nordeste passa de 100 milhões de visualizações",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHBRekhlTVFQUTIzcFE4OUo5YUN3WUZhcTlSeTRwNjhDaXEyUzY0RERvWDI4TGx6N25UNnk1S09pM2tWYmlQWDVuWHZDTU9MZnIyVTI0NVZ2QTZRSHJWZG1UZ3pEdVRCSWVGajluLXkxd3dHTTU3YWFKRXdEQk1UV1ByYi1MTVY3WkVyVm9ldC1OejcxSktBZUZVQzk1UUFYWjJkZGZ1bVNPSlRzcHN2dWFfZ1Frdw?oc=5"
-    }
-   ],
-   "score": 37.9
+   "score": 39.9
   },
   {
    "id": "ad3833d59f",
    "titulo": "Pesquisa Meio/Ideia traz candidatos em empate técnico",
    "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/pesquisa-meioideia-traz-candidatos-em-empate-tecnico.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-21T11:04:53-03:00",
+   "publicado": "2026-10-21T14:41:01+00:00",
    "temas": [
+    "economia",
     "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Pesquisa+Meio+Ideia+traz+candidatos+empate+t%C3%A9cnico",
-   "veiculos": 12,
+   "veiculos": 10,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Flávio Bolsonaro avança e Lula cai, mas empate técnico persiste, mostra pesquisa Futura",
+     "url": "https://www.moneytimes.com.br/flavio-bolsonaro-avanca-para-489-e-lula-cai-para-468-mas-empate-tecnico-persiste-mostra-pesquisa-futura-davs/"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "Flávio tem 50% contra 48% de Lula no 2º turno, diz pesquisa",
+     "url": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-50-contra-48-de-lula-no-2o-turno-diz-pesquisa/"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Pesquisa Quaest: rejeição a Lula cai para 47% e fica abaixo dos 52% de Flávio Bolsonaro",
+     "url": "https://exame.com/brasil/pesquisa-quaest-rejeicao-a-lula-cai-para-47-e-fica-abaixo-dos-52-de-flavio-bolsonaro/"
+    },
+    {
+     "veiculo": "InvestNews",
+     "titulo": "Quaest: Flávio Bolsonaro tem 45% e Lula, 44% a quatro dias do segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE9CZHRhLVd5NDF5VTRfaWFYRkh2dlhuM3BnUTJOSUwyWThXZUpfRzl6eU5VUTVXNGEycE5kZ0VGcUJsT3d1LTNCRzFPV2VPOUxiYWZ1eWtDU093aHNvekhneUxoQ0FTakg1aE9UTXBPTmtwOTQ2UGdqM0JfN3RlSktDSVVsZVlxajBYZmRMV3JCdTQ1WmFWaEU5dzBuRGFDR1Nmams0bExsc1HSAbABQVVfeXFMTkw0NXM4Qk95elM4Z0E5Nk9NQThtVERBVVVmbUl6c19PRnRXVGlTWXhOVjJQSkZVb3kza0Z6RTFIcWN3RkFTM2NPY1ZEQmpWRndOclJKT0tRZmtnN2tDMkdBZFlHMUdxMHZpTDdFNWhBbUpGMVlDel9GTnRLZDdyYlp0NC04V1RWai0yN1k0OFh2anE1aDRKZHlSajNLbFI0ZEY0TkY1VUFBV0xjYkRkMGE?oc=5"
+    }
+   ],
+   "score": 39.9
+  },
+  {
+   "id": "6bfe85ead5",
+   "titulo": "Ibovespa ronda a estabilidade após Quaest mostrar vantagem mais estreita de Flávio",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/21/ibovespa-ronda-a-estabilidade-apos-quaest-mostrar-vantagem-mais-estreita-de-flavio.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-21T14:01:49+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+ronda+estabilidade+ap%C3%B3s+Quaest+mostrar+vantagem+mais+estreita",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Ibovespa passa a cair e dólar sobe após Quaest mostrar acirramento da disputa entre Flávio e Lula",
+     "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml"
+    },
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Ibovespa ronda a estabilidade após Quaest mostrar vantagem mais estreita de Flávio",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMzN3dGM4UUt0ZmQtUGRWWVE0X1JyQkxSUlN6QUZVVGlnWmNZdElBVWx4cGZ6Vjlwclp0QnZWUmpYbE9sd0hVUG5pVVRhTHBwdWxvNENkY3ZOS1FyNE9oX294SzlZYkg2ZFlKdlBfTFJWVDhJNUhzMkdRaVdhNDNNWFVPMHJITnA1M29ETWt2b1RCdG9YRFF0MWtCQUhnS0Y0MGhkX1hrZGhtYm4tNTM5dlFTWExVajY0bWZ4UDVXOENyWl9XTERqSGRTUmc3YVdENVA3M1JSUdIB5gFBVV95cUxQR2c5SnlIY2ZpWjZwRnRyMzNxQ2VoTTZ5ZUMwWWxZalhSVHl3cFRFYjNQTWx3bmlrN1pPSjNIV1V0dG9SWHgzWVNkTkc1U0hyM3lBRzFicS1nMFZCOWRXeVhXLU5yOWtCcjlrMFl2czZoX2oyTWhHSkk2akpONU1XX3JpWG9vZjJFeVZSbVl1RnpjekhQc1RPenVHWFBSSWFfLW9kRDd3OGFndExoOGtralNteXJSNGVXX1RpYUJfNkFuanpMZW9PT1lsNERwQkRvMnRuYVlMMWJ4bFJDMW5qRDMza0s1QQ?oc=5"
+    },
+    {
+     "veiculo": "MundoBA",
+     "titulo": "Ibovespa sobe com pesquisas que mostram Flávio Bolsonaro à frente de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlFfeWtfOF9mMTBuTmpVMy1kMnA5TF8yb0taNkZCOVNSZG1WUS1RT1dqQjJxSWlGSWtCQmFvVEswb2s3VVFCSzlpeXBOSFM0WGhwU2NqTGcxTy1xSTg5SUxZdnpHNFZxeEc4eGZIYmI3bHpEOWpGSVRnVzBmclYzWS1EU3RCaE4xeEZGVi1EaXdqV25QMlRhWktNWTI3SUFkZkMtZVVZVDlmZw?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "Ibovespa valoriza mais de 1% com vantagem de Flávio Bolsonaro em novas pesquisas eleitorais",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3FLTHdKU1ZtM2pnOVlJNlhHc3ZjM0xuNGFPa1ZTUTI3cjR3a0pIX3pLTXVNd1p1LWEzdXQwZDlDckhOblpCUzhHb3pENjZEeGV6QWZiMWVmeUQwLU1RVDJMWkgzVDhEMGo5TmNOem5ycUFuU292Umw1Ym52YjJnaTdnNkIyM1gxR2FuSUhKZG1kTzFtUmdLTElPMElPQm1UWjhkNUJZTzZNa3VUSTFMNnhtam1CNEl1X1hMTEpUTS14OF9f?oc=5"
+    }
+   ],
+   "score": 39.6
+  },
+  {
+   "id": "c073cca6fd",
+   "titulo": "Nikolas diz que postagem sobre Nordeste no Instagram ficou sem som",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME9ld3lQTmJlU2FIMTZkRTNfSF9aSHh3a1JSbFNFdTRzNXdhVmliUW1OOW1YbW1PRTJlYzQxejRqWkZHSU5KSldsUDNZZkNuXzFIVDd3NlN6dXhic1BPMEhaZHJPamlEemlKRkxLT3l1NTV3di1ndkgtZllPa3ZSa1pwMGhLLTBLWFpmejhGODBXa2RGejd4ajhLdGZfaEUzYV9SZVRON2k?oc=5",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-21T14:37:00+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+diz+que+postagem+sobre+Nordeste+Instagram+ficou+sem",
+   "veiculos": 29,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Metrópoles",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas chega a 146 milhões de visualizações",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTRHSmRnQW85QlZJbmRvdDQteWlsNGU2WVRkM0lRSnJaMlJoMkZTVk9NMV9DV0E4UXVaWVg5TWZOTW1RRUdDekNhNTJPODNxMmw1UmxhMmJ1eWFjWlY3SWZBWExzT2NUdUdaVjZCZWI1eXg0SEdKUUM2YVRyUmtnX0pXNkMySXV1a0dfeVRrempGdWVjaVpteWhTaFYtMUU2VWFRNmNIWkM2ZmtBWVE?oc=5"
+    },
+    {
+     "veiculo": "Metrópoles",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas chega a 146 milhões de visualizações",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTRHSmRnQW85QlZJbmRvdDQteWlsNGU2WVRkM0lRSnJaMlJoMkZTVk9NMV9DV0E4UXVaWVg5TWZOTW1RRUdDekNhNTJPODNxMmw1UmxhMmJ1eWFjWlY3SWZBWExzT2NUdUdaVjZCZWI1eXg0SEdKUUM2YVRyUmtnX0pXNkMySXV1a0dfeVRrempGdWVjaVpteWhTaFYtMUU2VWFRNmNIWkM2ZmtBWVE?oc=5"
+    },
+    {
+     "veiculo": "Revista Única",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas Ferreira atinge 144 milhões de visualizações no Instagram",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnFNRWFtRDZKRWVKS0sxNVBnYm9sVkNvSmY3UHFPRVV0ZDFycE9kMWJyR1RuNklKV3VZQVhsZ0RpY1A3WHE0LXNHNVZDV1h0ak5MVUk2Uy1lQWw2Vk16YkkxbXY4UklVYmNhVW8yYUR2aHFCUmFXYm90N254S29lM1FGUDVoZzJ6R1lKNTRHWFgzRGdqVk9RTVdQYm14bXRSSFRENmxHUUI0S2E0S3A5QXhsVGhnX09Lc3V3MmdVOWc3anhRZnc?oc=5"
+    },
+    {
+     "veiculo": "Portal49",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas Ferreira atinge 144 milhões de visualizações no Instagram",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1Z0aDhQdXpwYmF1YWpGM29nTUxsVzc3ZkJzSFZBMHRLdXlhcDA0YlhXT1RqVGFMdklEbXNHd2wwaGVmaUtXX3E2OFVxRGFvOTNHdWJCamdSUXNxd0djcmVvVTBxeHBSYzd5YzhiWlhiTVlhTFVYWTBCY2hGVE1Bb3BUU01SSTR1SkV3ck81Y0xEZXZXVFN4aG8wVjhTUUZHam5tTkI1ZkNJaURTdmVyc3RVeWlYUnNRSXZJM3FtWWVEVnpsOU9z?oc=5"
+    }
+   ],
+   "score": 37.8
+  },
+  {
+   "id": "9d8896d0d7",
+   "titulo": "Flávio tem 45% contra 44% de Lula no 2º turno, diz Quaest",
+   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-45-contra-44-de-lula-no-2o-turno-diz-quaest/",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-21T14:47:34+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+45%25+contra+44%25+Lula+turno%2C+diz+Quaest",
+   "veiculos": 16,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Quaest: 44% têm medo volta da família Bolsonaro, e 42% temem a reeleição de Lula",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/quaest-44-pontos-percentuais-tm-medo-volta-da-famlia-bolsonaro-e-42-temem-a-reeleio-de-lula.ghtml"
+    },
     {
      "veiculo": "Exame",
      "titulo": "Pesquisa Quaest: medo da volta dos Bolsonaro supera o de um novo mandato de Lula",
      "url": "https://exame.com/brasil/pesquisa-quaest-medo-da-volta-dos-bolsonaro-supera-o-de-um-novo-mandato-de-lula/"
     },
     {
-     "veiculo": "Bahia Econômica",
-     "titulo": "PESQUISA QUAEST MOSTRA DIFERENÇA DE 1% ENTRE FLÁVIO BOLSONARO(PL) E LULA (PT)",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1BGeXo4c0ZwVkYzZnZQSzlSNy1JQ3pBMVljWjlyZlhwRTJhNnJlNk5zMEJuTWFPd0w2RW9BSzBhSkFwU1pHeFpuUnNybEJpSXE5enZxRlR4ODNfYmI4X0FmN3NxeFU0a0NLdU1idXdaNER5YndoOHpCTWhYNXFiNGhFcFhrMF9HQndTUWgwendGRVhtelpIZFlPME54SzZkYzJRZmt6LWIxUzFoMTJra2dmUk1ZQ3VuZXctV3M3aVhHbVFnV29GMA?oc=5"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Pesquisa para presidente Quaest: Flávio Bolsonaro tem 45% e Lula, 44%, a 4 dias do 2º turno",
-     "url": "https://exame.com/brasil/pesquisa-para-presidente-quaest-flavio-bolsonaro-tem-45-e-lula-44-a-4-dias-do-2o-turno/"
-    },
-    {
      "veiculo": "Valor",
-     "titulo": "Quaest: Flávio Bolsonaro tem 45% e Lula, 44%; diferença cai a quatro dias da eleição",
-     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/quaest-flavio-bolsonaro-tem-45percent-e-lula-44percent.ghtml"
+     "titulo": "Quaest: Rejeição a Lula cai de 53% para 47% de Flávio oscila de 54% para 52%",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/quaest-rejeicao-a-lula-cai-de-53percent-para-47percent-de-flavio-oscila-de-54percent-para-52percent.ghtml"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "Flávio tem 51,1% dos votos válidos, contra 48,9% de Lula, diz Futura",
+     "url": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-511-dos-votos-validos-contra-489-de-lula-diz-futura/"
     }
    ],
    "score": 36.9
@@ -263,7 +341,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Apoiadores+Fl%C3%A1vio+Bolsonaro+fazem+ato+Aracaju",
-   "veiculos": 10,
+   "veiculos": 9,
    "rotina": false,
    "outras": [
     {
@@ -277,17 +355,56 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWJBY3ZsYnJnWV8wdVhTa0lPSDRVLXZjLTV3SEhfb1ZWQWRuLUkwaTgwaUxJcnd1Q08xRFUtUnVic0xwbnpPdFNaVWF0U1A3T3Bnd2M1eTVTLUVZMWdJdlhvcVhZd1NXX1V4SG80V3E4eGIwNEZaZ0I0eTNxbUIwcmtBcWtJdF90aUlIYV96bXZkZ1RNVnVIbEVBcmsyeXhhdC14MXRERzBsUXJWNENoOHFyVQ?oc=5"
     },
     {
-     "veiculo": "Portal VV8",
-     "titulo": "Moradores da Bahia participam de live com senador Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemxxU0Iwc09FT0hjMTlKTG93UW9FWE1DUWZHVGxqb1NGeVVEbVFONUV4UzlkYTBsUGtEMGxkRkV3TFRCNEZVdzEwZmMwV3dpa1l1Z201ZXM3M1Z5cjE1VFlNN1NXR3FUd0gwQ296dGZDNTVsMmliNm1QSTNsUnhPSUh6Zk1Da19xQXBfaXhDYWY4RHJnSXNDaUNzVkZNaXV1NndnMWV1d1lVcm5DeHc?oc=5"
-    },
-    {
      "veiculo": "Rádio Itatiaia",
      "titulo": "Nikolas Ferreira participa de ato pró-Flávio Bolsonaro em Aracaju ao lado de lideranças políticas",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXI2Y25sTkV0Wk1QbHBoTWtSTkJRWnF0anZMS21JcHZTUXVmaXVVMUtIeHRiOFlmMTlLbVBQX3lTcm5QY3JYZU1INEF2aFRWT2RZVnppdERubzNxb19QbGpIV0REMTBBZXhWQnpKcG9GTHVwOGQ2VDcyUnZhd015UVo0U1ZaLUJMcWNxQlRENi1wbzRnOGMzZ2RodjE2ajBHdzZMNHVqUGRUQlM0RUNuTGpFTnVOWHBlTUhJNkI0NXlwZnN6dE9velRrVFd0Q1FVMm9jR2Z3ZG5PaDhf?oc=5"
+    },
+    {
+     "veiculo": "AJN1",
+     "titulo": "Bloquinho do 22, com presença de Nikolas Ferreira, atrai milhares de apoiadores de Flávio Bolsonaro em Aracaju",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONlhLWlRjcEdIbHBJNXB3ZXZ1NFBCUXduUjU2VGMydzF4dVhXd2N3OFBlaGJoRGtmQ3JUX0xCNnpzSFZmejJqMnluODFFbzZXQmltQWV3WjJsM1dIeTJwamhrTG1sa2NtWWpHb0JiNTFtNTBSZVBFT09Vc1VHWUZXMFBvcjFGQnlPNU9ZNDB6NWZTdVRKQmxvN3NjNHNzc0xWamppQ1A1Y2oyb2p2N05yTExtZ3VDT0J4ay1LV2Y2NWF4bGlLZ1VDRA?oc=5"
     }
    ],
-   "score": 36.8
+   "score": 36.5
+  },
+  {
+   "id": "0537cf0806",
+   "titulo": "Nikolas acusa cantor de ‘silenciar’ nordestinos",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmFqLTdqSk43N05NQzBaaHV0cFZkS2IzdnZyVjY1a1B0aDUyVndnT2h4NFlSS1VGQVpBN0hfV2J1bkhpYy1odC1yNUdIMncxMl9ROVZRME1wVTg0THFqQXAwSGpLMVFmWFFhNnVOTEp6NFU0Wm41bXRrMWllaFNJZzJHYnE2TVZFUlVHZDlYNFZmY3Z2c1JV?oc=5",
+   "veiculo": "Revista Oeste",
+   "publicado": "2026-10-21T14:30:00+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+acusa+cantor+silenciar+nordestinos",
+   "veiculos": 12,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "vtvnews.com.br",
+     "titulo": "Quem é Rubel? Conheça o cantor envolvido em polêmica com Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFRLd1BwZFdhVW9HZElHV0N6ejlKMHoyNmNDNXFiaVRtNS1TazN4ODBxcmcwUFBCTXZicmd4WWdNb0RCcVdmT3Q4Y3MtWW00Z2R3MEpELXA3NnRULVIxckJacWtFN2UxUENSY0xPU2tvSjdXQkRBak1PMzQzbXZ4TFF0bVRoVS1Pb3M2MjZLdFRmRkZVaGNN?oc=5"
+    },
+    {
+     "veiculo": "vtvnews.com.br",
+     "titulo": "Quem é Rubel? Conheça o cantor envolvido em polêmica com Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFRLd1BwZFdhVW9HZElHV0N6ejlKMHoyNmNDNXFiaVRtNS1TazN4ODBxcmcwUFBCTXZicmd4WWdNb0RCcVdmT3Q4Y3MtWW00Z2R3MEpELXA3NnRULVIxckJacWtFN2UxUENSY0xPU2tvSjdXQkRBak1PMzQzbXZ4TFF0bVRoVS1Pb3M2MjZLdFRmRkZVaGNN?oc=5"
+    },
+    {
+     "veiculo": "Ilhéus Eventos",
+     "titulo": "Nikolas Ferreira acusa cantor Rubel de censura após retirada de música de vídeo político",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0xvWUtMckNjNl9qbHB0cjQ3aVFEclNkcUxUdjBKOENSQWk0NTgyS1IyWENqZm4zZWZ5WUV5ajFVWVRMcXRPRzZ0eHM1bEEyQnZHcFFCYjZOVGFvU0l6emRvekNISDhZaDVYNjVJMW9fSHl4cExWcEtIX1FQZ2NESmZIeFhKZGo0MWZEZE1vVTFKdVd6aGhlNTVaU1FMM293clV2ZjhjYVFsbW94anl2TDFpV3pMR3lIdm04SnlZV1g1aEFuak1SS252RmdGdTZMeXc?oc=5"
+    },
+    {
+     "veiculo": "Terra",
+     "titulo": "Quem é Rubel, o cantor que virou alvo de Nikolas Ferreira na reta final da eleição",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdXc2cmRRYjFpQ19kS2ttQVFPX0llWEtxV2NMVUxYT1Z4cndaWXZHdWIyVFFkMEtfdzVBMmc0OFhVYTZJWDlVVFM2aDUzRVRMN3dqSjdqdVc4RFZnNlN4aDhTNm5UUTZ3b19YaDE2bkJRSVJ6blgzdGw4OWsxSVNwa2dCcGcxZGdGVk1SOFQ3cHY4T1BtQktTcW54VFpwcTZETmRKZmpacGFQdzRvUzBlQjZkLXcteW1jVlBaVWxJUXN2R3M3RlBscEZqd1J2aUVWa1hyalY1SjJyWEZlT19UelZWRTFqa3l1YUlTV3E1WW95YUlrUHFwWGZXQQ?oc=5"
+    }
+   ],
+   "score": 35.8
   },
   {
    "id": "a8ce0aa31d",
@@ -303,7 +420,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+opera+alta%2C+com+balan%C3%A7os+corporativos+pesquisas+eleitorais+foco",
-   "veiculos": 12,
+   "veiculos": 14,
    "rotina": true,
    "outras": [
     {
@@ -327,7 +444,7 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEdUcEZGZjJwNkNPaXZRRW9xR1Jrd3c0bmNucWI0QV9wenBvZi1DY3pDSTVDd0RRMk12OFRjRXU2LWctdjJQZE9QOGtmTDlxb2wzc3RNX0k4eU81TTNkaTJHV1I0ZzdBcmotVTl5aE1GRlRhYmxac3JBRVNYYXRoNk9nSnZGZDJFbFZTbFFQa01feWR5SGs3RExFUUk5QjNQYm9tZg?oc=5"
     }
    ],
-   "score": 35.9
+   "score": 35.6
   },
   {
    "id": "6f74ccc798",
@@ -343,7 +460,7 @@
    "video": false,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+diz+que+vai+retomar+benef%C3%ADcio+fiscal+eventos",
-   "veiculos": 11,
+   "veiculos": 10,
    "rotina": false,
    "outras": [
     {
@@ -367,52 +484,14 @@
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQlVpRXNhUmc5Mjl2V3VjOUQ3aDJtTGxCZEp6MElSTDZMTzhMSS1hR2dyNTV0YV9kcWJvOTdNcWRHSjhFSTlKMDZpZW54dkRUanU0MzFMUksybFFWSUh6S1VIS3dHVFc1Vm1XdFltb29kRkVsdXktN0xRODd6SnpST2Y0YVN0TkVhU0diN0RfTlM2aGZzVlQyLWFCdlliYmR4MFo5Ty1abGVPOVNKRGpZZmxTbFhQczVkWXlWczRyTEFkWXJLamlVRnVnQ1FaV1VaVE9YRDBkNkZyLVQySlltZm9nZWlFOXVpQktYNGlBOUdyd9IB8gFBVV95cUxPQlVpRXNhUmc5Mjl2V3VjOUQ3aDJtTGxCZEp6MElSTDZMTzhMSS1hR2dyNTV0YV9kcWJvOTdNcWRHSjhFSTlKMDZpZW54dkRUanU0MzFMUksybFFWSUh6S1VIS3dHVFc1Vm1XdFltb29kRkVsdXktN0xRODd6SnpST2Y0YVN0TkVhU0diN0RfTlM2aGZzVlQyLWFCdlliYmR4MFo5Ty1abGVPOVNKRGpZZmxTbFhQczVkWXlWczRyTEFkWXJLamlVRnVnQ1FaV1VaVE9YRDBkNkZyLVQySlltZm9nZWlFOXVpQktYNGlBOUdydw?oc=5"
     }
    ],
-   "score": 34.5
+   "score": 34.2
   },
   {
-   "id": "47ebd21cb3",
-   "titulo": "Tropa do Flávio cobra Rubel após vídeo de Nikolas perder áudio",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVRIWXptNGVfd09rZFc2amk4Zm1KVEhHZHVyWnZBbkZwbjIxMjFTZEhRZUw2VUhlaUw1YzZLeV8xZjFYYjJhaGk3QTMxTkJIazA4RWRPdDBiWnFwa01DZkpYRkdLSFVYN29KVDR5TjBuV2xTT2l2WVl5OUZNMUVWQVdMcmY0c0NFaXFPZ2tiZEZWREdhVHpuRG5RNW1NM2NtUnRNYnU3akFCdUo5MDZwVQ?oc=5",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-21T14:13:06+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Tropa+Fl%C3%A1vio+cobra+Rubel+ap%C3%B3s+v%C3%ADdeo+Nikolas+perder+%C3%A1udio",
-   "veiculos": 24,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Ilhéus Eventos",
-     "titulo": "Nikolas Ferreira acusa cantor Rubel de censura após retirada de música de vídeo político",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0xvWUtMckNjNl9qbHB0cjQ3aVFEclNkcUxUdjBKOENSQWk0NTgyS1IyWENqZm4zZWZ5WUV5ajFVWVRMcXRPRzZ0eHM1bEEyQnZHcFFCYjZOVGFvU0l6emRvekNISDhZaDVYNjVJMW9fSHl4cExWcEtIX1FQZ2NESmZIeFhKZGo0MWZEZE1vVTFKdVd6aGhlNTVaU1FMM293clV2ZjhjYVFsbW94anl2TDFpV3pMR3lIdm04SnlZV1g1aEFuak1SS252RmdGdTZMeXc?oc=5"
-    },
-    {
-     "veiculo": "O GLOBO",
-     "titulo": "Qual é a música de Rubel usada em vídeo de Nikolas Ferreira que teve áudio removido pelo Instagram?",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU05lZUJrdkNDZUVzNko0MTlzU1BwYjJuUENkUXN1QkVMSXdRcnE2aHAyajNHVThTcjRTbmJYdmdJTnh6MThNYXBSVTMzVFVIR3lWOXE4Q2RGYWstWGViYUY1V0l6eS1OUmhTV3B2cmp0NlZpMkRvbVdraXFNeWJOeDBMaDdFQmV4Z1RMVVhMYjhXY3RHRE03QW5CWTVPeEVobVd3MUFCNDUyV2FHaUpUNkFSbjVuSThCb1VNSkpkNHp1ZE9qSGs4eFJCWjg3UTlGVE9RTXE0OXVjeTFPNGhQTFNvTGlacUt0dWRwUDk3d1gyMG1HSXJic2pGZldQNndM0gGPAkFVX3lxTFBqWHRVVnA5ZlFyQkZhRUNBb2VGNThzV0dOc3pCdVBSNjZJR2RpUmFVdUQ2aU55WUFJX3BBR01tTWpkWkhrZ1NIVERtUGVzNjg4eDRXblNxdjF0djhMQkcyOG00LWlZUDRRRk9mNUlDM3BGZ3NVMVBTMnM0SnRFWk1UdEtiVTRxRU5GOGF3VUNxR3NuWmY5RkZNWG45cURoZndwQTNjYjg1dFFiekhySXBsdFZ5YUU0c01HVTRWbDFZZ1RmamNZXzUwNXV2MjFKd1dmZDFoZE5lU2dnVDB4ZnVpWFc4R04zY0V4UXNWTjR0MGF4QXZ2YktBTVZWeFZXeVBQTTd4MEVwck5yYUtkbEk?oc=5"
-    },
-    {
-     "veiculo": "O GLOBO",
-     "titulo": "Qual é a música de Rubel usada em vídeo de Nikolas Ferreira que teve áudio removido pelo Instagram?",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU05lZUJrdkNDZUVzNko0MTlzU1BwYjJuUENkUXN1QkVMSXdRcnE2aHAyajNHVThTcjRTbmJYdmdJTnh6MThNYXBSVTMzVFVIR3lWOXE4Q2RGYWstWGViYUY1V0l6eS1OUmhTV3B2cmp0NlZpMkRvbVdraXFNeWJOeDBMaDdFQmV4Z1RMVVhMYjhXY3RHRE03QW5CWTVPeEVobVd3MUFCNDUyV2FHaUpUNkFSbjVuSThCb1VNSkpkNHp1ZE9qSGs4eFJCWjg3UTlGVE9RTXE0OXVjeTFPNGhQTFNvTGlacUt0dWRwUDk3d1gyMG1HSXJic2pGZldQNndM0gGPAkFVX3lxTFBqWHRVVnA5ZlFyQkZhRUNBb2VGNThzV0dOc3pCdVBSNjZJR2RpUmFVdUQ2aU55WUFJX3BBR01tTWpkWkhrZ1NIVERtUGVzNjg4eDRXblNxdjF0djhMQkcyOG00LWlZUDRRRk9mNUlDM3BGZ3NVMVBTMnM0SnRFWk1UdEtiVTRxRU5GOGF3VUNxR3NuWmY5RkZNWG45cURoZndwQTNjYjg1dFFiekhySXBsdFZ5YUU0c01HVTRWbDFZZ1RmamNZXzUwNXV2MjFKd1dmZDFoZE5lU2dnVDB4ZnVpWFc4R04zY0V4UXNWTjR0MGF4QXZ2YktBTVZWeFZXeVBQTTd4MEVwck5yYUtkbEk?oc=5"
-    },
-    {
-     "veiculo": "Instagram",
-     "titulo": "O Instagram retirou o áudio de um vídeo publicado pelo deputado Nikolas Ferreira (PL-MG) com relatos de nordestinos sobre o custo de vida e o acesso a serviços básicos. A gravação, intitulada “O Nordeste que foi esquecido”, utilizava um trecho instrument",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Q2tpXzdZcTZIV2txMVdRbGpEY0FVX2M4OGd2SlJOSmc4WlZ6UDBDRE9jQUNQTklJMFRNUE9xaHVFMEU1WmdvWUNxb2JNcm5HN2NxSkRR?oc=5"
-    }
-   ],
-   "score": 34.0
-  },
-  {
-   "id": "9952473717",
-   "titulo": "Manhã no mercado: Pesquisa Quaest pode dar novo impulso ao trade eleitoral nos ativos locais",
-   "url": "https://valor.globo.com/financas/noticia/2026/10/21/manha-no-mercado-pesquisa-quaest-pode-dar-novo-impulso-ao-trade-eleitoral-nos-ativos-locais.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-21T12:32:28+00:00",
+   "id": "ab5c911ff7",
+   "titulo": "Dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-para-r-501-com-exterior-e-expectativa-eleitoral-no-brasil",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-10-21T14:51:51+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -420,14 +499,14 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Manh%C3%A3+mercado+Pesquisa+Quaest+pode+dar+novo+impulso+trade",
-   "veiculos": 4,
-   "rotina": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+cai+para+5%2C01+com+exterior+expectativa+eleitoral+Brasil",
+   "veiculos": 26,
+   "rotina": true,
    "outras": [
     {
-     "veiculo": "BlockTrends",
-     "titulo": "Ibovespa recua após rali do primeiro turno e mercado aguarda pesquisa Quaest e balanços do 3T26",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlN6NlJPcHY0QVp4MkxPdXBqLTdmRGhuRFhTVjZZaVo0RnZiWTB3UzBnbnh5WElMZGNCOVVGemdQMndBUTBhSGlkSHY2aklVdmZkcFlrRE1wY3B6dzhvQ05RdWJ5YVpCUVVuLWpkTlJ0TTdwT0VLR0dNNll3eDRodlpDN05DcHc5Q0VmYS1BdTQwVDU1dUhjMjlIYw?oc=5"
+     "veiculo": "ADVFN",
+     "titulo": "Meio-Dia Mercado: Ibovespa recua com pesquisa eleitoral, nos EUA Tesla e Meta reportam resultados após fechamento do mercado",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTXBpMXd1VWNaZWswWFNUcEs5ZHlFejQ4Y3FrY1JIajcwcFBlWW5tc3QtR2JFeE1NNzl6V19iU2l6a3VMckF4Znp3eXlhOXBuTC0wVEJCbEpkcDR2X1F1emQ3RUNvSzZVVFdweUYxOGEwWlE4cDNicmN3S1Nza092WEhDTVhkOGRUT1BxMXBYR1c5bks3djdhSDlUWDhtNmxaUGQwU1hGSjJMTjlfR0JyN3pWZ0hZbHU2bXdLeTJSUTRhNkJFRVQ0dmo1cEszeXFuZ1BRNTV6OWs5d0RyeG5BZ0E1R3JjOE5RR3lwSkFfWnc?oc=5"
     },
     {
      "veiculo": "UOL Economia",
@@ -435,12 +514,95 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdF9ISjJ1X2pCNnpvalFrSDBtaVRxWmNlbERVNUI3a0VZN2xEWXJIZ2dwM1NiNWpmbHlXT1djQUk2Y2ZZSlprVU9neUFCc29MckRyeEZtOEdKd2lfQTM3OERjRFpXaHVfakZrX3Rkb3E4QnJFaktxajdkdzlNODFXUk45VWQzSDAzbF92VTc0c2ZGVkI2bWY2UUItM1JKdWotQzNJaXhNZVFQRGhDNnAxRWdLbmZjSFNPcTM3TDd3?oc=5"
     },
     {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Um passo de cada vez: início da temporada de balanços e pesquisa Quaest mexem com os mercados hoje",
-     "url": "https://www.seudinheiro.com/2026/colunistas/um-passo-de-cada-vez-inicio-temporada-balancos-pesquisa-quaest-mexem-com-mercados-hoje-rsgp/"
+     "veiculo": "Estadão",
+     "titulo": "Ibovespa hoje cai com pesquisa eleitoral da Quaest; dólar sobe a R$ 5,02",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdy0zQ2RPbndFREI2eWpZc0toZGFyWG1FQzgtNTdTVmk2ckR2SzJ4by04S1I2cENYcWN0YUxiWEcxMEZiQ3FPWDU2WXBGVUVTWmV4RXZrMUZiaXNONEU3TzJ1NEkxZmRpdkdQQVJYOHZkWEpZUWVvaXpxQWV3MWlrX0oyV0pCSHluQXlfeTNBbk5ENlB4dm8yVWMyTDJ4czBqaFFOSTZhdl9OUmZpVkQ2dV9hMGwzRE9aNFVQdllvRnFhemJSOEF6TEJsUGZka0MxbHQ5d9IB2gFBVV95cUxPdHloVUtRUUpCZlFwNXBITDBkWlU5ejVEYzNLVm51a1Bod1Z1dG5OVTl0ZDZmMWdpTlYxbUdMc1llUnN3cGV2VU0zNEc5U3VLbkhNeDRVOTFFb3VLTmU3YXBwQnVWSXB5S2Z1dDNvNnh6RUZzYjNMMjV3UmtxWEUyaDlodmhGNG15cmlfZC1heFlEQ2hVYWpkUjVWUzFLei1yRGRoMkVadm1VZWxwZXNES0J4WnkwVjBVc0szaU9maG00UmhWOXJEckxiaEZkM010d05iZ2VBRE50Zw?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Ibovespa hoje cai com pesquisa eleitoral da Quaest; dólar sobe a R$ 5,02",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdy0zQ2RPbndFREI2eWpZc0toZGFyWG1FQzgtNTdTVmk2ckR2SzJ4by04S1I2cENYcWN0YUxiWEcxMEZiQ3FPWDU2WXBGVUVTWmV4RXZrMUZiaXNONEU3TzJ1NEkxZmRpdkdQQVJYOHZkWEpZUWVvaXpxQWV3MWlrX0oyV0pCSHluQXlfeTNBbk5ENlB4dm8yVWMyTDJ4czBqaFFOSTZhdl9OUmZpVkQ2dV9hMGwzRE9aNFVQdllvRnFhemJSOEF6TEJsUGZka0MxbHQ5d9IB2gFBVV95cUxPdHloVUtRUUpCZlFwNXBITDBkWlU5ejVEYzNLVm51a1Bod1Z1dG5OVTl0ZDZmMWdpTlYxbUdMc1llUnN3cGV2VU0zNEc5U3VLbkhNeDRVOTFFb3VLTmU3YXBwQnVWSXB5S2Z1dDNvNnh6RUZzYjNMMjV3UmtxWEUyaDlodmhGNG15cmlfZC1heFlEQ2hVYWpkUjVWUzFLei1yRGRoMkVadm1VZWxwZXNES0J4WnkwVjBVc0szaU9maG00UmhWOXJEckxiaEZkM010d05iZ2VBRE50Zw?oc=5"
     }
    ],
-   "score": 33.3
+   "score": 33.9
+  },
+  {
+   "id": "8b6ab02a9f",
+   "titulo": "Vídeo \"mais importante\" de Nikolas traz nordestinos criticando Lula",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDBmOFZ2ekMxYjYtSUFucF92cjlpbVNCejA5TmNoSTFvYU1WZW5LT25fems0d2pJQkdRZ0tINWwtakkxSHNHM3lGcXNvMnVqWGp3c0Nab21zQ1J1cTRDbzB5UUd2VUd4VjRZRmx1d1FfeWU1djQ1TXUwN0lzb0FTQ2JlaUUzSGFQMFBselNxVk0tWGp4bWNpRDZwOWFnbzFtTDJuaUlFQXc?oc=5",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-21T12:09:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=V%C3%ADdeo+mais+importante+Nikolas+traz+nordestinos+criticando+Lula",
+   "veiculos": 10,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jornal da Cidade Online",
+     "titulo": "Reação ao vídeo de Nikolas com nordestinos sacode a web, emociona e faz surgir um novo vídeo (veja o vídeo)",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTWVTc1g0ZGcyWko3eGVLSHkwUGVIQXVib25CMWJnQksxaS1yYzdfcWVnMkNpRy1ZN3NpZmV0Ujd2LTM4Umc2MjF2T3lPTE5TTmJOUHBBek5JNjNVUnp1SHRVYnc3cU5aUTVTcVR4OHFkMzktd2xUR0pqLTB4X002ck5YMG9TMkJ6dXBuaVc0SElFVHJIVkZWR2xPYVo4VlY2YnBMMkp2OW0wcFBFNlFiTjVvRmRON1RFYVB2VGJFSzY2UFBGRmptTndia1FMZkZwMVlZczFlRTNOSmZQM3Nfb195NThBd0g3YTBxYWMxWTXSAfYBQVVfeXFMUE8wZkltUXNiWmVSUlZqUGxGSlRXRXRoaGtWblRtWVljemxpMlB1eDJmYWt5aUhhZThTRk1jNXFpNWZJMkxuT1pDMGhHM29lVFVfbHFNa083ZmlXUENRQzVSYTJJWFgtQnR4NUZDSEhObnh2eUtFZ2Fma25TS3lQSWtfajVhaU5oM3V4VV9NR0JZVnd4NEZvWXJzUlRLYk9DNFR0WGJKaHBGanNrTEU0c3FBRjNoLTJab2FvQVlNV3pHRzhpN2l3bURnbEMzX3Y4bjVNbXMwXzVsbnE5RXpaOHF5cjRocVVZUVIxZ1QyaEc4YjdYa2dB?oc=5"
+    },
+    {
+     "veiculo": "Agora RN",
+     "titulo": "Nikolas reúne nordestinos em vídeo com críticas a Lula",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zTk1HRGNTdUhxT0xJcmozaXdGQlY1OW56cC1qcTZibVItenZlV01rV1VxMTlyd0otS012TXNidlNPUHd2cjRKMlZjM2t0MVYyMXpSY1dOMm4zZE5CNDl3NWYtVXdSQnZIdE85dVlkTGFoYmJja3pSRTdpc00?oc=5"
+    },
+    {
+     "veiculo": "n3news.com.br",
+     "titulo": "Nikolas critica cantor por áudio barrado em vídeo criticando Lula",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEllREg3MjYxcTdiVHdjcy1FakEweWxvUFU0TjUzN0ROdExybUlaaW94bzN4ZGlPTFdIbktnUUhaajFsSlBBVWJqaUEzZE9tOWxaQ21hQW5MblNscDN0Ym0xN3ljNVpIajl6Y184bF8tR0hxZEdrREk2M2NqYlM0alk5bGRFOW9JTkE?oc=5"
+    },
+    {
+     "veiculo": "Bahia Econômica",
+     "titulo": "NIKOLAS FERREIRA DIVULGA RELATOS DE NORDESTINOS COM CRÍTICAS A LULA",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzY4Vk5YblNtSGRPSmlvS2FZRTg0bkNqSlNZalhmTEp6VF9LZUtLVzR3cU43TmluY2hPNG1DMks2emdqa3EzVngtRUh4M0ZuSWt6RVN2QXBVTWlULTBfa3hKLW9CZnY2NXFoZG11VWVTUlNIVnhBclNrNWhzUFRHR2hHc1FYXzBfY3ZUZmFUTzI3bkFlek9OQnZKajdCR3VpYUhOcTRjaUdaYjNJUUt1aDlNTQ?oc=5"
+    }
+   ],
+   "score": 33.8
+  },
+  {
+   "id": "fade69fa7a",
+   "titulo": "Bolsa fecha em alta de mais de 1% com eleição e petróleo no radar; dólar recua",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-petroleo-em-alta-e-cenario-eleitoral-no-radar.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-21T14:44:18+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Bolsa+fecha+alta+mais+com+elei%C3%A7%C3%A3o+petr%C3%B3leo+radar+d%C3%B3lar",
+   "veiculos": 11,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "TradingView",
+     "titulo": "Ibovespa oscila sem viés firme com eleição em foco; WEG recua após balanço",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WX2MzZGtmaV83UFJXaDI1ZkFMakFZR0RGUmpIOGRPdGwzOG9lam5NeU9zNVZnZG5JMkM3ZklDX1liVUdWR01wY2k3dDdkWTl3OEFldjQxSnpiSUxHUU1RWU1IcWJMRkhwN3o3WXVFUlM5VEozdmlZ?oc=5"
+    },
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Ibovespa sobe na abertura com eleição em foco; WEG recua após balanço Por Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWF0WTIxNllIQ0g5Vks0U0k1TXh6bWdBY2t4WmtWMWUyLVdXZHdVbFFXMVNiWS0wZXpZU2FJNXI5dkVYNXZaZkJLYWRaeEZhVGtHTHp1Sks3VWtnc25QcG5xSVdiVEx0d3pUWnJzTkk3S1RSQXhFMTB3R1FfNFd3TzdaQTBwY2JCaW83MGtPZ2VhVmhObm5tQ1BkMVJHQjNiVndWeFBRbUZKYy1uQlBtV1BhWnhjS2VN?oc=5"
+    },
+    {
+     "veiculo": "TradingView",
+     "titulo": "Ibovespa sobe na abertura com eleição em foco; WEG recua após balanço",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fUTUwRGxNS0g0QmdkVWd5QnYtQTNnc1BUZDR1b25YdmpVa013VzJ5Sm13aDdLRW03alpVOFlFR19MYjZDNG43QVdEVG1kSnFtUDFIUldqY1dHaWxNOVEzcG93d3dKekJjdEpHblktb0kzVk5pbXBaTA?oc=5"
+    },
+    {
+     "veiculo": "brasilagro.com.br",
+     "titulo": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho com eleição no radar",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamptbUNkS3FMQXE5dDh1QlBSalZsLUh5VHB6NGQ2OGtnTzRQYTZ4NlhoUEwxQXYyRzFJamd2cGQ5c09VejBHTTRtQWFjN2VVNHcxeGNuOE9OUFN3RjVRdFQxcFJYQVVkYzBqbzNHME9wdkU5N0JtYkJlQUxsVjc5Q3VydVZ5U3FBT3NpMUdXbE1adUZmVUNxRjRNMjhaaktwWTZyaGV5bmdtbnpB?oc=5"
+    }
+   ],
+   "score": 32.9
   },
   {
    "id": "bb63edf277",
@@ -456,7 +618,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Bolsas+operam+alta+com+temporada+balan%C3%A7os+foco",
-   "veiculos": 10,
+   "veiculos": 8,
    "rotina": true,
    "outras": [
     {
@@ -480,87 +642,7 @@
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55VkFrQ3hwQkkzNm9PX0dOcUhuQndjTE5DajZLa2xUNXNGdGVjdWowa01MS0xMMjBTUDRqQ1VORHgxekY1eWFWWE9QbTNQZHBWdUNqVld1OWw?oc=5"
     }
    ],
-   "score": 32.9
-  },
-  {
-   "id": "fa3cfcaf7a",
-   "titulo": "Ibovespa perde força com novas pesquisas eleitorais e repercute balanços",
-   "url": "https://exame.com/invest/mercados/ibovespa-perde-forca-com-novas-pesquisas-eleitorais-e-repercute-balancos/",
-   "veiculo": "Exame",
-   "publicado": "2026-10-21T13:48:53+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+perde+for%C3%A7a+com+novas+pesquisas+eleitorais+repercute+balan%C3%A7os",
-   "veiculos": 11,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Ibovespa perde força com novas pesquisas eleitorais e repercute balanços",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjFrejlZWWM3ZkUzTVNVeTh6V203bmZWaXFPS0M5RmVkUVdPQllJN09PS01FdUR3QUoyY1c0TUhQeE1yZTQzSl9qMTRoRm9QU3JUYVVKcGJ1UzlFeHNDbXdBV3paUGw3cU40Z05LOTdJZ0VPMGRQRDdyMVdEYWxZeEp0cVl0M3NlVHJkcXpDR1FXSUtqcGF5a2FSU082LV9mbjRiTGhtVm4zckk?oc=5"
-    },
-    {
-     "veiculo": "Valor Investe",
-     "titulo": "Ibovespa futuro cai e dólar sobe, no aguardo de novas pesquisas eleitorais",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ29FOElRdHBFaDJ1dDQ0aFpIa2JtRW9xaC10MnpTR2E1ZFBNMm10TXR4TFVlVUtFeHJJamc2eEFBaG5YelhGOFJsUXI0MjUzUmE0Qi11ZDBWQWdHRXVhRHVJR0JpOGx2a3dNbEcydWhQclNMOWtxS0xLc2xjZ2l0bVEwQlVHVVZUS0t2U1RiMXF0V3U2SUk0alQ1WkN5SFBDdk52b3ZZb0pDMXRnQnVuVW5ESkVDUGhNSGhRaEZBQTNnQXN5dFY4MzA3MktvTktWRzZXSWRQb9IB5gFBVV95cUxNelJ0SERtSHFSMXpfdWtLM0ZILWxudk1WaERPdUhKTXdDdS1qdlI5NVBvZ2VfOWp0YkplZm50dXN2VjcyeTVKUDUwenhhQmtmVEduVHlCcUV4ajRZZVphaWotS1VjTVJrTTg2Y3pidG1ybmFmanYzR0dndVJOcVQ4MGZzdngzM1JWOVlrVE1uSk9FbFRwN3ctNkpoT2FvdmM0aWNqTzJxckFRTGFWdVlLeTZzVVJJZ3UtZ1FWVmZkem51YkpsbHAzWWdhc3ZrZWdHbGhsTV96TkhVQkl5dmxPRnRheE16UQ?oc=5"
-    },
-    {
-     "veiculo": "Valor Investe",
-     "titulo": "Ibovespa futuro cai e dólar sobe, no aguardo de novas pesquisas eleitorais",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ29FOElRdHBFaDJ1dDQ0aFpIa2JtRW9xaC10MnpTR2E1ZFBNMm10TXR4TFVlVUtFeHJJamc2eEFBaG5YelhGOFJsUXI0MjUzUmE0Qi11ZDBWQWdHRXVhRHVJR0JpOGx2a3dNbEcydWhQclNMOWtxS0xLc2xjZ2l0bVEwQlVHVVZUS0t2U1RiMXF0V3U2SUk0alQ1WkN5SFBDdk52b3ZZb0pDMXRnQnVuVW5ESkVDUGhNSGhRaEZBQTNnQXN5dFY4MzA3MktvTktWRzZXSWRQb9IB5gFBVV95cUxNelJ0SERtSHFSMXpfdWtLM0ZILWxudk1WaERPdUhKTXdDdS1qdlI5NVBvZ2VfOWp0YkplZm50dXN2VjcyeTVKUDUwenhhQmtmVEduVHlCcUV4ajRZZVphaWotS1VjTVJrTTg2Y3pidG1ybmFmanYzR0dndVJOcVQ4MGZzdngzM1JWOVlrVE1uSk9FbFRwN3ctNkpoT2FvdmM0aWNqTzJxckFRTGFWdVlLeTZzVVJJZ3UtZ1FWVmZkem51YkpsbHAzWWdhc3ZrZWdHbGhsTV96TkhVQkl5dmxPRnRheE16UQ?oc=5"
-    },
-    {
-     "veiculo": "Jornal O Sul",
-     "titulo": "Dólar cai para R$ 5,01 e Bolsa sobe mais de 1% com avanço do varejo",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaW5jUkF0SnZQSTZmeFQ5NVU2S1lfZHcyLVozS2JXdUEtTGI1ekdYUENiTUJnWUtwMlhDellSU3dCSEZxRVZqNHM4aUlvd2RLWWxnaFZnTWNvUTA2MV9JV0JCV2w2RDQxdmVQRTNLUEljamxweXVQU0xvWUs2UWlhaUNNY0xBMVVJcVpXU2hqYlRSY1kweUNCUtIBmAFBVV95cUxNaW5jUkF0SnZQSTZmeFQ5NVU2S1lfZHcyLVozS2JXdUEtTGI1ekdYUENiTUJnWUtwMlhDellSU3dCSEZxRVZqNHM4aUlvd2RLWWxnaFZnTWNvUTA2MV9JV0JCV2w2RDQxdmVQRTNLUEljamxweXVQU0xvWUs2UWlhaUNNY0xBMVVJcVpXU2hqYlRSY1kweUNCUg?oc=5"
-    }
-   ],
-   "score": 32.8
-  },
-  {
-   "id": "3236a6b8ab",
-   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa perde fôlego e agora oscila após pesquisa Quaest",
-   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-21T14:12:39+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+Hoje+Vivo+Bolsa+perde+f%C3%B4lego+agora+oscila+ap%C3%B3s",
-   "veiculos": 24,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Ibovespa recorde: Bolsa sobe após pesquisa eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRVU2MDQxamg2S2Jlb1A3VmttMGFweUNzb1hfNlRVcWk1Y3c5dnhfWlJlS2ItVnNMYUQ3SFhoRlFXQ1FHaVo0Njc2aHUtRk9TQU1zZ04xZXlvWjZFalpUX25nSkY4cmJ3el82V1NYaWxLZ0xWVm11RV9CZDZHREE?oc=5"
-    },
-    {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Ibovespa recorde: Bolsa sobe após pesquisa eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRVU2MDQxamg2S2Jlb1A3VmttMGFweUNzb1hfNlRVcWk1Y3c5dnhfWlJlS2ItVnNMYUQ3SFhoRlFXQ1FHaVo0Njc2aHUtRk9TQU1zZ04xZXlvWjZFalpUX25nSkY4cmJ3el82V1NYaWxLZ0xWVm11RV9CZDZHREE?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Tempo real: Ibovespa monitora pesquisa Quaest",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTURTUHpuUVJGaDN6ekFfZEVBZDNoTEJtNHhyRk1WT1VNRUZTOExpQ01xNXVmYjBaaEZSbEl3aW1pdXdKMHB2Vl9xOFJzOWhtZllxbzFhWFlmeHVOSGZyTGpRUXBjS0VsRFphMg?oc=5"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Petrobras salta 4%, bate novo recorde e segura Ibovespa no positivo em meio a cautela eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbXA1MW9fZDg4d3M0NnVaUmwzd1RnOWNYb0M3WUt3TVgzVTh3a21IUGg1X3ljb0hXTTZPRzBpTl9wNDU2RmhoSldRSGlIUkRqSkNUWmVCNWdDdWd0aGpOeFQxVmRudnRIa2c2OVNYeFJGb0VDZnMwcy1kMDVYLVVQZlhBbHVRbnJlWnVzcjcwNjZqWGNUdTRER1FpQmpiUktsYXBlSGNYM2xyeUM2U09YVUctR2NiV1ZpTnBhT3NUQVdISTFpZ0hXRGpld0cyN201ZDhuVlZSdFdEVWRURVA4RTdFdlJpTWc?oc=5"
-    }
-   ],
-   "score": 32.0
+   "score": 32.6
   },
   {
    "id": "10db15a0a1",
@@ -600,86 +682,6 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGtNeE56YzZQcDk0Y19DT3VXUTBlNkR1bi1oZVpGalhZazJ4SkdiUmF5YjBCc2ZtdndqZW1hdHN6TXBSZGF5cWJKN28zbE5aMTJVeVN6eWlLWjQxOUpIVC1qZi1mYzVLZDJ1c2ttSEJyczZlYmx2OG5RRmdVSjJDRjNqSEZicVY3alJ3c0dnT2dZOVhVbXJQSlExMEJZV09wTUVSSVNGSzVfTzV1Yk80V1JtbjVta2t2QTNkN0hFWGJIQdIB0AFBVV95cUxQb0tqUlIyVTlEVlJVY3BVYV9KQ1pwLWFFLVJSNDFkanZHZkM1RkljUlJPbTluc1VfUldJRnFOS2txZC1sWXhYaWFlOUNJRUZyWFp1SThhbTloSW9iVk5XYU9xS04yVzNmU1BDaks4VU9CTEt6ZXpGTWxMdW1pYTJwcDJER0tuc1lBSFItNW9UMHA3eVZaUGVJLUxZZW51TnFXWUVmWFdtOWZJMUJGaUJHS3BfcWJLcXItOHAybGtDRkZDYnllRWdNV0VVRkpPN3Vo?oc=5"
     }
    ],
-   "score": 31.3
-  },
-  {
-   "id": "58cc6e2b9a",
-   "titulo": "Ouro tem nova queda com volatilidade do petróleo e de olho em decisão do Fed na próxima semana",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jN1JvUXVBZU9HVk5NNW9qTzJ2VVloSzhYTTlsNUdyM2VOcUJkTkpTdDlwdkVQQ0ZTaWxMVnlnd2k2THZvM0w4bldoQlRwNExiLU9YYm14dmgtMzJrQVE?oc=5",
-   "veiculo": "Money Times",
-   "publicado": "2026-10-21T02:57:16+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ouro+tem+nova+queda+com+volatilidade+petr%C3%B3leo+olho+decis%C3%A3o",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Vietnam.vn",
-     "titulo": "Preços do ouro hoje, 21 de outubro: Continuam a cair enquanto o mercado avalia os sinais da taxa de juros do Fed.",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk02eDU1S0NxRkRHd1d2Tm5jdm51Tmh1SF9uVDlGQ2V4UnV5VW5vTTBCaEdOeHdFX3hJSlpPOVFueUZsN3ZXR3lzejMwMWRHc3hza3FqdFJ0Q1hsdGhZUGhPekhhZFRZRWpaZjFqN0JNcEl4cGdMcjVQNmNfN1dmWHBUM2ZYVmVkSFBZQ1BTX1BjcF9HS2FrRkFMeTBZemcwV1p2Y3pXOUFEOF9vUGQtUg?oc=5"
-    },
-    {
-     "veiculo": "Vietnam.vn",
-     "titulo": "Os preços globais do ouro continuam a cair enquanto o mercado aguarda a decisão do Fed sobre a taxa de juros.",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdllNaFJ2aWpKUDNnSmF5c1pVQWkybENrWk9lLUpPNHZtcE9ocHVtbWpFZk9tcC1qRk1yR2UwMnR1WmNXVXZtWEV2c3I5aDRZd01hOElZcjdRWFU3dDQtZmd4TVdTVW9iVFFlWHhTM0JjSnBlcFZzV2k2dGdybi1Mb21XLWgwUHVIS09rRW5zUHcxR20tQXZJVDZick9IVzNVOEE?oc=5"
-    },
-    {
-     "veiculo": "Vietnam.vn",
-     "titulo": "Preços do ouro nesta manhã, 21 de outubro de 2026: Continuam a cair.",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcmlvaUlrVnM0ay1MYm1CWFQ0VlB4a0NRdEt0ODY4Z0xlcDNObEZ3azNlTUxqcmRQUV9aV1Nzcnc4cnVTMmVweHhvVDNtaGtOaDBzMmhXZ1lYc1NYb2xGQ25Kd0ZRbmhrVmNKc1BlS0dBZGFFQ3hF?oc=5"
-    },
-    {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "Ouro sobe com queda do petróleo e mercado aguarda Fed",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWt5R3dreXNfbFhfaDN4YWVMdlA1d3J1elkxSUdIVWM5a0JXSzI0Si12bzB2Q0ctZmNHb2taZi15YnFMbi01OXV6eG9WbVM0TWc0TFlBTWYzZUdYZnJrbnRkZUxadHJZRFpyWFJBcFVsZ0ZiSXRFdXB4Sm9LYlNsT0J3dG9kT3ZSZ205UHFON2FXXzNJM2Z0UDNDZzJjRG1oWjlPUkRMR1ZlTk1EMldVeTFScGhfRmtYb0ww?oc=5"
-    }
-   ],
-   "score": 31.3
-  },
-  {
-   "id": "1d42ca8914",
-   "titulo": "Ibovespa ganha força e vai a 208 mil pontos com NY e pesquisas eleitorais",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdS1sNFc1VGs1UmlVZVpfa1ZKRnNUNHlTSkdWRDNzV1oyX1o1dTMydVNJSWs5WXJRZ213TU1pZ3l4UmZKcG9zM3lMU1VvVTg3VmpKRTkxWHJVcjcyaFlJek1uaUJpQ0xCNDg2eHNzSnptalZzNWNONUZpeGFtdjMzaTRrWmlidzV1TUtwTGp6Vk5RS0pRZ3NURW5sT2FZRlF0YVpFVThGeVBDMG9fa09mS19BUWp5OGV3RVAzbUZJdDRISUpUQ1UzM1hHeGs5eERLUGVEWElmek1EUQ?oc=5",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-21T14:03:59+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+ganha+for%C3%A7a+vai+208+mil+pontos+com+pesquisas",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "O Petróleo",
-     "titulo": "Ibovespa acima dos 208 mil pontos: três fatores podem impulsionar nova alta da Bolsa, mas riscos aumentam",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc19hNW4yaDRmb2YzOTQ2WVJQSDRQQUZvaWxQVWM3eWZiWVhzVF83NFN6b2M5dGd2eVR3QTU0LXdNUmhVODlMdWJZbVhFOGk2bmUzSlJnNTh5R1FOX2NLcVhlQnVsVDZXWndlOHozc25zNlpHWkRxRThHOVVGb1d5dFZXckU0eURjR1Jlbm5QVXA5RjFiekEtUThDVDFEcU1EWjJmR2dtQWFEY3ZFOUp6Mkt6MU03akNZNDJKeHlOeXFSSVFOS29UNw?oc=5"
-    },
-    {
-     "veiculo": "O Petróleo",
-     "titulo": "Ibovespa acima dos 208 mil pontos: três fatores podem impulsionar nova alta da Bolsa, mas riscos aumentam",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc19hNW4yaDRmb2YzOTQ2WVJQSDRQQUZvaWxQVWM3eWZiWVhzVF83NFN6b2M5dGd2eVR3QTU0LXdNUmhVODlMdWJZbVhFOGk2bmUzSlJnNTh5R1FOX2NLcVhlQnVsVDZXWndlOHozc25zNlpHWkRxRThHOVVGb1d5dFZXckU0eURjR1Jlbm5QVXA5RjFiekEtUThDVDFEcU1EWjJmR2dtQWFEY3ZFOUp6Mkt6MU03akNZNDJKeHlOeXFSSVFOS29UNw?oc=5"
-    },
-    {
-     "veiculo": "EuQueroInvestir",
-     "titulo": "Ibovespa fecha em elevação de quase 2%, acima dos 208 mil pontos",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQak91aDNNTEc0WEJ4Rlo1LUV1TnJzSHNyaURFQksxQUMxMnJCU2VBYlZkV1ZtZGZYdm95MTA2ajBORXZmMTRSUkhaODc2bTk2aHY0N09qUjA2RVQ5dWVleldIOUxfcGE1MFQyNnhiaE1HeDBDb044R3pTSUNONm4yU2cxUjBBeUc1M2lLWVU2amt0ckttSFFza2lOY0Q?oc=5"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Ibovespa volta aos 208 mil pontos com aposta eleitoral e bancos; dólar recua para R$ 5,01",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGFzTXRReFZqMHpaNzZsdVpvOXV3czNTVjJtdk9RMXAtdEpaSVRFczAtNTh1RjVBYVNHWHlVdVFiNWpCS2pqTTZNQmZKcmFya2ZUaEs3dllpM1FXLW5RdEdJcUc3MHljdVNEODlMYV9VVDVFNWl5bjBTUVhCYUNfSXdaVG9RXzM5UU1ob2Q3YXhKZmx5OVNmX09zUEpyUGNfX2o3X2lsOVBpMEllemMtWUR0cUx1T080bE5SLVBR?oc=5"
-    }
-   ],
    "score": 30.9
   },
   {
@@ -687,7 +689,7 @@
    "titulo": "B3 soma R$ 515 bi em outubro com fluxo estrangeiro",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXZZZkdteXVFalh5c2RKNm5lalh2WmZvM1VTNnZEdXpheVdBQVVUY0JzUmZUeTl0UkZuOGJnbVpQODB2V01LUGFheHBOU1VRSV9wUkFyRFhBNTl6NjhwTDdyVEIwdGZFUmZGYmk3dEFDaWNza2Fmb2lCSVpqNkdpYXctcktDR1dyLXh0VEN6RTZtTnV0X2VVdWhnM3I?oc=5",
    "veiculo": "SpaceMoney",
-   "publicado": "2026-10-21T13:26:27+00:00",
+   "publicado": "2026-10-21T14:37:30+00:00",
    "temas": [
     "economia",
     "mercado"
@@ -719,7 +721,75 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWFZteTAxZm1VQnpLVFk1UUxCamVLT1FEQzJfdUd5NkFicFZvVUNnVlBxR1N3aHBLNkNIdVNiUUZsandVQ2tkYkZfdnZyRU9kc3lnQzRMWndiejltOTVYNXNXejdEV09PTGpRMTRKS2hUdTd1Q0VFMW1uN3lqVkFaSlkwNk1Uc0otc2dacVFWMk5qUGU2NEVVRkltRk5pc2dYUGZZb1Bvcm4tb2RJVTlKNXQ2QjZwbHFvOWpZZVBrdW96ZTlvdGRPSE11d3BHWV9jcGQ1dQ?oc=5"
     }
    ],
-   "score": 30.7
+   "score": 30.8
+  },
+  {
+   "id": "df927bf111",
+   "titulo": "Nikolas: Cantor petista vetou áudio de vídeo com nordestinos",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXhXeHJ2MEFuRDZHUG1CU1B6N25EZmVnbHh2NTRzZ1NDb3V1eWdWdnlINkc1d0c2OEtscmNTMXRkZzNHWHhuNC1yMDlxalJSVTFtVDdEUnpfdWxHQmFpWFlhM21ZT3NjNGtaMXluNmZyajczaldBOVBMSTR3QmFPclpPMHBKQkl5aWJ3TUhtT052OEFKYVJfcm11czR1c05xWVozS2hMMNIBrwFBVV95cUxPN1ZRUkk4SHh6YmZBRnVGODFCMUpRbjlJUHg5ZUVRTHFhTGZqWDVyZUJ6dGRXZW5xVFBTRGNkWFFUMGREbVcwSW45T0hGZTQwczBwdWdlNUdqV3ZHXzNoLUxDSVZVODJoWUZxeGtMZXFJZWlkd0xqbnhEejhUM0xfem5pSmdqV241TEYyV2R6VFQ3VG04ZHc2TEVBRE14MmdDQWVSRzZUTWVMQ2ZYalRz?oc=5",
+   "veiculo": "Pleno.News",
+   "publicado": "2026-10-21T14:05:46+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Cantor+petista+vetou+%C3%A1udio+v%C3%ADdeo+com+nordestinos",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "osegredo.com.br",
+     "titulo": "Nikolas tem áudio removido de post sobre nordestinos e culpa o cantor Rubel",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fWjM4Nldqc1RleURUS1h4ck1hajlqOHpoMTcxOU9vTVlZU3lSVUwtQ2hkckNFZHJLWkNBVFluWEk0ZDNkQjl4aXZYLUwtMGRCQV9yTkg2ckRsRFJGeTVoMG5MbnpCcUxxNEJUdG5ERWdiT1hSNGlnLUtqUQ?oc=5"
+    },
+    {
+     "veiculo": "Jornal de Brasília",
+     "titulo": "Post de Nikolas com mais de 100 milhões de visualizações tem áudio removido por direitos autorais",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXRhWTdJdTNHVUNPZmhzVVdhNktqd2pkdkM0WnJHeHliV1NkQ2taVG9MY3UwYXJMVkFUYjFGWWFtZUlET0lMLTZ2RmdRd2tjVjZBUXNYM3A2LVd2TWJkeE1hQkdwNHVkU3dBSmxacVRTbzYwOFdoY01jYVdYb294OTJHSm9JbXMxTWV0QkhaWDNobnNPeDl1NVNOMEQ2aDZRR2FyZWVOeWtHWEp4U3dUaUE3ZUh3VWVPbjExYUQzLTkzRzNVRDcwZVJjSjZfYmxacTlYbmpNUTloMGhrQ193TW1IakVpSGNodDRYVg?oc=5"
+    },
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Nikolas tem áudio removido em post sobre nordestinos e culpa cantor Rubel",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjB2d0QzNmRXYlZiTXV6cGU4S19CcGpPLVJXSXZwWnFKVGxhRWF6YzdLWWpIVVlGT2Fzc0thT1UxeUw4S3NmYS0xZll6REZreGFWQWJMYVZZTzlvSXhOQW1uZTJrQm5LM254VWd5XzkweU12d1k2VmtwbGZJcDV4eXQ3MEFuZWNQTTJRZ2RuZmlzM09SUnV2WmRBOTROUjZYQVE?oc=5"
+    },
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Nikolas tem áudio removido em post sobre nordestinos e culpa cantor Rubel",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjB2d0QzNmRXYlZiTXV6cGU4S19CcGpPLVJXSXZwWnFKVGxhRWF6YzdLWWpIVVlGT2Fzc0thT1UxeUw4S3NmYS0xZll6REZreGFWQWJMYVZZTzlvSXhOQW1uZTJrQm5LM254VWd5XzkweU12d1k2VmtwbGZJcDV4eXQ3MEFuZWNQTTJRZ2RuZmlzM09SUnV2WmRBOTROUjZYQVE?oc=5"
+    }
+   ],
+   "score": 29.6
+  },
+  {
+   "id": "fa3cfcaf7a",
+   "titulo": "Ibovespa perde força com novas pesquisas eleitorais e repercute balanços",
+   "url": "https://exame.com/invest/mercados/ibovespa-perde-forca-com-novas-pesquisas-eleitorais-e-repercute-balancos/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-21T13:48:53+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+perde+for%C3%A7a+com+novas+pesquisas+eleitorais+repercute+balan%C3%A7os",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Exame",
+     "titulo": "Ibovespa perde força com novas pesquisas eleitorais e repercute balanços",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjFrejlZWWM3ZkUzTVNVeTh6V203bmZWaXFPS0M5RmVkUVdPQllJN09PS01FdUR3QUoyY1c0TUhQeE1yZTQzSl9qMTRoRm9QU3JUYVVKcGJ1UzlFeHNDbXdBV3paUGw3cU40Z05LOTdJZ0VPMGRQRDdyMVdEYWxZeEp0cVl0M3NlVHJkcXpDR1FXSUtqcGF5a2FSU082LV9mbjRiTGhtVm4zckk?oc=5"
+    },
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Ibovespa avança 1,57% com juros e pesquisas eleitorais",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXJIYlEyMWVzelVBeGNnT3MxdEdOQkRDaGtDR1Zab3hZOTkwZFJZeE1ZLUd0U2NjMVAwREVfbDVNWFRWd2JuMFRpbnU5TTFwRl9ncUN0N2daY0NJbWQ5QjVLVXRrd2FuVEMzNDRHNkoyNFltNlZqYVpBX3hYazE3SDVzRm9JMzVkSEFsdW1aWmFaZi12RklwQzRzdnRGZEU?oc=5"
+    }
+   ],
+   "score": 29.5
   },
   {
    "id": "9656102f17",
@@ -757,7 +827,7 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkVZYkU4UHFqQmxQeUg5QlFRUEhuS3BzWk5RUU55bVdPakVsVEwwdmFwTTE4Vzc3QjdFNFBvdmJSRmw2WUpJcHVibmFKaERtNGt0SUVJUi1xZVRkUTdGMGt0V3BZZTZHM2taNFdDWnktTEJsWE9XUGN3dE55VHNBenBTMzlQSGV1eVdFOWxCN21JVXROV1dIMzZxeURzQ3h6d0QwYVJnQzlKeTFxOTVSMmxwaUlrUTjSAcYBQVVfeXFMTmdPdTRwOXlQOG1VWlVnZVBLUXQ3STNjMTc1T3NEOFg2WVVXWFF4TzlnX09FODVtaFZUVWhyZVM3ZjYxMHo3VTU1QjhXdDBTSWp5R1pSbzdxUkJ4LTRDVkEzcXZmZU01dHI1UEFkSm9HdVlJNTZFWm9wZFhudk1Da0EyVUdXNkF4ejRqc3Exb2dydktlZ3QtNUZDRUhRdzRzdExpLUtuX0R4dnFLQ2QxYm96b0E4bjUta0lneDllNVp0MzNyTzRn?oc=5"
     }
    ],
-   "score": 27.8
+   "score": 27.5
   },
   {
    "id": "e31e92d1c3",
@@ -795,7 +865,7 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDQwa19xTWVVZjVWdXNxNVBabFpCMEVlc1ZuS2xTLXR3QWhRajRZTlJESkZiV2JVSDByalh2ejlhQ0g2bFNSa2FSbkNwRmFveGIzRHJiZnkxMzdFd0hpcTZ5Y3dEZjRENHlMTFRQTmo1WVMwb0pOanRGYzRtWXB0a1dSYi14STFXeTVWRUxBbHRDRlRCQjBmRDlQbEl4S0VQMWfSAacBQVVfeXFMTzNxdGtmQk4zYjR3RU80UHNhUmljWnJmREFLQWh4Wjh5UGphZTVBb3pONFNUM3RPbjVFMVFqcVF6emR0S251X3ZpaHJVNDBsU3ZlV0c2dkNrRk56bXB4dTF3bktlN1ZDb0dBSmZHRDJEUlJNc00yUU1ibHRqQVFzY2ZyQi11R1BzdnVXT1dXeGxrdEtiWU96QkE3b0VQcjhHSE1lNjdNekE?oc=5"
     }
    ],
-   "score": 27.8
+   "score": 27.5
   },
   {
    "id": "f09c82f342",
@@ -829,145 +899,7 @@
      "url": "https://valor.globo.com/empresas/noticia/2026/10/21/anthropic-registra-prejuizo-de-mais-de-us-80-bi-no-1o-semestre-de-2026.ghtml"
     }
    ],
-   "score": 27.7
-  },
-  {
-   "id": "1b736963d5",
-   "titulo": "Dólar abre perto da estabilidade à espera de nova pesquisa eleitoral",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-perto-da-estabilidade-a-espera-de-nova-pesquisa-eleitoral.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-21T13:11:00+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+abre+perto+estabilidade+espera+nova+pesquisa+eleitoral",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Bolsa abre em leve alta, aos 208 mil pontos, à espera de pesquisa eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BSG05V09qZzFJSTdnRlpHbU5NbnNRVDZpeG12V2ppMWFaSVBXY2MydmI5R0NUZnRwRkZzMnZ1QmE0ODhQZVRPRDJNLWxJckJkZFpQbEZWUDVOeFJ2RnY4YUFHcnA?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Dólar abre perto da estabilidade à espera de nova pesquisa eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbmVzY1p2LWFjWWg1YlZrMzNZSUJPS2U0ZXpTSGlXRjdmRmJqd0gyLUQzV0ZpRVVIUmZDd243M0hoMDhMYlJjNWVfUS1DdnFLbm1lbncxbTJrZTJfdE5pSjJ3NllyeDhtWm1ocUc4d3VSNC1OdWR0NHZwWnNHVlFQbFNtelhLZzN1ZEZXSXY5ZUJXUjFxRFQzOGtmMnVjMW9OSVZmMTFyUmU1Y2NGU1VScnpUQjhweU9GOEFZeg?oc=5"
-    }
-   ],
-   "score": 27.6
-  },
-  {
-   "id": "f6712c9ee8",
-   "titulo": "Fundos de pensão reduzem alocação em ações de 34% para 4,7% desde 2013",
-   "url": "https://www.infomoney.com.br/onde-investir/fundos-de-pensao-reduzem-alocacao-em-acoes-de-34-para-47-desde-2013/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-21T13:44:35+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fundos+pens%C3%A3o+reduzem+aloca%C3%A7%C3%A3o+a%C3%A7%C3%B5es+34%25+para+4%2C7%25+desde",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Fundos de pensão reduzem alocação em ações de 34% para 4,7% desde 2013",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3luN2ZsTXJxTWJxME9EeFRnTU9MZ0J3X3lVc2NqSVlhV0Q3N3N4aVdOcWNvRDdxcVBjNW9nNWwyTnpXZDlEOE9HQXAybS1iamVMak9vZTRhYUluTkN5VHdHd1V4elhGSk1DdHlOZnlCODlJMklYaFJMU0x5NGgzREwzWk1ya0pFSE9PTlFRSUQ3MlBkMDhjX0V3d0tudHpIT0VtOUxLMWI2RWVjSkhmaNIBtgFBVV95cUxOdEQwcExkSmhyY2dkTmJ0dk9GNm5BQVlPQ29XRmo4WnJIdmNIWHRtdnR3NG40QUFhdWM4bFdIZ0RWSkpGaVNESkJIMno4WHRURHZqaE9VU09YOF9yNkZrUnBvSXRtX0hFSGZzUzl2UzRxUjh6QjQ1dUJNSUNScjdYbkQtZ0pSRF9kMFRnUk9RTUE3aGRVR3dZXzFFZ19oUnVhc254T08tMFVITzBEX0lrWlZ3WjROdw?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Alocação em bolsa por fundos de pensão cai de 34% para 4,7% em 13 anos",
-     "url": "https://valor.globo.com/financas/noticia/2026/10/21/alocao-em-bolsa-por-fundos-de-penso-cai-de-34-pontos-percentuais-para-47-em-13-anos.ghtml"
-    }
-   ],
-   "score": 26.8
-  },
-  {
-   "id": "b8b2204de4",
-   "titulo": "Dólar hoje vira para leve alta após nova pesquisa da Quaest",
-   "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21102026/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-21T13:34:20+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+hoje+vira+para+leve+alta+ap%C3%B3s+nova+pesquisa",
-   "veiculos": 6,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "ISTOÉ DINHEIRO",
-     "titulo": "Dólar hoje ronda estabilidade antes de pesquisa da Quaest nesta quarta",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MaWEzcVVrbkFhZUVLRFFFRUpBSzd1WnZrdkVZbzJoeUhORktLZ0NDUlB6eFMyUDd6MGU3ZF9BNHYtY0JVcEtWWXp4emtuWHNRdkI3VUVKSkdzanUyY1FxQ0NfRXVFc0Y1ek5mMHV6bVdXLTdkUlpN?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Dólar hoje vira para leve alta após nova pesquisa da Quaest",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHR5LXFjWnp1NTdzX0EwWDRfWVNMWmJBWmVRLTNzbzB3WC0zQ0Y0elktUlJKZGU0cW96dlVWMmJnb1BNaGpXZEhINHh5UTMySzZKNkd2R0VQeGZEODJmWFdNLVd2OTFtYk1FRDZNSGhvZDV5ZWVYY2RkTl9EUGdOMVd6ekZwT250bEZ0Qnc3MGpJWGMyY0hxTnRGRl_SAaIBQVVfeXFMTjN4ZTRzOEVmc0JhMjlSeGZtTkhDYlRwc0Fvcld0M28tYUF4eHNmY05JN2xHNmR1OE5ZSlh0WlZtNU9la0hjRnVmMXBsUFFtQjFZSGZ6Q29FQXBCN2xfdHYtSTVERVVaS2ZaSEdoYS00bTR1dkNRdVBkN2ZJRVZtVFo3azRnZGpabmtyY09KcVQzQnFud1JJTVNndXdrc0lSbWln?oc=5"
-    },
-    {
-     "veiculo": "Terra",
-     "titulo": "Dólar oscila perto da estabilidade antes de nova pesquisa da Quaest",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY2NUeUVDUmRJdTVDc1haLTFlQ1BaWWlablJ5b3AxVTJMc2g1WWVwcGtfMmpsaHNRLWM2Z2NnbUJidWwxemZZQmMzc2xaQlRpQzZlU19rbTdvSWlRZE9Gb2dMVnV1MmpwRHJ1clVhRjRSbURBWGdROXVLSjF4NGloaHBUcWtZTk9ZdmtfQ1d5WDlwTDBFZTYxUDV1UEJsMmlfa3lFQjMzZXRheFdsbWx1X2JrSDR4V3dLOUNkSnBZb0NsVjEyT2NVVE8zc21mN3h1RG9TanNRcGx5c1BSM3JGXw?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Dólar ronda estabilidade enquanto mercado aguarda pesquisa Quaest",
-     "url": "https://valor.globo.com/financas/noticia/2026/10/21/dolar-ronda-estabilidade-enquanto-mercado-aguarda-pesquisa-quaest.ghtml"
-    }
-   ],
-   "score": 26.7
-  },
-  {
-   "id": "fade69fa7a",
-   "titulo": "Bolsa fecha em alta de mais de 1% com eleição e petróleo no radar; dólar recua",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-petroleo-em-alta-e-cenario-eleitoral-no-radar.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-21T13:16:00+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bolsa+fecha+alta+mais+com+elei%C3%A7%C3%A3o+petr%C3%B3leo+radar+d%C3%B3lar",
-   "veiculos": 6,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "Ibovespa sobe na abertura com eleição em foco; WEG recua após balanço Por Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWF0WTIxNllIQ0g5Vks0U0k1TXh6bWdBY2t4WmtWMWUyLVdXZHdVbFFXMVNiWS0wZXpZU2FJNXI5dkVYNXZaZkJLYWRaeEZhVGtHTHp1Sks3VWtnc25QcG5xSVdiVEx0d3pUWnJzTkk3S1RSQXhFMTB3R1FfNFd3TzdaQTBwY2JCaW83MGtPZ2VhVmhObm5tQ1BkMVJHQjNiVndWeFBRbUZKYy1uQlBtV1BhWnhjS2VN?oc=5"
-    },
-    {
-     "veiculo": "TradingView",
-     "titulo": "Ibovespa sobe na abertura com eleição em foco; WEG recua após balanço",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VSlRzaGVFWDc3Tkhqb0U3MkNGS1NWYnlZWF9GWXZqVGZDbTV5WDNqWGNRbEFWVDVpd1JGY0pHemQ3bFBfa2VJYzRISjlucWhRc205em5MZWYtSnVRX3NJNy1fR2tIVUY1Q3prOVBpanVEVkdDQkE4?oc=5"
-    },
-    {
-     "veiculo": "brasilagro.com.br",
-     "titulo": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho com eleição no radar",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamptbUNkS3FMQXE5dDh1QlBSalZsLUh5VHB6NGQ2OGtnTzRQYTZ4NlhoUEwxQXYyRzFJamd2cGQ5c09VejBHTTRtQWFjN2VVNHcxeGNuOE9OUFN3RjVRdFQxcFJYQVVkYzBqbzNHME9wdkU5N0JtYkJlQUxsVjc5Q3VydVZ5U3FBT3NpMUdXbE1adUZmVUNxRjRNMjhaaktwWTZyaGV5bmdtbnpB?oc=5"
-    },
-    {
-     "veiculo": "iG Economia",
-     "titulo": "De olho na eleição e no exterior, dólar recua\ne Ibovespa sobe",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnhMS1pKWGY0UE83cEpkRXdERXVzVG83LXo3N0VvZ1I2Zm1OUTU1eWJzbDFOakVhOFhucllPQXFXVnFZaXVzcWZCN3lEckJvU1M4bUZQN3JZQ2huRUF6Vlh1U0FGbm51UGZEMTZhajhJZlFXcG9sQlFSMGNpWm1WV0VudjFZRnFKTHpEMmVNRDJLQml5NGpnZzNCalVlQTRTUU9zQ1Zpb9IBrAFBVV95cUxPazNtNDExZC16VlBMQ18xTXpGZGpVRlotNFp3RU14ZDNrbXFYUDlRbHNwX3Y2WmdITXRJa1hiR3lpWE1LcHZpLURLa1hyWEY5MDNXWmJ4TmQ1V2Q4LUw3bzY3dTFzOFdKTkFGNmU0MTdfcGdHbm5wbEFkT09TWmcway1HTHBJVVUteGJ3cmlGdlktNkdGbi0xVFp4WUhSSmFxc0JtVGhSOUlNN2xM?oc=5"
-    }
-   ],
-   "score": 26.6
+   "score": 27.4
   },
   {
    "id": "eec73fbc7e",
@@ -998,7 +930,46 @@
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGVQbFNPalNkcGNpVFljdndqZUljYWJmUklHTGRRVk55dmxBd2RUTTBvTTVoQ00wcVR3dWhNczZENUJBVWJUNlJlajFXM3F1eWllM2NYeGxESUxYVWJiak5peHZDb1VreDNYS01kZkRxa0xkd3ZKYW1zY1Q4UThXVFV4dmt0NWhTbW5Yb2JTbUhWNmFrZ3RIZTNNX09NVFUzZDlIdW5MYVJJX3FwVmE0bnRpTE9FMUZLWV9zaHlrTWRnRVItbEdB0gHHAUFVX3lxTE1EZVBsU09qU2RwY2lUWWN2d2plSWNhYmZSSUdMZFFWTnl2bEF3ZFRNMG9NNWhDTTBxVHd1aE1zNkQ1QkFVYlQ2UmVqMVczcXV5aWUzY1h4bERJTFhVYmJqTml4dkNvVWt4M1hLTWRmRHFrTGR3dkphbXNjVDhROFdUVXh2a3Q1aFNtblhvYlNtSFY2YWtndEhlM01fT01UVTNkOUh1bkxhUklfcXBWYTRudGlMT0UxRktZX3NoeWtNZGdFUi1sR0E?oc=5"
     }
    ],
-   "score": 26.5
+   "score": 26.2
+  },
+  {
+   "id": "58cc6e2b9a",
+   "titulo": "Ouro tem nova queda com volatilidade do petróleo e de olho em decisão do Fed na próxima semana",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jN1JvUXVBZU9HVk5NNW9qTzJ2VVloSzhYTTlsNUdyM2VOcUJkTkpTdDlwdkVQQ0ZTaWxMVnlnd2k2THZvM0w4bldoQlRwNExiLU9YYm14dmgtMzJrQVE?oc=5",
+   "veiculo": "Money Times",
+   "publicado": "2026-10-21T02:57:16+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ouro+tem+nova+queda+com+volatilidade+petr%C3%B3leo+olho+decis%C3%A3o",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Vietnam.vn",
+     "titulo": "Preços do ouro hoje, 21 de outubro: Continuam a cair enquanto o mercado avalia os sinais da taxa de juros do Fed.",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk02eDU1S0NxRkRHd1d2Tm5jdm51Tmh1SF9uVDlGQ2V4UnV5VW5vTTBCaEdOeHdFX3hJSlpPOVFueUZsN3ZXR3lzejMwMWRHc3hza3FqdFJ0Q1hsdGhZUGhPekhhZFRZRWpaZjFqN0JNcEl4cGdMcjVQNmNfN1dmWHBUM2ZYVmVkSFBZQ1BTX1BjcF9HS2FrRkFMeTBZemcwV1p2Y3pXOUFEOF9vUGQtUg?oc=5"
+    },
+    {
+     "veiculo": "Vietnam.vn",
+     "titulo": "Os preços globais do ouro continuam a cair enquanto o mercado aguarda a decisão do Fed sobre a taxa de juros.",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdllNaFJ2aWpKUDNnSmF5c1pVQWkybENrWk9lLUpPNHZtcE9ocHVtbWpFZk9tcC1qRk1yR2UwMnR1WmNXVXZtWEV2c3I5aDRZd01hOElZcjdRWFU3dDQtZmd4TVdTVW9iVFFlWHhTM0JjSnBlcFZzV2k2dGdybi1Mb21XLWgwUHVIS09rRW5zUHcxR20tQXZJVDZick9IVzNVOEE?oc=5"
+    },
+    {
+     "veiculo": "Vietnam.vn",
+     "titulo": "Preços do ouro nesta manhã, 21 de outubro de 2026: Continuam a cair.",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BcmlvaUlrVnM0ay1MYm1CWFQ0VlB4a0NRdEt0ODY4Z0xlcDNObEZ3azNlTUxqcmRQUV9aV1Nzcnc4cnVTMmVweHhvVDNtaGtOaDBzMmhXZ1lYc1NYb2xGQ25Kd0ZRbmhrVmNKc1BlS0dBZGFFQ3hF?oc=5"
+    },
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Ouro sobe com queda do petróleo e mercado aguarda Fed",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWt5R3dreXNfbFhfaDN4YWVMdlA1d3J1elkxSUdIVWM5a0JXSzI0Si12bzB2Q0ctZmNHb2taZi15YnFMbi01OXV6eG9WbVM0TWc0TFlBTWYzZUdYZnJrbnRkZUxadHJZRFpyWFJBcFVsZ0ZiSXRFdXB4Sm9LYlNsT0J3dG9kT3ZSZ205UHFON2FXXzNJM2Z0UDNDZzJjRG1oWjlPUkRMR1ZlTk1EMldVeTFScGhfRmtYb0ww?oc=5"
+    }
+   ],
+   "score": 26.0
   },
   {
    "id": "474586b38c",
@@ -1022,7 +993,25 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkdHN3lVRDFrdDV4VHdhdWdQenVWaWl5emRad3dkX1VJTWxfOU9FdXB1aGdXY0NGdTByNW1aajMtX0VYdEQtcHBQeWplOEUwQXpxYzl2X1dNTFY5SlVIazBqZllsakpYTUI3eXhxQ2M1TjRsMGtlUWlZR2NINl9ZM3pnWHZlVnp4YUYwTTBzbUtuM1k1TW84STZlQ3Y4ZFE4UFI4a01NM3ZwVVRidlZSRjYtYm1NVUs0SzJr?oc=5"
     }
    ],
-   "score": 25.2
+   "score": 24.8
+  },
+  {
+   "id": "a2fee417ec",
+   "titulo": "Estrangeiros retiram R$ 1 bilhão em ações na B3 em 19 outubro",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/21/estrangeiros-retiram-r-1-bilho-em-aes-na-b3-em-19-outubro.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-21T14:08:44+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Estrangeiros+retiram+bilh%C3%A3o+a%C3%A7%C3%B5es+outubro",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 24.6
   },
   {
    "id": "2b6d1bd22b",
@@ -1046,7 +1035,7 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2dJY1FDSkxHcUdCYnNqeHU1bExmREZvTGNjMWdsckZEMDFtREFkcmRXTGN3bTBmamhOakpJQWVzRE05dU00T21tNkdpZ2RUOU5GUFZTWk5sc0ZwUXVFamlaZUxSS3NfQ0dUVU84czNjSmZiNVJHbHdiR1RmVllTYXB4U3BuSnRQZmVYQ2RJcHpwTEJVMFBuS1NLNi1jajFOTE1sWVAzeDhfbGlnTU5USFNKY05Hc0g3bkFVa25qald6NGts?oc=5"
     }
    ],
-   "score": 24.9
+   "score": 24.6
   },
   {
    "id": "f7cc59d6bb",
@@ -1064,7 +1053,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.9
+   "score": 24.6
   },
   {
    "id": "c7c0abc0fb",
@@ -1097,7 +1086,7 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWpiaUt3NTNSb3RKVnJKY0tydkJJLWVSN1V3eTI3OGVwRkR2ejNZTXlFS042b25NbjRWanNITnZhRFUzNEVZNWFHWUt6U0txaDRCcGpjeFc2WkZuVjFlSlBBOFNFYUtOTVlKUnhsWDEwTW9lZWZxSmI4ZFN4clZiTjNfU2RDMWVzMkJkR21lUHZmcGpCMGpTUXNidFY3U0pfcENGWlZSOWNjVUJBUU9XZ2g4dXNDbnJvN1hib0U4WG5nOGw1?oc=5"
     }
    ],
-   "score": 24.7
+   "score": 24.4
   },
   {
    "id": "4017becdd6",
@@ -1122,40 +1111,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFN0MmdBRXF0TDZSb2lwOWpXUldHOVlEb1Nfb3B5RUJIZHNFajlMV2JxT0NNYUd3eV93X1MyNU9Ld1BIY1EwZDJfalBLcU96ZFFwMW00Z2ZtWTItamw4SEs0TlNrOWE4aThyVEFhVnhnaWNpajRWV2ZJYVhMQ0hIZ2FKY1BKa1JSWEMtMGVPRDZjZWY0ZEFsdm1qc3h6QW9BajREUmE5cmhfTExvT2pWU2JxSVV4MHVxb19SNVZBc0dOSUI1dVJ2bnIxTnFtTDUzdTZJWGRVZ9IB5gFBVV95cUxOeGRuZGZjTEZyRmZReTJfN3R4ZDlUNVVNVTNOeGRpajE3NDZYanJXeHUxd0pRSVo4V21fVmpDUUl0QjUyV3NpMzFIQVRBZUthMGRrdFlOZ2paR29ObXRJem9HZk5oUm5LWm5lYi1QU0lVTGJfeEs2dzZFdWlwT0ExbkVsQVBtRjFlQkx5Tk4wUlBmREVFRU1scVE3RnQ2NDV2R0ptdW8zOTVhemdsbkxZUnpYZlg0NE8ydGlGdmZocWo0N29hblFhUE5IZXVsUE5pclhTVEU5SnVwcENVZ0E5N1Y2VHAyZw?oc=5"
     }
    ],
-   "score": 24.4
-  },
-  {
-   "id": "6261e90025",
-   "titulo": "Pedidos de recuperação judicial no agronegócio diminuem",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjY5X2NfbHpJZENyaFdkQ3pleW9WNDVvNVNNSjlXNFlEekFDUlM4eUhoNFB2NlpXbTBmYVJhS28xc3RKbzlIamFNYktCX2tQZWtlVGtqSkJmcWZ4UmlDT25BTHhpRk4tVW1sbTRmaDYwVEk0UUlnamRxbEk5WnRyVklYcFJVWUtzWEtZNUdhZHJlUllDMlVsV0hTeW1ENXNL0gGkAUFVX3lxTE5Nbk9feHVnTmE5c3habE5JM2NmYUtGYW5BSTZyMHg0UUlvYkF2dV9uSHhBaWFKMWJBMGlzRnVHM21fSE5iSGZxNndCNWM3LUVEOEYyT25KVHhqeXFlem1yU3FRMldaTUlyODlFVUd6UjMxWk1EUERHcVZNVy1tMzdGeVRIUkJ6bFZIVks0MC1BelZzRU1aZnZpaHpvR2V3TGxub05i?oc=5",
-   "veiculo": "Acrissul",
-   "publicado": "2026-10-21T12:26:29+00:00",
-   "temas": [
-    "economia"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pedidos+recupera%C3%A7%C3%A3o+judicial+agroneg%C3%B3cio+diminuem",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Agronews",
-     "titulo": "Mato Grosso lidera recuperação judicial no agro e concentra 1 em cada 4 pedidos do Brasil",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2t6c2pSZkZtUkRyUVowZU5FdTFYbVJ4MUNNV0NibnkzM1ZyQkVqZjNlaS11djgzVXoxVmlfTlU5eWNUQ3p5MTVSR1BnV01MckpUS2MxdEZpRzNLZTNfUnYtNi1hZllsZnFxbjJLZ1NWM0h3WW9HNWVfTmFlS3NPUER2NzRWeE4yOHBEcHd0eUVtMWczYUdCNWpZRDZRVXowb2t3TVlLYlFaN0pkdENENnNWcUJMTnc?oc=5"
-    },
-    {
-     "veiculo": "Jornal Opção",
-     "titulo": "Goiás concentra quase 19% dos pedidos de recuperação judicial do agronegócio no Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGZFclVYQUwzYXJyRHU0NU1XRmplbU5UOF9VT0xmSGhJYklFNFRTYks5RlNqZEp0LUcxSjFISWtYaFhKRHcwc3RKNjEzb3o0SGROemdsU2NMUlRQX01UZTlMcHJLblpKQjNnWHIxd0tpVklpYlhHTlluS3BLV1BxNEJpODc4dTB6WHZHRWRwU1pmUjdfSWZZdGJ3SG5HMEtnd0ItTzJnV2Yxb1hvTHhnNG8yUktob3d2T3kzOVlodjB0bWl1OWVXNWEwbUFJMVAxUFJZcldhODk?oc=5"
-    },
-    {
-     "veiculo": "CBN Goiânia",
-     "titulo": "Pedidos de recuperação judicial no agronegócio caem 20%",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlF5U2trTnNDVEl1d0ZlUmVsaXBiRGlNanBBeVdDM3Z0SmlRbFl0cWlUanlSUVhwdm5DWGNnZjJHS3ltNW1GX1dHSUE2eC0wdTdnSEpPX3RCYmRtQ2RtSGp5ZlplMFFZTk1QSmRWMEtmMGVrXzd2dTk5UllNUERLUEdCUDF2blZKMWptc3JGdFo2V3FZVEZjcGpSRVh4VkhYYXNUUUwzN3hodjNPUkxTMDRjbVF5VUkzOWMzUUhMWkRVQQ?oc=5"
-    }
-   ],
-   "score": 24.3
+   "score": 24.1
   },
   {
    "id": "cdfba8d70f",
@@ -1175,7 +1131,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.3
+   "score": 24.0
   },
   {
    "id": "45a31dbf97",
@@ -1199,7 +1155,7 @@
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRnR6TzVtTWt3V245bDBJQ3lud2hzOE1VVVdPcFNNSFhQb2ZjLTNFX0JXWWtJVmxkRW1iWGlCYWFTdV9WZngtbU5pUnBZQVUwQnNMOFNvMHdsb3JwTVVidW1ocXhPSk5jMkNmXzdtYVVWZmJabkNNSmFPakMwLVA5aFdINXEySzBmWWE0aDR6ZGNVQmlXNWdmcXhQMVZQTWx4S3JYNWxTU3o4akVmeEVtY0ZrUFRYN1NyYjZIV0ZvNGszbk0xMDdFTDg2Rjh1b09BVV9yUkE4MEpUMzMtc3YzN2lDeG_SAeQBQVVfeXFMT0Z0ek81bU1rd1duOWwwSUN5bndoczhNVVVXT3BTTUhYUG9mYy0zRV9CV1lrSVZsZEVtYlhpQmFhU3VfVmZ4LW1OaVJwWUFVMEJzTDhTbzB3bG9ycE1VYnVtaHF4T0pOYzJDZl83bWFVVmZiWm5DTUphT2pDMC1QOWhXSDVxMkswZllhNGg0emRjVUJpVzVnZnF4UDFWUE1seEtyWDVsU1N6OGpFZnhFbWNGa1BUWDdTcmI2SFdGbzRrM25NMTA3RUw4NkY4dW9PQVVfclJBODBKVDMzLXN2MzdpQ3hv?oc=5"
     }
    ],
-   "score": 24.1
+   "score": 23.7
   },
   {
    "id": "badccccb4c",
@@ -1217,7 +1173,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.0
+   "score": 23.6
   },
   {
    "id": "18fdb2f388",
@@ -1239,70 +1195,6 @@
      "veiculo": "Tribuna do Agreste",
      "titulo": "IGP-M registra alta de 1,59% na segunda prévia de outubro",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0FNU1RzT1NrbHFveXVuZ1VqS3hLc0Fzd3d0c2cyY2ZNOGlxS2J1VFRZU1pWM21jX2dtbE53X28yUnZ6cUc2T1FvSzhnbDlCMTJpYWtUNjJDWnpaR3lPR3dheExWT0xOUjQyeEJqOXJlcTl5NjJRb280QnpSWHU5T1dZVkNzSV9lYTd5NG92UnlKaGtSdXY0OEJaY0tCeE9SRnNZdGtkSHlmOWUyMTBuam1taUtmdXM?oc=5"
-    }
-   ],
-   "score": 23.9
-  },
-  {
-   "id": "dbb37f2966",
-   "titulo": "Dólar recua a R$ 5,01 e Ibovespa sobe, de olho no exterior e com eleição no radar",
-   "url": "https://g1.globo.com/economia/noticia/2026/10/20/dolar-ibovespa.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-21T13:20:53+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+recua+5%2C01+Ibovespa+sobe%2C+olho+exterior+com+elei%C3%A7%C3%A3o",
-   "veiculos": 4,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Ibovespa sobe aos 209 mil pontos com bancos e B3; Petrobras recua",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjNjMnFfaGM2SDlwSWpmdEE4ci1mbEhzaUNoXzBrNk9JV0RDVnlTcGJkZ2ZYSmx6dkVYQTJXRWhfa0M1Z2JDWlhmLVNTNWk4QVc4bHE0SXdsTDBGSXJ5MWJ4VVJRdF9MZWQ0VjBpblo3Ykt0UUNqTEVqU1VCYUJMSzBQMDNfMTF5LUZCSmRaeThVYURPaXFmb1QxTTQtQQ?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Ibovespa sobe aos 209 mil pontos com bancos e B3; Petrobras recua",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjNjMnFfaGM2SDlwSWpmdEE4ci1mbEhzaUNoXzBrNk9JV0RDVnlTcGJkZ2ZYSmx6dkVYQTJXRWhfa0M1Z2JDWlhmLVNTNWk4QVc4bHE0SXdsTDBGSXJ5MWJ4VVJRdF9MZWQ0VjBpblo3Ykt0UUNqTEVqU1VCYUJMSzBQMDNfMTF5LUZCSmRaeThVYURPaXFmb1QxTTQtQQ?oc=5"
-    },
-    {
-     "veiculo": "Bom Dia Mercado",
-     "titulo": "Fechamento: Ibovespa sobe 1,6% e retoma os 208 mil pontos puxado por bancos, com eleições no radar",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa3E2WUNINEh2SXJSN0t5XzdEU2hSZHFhMF9iVTlLSHFhb2oyQmIzZ0FwZlZ1ejJfbmxsV2Fmbkc1TVBJRldvQThaZm5DOC1XdHJQWXlIanNEQlppaXFrVXpLQk52YTFNRFl0Ym9NMko2c2JieGFveTYyTFVVS1lVYTREcGszelhFSHBWbjROeFVfTkRhSmZKektza1JwOGNOemxJSXNLbTJTNzJTVWhBNll2SHZKdHNEY3hjNjlNOEFiT082WUNoNlpTXzNEZUVZdGpJLTE3Nm4yQUJyOVlJRVMzbk1OVGtUYm9GYTlSRjlvZ0RZbUVsOGVWSQ?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Ibovespa avança 1,6% impulsionado por bancos e com eleição no radar",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0tEOC1WQmY5V3RxRTdzMnUzNmJOVFlVbkxzRVFEbFEzMWlKaHR1bTN6VndtUGpiMWwtSUhiX3JmbE9pOWYtMklxeDlsRFR5SThJZkZ0Wk1iUXdLVk1JdkdLSDBNemdHcWhSVm1CRTREMDVOckhGOWhDZGM1RXpUYWpqeDZCYjk4S25TWTNhcTBsZXM2ZEVJMjdxMS1DY1hIOGRuVjdYYW5jSHlmM2g4V1RFTDlkVlg1SWtVaFVoajh4cXczZ3hOVGxB0gHYAUFVX3lxTE95Yl9IUk1OaEkxVFFSd2taRUFnR1pEOUZzMnd6Q2o3RG5mdlJQaU5JWVJvN3FIRUZJX2hGVVNtSXY2WG9iQkxxdEZRZnZjeWwyXzkxa0Y2VUtJdFRBblpmaGFOajJ0MDQ3MzJ0eTZpeEZhUHUyeDNOT3VHR3hNcFRNdjJXYXNqN0NLMjJVd2JjbHBCdGtsZ1hsbG13Z2phQXdmUVM1bDdXb3N6eE5kTjdOSlZERVhFdFBJaV9uN3l5a1hsYlF0UmthazNsSG5tRy16cGNGTUtFZQ?oc=5"
-    }
-   ],
-   "score": 23.6
-  },
-  {
-   "id": "16ae82dd74",
-   "titulo": "Lula edita MP com R$ 6,4 bi em crédito extra para Brasil Soberano",
-   "url": "https://www.poder360.com.br/poder-governo/lula-edita-mp-com-r-64-bi-em-credito-extra-para-brasil-soberano/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-21T13:04:11+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+edita+com+6%2C4+cr%C3%A9dito+extra+para+Brasil+Soberano",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Money Times",
-     "titulo": "Plano Brasil Soberano: Lula abre R$ 6,79 bilhões em créditos extraordinários para exportadores e Defesa Civil",
-     "url": "https://www.moneytimes.com.br/lula-abre-679-bilhoes-creditos-extraordinarios-para-exportadores-defesa-civil-brasil-soberano-jcav/"
     }
    ],
    "score": 23.5
@@ -1329,7 +1221,7 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzZmSDJNODRuN3NLRHJTTkEyNjE5TVd6a3ZfNUc3ajF3cWQ2X1l2bTdkXy1zTWp1VHJTTDBhYVc1WnNLQ3Y0dkYxangxNGZ6ZzBYMnJjcUpVQ3NmekY2OEdWYnk1V0c1MEhWdEtmY0lOVGwzdXpjQ0hodWJlXzhncEpkWFJKMUd1MWtvY3ZYOVd2UDF2bTlLRHlB?oc=5"
     }
    ],
-   "score": 23.0
+   "score": 22.7
   },
   {
    "id": "d8459f2912",
@@ -1353,7 +1245,7 @@
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWjljcF9tZ2syd3ctNFVWcTl1Q1Jtam5lTmVYcXdETGZBYlAxQjlyZmcwLVlOSVFsMEphNWRzWVQ5dWhNMDZXZURjeURLVEtOMFRfNU1oMlFSQVZMOHhZT2g3Vmc0ODJPNlpCT2xTV01aaXJyZ0VlcWlRWEZveVItUUZTSEhDY1hDNTlVNHhDSV94R2p3MXdZeVJYXzJrZGtNUTkzb2E1dEsxX2VwWW9USnljNTJhNkJpQlVKRXJVekJPdzlYcF8zVUwydElCTnU2Qmk3RjNzSFlxQ00xMGJQdV84UkttR3FWR3pKSGpvRVVseXFrYWx6MzAwbWxGWjROeTNRNDN3?oc=5"
     }
    ],
-   "score": 22.9
+   "score": 22.6
   },
   {
    "id": "e9f9855aaf",
@@ -1377,87 +1269,166 @@
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWgxZVI4ZWZKNk9qTUlOTGt2Y1d2dTdQQjBSZW4xNFpRWS0zMTRPblgweHpuZkdzSVJwTWtMTVlHUGRRb0ljeEJKWkd4c05RUUgydThBTy1iSFBHX1d2dGNLNGsyRzB3ODBvUnVnXzVpZmxDMlNEZ3d1dXBIUUNDeWVMRzJoSkFmMjRZSFVyMERKdkxFeUNjdS1YMU9ESU0waWZTZ1JuVmlreGRPd0dSemdDSkJkNUZVSWtJeGlTLUZ1XzI2UXFlb2o2TdIB2gFBVV95cUxNUHFQUkxIWDUzaDZzY2w3QlZLZGtsMjZnMEJZNUU3ODlTYkJlQjFPRWY0bllEQ2FaLTdhUW1PWFJmVjJyNGx5ekstSThsNFloLVJYQl9fbWdvRzNfMlgwT0hGTzREb2U1M3NoTmlqME9WSXQzRGNrTWJNc0Z1TnQ4Q0N5dGJKMEYtMkM1aUpqSzJrcHdXOFBvakl5NmZLWHVDWk44YWNCNHRiYXRaVEZWRlNud3hkVjRBQ2JFbktRdDVqQnBtaHlVc3RIalJnWEV3ZmlRQzByVVdqdw?oc=5"
     }
    ],
-   "score": 22.8
+   "score": 22.5
+  },
+  {
+   "id": "4e8700a6da",
+   "titulo": "Queda de juros pode adicionar R$ 4,9 bi aos lucros da Bolsa; utilities lideram ganhos",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemJkWnlyS1NuWnQ3MDlmc0ZzcXRrUUFJQ3ViMGh3ckJoSm5GM0dnbGlJX1YzbVU2LTR4V2w3a3RLdk1lbEpPTU5kTDZaSEdLbzR4UjJ2OFdGb1NrOFhzelVwQ21GUzYwbFRBbXBNRm1wOG9oNThNQ2p6cWVIVEZrNEItUy02X3kxYVFlR0hpZUo5WldOT3FsQ0E1VkNYN04tUG1ZZGpDVEUzOVo4LW94RU1PaVB0VkM0N0JZMkNR0gHDAUFVX3lxTE9HSTFEOFVkMWIwQ3kxOGVYU0o3ZU93Z1U0U0d4ZWt0S2dSc2JWUDk3c2QwaHM4VHd3anpOeEVmM1NQelRfQ1ZZaXIzbUIzbkkxSm1wdE1oZ2thRFozSVdOR2Z2d01YbXBvT0hXMHdYUkszTzJob2VjMllXaVluRndwZUNHeGNsLXJQMzlIeVRTb0ZxekxkcUFrRXB0LUtKVTNEX1FKeFpnczZTeW51UEY4RWEtWjRCQWZfNERVN2lXeFFzVQ?oc=5",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-21T09:00:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Queda+juros+pode+adicionar+4%2C9+aos+lucros+Bolsa+utilities",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.5
+  },
+  {
+   "id": "7293da9cf3",
+   "titulo": "Petrobras pode pagar bilhões a mais em dividendos do que o mercado espera; BTG revela suas apostas",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbk85N2F4ME8teU54VjFSR2t2M1pTZm5VX1lkbDY5UExBeWgxeUJON1N3QnB0OXB1LWJKZ3B3WEFNN3k5N1I2d0RDa3dMSHhUTktvM1dHTUpueHRUSU1qQU1QTHU0SFdzREhXUlVMOWh2TzZHS0V0Sk9oaGotOFNVTUFpNm5uQUQ1N1RhMU16QkZzaEVJWnFwT25RLWozMUF3d282SEFaYzBQN0NWeWhuVnozS0ZLUFVqUUp6bFNkQ2ZLY0ZSSHRuMVRnZ1NTX09qREp6YllIcU4zTktveERqN014bmh0dzZlY0RRNNIB8gFBVV95cUxNMDdIbWh5UnlEZEt0bzh5OFhjUURscF9ya1I5TzFlUDBnLXI3RkgwVE9rM0RBRnNmVUphRGJJbjg0alhvY3pMWjJkLVhPZzY4bXdFV2dVRF9KSHc1ZTNNZ2ZscHNlV3BndnpGU3phZ2FDei1LTnZyQktldHRkNXNVY3ZPcHh5NjJZZEdSQTZJakFmVXlkZFM1YzJOVWZ6aVFLbnhyeFY5WUVuX28xcWZJOXVaZHQ5MU1jN0ZqNTBHZVVmT3dqR09fd0RRZWJOOXZtMDl1cE52QzhsRzI1dUxlU2tiRHVzSWw2ZUF4bFhQR29SUQ?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-10-20T20:51:25+00:00",
+   "temas": [
+    "comportamento",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+pode+pagar+bilh%C3%B5es+mais+dividendos+que+mercado+espera",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BPMoney",
+     "titulo": "BTG projeta até US$ 4,2 bilhões em dividendos da Petrobras no 3º trimestre",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2QzMi1WVDBWcUpnOUhxOHdKODFoMmhxcUxuTmtoQWR2eDQxR3ZYMVZXUWhJN2Y1Y0t1UFhUT05laDRYTmM1dEEtWUpxUml2NTZDN2l3bFJOYTBadDZIVnh6VnBIZ3ZXaHlBdDB0ZkthS25WOUIwbnZuVUg2WjlHRlFhN2x6SlN2WmxV?oc=5"
+    },
+    {
+     "veiculo": "Suno - Investimentos Inteligentes",
+     "titulo": "Petrobras (PETR4) pode surpreender com dividendos de até US$ 4,2 bilhões no 3T26; veja projeções",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTVPWF9qYmd5Nk1VYlB3ckRqTmZJMzlHSUZSaTB4aW5xOW8tc3d1TTJMRDZCZjVSVW1VbEkxT3E3blZpa05VOEhXLVpvdmJxemVCa0RuamItTDNYZFFLb0NXRlR4SGdPd0ZzcUN4c3ZMMk81eUVfazh2Ty14OXA4ek5xZm41UTJmd3fSAY8BQVVfeXFMUGxucm1VM0NNcnRBa2tZcGtBSTktWjBIcHlxWDNaalVtM09sLTRCbEpkd3hTcWJUWXdibXBJVzZlZnhxSWxMb3JmdzExcGs0Z2hBb3ZSYk5weHVHM0RTZTRGdHdCdWxsMW14UGQ5Qmd6YmZzTmx1cm9hX0VFeTRoS3JSbEFmMjM0b2F4TzBxQ3c?oc=5"
+    }
+   ],
+   "score": 22.4
+  },
+  {
+   "id": "2b3bb44f9d",
+   "titulo": "Inflação em Curitiba fica em 2,72% em 12 meses",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQi1DVzQ0QVFCZW1BaFI3Vk5IanRBMUJMMTRHYUZldG5DY2pLRENORDQzVHBRRmg1eFFGOEljWWh5MW1iZ2FMSTZZZG9jLW9VRnBxN0xxbUhWZGprZ2hkSW9uN0Zsdk8yTEtpQlgtMFZGeXQydVRYYlpQMWlGZXYxTmh5MXNiZVd6bThBZ25Vb04?oc=5",
+   "veiculo": "Jornale",
+   "publicado": "2026-10-21T01:06:44+00:00",
+   "temas": [
+    "economia"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Infla%C3%A7%C3%A3o+Curitiba+fica+2%2C72%25+meses",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Bem Paraná",
+     "titulo": "Inflação de Curitiba e região fica em 2,72% em 12 meses",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZk9HWGRPSTVUbHFJZWRjQm95dzJIUzgtTXdBYUdHdEd3VThVOUFaRHdOZzI1TVhMZUNMVU5NWWtyLVJqWTRxQkJ1aXJRUUlTRlpxVHB3ODZJRkIwcG9MR0FJQ0E3RlF0QXlLdFRGenl1WlByNWlERlQyVW54M1pic00tdnBrVTNJM2lDWXdLZ3BCc1ViaUVxSlZXaXZ3UWNfRUdB0gGoAUFVX3lxTE5ydXlSZ2EwTVJ2Y2ZFOUV0WFpYLWVFZzVUc3hQLVA4MU04clBteHVFMXNCOVROZnRPemhrZzhtZzhSRks5ay1aR0NHaHBJQkFmTG1wQVBUbzRKX1dLUExZUGs1OEhHM2NnSXlqU2R1b05UT2U5ZmNvejQ5bmFLeUFXMlhNS2Q3NVhENmVnTTdjNE9oZ3l1TklhYTdTdER1ZEpiS0JBZndKMw?oc=5"
+    },
+    {
+     "veiculo": "CBN Curitiba",
+     "titulo": "Inflação em Curitiba fica em 2,72% em 12 meses, mas preço da cebola mais que dobra",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMlkyaUFNcnpuS01uQTVVejVQT1JlVHU4eVVFellzUEtHSmZ5WkVVYklnc3RsMGFPNWJTOGNUNVhJSFVMd1pJRGs5QU5nMHpmN1VFNjZZZ2pwNXdMdTdQMWM5MUZqTURlMXdXM05TT2pKQ1p2dlo1QVBvWktGTU5tWkJtZ3c1QmNOd2J6TlRDSXVvV3NsVlZlYVFDMVhaSjhjT2dMZW1MOTdTczhYRDVfbUR0Qk44TFU?oc=5"
+    },
+    {
+     "veiculo": "HojePR",
+     "titulo": "Inflação em Curitiba acumula 2,72% em 12 meses, abaixo da média nacional de 4,58%",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkpmRDZ5NWJyR3o4b1pHWmM1RzBCU016UC03eGlMeDhIYmdpNHpmZHRMSjlMc1VmVFd3eUdYMG9BT3dVbWxINU9UcEVkeTZyT3E1MEZmX0tJV0JYbWMyVXBzMEJhTjFLQnlvdDZsdk5oSmNpbHNLZGE2a3R0V1FqYzNCNF9zLUVnZzNMWnNBOWxkVTh0NVRjY2dXVWw?oc=5"
+    }
+   ],
+   "score": 22.2
   }
  ],
  "falas_e_videos": [
   {
-   "id": "9d8896d0d7",
-   "titulo": "Flávio tem 45% contra 44% de Lula no 2º turno, diz Quaest",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-45-contra-44-de-lula-no-2o-turno-diz-quaest/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-21T11:03:13-03:00",
+   "id": "c073cca6fd",
+   "titulo": "Nikolas diz que postagem sobre Nordeste no Instagram ficou sem som",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME9ld3lQTmJlU2FIMTZkRTNfSF9aSHh3a1JSbFNFdTRzNXdhVmliUW1OOW1YbW1PRTJlYzQxejRqWkZHSU5KSldsUDNZZkNuXzFIVDd3NlN6dXhic1BPMEhaZHJPamlEemlKRkxLT3l1NTV3di1ndkgtZllPa3ZSa1pwMGhLLTBLWFpmejhGODBXa2RGejd4ajhLdGZfaEUzYV9SZVRON2k?oc=5",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-21T14:37:00+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+45%25+contra+44%25+Lula+turno%2C+diz+Quaest",
-   "veiculos": 15,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+diz+que+postagem+sobre+Nordeste+Instagram+ficou+sem",
+   "veiculos": 29,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Exame",
-     "titulo": "Pesquisa Quaest: rejeição a Lula cai para 47% e fica abaixo dos 52% de Flávio Bolsonaro",
-     "url": "https://exame.com/brasil/pesquisa-quaest-rejeicao-a-lula-cai-para-47-e-fica-abaixo-dos-52-de-flavio-bolsonaro/"
+     "veiculo": "Metrópoles",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas chega a 146 milhões de visualizações",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTRHSmRnQW85QlZJbmRvdDQteWlsNGU2WVRkM0lRSnJaMlJoMkZTVk9NMV9DV0E4UXVaWVg5TWZOTW1RRUdDekNhNTJPODNxMmw1UmxhMmJ1eWFjWlY3SWZBWExzT2NUdUdaVjZCZWI1eXg0SEdKUUM2YVRyUmtnX0pXNkMySXV1a0dfeVRrempGdWVjaVpteWhTaFYtMUU2VWFRNmNIWkM2ZmtBWVE?oc=5"
     },
     {
-     "veiculo": "Money Times",
-     "titulo": "Pesquisa Quaest: Diferença entre Flávio Bolsonaro e Lula diminui para 1 ponto e cenário de empate técnico se mantém; rejeição se inverte",
-     "url": "https://www.moneytimes.com.br/pesquisa-quaest-diferenca-entre-flavio-bolsonaro-lula-diminui-para-um-ponto-cenario-empate-tecnico-jcav/"
+     "veiculo": "Metrópoles",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas chega a 146 milhões de visualizações",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTRHSmRnQW85QlZJbmRvdDQteWlsNGU2WVRkM0lRSnJaMlJoMkZTVk9NMV9DV0E4UXVaWVg5TWZOTW1RRUdDekNhNTJPODNxMmw1UmxhMmJ1eWFjWlY3SWZBWExzT2NUdUdaVjZCZWI1eXg0SEdKUUM2YVRyUmtnX0pXNkMySXV1a0dfeVRrempGdWVjaVpteWhTaFYtMUU2VWFRNmNIWkM2ZmtBWVE?oc=5"
+    },
+    {
+     "veiculo": "Revista Única",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas Ferreira atinge 144 milhões de visualizações no Instagram",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnFNRWFtRDZKRWVKS0sxNVBnYm9sVkNvSmY3UHFPRVV0ZDFycE9kMWJyR1RuNklKV3VZQVhsZ0RpY1A3WHE0LXNHNVZDV1h0ak5MVUk2Uy1lQWw2Vk16YkkxbXY4UklVYmNhVW8yYUR2aHFCUmFXYm90N254S29lM1FGUDVoZzJ6R1lKNTRHWFgzRGdqVk9RTVdQYm14bXRSSFRENmxHUUI0S2E0S3A5QXhsVGhnX09Lc3V3MmdVOWc3anhRZnc?oc=5"
+    },
+    {
+     "veiculo": "Portal49",
+     "titulo": "Mesmo sem áudio, vídeo de Nikolas Ferreira atinge 144 milhões de visualizações no Instagram",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1Z0aDhQdXpwYmF1YWpGM29nTUxsVzc3ZkJzSFZBMHRLdXlhcDA0YlhXT1RqVGFMdklEbXNHd2wwaGVmaUtXX3E2OFVxRGFvOTNHdWJCamdSUXNxd0djcmVvVTBxeHBSYzd5YzhiWlhiTVlhTFVYWTBCY2hGVE1Bb3BUU01SSTR1SkV3ck81Y0xEZXZXVFN4aG8wVjhTUUZHam5tTkI1ZkNJaURTdmVyc3RVeWlYUnNRSXZJM3FtWWVEVnpsOU9z?oc=5"
+    }
+   ],
+   "score": 37.8
+  },
+  {
+   "id": "9d8896d0d7",
+   "titulo": "Flávio tem 45% contra 44% de Lula no 2º turno, diz Quaest",
+   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-45-contra-44-de-lula-no-2o-turno-diz-quaest/",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-21T14:47:34+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+45%25+contra+44%25+Lula+turno%2C+diz+Quaest",
+   "veiculos": 16,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Quaest: 44% têm medo volta da família Bolsonaro, e 42% temem a reeleição de Lula",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/quaest-44-pontos-percentuais-tm-medo-volta-da-famlia-bolsonaro-e-42-temem-a-reeleio-de-lula.ghtml"
     },
     {
      "veiculo": "Exame",
-     "titulo": "Pesquisa Futura: Flávio Bolsonaro tem 51,1% e Lula, 48,9%, no 2º turno",
-     "url": "https://exame.com/brasil/pesquisa-futura-flavio-bolsonaro-tem-511-e-lula-489-no-2o-turno/"
+     "titulo": "Pesquisa Quaest: medo da volta dos Bolsonaro supera o de um novo mandato de Lula",
+     "url": "https://exame.com/brasil/pesquisa-quaest-medo-da-volta-dos-bolsonaro-supera-o-de-um-novo-mandato-de-lula/"
     },
     {
      "veiculo": "Valor",
      "titulo": "Quaest: Rejeição a Lula cai de 53% para 47% de Flávio oscila de 54% para 52%",
      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/quaest-rejeicao-a-lula-cai-de-53percent-para-47percent-de-flavio-oscila-de-54percent-para-52percent.ghtml"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "Flávio tem 51,1% dos votos válidos, contra 48,9% de Lula, diz Futura",
+     "url": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-511-dos-votos-validos-contra-489-de-lula-diz-futura/"
     }
    ],
-   "score": 42.9
-  },
-  {
-   "id": "9b52d8d3b8",
-   "titulo": "Instagram remove áudio de vídeo de Nikolas Ferreira sobre o Nordeste",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXVwYVNQSTA3UjFta2JiaHI1cW9VZXlzMU9SRmpxa05xRmxDNUhSVUNFUkc3UkR3Mk1VWlFIYVdBbWZNM2NMUkpBMmlmVVl3LXp5QXFNYkppcUk4aUV4UWtadHhqX0hVQnFJcnNuaWJGbm5MTUFseS0yek1NclZvNjQ0S0ZvSXBKb3VIY3JweHUtMV95RFFicjdKc3ZDRExEU2wta3dBLWdXY0dMbmw0am53?oc=5",
-   "veiculo": "Portal Tri Notícias",
-   "publicado": "2026-10-21T14:05:00+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Instagram+remove+%C3%A1udio+v%C3%ADdeo+Nikolas+Ferreira+sobre+Nordeste",
-   "veiculos": 21,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Portal49",
-     "titulo": "Mesmo sem áudio, vídeo de Nikolas Ferreira atinge 144 milhões de visualizações no Instagram",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1Z0aDhQdXpwYmF1YWpGM29nTUxsVzc3ZkJzSFZBMHRLdXlhcDA0YlhXT1RqVGFMdklEbXNHd2wwaGVmaUtXX3E2OFVxRGFvOTNHdWJCamdSUXNxd0djcmVvVTBxeHBSYzd5YzhiWlhiTVlhTFVYWTBCY2hGVE1Bb3BUU01SSTR1SkV3ck81Y0xEZXZXVFN4aG8wVjhTUUZHam5tTkI1ZkNJaURTdmVyc3RVeWlYUnNRSXZJM3FtWWVEVnpsOU9z?oc=5"
-    },
-    {
-     "veiculo": "Portal Tri Notícias",
-     "titulo": "Instagram remove áudio de vídeo de Nikolas Ferreira sobre o Nordeste",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXVwYVNQSTA3UjFta2JiaHI1cW9VZXlzMU9SRmpxa05xRmxDNUhSVUNFUkc3UkR3Mk1VWlFIYVdBbWZNM2NMUkpBMmlmVVl3LXp5QXFNYkppcUk4aUV4UWtadHhqX0hVQnFJcnNuaWJGbm5MTUFseS0yek1NclZvNjQ0S0ZvSXBKb3VIY3JweHUtMV95RFFicjdKc3ZDRExEU2wta3dBLWdXY0dMbmw0am53?oc=5"
-    },
-    {
-     "veiculo": "Bahia Já",
-     "titulo": "Política - VIDEO DE NIKOLAS FERREIRA NA BAHIA ABALOU CAMPANHA NO NORDESTE (TF)",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVl5UkFDS1ZPcFcxV1N1Yms5ai1Nd1BEN1hyQU45VmRxbUVmT1hNRGU0Qjc0YWl6dmdvNFhiNVRlR0o4bzlqc3JENDk4MzhFOGZWMlhzOGdGWWdRMDZ6LTdkSWo3eVZ4NmQ0Sl9GdzN5bmFLNFlkRERMZHdzWVVRaFhqbzZtbnh5RUdvOWZkNmN6YU5mRF8tdUVSZjFPcXgwUE5INDlUV2h0cmU1dW42bXY4ajVKLVdNSFA3OEVHZU5IdVJFODZfbkFn?oc=5"
-    },
-    {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Vídeo de Nikolas sobre o Nordeste passa de 100 milhões de visualizações",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHBRekhlTVFQUTIzcFE4OUo5YUN3WUZhcTlSeTRwNjhDaXEyUzY0RERvWDI4TGx6N25UNnk1S09pM2tWYmlQWDVuWHZDTU9MZnIyVTI0NVZ2QTZRSHJWZG1UZ3pEdVRCSWVGajluLXkxd3dHTTU3YWFKRXdEQk1UV1ByYi1MTVY3WkVyVm9ldC1OejcxSktBZUZVQzk1UUFYWjJkZGZ1bVNPSlRzcHN2dWFfZ1Frdw?oc=5"
-    }
-   ],
-   "score": 37.9
+   "score": 36.9
   },
   {
    "id": "51ce5bde85",
@@ -1471,7 +1442,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Apoiadores+Fl%C3%A1vio+Bolsonaro+fazem+ato+Aracaju",
-   "veiculos": 10,
+   "veiculos": 9,
    "rotina": false,
    "outras": [
     {
@@ -1485,88 +1456,132 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWJBY3ZsYnJnWV8wdVhTa0lPSDRVLXZjLTV3SEhfb1ZWQWRuLUkwaTgwaUxJcnd1Q08xRFUtUnVic0xwbnpPdFNaVWF0U1A3T3Bnd2M1eTVTLUVZMWdJdlhvcVhZd1NXX1V4SG80V3E4eGIwNEZaZ0I0eTNxbUIwcmtBcWtJdF90aUlIYV96bXZkZ1RNVnVIbEVBcmsyeXhhdC14MXRERzBsUXJWNENoOHFyVQ?oc=5"
     },
     {
-     "veiculo": "Portal VV8",
-     "titulo": "Moradores da Bahia participam de live com senador Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemxxU0Iwc09FT0hjMTlKTG93UW9FWE1DUWZHVGxqb1NGeVVEbVFONUV4UzlkYTBsUGtEMGxkRkV3TFRCNEZVdzEwZmMwV3dpa1l1Z201ZXM3M1Z5cjE1VFlNN1NXR3FUd0gwQ296dGZDNTVsMmliNm1QSTNsUnhPSUh6Zk1Da19xQXBfaXhDYWY4RHJnSXNDaUNzVkZNaXV1NndnMWV1d1lVcm5DeHc?oc=5"
-    },
-    {
      "veiculo": "Rádio Itatiaia",
      "titulo": "Nikolas Ferreira participa de ato pró-Flávio Bolsonaro em Aracaju ao lado de lideranças políticas",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXI2Y25sTkV0Wk1QbHBoTWtSTkJRWnF0anZMS21JcHZTUXVmaXVVMUtIeHRiOFlmMTlLbVBQX3lTcm5QY3JYZU1INEF2aFRWT2RZVnppdERubzNxb19QbGpIV0REMTBBZXhWQnpKcG9GTHVwOGQ2VDcyUnZhd015UVo0U1ZaLUJMcWNxQlRENi1wbzRnOGMzZ2RodjE2ajBHdzZMNHVqUGRUQlM0RUNuTGpFTnVOWHBlTUhJNkI0NXlwZnN6dE9velRrVFd0Q1FVMm9jR2Z3ZG5PaDhf?oc=5"
+    },
+    {
+     "veiculo": "AJN1",
+     "titulo": "Bloquinho do 22, com presença de Nikolas Ferreira, atrai milhares de apoiadores de Flávio Bolsonaro em Aracaju",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONlhLWlRjcEdIbHBJNXB3ZXZ1NFBCUXduUjU2VGMydzF4dVhXd2N3OFBlaGJoRGtmQ3JUX0xCNnpzSFZmejJqMnluODFFbzZXQmltQWV3WjJsM1dIeTJwamhrTG1sa2NtWWpHb0JiNTFtNTBSZVBFT09Vc1VHWUZXMFBvcjFGQnlPNU9ZNDB6NWZTdVRKQmxvN3NjNHNzc0xWamppQ1A1Y2oyb2p2N05yTExtZ3VDT0J4ay1LV2Y2NWF4bGlLZ1VDRA?oc=5"
     }
    ],
-   "score": 36.8
+   "score": 36.5
   },
   {
-   "id": "47ebd21cb3",
-   "titulo": "Tropa do Flávio cobra Rubel após vídeo de Nikolas perder áudio",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVRIWXptNGVfd09rZFc2amk4Zm1KVEhHZHVyWnZBbkZwbjIxMjFTZEhRZUw2VUhlaUw1YzZLeV8xZjFYYjJhaGk3QTMxTkJIazA4RWRPdDBiWnFwa01DZkpYRkdLSFVYN29KVDR5TjBuV2xTT2l2WVl5OUZNMUVWQVdMcmY0c0NFaXFPZ2tiZEZWREdhVHpuRG5RNW1NM2NtUnRNYnU3akFCdUo5MDZwVQ?oc=5",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-21T14:13:06+00:00",
+   "id": "0537cf0806",
+   "titulo": "Nikolas acusa cantor de ‘silenciar’ nordestinos",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmFqLTdqSk43N05NQzBaaHV0cFZkS2IzdnZyVjY1a1B0aDUyVndnT2h4NFlSS1VGQVpBN0hfV2J1bkhpYy1odC1yNUdIMncxMl9ROVZRME1wVTg0THFqQXAwSGpLMVFmWFFhNnVOTEp6NFU0Wm41bXRrMWllaFNJZzJHYnE2TVZFUlVHZDlYNFZmY3Z2c1JV?oc=5",
+   "veiculo": "Revista Oeste",
+   "publicado": "2026-10-21T14:30:00+00:00",
    "temas": [
+    "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Tropa+Fl%C3%A1vio+cobra+Rubel+ap%C3%B3s+v%C3%ADdeo+Nikolas+perder+%C3%A1udio",
-   "veiculos": 24,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+acusa+cantor+silenciar+nordestinos",
+   "veiculos": 12,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "vtvnews.com.br",
+     "titulo": "Quem é Rubel? Conheça o cantor envolvido em polêmica com Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFRLd1BwZFdhVW9HZElHV0N6ejlKMHoyNmNDNXFiaVRtNS1TazN4ODBxcmcwUFBCTXZicmd4WWdNb0RCcVdmT3Q4Y3MtWW00Z2R3MEpELXA3NnRULVIxckJacWtFN2UxUENSY0xPU2tvSjdXQkRBak1PMzQzbXZ4TFF0bVRoVS1Pb3M2MjZLdFRmRkZVaGNN?oc=5"
+    },
+    {
+     "veiculo": "vtvnews.com.br",
+     "titulo": "Quem é Rubel? Conheça o cantor envolvido em polêmica com Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFRLd1BwZFdhVW9HZElHV0N6ejlKMHoyNmNDNXFiaVRtNS1TazN4ODBxcmcwUFBCTXZicmd4WWdNb0RCcVdmT3Q4Y3MtWW00Z2R3MEpELXA3NnRULVIxckJacWtFN2UxUENSY0xPU2tvSjdXQkRBak1PMzQzbXZ4TFF0bVRoVS1Pb3M2MjZLdFRmRkZVaGNN?oc=5"
+    },
     {
      "veiculo": "Ilhéus Eventos",
      "titulo": "Nikolas Ferreira acusa cantor Rubel de censura após retirada de música de vídeo político",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0xvWUtMckNjNl9qbHB0cjQ3aVFEclNkcUxUdjBKOENSQWk0NTgyS1IyWENqZm4zZWZ5WUV5ajFVWVRMcXRPRzZ0eHM1bEEyQnZHcFFCYjZOVGFvU0l6emRvekNISDhZaDVYNjVJMW9fSHl4cExWcEtIX1FQZ2NESmZIeFhKZGo0MWZEZE1vVTFKdVd6aGhlNTVaU1FMM293clV2ZjhjYVFsbW94anl2TDFpV3pMR3lIdm04SnlZV1g1aEFuak1SS252RmdGdTZMeXc?oc=5"
     },
     {
-     "veiculo": "O GLOBO",
-     "titulo": "Qual é a música de Rubel usada em vídeo de Nikolas Ferreira que teve áudio removido pelo Instagram?",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU05lZUJrdkNDZUVzNko0MTlzU1BwYjJuUENkUXN1QkVMSXdRcnE2aHAyajNHVThTcjRTbmJYdmdJTnh6MThNYXBSVTMzVFVIR3lWOXE4Q2RGYWstWGViYUY1V0l6eS1OUmhTV3B2cmp0NlZpMkRvbVdraXFNeWJOeDBMaDdFQmV4Z1RMVVhMYjhXY3RHRE03QW5CWTVPeEVobVd3MUFCNDUyV2FHaUpUNkFSbjVuSThCb1VNSkpkNHp1ZE9qSGs4eFJCWjg3UTlGVE9RTXE0OXVjeTFPNGhQTFNvTGlacUt0dWRwUDk3d1gyMG1HSXJic2pGZldQNndM0gGPAkFVX3lxTFBqWHRVVnA5ZlFyQkZhRUNBb2VGNThzV0dOc3pCdVBSNjZJR2RpUmFVdUQ2aU55WUFJX3BBR01tTWpkWkhrZ1NIVERtUGVzNjg4eDRXblNxdjF0djhMQkcyOG00LWlZUDRRRk9mNUlDM3BGZ3NVMVBTMnM0SnRFWk1UdEtiVTRxRU5GOGF3VUNxR3NuWmY5RkZNWG45cURoZndwQTNjYjg1dFFiekhySXBsdFZ5YUU0c01HVTRWbDFZZ1RmamNZXzUwNXV2MjFKd1dmZDFoZE5lU2dnVDB4ZnVpWFc4R04zY0V4UXNWTjR0MGF4QXZ2YktBTVZWeFZXeVBQTTd4MEVwck5yYUtkbEk?oc=5"
-    },
-    {
-     "veiculo": "O GLOBO",
-     "titulo": "Qual é a música de Rubel usada em vídeo de Nikolas Ferreira que teve áudio removido pelo Instagram?",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU05lZUJrdkNDZUVzNko0MTlzU1BwYjJuUENkUXN1QkVMSXdRcnE2aHAyajNHVThTcjRTbmJYdmdJTnh6MThNYXBSVTMzVFVIR3lWOXE4Q2RGYWstWGViYUY1V0l6eS1OUmhTV3B2cmp0NlZpMkRvbVdraXFNeWJOeDBMaDdFQmV4Z1RMVVhMYjhXY3RHRE03QW5CWTVPeEVobVd3MUFCNDUyV2FHaUpUNkFSbjVuSThCb1VNSkpkNHp1ZE9qSGs4eFJCWjg3UTlGVE9RTXE0OXVjeTFPNGhQTFNvTGlacUt0dWRwUDk3d1gyMG1HSXJic2pGZldQNndM0gGPAkFVX3lxTFBqWHRVVnA5ZlFyQkZhRUNBb2VGNThzV0dOc3pCdVBSNjZJR2RpUmFVdUQ2aU55WUFJX3BBR01tTWpkWkhrZ1NIVERtUGVzNjg4eDRXblNxdjF0djhMQkcyOG00LWlZUDRRRk9mNUlDM3BGZ3NVMVBTMnM0SnRFWk1UdEtiVTRxRU5GOGF3VUNxR3NuWmY5RkZNWG45cURoZndwQTNjYjg1dFFiekhySXBsdFZ5YUU0c01HVTRWbDFZZ1RmamNZXzUwNXV2MjFKd1dmZDFoZE5lU2dnVDB4ZnVpWFc4R04zY0V4UXNWTjR0MGF4QXZ2YktBTVZWeFZXeVBQTTd4MEVwck5yYUtkbEk?oc=5"
-    },
-    {
-     "veiculo": "Instagram",
-     "titulo": "O Instagram retirou o áudio de um vídeo publicado pelo deputado Nikolas Ferreira (PL-MG) com relatos de nordestinos sobre o custo de vida e o acesso a serviços básicos. A gravação, intitulada “O Nordeste que foi esquecido”, utilizava um trecho instrument",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Q2tpXzdZcTZIV2txMVdRbGpEY0FVX2M4OGd2SlJOSmc4WlZ6UDBDRE9jQUNQTklJMFRNUE9xaHVFMEU1WmdvWUNxb2JNcm5HN2NxSkRR?oc=5"
+     "veiculo": "Terra",
+     "titulo": "Quem é Rubel, o cantor que virou alvo de Nikolas Ferreira na reta final da eleição",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdXc2cmRRYjFpQ19kS2ttQVFPX0llWEtxV2NMVUxYT1Z4cndaWXZHdWIyVFFkMEtfdzVBMmc0OFhVYTZJWDlVVFM2aDUzRVRMN3dqSjdqdVc4RFZnNlN4aDhTNm5UUTZ3b19YaDE2bkJRSVJ6blgzdGw4OWsxSVNwa2dCcGcxZGdGVk1SOFQ3cHY4T1BtQktTcW54VFpwcTZETmRKZmpacGFQdzRvUzBlQjZkLXcteW1jVlBaVWxJUXN2R3M3RlBscEZqd1J2aUVWa1hyalY1SjJyWEZlT19UelZWRTFqa3l1YUlTV3E1WW95YUlrUHFwWGZXQQ?oc=5"
     }
    ],
-   "score": 34.0
+   "score": 35.8
   },
   {
-   "id": "8a3caa24b6",
-   "titulo": "Campanha de Lula posta vídeo com nordestinos para contrapor Nikolas",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekY0ank0RUpMQkJoZTBWUFhETHBUSEZTaXRKQmlPVFlFOHh5d3N0aTRWMGVFNzByZzAzSlY5LXNyQXRjT1hVeHRCQjRpVnBkWkRSYnBWaS1mMkpEYTZHeU5RWUstdUozMkhtN2hIcVY1eTk2WlVhMnE3LW1BdkFxZHlXYnNVM1BqR3RDS0hoRkZ4SDg4eE1WTHRpOGhnV2t3LVVybEY4RFZidUg2RjdwYVhkLXlQLVk?oc=5",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-21T11:43:59+00:00",
+   "id": "8b6ab02a9f",
+   "titulo": "Vídeo \"mais importante\" de Nikolas traz nordestinos criticando Lula",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDBmOFZ2ekMxYjYtSUFucF92cjlpbVNCejA5TmNoSTFvYU1WZW5LT25fems0d2pJQkdRZ0tINWwtakkxSHNHM3lGcXNvMnVqWGp3c0Nab21zQ1J1cTRDbzB5UUd2VUd4VjRZRmx1d1FfeWU1djQ1TXUwN0lzb0FTQ2JlaUUzSGFQMFBselNxVk0tWGp4bWNpRDZwOWFnbzFtTDJuaUlFQXc?oc=5",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-21T12:09:00+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Campanha+Lula+posta+v%C3%ADdeo+com+nordestinos+para+contrapor+Nikolas",
-   "veiculos": 4,
+   "busca_video": "https://www.youtube.com/results?search_query=V%C3%ADdeo+mais+importante+Nikolas+traz+nordestinos+criticando+Lula",
+   "veiculos": 10,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "O Segredo",
-     "titulo": "Nikolas Ferreira publica vídeo “mais importante” com nordestinos criticando Lula; assista",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEZSaTdoU0tNOFExNTNvUTd2WTJwUGhLdjFmZExIdFVjbmYtZUh5ZGlMdlZ4WkJhOV9JZkZZVXJJSHJDS01qcmFpUjg3a0hpNXpxdDR2cHJNRHB3MHdHUDJMVjFXTFR6UXM1MWtsZ1ZtRDI3VUFzcm1kY2gtWnlEeUoybXA5a1BFbUE?oc=5"
+     "veiculo": "Jornal da Cidade Online",
+     "titulo": "Reação ao vídeo de Nikolas com nordestinos sacode a web, emociona e faz surgir um novo vídeo (veja o vídeo)",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTWVTc1g0ZGcyWko3eGVLSHkwUGVIQXVib25CMWJnQksxaS1yYzdfcWVnMkNpRy1ZN3NpZmV0Ujd2LTM4Umc2MjF2T3lPTE5TTmJOUHBBek5JNjNVUnp1SHRVYnc3cU5aUTVTcVR4OHFkMzktd2xUR0pqLTB4X002ck5YMG9TMkJ6dXBuaVc0SElFVHJIVkZWR2xPYVo4VlY2YnBMMkp2OW0wcFBFNlFiTjVvRmRON1RFYVB2VGJFSzY2UFBGRmptTndia1FMZkZwMVlZczFlRTNOSmZQM3Nfb195NThBd0g3YTBxYWMxWTXSAfYBQVVfeXFMUE8wZkltUXNiWmVSUlZqUGxGSlRXRXRoaGtWblRtWVljemxpMlB1eDJmYWt5aUhhZThTRk1jNXFpNWZJMkxuT1pDMGhHM29lVFVfbHFNa083ZmlXUENRQzVSYTJJWFgtQnR4NUZDSEhObnh2eUtFZ2Fma25TS3lQSWtfajVhaU5oM3V4VV9NR0JZVnd4NEZvWXJzUlRLYk9DNFR0WGJKaHBGanNrTEU0c3FBRjNoLTJab2FvQVlNV3pHRzhpN2l3bURnbEMzX3Y4bjVNbXMwXzVsbnE5RXpaOHF5cjRocVVZUVIxZ1QyaEc4YjdYa2dB?oc=5"
     },
     {
-     "veiculo": "Rádio Itatiaia",
-     "titulo": "Nikolas Ferreira publica vídeo focando em eleitorado nordestino com críticas a promessas de Lula",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWi1HTGVWTFp2VzdJYjA0TkhSLXZaVXFfZnNidlZ3d3B1UFJINkduckMzMzVLQ3dzVXRSeEFtVkZ3eXZpamdsTmFybzVfLVBPenpTeFo4anlLcXd3azBISjhlMGdMMngtQjhIOTJ5cHRvS0ZoalllVHVyLXE2bjh6NHZlSThnalJhNmI0VUdmMGhCSUw5Slg2NE14cHlJN0dvcEdXX3BfMWlHTU8tTkdueE84Y3ZOT2JmQkljVFFnSkZ2OHE3TWppMTQ5TU02OG12SU9NU1BLQXRCU3M?oc=5"
+     "veiculo": "Agora RN",
+     "titulo": "Nikolas reúne nordestinos em vídeo com críticas a Lula",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zTk1HRGNTdUhxT0xJcmozaXdGQlY1OW56cC1qcTZibVItenZlV01rV1VxMTlyd0otS012TXNidlNPUHd2cjRKMlZjM2t0MVYyMXpSY1dOMm4zZE5CNDl3NWYtVXdSQnZIdE85dVlkTGFoYmJja3pSRTdpc00?oc=5"
     },
     {
-     "veiculo": "Metrópoles",
-     "titulo": "Vídeo \"mais importante\" de Nikolas traz nordestinos criticando Lula",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDBmOFZ2ekMxYjYtSUFucF92cjlpbVNCejA5TmNoSTFvYU1WZW5LT25fems0d2pJQkdRZ0tINWwtakkxSHNHM3lGcXNvMnVqWGp3c0Nab21zQ1J1cTRDbzB5UUd2VUd4VjRZRmx1d1FfeWU1djQ1TXUwN0lzb0FTQ2JlaUUzSGFQMFBselNxVk0tWGp4bWNpRDZwOWFnbzFtTDJuaUlFQXc?oc=5"
+     "veiculo": "n3news.com.br",
+     "titulo": "Nikolas critica cantor por áudio barrado em vídeo criticando Lula",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEllREg3MjYxcTdiVHdjcy1FakEweWxvUFU0TjUzN0ROdExybUlaaW94bzN4ZGlPTFdIbktnUUhaajFsSlBBVWJqaUEzZE9tOWxaQ21hQW5MblNscDN0Ym0xN3ljNVpIajl6Y184bF8tR0hxZEdrREk2M2NqYlM0alk5bGRFOW9JTkE?oc=5"
+    },
+    {
+     "veiculo": "Bahia Econômica",
+     "titulo": "NIKOLAS FERREIRA DIVULGA RELATOS DE NORDESTINOS COM CRÍTICAS A LULA",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzY4Vk5YblNtSGRPSmlvS2FZRTg0bkNqSlNZalhmTEp6VF9LZUtLVzR3cU43TmluY2hPNG1DMks2emdqa3EzVngtRUh4M0ZuSWt6RVN2QXBVTWlULTBfa3hKLW9CZnY2NXFoZG11VWVTUlNIVnhBclNrNWhzUFRHR2hHc1FYXzBfY3ZUZmFUTzI3bkFlek9OQnZKajdCR3VpYUhOcTRjaUdaYjNJUUt1aDlNTQ?oc=5"
     }
    ],
-   "score": 22.0
+   "score": 33.8
+  },
+  {
+   "id": "df927bf111",
+   "titulo": "Nikolas: Cantor petista vetou áudio de vídeo com nordestinos",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXhXeHJ2MEFuRDZHUG1CU1B6N25EZmVnbHh2NTRzZ1NDb3V1eWdWdnlINkc1d0c2OEtscmNTMXRkZzNHWHhuNC1yMDlxalJSVTFtVDdEUnpfdWxHQmFpWFlhM21ZT3NjNGtaMXluNmZyajczaldBOVBMSTR3QmFPclpPMHBKQkl5aWJ3TUhtT052OEFKYVJfcm11czR1c05xWVozS2hMMNIBrwFBVV95cUxPN1ZRUkk4SHh6YmZBRnVGODFCMUpRbjlJUHg5ZUVRTHFhTGZqWDVyZUJ6dGRXZW5xVFBTRGNkWFFUMGREbVcwSW45T0hGZTQwczBwdWdlNUdqV3ZHXzNoLUxDSVZVODJoWUZxeGtMZXFJZWlkd0xqbnhEejhUM0xfem5pSmdqV241TEYyV2R6VFQ3VG04ZHc2TEVBRE14MmdDQWVSRzZUTWVMQ2ZYalRz?oc=5",
+   "veiculo": "Pleno.News",
+   "publicado": "2026-10-21T14:05:46+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Cantor+petista+vetou+%C3%A1udio+v%C3%ADdeo+com+nordestinos",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "osegredo.com.br",
+     "titulo": "Nikolas tem áudio removido de post sobre nordestinos e culpa o cantor Rubel",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fWjM4Nldqc1RleURUS1h4ck1hajlqOHpoMTcxOU9vTVlZU3lSVUwtQ2hkckNFZHJLWkNBVFluWEk0ZDNkQjl4aXZYLUwtMGRCQV9yTkg2ckRsRFJGeTVoMG5MbnpCcUxxNEJUdG5ERWdiT1hSNGlnLUtqUQ?oc=5"
+    },
+    {
+     "veiculo": "Jornal de Brasília",
+     "titulo": "Post de Nikolas com mais de 100 milhões de visualizações tem áudio removido por direitos autorais",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcXRhWTdJdTNHVUNPZmhzVVdhNktqd2pkdkM0WnJHeHliV1NkQ2taVG9MY3UwYXJMVkFUYjFGWWFtZUlET0lMLTZ2RmdRd2tjVjZBUXNYM3A2LVd2TWJkeE1hQkdwNHVkU3dBSmxacVRTbzYwOFdoY01jYVdYb294OTJHSm9JbXMxTWV0QkhaWDNobnNPeDl1NVNOMEQ2aDZRR2FyZWVOeWtHWEp4U3dUaUE3ZUh3VWVPbjExYUQzLTkzRzNVRDcwZVJjSjZfYmxacTlYbmpNUTloMGhrQ193TW1IakVpSGNodDRYVg?oc=5"
+    },
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Nikolas tem áudio removido em post sobre nordestinos e culpa cantor Rubel",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjB2d0QzNmRXYlZiTXV6cGU4S19CcGpPLVJXSXZwWnFKVGxhRWF6YzdLWWpIVVlGT2Fzc0thT1UxeUw4S3NmYS0xZll6REZreGFWQWJMYVZZTzlvSXhOQW1uZTJrQm5LM254VWd5XzkweU12d1k2VmtwbGZJcDV4eXQ3MEFuZWNQTTJRZ2RuZmlzM09SUnV2WmRBOTROUjZYQVE?oc=5"
+    },
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Nikolas tem áudio removido em post sobre nordestinos e culpa cantor Rubel",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjB2d0QzNmRXYlZiTXV6cGU4S19CcGpPLVJXSXZwWnFKVGxhRWF6YzdLWWpIVVlGT2Fzc0thT1UxeUw4S3NmYS0xZll6REZreGFWQWJMYVZZTzlvSXhOQW1uZTJrQm5LM254VWd5XzkweU12d1k2VmtwbGZJcDV4eXQ3MEFuZWNQTTJRZ2RuZmlzM09SUnV2WmRBOTROUjZYQVE?oc=5"
+    }
+   ],
+   "score": 29.6
   },
   {
    "id": "dcadfc5182",
@@ -1594,45 +1609,73 @@
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWVvdDNnQ0xyWXlxenBET3RpWXFJbUczSGRJS2ZmTjVXY2xzbTlyZDNORTJFX0tjSTktbThxeEpVS184cks0eG9wODV3ZHJMcXpJYnpaWElDZDJZclBaSVFGSmFTSjUwQk1hRi1WTGxkZ3ZEbDBZaXh3X051X2hwNkZ0dFA4MU1WMEx5NmxHZUZ0Q0hpcUwtSzByTVpxeXJBZjFZcFZUTVFzM2NJbEg3TFhuSmpGRWVBOFRNTUpiRk8?oc=5"
     }
    ],
-   "score": 19.8
+   "score": 19.5
   },
   {
-   "id": "17a75ee910",
-   "titulo": "Nordeste é arena final da campanha para Lula e Flávio Bolsonaro",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZWdyVzk1RjdEZUlQZzdJZ0JxaEdDRmRkSlJLUWdXM2k5SE9oV2hMUWgzRzl5cXQ4WXhpSE44N2J1OHdQODd0UHNrcGZsWU1CS0J6NjN2QXRETkNUZFJQVGx3WFR4U0dXdlpuSmJDejRjWVhGVjJMbnZqOTdodm9iR1JWMDFScnJIdU1SblR5eXNuV09meDFlUmR3MVFYLW9SbkVGVFpvU2VBa1RCbkhZYjZBZ09CLXF2ZktWSHNPMHJtaE3SAdIBQVVfeXFMTll6V2laUGVteTNjcW85RHoyUVY1eEstbHktNHpjTFZ6ODZEUlMtZUlKRlZSYm9LZGtPcG0zdjNPTG1xazBIWXFUaGlpUjVOaHFTYnR0SXpvVXdHTEpPbmw3eWFXYnl2WkhMWlEzN2xTbE9SNnFGdHZ2SWFaYTJKZ2UzNVVkbUg0RUItTnRpMWdRcUM1WjFla3Y0bFlGR2phenVzdlI4SjFFYzJ0WnVEdTlOWU9rcVNHcC0wZ2U3Yjcxdjk2a0VUdWVnY2VwZ3o5MVF3?oc=5",
-   "veiculo": "O GLOBO",
-   "publicado": "2026-10-21T07:30:00+00:00",
+   "id": "47ebd21cb3",
+   "titulo": "Tropa do Flávio cobra Rubel após vídeo de Nikolas perder áudio",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVRIWXptNGVfd09rZFc2amk4Zm1KVEhHZHVyWnZBbkZwbjIxMjFTZEhRZUw2VUhlaUw1YzZLeV8xZjFYYjJhaGk3QTMxTkJIazA4RWRPdDBiWnFwa01DZkpYRkdLSFVYN29KVDR5TjBuV2xTT2l2WVl5OUZNMUVWQVdMcmY0c0NFaXFPZ2tiZEZWREdhVHpuRG5RNW1NM2NtUnRNYnU3akFCdUo5MDZwVQ?oc=5",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-21T11:40:00+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Nordeste+arena+final+campanha+para+Lula+Fl%C3%A1vio+Bolsonaro",
+   "busca_video": "https://www.youtube.com/results?search_query=Tropa+Fl%C3%A1vio+cobra+Rubel+ap%C3%B3s+v%C3%ADdeo+Nikolas+perder+%C3%A1udio",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "BBC",
-     "titulo": "Perfis usam mulheres de IA em campanha por Flávio Bolsonaro e Lula para atrair público e até vender conteúdo adulto",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10RlJlSDdFNUk3OXl0ZnZNTm5pZDdIN3RULWZ3X1V4RDllcHZ5dkg0a3JKWTlUY2NJR003OGhZdzRCMFlZMnppdTYyZ204MWdKT01lekx6dHNhc3ZqZFNNTU1vYw?oc=5"
+     "veiculo": "Plox",
+     "titulo": "Nikolas diz que Rubel pediu retirada de áudio de vídeo com relatos do interior da Bahia",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbDJRVFRNNGQ3ZVQ3YkRzYUw0Nm9hYkZNcVRMaGFpbXpGaHo5bVlTNDFpaFotajVhTUN1MGt4X09Lanl0YlZMUjNSLTcwcjhjalY5Q2p4SzJWM0JDdllYcmlOTzJaY2YwY0U4NDVqSWpCVS1JeU80Z0JKUEM1RzNlMw?oc=5"
     },
     {
-     "veiculo": "BBC",
-     "titulo": "Perfis usam mulheres de IA em campanha por Flávio Bolsonaro e Lula para atrair público e até vender conteúdo adulto",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10RlJlSDdFNUk3OXl0ZnZNTm5pZDdIN3RULWZ3X1V4RDllcHZ5dkg0a3JKWTlUY2NJR003OGhZdzRCMFlZMnppdTYyZ204MWdKT01lekx6dHNhc3ZqZFNNTU1vYw?oc=5"
+     "veiculo": "Poder360",
+     "titulo": "Tropa do Flávio cobra Rubel após vídeo de Nikolas perder áudio",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVRIWXptNGVfd09rZFc2amk4Zm1KVEhHZHVyWnZBbkZwbjIxMjFTZEhRZUw2VUhlaUw1YzZLeV8xZjFYYjJhaGk3QTMxTkJIazA4RWRPdDBiWnFwa01DZkpYRkdLSFVYN29KVDR5TjBuV2xTT2l2WVl5OUZNMUVWQVdMcmY0c0NFaXFPZ2tiZEZWREdhVHpuRG5RNW1NM2NtUnRNYnU3akFCdUo5MDZwVQ?oc=5"
     },
     {
-     "veiculo": "BBC",
-     "titulo": "Perfis usam mulheres de IA em campanha por Flávio Bolsonaro e Lula para atrair público e até vender conteúdo adulto",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10RlJlSDdFNUk3OXl0ZnZNTm5pZDdIN3RULWZ3X1V4RDllcHZ5dkg0a3JKWTlUY2NJR003OGhZdzRCMFlZMnppdTYyZ204MWdKT01lekx6dHNhc3ZqZFNNTU1vYw?oc=5"
+     "veiculo": "Metrópoles",
+     "titulo": "Com áudio barrado, Nikolas cobra Rubel: \"Covarde, calou voz de nordestinos\"",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSktuT3JXLVFGRVFnM0FVZm1PSUxVLWNCN2ZYZlF5cHh2OTIwVHRBNWQ0S081Z0JOUk4wUW9oNzdGNFBiTlhnTzBMcUI1ZXhEWmVicnRUelVXRWJpUjEtYnRkcWJWZU5pU2ZhOVlweGpLbTl4OHFTR0xoSzgxWnpfaU1ZSktsNHVab1dtdGdReUZ5dnl6bkRmb19xdUdUMTRYUUdBRzFsNEFWU1M3OTY4?oc=5"
     },
     {
-     "veiculo": "Agência Lupa",
-     "titulo": "Perfis eróticos de IA usam vídeos em atos de Flávio Bolsonaro para atrair seguidores e vender conteúdo adulto",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdjYwQ2hZajFDSWdjMnBRdjZTR0lzYUQ3RTFBb0dHUW02YnpRelQtbTdGRmo5YTJLSnY3b3F6MG9VV3RyT1RYU0lfVnJyeDAyVnRodlpLdkZsRWxSQ0NvcEJLZmVNRko5S19Pa0s2TzlLc1FzMjE4OEw4UFFOc0RZTE5OZjN3eVM3Nk5ZeXJ0SVFMeDJNTWhja09rY2tWczIxb2xvVkdfUUczSlBKQmZwdml1eVBlTkREemE2OW1LSXQ4V00xMW95LUlIQ05Vd3BIQURYZWQtR0RXR3htYmx5d1VTZVVCeU1vOXdsRnBzTQ?oc=5"
+     "veiculo": "Metrópoles",
+     "titulo": "Com áudio barrado, Nikolas cobra Rubel: \"Covarde, calou voz de nordestinos\"",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSktuT3JXLVFGRVFnM0FVZm1PSUxVLWNCN2ZYZlF5cHh2OTIwVHRBNWQ0S081Z0JOUk4wUW9oNzdGNFBiTlhnTzBMcUI1ZXhEWmVicnRUelVXRWJpUjEtYnRkcWJWZU5pU2ZhOVlweGpLbTl4OHFTR0xoSzgxWnpfaU1ZSktsNHVab1dtdGdReUZ5dnl6bkRmb19xdUdUMTRYUUdBRzFsNEFWU1M3OTY4?oc=5"
     }
    ],
-   "score": 19.2
+   "score": 18.6
+  },
+  {
+   "id": "8a3caa24b6",
+   "titulo": "Campanha de Lula posta vídeo com nordestinos para contrapor Nikolas",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekY0ank0RUpMQkJoZTBWUFhETHBUSEZTaXRKQmlPVFlFOHh5d3N0aTRWMGVFNzByZzAzSlY5LXNyQXRjT1hVeHRCQjRpVnBkWkRSYnBWaS1mMkpEYTZHeU5RWUstdUozMkhtN2hIcVY1eTk2WlVhMnE3LW1BdkFxZHlXYnNVM1BqR3RDS0hoRkZ4SDg4eE1WTHRpOGhnV2t3LVVybEY4RFZidUg2RjdwYVhkLXlQLVk?oc=5",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-21T11:43:59+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Campanha+Lula+posta+v%C3%ADdeo+com+nordestinos+para+contrapor+Nikolas",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Gazeta do Povo",
+     "titulo": "Nikolas diz que vídeo com críticas de nordestinos a Lula foi “silenciado” no Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTJrTjFrWEw2Y3piZTB6am10Z1dMYXp2d1VGeXRZN2VsbENjbHJ4Z2Z6eTZ5VzI2LTNKNnNEWE1jZXFkb3RlYU96MjQ3Wkt6Y1RvSXB4d3MxRThuSTFWVkdhNFdfUU16b08xX0pHQUlOelQ3VkhqVW9VOHU5clp5UEwzY0Z4LW5FSXhyQllqSlRyTldEVEJxRWJCaUR5YTVoQzBlYjFYMk1WR2ZIS01BWFRQTWN4a2FPRU5rUWp6T0Frem1nQ0pyeUVGMA?oc=5"
+    },
+    {
+     "veiculo": "Gazeta do Povo",
+     "titulo": "Nikolas diz que vídeo com críticas de nordestinos a Lula foi “silenciado” no Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTJrTjFrWEw2Y3piZTB6am10Z1dMYXp2d1VGeXRZN2VsbENjbHJ4Z2Z6eTZ5VzI2LTNKNnNEWE1jZXFkb3RlYU96MjQ3Wkt6Y1RvSXB4d3MxRThuSTFWVkdhNFdfUU16b08xX0pHQUlOelQ3VkhqVW9VOHU5clp5UEwzY0Z4LW5FSXhyQllqSlRyTldEVEJxRWJCaUR5YTVoQzBlYjFYMk1WR2ZIS01BWFRQTWN4a2FPRU5rUWp6T0Frem1nQ0pyeUVGMA?oc=5"
+    }
+   ],
+   "score": 17.6
   },
   {
    "id": "f5bc7fe36a",
@@ -1665,7 +1708,7 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNzJzNmM5M1hwcU40UmRjeEF5c19xaDNRQjBhbmE4dDhjZThiT2NlTW9aV3NlNHM0RDRLQkotNlpoZ1ptOFp3eEQ1Wng2SHc0N0habm53aWJKeTZsZFNwRDBLNHp5bkROZE84Q0pVZmNSZXp5YWFBcjZnd0hLWWRDVHFTNHp5Q0t3N2hrc0pkOV9vLVZseVFRTHB6b3NONmhIZkJ1WmtzWnd5NUF5SW1nUnlKV3BVWml0RFhNU1BQOVMwWms?oc=5"
     }
    ],
-   "score": 17.0
+   "score": 16.7
   },
   {
    "id": "1f72cd0fc2",
@@ -1682,7 +1725,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 15.4
+   "score": 15.1
   },
   {
    "id": "c2efafd8d4",
@@ -1699,63 +1742,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 14.7
-  },
-  {
-   "id": "df0f95eb51",
-   "titulo": "Após “bondades”, Lula de 2000 viraliza: “Você trata o povo mais pobre da mesma forma que Cabral tratou os índios”",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkZHTXVlYXN6YUFvak5Ed2hrV1hlRFg2ak5sMkQxN05MUmdnX3FmME1QSW9ZaU00RU9kMF9vRW9tY01NY0RiT293bTNmWk1vbFVvSWE1YTZycTZoWlFyRWdnczJLRzhmc25fWUtlSlNNUUl2QWIzYnY1aEZYRzNVb1hXNUlzVC1nSHRoZ2I5RzdjNzgwS25VaFJrVQ?oc=5",
-   "veiculo": "Jornal Razão",
-   "publicado": "2026-10-21T12:53:57+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+bondades+Lula+2000+viraliza+Voc%C3%AA+trata+povo+mais",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jornal Razão",
-     "titulo": "Após “bondades”, Lula de 2000 viraliza: “Você trata o povo mais pobre da mesma forma que Cabral tratou os índios”",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkZHTXVlYXN6YUFvak5Ed2hrV1hlRFg2ak5sMkQxN05MUmdnX3FmME1QSW9ZaU00RU9kMF9vRW9tY01NY0RiT293bTNmWk1vbFVvSWE1YTZycTZoWlFyRWdnczJLRzhmc25fWUtlSlNNUUl2QWIzYnY1aEZYRzNVb1hXNUlzVC1nSHRoZ2I5RzdjNzgwS25VaFJrVQ?oc=5"
-    }
-   ],
-   "score": 13.4
-  },
-  {
-   "id": "6a30df1210",
-   "titulo": "Meta derruba vídeo de Flavio José em apoio à reeleição de Lula",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamMzZ3VHNFM5dEVyZEc2UTFkcXFwOVoxVXNzZkZxc3kwRThCZy1Pd2l0TnZYbExOSE50aU91RHJVTEx6VmI1ekhPY1BDdlgzSjNKemx0dkpJZXc2NzdLQ21EYTFxdTJmSUxpczNNaGMwbTZZNUpyUkNFVHlXb1NkclYzSzQzcENnVU1qVzZuUnM2dUtZRkxEcUlsSjZ2VVZBUjE0?oc=5",
-   "veiculo": "Prensa Mercosur",
-   "publicado": "2026-10-20T16:42:19+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Meta+derruba+v%C3%ADdeo+Flavio+Jos%C3%A9+apoio+reelei%C3%A7%C3%A3o+Lula",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "pb agora",
-     "titulo": "Meta derruba vídeo de Flávio José em apoio à reeleição de Lula; ato levanta polêmica nas redes",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakdNbkdaZFdoZWxSTjk1YldzOHZEVlhMV1RJREZ5X1p3Qk55N195bXEyb0dsclVqWjlrOUFxa3NOYm9rVjFIM0VaeVJsdHJVYXExTlJVY01DU2pTR0x6V3FDa2RXRW9hOUo1cVdfT3c0UFozMlRWa2lMNHJKNUR6SmhkQTJmUlY0cjdLLTVZeUR3bFRSSFptY0VuX19tTk4zOGZ1OXVTMmppVUI1QUNSLTBJUjlIMlpCamZ2bnVxUmJpVjBKblI1OVIydTdPb2dfeTNFQg?oc=5"
-    },
-    {
-     "veiculo": "pb agora",
-     "titulo": "Meta derruba vídeo de Flávio José em apoio à reeleição de Lula; ato levanta polêmica nas redes",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakdNbkdaZFdoZWxSTjk1YldzOHZEVlhMV1RJREZ5X1p3Qk55N195bXEyb0dsclVqWjlrOUFxa3NOYm9rVjFIM0VaeVJsdHJVYXExTlJVY01DU2pTR0x6V3FDa2RXRW9hOUo1cVdfT3c0UFozMlRWa2lMNHJKNUR6SmhkQTJmUlY0cjdLLTVZeUR3bFRSSFptY0VuX19tTk4zOGZ1OXVTMmppVUI1QUNSLTBJUjlIMlpCamZ2bnVxUmJpVjBKblI1OVIydTdPb2dfeTNFQg?oc=5"
-    },
-    {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Meta derruba vídeo de Flávio José em apoio a Lula e gera polêmica nas redes",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UajZQSWduNjFXWGxmWGtvVHZDZEdLN0FEWVNDRE1tTlJnSlBoMUxwTFlvNXdfVjRkZWtwdXAwN3l1cl9LVUVPSTdsc3RRY29mbE5sc3Z2MDI?oc=5"
-    }
-   ],
-   "score": 13.0
+   "score": 14.4
   }
  ],
  "fontes_ok": 39,
