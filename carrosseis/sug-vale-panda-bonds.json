@@ -1,0 +1,81 @@
+{
+  "id": "sug-vale-panda-bonds",
+  "titulo": "A Vale quer pegar dinheiro emprestado na China",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-20T19:50",
+  "atualizado": "2026-10-20T19:50",
+  "slides": [
+    {
+      "papel": "capa",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 48,
+          "texto": "A Vale quer pegar dinheiro emprestado na China.\n\nE ==em yuan==, não em dólar."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-vale-panda-bonds/print-money-times-vale-vale3-apresenta-registro-pa.png",
+          "h": 514,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 42,
+          "texto": "O que aconteceu?\n\nNesta terça (20/10), a Vale pediu na China o registro de um programa de até ==10 bilhões de yuans== em títulos de dívida, os \"panda bonds\". Dá uns US$ 1,5 bi.\n\nVale de 2026 a 2028, só no mercado chinês."
+        }
+      ]
+    },
+    {
+      "papel": "interpretação",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 42,
+          "texto": "Por que lá?\n\nEmissões panda recentes de governos e empresas pagaram entre ==1,70% e 2,05% ao ano==.\n\nO último título de 10 anos do Brasil em dólar pagou 6,4%.\n\nO risco é a moeda: a dívida fica em yuan."
+        }
+      ]
+    },
+    {
+      "papel": "conclusão",
+      "tema": "claro",
+      "centralizar": true,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 44,
+          "texto": "Pedir registro ainda não é emitir: depende de aprovação na China e do mercado.\n\nMas o recado é claro: o crédito barato ==mudou de endereço==. Até o Tesouro quer estrear em yuan ainda em 2026."
+        }
+      ]
+    }
+  ],
+  "legenda": "A Vale quer pegar dinheiro emprestado na China. E em yuan, não em dólar.\n\nNesta terça (20/10), a Vale informou que a Vale Overseas, subsidiária dela, pediu à NAFMII (a associação que registra esses títulos no mercado chinês) o registro de um programa de até 10 bilhões de yuans em títulos de dívida, os panda bonds, de 2026 a 2028. Dá cerca de US$ 1,5 bilhão. A Vale garante tudo e os títulos só podem ser vendidos no mercado interbancário da China.\n\nPedir registro não é emitir. Depende de aprovação e de condição de mercado.\n\nPor que lá? Emissões panda recentes de governos e empresas saíram entre 1,70% e 2,05% ao ano, segundo levantamento do InvestNews. O último título de 10 anos do Brasil em dólar pagou 6,4%. O risco é o câmbio: a dívida fica em yuan. O Tesouro Nacional também planeja a primeira emissão em yuan ainda em 2026.\n\nIsto é análise, não recomendação de investimento.\n\nFontes: comunicado da Vale e Money Times (20/10/2026), Suno (20/10/2026), InvestNews (12/09/2026), Poder360.\n\n#Vale #VALE3 #China #rendafixa #mercadofinanceiro",
+  "fontes": [
+    {
+      "titulo": "Money Times — Vale (VALE3) apresenta registro para programa de panda bonds na China (20/10/2026)",
+      "url": "https://www.moneytimes.com.br/vale-vale3-apresenta-registro-para-programa-de-panda-bonds-na-china-lmrs/"
+    },
+    {
+      "titulo": "Suno — Vale (VALE3) pede registro na China para captar US$ 1,5 bilhão (20/10/2026)",
+      "url": "https://www.suno.com.br/noticias/vale-vale3-panda-bonds-china-registro-go/"
+    },
+    {
+      "titulo": "InvestNews — Quando pode ocorrer a primeira emissão de panda bonds pelo governo brasileiro (12/09/2026)",
+      "url": "https://investnews.com.br/financas/quando-pode-ocorrer-a-primeira-emissao-de-panda-bonds-pelo-governo-brasileiro-janela-pode-abrir-no-fim-do-mes/"
+    },
+    {
+      "titulo": "Poder360 — Tesouro quer emitir primeiros títulos Panda Bonds ainda em 2026",
+      "url": "https://www.poder360.com.br/poder-china/tesouro-quer-emitir-primeiros-titulos-panda-bonds-ainda-em-2026/"
+    }
+  ]
+}
