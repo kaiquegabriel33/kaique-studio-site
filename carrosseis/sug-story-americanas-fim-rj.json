@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-20T19:50:00-03:00",
-  "atualizado": "2026-10-20T19:50",
+  "atualizado": "2026-10-20T23:20",
   "legenda": "",
-  "comentario": "A Justiça encerrou a recuperação judicial da Americanas. A ação chegou a subir 25% hoje.\n\n(story 2) Saiu da UTI, mas ainda dá prejuízo: R$ 274 milhões no 2º trimestre. Você compraria?",
+  "comentario": "A Justiça encerrou a recuperação judicial da Americanas. A ação chegou a subir 25% nesta terça (20/10).\n\n(story 2) Saiu da UTI, mas ainda dá prejuízo: R$ 274 milhões no 2º trimestre. Você compraria?",
   "repost_url": "https://www.seudinheiro.com/2026/empresas/americanas-amer3-vira-a-pagina-da-recuperacao-judicial-mira-nova-fase-e-dispara-25-na-b3-o-que-esperar-da-varejista-lmrs/",
   "fontes": [
     {
@@ -28,7 +28,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "A Justiça encerrou a recuperação judicial da Americanas. A ação chegou a subir 25% hoje."
+          "texto": "A Justiça encerrou a recuperação judicial da Americanas. A ação chegou a subir 25% nesta terça (20/10)."
         },
         {
           "tipo": "imagem",
@@ -38,7 +38,15 @@
           "raio": 18,
           "borda": false
         }
-      ]
+      ],
+      "fundo": {
+        "src": "midia/sug-story-americanas-fim-rj/americanas-amer3-vira-a-pagina-da-recuperacao-ju.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.42
+        },
+        "clarear": 0.2
+      }
     },
     {
       "altura": 1920,
@@ -59,7 +67,15 @@
           "raio": 18,
           "borda": false
         }
-      ]
+      ],
+      "fundo": {
+        "src": "midia/sug-story-americanas-fim-rj/americanas-amer3-vira-a-pagina-da-recuperacao-ju.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.42
+        },
+        "clarear": 0.2
+      }
     }
   ]
 }
