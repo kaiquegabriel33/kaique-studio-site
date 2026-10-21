@@ -1,0 +1,77 @@
+{
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-21T13:40",
+  "atualizado": "2026-10-21T13:40",
+  "id": "sug-video-lula-flavio-bolsa-farelo",
+  "titulo": "Lula: Flávio chamava o Bolsa Família de “bolsa farelo” (vídeo)",
+  "video_url": "https://www.youtube.com/watch?v=R1tpwshIWG0",
+  "trecho_txt": "0:02 a 0:30",
+  "trecho": {
+    "inicio": "O que é importante lembrar",
+    "fim": "faz outra",
+    "texto": "O que é importante lembrar também é que em 2011 o meu adversário se recusou a votar a criação do Bolsa Família para o Rio de Janeiro. De 54 votos ele votou contra. E mais grave ainda é que ele chamava o Bolsa Família de Bolsa Esmola e Bolsa Farelo. O que é que está acontecendo agora? Ele está tirando das suas redes tudo o que ele publicou. Porque mentiroso é assim, fala uma coisa, um dia seguinte faz outra.",
+    "gancho": "mentiroso é assim, fala uma coisa, um dia seguinte faz outra",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Bolsa Farelo",
+        "texto": "Antes de 2019 ele chamou de \"bolsa-farelo\" (Estadão)"
+      },
+      {
+        "cor": "verde",
+        "desde": "tirando das suas redes",
+        "texto": "15/06: Flávio disse que é \"direito adquirido\""
+      }
+    ],
+    "cta": true,
+    "crop": [
+      1080,
+      1250,
+      0,
+      150
+    ],
+    "girar": "nao"
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula sobre o Flávio e o Bolsa Família: ==“mentiroso é assim”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Lula sobre o Flávio: “mentiroso é assim, fala uma coisa, um dia seguinte faz outra.”\n\nNa fala, o Lula diz que o Flávio chamava o Bolsa Família de “bolsa esmola” e “bolsa farelo” e que agora está tirando das redes o que publicou. Um levantamento publicado pelo Estadão em junho mostrou que o Flávio chamou o programa de “bolsa-farelo” antes de 2019 e depois passou a defendê-lo; em 15/06 ele disse que o benefício é “direito adquirido”. O voto de 2011 que o Lula cita não encontramos registrado.\n\nA briga começou no domingo (19/10), quando a coordenadora econômica do Flávio falou em uma “regra de transição de dois anos”. O Flávio nega que vá acabar com o programa.\n\nQuem está falando a verdade sobre o Bolsa Família? Comenta aí.\n\nVídeo: Lula (20/10/2026), reprodução Rádio Web Massa (YouTube). Fontes: Diário de Pernambuco/Estadão (06/2026), Poder360 (19/10/2026).\n\n#BolsaFamilia #Lula #FlavioBolsonaro #eleicoes2026 #economia",
+  "fontes": [
+    {
+      "titulo": "Fala de Lula (20/10/2026), reprodução Rádio Web Massa",
+      "url": "https://www.youtube.com/watch?v=R1tpwshIWG0"
+    },
+    {
+      "titulo": "Diário de Pernambuco/Estadão — De \"bolsa-farelo\" a direito: Flávio passou de crítico a defensor do Bolsa Família",
+      "url": "https://www.diariodepernambuco.com.br/politica/2026/06/11717089-de-bolsa-farelo-a-direito-flavio-bolsonaro-passou-de-critico-a-defensor-do-bolsa-familia.html"
+    },
+    {
+      "titulo": "Itatiaia — \"Direito do povo\", diz Flávio sobre Bolsa Família",
+      "url": "https://www.itatiaia.com.br/politica/eleicoes/direito-do-povo-diz-favio-bolsonaro-sobre-bolsa-familia-criado-por-lula/"
+    },
+    {
+      "titulo": "Poder360 — PT usa fala de Daniella para cobrar Flávio sobre Bolsa Família",
+      "url": "https://www.poder360.com.br/brasil/pt-usa-fala-de-daniella-para-cobrar-flavio-sobre-bolsa-familia/"
+    }
+  ]
+}
