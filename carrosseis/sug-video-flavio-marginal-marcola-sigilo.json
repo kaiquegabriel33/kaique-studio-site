@@ -1,0 +1,70 @@
+{
+  "id": "sug-video-flavio-marginal-marcola-sigilo",
+  "titulo": "Flávio chama Lula de “marginal” e só abre o sigilo se o Marcola abrir o dele (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-21T18:50",
+  "atualizado": "2026-10-21T18:50",
+  "trecho": {
+    "inicio": "não só vou aceitar o desafio",
+    "fim": "tem que abrir o dele",
+    "texto": "Só que eu não só vou aceitar o desafio, como eu vou levar até as últimas consequências. Agora segura aí, marginal. Você não tem celular. Sabe quem recebe as ligações por você? O Marcola. O Lula tem o Marcola do lado dele. É esse Marcola que abria as portas pro Lulinha, o filho dele, fazer negócios em todos os ministérios. Então eu abro o meu sigilo do telefone sim, mas o Marcola tem que abrir o dele.",
+    "trocar_palavras": {
+      "Bajá": "marginal"
+    },
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "aceitar o desafio",
+        "texto": "20/10: Lula pediu ao TSE para abrir os sigilos dos dois"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "Marcola",
+        "texto": "Marcola: Marco Aurélio Ribeiro, ex-chefe de gabinete da Presidência"
+      }
+    ],
+    "cta": true,
+    "girar": "nao",
+    "crop": [1080, 1290, 0, 0],
+    "preencher": false,
+    "foco_falante": false
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Flávio chama Lula de ==“marginal”== e cobra o sigilo do Marcola",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "“Agora segura aí, marginal.” O Flávio respondeu assim ao desafio do Lula de abrir os sigilos.\n\nNesta quarta (21/10), num evento em Guarulhos (SP), ele disse que aceita abrir o sigilo do telefone, mas só se o Marcola, Marco Aurélio Santana Ribeiro, ex-chefe de gabinete da Presidência, abrir o dele, e cobrou também as contas do Instituto Lula e os gastos do cartão corporativo. Na terça (20/10), o Lula tinha mandado ao TSE e ao STF o pedido para abrir os sigilos bancário, fiscal e telefônico dele e da família dos últimos 8 anos, com a condição de o Flávio fazer o mesmo. A acusação sobre o Lulinha é do Flávio; ninguém foi condenado.\n\nQuem vai abrir primeiro? Comenta aí.\n\nVídeo: Rádio Bandeirantes, via Itatiaia (21/10/2026). Fontes: CNN Brasil e Band (21/10/2026).\n\n#FlavioBolsonaro #Lula #sigilo #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Itatiaia (YouTube) — Flávio Bolsonaro faz acusações contra Lula e Lulinha em discurso na Grande SP (21/10/2026)",
+      "url": "https://www.youtube.com/watch?v=XK4cn_fm8ek"
+    },
+    {
+      "titulo": "CNN Brasil — Flávio impõe condições para aceitar desafio de Lula sobre sigilo (21/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-impoe-condicoes-para-aceitar-desafio-de-lula-sobre-sigilo/"
+    },
+    {
+      "titulo": "Band — Flávio aceita desafio de Lula para abrir sigilos, mas impõe condições (21/10/2026)",
+      "url": "https://www.band.com.br/politica/eleicoes/flavio-aceita-desafio-de-lula-para-abrir-sigilos-mas-impoe-condicoes"
+    }
+  ]
+}
