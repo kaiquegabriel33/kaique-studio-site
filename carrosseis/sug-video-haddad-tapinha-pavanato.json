@@ -1,0 +1,62 @@
+{
+  "id": "sug-video-haddad-tapinha-pavanato",
+  "titulo": "Pavanato chama Haddad de “Taxad” e “demitido” e leva tapinha no rosto (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-20T11:30",
+  "atualizado": "2026-10-20T11:30",
+  "video_url": "https://www.youtube.com/watch?v=qlSKIWGToZg",
+  "trecho_txt": "Vídeo curto do Poder360 (44 s), bastidor do debate da Band (18/10). Grave do começo ao fim, celular deitado, tela cheia. Uso o vídeo inteiro.",
+  "trecho": {
+    "segundos": [0, 30.4],
+    "legenda": false,
+    "crop": [608, 780, 656, 290],
+    "preencher": false,
+    "cta": true,
+    "contexto": [
+      {
+        "em": 1,
+        "texto": "18/10: bastidor do debate Lula x Flávio, na Band",
+        "cor": "amarelo"
+      },
+      {
+        "em": 12,
+        "texto": "Pavanato: deputado do PL-SP. Haddad: ex-ministro da Fazenda",
+        "cor": "verde"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Pavanato chama Haddad de ==“Taxad” e “demitido”== e leva tapinha no rosto"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Chamou de “Taxad”, levou tapinha na cara.\n\nFoi nos bastidores do debate da Band, em 18/10. O deputado Lucas Pavanato (PL-SP) provocou o ex-ministro da Fazenda Fernando Haddad (PT) com o apelido “Taxad” e com “demitido”. O Haddad respondeu com uns tapinhas no rosto dele.\n\nDepois, o Pavanato disse que o Haddad “perdeu”, falando da eleição para o governo de São Paulo, e chamou ele de “tonto”.\n\nO apelido vem das críticas aos impostos da época dele na Fazenda. Agora, ex-ministro dando tapinha e deputado provocando no corredor: era isso que você queria ver num debate de presidente?\n\nVídeo: Poder360 (18/10/2026).\n\n#Haddad #Pavanato #debate #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Poder360 (YouTube) — Pavanato chama Haddad de “demitido” e leva tapinha no rosto (18/10/2026)",
+      "url": "https://www.youtube.com/watch?v=qlSKIWGToZg"
+    },
+    {
+      "titulo": "O Povo (YouTube) — Haddad dá tapinhas no rosto de Pavanato após provocações na Band",
+      "url": "https://www.youtube.com/watch?v=FErC8jUiTo8"
+    }
+  ]
+}
