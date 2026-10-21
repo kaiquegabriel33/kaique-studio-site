@@ -1,6 +1,7 @@
 """Radar de pautas do Kaique Studio.
 
-Lê Google Trends (Brasil), Google Notícias por tema e o RSS dos veículos,
+Lê Google Trends (Brasil), Google Notícias por tema, o RSS dos veículos e o feed
+público dos canais de YouTube (TV, políticos, partidos; views por hora),
 filtra pelos temas do Kaique (mercado, economia, política com impacto
 econômico, comportamento do investidor), junta a mesma notícia contada por
 vários veículos e ordena por relevância. Só usa a biblioteca padrão do Python:
@@ -20,7 +21,9 @@ import html
 import json
 import re
 import sys
+import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -32,6 +35,9 @@ AQUI = Path(__file__).resolve().parent
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
 HT = "{https://trends.google.com/trending/rss}"
+ATOM = "{http://www.w3.org/2005/Atom}"
+YT = "{http://www.youtube.com/xml/schemas/2015}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
 BRT = timezone(timedelta(hours=-3))
 
 
@@ -133,6 +139,112 @@ def ler_trends(url: str) -> list[dict]:
     return saida
 
 
+def numero_yt(texto: str) -> int:
+    """'20 mil visualizações' → 20000; '9,4 mil' → 9400; '1,2 mi' → 1200000; '812' → 812."""
+    m = re.search(r"([\d.,]+)\s*(mil|mi|bi)?", texto or "")
+    if not m:
+        return 0
+    n = m.group(1).replace(".", "").replace(",", ".")
+    try:
+        return int(float(n) * {"mil": 1e3, "mi": 1e6, "bi": 1e9}.get(m.group(2), 1))
+    except ValueError:
+        return 0
+
+
+def ler_pagina_videos(canal: str, channel_id: str, agora: datetime) -> list[dict]:
+    """Aba Vídeos do canal (~30 mais novos). Canal de TV sobe 15 vídeos em meia hora e o feed perde o que bombou
+    há 1 h (Band, 21/10: os dois do sigilo com 20 mil e 17 mil views já tinham saído do feed)."""
+    pagina = baixar(f"https://www.youtube.com/channel/{channel_id}/videos?hl=pt-BR&gl=BR").decode("utf-8", "replace")
+    m = re.search(r"var ytInitialData = (\{.*?\});</script>", pagina, re.S)
+    if not m:
+        return []
+    achados: list[dict] = []
+
+    def andar(o):
+        if isinstance(o, dict):
+            if "lockupViewModel" in o:
+                achados.append(o["lockupViewModel"])
+                return
+            for v in o.values():
+                andar(v)
+        elif isinstance(o, list):
+            for v in o:
+                andar(v)
+
+    andar(json.loads(m.group(1)))
+    itens = []
+    for l in achados:
+        try:
+            md = l["metadata"]["lockupMetadataViewModel"]
+            partes = [p.get("accessibilityLabel") or p["text"]["content"]
+                      for p in md["metadata"]["contentMetadataViewModel"]["metadataRows"][0]["metadataParts"]]
+        except (KeyError, IndexError, TypeError):
+            continue
+        vistas = next((p for p in partes if "visualiza" in p), None)
+        quando = next((p for p in partes if p.startswith("há ")), None)
+        if not vistas or not quando:            # estreia, ao vivo agora
+            continue
+        q = re.match(r"há (\d+) (minuto|hora|dia|semana)", quando)
+        if not q:
+            continue
+        idade = int(q.group(1)) * {"minuto": 1 / 60, "hora": 1, "dia": 24, "semana": 168}[q.group(2)]
+        itens.append({"titulo": html.unescape(md["title"]["content"]).strip(),
+                      "url": f"https://www.youtube.com/watch?v={l['contentId']}", "veiculo": canal,
+                      "publicado": agora - timedelta(hours=idade), "resumo": "", "origem": "youtube",
+                      "views": numero_yt(vistas)})
+    return itens
+
+
+def ler_youtube(canal: str, channel_id: str, agora: datetime | None = None) -> list[dict]:
+    """Feed público do canal (os 15 vídeos mais novos), com visualizações; nada de API nem chave. O feed às vezes
+    responde 404/500 (tenta de novo); canal que sobe muito vídeo completa pela aba Vídeos."""
+    agora = agora or datetime.now(timezone.utc)
+    for tentativa in range(3):
+        try:
+            raiz = ET.fromstring(baixar("https://www.youtube.com/feeds/videos.xml?channel_id=" + channel_id))
+            break
+        except urllib.error.HTTPError:
+            if tentativa == 2:
+                return ler_pagina_videos(canal, channel_id, agora)   # feed fora: a aba Vídeos tem views e idade
+            time.sleep(1.5 * (tentativa + 1))
+    itens = []
+    for e in raiz.findall(f"{ATOM}entry"):
+        vid = (e.findtext(f"{YT}videoId") or "").strip()
+        titulo = html.unescape(e.findtext(f"{ATOM}title") or "").strip()
+        try:
+            publicado = datetime.fromisoformat((e.findtext(f"{ATOM}published") or "").strip())
+        except ValueError:
+            publicado = None
+        g = e.find(f"{MEDIA}group")
+        desc = (g.findtext(f"{MEDIA}description") if g is not None else "") or ""
+        est = g.find(f"{MEDIA}community/{MEDIA}statistics") if g is not None else None
+        views = int(est.get("views", "0")) if est is not None else 0
+        if vid and titulo:
+            itens.append({"titulo": titulo, "url": f"https://www.youtube.com/watch?v={vid}", "veiculo": canal,
+                          "publicado": publicado, "resumo": desc.strip().split("\n")[0][:300], "origem": "youtube",
+                          "views": views})
+    datas = [i["publicado"] for i in itens if i["publicado"]]
+    if sum(agora - d < timedelta(hours=6) for d in datas) >= 10:   # (uma live antiga fica no topo do feed)
+        try:
+            vistos = {i["url"] for i in itens}
+            itens += [i for i in ler_pagina_videos(canal, channel_id, agora) if i["url"] not in vistos]
+        except Exception:  # noqa: BLE001 — a página é complemento; o feed basta
+            pass
+    return itens
+
+
+def por_hora(i: dict, agora: datetime) -> float:
+    horas = (agora - i["publicado"]).total_seconds() / 3600 if i.get("publicado") else 24
+    return i.get("views", 0) / max(horas, 0.5)
+
+
+def embate(titulo: str, cfg: dict) -> bool:
+    """Candidato/autoridade + verbo de briga na manchete ("Lula aceita…", "Flávio impõe…")."""
+    t = " " + normalizar(titulo) + " "
+    return (any(" " + a + " " in t for a in cfg.get("autoridades", []))
+            and any(" " + v in t for v in cfg.get("verbos_embate", [])))
+
+
 def classificar(texto: str, cfg: dict) -> tuple[list[str], int, bool]:
     t = " " + normalizar(texto) + " "
     if any(b in t for b in cfg["bloqueio"]):
@@ -168,12 +280,22 @@ def busca_video(titulo: str) -> str:
     return "https://www.youtube.com/results?" + urllib.parse.urlencode({"search_query": " ".join(termos)})
 
 
-def agrupar(itens: list[dict]) -> list[list[dict]]:
+def mesmo_assunto(a: str, b: str, cfg: dict) -> bool:
+    """Assunto quente contado pelos dois lados ("Lula aceita condições…" x "Flávio impõe condições…" do sigilo):
+    as duas manchetes falam do mesmo assunto da lista e citam a mesma autoridade."""
+    ta, tb = " " + normalizar(a) + " ", " " + normalizar(b) + " "
+    return (any(k in ta and k in tb for k in cfg.get("assuntos_agrupar", []))
+            and any(" " + n + " " in ta and " " + n + " " in tb for n in cfg.get("autoridades", [])))
+
+
+def agrupar(itens: list[dict], cfg: dict | None = None) -> list[list[dict]]:
     grupos: list[list[dict]] = []
+    cfg = cfg or {}
     for it in itens:
         p = palavras(it["titulo"])
         for g in grupos:
-            if p and any(mesma_noticia(p, outro["_p"]) for outro in g[:6]):
+            if p and any(mesma_noticia(p, outro["_p"]) or mesmo_assunto(it["titulo"], outro["titulo"], cfg)
+                         for outro in g[:6]):
                 it["_p"] = p
                 g.append(it)
                 break
@@ -200,9 +322,42 @@ def coletar(cfg: dict) -> dict:
             falhas.append(f"{t[0]}: {type(e).__name__}")
             return []
 
+    canais = cfg.get("youtube_canais", [])
+
+    def um_yt(c):
+        try:
+            return ler_youtube(c["nome"], c["channel_id"], agora)
+        except Exception as e:
+            falhas.append(f"YouTube {c['nome']}: {type(e).__name__}")
+            return []
+
     with ThreadPoolExecutor(max_workers=8) as ex:
         for lista in ex.map(um, tarefas):
             brutos.extend(lista)
+    with ThreadPoolExecutor(max_workers=3) as ex:       # o feed do YouTube devolve 404/500 se apertar demais
+        videos_canal = list(ex.map(um_yt, canais))
+
+    # YouTube: views por hora e quanto o vídeo está acima da mediana do próprio canal
+    youtube = []
+    for lista in videos_canal:
+        if not lista:
+            continue
+        ritmos = sorted(por_hora(v, agora) for v in lista)
+        mediana = ritmos[len(ritmos) // 2] or 1
+        for v in lista:
+            v["por_hora"] = round(por_hora(v, agora))
+            v["acima_mediana"] = round(v["por_hora"] / mediana, 1)
+            if v["publicado"] and agora - v["publicado"] <= timedelta(hours=24):
+                v["temas"], v["pontos"], _ = classificar(v["titulo"] + " " + v["resumo"], cfg)
+                if v["temas"]:
+                    youtube.append(v)
+    youtube.sort(key=lambda v: v["por_hora"], reverse=True)
+    por_canal: dict[str, int] = {}
+    vitrine = []                                        # top 15, no máximo 4 por canal (o UOL sobe dezenas)
+    for v in youtube:
+        por_canal[v["veiculo"]] = por_canal.get(v["veiculo"], 0) + 1
+        if por_canal[v["veiculo"]] <= 4 and len(vitrine) < 15:
+            vitrine.append(v)
 
     try:
         trends = ler_trends(cfg["google_trends"])
@@ -213,12 +368,14 @@ def coletar(cfg: dict) -> dict:
     for i in recentes:
         i["temas"], i["pontos"], _ = classificar(i["titulo"] + " " + i["resumo"], cfg)
         i["video"], i["declaracao"] = sinais(i["titulo"], cfg)
-    relevantes = [i for i in recentes if i["temas"]]
+    for v in youtube:                                   # vídeo de TV/político entra nas pautas como vídeo
+        v["video"], v["declaracao"] = True, sinais(v["titulo"], cfg)[1]
+    relevantes = [i for i in recentes if i["temas"]] + youtube
     relevantes.sort(key=lambda i: i["publicado"] or agora, reverse=True)
 
     preferidos = set(cfg.get("veiculos_preferidos", [])) | {f["veiculo"] for f in cfg["fontes_rss"]}
     pautas = []
-    for g in agrupar(relevantes):
+    for g in agrupar(relevantes, cfg):
         veiculos = {i["veiculo"] for i in g}
         lider = max(g, key=lambda i: (i["veiculo"] in preferidos, i["veiculo"] != "Google Notícias", -len(i["titulo"])))
         mais_novo = max((i["publicado"] for i in g if i["publicado"]), default=None)
@@ -228,6 +385,13 @@ def coletar(cfg: dict) -> dict:
         rotina = rot(lider) or sum(map(rot, g)) >= len(g) / 2
         score = (max(i["pontos"] for i in g) + 3 * min(len(veiculos) - 1, 6) + max(0, 10 - horas / 2.4)
                  - (12 if rotina else 0))
+        # velocidade: briga de candidato/autoridade nas últimas 2 h, e vídeo de TV andando rápido
+        if horas <= 2 and any(embate(i["titulo"], cfg) for i in g):
+            score += 8
+        vids = [i for i in g if i.get("origem") == "youtube"]
+        top = max(vids, key=lambda i: i["por_hora"], default=None)
+        if top:
+            score += min(12, top["por_hora"] / 2500) + (4 if top["acima_mediana"] >= 3 else 0)
         # link direto do veículo, quando algum item do grupo tiver (Google Notícias só redireciona)
         diretos = [i for i in g if "news.google.com" not in i["url"]]
         if "news.google.com" in lider["url"] and diretos:
@@ -241,6 +405,12 @@ def coletar(cfg: dict) -> dict:
             "outras": [{"veiculo": i["veiculo"], "titulo": i["titulo"], "url": i["url"]} for i in g if i is not lider][:4],
             "score": round(score, 1),
         })
+        if top:   # o vídeo de verdade, além da busca
+            pautas[-1].update({"video": True, "video_url": top["url"], "video_canal": top["veiculo"],
+                               "video_por_hora": top["por_hora"], "video_acima_mediana": top["acima_mediana"],
+                               "videos": [{"canal": i["veiculo"], "titulo": i["titulo"], "url": i["url"],
+                                           "por_hora": i["por_hora"]}
+                                          for i in sorted(vids, key=lambda i: -i["por_hora"])[:6]]})
     pautas.sort(key=lambda p: p["score"], reverse=True)
 
     em_alta = []
@@ -260,7 +430,10 @@ def coletar(cfg: dict) -> dict:
         "pautas": pautas[:40],
         "falas_e_videos": sorted([p for p in pautas if (p["video"] or p["declaracao"]) and not p["rotina"]],
                                  key=lambda p: (not p["video"], -p["score"]))[:12],
-        "fontes_ok": len(tarefas) + 1 - len(falhas),
+        "youtube": [{"titulo": v["titulo"], "url": v["url"], "canal": v["veiculo"],
+                     "publicado": v["publicado"].isoformat(), "views": v["views"], "por_hora": v["por_hora"],
+                     "acima_mediana": v["acima_mediana"], "temas": v["temas"]} for v in vitrine],
+        "fontes_ok": len(tarefas) + len(canais) + 1 - len(falhas),
         "falhas": falhas,
     }
 
@@ -275,7 +448,7 @@ def main(argv: list[str]) -> int:
     saida.parent.mkdir(parents=True, exist_ok=True)
     saida.write_text(json.dumps(dados, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"radar: {len(dados['pautas'])} pautas, {len(dados['em_alta'])} em alta, "
-          f"{len(dados['falas_e_videos'])} falas/vídeos, fontes ok {dados['fontes_ok']}, falhas {len(dados['falhas'])}")
+          f"{len(dados['falas_e_videos'])} falas/vídeos, {len(dados['youtube'])} do YouTube, fontes ok {dados['fontes_ok']}, falhas {len(dados['falhas'])}")
     return 0
 
 
