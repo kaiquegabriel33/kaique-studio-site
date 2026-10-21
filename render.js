@@ -933,7 +933,13 @@
     // foto de fundo (story/capa com foto real dele, 10/10): cobre a página; `escurecer` 0-1 ajuda a ler o texto branco
     if (slide.fundo && slide.fundo.src) {
       const img = imagemPronta(slide.fundo.src);
-      if (img) desenharImagemAjustada(ctx, img, 0, 0, W, AH, 'cobrir', slide.fundo.foco);
+      // 21/10, ele no story da Ri Happy: "a Ri Happy de fundo não dá pra ler nada": `desfoque` (px) borra a foto atrás do texto
+      if (img) {
+        ctx.save();
+        if (+slide.fundo.desfoque > 0) ctx.filter = `blur(${Math.min(40, +slide.fundo.desfoque)}px)`;
+        desenharImagemAjustada(ctx, img, 0, 0, W, AH, 'cobrir', slide.fundo.foco);
+        ctx.restore();
+      }
       if (slide.fundo.escurecer) { ctx.fillStyle = `rgba(0,0,0,${Math.min(0.8, +slide.fundo.escurecer)})`; ctx.fillRect(0, 0, W, AH); }
       // 20/10, ele: "e se a gente der uma clareada no plano de fundo?": véu branco por cima da foto do story
       if (slide.fundo.clarear) { ctx.fillStyle = `rgba(255,255,255,${Math.min(0.8, +slide.fundo.clarear)})`; ctx.fillRect(0, 0, W, AH); }
