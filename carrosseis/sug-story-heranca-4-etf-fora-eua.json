@@ -4,7 +4,7 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T18:30",
+  "atualizado": "2026-10-22T19:10",
   "legenda": "",
   "comentario": "ETF registrado na Irlanda não é bem americano.\nPor isso fica fora da herança dos EUA.\n\nDividendo de ação americana: 30% fica nos EUA.\nNo ETF irlandês, o fundo paga 15%, pelo tratado Irlanda-EUA.",
   "serie": "heranca",
@@ -45,18 +45,9 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "fora dos EUA",
-          "tam": 120,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "ETF registrado na Irlanda não é bem americano.\nPor isso fica fora da herança dos EUA.",
-          "tam": 46
+          "texto": "ETF registrado na Irlanda não é bem americano.\nPor isso fica [[verde:fora da herança dos EUA]].",
+          "tam": 50
         }
       ]
     },
@@ -77,18 +68,9 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "30% x 15%",
-          "tam": 140,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "Dividendo de ação americana: 30% fica nos EUA.\nNo ETF irlandês, o fundo paga 15%, pelo tratado Irlanda-EUA.",
-          "tam": 46
+          "texto": "Dividendo de ação americana: [[vermelho:30%]] fica nos EUA.\nNo ETF irlandês, o fundo paga [[verde:15%]], pelo tratado Irlanda-EUA.",
+          "tam": 50
         }
       ]
     }

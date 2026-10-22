@@ -4,7 +4,7 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T18:30",
+  "atualizado": "2026-10-22T19:10",
   "legenda": "",
   "comentario": "Passei a manhã estudando como uma família evita pagar até 40% de imposto pro governo americano.\nNos próximos stories eu te mostro como.",
   "serie": "heranca",
@@ -36,18 +36,9 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "até 40%",
-          "tam": 170,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "Passei a manhã estudando como uma família evita pagar até 40% de imposto pro governo americano.\nNos próximos stories eu te mostro como.",
-          "tam": 46
+          "texto": "Passei a manhã estudando como uma família evita pagar [[vermelho:até 40% de imposto]] pro governo americano.\nNos próximos stories eu te mostro como.",
+          "tam": 50
         }
       ]
     }

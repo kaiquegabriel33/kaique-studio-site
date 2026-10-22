@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T18:30",
+  "atualizado": "2026-10-22T19:10",
   "legenda": "",
-  "comentario": "Doação com usufruto: o bem passa pros filhos e você continua usando.\nHolding: os bens vão pra uma empresa da família.\n\nÉ isso que a gente olha antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? Toca no link.",
+  "comentario": "E no Brasil?\nDoação com usufruto: o bem passa pros filhos e você continua usando.\nHolding: os bens vão pra uma empresa da família.\n\nÉ isso que a gente olha na Fatos antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? Toca no link.",
   "serie": "heranca",
   "ordem_serie": 6,
   "fontes": [
@@ -40,21 +40,12 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "e no Brasil?",
-          "tam": 120,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "Doação com usufruto: o bem passa pros filhos e você continua usando.\nHolding: os bens vão pra uma empresa da família.",
-          "tam": 46
+          "texto": "E no Brasil?\n[[verde:Doação com usufruto]]: o bem passa pros filhos e você continua usando.\n[[verde:Holding]]: os bens vão pra uma empresa da família.",
+          "tam": 50
         }
       ],
-      "topo": 20,
+      "topo": 40,
       "espaco": 28
     },
     {
@@ -73,21 +64,12 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "na Fatos",
-          "tam": 120,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "É isso que a gente olha antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? Toca no link.",
-          "tam": 46
+          "texto": "É isso que a gente olha na Fatos antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? [[verde:Toca no link.]]",
+          "tam": 50
         }
       ],
-      "topo": 20,
+      "topo": 40,
       "espaco": 28
     }
   ]

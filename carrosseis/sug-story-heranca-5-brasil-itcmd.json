@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T18:30",
+  "atualizado": "2026-10-22T19:10",
   "legenda": "",
-  "comentario": "Aqui a herança paga ITCMD, até sobre o que está lá fora.\nE com a reforma, quem herda mais paga alíquota maior.\n\nPrevidência privada vai direto pro beneficiário, fora do inventário.\nE o STF decidiu em 2024: não paga ITCMD.",
+  "comentario": "Aqui a herança paga ITCMD, até 8%, inclusive sobre o que está lá fora.\nE com a reforma, quem herda mais paga alíquota maior.\n\nPrevidência privada (VGBL e PGBL) vai direto pro beneficiário, fora do inventário.\nE o STF decidiu em 2024: não paga ITCMD.",
   "serie": "heranca",
   "ordem_serie": 5,
   "fontes": [
@@ -44,18 +44,9 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "até 8%",
-          "tam": 150,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "Aqui a herança paga ITCMD, até sobre o que está lá fora.\nE com a reforma, quem herda mais paga alíquota maior.",
-          "tam": 46
+          "texto": "Aqui a herança paga ITCMD, [[vermelho:até 8%]], inclusive sobre o que está lá fora.\nE com a reforma, quem herda mais paga alíquota maior.",
+          "tam": 50
         }
       ]
     },
@@ -75,18 +66,9 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "VGBL e PGBL",
-          "tam": 120,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "Previdência privada vai direto pro beneficiário, fora do inventário.\nE o STF decidiu em 2024: não paga ITCMD.",
-          "tam": 46
+          "texto": "Previdência privada (VGBL e PGBL) vai direto pro beneficiário, [[verde:fora do inventário]].\nE o STF decidiu em 2024: [[verde:não paga ITCMD]].",
+          "tam": 50
         }
       ]
     }

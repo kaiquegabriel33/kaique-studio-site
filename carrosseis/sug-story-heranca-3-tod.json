@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T18:30",
+  "atualizado": "2026-10-22T19:10",
   "legenda": "",
-  "comentario": "Transfer on Death: você deixa escrito quem recebe a conta.\nAí ela passa pra família sem inventário nos EUA.\n\nTOD acelera, mas não isenta.\nOs 18% a 40% continuam valendo.",
+  "comentario": "TOD (Transfer on Death): você deixa escrito quem recebe a conta.\nAí ela passa pra família sem inventário nos EUA.\n\nMas o TOD acelera, não isenta.\nOs 18% a 40% de imposto continuam valendo.",
   "serie": "heranca",
   "ordem_serie": 3,
   "fontes": [
@@ -40,18 +40,9 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "TOD",
-          "tam": 150,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "Transfer on Death: você deixa escrito quem recebe a conta.\nAí ela passa pra família sem inventário nos EUA.",
-          "tam": 46
+          "texto": "[[verde:TOD]] (Transfer on Death): você deixa escrito quem recebe a conta.\nAí ela passa pra família [[verde:sem inventário]] nos EUA.",
+          "tam": 50
         }
       ]
     },
@@ -71,18 +62,9 @@
       },
       "elementos": [
         {
-          "tipo": "texto",
-          "texto": "o imposto fica",
-          "tam": 110,
-          "peso": 800,
-          "lh": 1.05,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
-        {
           "tipo": "caixa_story",
-          "texto": "TOD acelera, mas não isenta.\nOs 18% a 40% continuam valendo.",
-          "tam": 46
+          "texto": "Mas o TOD acelera, [[vermelho:não isenta]].\nOs [[vermelho:18% a 40%]] de imposto continuam valendo.",
+          "tam": 50
         }
       ]
     }

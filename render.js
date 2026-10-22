@@ -625,11 +625,58 @@
   // Caixa de texto do Instagram, como ele usa no story: comentário curto em caixa branca, letra serifada,
   // centralizado, em cima do print da notícia ou do gráfico.
   const SERIFA = 'Georgia, "Times New Roman", serif';
+  // 22/10, ele: "tudo no quadradinho branco… se for pra destacar algo, fonte vermelha ou verde nas letras dentro do quadrado".
+  // [[vermelho:até 40%]] / [[verde:TOD]] pintam só aquelas palavras dentro da caixa_story. Devolve parágrafos → palavras →
+  // trechos {t, cor} (cor null = preto). Espaço comum separa palavras; o inseparável do colarNumeros não.
+  const CORES_CAIXA = { vermelho: '#D32F2F', verde: '#2E7D32' };
+  function palavrasCor(texto) {
+    const segs = [], re = /\[\[(vermelho|verde):([^\]]*)\]\]/g;
+    let ult = 0, m;
+    const bruto = String(texto || '');
+    while ((m = re.exec(bruto))) {
+      if (m.index > ult) segs.push({ t: bruto.slice(ult, m.index), cor: null });
+      segs.push({ t: m[2], cor: CORES_CAIXA[m[1]] });
+      ult = re.lastIndex;
+    }
+    if (ult < bruto.length) segs.push({ t: bruto.slice(ult), cor: null });
+    const pars = [[]];
+    let palavra = [];
+    const fecha = () => { if (palavra.length) { pars[pars.length - 1].push(palavra); palavra = []; } };
+    for (const s of segs) {
+      for (const c of colarNumeros(s.t)) {
+        if (c === ' ' || c === '\t') { fecha(); continue; }
+        if (c === '\n') { fecha(); pars.push([]); continue; }
+        const ult2 = palavra[palavra.length - 1];
+        if (ult2 && ult2.cor === s.cor) ult2.t += c; else palavra.push({ t: c, cor: s.cor });
+      }
+    }
+    fecha();
+    return pars;
+  }
+  const textoSemCor = (t) => String(t || '').replace(/\[\[(?:vermelho|verde):([^\]]*)\]\]/g, '$1');
+
   TIPOS.caixa_story = {
     _lay(ctx, el) {
       const w = el.w ?? LARG_UTIL, pad = 26, tam = el.tam ?? 42, lh = 1.22;
       ctx.font = `400 ${tam}px ${SERIFA}`;
       const linhas = [], cabe = w - 2 * pad;
+      if (/\[\[(vermelho|verde):/.test(el.texto || '')) {
+        // com cor: cada linha é uma lista de palavras (trechos coloridos); desenhada palavra a palavra
+        const larg = (pal) => pal.reduce((a, r) => a + ctx.measureText(r.t).width, 0);
+        const esp = ctx.measureText(' ').width;
+        for (const par of palavrasCor(el.texto)) {
+          let atual = [], wa = 0;
+          for (const pal of par) {
+            const wp = larg(pal);
+            if (atual.length && wa + esp + wp > cabe) { linhas.push({ pals: atual, w: wa }); atual = []; wa = 0; }
+            wa += (atual.length ? esp : 0) + wp; atual.push(pal);
+          }
+          if (atual.length) linhas.push({ pals: atual, w: wa });
+        }
+        if (!linhas.length) return { w, larg: 0, pad, tam, lh, linhas, h: 0 };
+        const L = Math.min(w, Math.max(...linhas.map((l) => l.w)) + 2 * pad);
+        return { w, larg: L, pad, tam, lh, linhas, cor: true, esp, h: linhas.length * tam * lh + 2 * pad - tam * (lh - 1) };
+      }
       // \n quebra a linha; "R$ 104" não se separa (colarNumeros usa espaço inseparável, por isso só o espaço comum divide)
       for (const par of colarNumeros(el.texto).split('\n')) {
         let atual = '';
@@ -655,7 +702,21 @@
       if (!L.linhas.length) return;
       ctx.save();
       ctx.fillStyle = '#ffffff'; retRedondo(ctx, x0, el.y, L.larg, L.h, 8); ctx.fill();
-      ctx.fillStyle = '#111111'; ctx.font = `400 ${L.tam}px ${SERIFA}`; ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+      ctx.font = `400 ${L.tam}px ${SERIFA}`; ctx.textBaseline = 'top';
+      if (L.cor) {
+        ctx.textAlign = 'left';
+        L.linhas.forEach((ln, i) => {
+          let x = x0 + (L.larg - ln.w) / 2;
+          const y = el.y + L.pad + i * L.tam * L.lh;
+          ln.pals.forEach((pal, k) => {
+            if (k) x += L.esp;
+            for (const r of pal) { ctx.fillStyle = r.cor || '#111111'; ctx.fillText(r.t, x, y); x += ctx.measureText(r.t).width; }
+          });
+        });
+        ctx.restore();
+        return;
+      }
+      ctx.fillStyle = '#111111'; ctx.textAlign = 'center';
       L.linhas.forEach((ln, i) => ctx.fillText(ln, x0 + L.larg / 2, el.y + L.pad + i * L.tam * L.lh));
       ctx.restore();
     },
@@ -993,7 +1054,7 @@
 
   // Texto da página para leitor de tela (o canvas em si é só desenho).
   function textoDoSlide(slide) {
-    const limpo = (t) => String(t || '').replace(/\*\*|==/g, '').replace(/\s+/g, ' ').trim();
+    const limpo = (t) => textoSemCor(t).replace(/\*\*|==/g, '').replace(/\s+/g, ' ').trim();
     const partes = [];
     for (const e of (slide && slide.elementos) || []) {
       if (e.tipo === 'texto' || e.tipo === 'caixa_story') partes.push(limpo(e.texto));
@@ -1012,5 +1073,6 @@
   }
 
   global.KSRender = { W, H, alturaDe, deslocamentoDe, limiteDe, TEMAS, CAB, MARGEM, LARG_UTIL, TOPO_CONTEUDO, LIMITE_INFERIOR, TIPOS,
-    carregarFontes, preCarregar, desenharSlide, diagramarSlide, renderizarParaCanvas, canvasParaBlob, diagramarTexto, textoDoSlide };
+    carregarFontes, preCarregar, desenharSlide, diagramarSlide, renderizarParaCanvas, canvasParaBlob, diagramarTexto, textoDoSlide,
+    palavrasCor, textoSemCor };
 })(window);
