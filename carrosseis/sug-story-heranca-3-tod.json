@@ -6,7 +6,7 @@
   "criado": "2026-10-22T18:30:00-03:00",
   "atualizado": "2026-10-22T19:20",
   "legenda": "",
-  "comentario": "Primeiro passo: o TOD. Funciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, sem fila de inventário lá fora.\n\nMas atenção: o TOD tira a fila, não tira a mordida.\nOs 18% a 40% continuam valendo.",
+  "comentario": "A primeira coisa que a gente olhou beira o ridículo de tão simples: o TOD.\nMuita gente tem dinheiro lá fora e nunca assinou esse termo.\nFunciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, sem inventário lá fora.\n\nMas atenção: o TOD tira a fila, não tira a mordida.\nOs 18% a 40% continuam valendo.",
   "serie": "heranca",
   "ordem_serie": 3,
   "fontes": [
@@ -41,7 +41,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "Primeiro passo: o [[verde:TOD]]. Funciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, [[verde:sem fila de inventário]] lá fora.",
+          "texto": "A primeira coisa que a gente olhou [[vermelho:beira o ridículo]] de tão simples: o [[verde:TOD]].\nMuita gente tem dinheiro lá fora e [[vermelho:nunca assinou esse termo]].\nFunciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, [[verde:sem inventário]] lá fora.",
           "tam": 50
         }
       ]
