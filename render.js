@@ -288,7 +288,15 @@
     medir(ctx, el) { return (el.h ?? 500) + (el.credito ? 40 : 0); },
     desenhar(ctx, el, tema) {
       const img = imagemPronta(el.src);
-      const x = el.x ?? MARGEM, w = el.w ?? LARG_UTIL, h = el.h ?? 500;
+      let x = el.x ?? MARGEM, w = el.w ?? LARG_UTIL, h = el.h ?? 500, y = el.y;
+      // 'conter': a caixa (borda e cantos) abraça a imagem; sem moldura vazia em volta do print (21/10).
+      if (img && el.ajuste === 'conter') {
+        const ri = img.width / img.height;
+        let dw = w, dh = h;
+        if (ri > w / h) dh = w / ri; else dw = h * ri;
+        x += (w - dw) / 2; y += (h - dh) / 2; w = dw; h = dh;
+      }
+      el = { ...el, y };
       ctx.save();
       retRedondo(ctx, x, el.y, w, h, el.raio ?? 24); ctx.clip();
       if (img) desenharImagemAjustada(ctx, img, x, el.y, w, h, el.ajuste || 'cobrir', el.foco);
