@@ -1,0 +1,48 @@
+{
+  "id": "sug-story-arrecadacao-recorde-setembro",
+  "titulo": "Story: governo arrecada R$ 239 bi em setembro, recorde para o mês",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T16:45:00-03:00",
+  "atualizado": "2026-10-22T16:45",
+  "legenda": "",
+  "comentario": "O governo arrecadou R$ 239 bilhões em setembro, o maior setembro desde 2000. No ano já são R$ 2,35 trilhões. E mesmo assim a XP diz que vai precisar de mais pra bater a meta fiscal.",
+  "repost_url": "https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/",
+  "fontes": [
+    {
+      "titulo": "Money Times — Arrecadação bate recorde em setembro, mas perde fôlego e acende alerta para meta fiscal, diz XP (22/10/2026; dados da Receita Federal)",
+      "url": "https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O governo arrecadou R$ 239 bilhões em setembro, o maior setembro desde 2000. No ano já são R$ 2,35 trilhões. E mesmo assim a XP diz que vai precisar de mais pra bater a meta fiscal."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-arrecadacao-recorde-setembro/print-money-times-limpo.png",
+          "h": 360,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-arrecadacao-recorde-setembro/arrecadacao-bate-recorde-em-setembro-mas-perde-f.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "clarear": 0.2
+      }
+    }
+  ]
+}
