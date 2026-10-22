@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-bolsa-quaest-datafolha",
+  "titulo": "Story: Bolsa cai 0,86% com a Quaest; Datafolha sai em 22/10",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T11:30",
+  "atualizado": "2026-10-22T11:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-bolsa-quaest-datafolha/dolar-sobe-e-bolsa-cai-com-investidores-repercut.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        },
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Bolsa caiu 0,86% na quarta (21/10) com a Quaest dando Flávio só 1 ponto à frente. Nesta quinta sai o Datafolha. Na reta final, cada pesquisa mexe na sua carteira."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bolsa-quaest-datafolha/print-folha-dolar-sobe-e-bolsa-cai-com-inves.png",
+          "h": 512,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "centralizar": true
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Folha — Dólar sobe e Bolsa cai com investidores repercutindo nova pesquisa eleitoral (21/10/2026)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-perto-da-estabilidade-a-espera-de-nova-pesquisa-eleitoral.shtml"
+    }
+  ]
+}
