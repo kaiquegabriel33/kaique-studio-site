@@ -1,0 +1,72 @@
+{
+  "id": "sug-video-durigan-vira-pix",
+  "titulo": "Durigan diz que o “Vira Pix” do Flávio é “slogan vazio” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-22T16:45",
+  "atualizado": "2026-10-22T16:55",
+  "trecho": {
+    "inicio": "O governo federal vai fazer um PIX",
+    "fim": "Não o slogan vazio",
+    "texto": "O governo federal vai fazer um PIX na conta das famílias com renda mais baixa, devolvendo parte dos impostos pagos nas compras do dia a dia. E para essas famílias, também zeramos o imposto federal sobre a conta de luz, a conta de celular, a conta de água e esgoto e no gás de cozinha. Tem até um nome para isso em inglês, cashback, que nada mais é do que te devolver o dinheiro. E para o Brasil inteiro, a reforma tributária também tirou 100% do imposto da cesta básica a partir de 1º de janeiro. Por que eu estou dizendo isso para você agora? O Flávio Bolsonaro é contra a reforma tributária e quer adiar a isenção da cesta básica, o desconto nas contas do dia a dia e também o PIX na conta das famílias com mais baixa renda. E agora, na véspera da eleição, ele falou de uma outra devolução do PIX como se fosse uma grande novidade. De quanto é essa devolução? Quem recebe? De onde sai o dinheiro? Isso ninguém explicou. O presidente Lula e eu preferimos garantir o dinheiro que já tem lei e data para chegar. Não o slogan vazio.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "O governo federal vai fazer um PIX",
+        "texto": "20/10: Flávio lança o “Vira Pix”, sem dizer o custo"
+      },
+      {
+        "cor": "verde",
+        "desde": "Tem até um nome para isso",
+        "texto": "Cashback da reforma: lei de 2025, começa em 2027"
+      }
+    ],
+    "trocar_palavras": {
+      "sexta básica": "cesta básica",
+      "sexta 1º": "cesta básica a partir de 1º"
+    },
+    "gancho": "Quem recebe? De onde sai o dinheiro? Isso ninguém explicou.",
+    "cta": true
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Durigan diz que o “Vira Pix” do Flávio é ==“slogan vazio”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "“Não o slogan vazio.” Foi assim que o ministro da Fazenda, Dario Durigan, respondeu ao “Vira Pix” do Flávio.\n\nNa terça (20/10), a campanha do Flávio prometeu devolver por Pix parte do que a pessoa gasta com contas e prestações, sem dizer quanto custa nem quem recebe. Na quarta à noite (21/10), o Durigan publicou um vídeo dizendo que a devolução já existe: o cashback da reforma tributária (lei de 2025), que começa em 2027 para as famílias de renda mais baixa do CadÚnico. Promessa nova ou dinheiro que já tem lei? O que você acha?\n\nVídeo: Dario Durigan, via Poder360 (21/10/2026). Fontes: g1, Folha e Poder360 (20 e 21/10/2026); Lei Complementar 214/2025.\n\n#ViraPix #cashback #reformatributaria #Durigan #FlavioBolsonaro",
+  "fontes": [
+    {
+      "titulo": "Poder360 (YouTube) — Durigan responde Flávio com vídeo sobre “Pix da reforma tributária” (21/10/2026)",
+      "url": "https://www.youtube.com/watch?v=gF3K7BtoNpI"
+    },
+    {
+      "titulo": "g1 — A 5 dias do 2º turno, Flávio propõe devolver via PIX parte de gastos com contas e prestações, mas não detalha custos (20/10/2026)",
+      "url": "https://news.google.com/rss/search?q=Fl%C3%A1vio+%22Vira+Pix%22"
+    },
+    {
+      "titulo": "Folha — Flávio Bolsonaro promete 'cashback' em Pix aos moldes da reforma tributária, mas não detalha custo (21/10/2026)",
+      "url": "https://news.google.com/rss/search?q=Fl%C3%A1vio+%22Vira+Pix%22"
+    },
+    {
+      "titulo": "Folha — Cashback da reforma tributária começa em 2027 com pagamentos trimestrais (07/08/2026); Lei Complementar 214/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+    }
+  ]
+}
