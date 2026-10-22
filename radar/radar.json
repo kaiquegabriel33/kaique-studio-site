@@ -1,194 +1,277 @@
 {
- "atualizado": "2026-10-22T15:08-03:00",
+ "atualizado": "2026-10-22T16:07-03:00",
  "em_alta": [
   {
-   "termo": "fato ou fake",
-   "trafego": "1000+",
+   "termo": "agência nacional de telecomunicações",
+   "trafego": "500+",
    "temas": [
     "politica"
    ],
    "video": false,
    "noticias": [
     {
-     "titulo": "Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo",
-     "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/22/saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
-     "veiculo": "G1"
+     "titulo": "Falha global que deixou parte da internet fora do ar atingiu o Brasil",
+     "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/falha-global-que-deixou-parte-da-internet-fora-do-ar-atingiu-o-brasil/",
+     "veiculo": "CNN Brasil"
     },
     {
-     "titulo": "Folha e Agência Lupa farão checagem ao vivo durante debate da TV Globo",
-     "url": "https://www1.folha.uol.com.br/poder/2026/10/folha-e-agencia-lupa-farao-checagem-ao-vivo-durante-debate-da-tv-globo.shtml",
+     "titulo": "Falha faz governos e tribunais no Brasil suspenderem sistemas em meio a milhões de tentativas de invasão",
+     "url": "https://www1.folha.uol.com.br/tec/2026/10/falha-descoberta-por-ia-gera-correria-dos-governos-por-correcao-em-meio-a-milhoes-de-tentativas-de-invasao.shtml",
      "veiculo": "Folha de S.Paulo"
     },
     {
-     "titulo": "Eleições: entidades vão checar informações ao vivo durante debate",
-     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-entidades-vao-checar-informacoes-ao-vivo-durante-debate",
-     "veiculo": "Agência Brasil"
+     "titulo": "Sites de governos na Europa saem do ar após falha descoberta por IA",
+     "url": "https://www.poder360.com.br/poder-tech/sites-de-governos-na-europa-saem-do-ar-apos-falha-descoberta-por-ia/",
+     "veiculo": "Poder360"
     }
    ],
-   "publicado": "2026-10-22T10:40:00-07:00"
+   "publicado": "2026-10-22T11:30:00-07:00"
   }
  ],
  "pautas": [
   {
-   "id": "6121b4bff2",
-   "titulo": "Deltan diz que vai analisar documentos apresentados por Lula",
-   "url": "https://www.youtube.com/watch?v=YuF8yw7zcd4",
+   "id": "ce3cf25998",
+   "titulo": "DUELO DE SIGILOS MOBILIZA CAMPANHAS DE FLÁVIO E LULA - BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=kr-F7mAfabY",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-22T18:48:35+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=DUELO+SIGILOS+MOBILIZA+CAMPANHAS+FL%C3%81VIO+LULA+BASTIDORES+CNN",
+   "veiculos": 9,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Lula x Flávio Bolsonaro: Quebra do sigilo é a Nossa Senhora Aparecida do 2º turno | Josias",
+     "url": "https://www.youtube.com/watch?v=kqIG_dMzQ-Y"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Campanhas de Flávio e Lula assinam acordo para tratar de quebras de sigilo; veja | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=wZtYd4wvEhQ"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "'Esquema na pandemia' lidera buscas sobre Flávio; Lula aparece com 'quebra de sigilo' na reta final",
+     "url": "https://www.youtube.com/watch?v=2owEI-yb3dA"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Quebra do sigilo: Campanhas de Lula e Flávio Bolsonaro estão unidas em torno de uma farsa | Josias",
+     "url": "https://www.youtube.com/watch?v=XvnMw3OQov0"
+    }
+   ],
+   "score": 60.9,
+   "video_url": "https://www.youtube.com/watch?v=kr-F7mAfabY",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 206567,
+   "video_acima_mediana": 116.4,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "DUELO DE SIGILOS MOBILIZA CAMPANHAS DE FLÁVIO E LULA - BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=kr-F7mAfabY",
+     "por_hora": 206567
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Campanhas concordam em abrir sigilos, mas Flávio impõe nova condição: só após analisar dados de Lula",
+     "url": "https://www.youtube.com/watch?v=b_g9iW49EzU",
+     "por_hora": 13000
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lula e Flávio Bolsonaro assinam petição para abrir sigilos bancários no TSE | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=pgA-RslT-20",
+     "por_hora": 12292
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Campanhas de Flávio e Lula assinam acordo para tratar de quebras de sigilo; veja | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=wZtYd4wvEhQ",
+     "por_hora": 11138
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Flávio aceitou abrir sigilo de empresa com Willer, investigado por fraude no INSS, diz Camilo",
+     "url": "https://www.youtube.com/watch?v=Vl1-6dy-Src",
+     "por_hora": 10500
+    },
+    {
+     "canal": "UOL",
+     "titulo": "'Esquema na pandemia' lidera buscas sobre Flávio; Lula aparece com 'quebra de sigilo' na reta final",
+     "url": "https://www.youtube.com/watch?v=2owEI-yb3dA",
+     "por_hora": 4633
+    }
+   ]
+  },
+  {
+   "id": "0c271fea3e",
+   "titulo": "Flávio tem 50,6% dos votos válidos e Lula, 49,4%, diz pesquisa",
+   "url": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-506-dos-votos-validos-e-lula-494-diz-pesquisa/",
    "veiculo": "Poder360",
-   "publicado": "2026-10-22T18:04:27+00:00",
+   "publicado": "2026-10-22T18:35:55+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+50%2C6%25+dos+votos+v%C3%A1lidos+Lula%2C+49%2C4%25%2C+diz",
+   "veiculos": 13,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "PoderData/AYA: Flávio Bolsonaro tem 51% e Lula 49% | BandNews TV",
+     "url": "https://www.youtube.com/watch?v=zDBkb5yfpHI"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Carteira assinada ou negócio próprio? Pesquisa expõe diferenças entre eleitores de Lula e Flávio",
+     "url": "https://exame.com/brasil/carteira-assinada-ou-negocio-proprio-pesquisa-expoe-diferencas-entre-eleitores-de-lula-e-flavio/"
+    },
+    {
+     "veiculo": "Tudo ok Notícias",
+     "titulo": "Flávio tem 51% e Lula, 49%, aponta pesquisa",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWXFnVVNKX1NvUjFFX24wU3Bnelc2MzliRHdEWlBkUWNBakxNTzdhaTljOXk0a2JQbXBrcmJnY1JLN0R0VE5yV1JqTlBoNGJBZmtrUHlIZXhZWVBsZWRkVDVnanY5V1MyTDIteUc5Mzg5REk5My1zMlM4bFJwX1RfVV8zZw?oc=5"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%; aponta PoderData/AYA | LIVE CNN",
+     "url": "https://www.youtube.com/watch?v=PPUCaJqf29I"
+    }
+   ],
+   "score": 59.9,
+   "video_url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 20369,
+   "video_acima_mediana": 42.4,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Flávio Bolsonaro e Lula empatam na disputa pela Presidência, diz PoderData",
+     "url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
+     "por_hora": 20369
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
+     "url": "https://www.youtube.com/watch?v=oGPTihERhM4",
+     "por_hora": 20333
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%; aponta PoderData/AYA | LIVE CNN",
+     "url": "https://www.youtube.com/watch?v=PPUCaJqf29I",
+     "por_hora": 14250
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "PoderData/AYA: Flávio Bolsonaro tem 51% e Lula 49% | BandNews TV",
+     "url": "https://www.youtube.com/watch?v=zDBkb5yfpHI",
+     "por_hora": 4238
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "PoderData: Flávio Bolsonaro e Lula empatam na disputa pela presidência | Bora Brasil",
+     "url": "https://www.youtube.com/watch?v=hn_AsY68aeM",
+     "por_hora": 2500
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Meio/Ideia: Flávio Bolsonaro tem 51,1% contra 48,9% de Lula | #SBTBrasil",
+     "url": "https://www.youtube.com/watch?v=67Oa2Ikr6gU",
+     "por_hora": 2056
+    }
+   ]
+  },
+  {
+   "id": "1b1359c81e",
+   "titulo": "Advogada de Flávio diz que senador entregará dados depois de Lula",
+   "url": "https://www.youtube.com/watch?v=_ehVo4ySC2c",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:53:22+00:00",
    "temas": [
     "economia",
     "politica"
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Deltan+diz+que+vai+analisar+documentos+apresentados+por+Lula",
-   "veiculos": 14,
+   "busca_video": "https://www.youtube.com/results?search_query=Advogada+Fla+vio+diz+que+senador+entregara+dados+depois",
+   "veiculos": 11,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Poder360",
-     "titulo": "Deltan: “Última vez que analisei documentos, Lula foi parar na cadeia”",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/deltan-ultima-vez-que-analisei-documentos-lula-foi-parar-na-cadeia/"
+     "veiculo": "CNN Brasil",
+     "titulo": "Advogada diz que entregará sigilo de Flávio após analisar dados de Lula",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/equipe-de-flavio-quer-analisar-documentos-de-lula-antes-de-entregar-sigilo/"
     },
     {
-     "veiculo": "Exame",
-     "titulo": "Campanha de Flávio Bolsonaro diz que só abre sigilos após analisar documentos de Lula",
-     "url": "https://exame.com/brasil/flavio-bolsonaro-so-abrira-sigilos-apos-analisar-documentos-de-lula-diz-campanha/"
+     "veiculo": "Valor",
+     "titulo": "Lula e Flávio Bolsonaro assinam termo autorizando abertura de sigilos bancário, fiscal e telefônico",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/lula-e-flavio-informam-conjuntamente-que-aceitaram-abertura-de-sigilos-diz-camilo-santana.ghtml"
+    },
+    {
+     "veiculo": "Lula",
+     "titulo": "Campanha de Lula vai ao TSE e autoriza abertura de sigilos",
+     "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc"
     },
     {
      "veiculo": "SBT News",
      "titulo": "Campanha de Flávio escala Deltan para analisar sigilos de Lula | #RadarNews",
      "url": "https://www.youtube.com/watch?v=Wdh2287sjow"
-    },
-    {
-     "veiculo": "SBT News",
-     "titulo": "Campanha de Flávio Bolsonaro só abrirá sigilo após analisar o de Lula | #SBTNews",
-     "url": "https://www.youtube.com/watch?v=oDADISm644g"
     }
    ],
-   "score": 61.0,
-   "video_url": "https://www.youtube.com/watch?v=FSG5PMX3fF8",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 51725,
-   "video_acima_mediana": 60.9,
+   "score": 55.9,
+   "video_url": "https://www.youtube.com/watch?v=9McLeRmlIZo",
+   "video_canal": "SBT News",
+   "video_por_hora": 17454,
+   "video_acima_mediana": 20.3,
    "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "PESQUISAS ELEITORAIS / SIGILOS DE FLÁVIO E LULA | JORNAL DA MANHÃ - 2ª EDIÇÃO - 22/10/2026",
-     "url": "https://www.youtube.com/watch?v=FSG5PMX3fF8",
-     "por_hora": 51725
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "CAMPANHAS DE LULA E FLÁVIO PROMETEM ENTREGAR SIGILOS BANCÁRIOS | MORNING SHOW - 22/10/26",
-     "url": "https://www.youtube.com/watch?v=-8vY_Docx78",
-     "por_hora": 24596
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Lula aceita exigências de Flávio Bolsonaro para quebra de sigilos  | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=Ppd7Yi8JFqQ",
-     "por_hora": 19000
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Lula diz que aceita quebrar sigilo de Marcola, e Flávio Bolsonaro amplia exigências",
-     "url": "https://www.youtube.com/watch?v=Ig0EngfIFDo",
-     "por_hora": 18667
-    },
     {
      "canal": "SBT News",
      "titulo": "Equipe de Lula chega ao TSE para protocolar quebra de sigilo | #SBTNews",
      "url": "https://www.youtube.com/watch?v=9McLeRmlIZo",
-     "por_hora": 18560
+     "por_hora": 17454
     },
     {
      "canal": "SBT News",
      "titulo": "Campanha de Flávio Bolsonaro só abrirá sigilo após analisar o de Lula | #SBTNews",
      "url": "https://www.youtube.com/watch?v=oDADISm644g",
-     "por_hora": 17806
-    }
-   ]
-  },
-  {
-   "id": "34746623e9",
-   "titulo": "Flávio aceita abrir sigilo, mas condiciona a 19 exigências",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-aceita-abrir-sigilo-se-marcola-fizer-o-mesmo/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-22T17:35:01+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+aceita+abrir+sigilo%2C+mas+condiciona+exig%C3%AAncias",
-   "veiculos": 10,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Lula e Flávio Bolsonaro assinam petição para abrir sigilos bancários no TSE | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=pgA-RslT-20"
-    },
-    {
-     "veiculo": "MyNews",
-     "titulo": "PETISTAS COBRAM QUEBRA DE SIGILO DE FLÁVIO BOLSONARO, NO TSE",
-     "url": "https://www.youtube.com/watch?v=2nHhWvN6lMU"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Lula e Flávio Bolsonaro assinam acordo para abrir sigilos, mas divergem sobre entrega dos dados",
-     "url": "https://exame.com/brasil/lula-e-flavio-bolsonaro-assinam-acordo-para-abrir-sigilos-mas-divergem-sobre-entrega-dos-dados/"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Campanhas concordam em abrir sigilos, mas Flávio impõe nova condição: só após analisar dados de Lula",
-     "url": "https://www.youtube.com/watch?v=b_g9iW49EzU"
-    }
-   ],
-   "score": 49.6,
-   "video_url": "https://www.youtube.com/watch?v=Vl1-6dy-Src",
-   "video_canal": "UOL",
-   "video_por_hora": 12000,
-   "video_acima_mediana": 2.6,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Flávio aceitou abrir sigilo de empresa com Willer, investigado por fraude no INSS, diz Camilo",
-     "url": "https://www.youtube.com/watch?v=Vl1-6dy-Src",
-     "por_hora": 12000
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Lula e Flávio Bolsonaro assinam petição para abrir sigilos bancários no TSE | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=pgA-RslT-20",
-     "por_hora": 10163
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Campanhas concordam em abrir sigilos, mas Flávio impõe nova condição: só após analisar dados de Lula",
-     "url": "https://www.youtube.com/watch?v=b_g9iW49EzU",
-     "por_hora": 9600
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Deltan não responde quando Flávio mostrará documentos e diz que Lula não quer liberar sigilos",
-     "url": "https://www.youtube.com/watch?v=h1U2EX6FWIY",
-     "por_hora": 7900
+     "por_hora": 16894
     },
     {
      "canal": "Band Jornalismo",
-     "titulo": "Mendonça decidirá sobre quebra de sigilos de Lula e Flávio",
-     "url": "https://www.youtube.com/watch?v=hVCG0EmeFn4",
-     "por_hora": 5127
+     "titulo": "Lula aceita exigências de Flávio Bolsonaro para quebra de sigilos  | Bora Brasil",
+     "url": "https://www.youtube.com/watch?v=Ppd7Yi8JFqQ",
+     "por_hora": 16333
     },
     {
-     "canal": "GloboNews",
-     "titulo": "Lula e Flávio Bolsonaro aceitam abertura simultânea de sigilos; Mendonça decidirá sobre pedido",
-     "url": "https://www.youtube.com/watch?v=2KadXQ-wqMQ",
-     "por_hora": 2161
+     "canal": "Lula",
+     "titulo": "Campanha de Lula vai ao TSE e autoriza abertura de sigilos",
+     "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc",
+     "por_hora": 14642
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Lula aceita condições de Flávio para abertura do sigilos bancário e telefônico | BORA BRASIL",
+     "url": "https://www.youtube.com/watch?v=0uSwQaBt3XU",
+     "por_hora": 12205
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Campanha de Flávio escala Deltan para analisar sigilos de Lula | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=Wdh2287sjow",
+     "por_hora": 7321
     }
    ]
   },
@@ -197,7 +280,7 @@
    "titulo": "“O povo vai fiscalizar”, diz Edinho sobre sigilo de Flavio",
    "url": "https://www.youtube.com/watch?v=_chHBmE1bgc",
    "veiculo": "Poder360",
-   "publicado": "2026-10-22T17:46:22+00:00",
+   "publicado": "2026-10-22T18:53:18+00:00",
    "temas": [
     "economia",
     "politica"
@@ -205,94 +288,186 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=povo+vai+fiscalizar+diz+Edinho+sobre+sigilo+Flavio",
-   "veiculos": 15,
+   "veiculos": 8,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Metrópoles",
-     "titulo": "Lula acompanhará apuração do 2º turno em SP; Flávio, em Brasília",
-     "url": "https://www.metropoles.com/colunas/igor-gadelha/lula-acompanhara-apuracao-do-2o-turno-em-sp-flavio-em-brasilia"
+     "veiculo": "Poder360",
+     "titulo": "Deltan diz que Lula não entregou documentos em reunião no TSE",
+     "url": "https://www.youtube.com/watch?v=X4-9BzZLBgk"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "Lula e Flávio Bolsonaro vivem 'duelo da quebra de sigilos' a três dias do 2º turno | #SBTNews",
-     "url": "https://www.youtube.com/watch?v=FKGQiAqXIBc"
+     "veiculo": "UOL",
+     "titulo": "Deltan não responde quando Flávio mostrará documentos e diz que Lula não quer liberar sigilos",
+     "url": "https://www.youtube.com/watch?v=h1U2EX6FWIY"
     },
     {
-     "veiculo": "Lula",
-     "titulo": "Abre o sigilo, Flávio",
-     "url": "https://www.youtube.com/watch?v=7FbBviLe-Mw"
+     "veiculo": "Portal 6",
+     "titulo": "Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWc2WEJZVXQwQ2dtYTlpdnFKRTlVdkFoNlFQV1IwMVp4YWpGQUF0MDJCbVVGUUNPd25XWE9hamdhNGluMm1aRDlFUzJJR0J1UmtqNzRvOGhzMVBndmJIUnJ0NlFQUVlCcHVpSGVQN2xDblUwUjNiZlBhSWNMUXJZUjlCQ1c2eHV2dk01UTVaQXA0d1BmS1I2dGtuWlBCQ2F0R1ZreDJJUzNWeDA2cUdmMDFLLXZyR1ctQmlETTd1Y1ZzaVE3TEg4?oc=5"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Campanhas de Flávio e Lula vão ao TSE para tratar de quebras de sigilo | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=50p5fiDcNVc"
+     "veiculo": "Portal 6",
+     "titulo": "Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWc2WEJZVXQwQ2dtYTlpdnFKRTlVdkFoNlFQV1IwMVp4YWpGQUF0MDJCbVVGUUNPd25XWE9hamdhNGluMm1aRDlFUzJJR0J1UmtqNzRvOGhzMVBndmJIUnJ0NlFQUVlCcHVpSGVQN2xDblUwUjNiZlBhSWNMUXJZUjlCQ1c2eHV2dk01UTVaQXA0d1BmS1I2dGtuWlBCQ2F0R1ZreDJJUzNWeDA2cUdmMDFLLXZyR1ctQmlETTd1Y1ZzaVE3TEg4?oc=5"
     }
    ],
-   "score": 47.4,
-   "video_url": "https://www.youtube.com/watch?v=I9MzmRKFyFc",
-   "video_canal": "Lula",
-   "video_por_hora": 16379,
-   "video_acima_mediana": 3.4,
+   "score": 52.2,
+   "video_url": "https://www.youtube.com/watch?v=YuF8yw7zcd4",
+   "video_canal": "Poder360",
+   "video_por_hora": 15716,
+   "video_acima_mediana": 28.1,
    "videos": [
     {
-     "canal": "Lula",
-     "titulo": "Campanha de Lula vai ao TSE e autoriza abertura de sigilos",
-     "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc",
-     "por_hora": 16379
+     "canal": "Poder360",
+     "titulo": "Deltan diz que vai analisar documentos apresentados por Lula",
+     "url": "https://www.youtube.com/watch?v=YuF8yw7zcd4",
+     "por_hora": 15716
     },
     {
-     "canal": "CNN Brasil",
-     "titulo": "Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%; aponta PoderData/AYA | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=PPUCaJqf29I",
-     "por_hora": 16000
+     "canal": "UOL",
+     "titulo": "Deltan não responde quando Flávio mostrará documentos e diz que Lula não quer liberar sigilos",
+     "url": "https://www.youtube.com/watch?v=h1U2EX6FWIY",
+     "por_hora": 7000
     },
     {
      "canal": "Lula",
      "titulo": "Abre o sigilo, Flávio",
      "url": "https://www.youtube.com/watch?v=7FbBviLe-Mw",
-     "por_hora": 8175
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Sigilo de Flávio Bolsonaro: advogada diz que só autorizará quebra se Lula entregar o dele primeiro",
-     "url": "https://www.youtube.com/watch?v=QOmn7CMy5K4",
-     "por_hora": 6500
+     "por_hora": 5739
     },
     {
      "canal": "SBT News",
      "titulo": "Lula e Flávio Bolsonaro vivem 'duelo da quebra de sigilos' a três dias do 2º turno | #SBTNews",
      "url": "https://www.youtube.com/watch?v=FKGQiAqXIBc",
-     "por_hora": 5082
+     "por_hora": 3784
     },
     {
      "canal": "CNN Brasil",
-     "titulo": "Campanhas de Flávio e Lula reforçam mobilização a três dias do segundo turno | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=dC47ND2j53Y",
-     "por_hora": 3400
+     "titulo": "Campanhas de Flávio e Lula vão ao TSE para tratar de quebras de sigilo | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=50p5fiDcNVc",
+     "por_hora": 2958
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Deltan diz que Lula não entregou documentos em reunião no TSE",
+     "url": "https://www.youtube.com/watch?v=X4-9BzZLBgk",
+     "por_hora": 2250
     }
    ]
   },
   {
-   "id": "64f4a30112",
-   "titulo": "Flávio diz que Lula deve eleição de 2022 a Moraes",
-   "url": "https://www.youtube.com/watch?v=jjmQY6qiX5c",
+   "id": "6884f19090",
+   "titulo": "Durigan responde Flávio com vídeo sobre \"Pix da reforma tributária\"",
+   "url": "https://www.youtube.com/watch?v=gF3K7BtoNpI",
    "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:26:04+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Durigan+responde+Fl%C3%A1vio+com+v%C3%ADdeo+sobre+Pix+reforma+tribut%C3%A1ria",
+   "veiculos": 18,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SBT News",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnR2andPbFkxcVFjQTNqajdYeUVyLXZnT3VWbV9PdzgzQ1pkQ3pCUkhqcVpUby1lX2ZrQ01EbG12VlhQNXg1V0tBWnZPdUhYSURVbG5ock0zbFlrQ292QWRKcFYyTjBHSndRSUpBbXVGdmlhdDA0cUFwNGZmTW1TSGo3RmVMZWNvaUlsQUZwV1FyTFdlV3FpNHdvVFNCQVVLS09Z?oc=5"
+    },
+    {
+     "veiculo": "Sobral Online",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro às vésperas do 2º turno",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbnBkaXRzQm9rZlFDUDUxVnlpa3lqRnpyaGlBS1IzTTVmbVFnandkWk9rblp4QzJrdmt6U3dLcndEX0RtclB3UWtIOWpNT1hSYm1oQVpHNEhETnotQ21pNWdNWHRjYV9jY1lyclZPTy1Baml3eHlGblF2UHNURHkxTW9hWU1EYVh2dnlfWkpzaUhLSm1lZ0hkSTN5LXp6U0toNHBuVFVUWkZtMEpGS0ZV?oc=5"
+    },
+    {
+     "veiculo": "O Antagonista",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenhHblhBQU5xV1QxRDU3UGpHZGVNdS1IQVhmTTEzdnR2c2U0eXJIWDZXUXkwOU5oMWtpYVhEWjJhVlBMV3JEa2FRMllhYi1BdHdqUzBfQ3ZJYy1xUjNGWnotMi1FYy1YVERlaWhPbWlSbHhfbDB4ZGR4ZURKaV9QbUV5TXgzaUxXUldB?oc=5"
+    },
+    {
+     "veiculo": "Pleno.News",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3ZPOFRzZDVNMG1CV2JjeGpwVE5CSEdwYjhPRC1vOWllYXVzQ2tKS2NXSXgxY2JaMWlKZ2tqaEw4QjB3SW9uVUNMa2QxVFpvWHJ6S01XT2RMWmZtM0IyTkl4UU9SR215YnB6TE5uWHJZZjhOazNFN0J0eEpiTVhCM2xtOWc0Q2VPQklJRGZ0aGRObGduZU5KSm1JWDVxRmU0WHpkbU5B0gGuAUFVX3lxTFB2cTlnUHpTcFJSLVhUZ3JyS3Z1X2R3N2hjRmM1RDF0alFqaHoxd3lSVW5pTDZyV1BiUUlrcF9wWlhhRTkzNnFDSHlEV3RZYU96cTI0eEZJcUlFd1J4Nm5qMTdRRERZdXdnbW1zTnkxcy1mMVFPeVY3bFZzTTl5SFJveHRkQzBtQzhfSXJKWjQ3UGRwc1FvaVdtai1USzREQ3p5M05TTGY0XzE2YmJ0Zw?oc=5"
+    }
+   ],
+   "score": 50.8,
+   "video_url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
+   "video_canal": "UOL",
+   "video_por_hora": 12667,
+   "video_acima_mediana": 5.0,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Revelando: Meta remove teaser de episódio sobre Flávio Bolsonaro com MC Cabelinho",
+     "url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
+     "por_hora": 12667
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Durigan responde Flávio com vídeo sobre \"Pix da reforma tributária\"",
+     "url": "https://www.youtube.com/watch?v=gF3K7BtoNpI",
+     "por_hora": 382
+    }
+   ]
+  },
+  {
+   "id": "897ea19dca",
+   "titulo": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/arrecadacao-federal-sobe-562-em-setembro-e-bate-recorde.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-22T18:55:26+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Arrecada%C3%A7%C3%A3o+federal+sobe+5%2C62%25+setembro+bate+recorde",
+   "veiculos": 18,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Monitor Mercantil",
+     "titulo": "Arrecadação federal cresceu 5,62% em setembro e somou R$ 239,4 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFNEY2t3T3pwQnVWb0NrV2U2NEh2Vm80bXBLU3pZUy1mWWNUZVdCUDJhaHlqNWItU01HeElkXzJraXhDZHVxVENYMEpxbnRVbmFkd05VMWJrT2JOWjV2OUt0VUlPZldKejBQSVYtODg4Ynh4Tkp1WHozcVd0UHphRXBha1ZGVGRyS21tck1jVVdGUFVUNzhhMUhTRGI3T2lY?oc=5"
+    },
+    {
+     "veiculo": "MundoBA",
+     "titulo": "Arrecadação federal atinge R$239,4 bilhões, recorde para mês de setembro",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZm5iTjlUcnBNV3BPMW9QZjNPd3FNb1pxd0pZaVVRU3dONkVuTkNlUUU3MTZabnlYQmJqNUhVSkZNWURuVkc4RE9LRTdLRHo0cHBicGh1d0g4UjlmOGNDWTFjcU5jSHlnaGhmbE9NU3dNVHZSRjhiTjBOaGxCTmJnLVJxT1VRcmk5SU1rUE00dTNZSUYteFBRamEta01veERMVEgtUw?oc=5"
+    },
+    {
+     "veiculo": "Suno - Investimentos Inteligentes",
+     "titulo": "Arrecadação bate recorde de R$ 239 bilhões, mas perde força e acende alerta para as contas públicas",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3BEMVVKQjhaOGJRRTY5RGhwWko2ejByVXdkYXpmdXkyUy1DR255UVI5NkdPNzNzMy1IeVdZemNnaHBuYkliS084Q3JTNk5namdqbnBvenp6MTRlNHVTZm9pNHJvb0NVSkRRaE52WWd2bzN2UnVxQUhtNThMTlZYeXR5dFZuUDIzTERVSUZqNDlyX3lHY1E?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Arrecadação bate recorde em setembro, mas perde fôlego e acende alerta para meta fiscal, diz XP",
+     "url": "https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/"
+    }
+   ],
+   "score": 45.9
+  },
+  {
+   "id": "711d9c514a",
+   "titulo": "Rua, redes e debate: As investidas de Flávio e Lula",
+   "url": "https://www.cnnbrasil.com.br/eleicoes/rua-redes-e-debate-as-investidas-de-flavio-e-lula/",
+   "veiculo": "CNN Brasil",
    "publicado": "2026-10-22T18:00:27+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+diz+que+Lula+deve+elei%C3%A7%C3%A3o+2022+Moraes",
-   "veiculos": 8,
+   "busca_video": "https://www.youtube.com/results?search_query=Rua%2C+redes+debate+investidas+Fl%C3%A1vio+Lula",
+   "veiculos": 9,
    "rotina": false,
    "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Rua, redes e debate: As investidas de Flávio e Lula",
-     "url": "https://www.cnnbrasil.com.br/eleicoes/rua-redes-e-debate-as-investidas-de-flavio-e-lula/"
-    },
     {
      "veiculo": "GloboNews",
      "titulo": "Fato ou Fake fará checagem durante debate entre Lula e Flávio Bolsonaro na TV Globo",
@@ -304,257 +479,95 @@
      "url": "https://www.youtube.com/watch?v=OKgupfD2Kqs"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula vai priorizar púlpito para evitar \"sombra\" de Flávio em debate | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=fbV9wXTyfX8"
+     "veiculo": "Jornal Imperatriz",
+     "titulo": "Em passagem por São Luís, Nikolas Ferreira critica Lula e espera que Flávio exponha falta de propostas do petista no debate da Globo",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUl9QLVhlTVJCRV9CVnc1SG51aGxscExraWRHc0ozcDZZMnplRURYNl9GWFNjZTFBV2pKTnoxdnFSZ0RpbEhsRWhVZFBQd3Bhb1hNM2lhdzItSkhCN1E4VVhyTkN5YXJfaTRDeFVwVHZLd3VYMW9WRGZIZzZUbEFvN3VoWndwYWJKdkNZWF9KQmZ4NkozQnJYQXFmU1FOZ2EzM2o5SF9qWmx3S0pNMEVIdkk1U1FxazZqVlJXRi1weHFzcW9PQ3BxRDB5SmFVbUVYQklYTWRMNTYzMG15NnlndThhaS1PcGxRMVltM3dVelJHMkZzTmN1OFBYbm5QOFM5dzgzbEp3?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "Paes, Ruas, Alckmin e Nikolas mantêm campanha nas ruas enquanto Lula e Flávio preparam debate",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzVVWUpEZDd1Z2JqeHRWUnFqdWJSa3liUENZT0lEcE9fcEhKSE9POTJMYUM0NkdRSmZpN180eng0bUhiWTl3WmhQTkRhRjJQY1pnakY0VXM0a2RucmF2d3JxeFVOT09kSHhsUF9WM1BRR29od3BOMGNXWVEtNElRaHdVWTAyaVpVSjh1OVoydExyZWZkRmZHd1p2Q1lyVDBkYkVsTW5kaGtZTkJoSGJCV19mZzgyaVZGR1JabkwyUzBEREk?oc=5"
     }
    ],
-   "score": 46.5,
+   "score": 42.8,
    "video_url": "https://www.youtube.com/watch?v=OKgupfD2Kqs",
    "video_canal": "UOL",
-   "video_por_hora": 4000,
-   "video_acima_mediana": 0.9,
+   "video_por_hora": 3150,
+   "video_acima_mediana": 1.2,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Equipe de Lula dormiu no ponto e errou ao subestimar força de Flávio Bolsonaro na rua | Casado",
      "url": "https://www.youtube.com/watch?v=OKgupfD2Kqs",
-     "por_hora": 4000
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Flávio Bolsonaro visita Jair às vésperas da eleição e do debate da TV Globo contra Lula | Casado",
-     "url": "https://www.youtube.com/watch?v=NjtsJcK2cjY",
-     "por_hora": 3333
+     "por_hora": 3150
     },
     {
      "canal": "GloboNews",
      "titulo": "Fato ou Fake fará checagem durante debate entre Lula e Flávio Bolsonaro na TV Globo",
      "url": "https://www.youtube.com/watch?v=sarvAiwLoa4",
-     "por_hora": 3238
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula vai priorizar púlpito para evitar \"sombra\" de Flávio em debate | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=fbV9wXTyfX8",
-     "por_hora": 2254
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Meio/Ideia: Flávio Bolsonaro tem 51,1% contra 48,9% de Lula | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=67Oa2Ikr6gU",
-     "por_hora": 2176
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Flávio diz que Lula deve eleição de 2022 a Moraes",
-     "url": "https://www.youtube.com/watch?v=jjmQY6qiX5c",
-     "por_hora": 360
+     "por_hora": 1851
     }
    ]
-  },
-  {
-   "id": "a4b222a23e",
-   "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro às vésperas do 2º turno",
-   "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-22T17:54:05+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Meta+derruba+v%C3%ADdeo+Cabelinho+sobre+Fl%C3%A1vio+Bolsonaro+v%C3%A9speras+turno",
-   "veiculos": 13,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jornal Razão",
-     "titulo": "“Censuraram Cabelinho”: Erika Hilton se revolta após Meta derrubar vídeo de funkeiro contra Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXZUZXpvMFpYTElLUDB2TnUwTnY1cDhERXl2clRad2xMU241SEpaVlRwbDlOSE8yeFhzTS1OdnA4a2tXMWx5N21XczhiVWhlaHU1NGlfaHR4aHZwZkJLNjRwZFNrU2QzR3dHZXZHUy1LUGxjeXpFbHBBaWxJeWIyUmxWUGVfenUzdmV0dWtSR2hOd3VRXzZJRjdn?oc=5"
-    },
-    {
-     "veiculo": "Terra",
-     "titulo": "Porchat e Duvivier protestam após Meta derrubar 'Revelando' com MC Cabelinho sobre Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeE1pQ1l3bmVfei1NZF9raGJHa0hJNDlxTkd3YVBxMTNMdzVvM0pDUHdzVl9YSC11cmZOTkpYbDZYSnJkdE1WX01IRmYyTkZKTUk2SGNRUVMzRlIzdmZDRGRjWnlpR1RPN0lLWkpETWZubUl6U3hUS1BXLWt2YjIwd0pBZjNIQUdJaUk1OUtyVzJkSHlxWUM3TkJPSzBRT0gwRGpBMy01a09iZElSdC0tdEhuYnpxMlRpSFJGNGtleXN4UE9LQ0pBYmpzcFJJRXBSRzlFckl5YXpvc0paMTBYTDRfaVp6U0EtblJVVVk1QjdReEhmcVQwUngxNU83RzU0VlB2blRBbTJyRVY2WndMeVFxRG1PMHFUNWZTREpB?oc=5"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Flávio Bolsonaro e MC Cabelinho: Meta remove vídeo sobre senador",
-     "url": "https://www.youtube.com/watch?v=KY4NATNICgY"
-    },
-    {
-     "veiculo": "Opera Mundi",
-     "titulo": "Meta derruba do Instagram vídeo da série ‘Revelando’ que expõe Flavio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2xqYmVmNW9fUXM1NnV2Y2lBdkdycXpuRmtfZkE5ZFlyOS1MOE5yLS1XeXpmc0x0UTJuNnJpODhabnhYTGVPd2FHSU9LM1ZMUkVaeHR2Xy1qTXozSEhhbDBDbGlUYVl0NkN4UUVZUEhBb2VMWGU0Uk14bjY5WTZfbEVtMnIzWGVtNXd1Q3c1Nno2RXc3eGNpeHZxVlBhMWdsbzhXZmhTNHZKaVRlejVPVXVpM1ZiZUZ0M091S1lWUktSZFdVMWFUcQ?oc=5"
-    }
-   ],
-   "score": 46.5,
-   "video_url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
-   "video_canal": "UOL",
-   "video_por_hora": 11500,
-   "video_acima_mediana": 2.5,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Revelando: Meta remove teaser de episódio sobre Flávio Bolsonaro com MC Cabelinho",
-     "url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
-     "por_hora": 11500
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Flávio Bolsonaro e MC Cabelinho: Meta remove vídeo sobre senador",
-     "url": "https://www.youtube.com/watch?v=KY4NATNICgY",
-     "por_hora": 5374
-    }
-   ]
-  },
-  {
-   "id": "897ea19dca",
-   "titulo": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/arrecadacao-federal-sobe-562-em-setembro-e-bate-recorde.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-22T17:55:04+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Arrecada%C3%A7%C3%A3o+federal+sobe+5%2C62%25+setembro+bate+recorde",
-   "veiculos": 13,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Suno - Investimentos Inteligentes",
-     "titulo": "Arrecadação bate recorde de R$ 239 bilhões, mas perde força e acende alerta para as contas públicas",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3BEMVVKQjhaOGJRRTY5RGhwWko2ejByVXdkYXpmdXkyUy1DR255UVI5NkdPNzNzMy1IeVdZemNnaHBuYkliS084Q3JTNk5namdqbnBvenp6MTRlNHVTZm9pNHJvb0NVSkRRaE52WWd2bzN2UnVxQUhtNThMTlZYeXR5dFZuUDIzTERVSUZqNDlyX3lHY1HSAZsBQVVfeXFMUGNtYmZndlMzQ2lkckM0M2dNaGlFT3FWNGhxR2tZdEZGdjNpelZnVy1kaER4Z0p3TGpzXzliMTdkV2dGUy1rc2dBU2EwcF9HSGJ2aXZZY1RQdmVlc2VzT1NNZG93N19xOUJlMjhDRXk3VjAtVjlhT1FGdWNOUkFwX2dienI5UzVMRDBFSWxsUElyc0czWk9vVUlDejA?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Arrecadação bate recorde em setembro, mas perde fôlego e acende alerta para meta fiscal, diz XP",
-     "url": "https://www.moneytimes.com.br/arrecadacao-bate-recorde-setembro-perde-folego-acende-alerta-para-meta-fiscal-xp-jcav/"
-    },
-    {
-     "veiculo": "Fato Amazônico",
-     "titulo": "Arrecadação federal soma R$ 239,4 bilhões em setembro, recorde para o mês",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUt1cjRJX0FQRkVJLXZKVU00VEduckNoMzcwZGZ6ZUxRemRzOFlRWDRaZEd4ZnU4UU5ST1NiNm9zckhWNkQxZFd4V2lTYTcxZHY4aDA0QnpYd0l0LUxDekYtM3NCZ1hWSWRzQkdQMjVXYWFFbVZqLW54X2F6WjFlTkZScklZTTVFMVFoajlRQmpDTHFuYkNtR2NjLUxrdDdOMHc?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHB5TXpISXVJMjV0eWNmblRwdFh3d0xQRlRlaXVuU1pCLS12T0h5cHpnRG9hemZkV1BPenNRaU5jNFZaalZVdTFBc1BsTlc2VHFwa0xnSXdYLVZzOU1uU3lSejFrYlVwZFYwY0ZhOW5iN25vcEd6ZXpaX2g3VWRUaUZKcDkyc0o0eUR4ZkZiSkNHNEFvTmdRdkVGZnJPd1B3YTFtU2lVWXdja00?oc=5"
-    }
-   ],
-   "score": 45.9
-  },
-  {
-   "id": "1b06cdbf81",
-   "titulo": "O poder de Elon Musk sobre as eleições brasileiras",
-   "url": "https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2026/10/o-poder-de-elon-musk-sobre-as-eleicoes-brasileiras.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-22T16:52:40+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=poder+Elon+Musk+sobre+elei%C3%A7%C3%B5es+brasileiras",
-   "veiculos": 20,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Política ao Vivo",
-     "titulo": "Jerônimo diz que Nikolas \"não conhece a Bahia\" após vídeo de deputado sobre o Nordeste",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0lRaTVuUWducDhNampzajhYUmtBbnhpUjh4aG9fLVlTQ09oRVJTUG5saWFvYUFOejFydWVjNXZBLXdBYjBUd3pyYkFyaGtSdlBnSTVHWlJaX0VNUVdRNTdhWXRCbWJzajQzenRjRTNZWDY5eHBpTEt3U1QtYmtBbWZXWG5mTW82RU5KQklrdEJvRllVM0k4RjJtTmlKNnJjX1QwZWxYYWE5RWlPUjBfanhR?oc=5"
-    },
-    {
-     "veiculo": "ncnews.com.br",
-     "titulo": "Elon Musk parabeniza Nikolas após vídeo sobre o Nordeste",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ndGkwY1owVzNPQ0YxdEVMbkFUQWFGeTZPZ2dha1gtalhmVjd1cDd4ZmhETVNCeExqQVpJLWNnMUh0VFFSN2t0UXByNVRyQ2xyRU1LeXBpckFsWHJ0YzZxSll5TUZ0N1RfTUE3QVBWUWJEeDAtV3NpVU5wNA?oc=5"
-    },
-    {
-     "veiculo": "MundoBA",
-     "titulo": "Elon Musk parabeniza Nikolas Ferreira após deputado relatar censura a vídeo sobre o Nordeste",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0lkQVFWVXlmSmk1Yk52Y2puaWh2VlFvNDF0bnFONkJaM3NjVW12czZKTGdtNnJUZUxrX0Q5QXJ2UVR1NEEzY2lNMGNhMjIyWWJaMzhLZG1kby1PSEdkcTdUbUJOOHFjcXFHOGN1ZWx6Qk16MkVZaWtkX1FQTjJXdEJhZGt4aFN0Y1N5NThFYlBrWnBjdDgzRXdHdElHYTB3Yy13RUFveXpneEYteURSZ3dRRklzS3ktQlhhX1FnQ1dVdms?oc=5"
-    },
-    {
-     "veiculo": "Política ao Ponto",
-     "titulo": "\"Não conhece a Bahia\", diz Jerônimo Rodrigues ao rebater vídeo de Nikolas Ferreira sobre o Nordeste",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVJ0a1RObmZTWERUTWhPQWJ3emJpM0wtdUlqX0pzdnY5aFdwZlhHX1gxeVBrWE8ydDJyRlIzbWZrc2NaRVVydDEtMElzaV80UzV5M3dMWENEQnFFYy1VSVZMMTZqV0lhb2pjc1dlXzRBbUpqWnlRMDY4QzFOQXd3RTluczV1MHFKTERxVGJSZ0JPMGk0NWVqRzRKSTRfT1lDYmVNWjNSRll1TTFIb1VlNHFOd1NrblZUbS1vRE5oX2V4blRTQzJ3?oc=5"
-    }
-   ],
-   "score": 41.5
   },
   {
    "id": "4d04283813",
    "titulo": "Justiça autoriza recuperação judicial da Casas Bahia",
    "url": "https://g1.globo.com/economia/noticia/2026/10/21/justica-aprova-recuperacao-judicial-da-casas-bahia.ghtml",
    "veiculo": "g1",
-   "publicado": "2026-10-22T17:25:20+00:00",
+   "publicado": "2026-10-22T18:55:00+00:00",
    "temas": [
-    "economia",
-    "mercado"
+    "economia"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Justi%C3%A7a+autoriza+recupera%C3%A7%C3%A3o+judicial+Casas+Bahia",
-   "veiculos": 56,
+   "veiculos": 15,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=4JTimVe6rwU"
+     "veiculo": "NeoFeed",
+     "titulo": "EXCLUSIVO: Com dívida de R$ 1,72 bilhão, Grupo Euro17 pede recuperação judicial",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSmg0Nk1YRHp0WFZZWFB0YVlkSjFoR3Y4WDd0Q21KVGxWa2RHOFFnM2hKZzBtNl9LUTk3aWdoNy1CT1ZlTjZ3cDltc3U2QnBBdW12aXA2X1k0dFNVaWpLLUhOdjg5bWdHb3JIdU9tNUNzRnFqTVR2dGZhNElVamhrSHVJWU1RZGhrQ2s0eFVSdHUwSUJLaUFqT18xcUdmV0JqaHg4dktvQ1BHU3pB?oc=5"
     },
     {
-     "veiculo": "SpaceMoney",
-     "titulo": "Justiça defere recuperação judicial do Grupo Casas Bahia",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUtnNzBISDM1U1lFTThpLTE3OC1Hc1JsY01ZdW1Wa0o4dFcxWl9UdzdjcVNJU1RYRTVmWFZTd3ZtaS10RlQ5a3p1bEZJYzMyeWNycHVNVExrZ0NscDJQOHQ0LTQ3dFcya2VKUWhiS0p1ZGdKTXFOSjlFbEJvNzNOaXUtaWZZZml2WG13TjVJYw?oc=5"
+     "veiculo": "Varginha Online",
+     "titulo": "Justiça aceita pedido de recuperação judicial do Grupo Casas Bahia com dívida de R$ 17,3 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTVmUTB5eEQ5V05tNEFRT1EyMmpFMmVFM1hKb0ZDd0R1TkxlVUEtMFQwb2huT1lhZWRQRU15bnN1SUFRU21oZUtUOHF4blg3b1JrYlNWblFwSllFTUlfVi1nVHBSeTV4QWVQV3cxSFJjdHZURE5zZV9UejlBdFctUFVnWW1EeDZLdFczVkc1T0w2YktPcGktSHA3OA?oc=5"
     },
     {
-     "veiculo": "Blog do Alberes Xavier",
-     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
+     "veiculo": "Portal Massa",
+     "titulo": "Justiça autoriza recuperação judicial da Casas Bahia - Massa",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnQ5Xy11LWw3V0lKeXZCZ1IwY3RhdnpqS1gzQ2FaTkRfNUozeExMU0xjYllmU3lrNGttVlBWZzRGaUE5ZzcydVBuZXVYaDF0S0NNTjNWc0FUY2cxM1RNbzdaLXNnV0loX0d4TGhGWFhUUVhQbTFNVHdYTll1b2ZCbk0tc3RDRWdqbE1sbU12S3FfUlYtWVc1aEFuWdIBowFBVV95cUxPRHpLZkV0MktFbUNHUjhKQThnNnRpMmVoblRTcU9WUVZ6U3BuWEg4akVDMUx2TFliQ21XZUZ6RlA4V3hRVkhaWVNiWUk1MTZ6SjVpMXlMOXEyUGpZVEVvcndFczhOOUctUXpuMy1NMjJSRDlVUjVNX0tVYS05YWxha0VVM25lZzVTZ2FJYW1QYlZiY2Q0amNsaEVGQ0U0RHRwbzJv?oc=5"
     },
     {
-     "veiculo": "Blog do Alberes Xavier",
-     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
+     "veiculo": "AtaNews",
+     "titulo": "Justiça aceita pedido de recuperação judicial do Grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGZIOTlSdWVTb3FJRFNfeVlVZlJDYWtYLUpwNHZKaFFaZm5fN0NrQkNzMkdnT1ZUSThDTW9nR2RMeWJkVTlTTEUzN3NUNm02blVCQXhwZE85UkhMNWFRT2RCQTRENF9ZWkFmd3dVSTFqd2dvSDBhWDltdk5ic0tUdGhLMURDMEprMDZkQlhVc05tbW4tMjZFdndZX21wVlZUZ2hwSm1PVzhtQ2M?oc=5"
     }
    ],
-   "score": 39.8,
-   "video_url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 275,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
-     "por_hora": 275
-    }
-   ]
+   "score": 39.9
   },
   {
-   "id": "ae4a8602ab",
-   "titulo": "Fundos pedem recuperação judicial de unidade da Braskem nos Estados Unidos",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/10/fundos-pedem-chapter-11-de-unidade-da-braskem-nos-estados-unidos.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-22T16:38:13+00:00",
+   "id": "4d04283813",
+   "titulo": "Justiça autoriza recuperação judicial da Casas Bahia",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3hJdC1FUy01U0Q2amlEQ0k4dEU0dlM0Tk1lOFdPUm5KQ3N5NzhTcC1oT2Y5aVpUbGN3VGFTVTJib25kVURmSkM0SmIwVE8tcE95SHJvWEdXNWtIdXpUdnZ4REFGelJFSXhaLUwtRUxKZ2lLRG5ZdHNReGY0eGp3WUhjUlJNNWlaMnB4WjFheEVmZEJTejhhV25iYw?oc=5",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:49:02+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fundos+pedem+recupera%C3%A7%C3%A3o+judicial+unidade+Braskem+nos+Estados+Unidos",
-   "veiculos": 11,
+   "busca_video": "https://www.youtube.com/results?search_query=Justi%C3%A7a+autoriza+recupera%C3%A7%C3%A3o+judicial+Casas+Bahia",
+   "veiculos": 48,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "Portal Mário Adolfo",
+     "titulo": "Justiça aceita recuperação judicial do Hospital Beneficente Portuguesa em Manaus",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEs3NmFMbkdFV016M1VhTXc3NWh2Rm0wZnRkRmtYakh4dFR6N1NWVk4ydHhtSGNoai1XR2M2NTkwTWU0NEVRWlNCYU9NbE5yYUpQVThXT2FUbEJlU05LUHJORkJGQW81NEpza0M2YllJa010dnI1RzB1bWt1ckRqTnM2cXhDd1ZaU0NWdDdkU3Z5a1VabUdCNmxGZ2FjZXlYaC02ZVpSWUpMenNKdjYxWmlaQ0I0VjlCbGc?oc=5"
+    },
     {
      "veiculo": "Grupo Jota Sidney",
      "titulo": "Justiça aceita pedido de recuperação judicial do Hospital Beneficente Portuguesa em Manaus; dívida é de R$ 28,7 milhões",
@@ -569,14 +582,9 @@
      "veiculo": "G1",
      "titulo": "Justiça aceita pedido de recuperação judicial do Hospital Beneficente Portuguesa em Manaus; dívida é de R$ 28,7 milhões",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnlCdzRtaFV5SVF3RVVmNlhNdXpjRVhrVTJNRlpMT0FEcnNVNUo5dnR1RTdoNGx4TVUteTVkMnJ5dEhfeE1xZ3JaRGpnenVOVTFSeHN1eTIwa09mVkplWHlQdldNa2N6UmNla2h6dUlGMldpU2dsZ2h3bnM2a2NPOUtWYUFrbm5vc3NnMFNCZkxtd0F3NzNCelFNRksyYUxBZ0Nkd2J4Zkpxek5KZDR2QUl1b200VF94bE9tT0dOVWVoLTF6R0ZoamtkSGJ4dHVESkdJNkNFMWlWNF8wT1BncF9QTGV3dDZVckRuVUtPSTV1YTZLUmEwMkVjQmc2cWdlMW5kWdIBkwJBVV95cUxNMVo1eWFEWkRHLXZrRDYwczNVTHZubVNvWEw3a0hMSk9NUnBLeGljSWVqdkJlNG9ETXUwdG8tcy1XeDR1d2d2b2pYRTFxamZsT01HMGwtSzVmNFItQXhpSmZCUGdnTW5NVlVFd3pZSG5PUE9WaVdwTF95Qjhob2lJSEctWWpxNmNYamthT1BqZXZIcXo2Ry1ZcVl0SXNCdTNPMEFiZ3JFTTE0Tld0dDlvWUhHLU5HS2Z2Q0lSLVVTa2tsdkFMaTN3bThJbC0xalVsRWhyV0hTNGV3RktZT3kzSzRoT1VxZW9iaTZaaDNhdTFpQ3NGaXBRRG1nZDNjbWVselFnQ0VZc0paTHhtMG5IOWg0WQ?oc=5"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Braskem tem braço financeiro alvo de pedido de recuperação judicial nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbndUbXlOQk9ucG9QaklaQUUzTWE3aW9wMTdWY01hXzVaZkR3WVdHSVpIUXNhY2JrdWZBLVgybGZTNkEtZG9tMkZDV2gyLU80TGZUenZlbTN1VkNFd25qZ0k3SFMxczFiUTlEUERnU2R3dy1WZUxTWHBYZXZpM0VDbERxcUlnZ1JzTWxQWE4wcGNUODlYU0MyVHZreE9xNm03cWpMZDdDYnRxdThjQmlyUlg3ZDVUVFFDNUR4Ukw5eXlzaW9tMVNXLXh6WHZaNW83YkkxU3ZsVThwUQ?oc=5"
     }
    ],
-   "score": 39.4
+   "score": 39.9
   },
   {
    "id": "dbc2f393aa",
@@ -617,63 +625,108 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45MmwwTzdCUmsxXzFHSk8xSkNfS1VxWVVtQU5MSkdoeDVCcHZrMDFsXzhJNHVxaVVjSzYwZ2p0MTBXdWdjVEpaVUlvUUh5R0Z5WW5TcG5LOFd5U2lQTnk2QU94YWJwWlhySkdYczlvVk1iZjhfOVpiM1FhMGQ?oc=5"
     }
    ],
-   "score": 38.5
+   "score": 38.1
   },
   {
-   "id": "e27bbb8760",
-   "titulo": "Para tentar virar, Lula tem que diminuir abstenção e tirar diferença de Flávio Bolsonaro no Sudeste",
-   "url": "https://www.youtube.com/watch?v=S_i0jX_RdD8",
-   "veiculo": "Estadão",
-   "publicado": "2026-10-22T13:03:26+00:00",
+   "id": "d1ab92e848",
+   "titulo": "Grupo propõe a Lula e Flávio medidas para derrubar a taxa Selic a 7,5% em 2027",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/grupo-propoe-a-lula-e-flavio-medidas-para-derrubar-a-taxa-selic-a-75-em-2027.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-22T18:28:00+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Para+tentar+virar%2C+Lula+tem+que+diminuir+absten%C3%A7%C3%A3o+tirar",
+   "busca_video": "https://www.youtube.com/results?search_query=Grupo+prop%C3%B5e+Lula+Fl%C3%A1vio+medidas+para+derrubar+taxa+Selic",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
-     "url": "https://www.youtube.com/watch?v=oGPTihERhM4"
+     "veiculo": "Correio Braziliense",
+     "titulo": "Empresários cobram de Lula e Flávio ajustes para Selic a 7,5%",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTDFPcHV6TjhsZlRTRVFzWEgwOHQ4QXFNUHRwZXZseExIVlBWVHI3U1lYalM2NlFiT2VUZ1ZhcVBtSjdkV2daZldnQTdpQnJac09FVUF0WFhMaml3b2dLZGFnOS13dXlYTmxPYlQ2UVFxQXZsRTRvcW9nV195WklVUEFZbEpHZG14dm5YdFp5aExJTWxoSDl6YU9NclpDdGQyd3gxeFVJVXdsUmcxQV9iZk1JZG9oc2FjTHJVV1dRa0VXRHRyOGfSAcsBQVVfeXFMTkRmc3Vwb19felZxS2t4ZVdBQkxTX1ItOHVSN2VscXFmczJGejRScGViZjhmUUFTTGhLaGRkMVdWNGZ3Mzh5emxVdWp3akJnX1pHYlM0QW96czhoYkNfdUJQd05hd1Ayek5NR3hDcjVyeHhxVFVtVUsxN2JudjBVZk1yOS1YZndyTWVDWW5ZdXFxbGI5ZjJUVmI2NEhMblEwWW5XM1ZZeEhkQzBKMklmdzJmV1hyRm00ME85WHBwcEM3YVNLcTNqaDhJQlU?oc=5"
     },
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Grupo propõe a Lula e Flávio medidas para derrubar a taxa Selic a 7,5% em 2027",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmp2Q2ZuNXFqcXVONk1BWjBwek00b3h2djNmamI1MU91azJ1TExidGlWSkdNVHVGeVhVR1gyZkxnbFo5X2tjalZic0FabzlLZWpFVGp0MkVCX05YRHd1UTFfT21uXzFVWVVNc0Jta1RsVHNPVXpmV1E1Wk1xVjNMTFRsVDN2d2stSTN0VHY3ZTYxODJzTm03WWJsNXNsYVdNRGJXcnRVaUl6WHhjNW03YzZRbWJJdHprYWczb2I1QzJPclE2c1k0?oc=5"
+    }
+   ],
+   "score": 35.7
+  },
+  {
+   "id": "5522702ea3",
+   "titulo": "Os resultados da pesquisa PoderData/Aya - PoderDataCast",
+   "url": "https://www.youtube.com/watch?v=kDKp0pvbs8k",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:40:17+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=resultados+pesquisa+PoderData+Aya+PoderDataCast",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
     {
      "veiculo": "Jovem Pan News",
      "titulo": "Pesquisa PoderData/AYA: Flávio tem 51% dos votos válidos e Lula, 49%",
      "url": "https://www.youtube.com/watch?v=e4EtLit47rY"
     },
     {
-     "veiculo": "gazeta hora1",
-     "titulo": "Bolsa brasileira dispara após pesquisa mostrar Flávio Bolsonaro à frente de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGQ2THQ5bUlKWGVyWDZoOTRhZTFoenhGUm1WSUJLeTluaTgwUG12Zk5Gcm1UV0ljT1AtTEpTLVJvTUMyNG9VMTR3aktrQkxILWF6M1pZRU1TaFdYTVFwaVdvdkkwQVIwOW1PeElpSVRfLU1KYUdrM092Nl8xaU9iYkROZHliVHRaSUpKOC0tR1hhX0pfZTZMa0RfUzBtNkVGQV8zQkJBRlJadWgyR3lhTVVEZGN0LU1kOEE?oc=5"
+     "veiculo": "Poder360",
+     "titulo": "A 3 dias do 2º turno, Flávio tem 51% e Lula tem 49% dos votos válidos, diz PoderData/Aya",
+     "url": "https://www.youtube.com/watch?v=zDZGYWxQOnk"
+    },
+    {
+     "veiculo": "Natal em Foco",
+     "titulo": "Nova Pesquisa Gerp: Flávio tem 53% dos votos válidos no 2º turno; Lula, 47%",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkl3T0xqWlhlb2dCUDdsa19BVzVZbjl1Q2ZCLUJienF6d0xXZGx3TjF0bzRCVUpzVE9EYjZvbnVEbURnaDBFclF3b1pBRERQUnI4cXBnSEdXckhIRXZTU2lZVVVkQTRXVFFlWGp0cVNxblBGX3ZSZFlqWXBYZDVtTFpIQkV1djRHeURpcTdnVlRlWEYwVWJmWWFpc0t2NkY0ZVFLcE5rTFFzNmpPZlVWZA?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no segundo turno | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=kE4IEuITvE0"
     }
    ],
-   "score": 36.0,
-   "video_url": "https://www.youtube.com/watch?v=oGPTihERhM4",
+   "score": 35.2,
+   "video_url": "https://www.youtube.com/watch?v=e4EtLit47rY",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 22808,
-   "video_acima_mediana": 26.8,
+   "video_por_hora": 8571,
+   "video_acima_mediana": 18.4,
    "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
-     "url": "https://www.youtube.com/watch?v=oGPTihERhM4",
-     "por_hora": 22808
-    },
     {
      "canal": "Jovem Pan News",
      "titulo": "Pesquisa PoderData/AYA: Flávio tem 51% dos votos válidos e Lula, 49%",
      "url": "https://www.youtube.com/watch?v=e4EtLit47rY",
-     "por_hora": 9667
+     "por_hora": 8571
     },
     {
-     "canal": "Estadão",
-     "titulo": "Para tentar virar, Lula tem que diminuir abstenção e tirar diferença de Flávio Bolsonaro no Sudeste",
-     "url": "https://www.youtube.com/watch?v=S_i0jX_RdD8",
-     "por_hora": 542
+     "canal": "Poder360",
+     "titulo": "A 3 dias do 2º turno, Flávio tem 51% e Lula tem 49% dos votos válidos, diz PoderData/Aya",
+     "url": "https://www.youtube.com/watch?v=zDZGYWxQOnk",
+     "por_hora": 2250
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no segundo turno | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=kE4IEuITvE0",
+     "por_hora": 583
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Quaest: No segundo turno, Flávio Bolsonaro tem 45% e Lula 44% | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=DaXWyQIThDA",
+     "por_hora": 225
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Os resultados da pesquisa PoderData/Aya - PoderDataCast",
+     "url": "https://www.youtube.com/watch?v=kDKp0pvbs8k",
+     "por_hora": 0
     }
    ]
   },
@@ -715,14 +768,53 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3F0bXI4QXlRX01oYjdIWDNYSTBhMjdiUE5WVnBDZ2t6M3lSUUw0eVA3SEczUzJ0Q1gxX0lwM1FkOGdGNmthRV9TeXd6WnBITGNjdkt0cWo4VlBDYVNvMFFaMzVpUzZRSEZPZXJ2WmdtaVdNTHZndmRtUEQ1RlFBQzNpR21ndEVJNU9DM3NWdTMyTTUtTnQ2Z1ZTLUNHUm5aVXE1bjE0X21tOTVY?oc=5"
     }
    ],
-   "score": 35.2
+   "score": 34.8
   },
   {
-   "id": "200e1477fc",
-   "titulo": "D�lar sobe a R$ 5,05 e Bolsa cai, com alta de petr�leo, elei��o e balan�os",
-   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/22/dolar-bolsa-abre-hoje-22-de-outubro-de-2026.ghtm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-22T16:04:15+00:00",
+   "id": "1b06cdbf81",
+   "titulo": "O poder de Elon Musk sobre as eleições brasileiras",
+   "url": "https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2026/10/o-poder-de-elon-musk-sobre-as-eleicoes-brasileiras.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-22T16:52:40+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=poder+Elon+Musk+sobre+elei%C3%A7%C3%B5es+brasileiras",
+   "veiculos": 19,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Política ao Vivo",
+     "titulo": "Jerônimo diz que Nikolas \"não conhece a Bahia\" após vídeo de deputado sobre o Nordeste",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0lRaTVuUWducDhNampzajhYUmtBbnhpUjh4aG9fLVlTQ09oRVJTUG5saWFvYUFOejFydWVjNXZBLXdBYjBUd3pyYkFyaGtSdlBnSTVHWlJaX0VNUVdRNTdhWXRCbWJzajQzenRjRTNZWDY5eHBpTEt3U1QtYmtBbWZXWG5mTW82RU5KQklrdEJvRllVM0k4RjJtTmlKNnJjX1QwZWxYYWE5RWlPUjBfanhR?oc=5"
+    },
+    {
+     "veiculo": "ncnews.com.br",
+     "titulo": "Elon Musk parabeniza Nikolas após vídeo sobre o Nordeste",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ndGkwY1owVzNPQ0YxdEVMbkFUQWFGeTZPZ2dha1gtalhmVjd1cDd4ZmhETVNCeExqQVpJLWNnMUh0VFFSN2t0UXByNVRyQ2xyRU1LeXBpckFsWHJ0YzZxSll5TUZ0N1RfTUE3QVBWUWJEeDAtV3NpVU5wNA?oc=5"
+    },
+    {
+     "veiculo": "MundoBA",
+     "titulo": "Elon Musk parabeniza Nikolas Ferreira após deputado relatar censura a vídeo sobre o Nordeste",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0lkQVFWVXlmSmk1Yk52Y2puaWh2VlFvNDF0bnFONkJaM3NjVW12czZKTGdtNnJUZUxrX0Q5QXJ2UVR1NEEzY2lNMGNhMjIyWWJaMzhLZG1kby1PSEdkcTdUbUJOOHFjcXFHOGN1ZWx6Qk16MkVZaWtkX1FQTjJXdEJhZGt4aFN0Y1N5NThFYlBrWnBjdDgzRXdHdElHYTB3Yy13RUFveXpneEYteURSZ3dRRklzS3ktQlhhX1FnQ1dVdms?oc=5"
+    },
+    {
+     "veiculo": "Política ao Ponto",
+     "titulo": "\"Não conhece a Bahia\", diz Jerônimo Rodrigues ao rebater vídeo de Nikolas Ferreira sobre o Nordeste",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVJ0a1RObmZTWERUTWhPQWJ3emJpM0wtdUlqX0pzdnY5aFdwZlhHX1gxeVBrWE8ydDJyRlIzbWZrc2NaRVVydDEtMElzaV80UzV5M3dMWENEQnFFYy1VSVZMMTZqV0lhb2pjc1dlXzRBbUpqWnlRMDY4QzFOQXd3RTluczV1MHFKTERxVGJSZ0JPMGk0NWVqRzRKSTRfT1lDYmVNWjNSRll1TTFIb1VlNHFOd1NrblZUbS1vRE5oX2V4blRTQzJ3?oc=5"
+    }
+   ],
+   "score": 33.1
+  },
+  {
+   "id": "b2b109b7b6",
+   "titulo": "Dólar e juros futuros sobem com disputa eleitoral acirrada e alta do petróleo; Bolsa cai mais de 1%",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-nesta-quinta-feira-a-espera-de-pesquisa-datafolha-da-eleicao-presidencial.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-22T16:34:22+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -730,237 +822,32 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=lar+sobe+5%2C05+Bolsa+cai%2C+com+alta+petr+leo%2C",
-   "veiculos": 21,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+juros+futuros+sobem+com+disputa+eleitoral+acirrada+alta",
+   "veiculos": 14,
    "rotina": true,
    "outras": [
     {
-     "veiculo": "UOL Economia",
-     "titulo": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXVDTmNJa3lRaC1QY3JoaGZ4WVlzazdtX0lMcGk2X0pkU2hHclpFMGVIRnBJWk4xRF9zdGNKOWI0d3NVMzRsaEhDS1VzWVVzWWR6WXQwSjJiaXhlXzVYWmNabC16REkwSjNnRnhHLVk5elpPbUZXSmxQbU9GTS1OVWMyOHdFZ1VxcVlCSEhUYXpMZEZ6cTVKZXJ6bUlialdvaVJIQmVoWllOdGtjY1hVQ0lYNA?oc=5"
+     "veiculo": "Finance News",
+     "titulo": "Atualização: Ibovespa em queda, dólar em alta e destaques corporativos",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWRoSk9pa05nOVdsWFpBdF9iZ2pHQlRGV0piUUZvQnZpSXlaNkY1RnczUDYzRjQ4UHR4ZVh3a3NMVGg4R2h3OUhmY1JHWWFGY29GQjc4T0FObzZwUTY3dHZmQzFQYXdUYjdUeEp0eE9tY0Q2REFZNU9yWHNrUTFBYzQxSzNBNEZfSm1BU0NLajNnV3NYdkdXXzQ5WW9KS3lxNzNibDdRWQ?oc=5"
     },
     {
-     "veiculo": "UOL Economia",
-     "titulo": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXVDTmNJa3lRaC1QY3JoaGZ4WVlzazdtX0lMcGk2X0pkU2hHclpFMGVIRnBJWk4xRF9zdGNKOWI0d3NVMzRsaEhDS1VzWVVzWWR6WXQwSjJiaXhlXzVYWmNabC16REkwSjNnRnhHLVk5elpPbUZXSmxQbU9GTS1OVWMyOHdFZ1VxcVlCSEhUYXpMZEZ6cTVKZXJ6bUlialdvaVJIQmVoWllOdGtjY1hVQ0lYNA?oc=5"
+     "veiculo": "Bora Investir",
+     "titulo": "Ibovespa em alta e dólar em R$ 5: é o momento de diversificar no exterior?",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVJsNWZDMXY0R245ZFZWd2Fzb1NQd3hiSlQtVDBzdy0zMWJQeGhRZlEwb1BkNUh1YnZQWmtGRVZtNlFuVldUX05tZDRDbG9WdEhTRWxhVFo1SUktdVRiemhtMGl6S1FoZXVYejdfZGdGV2M5bnV1dUU2aFRqWHBWeE02S3VSd1BYWm1JMmNwYmxERlJjLWcxX3FfbW03ejZnQVZ0Q0dYYVdWYzZnc0QwR2hMY3Fra2ptaFBrbWI3Q3ZCNXRnaGFUR2hmNDJlazRXUFJlMlhRQ25aRzRWUnlz?oc=5"
     },
     {
-     "veiculo": "UOL Economia",
-     "titulo": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXVDTmNJa3lRaC1QY3JoaGZ4WVlzazdtX0lMcGk2X0pkU2hHclpFMGVIRnBJWk4xRF9zdGNKOWI0d3NVMzRsaEhDS1VzWVVzWWR6WXQwSjJiaXhlXzVYWmNabC16REkwSjNnRnhHLVk5elpPbUZXSmxQbU9GTS1OVWMyOHdFZ1VxcVlCSEhUYXpMZEZ6cTVKZXJ6bUlialdvaVJIQmVoWllOdGtjY1hVQ0lYNA?oc=5"
+     "veiculo": "Folha de Campo Grande -",
+     "titulo": "Bolsa abre em queda e dólar em alta -",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkJTalhsQkpRUXpia3ZtTVgwbjJQQmJOcUZtcFVfWVBCNmVEaENGeWF4cG1FWjdEUmtuaU83YTB3T3ZxZGc0N0RXUXJZLXhnRm8yS01UOFJRQ2dCekh2bjhrekVvejVIYU9mSEhoT0tETzRHQkNleHBwbjktMTU5ZUUybks?oc=5"
     },
     {
-     "veiculo": "Revista Oeste",
-     "titulo": "Dólar sobe e bolsa recua com alta do petróleo e à espera do Datafolha",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFZIVTFJSXExem4xUGpyMEhlYVl3VlZubmZJd0UtUGdEYlJEbGE5NzBlaDVKaWhKQWZUbnBlMmZXU0tGMjRKRFRaTG9zeF9jUExKM016YTh3SjFrLUM0Slo4cTBxYjRfWHE0NHpGZFZObGxnWXJqcGJ4RDgxYWlVdkFxdUZ3MkF2NWtNLW90V2RVbDZlaFBDTk1CYTN4R1VFNGYycHZxYw?oc=5"
+     "veiculo": "TradeMap",
+     "titulo": "Ibovespa abre em queda com petróleo em alta e expectativa por balanços",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jV3h5b1lWdzZMemdETkp3cmV0Q1VWSW1yOWtXdkp4dGJJMFN1LTQtaDh0YUxnMWpzOHcwSm1Iem1DYmVNQkIxcE5EVmJUQ0liMDRqcV9EWG8?oc=5"
     }
    ],
-   "score": 35.1
-  },
-  {
-   "id": "3750a72612",
-   "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
-   "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
-   "veiculo": "UOL",
-   "publicado": "2026-10-22T17:08:34.085917+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bloquinhos+Nikolas+ganham+escala+nacional+dominam+agenda+Fl%C3%A1vio+Bolsonaro",
-   "veiculos": 8,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Bloquinhos de Nikolas Ferreira ganham força na campanha de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGZqVTNGT0FoaWltS3IzN1hhMko3U0w2VV9OVm1XY01oRkdKcF9tM3l4RC0yN2ZfQzl3YnJ5WnpnSXczWm9BX2s0V19DaFVYSWc4NFhWZ1JxVEw5anpwdmlhclI2Wll1Z3JJWVpxSlRHanAzN3dYd3RyLWYyeXdBYVBrSkNRTF9Yd2JLY0dGSUJwTnpHQ1lJSHg5UHpPUDVBMUYzMFB3Zl9pQWRWaWZ3?oc=5"
-    },
-    {
-     "veiculo": "tmc.com.br",
-     "titulo": "Nikolas transforma ‘bloquinhos’ em aposta de Flávio Bolsonaro nas ruas",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2hYSXZ6M0ZJbUdVOEJfeDBzZTB2OTM1MXFCOF9BTDQ3TTVmdFRHbV95LVlvenVfM2hrRmV5WWZTY2RXaVc4MHZTRUNJYWxuTmtlMXpZa2JxaUNPakFYYTFMdW5NNmhwNDM0Y3FLUEtWeWVpV2VTcUQwUjZadG9pdDNLakJGM1Rld2RiNVlR?oc=5"
-    },
-    {
-     "veiculo": "Maranhão Hoje",
-     "titulo": "Nikolas Ferreira puxa o Bloquinho do 22 em São Luís em apoio à candidatura de Flávio Bolsonaro a presidente",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNODRQTlVYWDBhUDZBQWZoQ3dYREFBYzhpbGJHaWxyR1NLWS1abHlpWFVHWWU1ZkpnYk9aWVdyaDAwU2tSampqMjVDTnlTSWlQVXNUNTM5M0V0V3dnd2EwVEg4dFp1cnFNQ0ktZjlXa3hhTzY5MHdPYjEybGJRc2lQZGtzdlFOcDBka2NueEZFZDZzV3ZBTl9Sa01IZVhwNVlESnpWcHc0dy1tOXctWkpXU1JtcGVZT2UxRkM4YXg5QmYzRkVEeXVVdFp3?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFdZSm1acGN0WjI1VGYtQ1FXM1M2ejFxVC1uN3BDdDNveFZ5d1dRaTJSTjhyeUdaWVUwQVdFX0pBdXFEaGpCaTNFRWktc0pUTWI1WGZSbUxYQ2pxMnBITlRFTEczbTlrb0lkQUtYLXM1YXpYSG0xVEFXOFVUSmlXQ1NoemVEdXlGVVZQcGU0T3R0bnAwdURjaS1FLS1mVjVNejEycGE4eG02d3dVbmVsb2VrM1F6ZWdJZTJSbWFXZzV4OXZTcVg0Umg2dVh6U2pBOHNYaTk4RUNBc28?oc=5"
-    }
-   ],
-   "score": 34.3,
-   "video_url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
-   "video_canal": "UOL",
-   "video_por_hora": 1700,
-   "video_acima_mediana": 0.4,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
-     "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
-     "por_hora": 1700
-    }
-   ]
-  },
-  {
-   "id": "b1c9f52bb3",
-   "titulo": "Flávio Bolsonaro e Lula empatam na disputa pela Presidência, diz PoderData",
-   "url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
-   "veiculo": "Band Jornalismo",
-   "publicado": "2026-10-22T13:58:38+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+Lula+empatam+disputa+pela+Presid%C3%AAncia%2C+diz+PoderData",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "PoderData: Flávio Bolsonaro e Lula empatam na disputa pela presidência | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=hn_AsY68aeM"
-    },
-    {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Disputa acirrada: Lula e Flávio Bolsonaro aparecem em empate técnico na reta final",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWE92QTRlNjFQdnV0WEw5Q2F0LU54OHpzYTJCajVrcFVPbXdaTUVDX3dzcnVaZ3NCclZxdk1DeHZMQU9rd1N3bkhSbEdrZFRwem9ZY2FOUUlycmg4T01HOXl6ajdxcEt2SUc0Qlg4SExDb3JuV1NTM2gyVEF2UUhLbHhkbENTTDlBdE1kbWZ0ZkxRTmo3VW5tbDRySmRXbk9iN1o5WlJ3dlI2ZEkxaWNrWE4yLUFsRjJLZ1B3Ry03OWRJbGVHUFE?oc=5"
-    }
-   ],
-   "score": 33.3,
-   "video_url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 22632,
-   "video_acima_mediana": 43.3,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Flávio Bolsonaro e Lula empatam na disputa pela Presidência, diz PoderData",
-     "url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
-     "por_hora": 22632
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "PoderData: Flávio Bolsonaro e Lula empatam na disputa pela presidência | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=hn_AsY68aeM",
-     "por_hora": 2800
-    }
-   ]
-  },
-  {
-   "id": "e57660daa0",
-   "titulo": "Partido Missão, de Renan Santos, quer se consolidar como oposição a Flávio",
-   "url": "https://www.cnnbrasil.com.br/eleicoes/partido-missao-de-renan-santos-quer-se-consolidar-como-oposicao-a-flavio/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-22T16:49:37+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Partido+Miss%C3%A3o%2C+Renan+Santos%2C+quer+consolidar+como+oposi%C3%A7%C3%A3o+Fl%C3%A1vio",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Partido de Renan Santos quer se consolidar como oposição a Flávio Bolsonaro; entenda | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=UAIordf5gUI"
-    },
-    {
-     "veiculo": "MyNews",
-     "titulo": "\"MARÇAL QUER O GOVERNO?\": COMO O COACH USA O PALANQUE DE FLÁVIO E ATACA RENAN SANTOS",
-     "url": "https://www.youtube.com/watch?v=_Mx9xE4-cYk"
-    }
-   ],
-   "score": 33.1,
-   "video_url": "https://www.youtube.com/watch?v=UAIordf5gUI",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 6667,
-   "video_acima_mediana": 3.0,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Partido de Renan Santos quer se consolidar como oposição a Flávio Bolsonaro; entenda | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=UAIordf5gUI",
-     "por_hora": 6667
-    },
-    {
-     "canal": "MyNews",
-     "titulo": "\"MARÇAL QUER O GOVERNO?\": COMO O COACH USA O PALANQUE DE FLÁVIO E ATACA RENAN SANTOS",
-     "url": "https://www.youtube.com/watch?v=_Mx9xE4-cYk",
-     "por_hora": 162
-    }
-   ]
-  },
-  {
-   "id": "8062d13dc3",
-   "titulo": "Na véspera do debate, Flávio Bolsonaro visita pai em Brasília | TEMPO REAL",
-   "url": "https://www.youtube.com/watch?v=c8ckaOVD6BI",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-10-22T18:04:11+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=v%C3%A9spera+debate%2C+Fl%C3%A1vio+Bolsonaro+visita+pai+Bras%C3%ADlia+TEMPO+REAL",
-   "veiculos": 10,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Eleições 2026: UOL fará checagem em tempo real no debate da Globo entre Lula e Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=lzJXxvIObpY"
-    },
-    {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "Ibovespa cai com empate técnico entre Lula e Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjZtcC00MGloN1N1RzBvamdyWml3RlZVS0VEMjJMdWt2dlVaTUx3dDJvR0NUTE5FeXR1SlhzdWpEaVVDT1k3RThmbjBIclZ5bmJPQml4TlV5Nmp4UDRjbGhTZlFNN05HMDlSck5BaWI4d0pEeGh4SjZKLW9JWjNTZlBCTmZwbnBVOW5RWFA5VlpVX0J0RWg2ZVJNV3MzajZIdkMwc01ZNmk?oc=5"
-    },
-    {
-     "veiculo": "SpaceMoney",
-     "titulo": "Ibovespa cai 0,86% com empate técnico em pesquisa Quaest",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFVFR2ZPdTFCMDRRQ3FVRmhpbFlDT1FWMXZETmZHUVIyMU95TDdfSGpiQ2JGZlRiYUxqb2xkZURvdUhOa3UwTm1DcmRyX1lVVGxnd3pIcURQVjZPV2hOLUswSjNoOFpQR2xqYVMzN29IVTdpRS01cDJHTTdwNm0xMUF2OXZnX3RqWFNxLUNYQ3ZlWXVSWXZKTVhaZw?oc=5"
-    },
-    {
-     "veiculo": "Mobile Time",
-     "titulo": "Eleições 2026: Lula vence no WhatsApp e Flávio, no Instagram",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlbTJ1bGt4aFZRdkZMbzg4S0NQeWhVQnlIdmpSeUh0YkYtY21lOE81S2V4Vi1sQ1hMemgwWGR5VWN6SlN1M0RtM09SRmkydlI3WWxMNE8zdWhzR0hjd1JBNGZ2bkhrN2FfdjF5X284QlJ3aVo4NFdaM21pV0k?oc=5"
-    }
-   ],
-   "score": 33.0,
-   "video_url": "https://www.youtube.com/watch?v=lzJXxvIObpY",
-   "video_canal": "UOL",
-   "video_por_hora": 5112,
-   "video_acima_mediana": 1.1,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Eleições 2026: UOL fará checagem em tempo real no debate da Globo entre Lula e Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=lzJXxvIObpY",
-     "por_hora": 5112
-    },
-    {
-     "canal": "MyNews",
-     "titulo": "APROVAÇÃO OU REJEIÇÃO: O QUE VAI DECIDIR O 2º TURNO ENTRE LULA E FLÁVIO BOLSONARO",
-     "url": "https://www.youtube.com/watch?v=LH_zL-JxFvo",
-     "por_hora": 397
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Na véspera do debate, Flávio Bolsonaro visita pai em Brasília | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=c8ckaOVD6BI",
-     "por_hora": 42
-    }
-   ]
+   "score": 32.9
   },
   {
    "id": "83e434ef9a",
@@ -996,14 +883,14 @@
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVVPbm1NNy1UcHQydWtVc2RFWlV0MWdxNjhvZ1V6TVVGSHdLbHB5VllKREV0U1FkUS1pTTBDNE0ybWp3aFZkR2tLZ0ItdEFGa3JMX2JaSVdtVFBMSVY3Vm1fT3A1bXVjX25XX0JJamZVSEZkLTd6OXRwSnZXTlYyVnlLVktKMTjSAYcBQVVfeXFMTjVVT25tTTctVHB0MnVrVXNkRVpVdDFncTY4b2dVek1VRkh3S2xweVZZSkRFdFNRZFEtaU0wQzRNMm1qd2hWZEdrS2dCLXRBRmtyTF9iWklXbVRQTElWN1ZtX09wNW11Y19uV19CSWpmVUhGZC03ejl0cEp2V05WMlZ5S1ZLSjE4?oc=5"
     }
    ],
-   "score": 32.1
+   "score": 31.7
   },
   {
    "id": "23f7bbf8a1",
    "titulo": "Ouro cai em meio a aversão global a risco e avanço do petróleo",
    "url": "https://valor.globo.com/financas/noticia/2026/10/22/ouro-cai-em-meio-a-aversao-global-a-risco-e-avanco-do-petroleo.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-22T17:56:05+00:00",
+   "publicado": "2026-10-22T18:01:24+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -1021,9 +908,9 @@
      "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml"
     },
     {
-     "veiculo": "Valor",
-     "titulo": "Ibovespa recua diante da aversão a risco no exterior e de cautela com eleições",
-     "url": "https://valor.globo.com/financas/noticia/2026/10/22/ibovespa-recua-em-meio-ao-acirramento-da-disputa-eleitoral-e-de-olho-no-exterior.ghtml"
+     "veiculo": "Rádio Guaíba",
+     "titulo": "Ibovespa B3 recua 0,86%, com eleição no radar, e dólar vai a R$ 5,02",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVFUb3BfazhoNjJmZEdQR09lRDdMMUtOakEtQ1dXNDJQR3ZmazU5TVdhZjhGR1JPckpUMVpMZ19OMlBLRkd3eHpUSFd3Y3I5MEN3eFNCTlByMzFkSmowZDlhUzdFd2RraVdWbzB4MEZsbWJJbG0teEpsTjdzMzVlTlFhREpiZ2hobUhpS2Fn?oc=5"
     },
     {
      "veiculo": "Rádio Guaíba",
@@ -1036,7 +923,7 @@
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVFUb3BfazhoNjJmZEdQR09lRDdMMUtOakEtQ1dXNDJQR3ZmazU5TVdhZjhGR1JPckpUMVpMZ19OMlBLRkd3eHpUSFd3Y3I5MEN3eFNCTlByMzFkSmowZDlhUzdFd2RraVdWbzB4MEZsbWJJbG0teEpsTjdzMzVlTlFhREpiZ2hobUhpS2Fn?oc=5"
     }
    ],
-   "score": 31.9
+   "score": 31.5
   },
   {
    "id": "66023749aa",
@@ -1065,23 +952,378 @@
      "url": "https://www.youtube.com/watch?v=K0iH5pzy11s"
     }
    ],
-   "score": 31.7,
+   "score": 31.1,
    "video_url": "https://www.youtube.com/watch?v=OPCYHczWeM0",
    "video_canal": "SBT News",
-   "video_por_hora": 3174,
+   "video_por_hora": 2872,
    "video_acima_mediana": 3.3,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Desenrola 3.0: governo prevê até R$ 90 bilhões em dívidas para negociação | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=OPCYHczWeM0",
-     "por_hora": 3174
+     "por_hora": 2872
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Novo Desenrola pode atingir até R$ 90 bilhões em dívidas renegociadas; Alan Ghani analisa",
      "url": "https://www.youtube.com/watch?v=K0iH5pzy11s",
-     "por_hora": 417
+     "por_hora": 371
+    }
+   ]
+  },
+  {
+   "id": "1378ea990f",
+   "titulo": "Nelson Piquet declara voto em Flávio no 2º turno",
+   "url": "https://www.youtube.com/watch?v=K9YcgOJVQR8",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:19:13+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Nelson+Piquet+declara+voto+Fla+vio+turno",
+   "veiculos": 8,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "NSC Total",
+     "titulo": "Nova pesquisa Datafolha de 2º turno vai medir quantos eleitores ainda podem mudar de voto entre Lula e Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRVg4VWxTLTlnSUhCZXhXckZKT1lfYzM3SENRVDZjUTRxUWRMa1FIeEJsbnBacFotbFdEZkg4VXBQYkpHZWN2X3lqMFhpeXY5Ynd3Q1FZMHQ5NEo4R243ZzRZR0VFZmdiUG9VVi1aaG9WS25DaG5MZzc0eU5BdV9MWUJKS0UyVE9PMHhHejJKUDhZT1BEa1ZKU1ZlN2VrckxlNV9KVW1vT1ZNanBOLWRRWEhaTWZtTXNyMHc4VlJyc1FWeVJlZ3RIMGhGNFB4M1lrT3RhT01HMl9jZTAyZWhNbTZEWEEwQXZmQkdZWA?oc=5"
+    },
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Ibovespa cai com empate técnico entre Lula e Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjZtcC00MGloN1N1RzBvamdyWml3RlZVS0VEMjJMdWt2dlVaTUx3dDJvR0NUTE5FeXR1SlhzdWpEaVVDT1k3RThmbjBIclZ5bmJPQml4TlV5Nmp4UDRjbGhTZlFNN05HMDlSck5BaWI4d0pEeGh4SjZKLW9JWjNTZlBCTmZwbnBVOW5RWFA5VlpVX0J0RWg2ZVJNV3MzajZIdkMwc01ZNmk?oc=5"
+    },
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Ibovespa cai 0,86% com empate técnico em pesquisa Quaest",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFVFR2ZPdTFCMDRRQ3FVRmhpbFlDT1FWMXZETmZHUVIyMU95TDdfSGpiQ2JGZlRiYUxqb2xkZURvdUhOa3UwTm1DcmRyX1lVVGxnd3pIcURQVjZPV2hOLUswSjNoOFpQR2xqYVMzN29IVTdpRS01cDJHTTdwNm0xMUF2OXZnX3RqWFNxLUNYQ3ZlWXVSWXZKTVhaZw?oc=5"
+    },
+    {
+     "veiculo": "Isso É Notícia",
+     "titulo": "Angélica declara apoio a Lula no segundo turno e justifica voto: 'Sempre fui a favor da alternância de poder'",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMGdlVnQ0WlhxMEd2TDhqZEtYTWlwX1ZGTG1ENGE5bFVOWEFhZTA4a1Z5VE5NUmxneHc2a0k0dVRwVHpsREdjUER2d0xDWFRaYWRya1RYdFVFZU43bFF1and1a3JqLWUyREkzRWtETFlYb2h5MHUzZnVnRmdodWJSUUtZOUFFZFlhYkQxV3hId3E4cEdxcU9Na2VmbWo5OUxLWGR1bi1tSzBQVm9wQnMwcE85X0Y0VS1QMi1GTmN6dTFfVjVEeGxwdHQxTVRwUHUyLTgyOWV5XzlCNEhYMFBoMTFyUVJEUTNfUkF1NA?oc=5"
+    }
+   ],
+   "score": 31.0,
+   "video_url": "https://www.youtube.com/watch?v=K9YcgOJVQR8",
+   "video_canal": "Poder360",
+   "video_por_hora": 778,
+   "video_acima_mediana": 1.4,
+   "videos": [
+    {
+     "canal": "Poder360",
+     "titulo": "Nelson Piquet declara voto em Flávio no 2º turno",
+     "url": "https://www.youtube.com/watch?v=K9YcgOJVQR8",
+     "por_hora": 778
+    },
+    {
+     "canal": "MyNews",
+     "titulo": "APROVAÇÃO OU REJEIÇÃO: O QUE VAI DECIDIR O 2º TURNO ENTRE LULA E FLÁVIO BOLSONARO",
+     "url": "https://www.youtube.com/watch?v=LH_zL-JxFvo",
+     "por_hora": 380
+    }
+   ]
+  },
+  {
+   "id": "3750a72612",
+   "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
+   "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
+   "veiculo": "UOL",
+   "publicado": "2026-10-22T17:07:29.337821+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Bloquinhos+Nikolas+ganham+escala+nacional+dominam+agenda+Fl%C3%A1vio+Bolsonaro",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Vero Notícias",
+     "titulo": "Bloquinhos de Nikolas Ferreira ganham força na campanha de Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGZqVTNGT0FoaWltS3IzN1hhMko3U0w2VV9OVm1XY01oRkdKcF9tM3l4RC0yN2ZfQzl3YnJ5WnpnSXczWm9BX2s0V19DaFVYSWc4NFhWZ1JxVEw5anpwdmlhclI2Wll1Z3JJWVpxSlRHanAzN3dYd3RyLWYyeXdBYVBrSkNRTF9Yd2JLY0dGSUJwTnpHQ1lJSHg5UHpPUDVBMUYzMFB3Zl9pQWRWaWZ3?oc=5"
+    },
+    {
+     "veiculo": "tmc.com.br",
+     "titulo": "Nikolas transforma ‘bloquinhos’ em aposta de Flávio Bolsonaro nas ruas",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2hYSXZ6M0ZJbUdVOEJfeDBzZTB2OTM1MXFCOF9BTDQ3TTVmdFRHbV95LVlvenVfM2hrRmV5WWZTY2RXaVc4MHZTRUNJYWxuTmtlMXpZa2JxaUNPakFYYTFMdW5NNmhwNDM0Y3FLUEtWeWVpV2VTcUQwUjZadG9pdDNLakJGM1Rld2RiNVlR?oc=5"
+    },
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFdZSm1acGN0WjI1VGYtQ1FXM1M2ejFxVC1uN3BDdDNveFZ5d1dRaTJSTjhyeUdaWVUwQVdFX0pBdXFEaGpCaTNFRWktc0pUTWI1WGZSbUxYQ2pxMnBITlRFTEczbTlrb0lkQUtYLXM1YXpYSG0xVEFXOFVUSmlXQ1NoemVEdXlGVVZQcGU0T3R0bnAwdURjaS1FLS1mVjVNejEycGE4eG02d3dVbmVsb2VrM1F6ZWdJZTJSbWFXZzV4OXZTcVg0Umg2dVh6U2pBOHNYaTk4RUNBc28?oc=5"
+    },
+    {
+     "veiculo": "Rádio Itatiaia",
+     "titulo": "Nikolas Ferreira comanda ‘Bloquinho do 22’ em apoio a Flávio Bolsonaro no Maranhão",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFB6N3htczJBMndkM1NRZHdtYWwwQmxieVp4SEFnVkhPU3BmZG56R216SUJJUXNCS2ZsQXdRS1FKX3JRVnVHN1B6ZmhZbGdySjB0WDNiM2N0blpOSE1KOEpEX0pOVElGWUxNdHBnMnpjdF81QnRsVnVvOHdOWkU2dzd0YlRCMjZMWm03Y0toQm15UDJFV2dWOHAwU0t4RGZZemFxM0hBeUtCaXB2U21yVjljRUNkd2U1aTVNaUM1Y2M1UWc5aHc?oc=5"
+    }
+   ],
+   "score": 30.7,
+   "video_url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
+   "video_canal": "UOL",
+   "video_por_hora": 1300,
+   "video_acima_mediana": 0.5,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
+     "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
+     "por_hora": 1300
+    }
+   ]
+  },
+  {
+   "id": "f09b722d18",
+   "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-22T17:25:20+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Casas+Bahia+tem+recupera%C3%A7%C3%A3o+judicial+aprovada+pela+justi%C3%A7a+BASTIDORES",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Justiça defere recuperação judicial do Grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUtnNzBISDM1U1lFTThpLTE3OC1Hc1JsY01ZdW1Wa0o4dFcxWl9UdzdjcVNJU1RYRTVmWFZTd3ZtaS10RlQ5a3p1bEZJYzMyeWNycHVNVExrZ0NscDJQOHQ0LTQ3dFcya2VKUWhiS0p1ZGdKTXFOSjlFbEJvNzNOaXUtaWZZZml2WG13TjVJYw?oc=5"
+    },
+    {
+     "veiculo": "Blog do Alberes Xavier",
+     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
+    },
+    {
+     "veiculo": "Blog do Alberes Xavier",
+     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
+    },
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Casas Bahia tem aval para recuperação de R$ 17,3 bi",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFRIckJaT1hqMGFrLWtUUGFEaTlqN2xXSk1pdFhkS0FwRk15LVhVN3padlNYLThCd3JRX1N3N1AtS3dNVm0zV204cXEtSFhEeEdIRU5yYlQzQXpwaE9BR3lETTlrX0hucm1sSEx5aXZfbDFpQUVRMzZ6MUZnLXFCQjBrUTVFd1l6d19yRlNUNE9QQkQtRmFN?oc=5"
+    }
+   ],
+   "score": 30.3,
+   "video_url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 145,
+   "video_acima_mediana": 0.1,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
+     "por_hora": 145
+    }
+   ]
+  },
+  {
+   "id": "32fabc2134",
+   "titulo": "Dólar sobe 0,17% e fecha a R$ 5,027; Ibovespa cai",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE1IdkYzdHhYWjN6VDdSb0l1cWJsVC1BY2VlLTBCelN4cnpFdXBWMFVLb2h1cHB1Z2pXQzdWazNmMjRYdUZPYXY3Ui03Z2tvUHR4cjZGRUd1Ym5jUnRVc1NHcHF0cm9mUWpGYlU0WGVRMmotUWt5eTdQYjgxZlR4T1pBMFBacl8wQkZtYWRoVGNZUQ?oc=5",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:40:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+0%2C17%25+fecha+5%2C027+Ibovespa+cai",
+   "veiculos": 21,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "LJQQ3 sobe 5,9% enquanto Ibovespa cai 1,1% na B3 hoje",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGx2N244dUlTOG9IazVZdTBOcEpwU3VYUmFtdHZTamRrbWtmWnpOa2NBVUt5cmtka0F5bjJ3Y0dXLUVqZVQtTG9RRUVfVVRYckpyb1ExWC1NSEdIVzdmdW5kZEdRamFwS0lpS0xqUmVyeXc3dU9FczR0aGFoQ1lkZ2FSakxXcjAxcVM5dnRoOF8?oc=5"
+    },
+    {
+     "veiculo": "Valor Investe",
+     "titulo": "Ibovespa e dólar hoje: bolsa tomba mais de 1% e moeda sobe à espera de Datafolha",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXNTZW9oeWc0UkVpSzBCdS11MURQdnRkSktENXRoYlp6VEtTQjlLaEV4RlF0VU9yaE54cE1ydjRyTzF6TzFNbjdxSTNtZ2RpY2ttMEQwZ2hzS0RuSnlseXFwU3pjREQwMVNfQjRWVkZjN1JtNThoSHZJTUxBaGRTZTVybTl6WXZTUmpoNVZ6bF9Ta3RianhMUlRfYnROWHJnZ3pQZmlhSHd5UExoVUZxWTg2WXhJS2lEelU5QkZqMnY5LWxKTFAwekI2a2cxVXJ0Sjc0WHRBNNIB5gFBVV95cUxOZVZRVmZPWFk5V19tTzhJOTFqR01xRmJYZUtXUi1ndjdUU0xLMDlQWUtQRmVFUmRldlhHdWlsOW0zclEzc1h3VXRhWUY3dW01ZWlhQmswelJUd3ZEZm9wbkZzMm94WTI2eUc2T1kyWldKd0U1T3JqZmZPT0tsS3Raak4wOTJVbVB1d2thWGlBMHJ6cFk0bjY3bWFfYjBWZy1abnEzbVVJdmlCNVQxOHJPS1pyNmg2cUdyLV83eTd6eEltT3lwdmhGVG8yTG1aRU5FVDBKYmhyd1lVN0J4bEc5b3JoSUNvZw?oc=5"
+    },
+    {
+     "veiculo": "Valor Investe",
+     "titulo": "Ibovespa e dólar hoje: bolsa tomba mais de 1% e moeda sobe à espera de Datafolha",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXNTZW9oeWc0UkVpSzBCdS11MURQdnRkSktENXRoYlp6VEtTQjlLaEV4RlF0VU9yaE54cE1ydjRyTzF6TzFNbjdxSTNtZ2RpY2ttMEQwZ2hzS0RuSnlseXFwU3pjREQwMVNfQjRWVkZjN1JtNThoSHZJTUxBaGRTZTVybTl6WXZTUmpoNVZ6bF9Ta3RianhMUlRfYnROWHJnZ3pQZmlhSHd5UExoVUZxWTg2WXhJS2lEelU5QkZqMnY5LWxKTFAwekI2a2cxVXJ0Sjc0WHRBNNIB5gFBVV95cUxOZVZRVmZPWFk5V19tTzhJOTFqR01xRmJYZUtXUi1ndjdUU0xLMDlQWUtQRmVFUmRldlhHdWlsOW0zclEzc1h3VXRhWUY3dW01ZWlhQmswelJUd3ZEZm9wbkZzMm94WTI2eUc2T1kyWldKd0U1T3JqZmZPT0tsS3Raak4wOTJVbVB1d2thWGlBMHJ6cFk0bjY3bWFfYjBWZy1abnEzbVVJdmlCNVQxOHJPS1pyNmg2cUdyLV83eTd6eEltT3lwdmhGVG8yTG1aRU5FVDBKYmhyd1lVN0J4bEc5b3JoSUNvZw?oc=5"
+    },
+    {
+     "veiculo": "TradingView",
+     "titulo": "Ibovespa cai e dólar sobe com pressão de disputa eleitoral e busca global por segurança",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKWkdvUXZxRm1vbnhLX3FaWmIyWlY2QkhjS1VoWlp2VGhXSlp4TGZGeFBNMks0Q2cyb282cXRoNGRQOTM4WFhTLU5Ob3JxQVIwRVo4VERRNjFWZmFjNnpVX3ZPejZJNC0yNkplZ2FOZzJFNnRBdHVz?oc=5"
+    }
+   ],
+   "score": 29.8
+  },
+  {
+   "id": "cad4b09ca7",
+   "titulo": "Dani Lima: Campanha de Flávio cobra provas e diz que vai 'ignorar' matéria da Piauí sobre lobistas",
+   "url": "https://www.youtube.com/watch?v=pJlMwwDsy5g",
+   "veiculo": "UOL",
+   "publicado": "2026-10-22T17:07:29.337821+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Dani+Lima+Campanha+Fl%C3%A1vio+cobra+provas+diz+que+vai",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 28.4,
+   "video_url": "https://www.youtube.com/watch?v=pJlMwwDsy5g",
+   "video_canal": "UOL",
+   "video_por_hora": 13000,
+   "video_acima_mediana": 5.1,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Dani Lima: Campanha de Flávio cobra provas e diz que vai 'ignorar' matéria da Piauí sobre lobistas",
+     "url": "https://www.youtube.com/watch?v=pJlMwwDsy5g",
+     "por_hora": 13000
+    }
+   ]
+  },
+  {
+   "id": "360b8f197b",
+   "titulo": "Mega-Sena 3073 sorteia R$ 200 milhões hoje (22/10)",
+   "url": "https://www.metropoles.com/brasil/mega-sena-3073-sorteia-r-200-milhoes-hoje-22-10",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-22T18:36:20+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Mega+Sena+3073+sorteia+200+milh%C3%B5es+hoje",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "Loterias sorteiam pr�mios hist�ricos hoje; Mega-Sena paga R$ 200 milh�es",
+     "url": "https://economiareal.uol.com.br/noticia/loterias/loterias-sorteiam-premios-historicos-hoje-mega-sena-paga-r-200-milhoes-2141?utm_source=Feed%20UOL&utm_medium=site&xid=1152"
+    },
+    {
+     "veiculo": "Rádio Itatiaia",
+     "titulo": "Mega-Sena: quanto R$ 200 milhões rendem por mês em cada investimento de renda fixa",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNpblRkRXpaa3poLU0wUVF0Yl9xZlRLQ3ozbjA2dEtGTnQ1dkpwbDlrcDZwdWJBNW9maDNucEVZY1Fud0ExUHJmbzEtRk9LVTIweFdLZGpCTll4bXIxbGgtMnFDX3JuZFE3eDhyX1NUYjF1Z0YxODhkZFlwUERTZnFKTjJ6VFBCdjJrSDFlVERrdWZUdkw2SUtCcTNfTGhaejhlNkdnd3FPTV8xUWYwSGwzN2FPdWpTa1NidlJrQzQtN1NqOTh4aw?oc=5"
+    },
+    {
+     "veiculo": "iG Economia",
+     "titulo": "Mega-Sena: veja quanto R$ 200 milhões podem render",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlI0TmpFcnFrZDRZS3FhVUJWMVdKMjhCSmZXZVVvUEdOdnkwZ3N0TDFjQkZsaXhSZFQ1M3QwTk1wNHRuQ0dQOHFJOGFHc3RfM1BHY2MzemtMdmtaTUF4WDFuUlBjSXZPRDFTelZseFJtYUZjemNqRWc3ZkFXbFFORWd3WnFvaVFsendSUG1jNHN4cWY4eVhZSE0tNWtud9IBngFBVV95cUxQdlI0TmpFcnFrZDRZS3FhVUJWMVdKMjhCSmZXZVVvUEdOdnkwZ3N0TDFjQkZsaXhSZFQ1M3QwTk1wNHRuQ0dQOHFJOGFHc3RfM1BHY2MzemtMdmtaTUF4WDFuUlBjSXZPRDFTelZseFJtYUZjemNqRWc3ZkFXbFFORWd3WnFvaVFsendSUG1jNHN4cWY4eVhZSE0tNWtudw?oc=5"
+    }
+   ],
+   "score": 27.8
+  },
+  {
+   "id": "11c2df8e3d",
+   "titulo": "Willer Tomaz tinha sala secreta e máquina de contar dinheiro em hangar, segundo Polícia Federal",
+   "url": "https://www.youtube.com/watch?v=9cesbUtf7ZU",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-22T16:20:57+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Willer+Tomaz+tinha+sala+secreta+m%C3%A1quina+contar+dinheiro+hangar%2C",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Polícia Federal encontra sala secreta em hangar de Willer Tomaz em Brasília | Em Ponto",
+     "url": "https://www.youtube.com/watch?v=m3mBryTgT7s"
+    }
+   ],
+   "score": 27.6,
+   "video_url": "https://www.youtube.com/watch?v=9cesbUtf7ZU",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 6927,
+   "video_acima_mediana": 3.9,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Willer Tomaz tinha sala secreta e máquina de contar dinheiro em hangar, segundo Polícia Federal",
+     "url": "https://www.youtube.com/watch?v=9cesbUtf7ZU",
+     "por_hora": 6927
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Polícia Federal encontra sala secreta em hangar de Willer Tomaz em Brasília | Em Ponto",
+     "url": "https://www.youtube.com/watch?v=m3mBryTgT7s",
+     "por_hora": 4571
+    }
+   ]
+  },
+  {
+   "id": "9dab825376",
+   "titulo": "EUA vão usar Itaipu para abastecer empresas americanas de tecnologia; Beraldo e Mehero comentam",
+   "url": "https://www.youtube.com/watch?v=vfoGlHavdE8",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-10-22T13:07:29.337821+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=EUA+v%C3%A3o+usar+Itaipu+para+abastecer+empresas+americanas+tecnologia",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "O Presente",
+     "titulo": "Governo Trump vai usar Itaipu para abastecer empresas norte-americanas de tecnologia",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUdheDdyclI2eUhjM2h1Uy0yb2xRUVg1TE1wY3NkYXUyLXZRYmpWblJ4QmlLMktYM2Z0WDZoQ1VaSDJHbENkaEJNWEZjQlN2X3FnTG5vSnZoeVhDZ2lwSzh1OUxUdmxaYVIxWVgxU09Iemx0dzQxR0dBNXpob3drR2RSVmpaUWJyeTFndDE2N3ZKU2VYd1lFVmlvOXRMV2tjUEJyOVBiVy10TDBGRGd1dEgwSDV3ME9HQ2lGZA?oc=5"
+    },
+    {
+     "veiculo": "Howl.link",
+     "titulo": "EUA anunciam acordo com Paraguai para que Itaipu forneça energia a empresas americanas de tecnologia",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1fYWRfZHZjWWlfWVpGekhpUEZJMnRkc3lncWZ4QWdoU25ZMXQ3bU56RUt2QUFQb1RTS0dV?oc=5"
+    },
+    {
+     "veiculo": "Grupo Jota Sidney",
+     "titulo": "Governo Trump avalia usar Itaipu para abastecer empresas norte-americanas de tecnologia",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSnB3c2plU0ZfZ2VMZm05VnFVZEZxZzJIQjl5c2g3eFJfNm1pMG9XSjhLdEI5UEpKOHJfVUxVZF9DWTFYV0VjZXhfMXhJLWhPVXFXSlUzREdGUHN4RXR3bldqbWQ5UkhONnkzdzA4ZzIyLTJGYnhGSXF2alF6bU1YVUQwMHAwekNNVGpsNzJEQ1NPRmxGdDhLeDdYR3JwLVYzM01fTWZmcVBZTVpqRU5vbjJod3N5aFdwSXZFZjU0UWIySDFrd051dWF6akxwbzI3Tmw2ZF84NGplalZjYzYtVkRnbTR0Uy1GSHNXQTY0bzV6dlhScWdNQnR0cEtkeVXSAYQCQVVfeXFMTjNmQklCU3hURmpXaXNpYnhRengxcjZJV3A3OFl0amppN1lfTW5ERFYtTTR5QS1HTDZneWRLMXVYLUtiN1BXbk5YQ3RiWTJzZ0w0bzZDU3RKcEtxQkE5em11SktBUE1ydklRTE55Vzl2RUxTUGtxU0MxWDZmVU9wUFR5UnlVX0dxWmszSkZ6emttXzRCdnl6ODJ3U05LYW45Zm82RFpiOERVTV9wbnhvaElxcUViODlwWHJGQUR3Ykp4YzdoMVY1YjlxamtMLVEzZXN4WjBRcjVYX3hYdENNcWdLVVZWbmszUFE2cGlVUW5MRU9kcUlMZ3I3QTZaVmZvWmtGZmI?oc=5"
+    },
+    {
+     "veiculo": "G1",
+     "titulo": "Governo Trump vai usar Itaipu para abastecer empresas norte-americanas de tecnologia",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdEZDUF9hLUFOUjRlWlBEWXBfNklRdlJyM0J5dldQOFp6eE1yUWVFMjRTRU4zSHBrUEZfZzBHNmY5dk5jclotczRXYy0tYnBzTWVEZ1lqR0t1WEZ0QzdmQUYxVHBPZzlmZW1EckxxRkhVbE1TVlpSclh4X0lnWFh3RWk4V09haENmd1d5WTBVcmpmZFRMZGVPR1dxV2tLd1B3UDBuZmFHUkJmWWtmbC1PSERlYk15ZHFRM1BIVE54a3ozeVFGa3gxVWJQYnBsOFJvX0tEY2Jn0gHkAUFVX3lxTE1PMnFtelA5cVFWSUNfUDUydEhKUVpqbFFlbEttWV9tS3FtSVR0U293RUJJNmc5emtSVHJvRHhBblhhWUJXU3hUZ256RW14MWFwUjQ5YTlzZDVnS2t2X0t6RDRrZTBhZEFjaFlEQXJBLUdseWl2UnB5ZWlLM0EyeXJkclUyLVN3ejJBT3Jyc0JobktzM1Q2b0hDa1JDQzlZcVZnRTJMNzE0ZC1xbUVnMTV4REh3dGRYNjRidTJhRU1SUEtEWWt5bUMyUGZmMTdybC0xdjZQQnlXX19aVUl0U0Q0YkFnUg?oc=5"
+    }
+   ],
+   "score": 27.3,
+   "video_url": "https://www.youtube.com/watch?v=vfoGlHavdE8",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 2000,
+   "video_acima_mediana": 4.3,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "EUA vão usar Itaipu para abastecer empresas americanas de tecnologia; Beraldo e Mehero comentam",
+     "url": "https://www.youtube.com/watch?v=vfoGlHavdE8",
+     "por_hora": 2000
     }
    ]
   },
@@ -1098,7 +1340,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+crise+bilh%C3%B5es%2C+Americanas+encerra+recupera%C3%A7%C3%A3o+judicial+a%C3%A7%C3%B5es+disparam",
-   "veiculos": 5,
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
@@ -1122,264 +1364,37 @@
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVlZVDRJaXM3Wm1qVHB3SWw0N2dfajI4aXlqTTJlUzF3U3Y4MW1oaXoyMngxbXFycFRlbk8xQ09BdVB2czdJN1k4a2stT0Rfcl9ESzJJRGptS3JGYVBvTjg3ZElzSkYwWWQtUHAxOGsybUEwWFEzcGRTRmRTSk9ZNGZ2RG9lNVNpLXFQVU5QTWoxUGNxaDBJX0tnZ2VtVVpXc2EtTUY0eTM1VFZzMFZwWVJEMzFBaTFs0gG4AUFVX3lxTE9RWVlUNElpczdabWpUcHdJbDQ3Z19qMjhpeWpNMmVTMXdTdjgxbWhpejIyeDFtcXJwVGVuTzFDT0F1UHZzN0k3WThray1PRF9yX0RLMklEam1LckZhUG9OODdkSXNKRjBZZC1QcDE4azJtQTBYUTNwZFNGZFNKT1k0ZnZEb2U1U2ktcVBVTlBNajFQY3FoMElfS2dnZW1VWldzYS1NRjR5MzVUVnMwVnBZUkQzMUFpMWw?oc=5"
     }
    ],
-   "score": 30.5
+   "score": 27.1
   },
   {
-   "id": "feef37f447",
-   "titulo": "Eleições: Quem vence no primeiro turno ganha também no segundo?",
-   "url": "https://www.youtube.com/watch?v=jntLqx4h2b0",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-22T13:39:00+00:00",
+   "id": "a4c4141825",
+   "titulo": "\"Caso Mariana é o 'six-seven' de Janones na campanha do Lula\"",
+   "url": "https://www.youtube.com/watch?v=W4HJPLsqi7M",
+   "veiculo": "UOL",
+   "publicado": "2026-10-22T18:28:34+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Elei%C3%A7%C3%B5es+Quem+vence+primeiro+turno+ganha+tamb%C3%A9m+segundo",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Senado Federal",
-     "titulo": "Segundo turno: quem faltou no primeiro pode votar",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmlCeVgzVGtBZXNERUdLaURCMXIwZXd6Q19yUFluQml3MHJvdlV0Q25PcGRCMTR1Zk1lUE1ubE93UU9ER3dsSTJRelhDQ1VqRC1abTg2X2lNYlpZVXByRGltU2VUNVdYaEQtNk5LbC1SeVRDZmtWVUFFbTktTjg1dlNDX0hZVmRhSHRWX200X1hxZEsxRUttZTRxdUhJMWN1Nmc?oc=5"
-    },
-    {
-     "veiculo": "TV Senado",
-     "titulo": "Segundo turno: quem faltou no primeiro pode votar",
-     "url": "https://www.youtube.com/watch?v=KVzteSQIuP8"
-    }
-   ],
-   "score": 30.4,
-   "video_url": "https://www.youtube.com/watch?v=jntLqx4h2b0",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 676,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Eleições: Quem vence no primeiro turno ganha também no segundo?",
-     "url": "https://www.youtube.com/watch?v=jntLqx4h2b0",
-     "por_hora": 676
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "Segundo turno: quem faltou no primeiro pode votar",
-     "url": "https://www.youtube.com/watch?v=KVzteSQIuP8",
-     "por_hora": 48
-    }
-   ]
-  },
-  {
-   "id": "f444a6599a",
-   "titulo": "Durigan rebate Fl�vio e diz que reforma garante devolu��o de tributos",
-   "url": "https://economia.uol.com.br/colunas/jessica-sant-ana/2026/10/22/durigan-rebate-flavio-e-diz-que-reforma-garante-devolucao-de-tributos.htm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-22T17:54:39+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Durigan+rebate+vio+diz+que+reforma+garante+devolu+tributos",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Durigan rebate Fl�vio e diz que reforma j� garante devolu��o de tributos: 'Isso j� � lei'",
-     "url": "https://mais.uol.com.br/v/17421778"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Durigan rebate Flávio e diz que reforma já garante devolução de tributos: \"Isso já é lei\"",
-     "url": "https://www.youtube.com/watch?v=oyJSNygiVoE"
-    }
-   ],
-   "score": 30.0,
-   "video_url": "https://www.youtube.com/watch?v=oyJSNygiVoE",
-   "video_canal": "UOL",
-   "video_por_hora": 304,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Durigan rebate Flávio e diz que reforma já garante devolução de tributos: \"Isso já é lei\"",
-     "url": "https://www.youtube.com/watch?v=oyJSNygiVoE",
-     "por_hora": 304
-    }
-   ]
-  },
-  {
-   "id": "6e92d85002",
-   "titulo": "PM-SP é acusada de obrigar jovens presos a vestirem camiseta em apoio a Lula",
-   "url": "https://www.youtube.com/watch?v=6p0JjjetLpw",
-   "veiculo": "UOL",
-   "publicado": "2026-10-22T16:08:34.085917+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=acusada+obrigar+jovens+presos+vestirem+camiseta+apoio+Lula",
+   "busca_video": "https://www.youtube.com/results?search_query=Caso+Mariana+six+seven+Janones+campanha+Lula",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 29.8,
-   "video_url": "https://www.youtube.com/watch?v=6p0JjjetLpw",
+   "score": 26.2,
+   "video_url": "https://www.youtube.com/watch?v=W4HJPLsqi7M",
    "video_canal": "UOL",
-   "video_por_hora": 16500,
+   "video_por_hora": 8782,
    "video_acima_mediana": 3.5,
    "videos": [
     {
      "canal": "UOL",
-     "titulo": "PM-SP é acusada de obrigar jovens presos a vestirem camiseta em apoio a Lula",
-     "url": "https://www.youtube.com/watch?v=6p0JjjetLpw",
-     "por_hora": 16500
+     "titulo": "\"Caso Mariana é o 'six-seven' de Janones na campanha do Lula\"",
+     "url": "https://www.youtube.com/watch?v=W4HJPLsqi7M",
+     "por_hora": 8782
     }
    ]
-  },
-  {
-   "id": "d03f6c444f",
-   "titulo": "Janones anuncia live de 24h após debate na Globo",
-   "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/janones-anuncia-live-de-24h-aps-debate-na-globo.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-22T16:31:18+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Janones+anuncia+live+24h+ap%C3%B3s+debate+Globo",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Portal 6",
-     "titulo": "Janones e bolsonaristas ameaçam soltar ‘bombas’ às vésperas do debate da Globo",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1VqX1c4TzZ0bjJUV3ZabkpJcmdHekZOd0lNWGd5c29TNWFiYjlwYk0yY2NBSF81VE45ZThaZG9LdUp4MlRRNVk2T1pPMUFYY18zV01MdDdCRE9WQTZqdElqVFJ5UFVreFl2U2RheTR5S2xScGx6VkNnMHRCMXpjU3dTOG51c3JLWkgxUnk1OTVsb0dXWFJZelJwQkkzRjRPd3RZRzh3YURfUG1BaUFMUg?oc=5"
-    }
-   ],
-   "score": 29.3
-  },
-  {
-   "id": "ea2fa095b0",
-   "titulo": "O que explica a valorização da Petrobras de 120% na Bolsa em 2026?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTR6eUdzY3lfMzlfYUZhVjVyQVZZYTRmcy13cjhKUDJmcFhjY1M4OWJQWTJGc3lWRl9OTDlCRnBlWFZLT0MzYXFub0F0S0RObUpEYW05VTZldm44dElsa2pMb00tZ0tPaGhZRFBGaExkYTN4YzVSN3d2ZTVReUVnVw?oc=5",
-   "veiculo": "Economic News Brasil",
-   "publicado": "2026-10-22T18:01:00+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=que+explica+valoriza%C3%A7%C3%A3o+Petrobras+120%25+Bolsa+2026",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Balada IN",
-     "titulo": "Petrobras acumula valorização de 100% em 2026, enquanto Vale registra queda de 9%",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjdObm9JbVMwNlpwRDBTYml5WXQ5ZUVfQlZObDdqQWl3ZkxpR21TaXp3cVFPM1A5d3FqNjFVSWFUaTRhSHJ6MnFna2p1a0xFQlc0by16Z2doQmJuTkdkSGZpU2J2U2J5ajZuQ3RBOFFJc1FSVFgtY2JEOFdLRzNjVklsV3EzSnBqM0ZEODhraXBDVXVzWWMxejRZS2pWWlpscFBBb295NGFITU5VM3h6SUs3dkxVUGM?oc=5"
-    },
-    {
-     "veiculo": "Guia do Investidor",
-     "titulo": "Petrobras (PETR4) dispara quase 100% em 2026, enquanto Vale (VALE3) cai: qual ação ainda tem potencial?",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNm9scWhmb25mdEFvb2ZpNS1sVzV2ZWttS3ZIWTUwRTRROFhmQk5jdVJrTFp3WEJ2MWlwek9qMlh1ZEhkZ1VSY0NMS1ZWYnhBLUY0NlcxUHhXOW53ZDRkd1BobWN2TnlBUXRUVG9QRVJvVjlaNVV0ZkdkQWYwSlRjaVRnQnpHYmdUenFzRHEyajlObk1hd1BMd3VJcHhlZUVHeDU5WnNDYV92Qlh2VFZLWWl3VFBndTVESlpJNDJtRmljZFVnQjZRNjF4Z2JTdTVxYUE?oc=5"
-    }
-   ],
-   "score": 27.9
-  },
-  {
-   "id": "a4dd3c3053",
-   "titulo": "Petrobras terá que subir diesel em até 50%? Goldman aponta impactos em ações e preços",
-   "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-pode-ter-subir-diesel-ate-cinquenta-porcento-goldman-sachs-quais-impactos-acoes-inflacao/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-22T17:21:51+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+ter%C3%A1+que+subir+diesel+at%C3%A9+50%25+Goldman+aponta",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Goldman vê diesel da Petrobras podendo subir até 50% após o 2º turno das eleições",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkgxYVBUVUZOTWhOMUstbXBheElYLV9POEZKenJ0aHg4X0gzX3RpV1gxOUJSVUtwWEJkWjREaC0zdzlBVlN6N3lYcUZhRzZ1bi00ZnFpYllqcVZ2OW9kc3hVTFFNZzBPbFJnRkY2UjBVMkhiTnlKY2pBUjRjVHBQNERidEFOaThzbndOdlk4WjZXWlYybFE?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Petrobras terá que subir diesel em até 50%? Goldman aponta impactos em ações e preços",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ2k0cHRqWTlTRDRaY1NWTXM4RGZvNU8xVm5vNGR1R2d5OXlhbkRpWVF2dzFWU2dURXEwOU1RS0FGMWN0NzY1TXk0T3UteEVNRy04czFLV1l1ZlBHUEV6WjFEbFdZdk9HcWotVjFEZWFvN3BUTHRhaUdPNEozN1dJT3ZVWWtQRUh0V2wyTFMwU2YxSEZWOTJ5NUwzSmVSY0Q0clJqb0ZFWl9IRW1vSGtFZlRmMElkdGtaWGhhakNKZmlJdE1kWjU4eGNybUpnZlliX1Z4OXZWOG0xSmo4a1VWTFZ6WdIB6AFBVV95cUxNeU1FbGF6Nk1ERi1zX0NkSWVXSlFUeWhEM2dKUFNVVk5LdlM5SmR5RW1wak52Nnp6cjNSRDMwX0JabTQ3TTRZX0RlQklJNXJ4TWdnLXExdWlZQVI1N01FYTRGZW9uTkVLZWhPN2VlRjIzVXhsbXlsMHhWYTJGRWwwSlExbW9CYzFsQkZ4Y21sZmxyaE9JYlU3T19FeWtMZGxYN29KNUprUk5lSzVjTVU2V0hXRFVVMVpteGtUNXYwVUx5eE5Kb3dRWHdlTDU2QXhsQXd3YW1mazl5THo5U1NRUDVRR2JGUW5X?oc=5"
-    }
-   ],
-   "score": 27.7
-  },
-  {
-   "id": "5026675f62",
-   "titulo": "Ibovespa recua com acirramento da disputa eleitoral e sem o apoio de Vale",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUUNKb0dvMmNjZnhiY0ViM1RKUVY1UVhfU3hRZ2dxZ1kzdHY0cEY0LTMzdTZwQ0N3amVvVU5ZSzFUU1BBZlllVUl0NnF0MFVOM0huX2o2eDh0aUw5NlFVa0Q4N0xGMnBQYjlIdThBM1dhQWhQTU90SmEwOXhwUjZmTHVzVUNfenhKdXZYaFEyVmxmMlNWVlVnLTIxV2U3UTBXUlBBa2hTSzVUSUxvYkExdS1EOUxIOUdMaEV2R3lTNFB4STViVTc2bkVaU2tWNS1vWVRsRXRKNExpd9IB2gFBVV95cUxNUUNKb0dvMmNjZnhiY0ViM1RKUVY1UVhfU3hRZ2dxZ1kzdHY0cEY0LTMzdTZwQ0N3amVvVU5ZSzFUU1BBZlllVUl0NnF0MFVOM0huX2o2eDh0aUw5NlFVa0Q4N0xGMnBQYjlIdThBM1dhQWhQTU90SmEwOXhwUjZmTHVzVUNfenhKdXZYaFEyVmxmMlNWVlVnLTIxV2U3UTBXUlBBa2hTSzVUSUxvYkExdS1EOUxIOUdMaEV2R3lTNFB4STViVTc2bkVaU2tWNS1vWVRsRXRKNExpdw?oc=5",
-   "veiculo": "Valor Econômico",
-   "publicado": "2026-10-22T16:58:23+00:00",
-   "temas": [
-    "comportamento",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+recua+com+acirramento+disputa+eleitoral+sem+apoio+Vale",
-   "veiculos": 10,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Valor Investe",
-     "titulo": "Ibovespa e dólar hoje: bolsa tomba mais de 1% e moeda sobe à espera de Datafolha",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXNTZW9oeWc0UkVpSzBCdS11MURQdnRkSktENXRoYlp6VEtTQjlLaEV4RlF0VU9yaE54cE1ydjRyTzF6TzFNbjdxSTNtZ2RpY2ttMEQwZ2hzS0RuSnlseXFwU3pjREQwMVNfQjRWVkZjN1JtNThoSHZJTUxBaGRTZTVybTl6WXZTUmpoNVZ6bF9Ta3RianhMUlRfYnROWHJnZ3pQZmlhSHd5UExoVUZxWTg2WXhJS2lEelU5QkZqMnY5LWxKTFAwekI2a2cxVXJ0Sjc0WHRBNNIB5gFBVV95cUxOZVZRVmZPWFk5V19tTzhJOTFqR01xRmJYZUtXUi1ndjdUU0xLMDlQWUtQRmVFUmRldlhHdWlsOW0zclEzc1h3VXRhWUY3dW01ZWlhQmswelJUd3ZEZm9wbkZzMm94WTI2eUc2T1kyWldKd0U1T3JqZmZPT0tsS3Raak4wOTJVbVB1d2thWGlBMHJ6cFk0bjY3bWFfYjBWZy1abnEzbVVJdmlCNVQxOHJPS1pyNmg2cUdyLV83eTd6eEltT3lwdmhGVG8yTG1aRU5FVDBKYmhyd1lVN0J4bEc5b3JoSUNvZw?oc=5"
-    },
-    {
-     "veiculo": "Valor Investe",
-     "titulo": "Ibovespa e dólar hoje: bolsa tomba mais de 1% e moeda sobe à espera de Datafolha",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXNTZW9oeWc0UkVpSzBCdS11MURQdnRkSktENXRoYlp6VEtTQjlLaEV4RlF0VU9yaE54cE1ydjRyTzF6TzFNbjdxSTNtZ2RpY2ttMEQwZ2hzS0RuSnlseXFwU3pjREQwMVNfQjRWVkZjN1JtNThoSHZJTUxBaGRTZTVybTl6WXZTUmpoNVZ6bF9Ta3RianhMUlRfYnROWHJnZ3pQZmlhSHd5UExoVUZxWTg2WXhJS2lEelU5QkZqMnY5LWxKTFAwekI2a2cxVXJ0Sjc0WHRBNNIB5gFBVV95cUxOZVZRVmZPWFk5V19tTzhJOTFqR01xRmJYZUtXUi1ndjdUU0xLMDlQWUtQRmVFUmRldlhHdWlsOW0zclEzc1h3VXRhWUY3dW01ZWlhQmswelJUd3ZEZm9wbkZzMm94WTI2eUc2T1kyWldKd0U1T3JqZmZPT0tsS3Raak4wOTJVbVB1d2thWGlBMHJ6cFk0bjY3bWFfYjBWZy1abnEzbVVJdmlCNVQxOHJPS1pyNmg2cUdyLV83eTd6eEltT3lwdmhGVG8yTG1aRU5FVDBKYmhyd1lVN0J4bEc5b3JoSUNvZw?oc=5"
-    },
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "SAUD3 sobe 5,0% e Ibovespa recua 1,4% na B3 hoje",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQck0xaGpVX2JnTUUyQm00VlNRSnBGNjJkeVJJNDZ4NURUWVFwSWNoZUVkd3hRZUJVTVhsSFIxYjQ1WTlrRGFVMDNSV0lxNFRTajY4ZFpPaFNuUm5uZFNRRDdlUG9CTFFMRDNDdExYLWNwbzRrVFJSQ3BSSGkwUkV0LTkyOTVRb2FwRlE?oc=5"
-    },
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "AZTE3 sobe 0,8% e Ibovespa recua na abertura hoje",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVZTdVdfdnlPS1UzYXFSWG5XcjRHWnl2XzFEcTRTYndfYzB3M2dDbFJEVjJ1dzVmOVliS1FyeEFBNWVXb21IM0Iwa1ZOZk9NN08xT1ltVW00NERjcmN4bi0xLUJVSWFJWk5YSFBKVkwxRU1aMGMtc1J3NUdOVndaR2VsMjV0TzZNYTJtLUlB?oc=5"
-    }
-   ],
-   "score": 27.5
-  },
-  {
-   "id": "1f2a99af24",
-   "titulo": "Carteira assinada ou negócio próprio? Pesquisa expõe diferenças entre eleitores de Lula e Flávio",
-   "url": "https://exame.com/brasil/carteira-assinada-ou-negocio-proprio-pesquisa-expoe-diferencas-entre-eleitores-de-lula-e-flavio/",
-   "veiculo": "Exame",
-   "publicado": "2026-10-22T14:23:40-03:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Carteira+assinada+neg%C3%B3cio+pr%C3%B3prio+Pesquisa+exp%C3%B5e+diferen%C3%A7as+entre+eleitores",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 26.7
   },
   {
    "id": "d5841c17aa",
@@ -1408,35 +1423,7 @@
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMU56NnJTZmJLWWdidVAtNFp6VVZQZF9KWjAtOUhOWFZnX25BRlNuU0tnZjE3OTRLWmdYQ1cxek5HMF9YYXhfd3lYZjNiNG8wYVFpZEc4NDVkaDB5M29ka29KTENVdkNQNG5QSmlOcWxRYl9uaGYyVjF5Rk10WHVsOUNEbllFS0VnYmJNNktmRm9ka2NKNHdHTTR6TmdBLXlDc1VMVm9DZmxIZk5Gd1NLYldPci1nLWJ0MTB2U3dWalhiOVQwWEpz?oc=5"
     }
    ],
-   "score": 26.6
-  },
-  {
-   "id": "979fb9d49b",
-   "titulo": "Vídeo: professora diz que negros vão morrer se Flávio for eleito",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/video-professora-diz-que-negros-vao-morrer-se-flavio-for-eleito/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-22T16:58:30+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=V%C3%ADdeo+professora+diz+que+negros+v%C3%A3o+morrer+Fl%C3%A1vio+for",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Howl.link",
-     "titulo": "GRAVE: Professora relaciona possível vitória de Flávio Bolsonaro ao nazismo e dispara para alunos: “Você ia morrer”; VEJA VÍDEO",
-     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE92Y1EwOGpOMW8wUTBYeTR6QVo1VHVZX3lKTEFwXzhNaHRKYm5KVWxpOWt2VzRFVnFWMENr?oc=5"
-    },
-    {
-     "veiculo": "Howl.link",
-     "titulo": "GRAVE: Professora relaciona possível vitória de Flávio Bolsonaro ao nazismo e dispara para alunos: “Você ia morrer”; VEJA VÍDEO",
-     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE92Y1EwOGpOMW8wUTBYeTR6QVo1VHVZX3lKTEFwXzhNaHRKYm5KVWxpOWt2VzRFVnFWMENr?oc=5"
-    }
-   ],
-   "score": 26.5
+   "score": 26.2
   },
   {
    "id": "7c9468d352",
@@ -1461,47 +1448,58 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ29Qd1FqdFI1aWpHUTdPMUFYS3YtRUxHeDRSMmpYTjhZdzQ0TEdMRDFKTUxia01sYW9TdkhvVXBYeTdrWnE3NTROODBZRXdhX0lSVXgtVjZpMDdwZUlNdjhSUDlKUjExRWVhaTBlTkRMZTZOd0E4TVRzTlllOFRYc1NJV21KNEcyc1BHWWlyaXhES3NadTJ6YlJxVjNyel9IV0RJYkxScnhrVElSMDVMUGp2SXMxeEFpLW9z?oc=5"
     }
    ],
-   "score": 26.5
+   "score": 26.1
   },
   {
-   "id": "9d6ad9b45a",
-   "titulo": "Ibovespa cai 0,86% com pesquisa eleitoral; dólar fecha a R$ 5,027",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbU1EdnRpTDdYbzVmR0tURlo3Z3A2VU9NNXlwdENaNGxkTTdiLU90WlRJZlh5RFN5OGlkREtscmZoWm5oVzNsdWlhalFuRnhwZjRRVXBwcldyRjlNbDVZZ3JISUtSbnAyNVZOVmhzcHJkRjZoU200U3NyYlg5VldFelgzS3V4dk5IQzBmTXoyMkdoYWN0OWVIM2lnTHVRcmNGT3Z2TktDODI4TDZpazNNNFJnTQ?oc=5",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-22T16:34:22+00:00",
+   "id": "0e7bbeca25",
+   "titulo": "Senado do Peru autoriza Keiko a promulgar leis sem aval do Congresso por 120 dias",
+   "url": "https://www.infomoney.com.br/mundo/senado-do-peru-autoriza-keiko-a-promulgar-leis-sem-aval-do-congresso-por-120-dias/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-22T19:04:44+00:00",
    "temas": [
-    "economia",
     "mercado",
     "politica"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+cai+0%2C86%25+com+pesquisa+eleitoral+d%C3%B3lar+fecha+5%2C027",
-   "veiculos": 6,
-   "rotina": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Senado+Peru+autoriza+Keiko+promulgar+leis+sem+aval+Congresso",
+   "veiculos": 4,
+   "rotina": false,
    "outras": [
     {
-     "veiculo": "Finance News",
-     "titulo": "Atualização: Ibovespa em queda, dólar em alta e destaques corporativos",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWRoSk9pa05nOVdsWFpBdF9iZ2pHQlRGV0piUUZvQnZpSXlaNkY1RnczUDYzRjQ4UHR4ZVh3a3NMVGg4R2h3OUhmY1JHWWFGY29GQjc4T0FObzZwUTY3dHZmQzFQYXdUYjdUeEp0eE9tY0Q2REFZNU9yWHNrUTFBYzQxSzNBNEZfSm1BU0NLajNnV3NYdkdXXzQ5WW9KS3lxNzNibDdRWQ?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Senado do Peru autoriza Keiko a promulgar leis sem aval do Congresso por 120 dias | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=7mMYcT0vuWw"
     },
     {
-     "veiculo": "Bora Investir",
-     "titulo": "Ibovespa em alta e dólar em R$ 5: é o momento de diversificar no exterior?",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaVJsNWZDMXY0R245ZFZWd2Fzb1NQd3hiSlQtVDBzdy0zMWJQeGhRZlEwb1BkNUh1YnZQWmtGRVZtNlFuVldUX05tZDRDbG9WdEhTRWxhVFo1SUktdVRiemhtMGl6S1FoZXVYejdfZGdGV2M5bnV1dUU2aFRqWHBWeE02S3VSd1BYWm1JMmNwYmxERlJjLWcxX3FfbW03ejZnQVZ0Q0dYYVdWYzZnc0QwR2hMY3Fra2ptaFBrbWI3Q3ZCNXRnaGFUR2hmNDJlazRXUFJlMlhRQ25aRzRWUnlz?oc=5"
+     "veiculo": "Valor",
+     "titulo": "Senado do Peru autoriza Keiko a ditar leis sobre crime organizado sem passar pelo Congresso",
+     "url": "https://valor.globo.com/mundo/noticia/2026/10/22/senado-do-peru-autoriza-keiko-a-ditar-leis-sobre-crime-organizado-sem-passar-pelo-congresso.ghtml"
     },
     {
-     "veiculo": "brasilagro.com.br",
-     "titulo": "Dólar fecha em alta a R$ 5,0272; Ibovespa cai 0,86% a 206.495 pontos",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUlQNDVjMzJYV2EydGtHUDA1c0ZSZVZhVFNWakNCY1VVSkVSRzNPQlFqLTZsUnpycVlPb3NPZjRCaExNY3VyN01TZjJtdXpHUUtvMW1nTGtqUzRUWDFXVU0xOHVCNURRWENETURzSC05SWY4ZnluTUNVYlJyLTU1eHRxSWpoaXBrM1VXcGJUWjgySHpSMlltMmFyZW1fZ0ZSQmdPTl9xV0xvQQ?oc=5"
+     "veiculo": "Estadão",
+     "titulo": "Senado aprova poderes para a presidente Keiko Fujimori ditar leis contra o crime organizado no Peru",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzVPdGpYUjh0VFlLRzdBUEJOSTFyME9ETGRlcG5CSmJhTzVNWXdkU3FidkszV0wyWnFiYVZvMnk4ZE9NSVJzb3FKZDVFajYzdEhVcTh5eHEzeVhtR1hQcWNMcEdxS0dtbVlRYnJLMzI5aWd1UUFNOEs5ZzZoNzU1dHBQeHVRYnJOdTNJc2VXVHNmNURvazlwYTBYZkZiaWNLeXFjXzJqYkN3S1RrTGQtbDIxbVdmTkhkSWxfSnRiNzF1UmJDLTJGa1Rzb1hYeXBTQ1hKVWM1aHFZUFJESnfSAeMBQVVfeXFMTWxBemNGNDlOTEJPOThTZGo0QmRqeHk3SFlfekFsZnZINWRQVDhkUkVmS21JUWdDX2lxNXUtTjhJSFFjZUhDN3Y5Y2hUNFRfRmp2V1RBMFlhTm9CZ2xaajdmWTEtQm9PWEtoX3JzS2kyTlpMbjNQNXdZSTVnb3djTW1kSWJYRElONTBFTXFSb3VTRDQ5UU5Uc3VYemMzZWdOSDhfNjNKYWtSU0hyenU5aXNrTUxIbjZ3R1FleThIaFc5cDNpamFOTnhxME9sY3REQWtNbVlCNXpkS1kyMnduWmc3YW8?oc=5"
     },
     {
-     "veiculo": "UOL Economia",
-     "titulo": "Ibovespa cai 0,86% com pesquisa eleitoral; dólar fecha a R$ 5,027",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbU1EdnRpTDdYbzVmR0tURlo3Z3A2VU9NNXlwdENaNGxkTTdiLU90WlRJZlh5RFN5OGlkREtscmZoWm5oVzNsdWlhalFuRnhwZjRRVXBwcldyRjlNbDVZZ3JISUtSbnAyNVZOVmhzcHJkRjZoU200U3NyYlg5VldFelgzS3V4dk5IQzBmTXoyMkdoYWN0OWVIM2lnTHVRcmNGT3Z2TktDODI4TDZpazNNNFJnTQ?oc=5"
+     "veiculo": "boca.com.br",
+     "titulo": "Senado do Peru aprova lei que confere poderes a Keiko Fujimori contra crime organizado",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XcXlVNmEtZm9uR29PelFrbVEwUU43UlVUQUdhNDN1T3RzVnJxVmVueFZRZTN4bGctdm5yY1RiWGZFRGhNNEFhZU0yX1ZUVXZqWEMxanhRbGt2TTVOMF95amJ2TGNHdHBhNVAtWmpZc3BZeDhF?oc=5"
     }
    ],
-   "score": 26.3
+   "score": 26.0,
+   "video_url": "https://www.youtube.com/watch?v=7mMYcT0vuWw",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 2,
+   "video_acima_mediana": 0.0,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Senado do Peru autoriza Keiko a promulgar leis sem aval do Congresso por 120 dias | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=7mMYcT0vuWw",
+     "por_hora": 2
+    }
+   ]
   },
   {
    "id": "0cbeb3e458",
@@ -1519,36 +1517,126 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 26.3
+   "score": 25.9
   },
   {
-   "id": "e177147457",
-   "titulo": "Flávio Bolsonaro fez festa com lobistas e prostitutas na pandemia, diz piauí; Daniela Lima explica",
-   "url": "https://www.youtube.com/watch?v=9wsJu409uG8",
+   "id": "0d1a1fc226",
+   "titulo": "'Loira do Flávio Bolsonaro': Apoiadora fake foi gerada por IA para vender conteúdo erótico",
+   "url": "https://www.youtube.com/watch?v=_CWC2T7Xlzw",
    "veiculo": "UOL",
-   "publicado": "2026-10-22T17:08:34.085917+00:00",
+   "publicado": "2026-10-22T18:46:45+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+fez+festa+com+lobistas+prostitutas+pandemia%2C+diz",
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Loira+Fl%C3%A1vio+Bolsonaro+Apoiadora+fake+foi+gerada+por+para",
    "veiculos": 1,
    "rotina": false,
-   "outras": [],
-   "score": 26.0,
-   "video_url": "https://www.youtube.com/watch?v=9wsJu409uG8",
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "'Loira do Flávio Bolsonaro': Apoiadora fake foi gerada por IA para vender conteúdo erótico",
+     "url": "https://www.youtube.com/watch?v=lD1-QVKclzE"
+    }
+   ],
+   "score": 25.7,
+   "video_url": "https://www.youtube.com/watch?v=lD1-QVKclzE",
    "video_canal": "UOL",
-   "video_por_hora": 21000,
-   "video_acima_mediana": 4.5,
+   "video_por_hora": 12000,
+   "video_acima_mediana": 4.7,
    "videos": [
     {
      "canal": "UOL",
-     "titulo": "Flávio Bolsonaro fez festa com lobistas e prostitutas na pandemia, diz piauí; Daniela Lima explica",
-     "url": "https://www.youtube.com/watch?v=9wsJu409uG8",
-     "por_hora": 21000
+     "titulo": "'Loira do Flávio Bolsonaro': Apoiadora fake foi gerada por IA para vender conteúdo erótico",
+     "url": "https://www.youtube.com/watch?v=lD1-QVKclzE",
+     "por_hora": 12000
+    },
+    {
+     "canal": "UOL",
+     "titulo": "'Loira do Flávio Bolsonaro': Apoiadora fake foi gerada por IA para vender conteúdo erótico",
+     "url": "https://www.youtube.com/watch?v=_CWC2T7Xlzw",
+     "por_hora": 1562
     }
    ]
+  },
+  {
+   "id": "ec59a26c47",
+   "titulo": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXVDTmNJa3lRaC1QY3JoaGZ4WVlzazdtX0lMcGk2X0pkU2hHclpFMGVIRnBJWk4xRF9zdGNKOWI0d3NVMzRsaEhDS1VzWVVzWWR6WXQwSjJiaXhlXzVYWmNabC16REkwSjNnRnhHLVk5elpPbUZXSmxQbU9GTS1OVWMyOHdFZ1VxcVlCSEhUYXpMZEZ6cTVKZXJ6bUlialdvaVJIQmVoWllOdGtjY1hVQ0lYNA?oc=5",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-10-22T16:04:15+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+5%2C05+Bolsa+cai%2C+com+alta+petr%C3%B3leo%2C+elei%C3%A7%C3%A3o",
+   "veiculos": 4,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXVDTmNJa3lRaC1QY3JoaGZ4WVlzazdtX0lMcGk2X0pkU2hHclpFMGVIRnBJWk4xRF9zdGNKOWI0d3NVMzRsaEhDS1VzWVVzWWR6WXQwSjJiaXhlXzVYWmNabC16REkwSjNnRnhHLVk5elpPbUZXSmxQbU9GTS1OVWMyOHdFZ1VxcVlCSEhUYXpMZEZ6cTVKZXJ6bUlialdvaVJIQmVoWllOdGtjY1hVQ0lYNA?oc=5"
+    },
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "Dólar sobe a R$ 5,05 e Bolsa cai, com alta de petróleo, eleição e balanços",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXVDTmNJa3lRaC1QY3JoaGZ4WVlzazdtX0lMcGk2X0pkU2hHclpFMGVIRnBJWk4xRF9zdGNKOWI0d3NVMzRsaEhDS1VzWVVzWWR6WXQwSjJiaXhlXzVYWmNabC16REkwSjNnRnhHLVk5elpPbUZXSmxQbU9GTS1OVWMyOHdFZ1VxcVlCSEhUYXpMZEZ6cTVKZXJ6bUlialdvaVJIQmVoWllOdGtjY1hVQ0lYNA?oc=5"
+    },
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Dólar sobe com petróleo em alta e reta final das eleições",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY19MRmszV0RsMnpMdWJKT3p0UVByd3ppU2dLTG1TYks4R3Q1cW5zdzVFWUNIYzZlMG9FOVNPbS1fT04tQ2kxTld3ZE1UU2lSR3IwNUlzSFZSWDNPSVJ4NmtEeTlSRm9pZnBEeGhZYzVFZnpITERWQlZUbDRIdklUSzBzc1Vjdw?oc=5"
+    },
+    {
+     "veiculo": "Diário da Amazônia",
+     "titulo": "Dólar sobe e Bolsa cai com investidores repercutindo nova pesquisa eleitoral",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSW5IclJUU09wMDlsSG1hQWw1dVNFRG1ETHhNWVJjdHcwQ3VTVkFRU1BQZGFFWTgzQUtLN3VnS0VEMldHZy01dm9nbjFCSlFRQmdMeVduLWNfaDFXakRjSGxlbUdZMzB3QWZacWFqUkdnZ2V0ampoUGdvcWg5dnhuQkFoamtLSkMwUUhINmg3S1BPRnFBSzNhOUI5aXJyWk1rT21sNFpKUk0yZjZYMVhtUzZyWGs2TnRCS04tV2RNMU55b2s?oc=5"
+    }
+   ],
+   "score": 25.7
+  },
+  {
+   "id": "73c3c71afd",
+   "titulo": "Flávio tenta reduzir vantagem de Lula no Nordeste na reta final do 2º turno",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUhpVVNwMFdlX1VxZHBxLUp4R1ZDUDR2Uy1CWjd1dVBBMno3YWxhSnlYQUs3SDBucC1RazJlOW9lNmxSV0RPR290S3dkX3VQa05iVFNFNjZZSFNFTFpIalVTVkpTRVJPMWk3WFJpTHhVNHUxZWl5Si03cWR1U1E1UV9INzhoMXpkblAzVl9fcUJkNGFLb1I4Q2Q0dWJETmhEb0NDREdZYm9VUFJTOHc?oc=5",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-22T13:38:46+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tenta+reduzir+vantagem+Lula+Nordeste+reta+final+turno",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Blog do BG",
+     "titulo": "DE OLHO NO NORDESTE: Campanha de Flávio Bolsonaro intensifica atos com Nikolas Ferreira e busca virada no 2º turno",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkVFNDVfM2Ixb1VZbWUxRmtxRTBUdGlnd2p1Q2V4QS15T2hHTlBldk4wa3FRcnpLSFhPSndDM3kyU2hOOHJEQng3TE1xYndYUGJZdXhnRTVSbmhRdEMyT1AxYmdPTXUxamxqd1M0d2ZzY18ySUR5MDNMaWQ0bmlIWlNGajk4Z19nNjgtOGpxYlpheUNMLWJSX0ZjSlV2cjI0VGlVRnBiYnNVR2t6TDZpZzBFOXJlb0s1WVU4bF9qNkkyZno0LVNrWDEtemtReUVmSGY0OWNUdTlWQQ?oc=5"
+    },
+    {
+     "veiculo": "grupo sepé",
+     "titulo": "Flávio busca reduzir vantagem de Lula no Nordeste",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6RVdyME42cVRGdlhOTFE3S0VGSm93LVAtaUl0RC01bFVmSk5hb05ZZjZDZ1UxWk93ZlVZeXduTzdrQTZKNnZZWElLRlhpTFhFNHVIaXN2eXZEaEpqaW5KODhpSnlqazhjUFlnbjFtNA?oc=5"
+    },
+    {
+     "veiculo": "Portal VV8",
+     "titulo": "Flávio Bolsonaro busca reduzir diferença de Lula no Nordeste antes do segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbXJER3FIV25uenlhdmplT3k4UTFDMTlXTjJ4dFNlb1ptT1FPUk16S1RhWm5EUWstQUo4NjRoVk9Ya3cwem15Ym15emJMUFRQUlFEQ0dHZWxHM0RYUzh6a2huTjFaVldlU3BWLUZlcDMtSER6NVB6XzkwN0Y2RzdmemxMSGpZc0taejU4SzZqNDdkbjFQUzBQQmVCdTRQaTdmOFlPRkpzbFF1OXRscUItakFCN0ZSY3pUbTJyRVZ0eUNlOVFD?oc=5"
+    },
+    {
+     "veiculo": "Gazeta do Povo",
+     "titulo": "Flávio e Nikolas dão início à “despetização” do Nordeste para impedir virada de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUsyNHB4UkV5RjU4OEVPODBIR2JSUGhIeEotaUwzeFo1V3ZhNEx5bFJqMW1qTVhOU0duTVozSnZVc2F0cEVCMW9XVmRzWGl4ZFd1b0o0LVNpa0JCcThSMEMyUEdrZlphMTIzZWs4aVIwN1lJQ3NzeGNwWEZsTVV6ZUJ2OU1Kam1yZjdsVmFaMXVPQ2pGbWw4d0VTUGRtWWtIdWtvQXpXTEtMNTZiV2VjeklSc1lsckF0bl9Z?oc=5"
+    }
+   ],
+   "score": 25.7
   },
   {
    "id": "5528b06aab",
@@ -1566,7 +1654,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 25.8
+   "score": 25.4
   },
   {
    "id": "b81ce807ab",
@@ -1585,41 +1673,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 25.8
-  },
-  {
-   "id": "0e7bbeca25",
-   "titulo": "Senado do Peru autoriza Keiko a promulgar leis sem aval do Congresso por 120 dias",
-   "url": "https://www.infomoney.com.br/mundo/senado-do-peru-autoriza-keiko-a-promulgar-leis-sem-aval-do-congresso-por-120-dias/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-22T17:22:03+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Senado+Peru+autoriza+Keiko+promulgar+leis+sem+aval+Congresso",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "Senado do Peru autoriza Keiko a ditar leis sobre crime organizado sem passar pelo Congresso",
-     "url": "https://valor.globo.com/mundo/noticia/2026/10/22/senado-do-peru-autoriza-keiko-a-ditar-leis-sobre-crime-organizado-sem-passar-pelo-congresso.ghtml"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Senado aprova poderes para a presidente Keiko Fujimori ditar leis contra o crime organizado no Peru",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzVPdGpYUjh0VFlLRzdBUEJOSTFyME9ETGRlcG5CSmJhTzVNWXdkU3FidkszV0wyWnFiYVZvMnk4ZE9NSVJzb3FKZDVFajYzdEhVcTh5eHEzeVhtR1hQcWNMcEdxS0dtbVlRYnJLMzI5aWd1UUFNOEs5ZzZoNzU1dHBQeHVRYnJOdTNJc2VXVHNmNURvazlwYTBYZkZiaWNLeXFjXzJqYkN3S1RrTGQtbDIxbVdmTkhkSWxfSnRiNzF1UmJDLTJGa1Rzb1hYeXBTQ1hKVWM1aHFZUFJESnfSAeMBQVVfeXFMTWxBemNGNDlOTEJPOThTZGo0QmRqeHk3SFlfekFsZnZINWRQVDhkUkVmS21JUWdDX2lxNXUtTjhJSFFjZUhDN3Y5Y2hUNFRfRmp2V1RBMFlhTm9CZ2xaajdmWTEtQm9PWEtoX3JzS2kyTlpMbjNQNXdZSTVnb3djTW1kSWJYRElONTBFTXFSb3VTRDQ5UU5Uc3VYemMzZWdOSDhfNjNKYWtSU0hyenU5aXNrTUxIbjZ3R1FleThIaFc5cDNpamFOTnhxME9sY3REQWtNbVlCNXpkS1kyMnduWmc3YW8?oc=5"
-    },
-    {
-     "veiculo": "boca.com.br",
-     "titulo": "Senado do Peru aprova lei que confere poderes a Keiko Fujimori contra crime organizado",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XcXlVNmEtZm9uR29PelFrbVEwUU43UlVUQUdhNDN1T3RzVnJxVmVueFZRZTN4bGctdm5yY1RiWGZFRGhNNEFhZU0yX1ZUVXZqWEMxanhRbGt2TTVOMF95amJ2TGNHdHBhNVAtWmpZc3BZeDhF?oc=5"
-    }
-   ],
-   "score": 25.7
+   "score": 25.4
   },
   {
    "id": "22e57b0067",
@@ -1637,200 +1691,306 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 25.5
+   "score": 25.0
   },
   {
-   "id": "11c2df8e3d",
-   "titulo": "Willer Tomaz tinha sala secreta e máquina de contar dinheiro em hangar, segundo Polícia Federal",
-   "url": "https://www.youtube.com/watch?v=9cesbUtf7ZU",
+   "id": "0db0580dd6",
+   "titulo": "“Índice do medo” da bolsa brasileira dispara às vésperas da eleição",
+   "url": "https://www.cnnbrasil.com.br/economia/money/mercado/indice-do-medo-da-bolsa-brasileira-dispara-as-vesperas-da-eleicao/",
    "veiculo": "CNN Brasil",
-   "publicado": "2026-10-22T16:20:57+00:00",
+   "publicado": "2026-10-22T18:17:50+00:00",
    "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=%C3%8Dndice+medo+bolsa+brasileira+dispara+v%C3%A9speras+elei%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "\"Índice do medo\" da bolsa brasileira dispara às vésperas da eleição",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbk5uNG9BUUphemdpTGRMUmpuQngxLXhDR29aU1F3Q3Vnd3ZJcHE4ZFR4YVZfeEpYdm13dU1XY0lmNjRKMGlya2x5dGVCTElPVldOZDlxQzMwUkxYdXV5eFFQRlByUHZFbU96OXVfZDZMbmhpNHpPeTNWamF6Y19Ud3BnVm55emNrWWgxbFlKRjlXYWlWTEtmdE1TbTJMOUdSODg1ZjdZb3J2UVdmUi1fVEFlMVpHRUdaNnc?oc=5"
+    }
+   ],
+   "score": 24.7
+  },
+  {
+   "id": "1eb5199fd5",
+   "titulo": "INFORME ESPECIAL: A ECONOMIA NOS GOVERNOS LULA E BOLSONARO",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTNTdTVYY2tIMkpEdVRBVEFTMEpwZjBpRnIyRWVKYWlxbHAzWGM5NmxramZWMmE3eXhTcnZvQWdqaFRfeTB6RjRQYkpkc0ZsOW9KeC10QTZMak5CcWlLVExkcEdGMWtCX1JMRVQ0TXNlWFpEU3hXR1EzLWpQRG5kalNXQldGMEVsaUVBdXFmQTJTVVRJamlFY1BuRnY5dw?oc=5",
+   "veiculo": "Jornal Liberdade",
+   "publicado": "2026-10-22T17:45:23+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=INFORME+ESPECIAL+ECONOMIA+NOS+GOVERNOS+LULA+BOLSONARO",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Vença Lula ou Flávio Bolsonaro, economia brasileira desacelera em 2027, diz Fitch",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaFBZXzQ5MVRSbzUxTXNWb0JEcVhTM0Myc2NjOXJNaDFSelUyZ0lqNFZNZy1XNmFGeVlQUEl2ZENUaHNXR1FpWnNQMGNCUE9MdXVyN2lMMHhWLXZxSVQ0TmNiQXRVVUJIcUM4dlhXZl9haXdmVmhkZGpCNnRWUUcxeA?oc=5"
+    },
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzhvVEc5TVhrTUNkQ2lEdFFtUHpIMkhjWkxaQlpNcjd6Z3dNSkowbGpDYS1JaWF0MzFfbTNaNllqaDFtUy1ORVRDaFhnZ1VENl9TV0FPT21BTnlZUEVWb3B5LXZQdEsxZ3ozVDBsMDlWZ2x6dXhQVUdSamR2RUhxTThPSzhIOVNxb1ViQWZnYjBmSGxveWdGdWN0ZUxyOXpNcy14WjBsNVBDbGdBY2Y5bkFuWDE0YUFiWTZPNk1xVHl3M0dKLXV2el9PVXU?oc=5"
+    }
+   ],
+   "score": 24.4
+  }
+ ],
+ "falas_e_videos": [
+  {
+   "id": "ce3cf25998",
+   "titulo": "DUELO DE SIGILOS MOBILIZA CAMPANHAS DE FLÁVIO E LULA - BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=kr-F7mAfabY",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-22T18:48:35+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Willer+Tomaz+tinha+sala+secreta+m%C3%A1quina+contar+dinheiro+hangar%2C",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=DUELO+SIGILOS+MOBILIZA+CAMPANHAS+FL%C3%81VIO+LULA+BASTIDORES+CNN",
+   "veiculos": 9,
    "rotina": false,
-   "outras": [],
-   "score": 25.3,
-   "video_url": "https://www.youtube.com/watch?v=9cesbUtf7ZU",
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Lula x Flávio Bolsonaro: Quebra do sigilo é a Nossa Senhora Aparecida do 2º turno | Josias",
+     "url": "https://www.youtube.com/watch?v=kqIG_dMzQ-Y"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Campanhas de Flávio e Lula assinam acordo para tratar de quebras de sigilo; veja | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=wZtYd4wvEhQ"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "'Esquema na pandemia' lidera buscas sobre Flávio; Lula aparece com 'quebra de sigilo' na reta final",
+     "url": "https://www.youtube.com/watch?v=2owEI-yb3dA"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Quebra do sigilo: Campanhas de Lula e Flávio Bolsonaro estão unidas em torno de uma farsa | Josias",
+     "url": "https://www.youtube.com/watch?v=XvnMw3OQov0"
+    }
+   ],
+   "score": 60.9,
+   "video_url": "https://www.youtube.com/watch?v=kr-F7mAfabY",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 7538,
-   "video_acima_mediana": 3.4,
+   "video_por_hora": 206567,
+   "video_acima_mediana": 116.4,
    "videos": [
     {
      "canal": "CNN Brasil",
-     "titulo": "Willer Tomaz tinha sala secreta e máquina de contar dinheiro em hangar, segundo Polícia Federal",
-     "url": "https://www.youtube.com/watch?v=9cesbUtf7ZU",
-     "por_hora": 7538
+     "titulo": "DUELO DE SIGILOS MOBILIZA CAMPANHAS DE FLÁVIO E LULA - BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=kr-F7mAfabY",
+     "por_hora": 206567
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Campanhas concordam em abrir sigilos, mas Flávio impõe nova condição: só após analisar dados de Lula",
+     "url": "https://www.youtube.com/watch?v=b_g9iW49EzU",
+     "por_hora": 13000
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lula e Flávio Bolsonaro assinam petição para abrir sigilos bancários no TSE | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=pgA-RslT-20",
+     "por_hora": 12292
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Campanhas de Flávio e Lula assinam acordo para tratar de quebras de sigilo; veja | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=wZtYd4wvEhQ",
+     "por_hora": 11138
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Flávio aceitou abrir sigilo de empresa com Willer, investigado por fraude no INSS, diz Camilo",
+     "url": "https://www.youtube.com/watch?v=Vl1-6dy-Src",
+     "por_hora": 10500
+    },
+    {
+     "canal": "UOL",
+     "titulo": "'Esquema na pandemia' lidera buscas sobre Flávio; Lula aparece com 'quebra de sigilo' na reta final",
+     "url": "https://www.youtube.com/watch?v=2owEI-yb3dA",
+     "por_hora": 4633
     }
    ]
-  }
- ],
- "falas_e_videos": [
+  },
   {
-   "id": "6121b4bff2",
-   "titulo": "Deltan diz que vai analisar documentos apresentados por Lula",
-   "url": "https://www.youtube.com/watch?v=YuF8yw7zcd4",
+   "id": "0c271fea3e",
+   "titulo": "Flávio tem 50,6% dos votos válidos e Lula, 49,4%, diz pesquisa",
+   "url": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-506-dos-votos-validos-e-lula-494-diz-pesquisa/",
    "veiculo": "Poder360",
-   "publicado": "2026-10-22T18:04:27+00:00",
+   "publicado": "2026-10-22T18:35:55+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+tem+50%2C6%25+dos+votos+v%C3%A1lidos+Lula%2C+49%2C4%25%2C+diz",
+   "veiculos": 13,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "PoderData/AYA: Flávio Bolsonaro tem 51% e Lula 49% | BandNews TV",
+     "url": "https://www.youtube.com/watch?v=zDBkb5yfpHI"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Carteira assinada ou negócio próprio? Pesquisa expõe diferenças entre eleitores de Lula e Flávio",
+     "url": "https://exame.com/brasil/carteira-assinada-ou-negocio-proprio-pesquisa-expoe-diferencas-entre-eleitores-de-lula-e-flavio/"
+    },
+    {
+     "veiculo": "Tudo ok Notícias",
+     "titulo": "Flávio tem 51% e Lula, 49%, aponta pesquisa",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWXFnVVNKX1NvUjFFX24wU3Bnelc2MzliRHdEWlBkUWNBakxNTzdhaTljOXk0a2JQbXBrcmJnY1JLN0R0VE5yV1JqTlBoNGJBZmtrUHlIZXhZWVBsZWRkVDVnanY5V1MyTDIteUc5Mzg5REk5My1zMlM4bFJwX1RfVV8zZw?oc=5"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%; aponta PoderData/AYA | LIVE CNN",
+     "url": "https://www.youtube.com/watch?v=PPUCaJqf29I"
+    }
+   ],
+   "score": 59.9,
+   "video_url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 20369,
+   "video_acima_mediana": 42.4,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Flávio Bolsonaro e Lula empatam na disputa pela Presidência, diz PoderData",
+     "url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
+     "por_hora": 20369
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
+     "url": "https://www.youtube.com/watch?v=oGPTihERhM4",
+     "por_hora": 20333
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%; aponta PoderData/AYA | LIVE CNN",
+     "url": "https://www.youtube.com/watch?v=PPUCaJqf29I",
+     "por_hora": 14250
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "PoderData/AYA: Flávio Bolsonaro tem 51% e Lula 49% | BandNews TV",
+     "url": "https://www.youtube.com/watch?v=zDBkb5yfpHI",
+     "por_hora": 4238
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "PoderData: Flávio Bolsonaro e Lula empatam na disputa pela presidência | Bora Brasil",
+     "url": "https://www.youtube.com/watch?v=hn_AsY68aeM",
+     "por_hora": 2500
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Meio/Ideia: Flávio Bolsonaro tem 51,1% contra 48,9% de Lula | #SBTBrasil",
+     "url": "https://www.youtube.com/watch?v=67Oa2Ikr6gU",
+     "por_hora": 2056
+    }
+   ]
+  },
+  {
+   "id": "1b1359c81e",
+   "titulo": "Advogada de Flávio diz que senador entregará dados depois de Lula",
+   "url": "https://www.youtube.com/watch?v=_ehVo4ySC2c",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:53:22+00:00",
    "temas": [
     "economia",
     "politica"
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Deltan+diz+que+vai+analisar+documentos+apresentados+por+Lula",
-   "veiculos": 14,
+   "busca_video": "https://www.youtube.com/results?search_query=Advogada+Fla+vio+diz+que+senador+entregara+dados+depois",
+   "veiculos": 11,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Poder360",
-     "titulo": "Deltan: “Última vez que analisei documentos, Lula foi parar na cadeia”",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/deltan-ultima-vez-que-analisei-documentos-lula-foi-parar-na-cadeia/"
+     "veiculo": "CNN Brasil",
+     "titulo": "Advogada diz que entregará sigilo de Flávio após analisar dados de Lula",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/equipe-de-flavio-quer-analisar-documentos-de-lula-antes-de-entregar-sigilo/"
     },
     {
-     "veiculo": "Exame",
-     "titulo": "Campanha de Flávio Bolsonaro diz que só abre sigilos após analisar documentos de Lula",
-     "url": "https://exame.com/brasil/flavio-bolsonaro-so-abrira-sigilos-apos-analisar-documentos-de-lula-diz-campanha/"
+     "veiculo": "Valor",
+     "titulo": "Lula e Flávio Bolsonaro assinam termo autorizando abertura de sigilos bancário, fiscal e telefônico",
+     "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/lula-e-flavio-informam-conjuntamente-que-aceitaram-abertura-de-sigilos-diz-camilo-santana.ghtml"
+    },
+    {
+     "veiculo": "Lula",
+     "titulo": "Campanha de Lula vai ao TSE e autoriza abertura de sigilos",
+     "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc"
     },
     {
      "veiculo": "SBT News",
      "titulo": "Campanha de Flávio escala Deltan para analisar sigilos de Lula | #RadarNews",
      "url": "https://www.youtube.com/watch?v=Wdh2287sjow"
-    },
-    {
-     "veiculo": "SBT News",
-     "titulo": "Campanha de Flávio Bolsonaro só abrirá sigilo após analisar o de Lula | #SBTNews",
-     "url": "https://www.youtube.com/watch?v=oDADISm644g"
     }
    ],
-   "score": 61.0,
-   "video_url": "https://www.youtube.com/watch?v=FSG5PMX3fF8",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 51725,
-   "video_acima_mediana": 60.9,
+   "score": 55.9,
+   "video_url": "https://www.youtube.com/watch?v=9McLeRmlIZo",
+   "video_canal": "SBT News",
+   "video_por_hora": 17454,
+   "video_acima_mediana": 20.3,
    "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "PESQUISAS ELEITORAIS / SIGILOS DE FLÁVIO E LULA | JORNAL DA MANHÃ - 2ª EDIÇÃO - 22/10/2026",
-     "url": "https://www.youtube.com/watch?v=FSG5PMX3fF8",
-     "por_hora": 51725
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "CAMPANHAS DE LULA E FLÁVIO PROMETEM ENTREGAR SIGILOS BANCÁRIOS | MORNING SHOW - 22/10/26",
-     "url": "https://www.youtube.com/watch?v=-8vY_Docx78",
-     "por_hora": 24596
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Lula aceita exigências de Flávio Bolsonaro para quebra de sigilos  | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=Ppd7Yi8JFqQ",
-     "por_hora": 19000
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Lula diz que aceita quebrar sigilo de Marcola, e Flávio Bolsonaro amplia exigências",
-     "url": "https://www.youtube.com/watch?v=Ig0EngfIFDo",
-     "por_hora": 18667
-    },
     {
      "canal": "SBT News",
      "titulo": "Equipe de Lula chega ao TSE para protocolar quebra de sigilo | #SBTNews",
      "url": "https://www.youtube.com/watch?v=9McLeRmlIZo",
-     "por_hora": 18560
+     "por_hora": 17454
     },
     {
      "canal": "SBT News",
      "titulo": "Campanha de Flávio Bolsonaro só abrirá sigilo após analisar o de Lula | #SBTNews",
      "url": "https://www.youtube.com/watch?v=oDADISm644g",
-     "por_hora": 17806
-    }
-   ]
-  },
-  {
-   "id": "34746623e9",
-   "titulo": "Flávio aceita abrir sigilo, mas condiciona a 19 exigências",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-aceita-abrir-sigilo-se-marcola-fizer-o-mesmo/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-22T17:35:01+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+aceita+abrir+sigilo%2C+mas+condiciona+exig%C3%AAncias",
-   "veiculos": 10,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Lula e Flávio Bolsonaro assinam petição para abrir sigilos bancários no TSE | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=pgA-RslT-20"
-    },
-    {
-     "veiculo": "MyNews",
-     "titulo": "PETISTAS COBRAM QUEBRA DE SIGILO DE FLÁVIO BOLSONARO, NO TSE",
-     "url": "https://www.youtube.com/watch?v=2nHhWvN6lMU"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Lula e Flávio Bolsonaro assinam acordo para abrir sigilos, mas divergem sobre entrega dos dados",
-     "url": "https://exame.com/brasil/lula-e-flavio-bolsonaro-assinam-acordo-para-abrir-sigilos-mas-divergem-sobre-entrega-dos-dados/"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Campanhas concordam em abrir sigilos, mas Flávio impõe nova condição: só após analisar dados de Lula",
-     "url": "https://www.youtube.com/watch?v=b_g9iW49EzU"
-    }
-   ],
-   "score": 49.6,
-   "video_url": "https://www.youtube.com/watch?v=Vl1-6dy-Src",
-   "video_canal": "UOL",
-   "video_por_hora": 12000,
-   "video_acima_mediana": 2.6,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Flávio aceitou abrir sigilo de empresa com Willer, investigado por fraude no INSS, diz Camilo",
-     "url": "https://www.youtube.com/watch?v=Vl1-6dy-Src",
-     "por_hora": 12000
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Lula e Flávio Bolsonaro assinam petição para abrir sigilos bancários no TSE | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=pgA-RslT-20",
-     "por_hora": 10163
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Campanhas concordam em abrir sigilos, mas Flávio impõe nova condição: só após analisar dados de Lula",
-     "url": "https://www.youtube.com/watch?v=b_g9iW49EzU",
-     "por_hora": 9600
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Deltan não responde quando Flávio mostrará documentos e diz que Lula não quer liberar sigilos",
-     "url": "https://www.youtube.com/watch?v=h1U2EX6FWIY",
-     "por_hora": 7900
+     "por_hora": 16894
     },
     {
      "canal": "Band Jornalismo",
-     "titulo": "Mendonça decidirá sobre quebra de sigilos de Lula e Flávio",
-     "url": "https://www.youtube.com/watch?v=hVCG0EmeFn4",
-     "por_hora": 5127
+     "titulo": "Lula aceita exigências de Flávio Bolsonaro para quebra de sigilos  | Bora Brasil",
+     "url": "https://www.youtube.com/watch?v=Ppd7Yi8JFqQ",
+     "por_hora": 16333
     },
     {
-     "canal": "GloboNews",
-     "titulo": "Lula e Flávio Bolsonaro aceitam abertura simultânea de sigilos; Mendonça decidirá sobre pedido",
-     "url": "https://www.youtube.com/watch?v=2KadXQ-wqMQ",
-     "por_hora": 2161
+     "canal": "Lula",
+     "titulo": "Campanha de Lula vai ao TSE e autoriza abertura de sigilos",
+     "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc",
+     "por_hora": 14642
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Lula aceita condições de Flávio para abertura do sigilos bancário e telefônico | BORA BRASIL",
+     "url": "https://www.youtube.com/watch?v=0uSwQaBt3XU",
+     "por_hora": 12205
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Campanha de Flávio escala Deltan para analisar sigilos de Lula | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=Wdh2287sjow",
+     "por_hora": 7321
     }
    ]
   },
@@ -1839,7 +1999,7 @@
    "titulo": "“O povo vai fiscalizar”, diz Edinho sobre sigilo de Flavio",
    "url": "https://www.youtube.com/watch?v=_chHBmE1bgc",
    "veiculo": "Poder360",
-   "publicado": "2026-10-22T17:46:22+00:00",
+   "publicado": "2026-10-22T18:53:18+00:00",
    "temas": [
     "economia",
     "politica"
@@ -1847,94 +2007,146 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=povo+vai+fiscalizar+diz+Edinho+sobre+sigilo+Flavio",
-   "veiculos": 15,
+   "veiculos": 8,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Metrópoles",
-     "titulo": "Lula acompanhará apuração do 2º turno em SP; Flávio, em Brasília",
-     "url": "https://www.metropoles.com/colunas/igor-gadelha/lula-acompanhara-apuracao-do-2o-turno-em-sp-flavio-em-brasilia"
+     "veiculo": "Poder360",
+     "titulo": "Deltan diz que Lula não entregou documentos em reunião no TSE",
+     "url": "https://www.youtube.com/watch?v=X4-9BzZLBgk"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "Lula e Flávio Bolsonaro vivem 'duelo da quebra de sigilos' a três dias do 2º turno | #SBTNews",
-     "url": "https://www.youtube.com/watch?v=FKGQiAqXIBc"
+     "veiculo": "UOL",
+     "titulo": "Deltan não responde quando Flávio mostrará documentos e diz que Lula não quer liberar sigilos",
+     "url": "https://www.youtube.com/watch?v=h1U2EX6FWIY"
     },
     {
-     "veiculo": "Lula",
-     "titulo": "Abre o sigilo, Flávio",
-     "url": "https://www.youtube.com/watch?v=7FbBviLe-Mw"
+     "veiculo": "Portal 6",
+     "titulo": "Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWc2WEJZVXQwQ2dtYTlpdnFKRTlVdkFoNlFQV1IwMVp4YWpGQUF0MDJCbVVGUUNPd25XWE9hamdhNGluMm1aRDlFUzJJR0J1UmtqNzRvOGhzMVBndmJIUnJ0NlFQUVlCcHVpSGVQN2xDblUwUjNiZlBhSWNMUXJZUjlCQ1c2eHV2dk01UTVaQXA0d1BmS1I2dGtuWlBCQ2F0R1ZreDJJUzNWeDA2cUdmMDFLLXZyR1ctQmlETTd1Y1ZzaVE3TEg4?oc=5"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Campanhas de Flávio e Lula vão ao TSE para tratar de quebras de sigilo | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=50p5fiDcNVc"
+     "veiculo": "Portal 6",
+     "titulo": "Flávio Bolsonaro aceita quebra de sigilo proposta por Lula, e candidatos assinam acordo no TSE",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWc2WEJZVXQwQ2dtYTlpdnFKRTlVdkFoNlFQV1IwMVp4YWpGQUF0MDJCbVVGUUNPd25XWE9hamdhNGluMm1aRDlFUzJJR0J1UmtqNzRvOGhzMVBndmJIUnJ0NlFQUVlCcHVpSGVQN2xDblUwUjNiZlBhSWNMUXJZUjlCQ1c2eHV2dk01UTVaQXA0d1BmS1I2dGtuWlBCQ2F0R1ZreDJJUzNWeDA2cUdmMDFLLXZyR1ctQmlETTd1Y1ZzaVE3TEg4?oc=5"
     }
    ],
-   "score": 47.4,
-   "video_url": "https://www.youtube.com/watch?v=I9MzmRKFyFc",
-   "video_canal": "Lula",
-   "video_por_hora": 16379,
-   "video_acima_mediana": 3.4,
+   "score": 52.2,
+   "video_url": "https://www.youtube.com/watch?v=YuF8yw7zcd4",
+   "video_canal": "Poder360",
+   "video_por_hora": 15716,
+   "video_acima_mediana": 28.1,
    "videos": [
     {
-     "canal": "Lula",
-     "titulo": "Campanha de Lula vai ao TSE e autoriza abertura de sigilos",
-     "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc",
-     "por_hora": 16379
+     "canal": "Poder360",
+     "titulo": "Deltan diz que vai analisar documentos apresentados por Lula",
+     "url": "https://www.youtube.com/watch?v=YuF8yw7zcd4",
+     "por_hora": 15716
     },
     {
-     "canal": "CNN Brasil",
-     "titulo": "Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%; aponta PoderData/AYA | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=PPUCaJqf29I",
-     "por_hora": 16000
+     "canal": "UOL",
+     "titulo": "Deltan não responde quando Flávio mostrará documentos e diz que Lula não quer liberar sigilos",
+     "url": "https://www.youtube.com/watch?v=h1U2EX6FWIY",
+     "por_hora": 7000
     },
     {
      "canal": "Lula",
      "titulo": "Abre o sigilo, Flávio",
      "url": "https://www.youtube.com/watch?v=7FbBviLe-Mw",
-     "por_hora": 8175
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Sigilo de Flávio Bolsonaro: advogada diz que só autorizará quebra se Lula entregar o dele primeiro",
-     "url": "https://www.youtube.com/watch?v=QOmn7CMy5K4",
-     "por_hora": 6500
+     "por_hora": 5739
     },
     {
      "canal": "SBT News",
      "titulo": "Lula e Flávio Bolsonaro vivem 'duelo da quebra de sigilos' a três dias do 2º turno | #SBTNews",
      "url": "https://www.youtube.com/watch?v=FKGQiAqXIBc",
-     "por_hora": 5082
+     "por_hora": 3784
     },
     {
      "canal": "CNN Brasil",
-     "titulo": "Campanhas de Flávio e Lula reforçam mobilização a três dias do segundo turno | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=dC47ND2j53Y",
-     "por_hora": 3400
+     "titulo": "Campanhas de Flávio e Lula vão ao TSE para tratar de quebras de sigilo | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=50p5fiDcNVc",
+     "por_hora": 2958
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Deltan diz que Lula não entregou documentos em reunião no TSE",
+     "url": "https://www.youtube.com/watch?v=X4-9BzZLBgk",
+     "por_hora": 2250
     }
    ]
   },
   {
-   "id": "64f4a30112",
-   "titulo": "Flávio diz que Lula deve eleição de 2022 a Moraes",
-   "url": "https://www.youtube.com/watch?v=jjmQY6qiX5c",
+   "id": "6884f19090",
+   "titulo": "Durigan responde Flávio com vídeo sobre \"Pix da reforma tributária\"",
+   "url": "https://www.youtube.com/watch?v=gF3K7BtoNpI",
    "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:26:04+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Durigan+responde+Fl%C3%A1vio+com+v%C3%ADdeo+sobre+Pix+reforma+tribut%C3%A1ria",
+   "veiculos": 18,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SBT News",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQnR2andPbFkxcVFjQTNqajdYeUVyLXZnT3VWbV9PdzgzQ1pkQ3pCUkhqcVpUby1lX2ZrQ01EbG12VlhQNXg1V0tBWnZPdUhYSURVbG5ock0zbFlrQ292QWRKcFYyTjBHSndRSUpBbXVGdmlhdDA0cUFwNGZmTW1TSGo3RmVMZWNvaUlsQUZwV1FyTFdlV3FpNHdvVFNCQVVLS09Z?oc=5"
+    },
+    {
+     "veiculo": "Sobral Online",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro às vésperas do 2º turno",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbnBkaXRzQm9rZlFDUDUxVnlpa3lqRnpyaGlBS1IzTTVmbVFnandkWk9rblp4QzJrdmt6U3dLcndEX0RtclB3UWtIOWpNT1hSYm1oQVpHNEhETnotQ21pNWdNWHRjYV9jY1lyclZPTy1Baml3eHlGblF2UHNURHkxTW9hWU1EYVh2dnlfWkpzaUhLSm1lZ0hkSTN5LXp6U0toNHBuVFVUWkZtMEpGS0ZV?oc=5"
+    },
+    {
+     "veiculo": "O Antagonista",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenhHblhBQU5xV1QxRDU3UGpHZGVNdS1IQVhmTTEzdnR2c2U0eXJIWDZXUXkwOU5oMWtpYVhEWjJhVlBMV3JEa2FRMllhYi1BdHdqUzBfQ3ZJYy1xUjNGWnotMi1FYy1YVERlaWhPbWlSbHhfbDB4ZGR4ZURKaV9QbUV5TXgzaUxXUldB?oc=5"
+    },
+    {
+     "veiculo": "Pleno.News",
+     "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3ZPOFRzZDVNMG1CV2JjeGpwVE5CSEdwYjhPRC1vOWllYXVzQ2tKS2NXSXgxY2JaMWlKZ2tqaEw4QjB3SW9uVUNMa2QxVFpvWHJ6S01XT2RMWmZtM0IyTkl4UU9SR215YnB6TE5uWHJZZjhOazNFN0J0eEpiTVhCM2xtOWc0Q2VPQklJRGZ0aGRObGduZU5KSm1JWDVxRmU0WHpkbU5B0gGuAUFVX3lxTFB2cTlnUHpTcFJSLVhUZ3JyS3Z1X2R3N2hjRmM1RDF0alFqaHoxd3lSVW5pTDZyV1BiUUlrcF9wWlhhRTkzNnFDSHlEV3RZYU96cTI0eEZJcUlFd1J4Nm5qMTdRRERZdXdnbW1zTnkxcy1mMVFPeVY3bFZzTTl5SFJveHRkQzBtQzhfSXJKWjQ3UGRwc1FvaVdtai1USzREQ3p5M05TTGY0XzE2YmJ0Zw?oc=5"
+    }
+   ],
+   "score": 50.8,
+   "video_url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
+   "video_canal": "UOL",
+   "video_por_hora": 12667,
+   "video_acima_mediana": 5.0,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Revelando: Meta remove teaser de episódio sobre Flávio Bolsonaro com MC Cabelinho",
+     "url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
+     "por_hora": 12667
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Durigan responde Flávio com vídeo sobre \"Pix da reforma tributária\"",
+     "url": "https://www.youtube.com/watch?v=gF3K7BtoNpI",
+     "por_hora": 382
+    }
+   ]
+  },
+  {
+   "id": "711d9c514a",
+   "titulo": "Rua, redes e debate: As investidas de Flávio e Lula",
+   "url": "https://www.cnnbrasil.com.br/eleicoes/rua-redes-e-debate-as-investidas-de-flavio-e-lula/",
+   "veiculo": "CNN Brasil",
    "publicado": "2026-10-22T18:00:27+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+diz+que+Lula+deve+elei%C3%A7%C3%A3o+2022+Moraes",
-   "veiculos": 8,
+   "busca_video": "https://www.youtube.com/results?search_query=Rua%2C+redes+debate+investidas+Fl%C3%A1vio+Lula",
+   "veiculos": 9,
    "rotina": false,
    "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Rua, redes e debate: As investidas de Flávio e Lula",
-     "url": "https://www.cnnbrasil.com.br/eleicoes/rua-redes-e-debate-as-investidas-de-flavio-e-lula/"
-    },
     {
      "veiculo": "GloboNews",
      "titulo": "Fato ou Fake fará checagem durante debate entre Lula e Flávio Bolsonaro na TV Globo",
@@ -1946,108 +2158,107 @@
      "url": "https://www.youtube.com/watch?v=OKgupfD2Kqs"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula vai priorizar púlpito para evitar \"sombra\" de Flávio em debate | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=fbV9wXTyfX8"
+     "veiculo": "Jornal Imperatriz",
+     "titulo": "Em passagem por São Luís, Nikolas Ferreira critica Lula e espera que Flávio exponha falta de propostas do petista no debate da Globo",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUl9QLVhlTVJCRV9CVnc1SG51aGxscExraWRHc0ozcDZZMnplRURYNl9GWFNjZTFBV2pKTnoxdnFSZ0RpbEhsRWhVZFBQd3Bhb1hNM2lhdzItSkhCN1E4VVhyTkN5YXJfaTRDeFVwVHZLd3VYMW9WRGZIZzZUbEFvN3VoWndwYWJKdkNZWF9KQmZ4NkozQnJYQXFmU1FOZ2EzM2o5SF9qWmx3S0pNMEVIdkk1U1FxazZqVlJXRi1weHFzcW9PQ3BxRDB5SmFVbUVYQklYTWRMNTYzMG15NnlndThhaS1PcGxRMVltM3dVelJHMkZzTmN1OFBYbm5QOFM5dzgzbEp3?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "Paes, Ruas, Alckmin e Nikolas mantêm campanha nas ruas enquanto Lula e Flávio preparam debate",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzVVWUpEZDd1Z2JqeHRWUnFqdWJSa3liUENZT0lEcE9fcEhKSE9POTJMYUM0NkdRSmZpN180eng0bUhiWTl3WmhQTkRhRjJQY1pnakY0VXM0a2RucmF2d3JxeFVOT09kSHhsUF9WM1BRR29od3BOMGNXWVEtNElRaHdVWTAyaVpVSjh1OVoydExyZWZkRmZHd1p2Q1lyVDBkYkVsTW5kaGtZTkJoSGJCV19mZzgyaVZGR1JabkwyUzBEREk?oc=5"
     }
    ],
-   "score": 46.5,
+   "score": 42.8,
    "video_url": "https://www.youtube.com/watch?v=OKgupfD2Kqs",
    "video_canal": "UOL",
-   "video_por_hora": 4000,
-   "video_acima_mediana": 0.9,
+   "video_por_hora": 3150,
+   "video_acima_mediana": 1.2,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Equipe de Lula dormiu no ponto e errou ao subestimar força de Flávio Bolsonaro na rua | Casado",
      "url": "https://www.youtube.com/watch?v=OKgupfD2Kqs",
-     "por_hora": 4000
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Flávio Bolsonaro visita Jair às vésperas da eleição e do debate da TV Globo contra Lula | Casado",
-     "url": "https://www.youtube.com/watch?v=NjtsJcK2cjY",
-     "por_hora": 3333
+     "por_hora": 3150
     },
     {
      "canal": "GloboNews",
      "titulo": "Fato ou Fake fará checagem durante debate entre Lula e Flávio Bolsonaro na TV Globo",
      "url": "https://www.youtube.com/watch?v=sarvAiwLoa4",
-     "por_hora": 3238
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula vai priorizar púlpito para evitar \"sombra\" de Flávio em debate | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=fbV9wXTyfX8",
-     "por_hora": 2254
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Meio/Ideia: Flávio Bolsonaro tem 51,1% contra 48,9% de Lula | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=67Oa2Ikr6gU",
-     "por_hora": 2176
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Flávio diz que Lula deve eleição de 2022 a Moraes",
-     "url": "https://www.youtube.com/watch?v=jjmQY6qiX5c",
-     "por_hora": 360
+     "por_hora": 1851
     }
    ]
   },
   {
-   "id": "a4b222a23e",
-   "titulo": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro às vésperas do 2º turno",
-   "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-22T17:54:05+00:00",
+   "id": "5522702ea3",
+   "titulo": "Os resultados da pesquisa PoderData/Aya - PoderDataCast",
+   "url": "https://www.youtube.com/watch?v=kDKp0pvbs8k",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-22T18:40:17+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Meta+derruba+v%C3%ADdeo+Cabelinho+sobre+Fl%C3%A1vio+Bolsonaro+v%C3%A9speras+turno",
-   "veiculos": 13,
+   "busca_video": "https://www.youtube.com/results?search_query=resultados+pesquisa+PoderData+Aya+PoderDataCast",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Jornal Razão",
-     "titulo": "“Censuraram Cabelinho”: Erika Hilton se revolta após Meta derrubar vídeo de funkeiro contra Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXZUZXpvMFpYTElLUDB2TnUwTnY1cDhERXl2clRad2xMU241SEpaVlRwbDlOSE8yeFhzTS1OdnA4a2tXMWx5N21XczhiVWhlaHU1NGlfaHR4aHZwZkJLNjRwZFNrU2QzR3dHZXZHUy1LUGxjeXpFbHBBaWxJeWIyUmxWUGVfenUzdmV0dWtSR2hOd3VRXzZJRjdn?oc=5"
+     "veiculo": "Jovem Pan News",
+     "titulo": "Pesquisa PoderData/AYA: Flávio tem 51% dos votos válidos e Lula, 49%",
+     "url": "https://www.youtube.com/watch?v=e4EtLit47rY"
     },
     {
-     "veiculo": "Terra",
-     "titulo": "Porchat e Duvivier protestam após Meta derrubar 'Revelando' com MC Cabelinho sobre Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeE1pQ1l3bmVfei1NZF9raGJHa0hJNDlxTkd3YVBxMTNMdzVvM0pDUHdzVl9YSC11cmZOTkpYbDZYSnJkdE1WX01IRmYyTkZKTUk2SGNRUVMzRlIzdmZDRGRjWnlpR1RPN0lLWkpETWZubUl6U3hUS1BXLWt2YjIwd0pBZjNIQUdJaUk1OUtyVzJkSHlxWUM3TkJPSzBRT0gwRGpBMy01a09iZElSdC0tdEhuYnpxMlRpSFJGNGtleXN4UE9LQ0pBYmpzcFJJRXBSRzlFckl5YXpvc0paMTBYTDRfaVp6U0EtblJVVVk1QjdReEhmcVQwUngxNU83RzU0VlB2blRBbTJyRVY2WndMeVFxRG1PMHFUNWZTREpB?oc=5"
+     "veiculo": "Poder360",
+     "titulo": "A 3 dias do 2º turno, Flávio tem 51% e Lula tem 49% dos votos válidos, diz PoderData/Aya",
+     "url": "https://www.youtube.com/watch?v=zDZGYWxQOnk"
     },
     {
-     "veiculo": "UOL",
-     "titulo": "Flávio Bolsonaro e MC Cabelinho: Meta remove vídeo sobre senador",
-     "url": "https://www.youtube.com/watch?v=KY4NATNICgY"
+     "veiculo": "Natal em Foco",
+     "titulo": "Nova Pesquisa Gerp: Flávio tem 53% dos votos válidos no 2º turno; Lula, 47%",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkl3T0xqWlhlb2dCUDdsa19BVzVZbjl1Q2ZCLUJienF6d0xXZGx3TjF0bzRCVUpzVE9EYjZvbnVEbURnaDBFclF3b1pBRERQUnI4cXBnSEdXckhIRXZTU2lZVVVkQTRXVFFlWGp0cVNxblBGX3ZSZFlqWXBYZDVtTFpIQkV1djRHeURpcTdnVlRlWEYwVWJmWWFpc0t2NkY0ZVFLcE5rTFFzNmpPZlVWZA?oc=5"
     },
     {
-     "veiculo": "Opera Mundi",
-     "titulo": "Meta derruba do Instagram vídeo da série ‘Revelando’ que expõe Flavio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2xqYmVmNW9fUXM1NnV2Y2lBdkdycXpuRmtfZkE5ZFlyOS1MOE5yLS1XeXpmc0x0UTJuNnJpODhabnhYTGVPd2FHSU9LM1ZMUkVaeHR2Xy1qTXozSEhhbDBDbGlUYVl0NkN4UUVZUEhBb2VMWGU0Uk14bjY5WTZfbEVtMnIzWGVtNXd1Q3c1Nno2RXc3eGNpeHZxVlBhMWdsbzhXZmhTNHZKaVRlejVPVXVpM1ZiZUZ0M091S1lWUktSZFdVMWFUcQ?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no segundo turno | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=kE4IEuITvE0"
     }
    ],
-   "score": 46.5,
-   "video_url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
-   "video_canal": "UOL",
-   "video_por_hora": 11500,
-   "video_acima_mediana": 2.5,
+   "score": 35.2,
+   "video_url": "https://www.youtube.com/watch?v=e4EtLit47rY",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 8571,
+   "video_acima_mediana": 18.4,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Revelando: Meta remove teaser de episódio sobre Flávio Bolsonaro com MC Cabelinho",
-     "url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
-     "por_hora": 11500
+     "canal": "Jovem Pan News",
+     "titulo": "Pesquisa PoderData/AYA: Flávio tem 51% dos votos válidos e Lula, 49%",
+     "url": "https://www.youtube.com/watch?v=e4EtLit47rY",
+     "por_hora": 8571
     },
     {
-     "canal": "UOL",
-     "titulo": "Flávio Bolsonaro e MC Cabelinho: Meta remove vídeo sobre senador",
-     "url": "https://www.youtube.com/watch?v=KY4NATNICgY",
-     "por_hora": 5374
+     "canal": "Poder360",
+     "titulo": "A 3 dias do 2º turno, Flávio tem 51% e Lula tem 49% dos votos válidos, diz PoderData/Aya",
+     "url": "https://www.youtube.com/watch?v=zDZGYWxQOnk",
+     "por_hora": 2250
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Meio/Ideia: Flávio tem 51,1% dos votos válidos e Lula, 48,9% no segundo turno | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=kE4IEuITvE0",
+     "por_hora": 583
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Quaest: No segundo turno, Flávio Bolsonaro tem 45% e Lula 44% | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=DaXWyQIThDA",
+     "por_hora": 225
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Os resultados da pesquisa PoderData/Aya - PoderDataCast",
+     "url": "https://www.youtube.com/watch?v=kDKp0pvbs8k",
+     "por_hora": 0
     }
    ]
   },
@@ -2064,7 +2275,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=poder+Elon+Musk+sobre+elei%C3%A7%C3%B5es+brasileiras",
-   "veiculos": 20,
+   "veiculos": 19,
    "rotina": false,
    "outras": [
     {
@@ -2088,258 +2299,7 @@
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVJ0a1RObmZTWERUTWhPQWJ3emJpM0wtdUlqX0pzdnY5aFdwZlhHX1gxeVBrWE8ydDJyRlIzbWZrc2NaRVVydDEtMElzaV80UzV5M3dMWENEQnFFYy1VSVZMMTZqV0lhb2pjc1dlXzRBbUpqWnlRMDY4QzFOQXd3RTluczV1MHFKTERxVGJSZ0JPMGk0NWVqRzRKSTRfT1lDYmVNWjNSRll1TTFIb1VlNHFOd1NrblZUbS1vRE5oX2V4blRTQzJ3?oc=5"
     }
    ],
-   "score": 41.5
-  },
-  {
-   "id": "4d04283813",
-   "titulo": "Justiça autoriza recuperação judicial da Casas Bahia",
-   "url": "https://g1.globo.com/economia/noticia/2026/10/21/justica-aprova-recuperacao-judicial-da-casas-bahia.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-10-22T17:25:20+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Justi%C3%A7a+autoriza+recupera%C3%A7%C3%A3o+judicial+Casas+Bahia",
-   "veiculos": 56,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=4JTimVe6rwU"
-    },
-    {
-     "veiculo": "SpaceMoney",
-     "titulo": "Justiça defere recuperação judicial do Grupo Casas Bahia",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUtnNzBISDM1U1lFTThpLTE3OC1Hc1JsY01ZdW1Wa0o4dFcxWl9UdzdjcVNJU1RYRTVmWFZTd3ZtaS10RlQ5a3p1bEZJYzMyeWNycHVNVExrZ0NscDJQOHQ0LTQ3dFcya2VKUWhiS0p1ZGdKTXFOSjlFbEJvNzNOaXUtaWZZZml2WG13TjVJYw?oc=5"
-    },
-    {
-     "veiculo": "Blog do Alberes Xavier",
-     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
-    },
-    {
-     "veiculo": "Blog do Alberes Xavier",
-     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
-    }
-   ],
-   "score": 39.8,
-   "video_url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 275,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
-     "por_hora": 275
-    }
-   ]
-  },
-  {
-   "id": "e27bbb8760",
-   "titulo": "Para tentar virar, Lula tem que diminuir abstenção e tirar diferença de Flávio Bolsonaro no Sudeste",
-   "url": "https://www.youtube.com/watch?v=S_i0jX_RdD8",
-   "veiculo": "Estadão",
-   "publicado": "2026-10-22T13:03:26+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Para+tentar+virar%2C+Lula+tem+que+diminuir+absten%C3%A7%C3%A3o+tirar",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
-     "url": "https://www.youtube.com/watch?v=oGPTihERhM4"
-    },
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Pesquisa PoderData/AYA: Flávio tem 51% dos votos válidos e Lula, 49%",
-     "url": "https://www.youtube.com/watch?v=e4EtLit47rY"
-    },
-    {
-     "veiculo": "gazeta hora1",
-     "titulo": "Bolsa brasileira dispara após pesquisa mostrar Flávio Bolsonaro à frente de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGQ2THQ5bUlKWGVyWDZoOTRhZTFoenhGUm1WSUJLeTluaTgwUG12Zk5Gcm1UV0ljT1AtTEpTLVJvTUMyNG9VMTR3aktrQkxILWF6M1pZRU1TaFdYTVFwaVdvdkkwQVIwOW1PeElpSVRfLU1KYUdrM092Nl8xaU9iYkROZHliVHRaSUpKOC0tR1hhX0pfZTZMa0RfUzBtNkVGQV8zQkJBRlJadWgyR3lhTVVEZGN0LU1kOEE?oc=5"
-    }
-   ],
-   "score": 36.0,
-   "video_url": "https://www.youtube.com/watch?v=oGPTihERhM4",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 22808,
-   "video_acima_mediana": 26.8,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
-     "url": "https://www.youtube.com/watch?v=oGPTihERhM4",
-     "por_hora": 22808
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Pesquisa PoderData/AYA: Flávio tem 51% dos votos válidos e Lula, 49%",
-     "url": "https://www.youtube.com/watch?v=e4EtLit47rY",
-     "por_hora": 9667
-    },
-    {
-     "canal": "Estadão",
-     "titulo": "Para tentar virar, Lula tem que diminuir abstenção e tirar diferença de Flávio Bolsonaro no Sudeste",
-     "url": "https://www.youtube.com/watch?v=S_i0jX_RdD8",
-     "por_hora": 542
-    }
-   ]
-  },
-  {
-   "id": "3750a72612",
-   "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
-   "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
-   "veiculo": "UOL",
-   "publicado": "2026-10-22T17:08:34.085917+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bloquinhos+Nikolas+ganham+escala+nacional+dominam+agenda+Fl%C3%A1vio+Bolsonaro",
-   "veiculos": 8,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Bloquinhos de Nikolas Ferreira ganham força na campanha de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGZqVTNGT0FoaWltS3IzN1hhMko3U0w2VV9OVm1XY01oRkdKcF9tM3l4RC0yN2ZfQzl3YnJ5WnpnSXczWm9BX2s0V19DaFVYSWc4NFhWZ1JxVEw5anpwdmlhclI2Wll1Z3JJWVpxSlRHanAzN3dYd3RyLWYyeXdBYVBrSkNRTF9Yd2JLY0dGSUJwTnpHQ1lJSHg5UHpPUDVBMUYzMFB3Zl9pQWRWaWZ3?oc=5"
-    },
-    {
-     "veiculo": "tmc.com.br",
-     "titulo": "Nikolas transforma ‘bloquinhos’ em aposta de Flávio Bolsonaro nas ruas",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2hYSXZ6M0ZJbUdVOEJfeDBzZTB2OTM1MXFCOF9BTDQ3TTVmdFRHbV95LVlvenVfM2hrRmV5WWZTY2RXaVc4MHZTRUNJYWxuTmtlMXpZa2JxaUNPakFYYTFMdW5NNmhwNDM0Y3FLUEtWeWVpV2VTcUQwUjZadG9pdDNLakJGM1Rld2RiNVlR?oc=5"
-    },
-    {
-     "veiculo": "Maranhão Hoje",
-     "titulo": "Nikolas Ferreira puxa o Bloquinho do 22 em São Luís em apoio à candidatura de Flávio Bolsonaro a presidente",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNODRQTlVYWDBhUDZBQWZoQ3dYREFBYzhpbGJHaWxyR1NLWS1abHlpWFVHWWU1ZkpnYk9aWVdyaDAwU2tSampqMjVDTnlTSWlQVXNUNTM5M0V0V3dnd2EwVEg4dFp1cnFNQ0ktZjlXa3hhTzY5MHdPYjEybGJRc2lQZGtzdlFOcDBka2NueEZFZDZzV3ZBTl9Sa01IZVhwNVlESnpWcHc0dy1tOXctWkpXU1JtcGVZT2UxRkM4YXg5QmYzRkVEeXVVdFp3?oc=5"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFdZSm1acGN0WjI1VGYtQ1FXM1M2ejFxVC1uN3BDdDNveFZ5d1dRaTJSTjhyeUdaWVUwQVdFX0pBdXFEaGpCaTNFRWktc0pUTWI1WGZSbUxYQ2pxMnBITlRFTEczbTlrb0lkQUtYLXM1YXpYSG0xVEFXOFVUSmlXQ1NoemVEdXlGVVZQcGU0T3R0bnAwdURjaS1FLS1mVjVNejEycGE4eG02d3dVbmVsb2VrM1F6ZWdJZTJSbWFXZzV4OXZTcVg0Umg2dVh6U2pBOHNYaTk4RUNBc28?oc=5"
-    }
-   ],
-   "score": 34.3,
-   "video_url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
-   "video_canal": "UOL",
-   "video_por_hora": 1700,
-   "video_acima_mediana": 0.4,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
-     "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
-     "por_hora": 1700
-    }
-   ]
-  },
-  {
-   "id": "b1c9f52bb3",
-   "titulo": "Flávio Bolsonaro e Lula empatam na disputa pela Presidência, diz PoderData",
-   "url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
-   "veiculo": "Band Jornalismo",
-   "publicado": "2026-10-22T13:58:38+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+Bolsonaro+Lula+empatam+disputa+pela+Presid%C3%AAncia%2C+diz+PoderData",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "PoderData: Flávio Bolsonaro e Lula empatam na disputa pela presidência | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=hn_AsY68aeM"
-    },
-    {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Disputa acirrada: Lula e Flávio Bolsonaro aparecem em empate técnico na reta final",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWE92QTRlNjFQdnV0WEw5Q2F0LU54OHpzYTJCajVrcFVPbXdaTUVDX3dzcnVaZ3NCclZxdk1DeHZMQU9rd1N3bkhSbEdrZFRwem9ZY2FOUUlycmg4T01HOXl6ajdxcEt2SUc0Qlg4SExDb3JuV1NTM2gyVEF2UUhLbHhkbENTTDlBdE1kbWZ0ZkxRTmo3VW5tbDRySmRXbk9iN1o5WlJ3dlI2ZEkxaWNrWE4yLUFsRjJLZ1B3Ry03OWRJbGVHUFE?oc=5"
-    }
-   ],
-   "score": 33.3,
-   "video_url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 22632,
-   "video_acima_mediana": 43.3,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Flávio Bolsonaro e Lula empatam na disputa pela Presidência, diz PoderData",
-     "url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
-     "por_hora": 22632
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "PoderData: Flávio Bolsonaro e Lula empatam na disputa pela presidência | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=hn_AsY68aeM",
-     "por_hora": 2800
-    }
-   ]
-  },
-  {
-   "id": "e57660daa0",
-   "titulo": "Partido Missão, de Renan Santos, quer se consolidar como oposição a Flávio",
-   "url": "https://www.cnnbrasil.com.br/eleicoes/partido-missao-de-renan-santos-quer-se-consolidar-como-oposicao-a-flavio/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-22T16:49:37+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Partido+Miss%C3%A3o%2C+Renan+Santos%2C+quer+consolidar+como+oposi%C3%A7%C3%A3o+Fl%C3%A1vio",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Partido de Renan Santos quer se consolidar como oposição a Flávio Bolsonaro; entenda | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=UAIordf5gUI"
-    },
-    {
-     "veiculo": "MyNews",
-     "titulo": "\"MARÇAL QUER O GOVERNO?\": COMO O COACH USA O PALANQUE DE FLÁVIO E ATACA RENAN SANTOS",
-     "url": "https://www.youtube.com/watch?v=_Mx9xE4-cYk"
-    }
-   ],
-   "score": 33.1,
-   "video_url": "https://www.youtube.com/watch?v=UAIordf5gUI",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 6667,
-   "video_acima_mediana": 3.0,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Partido de Renan Santos quer se consolidar como oposição a Flávio Bolsonaro; entenda | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=UAIordf5gUI",
-     "por_hora": 6667
-    },
-    {
-     "canal": "MyNews",
-     "titulo": "\"MARÇAL QUER O GOVERNO?\": COMO O COACH USA O PALANQUE DE FLÁVIO E ATACA RENAN SANTOS",
-     "url": "https://www.youtube.com/watch?v=_Mx9xE4-cYk",
-     "por_hora": 162
-    }
-   ]
+   "score": 33.1
   },
   {
    "id": "66023749aa",
@@ -2368,60 +2328,166 @@
      "url": "https://www.youtube.com/watch?v=K0iH5pzy11s"
     }
    ],
-   "score": 31.7,
+   "score": 31.1,
    "video_url": "https://www.youtube.com/watch?v=OPCYHczWeM0",
    "video_canal": "SBT News",
-   "video_por_hora": 3174,
+   "video_por_hora": 2872,
    "video_acima_mediana": 3.3,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Desenrola 3.0: governo prevê até R$ 90 bilhões em dívidas para negociação | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=OPCYHczWeM0",
-     "por_hora": 3174
+     "por_hora": 2872
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Novo Desenrola pode atingir até R$ 90 bilhões em dívidas renegociadas; Alan Ghani analisa",
      "url": "https://www.youtube.com/watch?v=K0iH5pzy11s",
-     "por_hora": 417
+     "por_hora": 371
+    }
+   ]
+  },
+  {
+   "id": "3750a72612",
+   "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
+   "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
+   "veiculo": "UOL",
+   "publicado": "2026-10-22T17:07:29.337821+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Bloquinhos+Nikolas+ganham+escala+nacional+dominam+agenda+Fl%C3%A1vio+Bolsonaro",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Vero Notícias",
+     "titulo": "Bloquinhos de Nikolas Ferreira ganham força na campanha de Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGZqVTNGT0FoaWltS3IzN1hhMko3U0w2VV9OVm1XY01oRkdKcF9tM3l4RC0yN2ZfQzl3YnJ5WnpnSXczWm9BX2s0V19DaFVYSWc4NFhWZ1JxVEw5anpwdmlhclI2Wll1Z3JJWVpxSlRHanAzN3dYd3RyLWYyeXdBYVBrSkNRTF9Yd2JLY0dGSUJwTnpHQ1lJSHg5UHpPUDVBMUYzMFB3Zl9pQWRWaWZ3?oc=5"
+    },
+    {
+     "veiculo": "tmc.com.br",
+     "titulo": "Nikolas transforma ‘bloquinhos’ em aposta de Flávio Bolsonaro nas ruas",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2hYSXZ6M0ZJbUdVOEJfeDBzZTB2OTM1MXFCOF9BTDQ3TTVmdFRHbV95LVlvenVfM2hrRmV5WWZTY2RXaVc4MHZTRUNJYWxuTmtlMXpZa2JxaUNPakFYYTFMdW5NNmhwNDM0Y3FLUEtWeWVpV2VTcUQwUjZadG9pdDNLakJGM1Rld2RiNVlR?oc=5"
+    },
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFdZSm1acGN0WjI1VGYtQ1FXM1M2ejFxVC1uN3BDdDNveFZ5d1dRaTJSTjhyeUdaWVUwQVdFX0pBdXFEaGpCaTNFRWktc0pUTWI1WGZSbUxYQ2pxMnBITlRFTEczbTlrb0lkQUtYLXM1YXpYSG0xVEFXOFVUSmlXQ1NoemVEdXlGVVZQcGU0T3R0bnAwdURjaS1FLS1mVjVNejEycGE4eG02d3dVbmVsb2VrM1F6ZWdJZTJSbWFXZzV4OXZTcVg0Umg2dVh6U2pBOHNYaTk4RUNBc28?oc=5"
+    },
+    {
+     "veiculo": "Rádio Itatiaia",
+     "titulo": "Nikolas Ferreira comanda ‘Bloquinho do 22’ em apoio a Flávio Bolsonaro no Maranhão",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFB6N3htczJBMndkM1NRZHdtYWwwQmxieVp4SEFnVkhPU3BmZG56R216SUJJUXNCS2ZsQXdRS1FKX3JRVnVHN1B6ZmhZbGdySjB0WDNiM2N0blpOSE1KOEpEX0pOVElGWUxNdHBnMnpjdF81QnRsVnVvOHdOWkU2dzd0YlRCMjZMWm03Y0toQm15UDJFV2dWOHAwU0t4RGZZemFxM0hBeUtCaXB2U21yVjljRUNkd2U1aTVNaUM1Y2M1UWc5aHc?oc=5"
+    }
+   ],
+   "score": 30.7,
+   "video_url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
+   "video_canal": "UOL",
+   "video_por_hora": 1300,
+   "video_acima_mediana": 0.5,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
+     "url": "https://www.youtube.com/watch?v=GqzltRoYfpA",
+     "por_hora": 1300
+    }
+   ]
+  },
+  {
+   "id": "f09b722d18",
+   "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-22T17:25:20+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Casas+Bahia+tem+recupera%C3%A7%C3%A3o+judicial+aprovada+pela+justi%C3%A7a+BASTIDORES",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Justiça defere recuperação judicial do Grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUtnNzBISDM1U1lFTThpLTE3OC1Hc1JsY01ZdW1Wa0o4dFcxWl9UdzdjcVNJU1RYRTVmWFZTd3ZtaS10RlQ5a3p1bEZJYzMyeWNycHVNVExrZ0NscDJQOHQ0LTQ3dFcya2VKUWhiS0p1ZGdKTXFOSjlFbEJvNzNOaXUtaWZZZml2WG13TjVJYw?oc=5"
+    },
+    {
+     "veiculo": "Blog do Alberes Xavier",
+     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
+    },
+    {
+     "veiculo": "Blog do Alberes Xavier",
+     "titulo": "Justiça autoriza recuperação judicial do Grupo Casas Bahia",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9WcEg2SWZyaDYzaDJ1RVN1bUxuQkxTaXRYbG5SaUtVSnhSVzFuMTM4aU5tYTl0dWdQNUxDMXVsZTNBWjVsM3NocjJIR1NkMEFuZjFSeWM2NnJIMm5MTVZERDVwZUt3UWhBRFFobWYyMEtpMkQxdHZXRE9MbE9kTWZWOThEdHJ6UDZjbVMzN0NoTUJ3d0VWVEI2VExDNDlPMFlsZjV5Y0k?oc=5"
+    },
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Casas Bahia tem aval para recuperação de R$ 17,3 bi",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFRIckJaT1hqMGFrLWtUUGFEaTlqN2xXSk1pdFhkS0FwRk15LVhVN3padlNYLThCd3JRX1N3N1AtS3dNVm0zV204cXEtSFhEeEdIRU5yYlQzQXpwaE9BR3lETTlrX0hucm1sSEx5aXZfbDFpQUVRMzZ6MUZnLXFCQjBrUTVFd1l6d19yRlNUNE9QQkQtRmFN?oc=5"
+    }
+   ],
+   "score": 30.3,
+   "video_url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 145,
+   "video_acima_mediana": 0.1,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Casas Bahia tem recuperação judicial aprovada pela justiça de SP | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=4JTimVe6rwU",
+     "por_hora": 145
+    }
+   ]
+  },
+  {
+   "id": "cad4b09ca7",
+   "titulo": "Dani Lima: Campanha de Flávio cobra provas e diz que vai 'ignorar' matéria da Piauí sobre lobistas",
+   "url": "https://www.youtube.com/watch?v=pJlMwwDsy5g",
+   "veiculo": "UOL",
+   "publicado": "2026-10-22T17:07:29.337821+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Dani+Lima+Campanha+Fl%C3%A1vio+cobra+provas+diz+que+vai",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 28.4,
+   "video_url": "https://www.youtube.com/watch?v=pJlMwwDsy5g",
+   "video_canal": "UOL",
+   "video_por_hora": 13000,
+   "video_acima_mediana": 5.1,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Dani Lima: Campanha de Flávio cobra provas e diz que vai 'ignorar' matéria da Piauí sobre lobistas",
+     "url": "https://www.youtube.com/watch?v=pJlMwwDsy5g",
+     "por_hora": 13000
     }
    ]
   }
  ],
  "youtube": [
   {
-   "titulo": "Dani Lima ao vivo: Flávio com lobistas na pandemia; PT reage a vídeo de presos com blusa do Lula e+",
-   "url": "https://www.youtube.com/watch?v=WvbHZRcIxjQ",
-   "canal": "UOL",
-   "publicado": "2026-10-22T17:38:22+00:00",
-   "views": 260116,
-   "por_hora": 516762,
-   "acima_mediana": 110.7,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "PESQUISAS ELEITORAIS / SIGILOS DE FLÁVIO E LULA | JORNAL DA MANHÃ - 2ª EDIÇÃO - 22/10/2026",
-   "url": "https://www.youtube.com/watch?v=FSG5PMX3fF8",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-10-22T13:12:41+00:00",
-   "views": 255076,
-   "por_hora": 51725,
-   "acima_mediana": 60.9,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "CAMPANHAS DE LULA E FLÁVIO PROMETEM ENTREGAR SIGILOS BANCÁRIOS | MORNING SHOW - 22/10/26",
-   "url": "https://www.youtube.com/watch?v=-8vY_Docx78",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-10-22T15:07:56+00:00",
-   "views": 74049,
-   "por_hora": 24596,
-   "acima_mediana": 28.9,
+   "titulo": "DUELO DE SIGILOS MOBILIZA CAMPANHAS DE FLÁVIO E LULA - BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=kr-F7mAfabY",
+   "canal": "CNN Brasil",
+   "publicado": "2026-10-22T18:11:51+00:00",
+   "views": 191553,
+   "por_hora": 206567,
+   "acima_mediana": 116.4,
    "temas": [
     "politica"
    ]
@@ -2431,21 +2497,9 @@
    "url": "https://www.youtube.com/watch?v=OIUjIuzRbyg",
    "canal": "Lula",
    "publicado": "2026-10-21T22:12:31+00:00",
-   "views": 473912,
-   "por_hora": 23774,
-   "acima_mediana": 4.9,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
-   "url": "https://www.youtube.com/watch?v=oGPTihERhM4",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-10-22T13:03:26+00:00",
-   "views": 115992,
-   "por_hora": 22808,
-   "acima_mediana": 26.8,
+   "views": 474764,
+   "por_hora": 22698,
+   "acima_mediana": 4.8,
    "temas": [
     "politica"
    ]
@@ -2455,45 +2509,21 @@
    "url": "https://www.youtube.com/watch?v=4YXTjK_3xhE",
    "canal": "Band Jornalismo",
    "publicado": "2026-10-22T13:58:38+00:00",
-   "views": 94276,
-   "por_hora": 22632,
-   "acima_mediana": 43.3,
+   "views": 104851,
+   "por_hora": 20369,
+   "acima_mediana": 42.4,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Flávio Bolsonaro fez festa com lobistas e prostitutas na pandemia, diz piauí; Daniela Lima explica",
-   "url": "https://www.youtube.com/watch?v=9wsJu409uG8",
-   "canal": "UOL",
-   "publicado": "2026-10-22T17:08:34.085917+00:00",
-   "views": 21000,
-   "por_hora": 21000,
-   "acima_mediana": 4.5,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Lula aceita exigências de Flávio Bolsonaro para quebra de sigilos  | Bora Brasil",
-   "url": "https://www.youtube.com/watch?v=Ppd7Yi8JFqQ",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-10-22T13:08:34.085917+00:00",
-   "views": 95000,
-   "por_hora": 19000,
-   "acima_mediana": 36.4,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Lula diz que aceita quebrar sigilo de Marcola, e Flávio Bolsonaro amplia exigências",
-   "url": "https://www.youtube.com/watch?v=Ig0EngfIFDo",
-   "canal": "UOL",
-   "publicado": "2026-10-22T15:08:34.085917+00:00",
-   "views": 56000,
-   "por_hora": 18667,
-   "acima_mediana": 4.0,
+   "titulo": "Pesquisa Gerp: Flávio Bolsonaro tem 53% e Lula 47% dos votos válidos",
+   "url": "https://www.youtube.com/watch?v=oGPTihERhM4",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-10-22T13:07:29.337821+00:00",
+   "views": 122000,
+   "por_hora": 20333,
+   "acima_mediana": 43.6,
    "temas": [
     "politica"
    ]
@@ -2503,9 +2533,9 @@
    "url": "https://www.youtube.com/watch?v=9McLeRmlIZo",
    "canal": "SBT News",
    "publicado": "2026-10-22T14:19:02+00:00",
-   "views": 71003,
-   "por_hora": 18560,
-   "acima_mediana": 19.5,
+   "views": 83914,
+   "por_hora": 17454,
+   "acima_mediana": 20.3,
    "temas": [
     "politica"
    ]
@@ -2515,21 +2545,45 @@
    "url": "https://www.youtube.com/watch?v=oDADISm644g",
    "canal": "SBT News",
    "publicado": "2026-10-22T15:14:25+00:00",
-   "views": 51681,
-   "por_hora": 17806,
-   "acima_mediana": 18.7,
+   "views": 65626,
+   "por_hora": 16894,
+   "acima_mediana": 19.6,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "PM-SP é acusada de obrigar jovens presos a vestirem camiseta em apoio a Lula",
-   "url": "https://www.youtube.com/watch?v=6p0JjjetLpw",
+   "titulo": "Flávio Bolsonaro fez festa com lobistas e prostitutas na pandemia, diz piauí; Daniela Lima explica",
+   "url": "https://www.youtube.com/watch?v=9wsJu409uG8",
    "canal": "UOL",
-   "publicado": "2026-10-22T16:08:34.085917+00:00",
+   "publicado": "2026-10-22T17:07:29.337821+00:00",
    "views": 33000,
    "por_hora": 16500,
-   "acima_mediana": 3.5,
+   "acima_mediana": 6.5,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula aceita exigências de Flávio Bolsonaro para quebra de sigilos  | Bora Brasil",
+   "url": "https://www.youtube.com/watch?v=Ppd7Yi8JFqQ",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-10-22T13:07:29.337821+00:00",
+   "views": 98000,
+   "por_hora": 16333,
+   "acima_mediana": 34.0,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Deltan diz que vai analisar documentos apresentados por Lula",
+   "url": "https://www.youtube.com/watch?v=YuF8yw7zcd4",
+   "canal": "Poder360",
+   "publicado": "2026-10-22T15:32:15+00:00",
+   "views": 56380,
+   "por_hora": 15716,
+   "acima_mediana": 28.1,
    "temas": [
     "politica"
    ]
@@ -2539,9 +2593,9 @@
    "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc",
    "canal": "Lula",
    "publicado": "2026-10-22T15:45:07+00:00",
-   "views": 39159,
-   "por_hora": 16379,
-   "acima_mediana": 3.4,
+   "views": 49386,
+   "por_hora": 14642,
+   "acima_mediana": 3.1,
    "temas": [
     "politica"
    ]
@@ -2550,22 +2604,58 @@
    "titulo": "Flávio tem 51% dos votos válidos no 2º turno; Lula, 49%; aponta PoderData/AYA | LIVE CNN",
    "url": "https://www.youtube.com/watch?v=PPUCaJqf29I",
    "canal": "CNN Brasil",
-   "publicado": "2026-10-22T15:08:34.085917+00:00",
-   "views": 48000,
-   "por_hora": 16000,
-   "acima_mediana": 7.2,
+   "publicado": "2026-10-22T15:07:29.337821+00:00",
+   "views": 57000,
+   "por_hora": 14250,
+   "acima_mediana": 8.0,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Lula aceita condições de Flávio para abertura do sigilos bancário e telefônico | BORA BRASIL",
-   "url": "https://www.youtube.com/watch?v=0uSwQaBt3XU",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-10-22T14:06:31+00:00",
-   "views": 59640,
-   "por_hora": 14784,
-   "acima_mediana": 28.3,
+   "titulo": "Campanhas concordam em abrir sigilos, mas Flávio impõe nova condição: só após analisar dados de Lula",
+   "url": "https://www.youtube.com/watch?v=b_g9iW49EzU",
+   "canal": "UOL",
+   "publicado": "2026-10-22T18:07:29.337821+00:00",
+   "views": 13000,
+   "por_hora": 13000,
+   "acima_mediana": 5.1,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Dani Lima: Campanha de Flávio cobra provas e diz que vai 'ignorar' matéria da Piauí sobre lobistas",
+   "url": "https://www.youtube.com/watch?v=pJlMwwDsy5g",
+   "canal": "UOL",
+   "publicado": "2026-10-22T17:07:29.337821+00:00",
+   "views": 26000,
+   "por_hora": 13000,
+   "acima_mediana": 5.1,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Revelando: Meta remove teaser de episódio sobre Flávio Bolsonaro com MC Cabelinho",
+   "url": "https://www.youtube.com/watch?v=ZksPKmhJu_A",
+   "canal": "UOL",
+   "publicado": "2026-10-22T16:07:29.337821+00:00",
+   "views": 38000,
+   "por_hora": 12667,
+   "acima_mediana": 5.0,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula e Flávio Bolsonaro assinam petição para abrir sigilos bancários no TSE | TEMPO REAL",
+   "url": "https://www.youtube.com/watch?v=pgA-RslT-20",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-10-22T17:35:01+00:00",
+   "views": 18944,
+   "por_hora": 12292,
+   "acima_mediana": 26.3,
    "temas": [
     "politica"
    ]
