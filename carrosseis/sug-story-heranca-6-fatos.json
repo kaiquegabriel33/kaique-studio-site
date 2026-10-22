@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T19:10",
+  "atualizado": "2026-10-22T19:20",
   "legenda": "",
-  "comentario": "E no Brasil?\nDoação com usufruto: o bem passa pros filhos e você continua usando.\nHolding: os bens vão pra uma empresa da família.\n\nÉ isso que a gente olha na Fatos antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? Toca no link.",
+  "comentario": "Mais dois caminhos, com advogado do lado:\nDoação com usufruto: a casa vai pros filhos, mas você continua morando nela.\nHolding: os bens viram de uma empresa da família.\n\nRico não deixa herança pro governo. Ele planeja.\nRentabilidade é só metade da conta: a outra metade é quanto chega na sua família. Na Fatos, a gente olha as duas antes de investir lá fora.\nQuer simular? Toca no link.",
   "serie": "heranca",
   "ordem_serie": 6,
   "fontes": [
@@ -41,7 +41,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "E no Brasil?\n[[verde:Doação com usufruto]]: o bem passa pros filhos e você continua usando.\n[[verde:Holding]]: os bens vão pra uma empresa da família.",
+          "texto": "Mais dois caminhos, com advogado do lado:\n[[verde:Doação com usufruto]]: a casa vai pros filhos, mas você continua morando nela.\n[[verde:Holding]]: os bens viram de uma empresa da família.",
           "tam": 50
         }
       ],
@@ -65,7 +65,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "É isso que a gente olha na Fatos antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? [[verde:Toca no link.]]",
+          "texto": "Rico não deixa herança pro governo. Ele planeja.\n[[verde:Rentabilidade é só metade da conta]]: a outra metade é quanto chega na sua família. Na Fatos, a gente olha as duas antes de investir lá fora.\nQuer simular? [[verde:Toca no link.]]",
           "tam": 50
         }
       ],

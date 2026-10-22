@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T19:10",
+  "atualizado": "2026-10-22T19:20",
   "legenda": "",
-  "comentario": "Pra quem não mora nos EUA, só US$ 60 mil passam sem imposto na herança.\nAcima disso, a alíquota vai de 18% a 40%.\n\nContam na herança americana: ação americana, ETF americano e imóvel nos EUA.\nE Brasil e EUA não têm acordo pra herança.",
+  "comentario": "Investe nos EUA? Só os primeiros US$ 60 mil passam livres pra sua família.\nDaí pra cima, o governo americano morde de 18% a 40%.\n\nEntra nessa conta: ação americana, ETF americano e imóvel nos EUA.\nE não adianta ser brasileiro: Brasil e EUA não têm acordo pra herança.",
   "serie": "heranca",
   "ordem_serie": 2,
   "fontes": [
@@ -50,7 +50,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "Pra quem não mora nos EUA, só [[verde:US$ 60 mil]] passam sem imposto na herança.\nAcima disso, a alíquota vai de [[vermelho:18% a 40%]].",
+          "texto": "Investe nos EUA? Só os primeiros [[verde:US$ 60 mil]] passam livres pra sua família.\nDaí pra cima, o governo americano [[vermelho:morde de 18% a 40%]].",
           "tam": 50
         }
       ]
@@ -73,7 +73,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "Contam na herança americana: [[vermelho:ação americana, ETF americano e imóvel nos EUA]].\nE Brasil e EUA [[vermelho:não têm acordo]] pra herança.",
+          "texto": "Entra nessa conta: [[vermelho:ação americana, ETF americano e imóvel nos EUA]].\nE não adianta ser brasileiro: Brasil e EUA [[vermelho:não têm acordo]] pra herança.",
           "tam": 50
         }
       ]

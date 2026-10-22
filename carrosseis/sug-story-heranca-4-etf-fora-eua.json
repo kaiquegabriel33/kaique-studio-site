@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T19:10",
+  "atualizado": "2026-10-22T19:20",
   "legenda": "",
-  "comentario": "ETF registrado na Irlanda não é bem americano.\nPor isso fica fora da herança dos EUA.\n\nDividendo de ação americana: 30% fica nos EUA.\nNo ETF irlandês, o fundo paga 15%, pelo tratado Irlanda-EUA.",
+  "comentario": "O pulo do gato: mesmo cardápio, outro restaurante.\nO ETF irlandês compra as mesmas ações americanas, mas tem endereço na Irlanda. Pro governo americano, não é herança dele.\n\nE ainda tem bônus: de cada US$ 100 de dividendo, o governo americano fica com US$ 30.\nNo ETF irlandês, US$ 15.",
   "serie": "heranca",
   "ordem_serie": 4,
   "fontes": [
@@ -46,7 +46,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "ETF registrado na Irlanda não é bem americano.\nPor isso fica [[verde:fora da herança dos EUA]].",
+          "texto": "O pulo do gato: [[verde:mesmo cardápio, outro restaurante]].\nO ETF irlandês compra as mesmas ações americanas, mas tem endereço na Irlanda. Pro governo americano, [[verde:não é herança dele]].",
           "tam": 50
         }
       ]
@@ -69,7 +69,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "Dividendo de ação americana: [[vermelho:30%]] fica nos EUA.\nNo ETF irlandês, o fundo paga [[verde:15%]], pelo tratado Irlanda-EUA.",
+          "texto": "E ainda tem bônus: de cada US$ 100 de dividendo, o governo americano fica com [[vermelho:US$ 30]].\nNo ETF irlandês, [[verde:US$ 15]].",
           "tam": 50
         }
       ]

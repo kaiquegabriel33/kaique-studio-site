@@ -4,9 +4,9 @@
   "status": "pronto",
   "formato": "story",
   "criado": "2026-10-22T18:30:00-03:00",
-  "atualizado": "2026-10-22T19:10",
+  "atualizado": "2026-10-22T19:20",
   "legenda": "",
-  "comentario": "TOD (Transfer on Death): você deixa escrito quem recebe a conta.\nAí ela passa pra família sem inventário nos EUA.\n\nMas o TOD acelera, não isenta.\nOs 18% a 40% de imposto continuam valendo.",
+  "comentario": "Primeiro passo: o TOD. Funciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, sem fila de inventário lá fora.\n\nMas atenção: o TOD tira a fila, não tira a mordida.\nOs 18% a 40% continuam valendo.",
   "serie": "heranca",
   "ordem_serie": 3,
   "fontes": [
@@ -41,7 +41,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "[[verde:TOD]] (Transfer on Death): você deixa escrito quem recebe a conta.\nAí ela passa pra família [[verde:sem inventário]] nos EUA.",
+          "texto": "Primeiro passo: o [[verde:TOD]]. Funciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, [[verde:sem fila de inventário]] lá fora.",
           "tam": 50
         }
       ]
@@ -63,7 +63,7 @@
       "elementos": [
         {
           "tipo": "caixa_story",
-          "texto": "Mas o TOD acelera, [[vermelho:não isenta]].\nOs [[vermelho:18% a 40%]] de imposto continuam valendo.",
+          "texto": "Mas atenção: o TOD [[verde:tira a fila]], [[vermelho:não tira a mordida]].\nOs 18% a 40% continuam valendo.",
           "tam": 50
         }
       ]
