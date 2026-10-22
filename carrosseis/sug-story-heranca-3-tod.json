@@ -31,9 +31,8 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-3-tod/contrato-assinatura.jpg",
-        "escurecer": 0.45,
-        "desfoque": 10,
+        "src": "midia/sug-story-heranca-3-tod/fundo-escuro-brilho.jpg",
+        "escurecer": 0,
         "foco": {
           "x": 0.5,
           "y": 0.5
@@ -71,9 +70,8 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-3-tod/contrato-assinatura.jpg",
-        "escurecer": 0.45,
-        "desfoque": 10,
+        "src": "midia/sug-story-heranca-3-tod/fundo-escuro-brilho.jpg",
+        "escurecer": 0,
         "foco": {
           "x": 0.5,
           "y": 0.5

@@ -35,9 +35,8 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-5-brasil-itcmd/nota-20-reais.jpg",
-        "escurecer": 0.45,
-        "desfoque": 10,
+        "src": "midia/sug-story-heranca-5-brasil-itcmd/fundo-escuro-brilho.jpg",
+        "escurecer": 0,
         "foco": {
           "x": 0.5,
           "y": 0.5
@@ -75,9 +74,8 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-5-brasil-itcmd/nota-20-reais.jpg",
-        "escurecer": 0.45,
-        "desfoque": 10,
+        "src": "midia/sug-story-heranca-5-brasil-itcmd/fundo-escuro-brilho.jpg",
+        "escurecer": 0,
         "foco": {
           "x": 0.5,
           "y": 0.5
