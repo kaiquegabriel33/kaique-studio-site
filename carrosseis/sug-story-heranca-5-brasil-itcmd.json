@@ -35,7 +35,7 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-5-brasil-itcmd/fundo-escuro-brilho.jpg",
+        "src": "midia/sug-story-heranca-5-brasil-itcmd/fundo-grafite.jpg",
         "escurecer": 0,
         "foco": {
           "x": 0.5,
@@ -43,14 +43,6 @@
         }
       },
       "elementos": [
-        {
-          "tipo": "texto",
-          "texto": "HERANÇA · 5/6",
-          "tam": 34,
-          "peso": 800,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
         {
           "tipo": "texto",
           "texto": "até 8%",
@@ -74,7 +66,7 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-5-brasil-itcmd/fundo-escuro-brilho.jpg",
+        "src": "midia/sug-story-heranca-5-brasil-itcmd/fundo-grafite.jpg",
         "escurecer": 0,
         "foco": {
           "x": 0.5,
@@ -82,14 +74,6 @@
         }
       },
       "elementos": [
-        {
-          "tipo": "texto",
-          "texto": "HERANÇA · 5/6",
-          "tam": 34,
-          "peso": 800,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
         {
           "tipo": "texto",
           "texto": "VGBL e PGBL",

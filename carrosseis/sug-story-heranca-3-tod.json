@@ -31,7 +31,7 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-3-tod/fundo-escuro-brilho.jpg",
+        "src": "midia/sug-story-heranca-3-tod/fundo-grafite.jpg",
         "escurecer": 0,
         "foco": {
           "x": 0.5,
@@ -39,14 +39,6 @@
         }
       },
       "elementos": [
-        {
-          "tipo": "texto",
-          "texto": "HERANÇA · 3/6",
-          "tam": 34,
-          "peso": 800,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
         {
           "tipo": "texto",
           "texto": "TOD",
@@ -70,7 +62,7 @@
       "tema": "escuro",
       "papel": "post",
       "fundo": {
-        "src": "midia/sug-story-heranca-3-tod/fundo-escuro-brilho.jpg",
+        "src": "midia/sug-story-heranca-3-tod/fundo-grafite.jpg",
         "escurecer": 0,
         "foco": {
           "x": 0.5,
@@ -78,14 +70,6 @@
         }
       },
       "elementos": [
-        {
-          "tipo": "texto",
-          "texto": "HERANÇA · 3/6",
-          "tam": 34,
-          "peso": 800,
-          "alinhar": "centro",
-          "cor": "#FFD700"
-        },
         {
           "tipo": "texto",
           "texto": "o imposto fica",
