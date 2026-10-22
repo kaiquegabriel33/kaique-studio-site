@@ -1,0 +1,108 @@
+{
+  "id": "sug-story-heranca-3-tod",
+  "titulo": "Story herança 3/6: TOD tira o inventário, não o imposto",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T18:30",
+  "legenda": "",
+  "comentario": "Transfer on Death: você deixa escrito quem recebe a conta.\nAí ela passa pra família sem inventário nos EUA.\n\nTOD acelera, mas não isenta.\nOs 18% a 40% continuam valendo.",
+  "serie": "heranca",
+  "ordem_serie": 3,
+  "fontes": [
+    {
+      "titulo": "FINRA — Plan ahead: transfer your brokerage account assets at death (17/01/2023): TOD evita o inventário (probate), mas o imposto sobre herança pode incidir",
+      "url": "https://www.finra.org/investors/insights/plan-ahead-transfer-your-brokerage-account-assets-death"
+    },
+    {
+      "titulo": "IRS — FAQ on estate taxes for nonresidents not citizens (imóvel e valores mobiliários dos EUA contam; depósito bancário e títulos com 'portfolio interest' não)",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes-for-nonresidents-not-citizens-of-the-united-states"
+    },
+    {
+      "titulo": "IRS — Instructions for Form 706, Table A (alíquotas de 18% a 40%; 40% acima de US$ 1 milhão)",
+      "url": "https://www.irs.gov/instructions/i706"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-3-tod/contrato-assinatura.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 3/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "TOD",
+          "tam": 150,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Transfer on Death: você deixa escrito quem recebe a conta.\nAí ela passa pra família sem inventário nos EUA.",
+          "tam": 46
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-3-tod/contrato-assinatura.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 3/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "o imposto fica",
+          "tam": 110,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "TOD acelera, mas não isenta.\nOs 18% a 40% continuam valendo.",
+          "tam": 46
+        }
+      ]
+    }
+  ]
+}

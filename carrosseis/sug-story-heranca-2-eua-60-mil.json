@@ -1,0 +1,116 @@
+{
+  "id": "sug-story-heranca-2-eua-60-mil",
+  "titulo": "Story herança 2/6: só US$ 60 mil passam sem imposto nos EUA",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T18:30",
+  "legenda": "",
+  "comentario": "Pra quem não mora nos EUA, só isso passa sem imposto na herança.\nAcima disso, a alíquota vai de 18% a 40%.\n\nConta: ação americana, ETF americano e imóvel nos EUA.\nE Brasil e EUA não têm acordo pra herança.",
+  "serie": "heranca",
+  "ordem_serie": 2,
+  "fontes": [
+    {
+      "titulo": "IRS — Some nonresidents with U.S. assets must file estate tax returns (limite de US$ 60 mil; ações de empresas americanas contam)",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/some-nonresidents-with-us-assets-must-file-estate-tax-returns"
+    },
+    {
+      "titulo": "IRS — FAQ on estate taxes for nonresidents not citizens (imóvel e valores mobiliários dos EUA contam; depósito bancário e títulos com 'portfolio interest' não)",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes-for-nonresidents-not-citizens-of-the-united-states"
+    },
+    {
+      "titulo": "IRS — Instructions for Form 706, Table A (alíquotas de 18% a 40%; 40% acima de US$ 1 milhão)",
+      "url": "https://www.irs.gov/instructions/i706"
+    },
+    {
+      "titulo": "IRS — Instructions for Form 706-NA, rev. 09/2025 (crédito de US$ 13 mil; ação de empresa não americana fica fora dos EUA)",
+      "url": "https://www.irs.gov/instructions/i706na"
+    },
+    {
+      "titulo": "IRS — Estate & gift tax treaties (15 países; o Brasil não está)",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-gift-tax-treaties-international"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-2-eua-60-mil/bandeira-eua.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.45,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 2/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "US$ 60 mil",
+          "tam": 128,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Pra quem não mora nos EUA, só isso passa sem imposto na herança.\nAcima disso, a alíquota vai de 18% a 40%.",
+          "tam": 46
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-2-eua-60-mil/bandeira-eua.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.45,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 2/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "o que conta",
+          "tam": 120,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Conta: ação americana, ETF americano e imóvel nos EUA.\nE Brasil e EUA não têm acordo pra herança.",
+          "tam": 46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "sug-story-heranca-4-etf-fora-eua",
+  "titulo": "Story herança 4/6: ETF da Irlanda fica fora da herança americana; dividendo 30% x 15%",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T18:30",
+  "legenda": "",
+  "comentario": "ETF registrado na Irlanda não é bem americano.\nPor isso fica fora da herança dos EUA.\n\nDividendo de ação americana: 30% fica nos EUA.\nNo ETF irlandês, o fundo paga 15%, pelo tratado Irlanda-EUA.",
+  "serie": "heranca",
+  "ordem_serie": 4,
+  "fontes": [
+    {
+      "titulo": "IRS — Instructions for Form 706-NA, rev. 09/2025 (crédito de US$ 13 mil; ação de empresa não americana fica fora dos EUA)",
+      "url": "https://www.irs.gov/instructions/i706na"
+    },
+    {
+      "titulo": "IRS — Withholding on U.S. source income paid to nonresident aliens (dividendos: 30% ou a alíquota menor do tratado)",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/federal-income-tax-withholding-and-reporting-on-other-kinds-of-us-source-income-paid-to-nonresident-aliens"
+    },
+    {
+      "titulo": "IRS — United States income tax treaties A to Z (Irlanda tem tratado; Brasil não)",
+      "url": "https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z"
+    },
+    {
+      "titulo": "Tratado EUA–Irlanda, art. 10 (dividendos de carteira: até 15%) — Senate Treaty Doc. 105-31",
+      "url": "https://www.govinfo.gov/content/pkg/CDOC-105tdoc31/html/CDOC-105tdoc31.htm"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-4-etf-fora-eua/globo.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 4/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "fora dos EUA",
+          "tam": 120,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "ETF registrado na Irlanda não é bem americano.\nPor isso fica fora da herança dos EUA.",
+          "tam": 46
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-4-etf-fora-eua/globo.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 4/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "30% x 15%",
+          "tam": 140,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Dividendo de ação americana: 30% fica nos EUA.\nNo ETF irlandês, o fundo paga 15%, pelo tratado Irlanda-EUA.",
+          "tam": 46
+        }
+      ]
+    }
+  ]
+}

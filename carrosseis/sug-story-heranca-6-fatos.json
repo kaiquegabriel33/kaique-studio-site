@@ -1,0 +1,118 @@
+{
+  "id": "sug-story-heranca-6-fatos",
+  "titulo": "Story herança 6/6: o que a gente olha antes de investir lá fora",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T18:30",
+  "legenda": "",
+  "comentario": "Doação com usufruto: o bem passa pros filhos e você continua usando.\nHolding: os bens vão pra uma empresa da família.\n\nÉ isso que a gente olha antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? Toca no link.",
+  "serie": "heranca",
+  "ordem_serie": 6,
+  "fontes": [
+    {
+      "titulo": "Lei Complementar 227, de 13/01/2026 (ITCMD: alíquotas progressivas e teto do Senado, art. 156; bens no exterior, art. 159; não incide sobre previdência privada e seguro, art. 150, III)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"
+    },
+    {
+      "titulo": "IRS — Some nonresidents with U.S. assets must file estate tax returns (limite de US$ 60 mil; ações de empresas americanas contam)",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/some-nonresidents-with-us-assets-must-file-estate-tax-returns"
+    },
+    {
+      "titulo": "FINRA — Plan ahead: transfer your brokerage account assets at death (17/01/2023): TOD evita o inventário (probate), mas o imposto sobre herança pode incidir",
+      "url": "https://www.finra.org/investors/insights/plan-ahead-transfer-your-brokerage-account-assets-death"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": false,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-6-fatos/palestra.jpg",
+        "escurecer": 0.35,
+        "foco": {
+          "x": 0.6,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 6/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "e no Brasil?",
+          "tam": 120,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Doação com usufruto: o bem passa pros filhos e você continua usando.\nHolding: os bens vão pra uma empresa da família.",
+          "tam": 46
+        }
+      ],
+      "topo": 20,
+      "espaco": 28
+    },
+    {
+      "altura": 1920,
+      "centralizar": false,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-6-fatos/palestra.jpg",
+        "escurecer": 0.35,
+        "foco": {
+          "x": 0.6,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 6/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "na Fatos",
+          "tam": 120,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "É isso que a gente olha antes de investir lá fora: imposto, herança e quem recebe.\nQuer simular o seu patrimônio? Toca no link.",
+          "tam": 46
+        },
+        {
+          "tipo": "texto",
+          "texto": "Kaique Gabriel · assessor de investimentos · Fatos Capital",
+          "tam": 30,
+          "peso": 600,
+          "alinhar": "centro",
+          "cor": "#ffffff"
+        }
+      ],
+      "topo": 20,
+      "espaco": 28
+    }
+  ]
+}

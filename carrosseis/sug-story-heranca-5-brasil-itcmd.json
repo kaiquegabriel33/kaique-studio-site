@@ -1,0 +1,112 @@
+{
+  "id": "sug-story-heranca-5-brasil-itcmd",
+  "titulo": "Story herança 5/6: ITCMD até 8% e previdência fora do inventário",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T18:30",
+  "legenda": "",
+  "comentario": "Aqui a herança paga ITCMD, até sobre o que está lá fora.\nE com a reforma, quem herda mais paga alíquota maior.\n\nPrevidência privada vai direto pro beneficiário, fora do inventário.\nE o STF decidiu em 2024: não paga ITCMD.",
+  "serie": "heranca",
+  "ordem_serie": 5,
+  "fontes": [
+    {
+      "titulo": "Resolução do Senado nº 9/1992 (alíquota máxima do ITCMD: 8%)",
+      "url": "https://www2.camara.leg.br/legin/fed/ressen/1992/resolucao-9-5-maio-1992-451294-publicacaooriginal-1-pl.html"
+    },
+    {
+      "titulo": "Emenda Constitucional 132/2023 (ITCMD 'será progressivo em razão do valor do quinhão')",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"
+    },
+    {
+      "titulo": "Lei Complementar 227, de 13/01/2026 (ITCMD: alíquotas progressivas e teto do Senado, art. 156; bens no exterior, art. 159; não incide sobre previdência privada e seguro, art. 150, III)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"
+    },
+    {
+      "titulo": "STF — Tema 1.214 (RE 1.363.013), julgado em 13/12/2024, unânime: ITCMD não incide sobre VGBL e PGBL repassados ao beneficiário",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-proibe-cobranca-de-imposto-da-heranca-sobre-planos-de-previdencia-privada-aberta/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-5-brasil-itcmd/nota-20-reais.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 5/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "até 8%",
+          "tam": 150,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Aqui a herança paga ITCMD, até sobre o que está lá fora.\nE com a reforma, quem herda mais paga alíquota maior.",
+          "tam": 46
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-5-brasil-itcmd/nota-20-reais.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "HERANÇA · 5/6",
+          "tam": 34,
+          "peso": 800,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "texto",
+          "texto": "VGBL e PGBL",
+          "tam": 120,
+          "peso": 800,
+          "lh": 1.05,
+          "alinhar": "centro",
+          "cor": "#FFD700"
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Previdência privada vai direto pro beneficiário, fora do inventário.\nE o STF decidiu em 2024: não paga ITCMD.",
+          "tam": 46
+        }
+      ]
+    }
+  ]
+}
