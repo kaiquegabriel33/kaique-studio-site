@@ -1,0 +1,50 @@
+{
+  "id": "sug-story-gringos-500-bi",
+  "titulo": "Story: gringo já pôs R$ 47 bi na Bolsa em 2026; BTG vê até R$ 500 bi",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-21T22:55",
+  "atualizado": "2026-10-21T22:55",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-gringos-500-bi/gringos-podem-colocar-ate-r-500-bilhoes-na-bolsa.jpg",
+        "foco": {
+          "x": 0.6,
+          "y": 0.4
+        },
+        "desfoque": 18,
+        "escurecer": 0.45
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Gringo já pôs R$ 47 bi na nossa Bolsa em 2026, quase o dobro de 2025. O BTG vê espaço pra até R$ 500 bi. Só lembra: esse dinheiro entra rápido e sai rápido."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-gringos-500-bi/print-investidor10-com-br-gringos-podem-colocar-ate-r-500.png",
+          "h": 533,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "centralizar": true
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Investidor10 — Gringos podem colocar até R$ 500 bilhões na bolsa, aponta BTG Pactual (21/10/2026)",
+      "url": "https://investidor10.com.br/noticias/gringos-podem-colocar-ate-r-500-bilhoes-na-bolsa-aponta-btg-pactual-123407/"
+    },
+    {
+      "titulo": "Money Times — Bolsa brasileira pode receber até R$ 500 bilhões de gringos (21/10/2026)",
+      "url": "https://www.moneytimes.com.br/ibovespa-pode-receber-ate-r-500-bilhoes-de-gringos-veja-onde-eles-investem-lils/"
+    }
+  ]
+}

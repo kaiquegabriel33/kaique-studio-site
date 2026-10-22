@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-stf-iss-35bi",
+  "titulo": "Story: STF tira o ISS da conta do PIS/Cofins; União perde até R$ 35,4 bi",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T11:30",
+  "atualizado": "2026-10-22T11:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-stf-iss-35bi/por-6-a-5-stf-exclui-iss-da-base-do-pis-cofins-e.jpg",
+        "foco": {
+          "x": 0.55,
+          "y": 0.45
+        },
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Por 6 a 5, o STF tirou o imposto da prefeitura da conta do imposto federal de quem vende serviço. Bom pra empresa. Pro governo, buraco de até R$ 35,4 bi."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-stf-iss-35bi/print-estadao-por-6-a-5-stf-exclui-iss-da-base.png",
+          "h": 184,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "centralizar": true
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Estadão — Por 6 a 5, STF exclui ISS da base do PIS/Cofins, em derrota de R$ 35,4 bi para a União (21/10/2026)",
+      "url": "https://www.estadao.com.br/economia/por-6-a-5-stf-exclui-iss-da-base-do-piscofins-em-derrota-de-r-354-bi-para-a-uniao/"
+    }
+  ]
+}
