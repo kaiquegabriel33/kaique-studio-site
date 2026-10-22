@@ -1,0 +1,77 @@
+{
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-21T20:40",
+  "atualizado": "2026-10-21T21:10",
+  "id": "sug-video-lula-tarifa-zero-emendas",
+  "titulo": "Lula: “Melhor pegar uma parte da emenda” para ônibus de graça (vídeo)",
+  "video_url": "https://www.youtube.com/watch?v=Bz10oCzkLUQ&t=13s",
+  "trecho_txt": "0:13 a 0:58",
+  "trecho": {
+    "inicio": "Tarifa zero para ônibus",
+    "fim": "da forma que ele bem entende",
+    "texto": "Tarifa zero para ônibus e metrôs aos finais de semana. É o que prevê a proposta de emenda à Constituição enviada ao Congresso há quatro dias da eleição. O governo quer reservar quase 27% das emendas parlamentares, cerca de 12 bilhões de reais, para financiar o transporte coletivo de graça. É justo que a gente faça com que o transporte seja gratuito no final de semana e feriado. Melhor pegar uma parte da emenda e fazer com que o povo tenha um pouco de respeito e dignidade do que ficar gastando dinheiro da forma que ele bem entende.",
+    "gancho": "Melhor pegar uma parte da emenda e fazer com que o povo tenha um pouco de respeito e dignidade",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Tarifa zero para ônibus",
+        "texto": "21/10: PEC prevê R$ 12 bi das emendas em 2027"
+      },
+      {
+        "cor": "verde",
+        "desde": "É justo que a gente",
+        "texto": "PEC precisa de 3/5 na Câmara e no Senado"
+      }
+    ],
+    "cta": true,
+    "crop": [
+      1140,
+      855,
+      440,
+      0
+    ],
+    "foco_falante": false
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula: ==“Melhor pegar uma parte da emenda”== para dar ônibus de graça"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Presta atenção: o governo mandou ao Congresso uma PEC de ônibus e metrô de graça no fim de semana e feriado, tá?\n\nE o dinheiro sai das emendas dos deputados e senadores: cerca de R$ 12 bilhões em 2027, segundo o ministro do Planejamento. “Melhor pegar uma parte da emenda”, disse o Lula.\n\nSó que a proposta chegou a quatro dias do 2º turno e, por ser PEC, precisa de 3/5 dos votos na Câmara e no Senado, em dois turnos. Não vale amanhã, cara.\n\nNo mesmo dia, a campanha do Lula aceitou as condições do Flávio Bolsonaro para abrir o sigilo, incluindo os dados do Marcola, ex-chefe de gabinete.\n\nÔnibus de graça no fim de semana pago com emenda: fez sentido pra você? Comenta aí.\n\nVídeo: Jornal da Band (YouTube). Fontes: InfoMoney, CNN Brasil e Agência Brasil (21/10/2026).\n\n#Lula #tarifazero #transporte #emendas #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Jornal da Band — Lula sanciona perdão aos MEIs e envia PEC do transporte gratuito (21/10/2026)",
+      "url": "https://www.youtube.com/watch?v=Bz10oCzkLUQ"
+    },
+    {
+      "titulo": "InfoMoney — PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte",
+      "url": "https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/"
+    },
+    {
+      "titulo": "CNN Brasil — Governo propõe destinar R$ 12 bilhões de emendas para custear tarifa zero",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-propoe-destinar-r-12-bilhoes-de-emendas-para-custear-tarifa-zero/"
+    },
+    {
+      "titulo": "Agência Brasil — Governo envia proposta que zera tarifa do transporte ao Congresso",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/governo-envia-proposta-que-zera-tarifa-do-transporte-ao-congresso"
+    }
+  ]
+}
