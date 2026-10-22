@@ -1,0 +1,66 @@
+{
+  "id": "sug-video-campanha-lula-tse-quem-e-ladrao",
+  "titulo": "Campanha de Lula no TSE: “quem é ladrão e quem não é ladrão nesse país” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-22T15:20",
+  "atualizado": "2026-10-22T15:20",
+  "trecho": {
+    "inicio": "O protocolar, ofício e requerimento",
+    "fim": "por isso que ele demorou tanto lá em cima",
+    "texto": "O protocolar, ofício e requerimento do presidente Lula dizendo que aceitava todas as condições do candidato Flávio Bolsonaro e trouxemos conjuntamente a isso, o que não adianta também depois da eleição, é preciso que o sigilo e todas as alterações sejam feitas hoje para que o povo brasileiro saiba quem é ladrão e quem não é ladrão nesse país. E nós já trouxemos conosco hoje, juntamente com o requerimento que nós fizemos dentro do processo, um candidato Flávio Bolsonaro autorizando todas as questões de ambas as petições. Então já trouxemos aqui assinado pelo presidente, demoramos porque eles estavam colocando uma série de dificuldades, por isso que ele demorou tanto lá em cima.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "O protocolar, ofício e requerimento",
+        "texto": "22/10: campanha de Lula pede ao TSE para abrir sigilos"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "demoramos porque eles estavam",
+        "texto": "Campanha de Flávio: só abre após analisar o de Lula"
+      }
+    ],
+    "crop": [1000, 1080, 160, 0],
+    "enquadrar": false,
+    "foco_falante": false,
+    "cta": true
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Campanha de Lula no TSE: ==“quem é ladrão e quem não é ladrão nesse país”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "“Para que o povo brasileiro saiba quem é ladrão e quem não é ladrão nesse país.” Foi o que a campanha do Lula disse no TSE.\n\nNa quinta (22/10), pouco depois das 11h, a campanha do Lula protocolou no TSE a autorização para abrir os sigilos bancário e telefônico dele e da família, dizendo aceitar todas as condições que o Flávio impôs. A campanha do Flávio respondeu que só abre o sigilo do senador depois de analisar os documentos entregues pelo Lula. A eleição é no domingo, 25/10. Quem você acha que mostra primeiro?\n\nVídeo: canal do Lula no YouTube (22/10/2026). Fontes: SBT News e GC+ (22/10/2026).\n\n#Lula #FlavioBolsonaro #TSE #sigilobancario #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Lula (YouTube) — Campanha de Lula vai ao TSE e autoriza abertura de sigilos (22/10/2026)",
+      "url": "https://www.youtube.com/watch?v=I9MzmRKFyFc"
+    },
+    {
+      "titulo": "SBT News (YouTube) — Campanha de Flávio Bolsonaro só abrirá sigilo após analisar o de Lula (22/10/2026)",
+      "url": "https://www.youtube.com/watch?v=oDADISm644g"
+    },
+    {
+      "titulo": "GC+ — Lula protocola no TSE autorização para abertura de sigilos e cobra que Flávio cumpra desafio (22/10/2026)",
+      "url": "https://gcmais.com.br/noticias/2026/10/22/lula-protocola-no-tse-autorizacao-para-abertura-de-sigilos-e-cobra-que-flavio-cumpra-desafio"
+    }
+  ]
+}
