@@ -919,7 +919,8 @@
       cy = Math.max(cy, e.y + e._h + gap);
       out.push(e);
     });
-    let fundo = out.reduce((a, e) => Math.max(a, e.y + e._h), 0);
+    // `sangria: true` (22/10): imagem de ponta a ponta (a arte inteira é a imagem dele) não conta como texto passando da área útil
+    let fundo = out.reduce((a, e) => (e.sangria ? a : Math.max(a, e.y + e._h)), 0);
     // Centralizar: só em tela em pé (story/Reels, uma tela só). O bloco inteiro (cabeçalho + texto) desce
     // junto. No feed não: o nome tem de ficar no mesmo lugar em todas as páginas do carrossel.
     const limite = limiteDe(slide);
