@@ -1,0 +1,64 @@
+{
+  "id": "sug-video-janones-desculpas-lula",
+  "titulo": "Janones pede desculpas a Lula por disputar o 2º turno com “um cara desqualificado” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T11:20",
+  "atualizado": "2026-10-23T11:20",
+  "trecho": {
+    "inicio": "eu quero dizer uma coisa para o senhor",
+    "fim": "merecia ter ganhado no primeiro turno",
+    "texto": "Eu quero dizer uma coisa para o senhor, eu quero dizer, olhando nos olhos do senhor, apresentar um pedido de desculpas para o senhor, desculpas em nome do nosso exército, em nome do povo brasileiro, de a gente submeter um homem com o tamanho do senhor, com a história do senhor, um dos maiores líderes da política mundial, a ter que se submeter a disputar um segundo turno, voto a voto, com um cara desqualificado, como é o nosso adversário. O senhor mesmo vencendo domingo, o senhor vai ganhar com a vantagem maior do que eles imaginam. O senhor não merecia isso, o senhor não merecia ter que disputar um segundo turno com um homem desqualificado como ele, o senhor merecia ter ganhado no primeiro turno.",
+    "gancho": "apresentar um pedido de desculpas para o senhor",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "com um cara desqualificado",
+        "texto": "1º turno (04/10): Flávio 47,03% x Lula 45,16% (TSE)",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "merecia ter ganhado no primeiro turno",
+        "texto": "Datafolha (22/10): 50% a 50% nos votos válidos",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Janones pede desculpas a Lula por disputar o 2º turno com ==“um cara desqualificado”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Apresentar um pedido de desculpas pro senhor.” O Janones pediu desculpas ao Lula, olhando nos olhos dele, ao vivo.\n\nFoi no fim da live dos dois no canal do Lula, na quinta (22/10), que passou de 6,7 milhões de visualizações. O motivo das desculpas: o Lula ter que disputar o segundo turno “com um cara desqualificado”, o Flávio. Para o Janones, o Lula “merecia ter ganhado no primeiro turno”.\n\nOs números: no 1º turno (04/10), o Flávio teve 47,03% dos votos válidos e o Lula, 45,16% (TSE). O Datafolha de 22/10 mostra empate em 50% a 50%.\n\nBajulação ou estratégia de campanha? Comenta aí.\n\nVídeo: live no canal do Lula no YouTube (22/10/2026). Resultado: TSE.\n\n#Janones #Lula #FlavioBolsonaro #segundoturno #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Lula (YouTube) — Lula e Janones falam com o maior exército democrático do mundo (live, 22/10/2026)",
+      "url": "https://www.youtube.com/watch?v=lDg8wNNbq3o&t=4934s"
+    },
+    {
+      "titulo": "Resultado do 1º turno, 100% das seções (TSE, via Portal de Prefeitura)",
+      "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/eleicoes-2026-com-100-das-secoes-totalizadas-flavio-tem-4703-e/633498/"
+    },
+    {
+      "titulo": "Jovem Pan News — Datafolha: Flávio Bolsonaro e Lula empatam em 50% no segundo turno nos votos válidos (22/10/2026)",
+      "url": "https://www.youtube.com/watch?v=YVnKGDHZ8BQ"
+    }
+  ]
+}
