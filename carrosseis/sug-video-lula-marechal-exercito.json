@@ -1,0 +1,61 @@
+{
+  "id": "sug-video-lula-marechal-exercito",
+  "titulo": "Lula na live com Janones: “eu sou o Marechal” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T09:55",
+  "atualizado": "2026-10-23T09:55",
+  "trecho": {
+    "inicio": "É a primeira apresentação",
+    "fim": "a causa chama-se Brasil",
+    "texto": "É a primeira apresentação do nosso Marechal Silva com os soldados do nosso exército. Fala com a tropa, presidente. O general, você está me chamando de presidente, eu sou o Marechal. Marechal, desculpa, Marechal Silva. Olha, primeiro, é uma alegria imensa, acho que é a primeira vez que eu estou participando de uma live dessa, eu me sinto como se fosse um peixe fora d'água. Entretanto, como é meu exército, eu tenho que conversar com meu exército porque nós temos uma grande batalha para fazer. Uma batalha que vai envolver milhões de pessoas e que o meu exército está afiado. O meu exército é um exército que tem homem, tem mulher e tem jovem. E a causa chama-se Brasil.",
+    "gancho": "eu sou o Marechal",
+    "crop": [1920, 700, 0, 0],
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "primeira apresentação",
+        "texto": "Live de Lula com Janones em 22/10 passou de 1 milhão ao vivo",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "grande batalha",
+        "texto": "2º turno: domingo, 25/10. Datafolha de 22/10 deu empate",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula corrige Janones na live: ==“eu sou o Marechal”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Você está me chamando de presidente, eu sou o Marechal.” Lula entrou no clima do “Exército do Lula”.\n\nFoi na live com o André Janones (22/10), a 3 dias do 2º turno. Lula disse que é a primeira vez numa live desse tipo, que se sente “um peixe fora d’água” e que o exército dele “está afiado”. A transmissão passou de 1 milhão de pessoas ao vivo.\n\nDo outro lado, o Flávio aposta em atos de rua e lives com famosos.\n\nLive com influenciador ainda vira voto ou só bate recorde? Comenta aí.\n\nVídeo: Terra (live de Lula e Janones, 22/10/2026). Fontes: Terra, SBT News.\n\n#Lula #Janones #eleicoes2026 #segundoturno #FlavioBolsonaro",
+  "fontes": [
+    {
+      "titulo": "Terra — Lula pede para ser chamado de “marechal” durante live com seu “exército” ao lado de Janones (vídeo, 22/10/2026)",
+      "url": "https://www.youtube.com/watch?v=DPEbdOIiSXc"
+    },
+    {
+      "titulo": "SBT News — Live de Lula com Janones supera 1 milhão de espectadores (23/10/2026)",
+      "url": "https://www.youtube.com/watch?v=jNedK8ovG8U"
+    }
+  ]
+}
