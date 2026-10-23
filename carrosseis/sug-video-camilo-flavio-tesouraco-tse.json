@@ -23,7 +23,12 @@
     ],
     "cta": true,
     "girar": "nao",
-    "crop": [648, 880, 636, 0]
+    "crop": [
+      648,
+      880,
+      636,
+      0
+    ]
   },
   "slides": [
     {
@@ -57,5 +62,6 @@
       "titulo": "CNN Brasil — Campanhas de Flávio e Lula vão ao TSE para tratar de quebras de sigilo (22/10/2026)",
       "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-apresentarao-aval-para-quebras-de-sigilo-ao-tse/"
     }
-  ]
+  ],
+  "postado_em": "2026-10-22T19:00:00-03:00"
 }

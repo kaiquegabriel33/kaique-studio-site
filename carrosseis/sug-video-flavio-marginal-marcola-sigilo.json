@@ -26,7 +26,12 @@
     ],
     "cta": true,
     "girar": "nao",
-    "crop": [1080, 1290, 0, 0],
+    "crop": [
+      1080,
+      1290,
+      0,
+      0
+    ],
     "preencher": false,
     "foco_falante": false
   },
@@ -66,5 +71,6 @@
       "titulo": "Band — Flávio aceita desafio de Lula para abrir sigilos, mas impõe condições (21/10/2026)",
       "url": "https://www.band.com.br/politica/eleicoes/flavio-aceita-desafio-de-lula-para-abrir-sigilos-mas-impoe-condicoes"
     }
-  ]
+  ],
+  "postado_em": "2026-10-21T20:00:00-03:00"
 }
