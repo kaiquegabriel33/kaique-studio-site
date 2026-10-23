@@ -1,0 +1,68 @@
+{
+  "id": "sug-video-haddad-flavio-enem-do-crime",
+  "titulo": "Haddad diz que Flávio “gabaritou no Enem do crime” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T10:55",
+  "atualizado": "2026-10-23T10:57",
+  "trecho": {
+    "inicio": "ele gabaritou no Enem do crime",
+    "fim": "ele quer o habeas corpus",
+    "texto": "Ele gabaritou no Enem do crime. Ele não errou uma questão. É bet, é lavagem de dinheiro, é rachadinha, é Vorcaro, é Willer Tomaz, Tomaz, é tudo, ele está envolvido. Então eu acho que ele não quer o mandato, ele quer o habeas corpus.",
+    "gancho": false,
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "gabaritou no Enem do crime",
+        "texto": "22/10: Haddad em comício da campanha do Lula na PUC-SP",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "é rachadinha",
+        "texto": "Jan/2025: Flávio processou Haddad no STF por falar em rachadinha",
+        "cor": "vermelho"
+      }
+    ],
+    "crop": [
+      1080,
+      860,
+      0,
+      0
+    ],
+    "enquadrar": false,
+    "foco_x": 0.66
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Haddad diz que Flávio ==“gabaritou no Enem do crime”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Ele gabaritou no Enem do crime. Ele não errou uma questão.” Foi o Haddad sobre o Flávio Bolsonaro.\n\nFoi num comício da campanha do Lula na PUC-SP, na noite de 22/10. Haddad lista bet, lavagem de dinheiro, rachadinha, Vorcaro e Willer Tomaz e diz que o Flávio “não quer o mandato, ele quer o habeas corpus”. As acusações são dele: no vídeo, nenhuma prova é mostrada. E o Flávio já processou o Haddad no STF, em janeiro de 2025, justamente por ele falar em rachadinha.\n\nO 2º turno é domingo (25/10). Ataque assim muda voto ou só anima a torcida? Comenta aí.\n\nVídeo: UOL (comício na PUC-SP, 22/10/2026). Processo: Congresso em Foco.\n\n#Haddad #FlavioBolsonaro #Lula #eleicoes2026 #segundoturno",
+  "fontes": [
+    {
+      "titulo": "UOL — Haddad diz que Flávio Bolsonaro “consegue ser pior que o pai”, que quer “habeas corpus” com eleição (22/10/2026)",
+      "url": "https://www.youtube.com/watch?v=ObezSVzV2qk"
+    },
+    {
+      "titulo": "Congresso em Foco — Mendonça dá prazo de 15 dias para Haddad responder queixa de Flávio Bolsonaro",
+      "url": "https://www.congressoemfoco.com.br/noticia/106104/mendonca-da-prazo-de-15-dias-para-haddad-responder-queixa-de-flavio-bolsonaro"
+    }
+  ]
+}
