@@ -1,0 +1,45 @@
+{
+  "id": "grav-juros-quem-paga",
+  "titulo": "Ganhe quem ganhar: o trilhão de juros que ninguém comenta (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T17:00",
+  "atualizado": "2026-10-23T17:00",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "O trilhão de juros que ==ninguém comenta=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Você já ouviu algum dos dois dizer como esse número cai?\n\nEm 12 meses até agosto, o setor público pagou R$ 1,18 trilhão de juros (8,86% do PIB). A dívida bruta chegou a 82,9% do PIB, o maior nível desde março de 2021.\n\nCorrigindo a minha fala: eu disse “1 trilhão e 82 bilhões” e “8,6%”; o certo é R$ 1,18 trilhão, 8,86% do PIB.\n\nDividido pelos cerca de 213 milhões de brasileiros (estimativa do IBGE), dá uns R$ 5,5 mil por pessoa em um ano. A conta é nossa.\n\nFonte: Banco Central, Estatísticas Fiscais (30/09/2026).\n\n#eleicoes2026 #juros #dividapublica #impostos #economia",
+  "fontes": [
+    {
+      "titulo": "Banco Central — Estatísticas Fiscais de agosto de 2026 (nota de 30/09/2026)",
+      "url": "https://static.poder360.com.br/uploads/2026/10/httpswww.bcb_.gov_.brcontentestatisticashist_estatisticasfiscais202609_Texto_de_estatisticas_fiscais.pdf"
+    },
+    {
+      "titulo": "Poder360 — Dívida bruta atinge 82,9% do PIB em agosto, diz Banco Central",
+      "url": "https://www.poder360.com.br/poder-economia/divida-bruta-atinge-829-do-pib-em-agosto-diz-banco-central/"
+    },
+    {
+      "titulo": "Banco Central — SGS 13762 (dívida bruta do governo geral, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/2?formato=json"
+    }
+  ]
+}
