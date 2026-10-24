@@ -1,0 +1,55 @@
+{
+  "id": "sug-video-debate-globo-flavio-nove-dedos",
+  "titulo": "Flávio para Lula no debate da Globo: “dá com uma mão e tira com os nove dedos” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T22:03",
+  "atualizado": "2026-10-23T22:03",
+  "trecho": {
+    "inicio": "Bom, candidato, eu sou a favor da tarifa zero",
+    "fim": "o maior imposto do mundo na era Lula.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "eu sou a favor da tarifa zero",
+        "texto": "Debate Globo, 23/10/2026: Lula perguntou sobre tarifa zero"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "carga tributária",
+        "texto": "Debate Globo, 23/10/2026: resposta do Flávio"
+      }
+    ],
+    "trilha": "tensao - dark tension (OpenMindAudio, Pixabay).mp3",
+    "cta": true
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Flávio para Lula: ==“dá com uma mão e tira com os nove dedos”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "“Dá com uma mão e tira com os nove dedos.” Foi a resposta do Flávio ao Lula sobre tarifa zero no debate.\n\nO Lula perguntou se o Flávio é contra ou a favor da tarifa zero no ônibus nos fins de semana. O Flávio disse que é a favor, mas acusou o Lula de aumentar impostos e afirmou que o brasileiro vai pagar “o maior imposto do mundo na era Lula”.\n\nPassou do ponto ou foi resposta à altura?\n\nDebate na Globo, 23/10/2026.\nVídeo: reprodução TV Globo.\n\n#FlavioBolsonaro #Lula #debate #eleicoes2026 #impostos",
+  "fontes": [
+    {
+      "titulo": "TV Globo / g1 — Debate do 2º turno entre Lula e Flávio Bolsonaro (23/10/2026)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml"
+    }
+  ]
+}
