@@ -1,0 +1,37 @@
+{
+  "id": "sug-story-debate-globo-bloco2",
+  "titulo": "Story: minha leitura do 2º bloco do debate na Globo",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-23T23:00",
+  "atualizado": "2026-10-23T23:00",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Minha opinião sobre o 2º bloco: virou [[verde:passeio]]. A idade chega pra todo mundo, e está um pouco [[vermelho:difícil compreender]] o que o Lula está falando. E pra você?"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-globo-bloco2/estudio-bloco2.jpg",
+          "h": 480,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Debate presidencial na TV Globo, 23/10/2026 (transmissão ao vivo, g1)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml"
+    }
+  ]
+}
