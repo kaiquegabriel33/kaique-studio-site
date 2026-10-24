@@ -1,0 +1,61 @@
+{
+  "id": "sug-video-debate-globo-lula-miliciano-nove-dedos",
+  "titulo": "Lula responde ao “nove dedos” no debate da Globo: “não vou permitir que um miliciano me chame de nove dedos” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T22:40",
+  "atualizado": "2026-10-23T22:40",
+  "trecho": {
+    "inicio": "Na expectativa de ganhar meu minuto",
+    "fim": "chamar eu de nove dedos.",
+    "crop": [
+      1020,
+      620,
+      260,
+      0
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Ele me chamou de nove dedos",
+        "texto": "Debate Globo, 23/10/2026: às 21h57, Flávio falou em “nove dedos”"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "Ele nunca trabalhou",
+        "texto": "Debate Globo, 23/10/2026: tréplica do Lula"
+      }
+    ],
+    "trilha": "tensao - dark tension (OpenMindAudio, Pixabay).mp3",
+    "cta": true
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Lula: ==“não vou permitir que um miliciano me chame de nove dedos”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "“Não vou permitir que um miliciano me chame de nove dedos.” O Lula respondeu ao Flávio no fim do debate.\n\nMais cedo, o Flávio tinha dito que o Lula “dá com uma mão e tira com os nove dedos”. Na tréplica, o Lula disse que perdeu o dedo trabalhando e acusou o Flávio de nunca ter trabalhado.\n\nPassou do limite de qual lado?\n\nDebate na Globo, 23/10/2026.\nVídeo: reprodução TV Globo.\n\n#Lula #FlavioBolsonaro #debate #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo / g1 — Debate do 2º turno entre Lula e Flávio Bolsonaro (23/10/2026)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml"
+    }
+  ]
+}

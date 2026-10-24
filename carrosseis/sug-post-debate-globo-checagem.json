@@ -1,0 +1,50 @@
+{
+  "id": "sug-post-debate-globo-checagem",
+  "titulo": "Post: checagem ao vivo do debate na Globo (Lula x Flávio)",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-23T22:45",
+  "atualizado": "2026-10-23T22:45",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Debate na Globo: quanto do que cada um disse era ==falso ou distorcido==?",
+          "tam": 58,
+          "peso": 800
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "rotulos": [
+            "Lula",
+            "Flávio Bolsonaro"
+          ],
+          "valores": [
+            53,
+            19
+          ],
+          "sufixo": "%",
+          "destaques": [
+            0
+          ],
+          "fonte": "Fonte: fatoaovivo.com, até 22h43"
+        },
+        {
+          "tipo": "texto",
+          "texto": "O debate ainda está rolando. **Continue me acompanhando nos stories.**",
+          "tam": 40
+        }
+      ],
+      "fonte": "% das afirmações checadas classificadas como falsas ou distorcidas. Lula: 15 checadas; Flávio: 16. Checagem ao vivo, 23/10/2026."
+    }
+  ],
+  "legenda": "Debate na Globo, 23/10/2026: das afirmações checadas ao vivo até as 22h43, 53% das do Lula (15 checadas) e 19% das do Flávio Bolsonaro (16 checadas) foram classificadas como falsas ou distorcidas, segundo o fatoaovivo.com.\n\nOs números mudam ao longo do debate. Continue me acompanhando nos stories.\n\nFonte: fatoaovivo.com (checagem ao vivo, 23/10/2026, 22h43).\n\n#debate #Lula #FlavioBolsonaro #checagem #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "fatoaovivo.com — Checagem ao vivo do debate presidencial do 2º turno (23/10/2026, 22h43)",
+      "url": "https://fatoaovivo.com"
+    }
+  ]
+}
