@@ -1,0 +1,46 @@
+{
+  "id": "sug-story-luxo-perde-251-bi",
+  "titulo": "Story: grifes de luxo perdem R$ 1,4 trilhão com o chinês comprando menos",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-25T18:30",
+  "atualizado": "2026-10-25T18:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-luxo-perde-251-bi/reuniao-grafico-tela.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "As 6 maiores grifes da Europa perderam R$ 1,4 trilhão em valor neste ano porque o chinês passou a comprar menos. Até no luxo, quem depende de um cliente só sofre."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-luxo-perde-251-bi/print-folha-marcas-de-luxo-perdem-250-bilhoe.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Folha C-Level/Financial Times (Adrienne Klasa) — Marcas de luxo perdem 250 bilhões de euros em valor de mercado com queda na demanda chinesa (25/10/2026)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/marcas-de-luxo-perdem-250-bilhoes-de-euros-em-valor-de-mercado-com-queda-na-demanda-chinesa.shtml"
+    }
+  ],
+  "postado_em": "2026-10-28T10:00:00-03:00"
+}

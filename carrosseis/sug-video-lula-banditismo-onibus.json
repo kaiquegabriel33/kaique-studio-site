@@ -1,0 +1,80 @@
+{
+  "id": "sug-video-lula-banditismo-onibus",
+  "titulo": "STF prorroga votação até as 19h; Lula: “algum prefeito mau caráter, bandido” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-25T17:10",
+  "atualizado": "2026-10-25T17:20",
+  "trecho": {
+    "inicio": "Primeiro, a garantir que os eleitores",
+    "fim": "O que eu quero é pedir é que o povo não desista de votar",
+    "girar": "nao",
+    "texto": "Primeiro, garantir que os eleitores que foram prejudicados por atraso de ônibus, por retirada de ônibus, tenham a chance de votar. Ninguém pode desistir de votar porque algum empresário sacana ou algum prefeito, mau caráter, bandido, tentou evitar que o povo possa votar. O que eu quero pedir é que o povo não desista de votar.",
+    "gancho": "algum empresário sacana ou algum prefeito, mau caráter, bandido",
+    "crop": [
+      1080,
+      1110,
+      0,
+      0
+    ],
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Primeiro, a garantir",
+        "texto": "Lula, na tarde de 25/10/2026, sobre a falta de ônibus em cidades como São Paulo e Salvador",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Ninguém pode desistir",
+        "texto": "No fim da tarde, o ministro Cristiano Zanin, do STF, prorrogou a votação até as 19h em todo o país",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "STF prorroga votação até as ==19h==. Lula: “algum empresário sacana ou algum prefeito mau caráter, bandido”"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Votação prorrogada até as 19h (de Brasília) em todo o país.\n\nQuem decidiu foi o ministro Cristiano Zanin, do STF, no fim da tarde de 25/10/2026, e cabe ao TSE cumprir. A campanha do Lula tinha pedido mais tempo ao TSE em 9 estados, por causa da falta de ônibus, e o TSE ainda não tinha respondido.\n\nAntes, o Lula tinha dito: “Algum empresário sacana ou algum prefeito mau caráter, bandido, tentou evitar que o povo possa votar.” A campanha do Flávio Bolsonaro também tinha pedido mais tempo, em cidades de São Paulo, Paraná e Santa Catarina.\n\nSe você ainda não votou, o prazo agora é 19h.\n\nVídeo: reprodução TVT News (25/10/2026).\n\n#eleicoes2026 #apuracao #Lula #FlavioBolsonaro #STF",
+  "fontes": [
+    {
+      "titulo": "g1 — Zanin prorroga votação (25/10/2026)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/zanin-prorroga-votacao.ghtml"
+    },
+    {
+      "titulo": "CNN Brasil — Zanin prorroga eleição até as 19h deste domingo em todo o país (25/10/2026, 17h05)",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/zanin-prorroga-eleicao-ate-as-19h-deste-domingo-em-todo-o-pais/"
+    },
+    {
+      "titulo": "TVT News — Lula sobre falta de ônibus: “Banditismo e sacanagem” (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=X_cjSKAXHRc"
+    },
+    {
+      "titulo": "UOL — Flávio Bolsonaro pede ao TSE mais 2 horas de votação em cidades de SP, PR e SC (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=QAqaea8rnFw"
+    },
+    {
+      "titulo": "CNN Brasil — Lula pede prorrogação da votação para evitar prejuízo a eleitores (25/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-pede-prorrogacao-da-votacao-para-evitar-prejuizo-a-eleitores/"
+    }
+  ],
+  "postado_em": "2026-10-25T17:20:00-03:00"
+}

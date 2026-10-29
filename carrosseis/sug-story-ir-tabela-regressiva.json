@@ -1,0 +1,42 @@
+{
+  "id": "sug-story-ir-tabela-regressiva",
+  "titulo": "Story: o imposto do CDB e do Tesouro cai com o tempo",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-27T22:55",
+  "atualizado": "2026-10-28T15:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O imposto do CDB e do Tesouro diminui com o tempo: [[vermelho:22,5%]] do lucro se você resgata em até 180 dias, [[verde:15%]] depois de 720 dias. E ele só pega o que rendeu, não o que você colocou. Resgatar no impulso sai mais caro."
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-ir-tabela-regressiva/evento-avenue-verde.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Lei nº 11.033/2004, art. 1º: IR na fonte de 22,5% (até 180 dias), 20% (181 a 360), 17,5% (361 a 720) e 15% (acima de 720 dias) sobre os rendimentos de renda fixa",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11033.htm"
+    },
+    {
+      "titulo": "B3 Bora Investir — Como declarar investimentos do Tesouro Direto no Imposto de Renda 2026 (mesma tabela)",
+      "url": "https://borainvestir.b3.com.br/noticias/imposto-de-renda/renda-fixa-imposto-de-renda/como-declarar-investimentos-do-tesouro-direto-no-imposto-de-renda-2026/"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "sug-video-michelle-vota-galego",
+  "titulo": "Michelle vai ver a apuração “com o meu galego” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-25T17:40",
+  "atualizado": "2026-10-25T17:40",
+  "trecho": {
+    "inicio": "Vou acompanhar a apuração, acho que o Flávio está no Rio",
+    "fim": "Ele está ansioso, está esperançoso, mas está feliz.",
+    "texto": "Vou acompanhar a apuração, acho que o Flávio está no Rio, ele vota lá, deve ficar com a família, com a mãe dele, os irmãos lá, eu vou ficar com o meu galego, assim que a nossa governadora for eleita, vou ao encontro dela, dar um abraço nela, porque a gente sabe que de presidente demora um pouquinho mais, e vou ver o resultado com o meu amor. Ele está ansioso, está esperançoso, mas está feliz.",
+    "gancho": "os irmãos lá, eu vou ficar com o meu galego",
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Vou acompanhar a apuração",
+        "texto": "Michelle Bolsonaro, senadora eleita pelo DF, depois de votar em Brasília em 25/10/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Ele está ansioso",
+        "texto": "“Ele” é o marido, Jair Bolsonaro; o candidato do PL no 2º turno é o filho, Flávio",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Michelle diz que vai ver a apuração ==“com o meu galego”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Eu vou ficar com o meu galego.” Foi a Michelle Bolsonaro sobre onde vai ver a apuração do 2º turno.\n\nEla votou em Brasília na manhã de 25/10/2026 e achava que o Flávio ficaria com a família no Rio (à tarde, ele foi para Brasília acompanhar a apuração). Sobre o Jair Bolsonaro: “Ele está ansioso, está esperançoso, mas está feliz.” A Michelle foi eleita senadora pelo DF no 1º turno.\n\nE você, vai acompanhar a apuração com quem? Comenta aí.\n\nVídeo: reprodução Band Jornalismo (25/10/2026).\n\n#eleicoes2026 #apuracao #MichelleBolsonaro #FlavioBolsonaro",
+  "fontes": [
+    {
+      "titulo": "Band Jornalismo — Michelle Bolsonaro diz que espera que Brasil “aposente o retrocesso” (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=p56_vmUmgGY"
+    },
+    {
+      "titulo": "Terra — Michelle Bolsonaro afirma que acompanhará apuração ao lado de Jair: ‘Vou ficar com meu galego’ (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=cTzObGqkpMg"
+    },
+    {
+      "titulo": "Metrópoles — Flávio Bolsonaro chega em Brasília para acompanhar as apurações, após votar no RJ (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=p8vVTYFOsCU"
+    }
+  ],
+  "postado_em": "2026-10-25T18:25:00-03:00"
+}

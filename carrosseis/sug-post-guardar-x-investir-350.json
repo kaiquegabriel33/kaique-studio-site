@@ -1,0 +1,59 @@
+{
+  "id": "sug-post-guardar-x-investir-350",
+  "titulo": "Guardar × investir: R$ 350 por mês",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-13T10:10",
+  "atualizado": "2026-10-13T10:10",
+  "slides": [
+    {
+      "papel": "post",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 46,
+          "texto": "R$ 350 por mês durante 30 anos. Guardado na gaveta, vira R$ 126 mil. Investido, ==vira R$ 728 mil.=="
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "titulo": "R$ 350 todo mês, investido a 10% ao ano (conta nossa, sem imposto)",
+          "rotulos": [
+            "10 anos guardando",
+            "10 anos investindo",
+            "20 anos guardando",
+            "20 anos investindo",
+            "30 anos guardando",
+            "30 anos investindo"
+          ],
+          "valores": [
+            42,
+            70.5,
+            84,
+            253.4,
+            126,
+            727.8
+          ],
+          "casas": 0,
+          "prefixo": "R$ ",
+          "sufixo": " mil",
+          "destaques": [
+            1,
+            3,
+            5
+          ],
+          "h": 520
+        }
+      ]
+    }
+  ],
+  "legenda": "R$ 350 por mês. A mesma pessoa, o mesmo esforço, dois destinos.\n\nNa gaveta: R$ 126 mil em 30 anos (é só somar os depósitos).\nInvestido a 10% ao ano: R$ 728 mil.\n\nA diferença de R$ 602 mil não saiu do seu bolso. Saiu do tempo.\n\nDetalhe que pouca gente nota: nos primeiros 10 anos a diferença é pequena (R$ 42 mil × R$ 70 mil). É depois que o juro sobre juro acelera. Por isso quem começa cedo ganha tanto de quem começa tarde.\n\nE o dinheiro da gaveta ainda perde para a inflação: os R$ 126 mil de daqui a 30 anos compram bem menos que hoje.\n\nAs contas: depósito no início de cada mês, rendimento de 10% ao ano (abaixo da Selic atual, de 13,75%), sem imposto e sem inflação. Não é promessa de rendimento, é a matemática do tempo.\n\nQuanto você guarda por mês hoje?\n\n#investimentos #jurossobrejuros #educacaofinanceira #rendafixa",
+  "fontes": [
+    {
+      "titulo": "Banco Central — Copom reduz a Selic para 13,75% ao ano (16/09/2026)",
+      "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+    }
+  ],
+  "postado_em": "2026-10-21T19:39:11.154Z"
+}

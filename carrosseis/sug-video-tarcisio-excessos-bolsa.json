@@ -1,0 +1,71 @@
+{
+  "id": "sug-video-tarcisio-excessos-bolsa",
+  "titulo": "Tarcísio sobre a eleição: “a conta sempre chega para o contribuinte” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T11:05",
+  "atualizado": "2026-10-28T11:05",
+  "trecho": {
+    "inicio": "A eleição passou, mas o país continua fraturado",
+    "fim": "Vai piorar para todos os brasileiros.",
+    "texto": "A eleição passou, mas o país continua fraturado, dividido e isso exige muita responsabilidade quem lidera. Reconhecer o resultado não significa calar sobre os excessos. O uso da máquina, programas lançados fora do prazo, a interferência do judiciário, tudo isso marcou esta eleição e precisa deixar lições. Ontem vimos investidores saindo, a bolsa despencando, empresas perdendo valor, o câmbio disparando. As promessas de campanha precisam ser examinadas com rigor, porque a conta sempre chega para o contribuinte. A eleição passou, mas a falta de confiança fica. A direita brasileira recebeu das urnas uma responsabilidade. Recebeu força no Congresso e nos Estados. Agora, as pessoas, e que fiscalize de perto quem governa pelos próximos quatro anos. Porque se a economia piorar, não vai piorar só para quem votou de um lado. Vai piorar para todos os brasileiros.",
+    "gancho": "a conta sempre chega para o contribuinte",
+    "girar": "nao",
+    "cta": true,
+    "crop": [1080, 1420, 0, 0],
+    "legenda": false,
+    "enquadrar": false,
+    "preencher": false,
+    "contexto": [
+      {
+        "em": 20.0,
+        "texto": "26/10/2026: a B3 acionou o circuit breaker às 10h03",
+        "cor": "amarelo"
+      },
+      {
+        "em": 27.0,
+        "texto": "27/10/2026: o dólar fechou em queda, a R$ 5,35",
+        "cor": "verde"
+      }
+    ],
+    "trilha_lufs": -27,
+    "placa_y": 730
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 48,
+          "texto": "Tarcísio sobre a eleição: ==“a conta sempre chega para o contribuinte”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Tarcísio: “As promessas de campanha precisam ser examinadas com rigor, porque a conta sempre chega para o contribuinte.”\n\nNo vídeo em que reconheceu a reeleição do Lula, na terça (27/10/2026), o governador de São Paulo disse que reconhecer o resultado “não significa calar sobre os excessos” e citou a reação do mercado: “investidores saindo, a bolsa despencando, o câmbio disparando”.\n\nNa segunda (26/10), a B3 acionou o circuit breaker às 10h03 e o dólar chegou a R$ 5,60. Na terça, o mercado devolveu parte: o dólar fechou a R$ 5,35 (−0,97%) e o Tesouro recomprou títulos para segurar os juros.\n\nPara você, a conta da campanha vai chegar no seu bolso? Comenta aí.\n\nVídeo: reprodução Itatiaia (vídeo publicado pelo Tarcísio nas redes em 27/10/2026). Fontes: Itatiaia, Money Times, UOL Economia e Folha de S.Paulo (26 e 27/10/2026).\n\n#Tarcisio #dolar #ibovespa #economia #Lula",
+  "fontes": [
+    {
+      "titulo": "Itatiaia — “A eleição passou, o Brasil continua”: Tarcísio reconhece resultado e prega oposição vigilante (27/10/2026)",
+      "url": "https://www.youtube.com/shorts/b1Ng6cnK_wg"
+    },
+    {
+      "titulo": "Money Times — Tempo real: Ibovespa reage à vitória de Lula; circuit breaker é acionado na abertura (26/10/2026)",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/"
+    },
+    {
+      "titulo": "UOL Economia — Dólar fecha em queda após disparada eleitoral; Ibovespa recua 0,51% (27/10/2026)",
+      "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/27/dolar-fecha-em-queda-apos-disparada-eleitoral-bolsa-volta-a-cair.htm"
+    }
+  ]
+}

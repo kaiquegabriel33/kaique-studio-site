@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-mei-110-mil-condicao",
+  "titulo": "Story: MEI com teto maior, mas o perdão tem condição",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-21T21:15",
+  "atualizado": "2026-10-21T21:15",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-mei-110-mil-condicao/band-pacote-mei-teto.jpg",
+        "foco": {
+          "x": 0.35,
+          "y": 0.45
+        },
+        "desfoque": 14,
+        "escurecer": 0.45
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "É MEI? Presta atenção: o teto sobe para R$ 110 mil em 2027 e dá pra contratar mais um funcionário. Mas o perdão das dívidas tem condição: pagar o DAS em dia por seis meses. Atrasou, perdeu, tá?"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-mei-110-mil-condicao/print-agencia-brasil-perdao-de-dividas-e-novo-teto-do.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "centralizar": true
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — Perdão de dívidas e novo teto do MEI: entenda o que muda (21/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-e-novo-teto-do-mei-entenda-o-que-muda"
+    },
+    {
+      "titulo": "Jornal da Band — Lula sanciona perdão de dívidas dos MEIs (21/10/2026)",
+      "url": "https://www.youtube.com/watch?v=Bz10oCzkLUQ"
+    }
+  ],
+  "postado_em": "2026-10-22T10:00:00-03:00"
+}

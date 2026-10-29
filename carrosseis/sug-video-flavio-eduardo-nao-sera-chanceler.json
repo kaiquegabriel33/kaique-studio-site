@@ -1,0 +1,57 @@
+{
+  "id": "sug-video-flavio-eduardo-nao-sera-chanceler",
+  "titulo": "Flávio sobre o irmão: “Não, ele não vai ser meu chanceler” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T23:00",
+  "atualizado": "2026-10-19T01:00",
+  "trecho": {
+    "inicio": "Se o senhor se eleger, Eduardo será chanceler",
+    "fim": "defender a democracia no nosso país",
+    "texto": "Se o senhor se eleger, Eduardo será chanceler? Eu faço essa pergunta especificamente porque dias atrás ele deu uma entrevista dizendo que quem vai decidir isso é o pai de vocês. Não, ele não vai ser meu chanceler. O Eduardo é um perseguido político que está lá fora denunciando as arbitrariedades que existem aqui no Brasil. Algum dia a história ainda vai reconhecê-lo como alguém que se sacrificou para defender a democracia no nosso país.",
+    "gancho": false,
+    "contexto": [
+      {
+        "desde": "Eduardo será chanceler",
+        "texto": "Entrevista à TV Globo, 2º turno, 16/10",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "não vai ser meu chanceler",
+        "texto": "Chanceler = ministro das Relações Exteriores",
+        "cor": "amarelo"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Flávio descarta o irmão Eduardo: ==“Não, ele não vai ser meu chanceler”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Não, ele não vai ser meu chanceler.” O Flávio fechou a porta para o irmão Eduardo no Itamaraty.\n\nA pergunta veio porque, dias antes, o Eduardo disse que quem decidiria isso seria o pai deles. No começo do ano, o Flávio tinha chamado o irmão de “craque em relações internacionais”. Agora disse que o Eduardo é um “perseguido político” e “faz um trabalho brilhante”, mas não será o ministro.\n\nDecisão certa? Comenta aí.\n\nVídeo: entrevista à TV Globo (16/10/2026).\n\n#FlavioBolsonaro #EduardoBolsonaro #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo — entrevista de Flávio Bolsonaro a Renata Lo Prete, 2º turno (16/10/2026, ao vivo)",
+      "url": "https://g1.globo.com/"
+    }
+  ],
+  "postado_em": "2026-10-20T22:00:00.000Z"
+}

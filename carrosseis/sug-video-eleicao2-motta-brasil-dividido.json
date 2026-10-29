@@ -1,0 +1,62 @@
+{
+  "id": "sug-video-eleicao2-motta-brasil-dividido",
+  "titulo": "Hugo Motta ao Lula reeleito: “nós temos um Brasil dividido” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-25T22:50",
+  "atualizado": "2026-10-25T22:54",
+  "trecho": {
+    "inicio": "Quero que o presidente reeleito possa fazer uma avaliação",
+    "fim": "governar para todos os brasileiros.",
+    "texto": "Quero que o presidente reeleito possa fazer uma avaliação dos seus acertos, mas também dos erros que precisam ser melhorados. Nós temos um Brasil dividido, um Brasil que passou, infelizmente, os últimos quatro anos radicalizado e que, com essa vitória de hoje, eu penso que o presidente tem uma nova oportunidade de poder conciliar o país, de poder olhar para frente e governar para todos os brasileiros.",
+    "gancho": "Nós temos um Brasil dividido",
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Quero que o presidente reeleito",
+        "texto": "Hugo Motta, presidente da Câmara, ao lado de Davi Alcolumbre, depois do resultado, em 25/10/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Nós temos um Brasil dividido",
+        "texto": "Às 21h14, com 99,77% das urnas, o TSE mostrava Lula com 51,76% e Flávio com 48,24%",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Hugo Motta sobre o Lula reeleito: ==“nós temos um Brasil dividido”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Nós temos um Brasil dividido.” Foi o presidente da Câmara, Hugo Motta, depois da reeleição do Lula.\n\nNo pronunciamento com o presidente do Senado, Davi Alcolumbre, na noite de 25/10/2026, ele cumprimentou o Lula e o Flávio Bolsonaro e pediu que o presidente avalie “acertos” e “erros”. Às 21h14, com 99,77% das urnas apuradas, o TSE mostrava Lula com 51,76% e Flávio com 48,24%.\n\nO país vai conseguir se unir? Comenta aí.\n\nVídeo: reprodução Poder360 (25/10/2026).\n\n#eleicoes2026 #apuracao #HugoMotta #Lula #Congresso",
+  "fontes": [
+    {
+      "titulo": "Poder360 — Motta e Alcolumbre fazem pronunciamento após o resultado das eleições de 2026 (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=FpAST-RdAGA"
+    },
+    {
+      "titulo": "TSE — Resultados, 2º turno presidente (25/10/2026, 21h14, 99,77% das urnas)",
+      "url": "https://resultados.tse.jus.br/oficial/app/index.html"
+    }
+  ],
+  "postado_em": "2026-10-25T23:08:00-03:00"
+}

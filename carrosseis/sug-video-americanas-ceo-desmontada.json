@@ -1,0 +1,71 @@
+{
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-21T10:20",
+  "atualizado": "2026-10-21T10:20",
+  "id": "sug-video-americanas-ceo-desmontada",
+  "titulo": "CEO da Americanas: “uma desmontada de uma companhia enorme” (vídeo)",
+  "video_url": "https://www.youtube.com/watch?v=Hg9LvR0hyno&t=123s",
+  "trecho_txt": "2:18 a 2:47",
+  "trecho": {
+    "inicio": "Olha, nesse período",
+    "fim": "isso também é o futuro",
+    "texto": "Olha, nesse período, Lívia, o principal indicador que nós usamos foi a geração de valor operacional. Então, um olho em como a gente poderia melhorar a operação da companhia e realmente ter uma geração de valor que fosse sustentável, né? Hoje eu estou especialmente em enxugar a companhia do ponto de vista da operação de e-commerce e reforçar a nossa operação de loja física. Portanto, houve uma desmontada de uma companhia enorme para uma criação de uma nova companhia, né? Foi um movimento muito interessante e isso também é o futuro.",
+    "gancho": "houve uma desmontada de uma companhia enorme para uma criação de uma nova companhia",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "geração de valor",
+        "texto": "19/10: Justiça encerrou a recuperação judicial"
+      },
+      {
+        "cor": "verde",
+        "desde": "loja física",
+        "texto": "20/10: ação AMER3 chegou a subir 25%"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "CEO da Americanas: ==“uma desmontada de uma companhia enorme”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "A Americanas vai “enxugar” o e-commerce e reforçar a loja física, diz o CEO.\n\nFernando Soares falou logo depois de a empresa sair da recuperação judicial.\n\nA 4ª Vara Empresarial do Rio encerrou a recuperação em 19/10, quase quatro anos depois do pedido de janeiro de 2023, quando a dívida era de R$ 43 bilhões. Na terça (20/10), a ação chegou a subir 25%. Mas no 2º trimestre a empresa ainda teve prejuízo de R$ 274 milhões.\n\nVocê volta a comprar na Americanas? Comenta aí.\n\nVídeo: VEJA+ (YouTube). Fontes: Conjur, Seu Dinheiro e DGABC (outubro de 2026).\n\n#Americanas #AMER3 #varejo #bolsa #investimentos",
+  "fontes": [
+    {
+      "titulo": "VEJA+ — Americanas deixa recuperação judicial após quatro anos; CEO fala à VEJA",
+      "url": "https://www.youtube.com/watch?v=Hg9LvR0hyno"
+    },
+    {
+      "titulo": "Conjur — Recuperação judicial do Grupo Americanas chega ao fim (20/10/2026)",
+      "url": "https://conjur.com.br/2026-out-20/recuperacao-judicial-do-grupo-americanas-chega-ao-fim/"
+    },
+    {
+      "titulo": "Seu Dinheiro — Americanas (AMER3) vira a página da recuperação judicial e dispara 25% na B3",
+      "url": "https://www.seudinheiro.com/2026/empresas/americanas-amer3-vira-a-pagina-da-recuperacao-judicial-mira-nova-fase-e-dispara-25-na-b3-o-que-esperar-da-varejista-lmrs/"
+    },
+    {
+      "titulo": "DGABC — Americanas tem prejuízo de R$ 274 milhões no 2tri26",
+      "url": "https://www.dgabc.com.br/Noticia/4340877/americanas-tem-prejuizo-de-r-274-milhoes-no-2tri26-alta-de-179-6-ante-um-ano"
+    }
+  ],
+  "postado_em": "2026-10-21T12:00:00-03:00"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "sug-video-lula-lamber-bota-flavio",
+  "titulo": "Lula sobre a saída do Flávio: “a primeira pátria é lamber bota dos Estados Unidos” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-27T22:30",
+  "atualizado": "2026-10-27T22:30",
+  "trecho": {
+    "inicio": "E esse ato de sair do Brasil é vergonhoso.",
+    "fim": "A primeira pátria é lamber bota dos Estados Unidos.",
+    "texto": "E esse ato de sair do Brasil é vergonhoso. É vergonhoso. Quando pediram para me entregar o meu passaporte, eu entreguei meu passaporte. Ele deveria ter entregue, porque a Polícia Federal tinha suspeita que ele ia sair do Brasil e ele tem inquérito. A família Bolsonaro é isso. O Brasil é a segunda pátria deles. A primeira pátria é lamber bota dos Estados Unidos.",
+    "gancho": "A primeira pátria é lamber bota dos Estados Unidos",
+    "girar": "nao",
+    "cta": true,
+    "abertura": "insano2",
+    "contexto": [
+      {
+        "desde": "Quando pediram",
+        "texto": "26/10/2026: Moraes mandou Flávio entregar os passaportes e não sair do país",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "A família Bolsonaro",
+        "texto": "27/10/2026: segundo a campanha dele, Flávio está nos EUA",
+        "cor": "vermelho"
+      }
+    ],
+    "trilha_lufs": -27,
+    "foco_x": 0.5
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 48,
+          "texto": "Lula sobre a saída do Flávio: ==“a primeira pátria é lamber bota dos Estados Unidos”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Lula sobre a saída do Flávio do Brasil: “A primeira pátria é lamber bota dos Estados Unidos.”\n\nNo aniversário de 81 anos, no Palácio da Alvorada, na terça (27/10/2026), o presidente disse que entregou o passaporte quando pediram e que o Flávio Bolsonaro (PL) deveria ter feito o mesmo: “Esse ato de sair do Brasil é vergonhoso.”\n\nO ministro Alexandre de Moraes, do STF, mandou o Flávio entregar os passaportes e o proibiu de deixar o país. Ele não entregou no prazo, que acabou às 11h de 27/10, e a PF cancelou os documentos. Segundo a campanha dele, o Flávio está nos Estados Unidos; até a noite de 27/10, nenhuma autoridade tinha confirmado a saída.\n\nPara você, foi fuga ou precaução? Comenta aí.\n\nVídeo: reprodução canal Lula no YouTube (27/10/2026). Fontes: SBT News, CNN Brasil e Record (27/10/2026).\n\n#Lula #FlavioBolsonaro #STF #PF #politica",
+  "fontes": [
+    {
+      "titulo": "Canal Lula no YouTube — Presidente Lula celebra aniversário com a militância (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=1sr8yn8k0_8"
+    },
+    {
+      "titulo": "SBT News — Flávio Bolsonaro não entrega passaporte à PF e descumpre ordem de Moraes (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=iar0KniEh-g"
+    },
+    {
+      "titulo": "CNN Brasil — PF cancela passaportes de Flávio Bolsonaro após decisão de Moraes (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=BhmZi2KL6v8"
+    },
+    {
+      "titulo": "Record News — Equipe de campanha confirma que Flávio chegou aos EUA (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=26pnXK-TMLQ"
+    }
+  ],
+  "postado_em": "2026-10-28T10:00:00-03:00"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "sug-video-otoni-flavio-covarde",
+  "titulo": "Otoni de Paula sobre o Flávio: comandante que foge no único bote (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T12:40",
+  "atualizado": "2026-10-28T12:40",
+  "trecho": {
+    "inicio": "Então, isto aqui seria, pela analogia deles, um navio que está afundando.",
+    "fim": "Flávio foge porque ele sabe que a mentira está com ele.",
+    "texto": "Então, isto aqui seria, pela analogia deles, um navio que está afundando. E o que se espera de um comandante cujo navio esteja afundando? Que ele seja o último a sair do navio. Mas não. O Flávio Bolsonaro é como aquele comandante que, ao ver o navio afundando, de madrugada chama a esposa e diz assim, olha, junta tudo, pega as crianças, porque nós vamos sair no único bote salva-vida que tem. A mulher deve ter perguntado, mas e quem está no navio? E a tripulação? Deixa todo mundo para lá, vamos embora, a gente se salva. Ah, do político? Mentira, ele é um criminoso. Lula ficou quando soube que Sérgio Moro iria prendê-lo? Porque tinha consciência de que a verdade estava com ele. Flávio foge porque ele sabe que a mentira está com ele.",
+    "gancho": "nós vamos sair no único bote salva-vida que tem",
+    "girar": "nao",
+    "crop": [560, 730, 1072, 40],
+    "preencher": false,
+    "foco_falante": false,
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "O Flávio Bolsonaro é como aquele comandante",
+        "texto": "27/10: PF cancelou os passaportes do Flávio",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Lula ficou quando soube",
+        "texto": "28/10: avião com o Flávio pousou nos EUA",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Otoni diz que Flávio fugiu ==“no único bote salva-vida”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Otoni de Paula comparou o Flávio a um comandante que foge do navio “no único bote salva-vida que tem”.\n\nO deputado federal Otoni de Paula (MDB-RJ), ex-aliado da família Bolsonaro, falou em 27/10/2026, depois que o Flávio Bolsonaro (PL) deixou o Brasil. Na mesma fala, chamou o Flávio de “criminoso” e o comparou ao Lula, que ficou no país quando foi preso em 2018. A Polícia Federal cancelou os passaportes do Flávio em 27/10, e o avião com ele e a família pousou nos Estados Unidos em 28/10. A defesa diz que ele é perseguido pelo ministro Alexandre de Moraes, do STF.\n\nFugiu ou se protegeu? Comenta aí.\n\nVídeo: reprodução Terra Brasil (27/10/2026). Fontes: Poder360 (28/10/2026), SBT News (27/10/2026).\n\n#FlavioBolsonaro #OtoniDePaula #PL #STF #politica",
+  "fontes": [
+    {
+      "titulo": "Terra Brasil — Otoni de Paula chama Flávio Bolsonaro de ‘covarde e criminoso’ após suposta fuga do Brasil (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=rUKSGtLDuyc"
+    },
+    {
+      "titulo": "Poder360 — Avião com Flávio Bolsonaro chega aos EUA (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-internacional/aviao-com-flavio-bolsonaro-chega-aos-eua/"
+    }
+  ]
+}

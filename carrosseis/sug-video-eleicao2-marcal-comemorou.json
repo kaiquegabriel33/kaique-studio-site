@@ -1,0 +1,71 @@
+{
+  "id": "sug-video-eleicao2-marcal-comemorou",
+  "titulo": "Pablo Marçal comemorou a virada do Flávio no começo da apuração; no fim, deu Lula (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-25T21:40",
+  "atualizado": "2026-10-25T21:53",
+  "trecho": {
+    "segundos": [
+      0,
+      18.3
+    ],
+    "legenda": false,
+    "gancho": false,
+    "crop": [
+      1080,
+      1300,
+      0,
+      0
+    ],
+    "girar": "nao",
+    "cta": true,
+    "trilha": "news - news background (Monume, Pixabay).mp3",
+    "contexto": [
+      {
+        "em": 0.3,
+        "texto": "Pablo Marçal no QG do Flávio Bolsonaro, em Brasília, quando o Flávio passou o Lula na apuração (25/10/2026)",
+        "cor": "amarelo"
+      },
+      {
+        "em": 9,
+        "texto": "Às 21h14, com 99,77% das urnas, o TSE mostrava Lula com 51,76% e Flávio com 48,24%",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Pablo Marçal comemorou a virada do Flávio no começo da apuração; ==no fim, deu Lula=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "O Pablo Marçal comemorou cedo demais.\n\nO vídeo é do QG do Flávio Bolsonaro, em Brasília, na noite de 25/10/2026, quando o Flávio passou o Lula no começo da apuração. Segundo o SBT News, o Flávio pediu calma. Às 21h14, com 99,77% das urnas apuradas, o TSE mostrava Lula com 51,76% e Flávio com 48,24%: o Lula foi reeleito.\n\nVocê também comemorou antes da hora? Comenta aí.\n\nVídeo: reprodução SBT News (25/10/2026).\n\n#eleicoes2026 #apuracao #PabloMarcal #FlavioBolsonaro #Lula",
+  "fontes": [
+    {
+      "titulo": "SBT News — Pablo Marçal comemorou virada no início da apuração; Flávio pediu calma (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=HKOqj0F1m6s"
+    },
+    {
+      "titulo": "TSE — Resultados, 2º turno presidente (25/10/2026, 21h14, 99,77% das urnas)",
+      "url": "https://resultados.tse.jus.br/oficial/app/index.html"
+    }
+  ],
+  "postado_em": "2026-10-25T22:04:00-03:00"
+}

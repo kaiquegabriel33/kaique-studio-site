@@ -1,0 +1,44 @@
+{
+  "id": "sug-post-como-governo-gasta",
+  "titulo": "Como o governo gasta seu dinheiro (gráfico explicado)",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-21T15:50",
+  "atualizado": "2026-10-22T12:10",
+  "slides": [
+    {
+      "papel": "capa",
+      "tema": "claro",
+      "semCabecalho": true,
+      "elementos": [
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-post-como-governo-gasta/grafico-governo-gasta-4x5.jpg",
+          "x": 0,
+          "y": 0,
+          "w": 1080,
+          "h": 1350,
+          "ajuste": "cobrir",
+          "raio": 0,
+          "sangria": true
+        }
+      ]
+    }
+  ],
+  "legenda": "De cada R$ 100 que o governo federal gasta, R$ 91 já têm dono antes de qualquer ministro decidir alguma coisa.\n\nLendo o gráfico da esquerda pra direita. Em 2025 entraram R$ 2,90 trilhões nos cofres da União. Mais da metade veio de dois lugares: Imposto de Renda (R$ 867 bi) e a contribuição ao INSS que sai do seu salário e da empresa (R$ 710 bi).\n\nDesse total, R$ 570 bilhões nem ficam em Brasília: vão direto para estados e prefeituras. Sobram R$ 2,33 trilhões. Só que a União gastou R$ 2,39 trilhões. A diferença, R$ 62 bilhões, é o déficit: dinheiro que faltou e foi coberto com dívida nova.\n\nAgora o lado direito. A maior conta, de longe, é a aposentadoria e a pensão do INSS: R$ 1,03 trilhão, 43% de tudo que a União gasta. Depois vêm salário e aposentadoria de servidor (R$ 403 bi), benefícios como Bolsa Família, abono e seguro-desemprego (R$ 373 bi) e a parte de saúde e educação que a lei obriga (R$ 239 bi).\n\nTudo isso é obrigatório por lei. O que o governo pode escolher onde gastar é R$ 205 bilhões, 9% do total. É daí que sai obra, custeio dos ministérios e as emendas dos deputados.\n\nE os juros da dívida nem aparecem nessa conta. Segundo o Banco Central, os juros da dívida de todo o setor público passaram de R$ 1 trilhão em 2025. Déficit de hoje vira juros amanhã.\n\nPor isso, quando alguém promete cortar gasto sem mexer em nenhuma dessas caixas, vale pedir a conta.\n\nFontes: Tesouro Nacional, Resultado do Tesouro Nacional de dezembro/2025 (governo central, valores correntes, 29/01/2026); Banco Central, Estatísticas Fiscais (30/01/2026).",
+  "fontes": [
+    {
+      "titulo": "Tesouro Nacional — Resultado do Tesouro Nacional, dezembro/2025 (apresentação, 29/01/2026)",
+      "url": "https://static.poder360.com.br/2026/01/Tesouro-apresentacao-resultado-dez-25.pdf"
+    },
+    {
+      "titulo": "B3 Bora Investir — Déficit primário do governo central totaliza R$ 61,7 bilhões em 2025",
+      "url": "https://borainvestir.b3.com.br/noticias/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025/"
+    },
+    {
+      "titulo": "Banco Central — Estatísticas Fiscais, nota de 30/01/2026 (juros nominais de R$ 1.007,6 bi do setor público em 2025)",
+      "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202601_Texto_de_estatisticas_fiscais.pdf"
+    }
+  ],
+  "postado_em": "2026-10-23T18:30:00-03:00"
+}

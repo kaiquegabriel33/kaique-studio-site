@@ -1,0 +1,76 @@
+{
+  "id": "sug-story-debate-insights-4",
+  "titulo": "Stories com imagem: o desafio do sigilo (“quem é ladrão”) e o cadastro de pedófilos",
+  "status": "publicado",
+  "formato": "story",
+  "criado": "2026-10-18T22:50",
+  "atualizado": "2026-10-18T22:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Lula desafiou: amanhã os dois abrem conta e sigilo telefônico da família inteira, “pro povo saber quem é ladrão”."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-insights-4/lula-desafio-sigilo.jpg",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "O Flávio: “não tenho nada a esconder, mas o seu dinheiro é por fora”. Se aceita, não disse. (E olha ele atrás do Lula.)"
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Flávio insinuou que o Lula “tem alguma coisa a defender” por não pôr no ar o cadastro de pedófilos."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-insights-4/flavio-cadastro-pedofilos.jpg",
+          "h": 480,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "A lei que cria esse cadastro foi sancionada pelo próprio Lula, em 2024. Insinuação justa ou golpe baixo?"
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Band — debate do 2º turno entre Flávio Bolsonaro e Lula (18/10/2026, ao vivo); quadros da gravação de tela",
+      "url": "https://www.band.com.br/"
+    },
+    {
+      "titulo": "SBT News — Lula sanciona lei que cria cadastro nacional de condenados por pedofilia e estupro (2024)",
+      "url": "https://sbtnews.sbt.com.br/noticia/governo/lula-sanciona-lei-que-cria-cadastro-nacional-de-condenados-por-pedofilia-e-estupro"
+    },
+    {
+      "titulo": "Poder360 — Lula sanciona lei que cria cadastro de condenados por crime sexual",
+      "url": "https://www.poder360.com.br/poder-justica/lula-sanciona-acesso-a-dados-de-condenados-por-crime-sexual/"
+    }
+  ],
+  "postado_em": "2026-10-19T01:17:53.058Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "explicador-conta-chegando",
+  "titulo": "Você narra: a conta está chegando? Casa, CBS de 11,3% e LCI",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T18:40",
+  "atualizado": "2026-10-28T18:40",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "A conta ==está chegando?=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "A conta está chegando? Vamos aos fatos.\n\n1) Já chegou: em 26/10/2026, o Bradesco subiu a taxa mínima do financiamento imobiliário de 11,7% para 15% ao ano + TR. O banco confirmou a alta \"em função do aumento verificado nas taxas de juros do mercado\". Conta nossa: casa de R$ 300 mil em 30 anos pela tabela SAC, a 1ª parcela vai de cerca de R$ 3.600 para R$ 4.300 (sem TR, seguros e tarifas).\n\n2) Chega em janeiro: em 28/10/2026, o TCU calculou em 11,3% a alíquota de referência da CBS, o imposto que substitui PIS e Cofins a partir de janeiro de 2027 e vem embutido no preço (a estimativa anterior do governo era 9,2%). Conta nossa: num celular de R$ 1.000 antes do imposto, a CBS iria de R$ 92 para R$ 113. Serviços com muito custo de salário tendem a sentir mais; no Simples, muda menos. O Senado ainda pode fixar outra alíquota até 15/12.\n\n3) Ainda é estudo: segundo O Globo (28/10/2026), o governo estuda cobrar IOF sobre LCI, LCA e outros títulos isentos. Não há decisão, decreto nem alíquota; a Fazenda não comentou. O que já aconteceu com a poupança: em 2023, os saques superaram os depósitos em R$ 87,8 bilhões (Banco Central), e em novembro de 2024 a Caixa passou a financiar até 70% do imóvel pelo SBPE (antes, 80%). Conta nossa: numa casa de R$ 300 mil, a entrada vai de R$ 60 mil para R$ 90 mil.\n\nE pra você, qual conta pesa mais: o financiamento mais caro, o imposto no preço ou mexer na LCI? Me conta aqui.\n\nConteúdo informativo, não é recomendação de investimento. A opinião no fim do vídeo é minha.\n\nFontes: Portas, Exame e GP1 (Bradesco, 26 e 27/10/2026); TCU (TC 006.529/2026-7) via Agência Brasil, Poder360 e CNN Brasil (28/10/2026); O Globo, Money Times e Poder360 (IOF, 28/10/2026); Banco Central via CNN Brasil (poupança 2023); Jornal Opção e TNH1 (Caixa, out/2024).\nImagens: prints de Portas, Agência Brasil, Money Times e TNH1. Ilustrações desenhadas por nós. Som da urna: TSE.\n\n#financiamentoimobiliario #reformatributaria #CBS #LCI #educacaofinanceira",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — TCU aprova cálculo da alíquota de referência da CBS em 11,3% (28/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-calculo-da-aliquota-de-referencia-da-cbs-em-113"
+    },
+    {
+      "titulo": "Portas — Bradesco eleva juro mínimo da casa própria a 15% ao ano mais TR",
+      "url": "https://portas.com.br/noticias/bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-tr/"
+    },
+    {
+      "titulo": "O Globo — Governo estuda aplicar IOF sobre LCI, LCA e outros títulos isentos (28/10/2026)",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/28/governo-estuda-aplicar-iof-sobre-lci-lca-e-outros-titulos-isentos.ghtml"
+    },
+    {
+      "titulo": "CNN Brasil — Poupança encerra 2023 com saque líquido de R$ 87,8 bilhões",
+      "url": "https://www.cnnbrasil.com.br/economia/noticias/poupanca-encerra-2023-com-saque-liquido-de-r-878-bilhoes/"
+    }
+  ]
+}

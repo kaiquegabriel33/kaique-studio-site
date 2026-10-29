@@ -1,0 +1,49 @@
+{
+  "id": "sug-story-morgan-acoes-50",
+  "titulo": "Story: Morgan Stanley vê ações brasileiras subindo até 50% em dólares no cenário otimista",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T18:30",
+  "legenda": "",
+  "comentario": "Na semana do \"índice do medo\" em recorde, o Morgan Stanley fala em até 50% de alta em dólares. Previsão não é promessa. Mas quem vende no pânico costuma comprar de volta mais caro.",
+  "repost_url": "https://valor.globo.com/financas/noticia/2026/10/22/aes-brasileiras-tm-potencial-de-alta-de-50-pontos-percentuais-em-dlares-no-cenrio-otimista-do-morgan-stanley.ghtml",
+  "fontes": [
+    {
+      "titulo": "Valor Econômico — Ações brasileiras têm potencial de alta de 50% em dólares no cenário otimista do Morgan Stanley (22/10/2026)",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/22/aes-brasileiras-tm-potencial-de-alta-de-50-pontos-percentuais-em-dlares-no-cenrio-otimista-do-morgan-stanley.ghtml"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Na semana do \"índice do medo\" em recorde, o Morgan Stanley fala em até 50% de alta em dólares. Previsão não é promessa. Mas quem vende no pânico costuma comprar de volta mais caro."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-morgan-acoes-50/print-valor-acoes-brasileiras-tem-potencial.png",
+          "h": 620,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-morgan-acoes-50/acoes-brasileiras-tem-potencial-de-alta-de-50-em.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.3
+        },
+        "clarear": 0.2
+      }
+    }
+  ],
+  "postado_em": "2026-10-23T15:00:00-03:00"
+}

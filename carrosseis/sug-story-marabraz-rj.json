@@ -1,0 +1,53 @@
+{
+  "id": "sug-story-marabraz-rj",
+  "titulo": "Story: a Marabraz entrou em recuperação judicial",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T16:45",
+  "atualizado": "2026-10-28T16:45",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-marabraz-rj/justica-aceita-pedido-de-recuperacao-judicial-da.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.3,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Marabraz entrou em recuperação judicial: dívida de [[vermelho:R$ 140 milhões]] e, em setembro, 86 das 111 lojas estavam fechadas. A Justiça deu 180 dias sem cobrança. Vai pagar móvel adiantado? [[verde:Só depois de ver se a loja está de pé.]]"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-marabraz-rj/print-folha-justica-aceita-pedido-de-recuper.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Folha (C-Level) — Justiça aceita pedido de recuperação judicial da Marabraz (28/10/2026): decisão de 27/10, 180 dias de proteção (stay period), Deloitte administradora judicial",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/justica-aceita-pedido-de-recuperacao-judicial-da-marabraz.shtml"
+    },
+    {
+      "titulo": "Economic News Brasil — Recuperação judicial da Marabraz protege rede contra cobranças após 86 lojas fecharem (28/10/2026): dívidas de R$ 140 milhões; 86 de 111 lojas fechadas em setembro",
+      "url": "https://economicnewsbrasil.com.br/2026/10/28/recuperacao-judicial-da-marabraz-lojas-fechadas/"
+    },
+    {
+      "titulo": "ND Mais — Lojas Marabraz pede recuperação judicial após R$ 140 milhões de dívidas",
+      "url": "https://ndmais.com.br/economia/lojas-marabraz-pedido-recuperacao-judicial-divida-140-milhoes/"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "sug-video-nikolas-pedro-rousseff-passaporte",
+  "titulo": "Nikolas chama Pedro Rousseff de “imbecil” e “jacu” após pedido do passaporte (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T00:40",
+  "atualizado": "2026-10-28T00:40",
+  "video_url": "https://www.instagram.com/reel/DfA917gxAHP/",
+  "trecho_txt": "0:00 a 0:22 do Reel do Nikolas (27/10, 19h48), gravado da reprodução no YouTube (WEOvd394Plo), recorte só do vídeo dele",
+  "trecho": {
+    "inicio": "Eu sou obrigado a ler que esse imbecil",
+    "fim": "sobrinho da Dilma.",
+    "gancho": false,
+    "crop": [
+      790,
+      1190,
+      145,
+      460
+    ],
+    "enquadrar": false,
+    "abertura": "compartilha",
+    "trilha": "tensao - dark tension (OpenMindAudio, Pixabay).mp3",
+    "trocar_palavras": {
+      "Nicolas": "Nikolas",
+      "aprender": "apreender"
+    },
+    "texto": "Eu sou obrigado a ler que esse imbecil, esse jacu, tá pedindo aí a apreensão do meu passaporte. E pelo quê? Por nada. O motivo é porque o Flávio saiu e aí tem que também apreender o passaporte do Nikolas, né? Porque a ânsia deles aparecerem na mídia é muito grande. Então toma aí seus 30 segundos aí de fama, sobrinho da Dilma.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Eu sou obrigado a ler",
+        "texto": "27/10: Pedro Rousseff (PT) pediu à PGR o passaporte do Nikolas"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "O motivo é porque",
+        "texto": "Ele alega risco de fuga depois que o Flávio deixou o país"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Nikolas chama sobrinho da Dilma de ==“imbecil” e “jacu”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Nikolas Ferreira chamou o deputado eleito Pedro Rousseff (PT-MG) de “imbecil” e “jacu”.\n\nO motivo: na terça (27/10/2026), o sobrinho-neto da Dilma pediu à Procuradoria-Geral da República que avalie reter o passaporte do Nikolas e proibir que ele deixe o país. O argumento é risco de fuga, depois que o Flávio Bolsonaro deixou o Brasil sem entregar os passaportes, como tinha mandado o ministro Alexandre de Moraes, do STF.\n\nNa resposta, em vídeo no Instagram na mesma noite, o Nikolas disse que o pedido é “por nada” e chamou de busca por “30 segundos de fama”.\n\nExagero ou precaução? Comenta aí.\n\nVídeo: reprodução @nikolasferreiradm (Instagram, 27/10/2026). Fontes: Metrópoles e Estadão (27/10/2026).\n\n#NikolasFerreira #PedroRousseff #FlavioBolsonaro #PGR #politica",
+  "fontes": [
+    {
+      "titulo": "@nikolasferreiradm (Instagram) — Reel “Ah pronto” (27/10/2026, 19h48)",
+      "url": "https://www.instagram.com/reel/DfA917gxAHP/"
+    },
+    {
+      "titulo": "@pedrorousseff (Instagram) — “Urgente!! Pedi a apreensão do passaporte do Nikolas Ferreira” (27/10/2026)",
+      "url": "https://www.instagram.com/reel/DfA3JGYzCaQ/"
+    },
+    {
+      "titulo": "Metrópoles — Com Flávio nos EUA, Pedro Rousseff pede apreensão do passaporte de Nikolas (27/10/2026)",
+      "url": "https://www.metropoles.com/minas-gerais/com-flavio-nos-eua-pedro-rousseff-pede-apreensao-do-passaporte-de-nikolas"
+    },
+    {
+      "titulo": "Metrópoles — “Imbecil”, reage Nikolas após Rousseff pedir apreensão de seu passaporte (27/10/2026)",
+      "url": "https://www.metropoles.com/minas-gerais/imbecil-reage-nikolas-apos-rousseff-pedir-apreensao-de-seu-passaporte"
+    },
+    {
+      "titulo": "Estadão — Pedro Rousseff pede à PGR confisco do passaporte de Nikolas Ferreira: ‘Poderia fugir do Brasil’ (27/10/2026)",
+      "url": "https://www.estadao.com.br/politica/pedro-rousseff-pede-a-pgr-confisco-do-passaporte-de-nikolas-ferreira-poderia-fugir-do-brasil/"
+    }
+  ],
+  "postado_em": "2026-10-28T11:00:00-03:00"
+}

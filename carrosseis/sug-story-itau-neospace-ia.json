@@ -1,0 +1,50 @@
+{
+  "id": "sug-story-itau-neospace-ia",
+  "titulo": "Story: no dia do circuit breaker, Itaú compra startup de IA por R$ 2,9 bi",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-26T11:45",
+  "atualizado": "2026-10-26T11:45",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-itau-neospace-ia/itau-itub4-desembolsa-r-2-925-bilhoes-para-compr.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.62,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "No dia em que a B3 acionou o circuit breaker, o Itaú anunciou [[verde:R$ 2,9 bilhões]] numa startup brasileira de inteligência artificial. Banco grande pensa em 5 anos, não no pregão de hoje."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-itau-neospace-ia/print-seu-dinheiro-itau-neospace.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Seu Dinheiro — Itaú (ITUB4) desembolsa R$ 2,925 bilhões para comprar NeoSpace (26/10/2026, 9h12)",
+      "url": "https://www.seudinheiro.com/2026/empresas/itau-itub4-desembolsa-2925-bilhoes-para-fortalecer-operacao-inteligencia-artificial-lmrs/"
+    },
+    {
+      "titulo": "Exame — Itaú compra startup brasileira de inteligência artificial por R$ 2,9 bilhões (26/10/2026)",
+      "url": "https://exame.com/invest/mercados/itau-compra-startup-brasileira-de-inteligencia-artificial-por-r-29-bilhoes/"
+    }
+  ],
+  "postado_em": "2026-10-26T15:00:00-03:00"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "sug-video-carlos-bolsonaro-assimilar",
+  "titulo": "Carlos Bolsonaro: “Desculpa, pai, a gente falhou” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T15:35",
+  "atualizado": "2026-10-28T16:00",
+  "trecho": {
+    "segundos": [
+      0.0,
+      28.4
+    ],
+    "legenda": false,
+    "sobrepor": false,
+    "aspa_manchete": "desculpa pai, a gente falhou",
+    "crop": [
+      600,
+      1080,
+      662,
+      0
+    ],
+    "enquadrar": false,
+    "preencher": false,
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "em": 1.0,
+        "texto": "28/10/2026: Carlos Bolsonaro, senador eleito (PL-SC), depois de visitar o pai",
+        "cor": "amarelo"
+      },
+      {
+        "em": 14,
+        "texto": "25/10: Flávio perdeu para o Lula. 28/10: chegou aos EUA",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Carlos Bolsonaro ao pai: ==“Desculpa, pai, a gente falhou”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Carlos Bolsonaro contou que se emocionou na frente do pai: “Eu falei: desculpa, pai, a gente falhou.”\n\nFoi em vídeo nas redes nesta quarta (28/10/2026), depois de passar duas horas com o Jair Bolsonaro. Segundo o Carlos, senador eleito (PL-SC), o pai “tá tentando assimilar tudo que tá acontecendo” e respondeu: “Negativo, levanta a cabeça, vambora.” No domingo (25/10), o Flávio Bolsonaro perdeu a eleição para o Lula; nesta quarta, chegou aos Estados Unidos depois de sair do país pela Argentina.\n\nO que você achou da reação do Jair? Comenta aí.\n\nVídeo: reprodução @carlosbolsonaro via Poder360 (28/10/2026). Fontes: Poder360 (28/10/2026).\n\n#CarlosBolsonaro #JairBolsonaro #FlavioBolsonaro #PL #politica",
+  "fontes": [
+    {
+      "titulo": "Poder360 — Bolsonaro ainda está tentando assimilar derrota de Flávio, diz Carlos (28/10/2026)",
+      "url": "https://www.youtube.com/watch?v=j4ljqmZlehY"
+    },
+    {
+      "titulo": "Poder360 — Avião com Flávio Bolsonaro chega aos EUA (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-internacional/aviao-com-flavio-bolsonaro-chega-aos-eua/"
+    }
+  ]
+}

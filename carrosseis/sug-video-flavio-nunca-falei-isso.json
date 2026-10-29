@@ -1,0 +1,77 @@
+{
+  "id": "sug-video-flavio-nunca-falei-isso",
+  "titulo": "Flávio, um dia antes de sair do país: “Eu nunca falei isso” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T15:05",
+  "atualizado": "2026-10-28T15:30",
+  "trecho": {
+    "inicio": "E no meio da rua, eu fui intimado a entregar os meus passaportes.",
+    "fim": "Eu nunca falei isso.",
+    "texto": "E no meio da rua, eu fui intimado a entregar os meus passaportes. E também estou proibido de deixar o país. A decisão do Alexandre de Moraes se baseou numa fala do Eduardo de 23 de outubro, que eu deveria deixar o país se eu perdesse a eleição. Eu nunca falei isso.",
+    "aspa_manchete": "Eu nunca falei isso",
+    "legenda": false,
+    "sobrepor": false,
+    "enquadrar": false,
+    "preencher": false,
+    "crop": [
+      1080,
+      1300,
+      0,
+      380
+    ],
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "em": 1.5,
+        "texto": "Vídeo de 26/10/2026",
+        "cor": "amarelo"
+      },
+      {
+        "em": 12.5,
+        "texto": "27/10: saiu do Brasil pela Argentina. 28/10: pousou em Miami",
+        "cor": "vermelho"
+      }
+    ],
+    "gancho": false,
+    "abertura": "esconder"
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Flávio, 1 dia antes de sair do país: ==“Eu nunca falei isso”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Flávio Bolsonaro, um dia antes de sair do país: “Eu nunca falei isso.”\n\nFoi em vídeo de 26/10/2026, sobre a fala do Eduardo de que ele deveria deixar o país se perdesse a eleição. No mesmo vídeo, ele contou que tinha sido intimado pela Polícia Federal a entregar os passaportes e que estava proibido de sair do Brasil, por decisão do ministro Alexandre de Moraes, do STF. Um dia depois, na noite de 27/10, entrou na Argentina por Puerto Iguazú com a mulher e as filhas. O avião pousou em Miami às 10h25 de 28/10. Segundo a CNN Brasil, ele entrou nos EUA com o passaporte diplomático que a PF tinha cancelado.\n\nMudou de ideia ou já estava decidido? Comenta aí.\n\nVídeo: reprodução Band Jornalismo / @flaviobolsonaro (26/10/2026). Fontes: Poder360 e CNN Brasil (28/10/2026).\n\n#FlavioBolsonaro #EduardoBolsonaro #AlexandreDeMoraes #STF #politica",
+  "fontes": [
+    {
+      "titulo": "Poder360 — Avião com Flávio Bolsonaro chega aos EUA (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-internacional/aviao-com-flavio-bolsonaro-chega-aos-eua/"
+    },
+    {
+      "titulo": "CNN Brasil — Flávio Bolsonaro entrou nos EUA com passaporte diplomático que PF cancelou (28/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/"
+    },
+    {
+      "titulo": "Instagram @flaviobolsonaro — Reel de 26/10/2026",
+      "url": "https://www.instagram.com/flaviobolsonaro/reel/De-DJrDp4K6/"
+    }
+  ]
+}

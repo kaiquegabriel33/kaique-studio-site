@@ -1,0 +1,68 @@
+{
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-20T20:10",
+  "atualizado": "2026-10-20T20:10",
+  "id": "sug-video-janones-atropelamos-redes",
+  "titulo": "Janones sai do hospital: “nós atropelamos a extrema direita nas redes” (vídeo)",
+  "video_url": "https://www.youtube.com/watch?v=Zw9a2mUknqQ",
+  "trecho_txt": "0:00 a 0:38 (TV Fórum)",
+  "trecho": {
+    "inicio": "Em 86% das pesquisas",
+    "fim": "acreditam na democracia no nosso país",
+    "legenda": false,
+    "sobrepor": false,
+    "texto": "Em 86% das pesquisas realizadas, quem está na frente nas pesquisas é porque está na frente nas redes. E nós atropelamos a extrema direita nas redes sociais, nós não só vencemos, nós atropelamos, nós tiramos eles das redes sociais, só que tiramos de uma forma democrática, não ameaçando, não intimidando, tiramos eles juntando o povo. Eu não gosto da expressão de bem, eu não acredito em cidadão de bem, eu não sou cidadão de bem, eu sou um cidadão. Que é, faz certo, como todos nós. Mas as pessoas que realmente acreditam na democracia, a gente conseguiu, né? As pessoas que acreditam na democracia no nosso país.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Em 86% das pesquisas",
+        "texto": "20/10: alta às 13h13, após arritmia (internado desde 19/10)"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "nós atropelamos",
+        "texto": "O “86% das pesquisas” é dado dele, sem fonte"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Janones: ==“nós atropelamos a extrema direita nas redes”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Janones saiu do hospital nesta terça (20/10) dizendo que a esquerda “atropelou a extrema direita nas redes sociais”.\n\nEle estava internado desde segunda (19/10) com arritmia e teve alta às 13h13. Na saída, disse que quem lidera nas redes lidera nas pesquisas, citou “86% das pesquisas” sem dizer de onde vem o número e completou: “eu não sou cidadão de bem, eu sou um cidadão”.\n\nNo mesmo dia, o vídeo do Nikolas sobre o Nordeste passou de dezenas de milhões de visualizações no Instagram.\n\nQuem está ganhando as redes nesta eleição? Comenta aí.\n\nVídeo: Revista Fórum (20/10/2026). Fontes: Revista Fórum e Tribuna do Sertão (20/10/2026).\n\n#Janones #Lula #redessociais #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Fórum (YouTube) — Janones deixa hospital e retoma Exército do Lula (20/10/2026)",
+      "url": "https://www.youtube.com/watch?v=Zw9a2mUknqQ"
+    },
+    {
+      "titulo": "Revista Fórum — Janones deixa hospital e destaca retomada das redes sociais (20/10/2026)",
+      "url": "https://revistaforum.com.br/politica/janones-deixa-hospital-redes-sociais-extrema-direita/"
+    },
+    {
+      "titulo": "Tribuna do Sertão — Janones sai hoje do hospital, logo após as 13 horas (20/10/2026)",
+      "url": "https://www.tribunadosertao.com.br/vida-e-saude/2026/10/20/1001209-janones-sai-hoje-do-hospital-logo-apos-as-13-horas-diz-medica-do-deputado"
+    }
+  ],
+  "postado_em": "2026-10-21T10:00:00-03:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-fmi-ia-empregos",
+  "titulo": "Story: o tsunami da IA nos empregos",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-12T20:05",
+  "atualizado": "2026-10-13T08:35",
+  "legenda": "",
+  "comentario": "Tsunami em câmera lenta: é assim que a chefe do FMI vê a IA sobre os empregos, e quem está começando sente primeiro. Se o seu salário travar, sua reserva aguenta quanto tempo?",
+  "repost_url": "https://c-level.folha.uol.com.br/ia/2026/10/chefe-do-fmi-se-diz-alarmada-com-o-tsunami-em-camera-lenta-da-ia-sobre-empregos-e-impostos.shtml",
+  "fontes": [
+    {
+      "titulo": "Folha/Bloomberg — Chefe do FMI se diz alarmada com o tsunami em câmera lenta da IA sobre empregos e impostos (12/10/2026)",
+      "url": "https://c-level.folha.uol.com.br/ia/2026/10/chefe-do-fmi-se-diz-alarmada-com-o-tsunami-em-camera-lenta-da-ia-sobre-empregos-e-impostos.shtml"
+    },
+    {
+      "titulo": "CNBC — IMF warns of AI 'tsunami' for job seekers (12/10/2026, reunião anual do FMI e do Banco Mundial em Bangcoc)",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "elementos": [
+        {
+          "texto": "Tsunami em câmera lenta: é assim que a chefe do FMI vê a IA sobre os empregos, e quem está começando sente primeiro. Se o seu salário travar, sua reserva aguenta quanto tempo?",
+          "tipo": "caixa_story"
+        },
+        {
+          "ajuste": "conter",
+          "borda": false,
+          "h": 560,
+          "raio": 18,
+          "src": "midia/sug-story-fmi-ia-empregos/print-folha-chefe-do-fmi-se-diz-alarmada-com.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro"
+    }
+  ],
+  "postado_em": "2026-10-13T11:33:52.631Z"
+}

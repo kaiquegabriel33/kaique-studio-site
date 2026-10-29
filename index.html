@@ -1,0 +1,881 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#f3f3f1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Kaique Studio">
+<link rel="apple-touch-icon" href="marca/foto_kaique_original.png">
+<title>Kaique Studio</title>
+<link rel="stylesheet" href="fontes.css">
+<style>
+  /* Layout: lista de carrosséis → leitor de uma coluna, que desliza como no Instagram. */
+  :root {
+    --fundo: #f3f3f1; --superficie: #ffffff; --tinta: #111111; --suave: #5d5d5a; --linha: #dcdcd7;
+    --marca: #ffe873; --ok: #1f7a3d; --alerta: #b42318;
+    --fonte: Montserrat, system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --fundo: #121212; --superficie: #1c1c1b; --tinta: #f2f2ef; --suave: #a6a6a1;
+      --linha: #33332f; --marca: #6b5a00; --ok: #6fd391; --alerta: #ff8a7a; color-scheme: dark; }
+  }
+  :root[data-theme="dark"] { --fundo: #121212; --superficie: #1c1c1b; --tinta: #f2f2ef; --suave: #a6a6a1;
+    --linha: #33332f; --marca: #6b5a00; --ok: #6fd391; --alerta: #ff8a7a; color-scheme: dark; }
+
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  html, body { margin: 0; }
+  body { background: var(--fundo); color: var(--tinta); font-family: var(--fonte); font-size: 15px; line-height: 1.45;
+         padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px); }
+  button, a.botao, span.botao { font: inherit; font-weight: 700; font-size: 14px; border-radius: 999px; padding: 11px 18px; cursor: pointer;
+    border: 1.5px solid var(--tinta); background: var(--tinta); color: var(--fundo); text-decoration: none; display: inline-flex;
+    align-items: center; justify-content: center; gap: 6px; min-height: 44px; }
+  button.sec, a.botao.sec { background: transparent; color: var(--tinta); }
+  button:disabled { opacity: .45; cursor: default; }
+  button:focus-visible, a:focus-visible, textarea:focus-visible, input:focus-visible, select:focus-visible,
+  .trilho:focus-visible, h1:focus-visible { outline: 3px solid var(--tinta); outline-offset: 2px; }   /* o amarelo some no fundo claro */
+
+  .barra { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; display: flex; align-items: center; gap: 12px;
+    padding: 12px 16px; background: color-mix(in srgb, var(--fundo) 92%, transparent); backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--linha); }
+  .barra h1 { margin: 0; font-size: 17px; font-weight: 800; letter-spacing: -.01em; flex: 1; min-width: 0;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .barra .voltar { padding: 8px 14px; min-height: 40px; }
+  .conteudo { max-width: 1100px; margin: 0 auto; padding: 18px 16px 48px; }
+
+  /* lista */
+  .grade { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+  /* lista de postar: uma linha por post */
+  .lista-postar { display: grid; gap: 10px; max-width: 720px; margin: 0 auto; }
+  .secao-site { margin: 12px 0 0; font-size: 13px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--suave); }
+  .item-postar { display: grid; grid-template-columns: 72px minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 10px;
+    background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; color: var(--tinta); text-decoration: none; }
+  .item-postar canvas { width: 72px; height: auto; aspect-ratio: 4 / 5; object-fit: contain; border-radius: 6px; background: var(--linha); }
+  .item-texto { display: grid; gap: 2px; min-width: 0; }
+  .item-texto strong { font-size: 15px; line-height: 1.3; }
+  .item-botao { min-height: 40px; padding: 8px 14px; font-size: 14px; white-space: nowrap; }
+  .ja-postados { margin-top: 8px; background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 10px 14px; }
+  .ja-postados summary { font-weight: 700; cursor: pointer; min-height: 32px; }
+  .ja-postados ul { margin: 6px 0 0; padding-left: 18px; display: grid; gap: 6px; }
+  .ja-postados a { color: var(--tinta); font-weight: 600; }
+  .card { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 8px; text-align: left;
+    color: inherit; cursor: pointer; display: flex; flex-direction: column; gap: 8px; min-width: 0; font: inherit; }
+  .card canvas { width: 100%; aspect-ratio: 4 / 5; height: auto; object-fit: contain; border-radius: 8px; display: block; background: var(--linha); }
+  .card .t { font-weight: 700; font-size: 13.5px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .m { display: flex; justify-content: space-between; align-items: center; gap: 6px; color: var(--suave); font-size: 12px; }
+  .pilula { font-size: 11px; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--linha); text-transform: lowercase; }
+  .pilula.pronto { border-color: var(--ok); color: var(--ok); }
+  .abas { display: flex; gap: 6px; margin-bottom: 16px; border-bottom: 1px solid var(--linha); }
+  .abas a { padding: 10px 14px; font-weight: 700; font-size: 14px; color: var(--suave); text-decoration: none; border-bottom: 3px solid transparent; margin-bottom: -1px; }
+  .abas a[aria-current="page"] { color: var(--tinta); border-bottom-color: var(--tinta); }
+  .secao-radar { margin: 18px 0 8px; }
+  .secao-radar h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 0 0 10px; }
+  .lista-pautas { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+  .pauta { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 14px; display: grid; gap: 8px; min-width: 0; }
+  .pauta-t { font-weight: 700; color: var(--tinta); text-decoration: none; line-height: 1.35; overflow-wrap: anywhere; }
+  .pauta-m { margin: 0; font-size: 12.5px; color: var(--suave); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .pilula.video { border-color: var(--alerta); color: var(--alerta); }
+  .pauta .acoes button, .pauta .acoes a.botao { flex: 1 1 120px; min-height: 40px; padding: 8px 14px; }
+  #aviso { position: fixed; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); transform: translate(-50%, 20px);
+    width: min(560px, calc(100% - 32px)); background: var(--tinta); color: var(--fundo); border-radius: 14px; padding: 12px 14px;
+    font-size: 14px; display: flex; gap: 12px; align-items: center; justify-content: space-between; opacity: 0; pointer-events: none;
+    transition: opacity .2s, transform .2s; z-index: 20; }
+  #aviso.visivel { opacity: 1; transform: translate(-50%, 0); pointer-events: auto; }
+  #aviso a { color: var(--fundo); font-weight: 800; white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) { #aviso { transition: none; } }
+  .vazio { color: var(--suave); padding: 40px 0; text-align: center; }
+  .dica { margin-top: 26px; color: var(--suave); font-size: 13.5px; border-top: 1px solid var(--linha); padding-top: 16px; }
+
+  /* leitor */
+  .leitor { display: grid; grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  @media (min-width: 900px) { .leitor { grid-template-columns: minmax(0, 520px) minmax(0, 1fr); align-items: start; } }
+  .palco { position: relative; }
+  .trilho { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; border-radius: 10px; scrollbar-width: none;
+    background: var(--linha); }
+  .trilho::-webkit-scrollbar { display: none; }
+  .trilho canvas { flex: 0 0 100%; width: 100%; height: auto; scroll-snap-align: start; display: block; }
+  .video-palco canvas { width: 100%; height: auto; display: block; border-radius: 10px; background: #000; }
+  .campos { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .campos label { font-size: 12px; font-weight: 700; color: var(--suave); display: grid; gap: 4px; }
+  .campos input { font: inherit; padding: 9px 10px; border-radius: 10px; border: 1px solid var(--linha); background: var(--fundo); color: var(--tinta); min-width: 0; }
+  .arquivo { display: grid; gap: 6px; }
+  .arquivo input { font: inherit; font-size: 14px; max-width: 100%; }
+  progress { width: 100%; height: 10px; }
+  .camada-editor { position: absolute; top: 0; left: 0; touch-action: none; cursor: move; z-index: 2; }
+  .palco.editando .trilho { overflow-x: hidden; }
+  .editor select, .editor input { font: inherit; font-size: 14px; padding: 8px 10px; border-radius: 10px; border: 1px solid var(--linha); background: var(--fundo); color: var(--tinta); width: 100%; }
+  .editor h2 { margin-top: 14px; }
+  .contador { position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,.62); color: #fff; font-size: 12px; font-weight: 700;
+    padding: 3px 10px; border-radius: 999px; }
+  .pontos { display: flex; justify-content: center; gap: 6px; margin-top: 10px; }
+  /* ponto de 8 px, mas a área de toque tem 28 px */
+  .pontos { gap: 0; }
+  .pontos button { width: 28px; height: 28px; min-height: 0; padding: 0; border: none; background: none; display: grid; place-items: center; }
+  .pontos button::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--linha); }
+  .pontos button[aria-current="true"]::before { background: var(--tinta); }
+  .alerta { color: var(--alerta); font-size: 13px; font-weight: 700; margin-top: 8px; }
+  .acoes { display: flex; flex-wrap: wrap; gap: 8px; }
+  .acoes button, .acoes a.botao { flex: 1 1 150px; }
+  .lado { display: flex; flex-direction: column; gap: 18px; min-width: 0; }
+  .bloco { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 14px 16px; min-width: 0; }
+  .bloco h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 0 0 8px; font-weight: 700; }
+  .legenda { white-space: pre-wrap; font-size: 14.5px; margin: 0; overflow-wrap: anywhere; }
+  .fontes { margin: 0; padding-left: 18px; font-size: 13.5px; }
+  .fontes a { color: var(--tinta); overflow-wrap: anywhere; }
+  .status { font-size: 13px; color: var(--suave); min-height: 1.3em; }
+  details summary { cursor: pointer; font-weight: 700; }
+  .edicao { display: grid; gap: 12px; margin-top: 12px; }
+  .edicao label { font-size: 12px; font-weight: 700; color: var(--suave); display: block; margin-bottom: 4px; }
+  .edicao textarea { width: 100%; min-height: 84px; font: inherit; font-size: 14px; padding: 10px; border-radius: 10px;
+    border: 1px solid var(--linha); background: var(--fundo); color: var(--tinta); resize: vertical; }
+  .nota { font-size: 12.5px; color: var(--suave); }
+  .barra .central { padding: 8px 14px; min-height: 40px; font-size: 13px; white-space: nowrap; flex: 0 0 auto; }
+  .barra .central .curto { display: none; }
+  @media (max-width: 520px) {
+    .barra { gap: 8px; padding: 10px 12px; }
+    .barra h1 { font-size: 15.5px; }
+    .barra .voltar { padding: 6px 10px; min-height: 36px; font-size: 13px; }
+    .barra .central { padding: 6px 12px; min-height: 36px; }
+    .barra .central .longo { display: none; }
+    .barra .central .curto { display: inline; }
+  }
+  .intro { background: var(--superficie); border: 1px solid var(--linha); border-radius: 14px; padding: 14px 16px; margin-bottom: 18px; }
+  .intro h2 { margin: 0 0 8px; font-size: 16px; }
+  .intro ol { margin: 0 0 10px; padding-left: 20px; line-height: 1.6; }
+  .intro button { min-height: 36px; padding: 6px 14px; font-size: 13px; }
+  .titulo-secao { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave); margin: 4px 0 12px; }
+  .pilula.postado { border-color: var(--suave); color: var(--suave); }
+  .card.postado .t { color: var(--suave); }   /* sem opacidade: a data continua legível */
+  .passo { display: grid; gap: 10px; }
+  .passo + .passo { border-top: 1px solid var(--linha); padding-top: 14px; }
+  .passo h2 { display: flex; gap: 10px; align-items: center; text-transform: none; letter-spacing: 0; font-size: 15px; color: var(--tinta); margin: 0; }
+  .passo h2 .n { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: var(--tinta); color: var(--fundo); font-size: 13px; flex: 0 0 26px; }
+  .passo .grande { width: 100%; min-height: 52px; font-size: 15.5px; }
+  .legenda-curta { white-space: pre-wrap; font-size: 14px; margin: 0; color: var(--suave); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .mais summary { padding: 4px 0; }
+  .mais[open] summary { margin-bottom: 12px; }
+  .mais .bloco { margin-top: 12px; }
+  @media (prefers-reduced-motion: reduce) { .trilho { scroll-behavior: auto; } }
+  h1:focus { outline: none; }
+</style>
+</head>
+<body>
+<header class="barra">
+  <button class="sec voltar" id="voltar" hidden>← Voltar</button>
+  <h1 id="titulo" tabindex="-1">Kaique Studio</h1>
+  <a class="botao sec central" href="https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys" target="_blank" rel="noopener"><span class="longo">Voltar para a Central</span><span class="curto">Central</span> ↗</a>
+</header>
+<main class="conteudo" id="app"><p class="vazio">Carregando carrosséis…</p></main>
+<div id="aviso" role="status" aria-live="polite"></div>
+
+<script src="vendor/jszip.min.js"></script>
+<script src="render.js"></script>
+<script>
+(function () {
+  'use strict';
+  const R = window.KSRender;
+  const app = document.getElementById('app');
+  const titulo = document.getElementById('titulo');
+  const voltar = document.getElementById('voltar');
+  const LOCAL = ['localhost', '127.0.0.1'].includes(location.hostname);
+  let indice = [];
+  const cache = new Map();
+  const reduzMovimento = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const toque = matchMedia('(pointer: coarse)').matches;   // celular: menu de compartilhar; PC: baixa direto
+  let navegacao = 0;          // cada troca de tela ganha um número; tela antiga que termina de carregar não desenha
+  let sairTela = null;        // limpeza da tela atual (vídeo tocando, laços, memória)
+
+  // link vindo de dado (fontes, radar) nunca vira "javascript:"
+  const linkSeguro = (v) => {
+    try { return ['http:', 'https:', 'blob:', 'instagram:'].includes(new URL(v, location.href).protocol) ? v : '#'; }
+    catch { return '#'; }
+  };
+  const el = (tag, props = {}, ...filhos) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(props)) {
+      if (k === 'class') n.className = v; else if (k === 'text') n.textContent = v;
+      else if (k.startsWith('on')) n.addEventListener(k.slice(2), v);
+      else n.setAttribute(k, k === 'href' ? linkSeguro(v) : v);
+    }
+    for (const f of filhos) if (f) n.append(f);
+    return n;
+  };
+  const dataBR = (s) => { if (!s) return ''; const [a, m, d] = s.slice(0, 10).split('-'); return d ? `${d}/${m}/${a}` : s; };
+  const semCache = () => `?v=${Date.now()}`;
+  const carregarScript = (src) => new Promise((ok, erro) => {
+    if (document.querySelector(`script[data-src="${src}"]`)) return ok();
+    const s = document.createElement('script'); s.src = src + semCache(); s.dataset.src = src;
+    s.onload = ok; s.onerror = erro; document.head.append(s);
+  });
+
+  async function carregarIndice() {
+    const r = await fetch('carrosseis/index.json' + semCache());
+    if (!r.ok) throw new Error('índice não encontrado');
+    indice = await r.json();
+  }
+  async function carregarCarrossel(id) {
+    if (cache.has(id)) return cache.get(id);
+    const r = await fetch(`carrosseis/${encodeURIComponent(id)}.json` + semCache());
+    if (!r.ok) throw new Error('carrossel não encontrado');
+    const d = await r.json();
+    cache.set(id, d);
+    return d;
+  }
+
+  // ---------- lista ----------
+  // 14/10: "postado" mora só na Central (antes também ficava neste aparelho e desencontrava). O site espelha a
+  // Central pelo sincronizar_site.py: `postado_em` no índice.
+
+  // O site é só a ferramenta de postar: pedir, aprovar e ver resultados fica na Central.
+  // A lista mostra primeiro o que falta postar (uma linha por post, botão direto); os postados ficam recolhidos.
+  async function telaLista() {
+    // volta à lista = busca de novo (ajuste novo, post novo); sem rede, fica com o que já tinha
+    cache.clear();
+    try { await carregarIndice(); } catch { /* segue com o índice anterior */ }
+    titulo.textContent = 'Postar';
+    voltar.hidden = true;
+    document.title = 'Postar · Kaique Studio';
+    app.innerHTML = '';
+    const foi = (x) => !!x.postado_em;
+    const recentes = (a, b) => String(b.atualizado).localeCompare(String(a.atualizado));
+    const aPostar = indice.filter((x) => !foi(x)).sort(recentes);
+    const jaFoi = indice.filter(foi).sort((a, b) => String(b.postado_em || '').localeCompare(String(a.postado_em || '')));
+    const caixa = el('div', { class: 'lista-postar' });
+    caixa.append(el('p', { class: 'nota', text: 'Aqui você só posta. Pedir, aprovar e ver os resultados fica na Central.' }));
+    caixa.append(el('h2', { class: 'secao-site', text: aPostar.length ? `Para postar (${aPostar.length})` : 'Para postar' }));
+    if (!aPostar.length) caixa.append(el('p', { class: 'vazio', text: 'Nada esperando para postar. O que você aprovar na Central aparece aqui.' }));
+    const tipoDe = (it) => it.formato === 'video' ? 'Vídeo' : it.formato === 'story' ? 'Story'
+      : it.paginas > 1 ? `Carrossel · ${it.paginas} páginas` : 'Post de 1 página';
+    const minha = navegacao;
+    await R.carregarFontes();
+    if (minha !== navegacao) return;
+    for (const it of aPostar) {
+      const cv = el('canvas', { width: '192', height: '240', 'aria-hidden': 'true' });
+      caixa.append(el('a', { class: 'item-postar', href: '#/c/' + it.id },
+        cv,
+        el('span', { class: 'item-texto' }, el('strong', { text: it.titulo }), el('span', { class: 'nota', text: `${tipoDe(it)} · aprovado ${dataBR(it.atualizado)}` })),
+        el('span', { class: 'botao item-botao', text: 'Postar ›' })));
+      miniatura(it.id, cv);
+    }
+    if (jaFoi.length) {
+      const det = el('details', { class: 'ja-postados' }, el('summary', { text: `Já postados (${jaFoi.length})` }));
+      const ul = el('ul', {});
+      jaFoi.forEach((it) => ul.append(el('li', {}, el('a', { href: '#/c/' + it.id, text: it.titulo }),
+        el('span', { class: 'nota', text: it.postado_em ? ` · postado ${dataBR(it.postado_em)}` : ' · marcado como postado' }))));
+      det.append(ul);
+      caixa.append(det);
+    }
+    app.append(caixa);
+  }
+
+  const grande = document.createElement('canvas');
+  grande.width = R.W; grande.height = R.H;
+  async function miniatura(id, cv) {
+    try {
+      const d = await carregarCarrossel(id);
+      await R.preCarregar([d.slides[0]]);
+      grande.height = R.alturaDe(d.slides[0]);          // capa de Reels (9:16) também
+      cv.height = Math.round(cv.width * grande.height / grande.width);
+      R.desenharSlide(grande.getContext('2d'), d.slides[0]);
+      const ctx = cv.getContext('2d');
+      ctx.imageSmoothingQuality = 'high';
+      ctx.drawImage(grande, 0, 0, cv.width, cv.height);
+    } catch (e) { console.warn(e); }
+  }
+
+  // aviso flutuante: aparece onde a pessoa estiver, some sozinho
+  function aviso(texto, link) {
+    const t = document.getElementById('aviso');   // já existe desde o início: o leitor de tela anuncia o primeiro aviso
+    t.innerHTML = '';
+    t.append(el('span', { text: texto }));
+    if (link) t.append(el('a', { href: link, target: '_blank', rel: 'noopener', text: 'Abrir caixa' }));
+    t.classList.add('visivel');
+    clearTimeout(t._timer); t._timer = setTimeout(() => t.classList.remove('visivel'), 6000);
+  }
+
+  // ---------- radar ----------
+  // Lista o que o robô do GitHub coletou (Google Trends, Google Notícias e RSS
+  // dos veículos). "Quero esse" copia o pedido pronto para colar no Claude.
+  function abas(ativa) {
+    const nav = el('nav', { class: 'abas', 'aria-label': 'Seções' });
+    [['#/', 'Carrosséis'], ['#/radar', 'Radar de pautas'], ['https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys', 'Aprovar sugestões ↗']].forEach(([href, txt]) => {
+      const a = el('a', href.startsWith('http') ? { href, text: txt, target: '_blank', rel: 'noopener' } : { href, text: txt });
+      if (href === ativa) a.setAttribute('aria-current', 'page');
+      nav.append(a);
+    });
+    return nav;
+  }
+  const haQuanto = (iso) => {
+    if (!iso) return '';
+    const min = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
+    if (min < 60) return `há ${min} min`;
+    const h = Math.round(min / 60);
+    return h < 24 ? `há ${h} h` : `há ${Math.round(h / 24)} d`;
+  };
+
+  async function telaRadar() {
+    titulo.textContent = 'Radar de pautas';
+    voltar.hidden = false;
+    document.title = 'Radar de pautas · Kaique Studio';
+    app.innerHTML = '';
+    const status = el('p', { class: 'status', role: 'status' });
+    let dados;
+    try { dados = await (await fetch('radar/radar.json' + semCache())).json(); }
+    catch { app.append(el('p', { class: 'vazio', text: 'O radar ainda não tem dados. Ele atualiza de hora em hora.' })); return; }
+    const hora = dados.atualizado ? new Date(dados.atualizado).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }) : '';
+    app.append(el('p', { class: 'nota', text: `Atualizado em ${hora} · ${dados.fontes_ok} fontes · Google Trends, Google Notícias e RSS dos veículos.` }), status);
+
+    async function quero(p, botao) {
+      const txt = `Kaique Studio — faz um carrossel desta pauta: “${p.titulo}” (${p.veiculo}) ${p.url}`;
+      let ok = true;
+      try { await navigator.clipboard.writeText(txt); } catch { ok = false; }
+      botao.textContent = ok ? 'Pedido copiado ✓' : 'Use a caixa ↓';
+      setTimeout(() => { botao.textContent = 'Quero esse'; }, 3500);
+      aviso(ok ? 'Pedido copiado. Cole na conversa com o Claude — ou peça direto na caixa de aprovação (aba Radar).'
+               : 'Não deu para copiar aqui. Peça direto na caixa de aprovação (aba Radar).', 'https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys');
+    }
+    function cartaoPauta(p) {
+      const meta = [p.veiculo, haQuanto(p.publicado), p.veiculos > 1 ? `+${p.veiculos - 1} veículos` : ''].filter(Boolean).join(' · ');
+      const chips = el('div', { class: 'chips' });
+      (p.temas || []).forEach((t) => chips.append(el('span', { class: 'pilula', text: t })));
+      if (p.video) chips.append(el('span', { class: 'pilula video', text: 'vídeo' }));
+      else if (p.declaracao) chips.append(el('span', { class: 'pilula', text: 'declaração' }));
+      const bQuero = el('button', { text: 'Quero esse' });
+      bQuero.addEventListener('click', () => quero(p, bQuero));
+      const acoes = el('div', { class: 'acoes' }, bQuero,
+        el('a', { class: 'botao sec', href: p.url, target: '_blank', rel: 'noopener', text: 'Abrir matéria' }));
+      if ((p.video || p.declaracao) && p.busca_video) {
+        acoes.append(el('a', { class: 'botao sec', href: p.busca_video, target: '_blank', rel: 'noopener', text: 'Achar o vídeo' }));
+      }
+      return el('article', { class: 'pauta' },
+        el('a', { class: 'pauta-t', href: p.url, target: '_blank', rel: 'noopener', text: p.titulo }),
+        el('p', { class: 'pauta-m', text: meta }), chips, acoes);
+    }
+    function secao(nome, itens, montar) {
+      if (!itens || !itens.length) return;
+      const lista = el('div', { class: 'lista-pautas' });
+      itens.forEach((i) => lista.append(montar(i)));
+      app.append(el('section', { class: 'secao-radar' }, el('h2', { text: nome }), lista));
+    }
+    secao('Em alta no Google agora', dados.em_alta, (t) => {
+      const n = (t.noticias || [])[0] || {};
+      return cartaoPauta({ titulo: `${t.termo} — ${n.titulo || ''}`.trim(), url: n.url || 'https://trends.google.com/trending?geo=BR',
+        veiculo: `Google Trends ${t.trafego} buscas`, publicado: t.publicado, temas: t.temas, video: t.video, veiculos: 1 });
+    });
+    secao('Pautas do momento', (dados.pautas || []).filter((p) => !p.rotina).slice(0, 25), cartaoPauta);
+    secao('Declarações e vídeos repercutindo', dados.falas_e_videos, cartaoPauta);
+    app.append(el('p', { class: 'dica', text: '“Achar o vídeo” abre a busca do YouTube com quem falou e o assunto. Escolha um trecho curto, salve o vídeo e mande para o Claude junto com o seu comentário: ele monta o post com o crédito da fonte.' }));
+  }
+
+  // ---------- leitor ----------
+  async function telaCarrossel(id) {
+    voltar.hidden = false;
+    app.innerHTML = '<p class="vazio">Montando as páginas…</p>';
+    const minha = navegacao;
+    let d;
+    try { d = structuredClone(await carregarCarrossel(id)); }
+    catch {
+      if (minha === navegacao) {
+        // quase sempre é o site ainda atualizando (leva ~1 min depois de aprovar)
+        app.innerHTML = '';
+        app.append(el('div', { class: 'vazio' },
+          el('p', { text: 'Ainda não chegou aqui. Se você acabou de aprovar, o site leva cerca de 1 minuto para atualizar.' }),
+          el('button', { class: 'grande', text: 'Tentar de novo', onclick: () => telaCarrossel(id) })));
+      }
+      return;
+    }
+    if (minha !== navegacao) return;                     // a pessoa já voltou para a lista
+    titulo.textContent = d.titulo || id;
+    document.title = (d.titulo || id) + ' · Kaique Studio';
+    const fontesOk = await R.carregarFontes();
+    const falhas = await R.preCarregar(d.slides);
+    if (minha !== navegacao) return;
+    const problemaCarga = !fontesOk || falhas.length
+      ? 'Uma imagem ou fonte não carregou (internet instável?). Atualize a página antes de salvar.' : '';
+    if (d.formato === 'video') return telaVideo(d, problemaCarga);
+
+    const trilho = el('div', { class: 'trilho', role: 'region', tabindex: '0', 'aria-label': 'Páginas do carrossel. Use as setas para trocar de página.' });
+    trilho.addEventListener('keydown', (ev) => {
+      if (ev.key === 'ArrowRight') { ev.preventDefault(); irPara(Math.min(d.slides.length - 1, atual + 1)); }
+      if (ev.key === 'ArrowLeft') { ev.preventDefault(); irPara(Math.max(0, atual - 1)); }
+    });
+    const contador = el('span', { class: 'contador', text: `1/${d.slides.length}` });
+    const pontos = el('div', { class: 'pontos' });
+    let canvases = [], pontosBtns = [];
+    // (re)monta uma tela por página — o editor chama de novo quando muda a ordem ou a quantidade
+    function montarPaginas() {
+      trilho.innerHTML = ''; pontos.innerHTML = '';
+      canvases = d.slides.map((s, i) => {
+        const c = el('canvas', { width: String(R.W), height: String(R.alturaDe(s)), role: 'img',
+          'aria-label': `Página ${i + 1} de ${d.slides.length}: ${R.textoDoSlide(s)}` });
+        trilho.append(c);
+        return c;
+      });
+      pontosBtns = d.slides.map((_, i) => {
+        const b = el('button', { 'aria-label': `Ir para a página ${i + 1}`, onclick: () => irPara(i) });
+        pontos.append(b); return b;
+      });
+    }
+    montarPaginas();
+    const alerta = el('p', { class: 'alerta', hidden: '' });
+    let atual = 0;
+    function irPara(i, suave = true) { trilho.scrollTo({ left: i * trilho.clientWidth, behavior: suave && !reduzMovimento ? 'smooth' : 'auto' }); atual = i; marcar(); }
+    trilho.addEventListener('scroll', () => {
+      const i = Math.round(trilho.scrollLeft / Math.max(1, trilho.clientWidth));
+      if (i !== atual) { atual = i; marcar(); }
+    }, { passive: true });
+    function marcar() {
+      contador.textContent = `${atual + 1}/${d.slides.length}`;
+      pontosBtns.forEach((b, i) => b.setAttribute('aria-current', i === atual ? 'true' : 'false'));
+    }
+    function desenhar(i) {
+      const lay = R.desenharSlide(canvases[i].getContext('2d'), d.slides[i]);
+      return lay;
+    }
+    function desenharTudo() {
+      const estouro = [];
+      d.slides.forEach((s, i) => {
+        if (desenhar(i).estoura) estouro.push(i + 1);
+        canvases[i].setAttribute('aria-label', `Página ${i + 1} de ${d.slides.length}: ${R.textoDoSlide(s)}`);
+      });
+      const msgs = [];
+      if (estouro.length) msgs.push(`Atenção: página ${estouro.join(', ')} passa da área útil.`);
+      if (problemaCarga) msgs.push(problemaCarga);
+      alerta.hidden = !msgs.length;
+      alerta.textContent = msgs.join(' ');
+      prepararImagens();
+    }
+    // As imagens ficam prontas antes do toque em "Salvar": no iPhone o menu de compartilhar
+    // só abre se for chamado logo depois do toque.
+    let imagensProntas = null, tPreparo = 0;
+    function prepararImagens() {
+      imagensProntas = null;
+      clearTimeout(tPreparo);
+      tPreparo = setTimeout(() => { imagensProntas = blobs(); imagensProntas.catch(() => { imagensProntas = null; }); }, 400);
+    }
+    sairTela = () => { clearTimeout(tPreparo); canvases.forEach((c) => { c.width = 0; c.height = 0; }); };   // devolve a memória dos canvas
+    desenharTudo(); marcar();
+
+    const status = el('p', { class: 'status', role: 'status' });
+    const nomeArq = (i) => `${id}-${String(i + 1).padStart(2, '0')}.png`;
+    const blobs = () => Promise.all(canvases.map((c) => R.canvasParaBlob(c)));
+
+    let legendaCopiada = false;
+    async function salvarNoCelular() {
+      // a legenda vai para a área de transferência no mesmo toque (o celular só deixa copiar dentro do toque)
+      if (d.legenda && !legendaCopiada) navigator.clipboard.writeText(d.legenda).then(() => { legendaCopiada = true; }, () => {});
+      status.textContent = 'Preparando as imagens…';
+      let bs;
+      try { bs = await (imagensProntas || blobs()); }
+      catch { status.textContent = 'O celular ficou sem memória para gerar as imagens. Feche outras abas e atualize a página.'; return; }
+      const arquivos = bs.map((b, i) => new File([b], nomeArq(i), { type: 'image/png' }));
+      if (toque && navigator.canShare && navigator.canShare({ files: arquivos })) {
+        try {
+          await navigator.share({ files: arquivos, title: d.titulo || id });
+          status.textContent = legendaCopiada
+            ? 'Legenda copiada. Se escolheu o Instagram: na legenda, segure e toque em Colar. Se salvou nas Fotos: toque em “Abrir o Instagram”.'
+            : 'Pronto. Agora toque em “Copiar legenda” e cole no Instagram.';
+        } catch (e) {
+          status.textContent = e && e.name === 'AbortError' ? 'Cancelado.'
+            : e && e.name === 'NotAllowedError' ? 'Toque de novo em “Postar no Instagram” para abrir o menu.'
+            : 'Não deu para abrir o compartilhamento. Use “Baixar ZIP”.';
+        }
+        return;
+      }
+      bs.forEach((b, i) => baixar(b, nomeArq(i)));
+      status.textContent = toque ? 'Imagens baixadas (este navegador não tem o menu de compartilhar).'
+        : `Imagens na pasta Downloads${legendaCopiada ? ' e legenda copiada' : ''} (se o navegador perguntar, permita baixar vários arquivos). Agora toque em “Abrir o Instagram”, clique em Criar (+), escolha as imagens e cole a legenda (Ctrl+V).`;
+    }
+    function baixar(blob, nome) {
+      const a = el('a', { href: URL.createObjectURL(blob), download: nome });
+      document.body.append(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    }
+    async function baixarZip() {
+      status.textContent = 'Montando o ZIP…';
+      const zip = new JSZip();
+      let bs;
+      try { bs = await (imagensProntas || blobs()); }
+      catch { status.textContent = 'Sem memória para gerar as imagens. Atualize a página e tente de novo.'; return; }
+      bs.forEach((b, i) => zip.file(nomeArq(i), b));
+      if (d.legenda) zip.file('legenda.txt', d.legenda + '\n');
+      baixar(await zip.generateAsync({ type: 'blob' }), `${id}.zip`);
+      status.textContent = 'ZIP baixado.';
+    }
+    async function copiar(texto, ok) {
+      try { await navigator.clipboard.writeText(texto); status.textContent = ok; return true; }
+      catch { status.textContent = 'Não deu para copiar automaticamente: abra “Legenda completa” em Mais opções, selecione e copie.'; return false; }
+    }
+
+    const n = d.slides.length;
+    const passos = el('div', { class: 'bloco' });
+    function passo(numero, rotulo, ...filhos) {
+      return el('section', { class: 'passo' }, el('h2', {}, el('span', { class: 'n', text: String(numero) }), el('span', { text: rotulo })), ...filhos);
+    }
+    const bSalvar = el('button', { class: 'grande', text: toque ? 'Postar no Instagram' : (n > 1 ? `Baixar as ${n} imagens e copiar a legenda` : 'Baixar a imagem e copiar a legenda') });
+    bSalvar.addEventListener('click', salvarNoCelular);
+    passos.append(toque
+      ? passo(1, 'Mande para o Instagram', bSalvar,
+          el('p', { class: 'nota', text: `A legenda já vai copiada. No menu, toque em Instagram (as ${n} imagens entram juntas) e cole a legenda. Se o Instagram não aparecer, toque em “Salvar imagens”.` }))
+      : passo(1, 'Baixe as imagens', bSalvar));
+    if (d.legenda) {
+      const bLeg = el('button', { class: 'grande sec', text: 'Copiar legenda' });
+      bLeg.addEventListener('click', async () => { if (await copiar(d.legenda, 'Legenda copiada. Agora é só colar no Instagram.')) bLeg.textContent = 'Legenda copiada ✓'; });
+      passos.append(passo(2, toque ? 'Se precisar, copie a legenda de novo' : 'Copie a legenda', el('p', { class: 'legenda-curta', text: d.legenda }), bLeg));
+    }
+    const bPostei = el('p', { class: 'nota', text: 'Postou? Marque na Central (Postar › Já postei): ela avisa este site.' });
+    passos.append(passo(d.legenda ? 3 : 2, toque ? 'Salvou nas Fotos? Poste pelo Instagram' : 'Poste',
+      el('p', { class: 'nota', text: toque ? 'No Instagram, escolha as imagens na galeria e, no corte, toque em 4:5 para não perder o topo.'
+        : 'No Instagram (web): Criar (+) › Postar › escolha as imagens da pasta Downloads › no corte, 4:5 › cole a legenda.' }),
+      el('div', { class: 'acoes' },
+        // celular abre o app; no computador, o Instagram na web (Criar › escolher as imagens › colar a legenda)
+        toque ? el('a', { class: 'botao', href: 'instagram://app', text: 'Abrir o Instagram' })
+          : el('a', { class: 'botao', href: 'https://www.instagram.com/', target: '_blank', rel: 'noopener', text: 'Abrir o Instagram' }),
+        bPostei)));
+    passos.append(status);
+
+    const bStory = el('button', { class: 'sec', text: 'Story de divulgação' });
+    bStory.addEventListener('click', () => storyDivulgacao(d, canvases[0], status));
+    const acoes = el('div', { class: 'acoes' },
+      bStory,
+      el('button', { class: 'sec', onclick: baixarZip, text: 'Baixar tudo (ZIP)' }));
+    if (LOCAL) {
+      acoes.append(el('button', { class: 'sec', onclick: () => conferirLocal(id, canvases, status), text: 'Exportar e conferir (local)' }));
+      const btnEditar = el('button', { class: 'sec', text: 'Editar (computador)' });
+      btnEditar.addEventListener('click', async () => {
+        btnEditar.disabled = true;
+        await carregarScript('editor.js');
+        window.__ksEditor = KSEditor.abrir({
+          d, el, trilho, palco: document.querySelector('.palco'), lado,
+          canvases: new Proxy([], { get: (_, k) => canvases[k] }),
+          paginaAtual: () => atual,
+          irPara: (i) => irPara(i, false),
+          redesenhar: (i) => { const lay = desenhar(i); prepararImagens(); return lay; },
+          aoMudarPaginas: () => { montarPaginas(); atual = Math.min(atual, d.slides.length - 1); marcar(); prepararImagens(); },
+        });
+        document.querySelector('.palco').classList.add('editando');
+      });
+      acoes.append(btnEditar);
+    }
+
+    const lado = el('div', { class: 'lado' });
+    lado.append(passos);
+    const mais = el('details', { class: 'mais' }, el('summary', { text: 'Mais opções' }));
+    mais.append(acoes);
+    if (d.legenda) mais.append(el('section', { class: 'bloco' }, el('h2', { text: 'Legenda completa' }), el('p', { class: 'legenda', text: d.legenda })));
+    if (Array.isArray(d.fontes) && d.fontes.length) {
+      const ul = el('ul', { class: 'fontes' });
+      d.fontes.forEach((f) => ul.append(el('li', {}, f.url ? el('a', { href: f.url, target: '_blank', rel: 'noopener', text: f.titulo || f.url }) : el('span', { text: f.titulo }))));
+      mais.append(el('section', { class: 'bloco' }, el('h2', { text: `Fontes (${d.fontes.length})` }), ul));
+    }
+    mais.append(editorTextos(d, desenharTudo, (txt) => copiar(txt, 'Alterações copiadas. Cole no Claude para gravar de vez.')));
+    lado.append(mais);
+
+    app.innerHTML = '';
+    app.append(el('div', { class: 'leitor' }, el('div', { class: 'palco' }, trilho, contador, pontos, alerta), lado));
+  }
+
+  // Story 9:16 com a capa do carrossel, para avisar que tem post novo no feed.
+  async function storyDivulgacao(d, capa, status) {
+    const tema = R.TEMAS[d.slides[0].tema] || R.TEMAS.claro;
+    const c = document.createElement('canvas'); c.width = 1080; c.height = 1920;
+    const g = c.getContext('2d');
+    g.fillStyle = tema.fundo; g.fillRect(0, 0, 1080, 1920);
+    g.fillStyle = tema.texto; g.textAlign = 'center';
+    // fora das áreas do topo (~270 px) e do rodapé (~340 px) que o Instagram cobre no story
+    const np = d.slides.length;
+    g.font = '800 58px Montserrat'; g.fillText(np > 1 ? 'Carrossel novo no perfil' : 'Post novo no perfil', 540, 345);
+    g.font = '500 34px Montserrat'; g.fillStyle = tema.suave;
+    g.fillText(np > 1 ? `${np} páginas · toque na minha foto para ver` : 'toque na minha foto para ver', 540, 405);
+    const w = 820, h = Math.round(w * capa.height / capa.width), x = 130, y = 460;
+    g.save(); g.shadowColor = 'rgba(0,0,0,.18)'; g.shadowBlur = 40; g.shadowOffsetY = 12;
+    g.beginPath(); g.roundRect(x, y, w, h, 28); g.fillStyle = '#fff'; g.fill(); g.restore();
+    g.save(); g.beginPath(); g.roundRect(x, y, w, h, 28); g.clip(); g.drawImage(capa, x, y, w, h); g.restore();
+    g.font = '700 36px "Open Sans", Montserrat'; g.fillStyle = tema.texto; g.fillText('@kaiquegabriel.i', 540, y + h + 80);
+    let blob;
+    try { blob = await R.canvasParaBlob(c); }
+    catch { status.textContent = 'Sem memória para gerar o story. Feche outras abas e tente de novo.'; return; }
+    const arq = new File([blob], `${d.id}-story.png`, { type: 'image/png' });
+    if (navigator.canShare && navigator.canShare({ files: [arq] })) {
+      try { await navigator.share({ files: [arq] }); status.textContent = 'Story pronto: salve e poste nos stories.'; }
+      catch (e) { status.textContent = e && e.name === 'AbortError' ? 'Cancelado.' : 'Não deu para compartilhar.'; }
+      return;
+    }
+    const a = el('a', { href: URL.createObjectURL(blob), download: arq.name });
+    document.body.append(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    status.textContent = 'Story baixado.';
+  }
+
+  // ---------- vídeo comentado ----------
+  // O vídeo é escolhido no próprio aparelho e nunca sai dele: o app desenha a
+  // página (cabeçalho + comentário) com o vídeo dentro e grava o arquivo aqui mesmo.
+  async function telaVideo(d, problemaCarga = '') {
+    const id = d.id, slide = d.slides[0];
+    const elVideo = slide.elementos.find((e) => e.tipo === 'video');
+    const cv = el('canvas', { width: String(R.W), height: String(R.alturaDe(slide)), 'aria-label': 'Prévia do vídeo' });
+    const ctx = cv.getContext('2d');
+    const status = el('p', { class: 'status', role: 'status' });
+    const barra = el('progress', { max: '100', value: '0', hidden: '', 'aria-label': 'Progresso da gravação' });
+    if (problemaCarga) status.textContent = problemaCarga;
+    const video = document.createElement('video');
+    video.playsInline = true; video.preload = 'auto';
+    let pronto = false, gravando = false, arquivoFinal = null, laco = 0;
+
+    function desenhar() {
+      const s = { ...slide, elementos: slide.elementos.map((e) => (e.tipo === 'video' ? { ...e, _quadro: pronto ? video : null } : e)) };
+      R.desenharSlide(ctx, s);
+    }
+    function loop() { desenhar(); laco = requestAnimationFrame(loop); }
+    desenhar();
+    let audio = null; // AudioContext só pode ligar o <video> uma vez
+    // Ao sair da tela: para o vídeo, o laço de desenho, o áudio e devolve a memória.
+    sairTela = () => {
+      cancelAnimationFrame(laco);
+      gravando = false;
+      try { video.pause(); } catch { /* segue */ }
+      if (video.src) { URL.revokeObjectURL(video.src); video.removeAttribute('src'); video.load(); }
+      if (audio) { audio.ac.close().catch(() => {}); audio = null; }
+      cv.width = 0; cv.height = 0;
+    };
+
+    const entrada = el('input', { type: 'file', accept: 'video/*', id: 'arquivo-video' });
+    const inicio = el('input', { type: 'number', min: '0', step: '0.5', value: '0', id: 'v-inicio', inputmode: 'decimal' });
+    const fim = el('input', { type: 'number', min: '0', step: '0.5', value: '0', id: 'v-fim', inputmode: 'decimal' });
+    const btnPrevia = el('button', { class: 'sec', text: 'Tocar prévia' });
+    const btnGerar = el('button', { text: 'Gerar vídeo' });
+    const btnSalvar = el('button', { text: 'Salvar no celular' });
+    btnPrevia.disabled = true; btnGerar.disabled = true; btnSalvar.hidden = true;
+
+    function abrir(arquivo) {
+      arquivoFinal = null; btnSalvar.hidden = true;
+      if (video.src) URL.revokeObjectURL(video.src);
+      video.src = URL.createObjectURL(arquivo);
+      video.muted = true;
+      status.textContent = 'Carregando o vídeo…';
+      video.onloadeddata = () => {
+        pronto = true;
+        const dur = Math.floor(video.duration * 10) / 10;
+        fim.value = String(Math.min(dur, 90)); fim.max = String(dur); inicio.max = String(dur);
+        video.currentTime = Math.min(0.1, video.duration);
+        btnPrevia.disabled = false; btnGerar.disabled = false;
+        status.textContent = `Vídeo de ${dur.toFixed(1)} s. Ajuste início e fim se quiser cortar (máx. 90 s).`;
+        cancelAnimationFrame(laco); loop();
+      };
+      video.onerror = () => { status.textContent = 'Não consegui abrir esse vídeo. Tente outro arquivo (MP4 ou MOV).'; };
+    }
+    entrada.addEventListener('change', () => { if (entrada.files && entrada.files[0]) abrir(entrada.files[0]); });
+
+    btnPrevia.addEventListener('click', async () => {
+      if (!video.paused) { video.pause(); btnPrevia.textContent = 'Tocar prévia'; return; }
+      video.currentTime = Number(inicio.value) || 0;
+      video.muted = false;
+      try { await video.play(); btnPrevia.textContent = 'Pausar'; } catch { status.textContent = 'Toque de novo para tocar.'; }
+    });
+    video.addEventListener('timeupdate', () => {
+      const f = Number(fim.value) || video.duration;
+      if (!gravando && video.currentTime >= f) { video.pause(); btnPrevia.textContent = 'Tocar prévia'; }
+    });
+
+    function tipoGravacao() {
+      const opcoes = ['video/mp4;codecs=avc1.42E01E,mp4a.40.2', 'video/mp4;codecs=avc1,mp4a', 'video/mp4',
+        'video/webm;codecs=vp9,opus', 'video/webm'];
+      return opcoes.find((t) => window.MediaRecorder && MediaRecorder.isTypeSupported(t)) || '';
+    }
+
+    function ligarAudio(fluxo) {
+      try {
+        if (!audio) {
+          const ac = new (window.AudioContext || window.webkitAudioContext)();
+          const origem = ac.createMediaElementSource(video);
+          const destino = ac.createMediaStreamDestination();
+          origem.connect(destino); origem.connect(ac.destination);
+          audio = { ac, destino };
+        }
+        audio.destino.stream.getAudioTracks().forEach((t) => fluxo.addTrack(t));
+        return true;
+      } catch (e) { console.warn('sem áudio', e); return false; }
+    }
+
+    async function gerar() {
+      const ini = Number(inicio.value) || 0, f = Math.min(Number(fim.value) || video.duration, ini + 90);
+      if (f - ini < 1) { status.textContent = 'O trecho precisa ter pelo menos 1 segundo.'; return; }
+      const tipo = tipoGravacao();
+      if (!tipo) { status.textContent = 'Este navegador não grava vídeo. Use o Safari (iPhone) ou o Chrome atualizado.'; return; }
+      gravando = true; btnGerar.disabled = true; btnPrevia.disabled = true; entrada.disabled = true;
+      btnSalvar.hidden = true; barra.hidden = false; barra.value = 0;
+      status.textContent = 'Gravando… o trecho toca uma vez inteiro; deixe a tela aberta.';
+      let gravador = null, fluxo = null, motivo = '';
+      const partes = [];
+      const parar = (m) => { if (!motivo) motivo = m; };
+      let tocando = false;   // só vale depois que a gravação começou a tocar (pausar a prévia não conta)
+      const aoPausar = () => { if (gravando && tocando && video.currentTime < f - 0.2) parar('O vídeo parou no meio (tela bloqueou ou chegou uma notificação). Gere de novo com a tela acesa.'); };
+      const aoSumir = () => { if (document.hidden) parar('A gravação parou porque você saiu da tela. Gere de novo e deixe a tela aberta.'); };
+      video.addEventListener('pause', aoPausar);
+      video.addEventListener('error', aoPausar);
+      document.addEventListener('visibilitychange', aoSumir);
+      try {
+        fluxo = cv.captureStream(30);
+        const comSom = ligarAudio(fluxo);
+        if (audio && audio.ac.state === 'suspended') await audio.ac.resume();
+        gravador = new MediaRecorder(fluxo, { mimeType: tipo, videoBitsPerSecond: 8000000 });
+        gravador.ondataavailable = (ev) => { if (ev.data && ev.data.size) partes.push(ev.data); };
+        const terminou = new Promise((ok) => { gravador.onstop = ok; });
+        video.pause(); video.muted = false;
+        await new Promise((ok) => { video.onseeked = () => { video.onseeked = null; ok(); }; video.currentTime = ini; });
+        gravador.start(500);
+        try { await video.play(); tocando = true; } catch { parar('Não consegui tocar o vídeo. Toque em “Gerar vídeo” de novo.'); }
+        const limite = performance.now() + (f - ini + 5) * 1000;     // nunca fica gravando para sempre
+        await new Promise((ok) => {
+          const tick = () => {
+            barra.value = Math.min(100, ((video.currentTime - ini) / (f - ini)) * 100);
+            if (video.currentTime >= f || video.ended || motivo) return ok();
+            if (performance.now() > limite) { parar('O vídeo travou no meio da gravação. Tente de novo.'); return ok(); }
+            requestAnimationFrame(tick);
+          };
+          tick();
+        });
+        video.pause();
+        gravador.stop();
+        await terminou;
+        if (motivo) { status.textContent = motivo; return; }
+        const ext = tipo.startsWith('video/mp4') ? 'mp4' : 'webm';
+        arquivoFinal = new File(partes, `${id}.${ext}`, { type: tipo.split(';')[0] });
+        btnSalvar.hidden = false;
+        status.textContent = (ext === 'mp4'
+          ? `Vídeo pronto (${(arquivoFinal.size / 1048576).toFixed(1)} MB). Toque em “Salvar no celular”.`
+          : 'Vídeo gerado em WebM: este navegador não grava MP4, e o Instagram pode recusar. No iPhone, use o Safari.')
+          + (comSom ? '' : ' Atenção: o vídeo saiu sem som.');
+      } catch (e) {
+        console.warn(e);
+        status.textContent = 'Não deu para gerar o vídeo aqui. Atualize a página e tente de novo.';
+      } finally {
+        video.removeEventListener('pause', aoPausar);
+        video.removeEventListener('error', aoPausar);
+        document.removeEventListener('visibilitychange', aoSumir);
+        if (gravador && gravador.state !== 'inactive') { try { gravador.stop(); } catch { /* segue */ } }
+        if (fluxo) fluxo.getTracks().forEach((t) => { if (t.kind === 'video') t.stop(); });
+        gravando = false; barra.hidden = true;
+        btnGerar.disabled = false; btnPrevia.disabled = false; entrada.disabled = false;
+      }
+    }
+    btnGerar.addEventListener('click', gerar);
+
+    btnSalvar.addEventListener('click', async () => {
+      if (!arquivoFinal) return;
+      if (toque && navigator.canShare && navigator.canShare({ files: [arquivoFinal] })) {
+        try { await navigator.share({ files: [arquivoFinal], title: d.titulo || id }); status.textContent = 'No menu, toque em “Salvar vídeo”.'; }
+        catch (e) { status.textContent = e && e.name === 'AbortError' ? 'Cancelado.' : 'Não deu para abrir o compartilhamento.'; }
+        return;
+      }
+      const a = el('a', { href: URL.createObjectURL(arquivoFinal), download: arquivoFinal.name });
+      document.body.append(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+      status.textContent = 'Vídeo baixado.';
+    });
+
+    const formatoTxt = R.alturaDe(slide) > 1400 ? 'Reels / Stories (9:16)' : 'feed (4:5)';
+    const lado = el('div', { class: 'lado' });
+    lado.append(el('div', { class: 'bloco' },
+      el('h2', { text: '1. Escolha o vídeo' }),
+      el('div', { class: 'arquivo' }, el('label', { for: 'arquivo-video', class: 'nota', text: `O vídeo fica só no seu aparelho. Formato do post: ${formatoTxt}.` }), entrada),
+      el('h2', { text: '2. Corte (segundos)' }),
+      el('div', { class: 'campos' }, el('label', { text: 'Início' }, inicio), el('label', { text: 'Fim' }, fim)),
+      el('h2', { text: '3. Gere e salve' }),
+      el('div', { class: 'acoes' }, btnPrevia, btnGerar, btnSalvar),
+      barra, status));
+    if (d.legenda) {
+      lado.append(el('section', { class: 'bloco' }, el('h2', { text: '4. Copie a legenda e poste' }), el('p', { class: 'legenda-curta', text: d.legenda }),
+        el('button', { class: 'sec', text: 'Copiar legenda', onclick: async () => {
+          try { await navigator.clipboard.writeText(d.legenda); status.textContent = 'Legenda copiada.'; } catch { status.textContent = 'Selecione o texto e copie.'; }
+        } })));
+    }
+    if (elVideo && elVideo.credito) lado.append(el('p', { class: 'nota', text: 'Crédito do vídeo na arte: ' + elVideo.credito }));
+    lado.append(editorTextos(d, desenhar, (txt) => navigator.clipboard.writeText(txt).then(() => { status.textContent = 'Alterações copiadas.'; }, () => {})));
+
+    app.innerHTML = '';
+    app.append(el('div', { class: 'leitor' }, el('div', { class: 'palco video-palco' }, cv), lado));
+    window.__ksVideo = { abrir, gerar, video, inicio, fim, status, get arquivo() { return arquivoFinal; } };
+  }
+
+  // Ajuste rápido de texto: vale para salvar agora; para gravar de vez, vai pro Claude.
+  function editorTextos(d, redesenhar, copiarAlteracoes) {
+    const det = el('details', { class: 'bloco' });
+    det.append(el('summary', { text: 'Ajustar textos' }));
+    const caixa = el('div', { class: 'edicao' });
+    caixa.append(el('p', { class: 'nota', text: 'O ajuste vale para salvar as imagens agora. Para gravar de vez no site, copie as alterações e mande para o Claude.' }));
+    const mudancas = new Map();
+    let t;
+    d.slides.forEach((s, i) => (s.elementos || []).forEach((e, j) => {
+      const campos = e.tipo === 'texto' ? ['texto'] : e.tipo === 'noticia' ? ['manchete', 'linhaFina'] : e.tipo === 'grafico' ? ['titulo'] : [];
+      campos.forEach((campo) => {
+        if (typeof e[campo] !== 'string') return;
+        const idc = `ed-${i}-${j}-${campo}`;
+        const ta = el('textarea', { id: idc });
+        ta.value = e[campo];
+        ta.addEventListener('input', () => {
+          e[campo] = ta.value;
+          mudancas.set(idc, { pagina: i + 1, campo, texto: ta.value });
+          clearTimeout(t); t = setTimeout(redesenhar, 250);
+        });
+        caixa.append(el('div', {}, el('label', { for: idc, text: `Página ${i + 1} · ${campo === 'linhaFina' ? 'linha fina' : campo}` }), ta));
+      });
+    }));
+    caixa.append(el('button', { class: 'sec', text: 'Copiar alterações para o Claude', onclick: () => {
+      if (!mudancas.size) return copiarAlteracoes('Nenhuma alteração.');
+      const txt = 'Kaique Studio — alterações no carrossel ' + d.id + ':\n' +
+        [...mudancas.values()].map((m) => `• Página ${m.pagina} (${m.campo}): ${m.texto}`).join('\n');
+      copiarAlteracoes(txt);
+    } }));
+    det.append(caixa);
+    return det;
+  }
+
+  // Só no computador, com o servidor local: grava e confere os PNGs (1080 × 1350).
+  async function conferirLocal(id, canvases, status) {
+    status.textContent = 'Exportando…';
+    const fd = new FormData();
+    for (let i = 0; i < canvases.length; i++) {
+      fd.append(`pagina_${String(i + 1).padStart(2, '0')}`, await R.canvasParaBlob(canvases[i]), `p${i + 1}.png`);
+    }
+    try {
+      const j = await (await fetch(`/api/exportar/${encodeURIComponent(id)}`, { method: 'POST', body: fd, headers: { 'X-KS': '1' } })).json();
+      window.__ksExport = j;
+      status.textContent = j.ok ? `Conferido e gravado em ${j.pasta}` : `Falhou: ${j.erro}`;
+    } catch { status.textContent = 'Servidor local não respondeu.'; }
+  }
+
+  async function rotear() {
+    navegacao++;
+    if (sairTela) { try { sairTela(); } catch { /* segue */ } sairTela = null; }
+    const m = location.hash.match(/^#\/c\/([a-z0-9-]+)$/);
+    window.scrollTo(0, 0);
+    if (m) await telaCarrossel(m[1]);
+    else if (location.hash === '#/radar') await telaRadar();
+    else await telaLista();
+    titulo.focus({ preventScroll: true });     // leitor de tela anuncia a tela nova
+  }
+  voltar.addEventListener('click', () => {
+    // editor aberto com alteração não salva: confirma antes de jogar fora
+    if (window.__ksEditor && window.__ksEditor.sujo && !confirm('Você tem alterações não salvas. Sair mesmo assim?')) return;
+    location.hash = '#/';
+  });
+  // o app fica aberto dias na tela de início do celular: ao voltar para ele, a lista se atualiza
+  let escondidoEm = 0;
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) { escondidoEm = Date.now(); return; }
+    if (escondidoEm && Date.now() - escondidoEm > 60e3) { cache.clear(); if (!location.hash || location.hash === '#/') rotear(); }
+  });
+  window.addEventListener('hashchange', rotear);
+  carregarIndice().then(rotear).catch(() => {
+    app.innerHTML = '';
+    app.append(el('p', { class: 'vazio', text: 'Não consegui carregar a lista de carrosséis. Atualize a página.' }));
+  });
+})();
+</script>
+</body>
+</html>

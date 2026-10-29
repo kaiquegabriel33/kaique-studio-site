@@ -1,0 +1,74 @@
+{
+  "id": "sug-video-nikolas-nao-contestar",
+  "titulo": "Nikolas: “a chance de anular essa eleição é praticamente nula” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-26T13:20",
+  "atualizado": "2026-10-26T13:20",
+  "trecho": {
+    "inicio": "conhecendo o nosso país",
+    "fim": "Não façam isso.",
+    "texto": "conhecendo o nosso país, a chance de anular essa eleição é praticamente nula. E a prudência agora com as vidas que estão em jogo deve falar mais alto que qualquer ímpeto do nosso coração. Já vimos muitas pessoas pagarem um alto preço de irem para a rua no calor da emoção. Não façam isso.",
+    "gancho": false,
+    "crop": [
+      1080,
+      1060,
+      0,
+      340
+    ],
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "conhecendo o nosso país",
+        "texto": "Nikolas Ferreira (PL), em vídeo no Instagram em 26/10/2026, um dia depois do 2º turno",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "E a prudência",
+        "texto": "Em 25/10/2026, o Flávio Bolsonaro disse que vai pedir a anulação. O TSE proclamou o Lula reeleito com 51,79% dos votos válidos",
+        "cor": "amarelo"
+      }
+    ],
+    "legenda_y": 745,
+    "placa_y": 850
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Nikolas sobre anular a eleição: ==“a chance é praticamente nula”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Conhecendo o nosso país, a chance de anular essa eleição é praticamente nula.” Foi o Nikolas Ferreira (PL), em vídeo no Instagram nesta segunda (26/10/2026).\n\nNo mesmo vídeo, ele pediu prudência e disse para ninguém ir para a rua “no calor da emoção”. Na noite de 25/10, o Flávio Bolsonaro tinha dito que vai pedir a anulação da eleição. O TSE proclamou o Lula reeleito com 51,79% dos votos válidos.\n\nO Nikolas acertou em pedir calma? Comenta aí.\n\nVídeo: reprodução @nikolasferreiradm (26/10/2026).\n\n#eleicoes2026 #NikolasFerreira #FlavioBolsonaro #Lula #TSE",
+  "fontes": [
+    {
+      "titulo": "Instagram @nikolasferreiradm — Reel de 26/10/2026",
+      "url": "https://www.instagram.com/nikolasferreiradm/reel/De9qdHRRG-l/"
+    },
+    {
+      "titulo": "TSE — Resultados do 2º turno (25/10/2026)",
+      "url": "https://resultados.tse.jus.br"
+    },
+    {
+      "titulo": "InfoMoney — Flávio não reconhece resultado da eleição e diz que pedirá anulação ao TSE",
+      "url": "https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/"
+    }
+  ],
+  "postado_em": "2026-10-26T13:45:00-03:00"
+}

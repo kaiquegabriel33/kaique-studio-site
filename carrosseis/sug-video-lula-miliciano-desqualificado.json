@@ -1,0 +1,70 @@
+{
+  "id": "sug-video-lula-miliciano-desqualificado",
+  "titulo": "Lula sobre o debate: “me senti encabulado” de debater com o “miliciano desqualificado” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-20T11:30",
+  "atualizado": "2026-10-21T12:45",
+  "video_url": "https://www.youtube.com/watch?v=GUmKSL3GuWI&t=3706s",
+  "trecho_txt": "Comício do Lula em Porto Alegre (19/10), canal do Lula. O link abre em 1:01:46. Grave de 1:01:55 até 1:03:05 (“mentira, mentira e mais mentira”), celular deitado, tela cheia. Eu corto de “eu com o apoio de vocês” até “mentira, mentira e mais mentira”.",
+  "trecho": {
+    "inicio": "eu que já fiz reuniões com dois presidentes russos",
+    "fim": "mentira, mentira e mais mentira",
+    "texto": "Eu que já fiz reuniões com dois presidentes russos. Eu que já fiz reuniões com três presidentes franceses. Eu que já fiz reuniões com todos os alemães. Ontem eu me senti encabulado de participar de um debate com o miliciano desqualificado. É triste, mas é verdade. O presidente da República ficar do lado do miliciano ouvindo mentira, mentira e mais mentira.",
+    "cta": true,
+    "crop": [
+      960,
+      720,
+      400,
+      150
+    ],
+    "enquadrar": false,
+    "foco_falante": false,
+    "contexto": [
+      {
+        "desde": "presidentes russos",
+        "texto": "Lula está no 3º mandato e disputa o 4º no dia 25/10",
+        "cor": "verde"
+      },
+      {
+        "desde": "me senti encabulado",
+        "texto": "18/10: 1º debate do 2º turno, na Band",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula sobre o debate com Flávio: ==“me senti encabulado”== de ficar ao lado do “miliciano desqualificado”"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Lula disse que se sentiu “encabulado” de dividir o palco com o Flávio no debate.\n\nFoi no comício em Porto Alegre, em 19/10, um dia depois do debate da Band. Antes, ele lembrou das reuniões com presidentes dos Estados Unidos, da China, da Rússia e da França, e aí chamou o adversário de “miliciano desqualificado”.\n\nO outro lado: no mesmo debate, o Flávio levantou uma folha escrita “corrupto” atrás do Lula. Os dois passaram o primeiro bloco se chamando de corrupto.\n\nCom a eleição no domingo (25/10), quem ainda está indeciso aprende alguma coisa com isso? Comenta aí.\n\nVídeo: canal do Lula no YouTube (19/10/2026). Fonte: Band, debate de 18/10.\n\n#Lula #FlavioBolsonaro #debate #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Canal do Lula (YouTube) — Lula em Porto Alegre: O Brasil Pronto Pra Mais (19/10/2026), fala em 1:02:01",
+      "url": "https://www.youtube.com/watch?v=GUmKSL3GuWI"
+    },
+    {
+      "titulo": "Band Jornalismo (YouTube) — Flávio Bolsonaro x Lula: debate presidencial do 2º turno, íntegra (18/10/2026)",
+      "url": "https://www.youtube.com/watch?v=RugVB17uRVM"
+    }
+  ],
+  "postado_em": "2026-10-22T10:00:00-03:00"
+}

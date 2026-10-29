@@ -1,0 +1,47 @@
+{
+  "id": "sug-story-ri-happy-827-mi",
+  "titulo": "Story: Ri Happy renegocia R$ 827 milhões (recuperação extrajudicial)",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-20T23:10",
+  "atualizado": "2026-10-20T23:10",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-ri-happy-827-mi/ri-happy-tenta-renegociar-r-827-milhoes-antes-do.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        },
+        "desfoque": 18,
+        "escurecer": 0.45
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Ri Happy foi pedir para renegociar R$ 827 milhões com os credores. Só para pagar a dívida, vão R$ 70 milhões por ano. Pergunta sincera: você ainda compra brinquedo em loja?"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-ri-happy-827-mi/print-forbes-com-br-ri-happy-tenta-renegociar-r-827.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "centralizar": true
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Forbes Brasil — Ri Happy tenta renegociar R$ 827 milhões antes do Natal (19/10/2026)",
+      "url": "https://forbes.com.br/forbes-money/2026/10/ri-happy-recuperacao-extrajudicial-divida-827-milhoes/"
+    }
+  ],
+  "postado_em": "2026-10-21T21:00:00-03:00"
+}

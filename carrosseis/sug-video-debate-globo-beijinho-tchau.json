@@ -1,0 +1,62 @@
+{
+  "id": "sug-video-debate-globo-beijinho-tchau",
+  "titulo": "Lula x Flávio no debate da Globo: “beijinho, beijinho antes das eleições e tchau, tchau depois” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T22:22",
+  "atualizado": "2026-10-23T22:22",
+  "trecho": {
+    "inicio": "Porque você inventou um tesouraço",
+    "fim": "Eu vou reajustar as aposentadorias acima da inflação.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "inventou um tesouraço",
+        "texto": "Debate Globo, 23/10/2026, mediação de César Tralli"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "pela segunda vez",
+        "texto": "Lula cobrou se Flávio vai reajustar aposentadorias acima da inflação"
+      }
+    ],
+    "trilha": "tensao - dark tension (OpenMindAudio, Pixabay).mp3",
+    "cta": true,
+    "crop": [
+      1280,
+      456,
+      0,
+      0
+    ]
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Lula para Flávio: ==“beijinho, beijinho antes das eleições e tchau, tchau depois”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "“Beijinho, beijinho antes das eleições e tchau, tchau depois.” O Lula cobrou o Flávio no debate.\n\nO Lula perguntou se o Flávio vai cortar o aumento do salário mínimo. O Flávio falou com o mediador, César Tralli, e respondeu: “você está com um problema que você não está ouvindo. Eu vou falar pela segunda vez. Eu vou reajustar as aposentadorias acima da inflação.”\n\nQuem respondeu melhor?\n\nDebate na Globo, 23/10/2026.\nVídeo: reprodução TV Globo.\n\n#Lula #FlavioBolsonaro #aposentadoria #debate #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo / g1 — Debate do 2º turno entre Lula e Flávio Bolsonaro (23/10/2026)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml"
+    }
+  ],
+  "postado_em": "2026-10-23T23:15:00-03:00"
+}

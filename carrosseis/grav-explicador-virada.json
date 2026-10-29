@@ -1,0 +1,49 @@
+{
+  "id": "grav-explicador-virada",
+  "titulo": "Você narra: onde o Flávio perdeu a eleição (a virada, estado por estado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T00:25",
+  "atualizado": "2026-10-28T00:25",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Onde o Flávio ==perdeu a eleição?=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Onde o Flávio perdeu a eleição?\n\nNo 1º turno (04/10), o Flávio terminou 2,2 milhões de votos na frente. Na véspera do 2º turno (24/10), Datafolha e Quaest davam 51% a 49% para ele nos votos válidos. No 2º turno (25/10), perdeu por 4,4 milhões.\n\nOs números do TSE, estado por estado (resultado oficial, 100% das urnas, conferido em 27/10/2026):\n• São Paulo: a vantagem dele caiu de 3,4 milhões para 2 milhões, e foi lá que o comparecimento mais subiu (+932 mil eleitores).\n• Rio de Janeiro: a vantagem caiu pela metade (de 1,27 milhão para 604 mil), e a cidade do Rio deu Lula (51,5%).\n• Minas: o único estado que trocou de lado (Flávio +589 mil no 1º turno; Lula +109 mil no 2º). Belo Horizonte deu Flávio (50,8%).\n• Bahia e Pernambuco: a abstenção caiu 3 pontos e a vantagem do Lula cresceu.\n• Nos 27 estados, o Lula cresceu mais que o Flávio entre um turno e outro.\n\nO voto é secreto: os números mostram onde a eleição virou, não quem mudou de lado.\n\nE aí, o que fez o Flávio perder: São Paulo, o Rio ou quem não tinha ido votar e foi? Me conta aqui nos comentários.\n\nConteúdo informativo. Fontes: TSE (resultados oficiais por estado e município do 1º turno, 04/10/2026, e do 2º turno, 25/10/2026), Datafolha (BR-09540/2026) e Quaest (BR-09158/2026), pesquisas divulgadas em 24/10/2026; IBGE (mapa dos estados).\n\nFotos (Wikimedia Commons): Flávio Bolsonaro: TSE, CC BY 4.0; Lula: Palácio do Planalto, CC BY 2.0.\n\n#Eleicoes2026 #FlavioBolsonaro #Lula #TSE #noticias",
+  "fontes": [
+    {
+      "titulo": "TSE — Resultados oficiais, 1º turno 2026 (eleição 6257, por UF e município)",
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json"
+    },
+    {
+      "titulo": "TSE — Resultados oficiais, 2º turno 2026 (eleição 6258, por UF e município)",
+      "url": "https://resultados.tse.jus.br/oficial/ele2026/6258/dados/br/br-c0001-e006258-u.json"
+    },
+    {
+      "titulo": "Rdnews — Quaest e Datafolha: Flávio 51% x Lula 49% (24/10/2026)",
+      "url": "https://www.rdnews.com.br/eleicoes-2026/quaest-e-datafolha-mostram-flavio-com-51-dos-votos-validos-e-lula-com-49-no-segundo-turno/251208"
+    },
+    {
+      "titulo": "IBGE — Malha dos estados (API de malhas v3)",
+      "url": "https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?formato=application/vnd.geo+json&intrarregiao=UF"
+    }
+  ],
+  "postado_em": "2026-10-28T17:50:00-03:00"
+}

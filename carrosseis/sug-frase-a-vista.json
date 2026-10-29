@@ -1,0 +1,118 @@
+{
+  "id": "sug-frase-a-vista",
+  "titulo": "Antes de parcelar: quanto fica à vista?",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-10T18:55",
+  "atualizado": "2026-10-11T12:30",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 54,
+          "texto": "Antes de parcelar\nqualquer coisa, eu faço\numa pergunta só:\nquanto fica à vista?",
+          "tipo": "caixa_story",
+          "y": 230
+        }
+      ],
+      "fundo": {
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.62
+        },
+        "src": "midia/sug-frase-a-vista/jantar.jpg"
+      },
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 54,
+          "texto": "Se tiver desconto\npra pagar na hora,\nessa diferença é o juro\nque você paga\nno \"sem juros\".",
+          "tipo": "caixa_story",
+          "y": 230
+        }
+      ],
+      "fundo": {
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.6
+        },
+        "src": "midia/sug-frase-a-vista/cafe-da-manha.jpg"
+      },
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 54,
+          "texto": "A loja que vai receber\nem dez vezes não virou\nboazinha. Ela já colocou\nessa espera no preço.",
+          "tipo": "caixa_story",
+          "y": 230
+        }
+      ],
+      "fundo": {
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.6
+        },
+        "src": "midia/sug-frase-a-vista/mar-veleiros.jpg"
+      },
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 54,
+          "texto": "Desde 2017 a loja pode\ncobrar preço diferente\nà vista e no cartão.\nO desconto existe.\nSó não aparece\nse você não pedir.",
+          "tipo": "caixa_story",
+          "y": 230
+        }
+      ],
+      "fundo": {
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.6
+        },
+        "src": "midia/sug-frase-a-vista/barco-janela.jpg"
+      },
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 54,
+          "texto": "Se à vista e parcelado\ncustam o mesmo, aí\nparcelar pode fazer sentido.\nMas só dá pra saber\nperguntando.\n\nQuanto fica à vista?",
+          "tipo": "caixa_story",
+          "y": 230
+        }
+      ],
+      "fundo": {
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.5
+        },
+        "src": "midia/sug-frase-a-vista/praia-ceu-nuvens.jpg"
+      },
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "claro"
+    }
+  ],
+  "legenda": "Antes de parcelar, uma pergunta só.\n\nLei 13.455/2017 (preço diferente à vista e no cartão). Conteúdo educativo.\n\n#avista #parcelado #financaspessoais #educacaofinanceira #consumo",
+  "fontes": [
+    {
+      "titulo": "Lei 13.455/2017, art. 1º: autoriza preço diferente conforme o prazo ou o meio de pagamento",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm"
+    }
+  ],
+  "postado_em": "2026-10-27T18:30:00-03:00"
+}

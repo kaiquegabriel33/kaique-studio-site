@@ -1,0 +1,61 @@
+{
+  "id": "sug-video-flavio-guerra-ao-narcotrafico",
+  "titulo": "Flávio promete “declarar guerra ao narcotráfico” a partir de janeiro (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T23:00",
+  "atualizado": "2026-10-19T01:00",
+  "trecho": {
+    "inicio": "no meu governo",
+    "fim": "combater o tráfico internacional de drogas",
+    "texto": "no meu governo, as Forças Armadas vão tomar conta das fronteiras. Um dos meus primeiros atos como presidente da República vai ser juntar os comandantes do Exército, Marinha, Aeronáutica, os chefes das polícias estaduais. Vou fazer uma grande reunião para a gente iniciar, vamos declarar guerra ao narcotráfico aqui no Brasil a partir de janeiro do ano que vem. Eu vou declarar Comando Vermelho, PCC e milícias como organizações narcoterroristas, que é o que eles são. Porque não dá para admitir aqui no Porto de Santos, mais um recorde negativo do Lula, né? O Porto de Santos, que é uma área da União, do governo federal, é o segundo maior porto exportador de cocaína do mundo. Então, a Marinha vai ter uma tropa de elite ali, tomando conta do Porto de Santos para combater o tráfico internacional de drogas.",
+    "gancho": false,
+    "contexto": [
+      {
+        "desde": "as Forças Armadas vão tomar conta",
+        "texto": "Entrevista à TV Globo, 2º turno, 16/10",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "narcoterroristas",
+        "texto": "Os EUA classificaram PCC e CV como terroristas em 28/05/2026",
+        "cor": "vermelho"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Flávio promete ==“declarar guerra ao narcotráfico”== a partir de janeiro"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Vamos declarar guerra ao narcotráfico aqui no Brasil a partir de janeiro do ano que vem.” É a promessa do Flávio.\n\nEle disse que vai pôr as Forças Armadas nas fronteiras, uma tropa de elite da Marinha no Porto de Santos e tratar CV, PCC e milícias como “narcoterroristas”. O dado de Santos como “segundo maior porto exportador de cocaína do mundo” é afirmação dele.\n\nOs EUA classificaram PCC e CV como terroristas em 28/05/2026.\n\nForças Armadas contra o tráfico: funciona? Comenta aí.\n\nVídeo: entrevista à TV Globo (16/10/2026). Classificação dos EUA: Band.\n\n#FlavioBolsonaro #segurancapublica #PCC #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo — entrevista de Flávio Bolsonaro a Renata Lo Prete, 2º turno (16/10/2026, ao vivo)",
+      "url": "https://g1.globo.com/"
+    },
+    {
+      "titulo": "Band — EUA decidem classificar PCC e CV como organizações terroristas (28/05/2026)",
+      "url": "https://www.band.com.br/noticias/eua-decidem-classificar-pcc-e-cv-como-organizacoes-terroristas-202605281903"
+    }
+  ],
+  "postado_em": "2026-10-20T20:00:00.000Z"
+}

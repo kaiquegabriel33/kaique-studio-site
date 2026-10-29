@@ -1,0 +1,77 @@
+{
+  "id": "sug-story-heranca-6-fatos",
+  "titulo": "Story herança 6/6: o que a gente olha antes de investir lá fora",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T19:20",
+  "legenda": "",
+  "comentario": "Mais dois caminhos, com advogado do lado:\nDoação com usufruto: a casa vai pros filhos, mas você continua morando nela.\nHolding: os bens viram de uma empresa da família.\n\nRico não deixa herança pro governo. Ele planeja.\nRentabilidade é só metade da conta: a outra metade é quanto chega na sua família. Na Fatos, a gente olha as duas antes de investir lá fora.\nQuer simular? Toca no link.",
+  "serie": "heranca",
+  "ordem_serie": 6,
+  "fontes": [
+    {
+      "titulo": "Lei Complementar 227, de 13/01/2026 (ITCMD: alíquotas progressivas e teto do Senado, art. 156; bens no exterior, art. 159; não incide sobre previdência privada e seguro, art. 150, III)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm"
+    },
+    {
+      "titulo": "IRS — Some nonresidents with U.S. assets must file estate tax returns (limite de US$ 60 mil; ações de empresas americanas contam)",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/some-nonresidents-with-us-assets-must-file-estate-tax-returns"
+    },
+    {
+      "titulo": "FINRA — Plan ahead: transfer your brokerage account assets at death (17/01/2023): TOD evita o inventário (probate), mas o imposto sobre herança pode incidir",
+      "url": "https://www.finra.org/investors/insights/plan-ahead-transfer-your-brokerage-account-assets-death"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": false,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-6-fatos/palestra.jpg",
+        "escurecer": 0.35,
+        "foco": {
+          "x": 0.6,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Mais dois caminhos, com advogado do lado:\n[[verde:Doação com usufruto]]: a casa vai pros filhos, mas você continua morando nela.\n[[verde:Holding]]: os bens viram de uma empresa da família.",
+          "tam": 50
+        }
+      ],
+      "topo": 40,
+      "espaco": 28
+    },
+    {
+      "altura": 1920,
+      "centralizar": false,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-6-fatos/palestra.jpg",
+        "escurecer": 0.35,
+        "foco": {
+          "x": 0.6,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Rico não deixa herança pro governo. Ele planeja.\n[[verde:Rentabilidade é só metade da conta]]: a outra metade é quanto chega na sua família. Na Fatos, a gente olha as duas antes de investir lá fora.\nQuer simular? [[verde:Toca no link.]]",
+          "tam": 50
+        }
+      ],
+      "topo": 40,
+      "espaco": 28
+    }
+  ],
+  "postado_em": "2026-10-22T19:58:00-03:00"
+}

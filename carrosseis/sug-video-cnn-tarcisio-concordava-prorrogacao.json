@@ -1,0 +1,62 @@
+{
+  "id": "sug-video-cnn-tarcisio-concordava-prorrogacao",
+  "titulo": "Repórter da CNN: Tarcísio concordava com a prorrogação antes de criticar o Zanin (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-26T18:40",
+  "atualizado": "2026-10-26T18:40",
+  "trecho": {
+    "inicio": "às 4 horas e 48 minutos, eu troquei",
+    "fim": "uma decisão como essa.",
+    "texto": "às 4 horas e 48 minutos, eu troquei mensagens com o governador Tarcísio de Freitas, especialmente sobre uma possível prorrogação aqui no estado de São Paulo, diante das afirmações da campanha do presidente Lula de que estaria havendo limitações nos transportes públicos. Tarcísio de Freitas afirmou à CNN Brasil, em uma rápida conversa por mensagens, que ele não se opunha, que ele concordava até com a possibilidade de prorrogação do horário de votação e disse que essa medida não alteraria o resultado da eleição. Isso às 4 horas e 48 minutos. Tomou conhecimento da decisão de Cristiano Zanin do Supremo Tribunal Federal e criticou a medida. Disse que Zanin e o PT estavam atuando para tumultuar a eleição e criticou o fato de o ministro, que é ex-advogado de Lula, ter sido quem tomou uma decisão como essa.",
+    "gancho": "ele concordava até com a possibilidade de prorrogação do horário de votação",
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "às 4 horas e 48 minutos, eu troquei",
+        "texto": "Repórter da CNN Brasil, no ar em 26/10/2026, sobre as 16h48 de 25/10",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Tomou conhecimento da decisão",
+        "texto": "Zanin (STF) prorrogou a votação até as 19h em 25/10/2026, por falta de ônibus em várias cidades",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Repórter da CNN: Tarcísio ==concordava== com a prorrogação antes de criticar o Zanin"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Às 16h48, o Tarcísio disse à CNN que concordava com a prorrogação. Depois, criticou o Zanin por ela.\n\nFoi o que contou um repórter da CNN Brasil nesta segunda (26/10/2026). Segundo ele, o governador escreveu que não se opunha a estender o horário e que a medida não mudaria o resultado. Depois de saber da decisão do ministro Cristiano Zanin, do STF, que prorrogou a votação até as 19h por falta de ônibus em várias cidades, o Tarcísio disse que Zanin e o PT estavam tumultuando a eleição. O TSE proclamou o Lula reeleito com 51,79% dos votos válidos.\n\nMudou de ideia ou mudou de lado? Comenta aí.\n\nVídeo: reprodução CNN Brasil (26/10/2026).\n\n#eleicoes2026 #Tarcisio #Zanin #STF #Lula",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil — Vice de Tarcísio reconhece derrota de Flávio e diz que PL também pediu prorrogação | BASTIDORES CNN (YouTube, 26/10/2026)",
+      "url": "https://www.youtube.com/watch?v=snxxy6Mu47k"
+    },
+    {
+      "titulo": "Itatiaia — Tarcísio de Freitas questiona decisão de Zanin: 'lamentável que o Brasil passe por isso' (YouTube, 26/10/2026)",
+      "url": "https://www.youtube.com/watch?v=lvfdUUzLR9I"
+    }
+  ],
+  "postado_em": "2026-10-26T19:00:00-03:00"
+}

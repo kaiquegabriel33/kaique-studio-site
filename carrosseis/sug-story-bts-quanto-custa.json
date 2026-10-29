@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-bts-quanto-custa",
+  "titulo": "Story: quanto custa ver o BTS em São Paulo (até o hotel econômico virou VIP)",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-23T10:20",
+  "atualizado": "2026-10-23T10:20",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-bts-quanto-custa/bts-palco.png",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Pista do BTS no MorumBIS: [[vermelho:R$ 1.500]] com a taxa. Uma noite no Ibis Budget da Paulista na semana do show: [[vermelho:R$ 805]]. Até o hotel econômico virou VIP."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bts-quanto-custa/print-exame-ir-ao-show-do-bts-veja-gastos-c.png",
+          "h": 439,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Exame — Quanto custa ir ao show do BTS? Veja gastos com ingresso, transporte e hospedagem (20/10/2026)",
+      "url": "https://exame.com/pop/quanto-custa-ir-ao-show-do-bts-veja-gastos-com-ingresso-transporte-e-hospedagem/"
+    }
+  ]
+}

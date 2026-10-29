@@ -1,0 +1,41 @@
+{
+  "id": "grav-explicador-stf-indicacoes",
+  "titulo": "Você explica: Lula vai indicar até 4 ministros do STF (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-26T13:40",
+  "atualizado": "2026-10-26T13:40",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula vai indicar até ==4 ministros== do STF"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Reeleito, o Lula vai poder indicar até 4 ministros do Supremo. Se isso acontecer, 7 dos 11 terão sido escolhidos por ele.\n\nAs vagas: a cadeira do Barroso (aposentado em outubro de 2025), o Fux (75 anos em abril de 2028), a Cármen Lúcia (abril de 2029) e o Gilmar Mendes (dezembro de 2030). Quem aprova é o Senado: em abril de 2026, ele rejeitou o Jorge Messias por 42 a 34, a primeira rejeição desde 1894.\n\nQuem você acha que deveria ocupar essas cadeiras? Comenta aí.\n\nFontes: STF, Constituição (EC 88/2015), Agência Senado, SBT News e Migalhas. Fotos: Wikimedia Commons (Palácio do Planalto, Agência Brasil, Vice-Presidência, Beto Barata/PR, STF, US Embassy; CC BY ou domínio público). Prints: reprodução Money Times e InfoMoney. Foto do Lula de óculos: reprodução redes sociais (aRede, 25/10/2026).\n\n#STF #Lula #supremo #senado #politica",
+  "fontes": [
+    {
+      "titulo": "STF — composição atual",
+      "url": "https://cms.stf.jus.br/post-sobreostf/composicao-atual/"
+    },
+    {
+      "titulo": "SBT News — Lula poderá indicar até 4 ministros",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lula-podera-indicar-ate-4-ministros-ao-stf"
+    }
+  ],
+  "postado_em": "2026-10-26T13:37:00-03:00"
+}

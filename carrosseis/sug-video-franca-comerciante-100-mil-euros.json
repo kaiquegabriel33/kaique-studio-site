@@ -1,0 +1,80 @@
+{
+  "id": "sug-video-franca-comerciante-100-mil-euros",
+  "titulo": "“Perdi 100 mil euros… é a minha vida”: o dono de uma loja saqueada em Paris (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-20T18:55",
+  "atualizado": "2026-10-20T21:00",
+  "video_url": "https://www.youtube.com/watch?v=dBOlpx54b-g",
+  "trecho_txt": "BBC News Brasil, Short de 41 s (YouTube). O corte é o vídeo inteiro, de 0:01 a 0:40 (do “100 mil euros ou mais” até o “Não sei…”).",
+  "trecho": {
+    "inicio": "100 mil euros ou mais",
+    "fim": "Não sei",
+    "texto": "100 mil euros ou mais. Não consigo acreditar. É minha vida, toda a minha vida aqui. Não posso, sei lá... Eu tenho seguro, mas não cobre tudo. Porque, sabe, na França a lei não cobre tudo. Minha vida toda aqui. Não sei... (tradução da BBC; ele fala em francês)",
+    "segundos": [
+      1,
+      40
+    ],
+    "legenda": false,
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "em": 4,
+        "texto": "17/10: mais de meio milhão nas ruas da França contra a vida cara",
+        "cor": "amarelo"
+      },
+      {
+        "em": 18,
+        "texto": "Cerca de 1,5 mil lojas saqueadas ou destruídas (BBC, 19/10)",
+        "cor": "vermelho"
+      }
+    ],
+    "crop": [
+      1080,
+      1570,
+      0,
+      180
+    ],
+    "preencher": false,
+    "enquadrar": false
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "altura": 1920,
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "“Perdi ==100 mil euros==… é a minha vida”: o dono de uma loja saqueada em Paris",
+          "tam": 52
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "x": 0,
+          "w": 1080,
+          "raio": 0,
+          "ajuste": "conter"
+        }
+      ]
+    }
+  ],
+  "legenda": "“Perdi 100 mil euros ou mais. É a minha vida, toda a minha vida aqui.” O dono de uma loja de Paris, depois do saque.\n\nFoi no sábado (17/10), nos protestos contra o custo de vida na França. Mais de meio milhão de pessoas foram às ruas, quase todas em paz. À noite, grupos mascarados saquearam ou destruíram cerca de 1,5 mil lojas. Cerca de mil policiais ficaram feridos.\n\nEle diz que tem seguro, mas que o seguro não cobre tudo. O governo prometeu cobrar os estragos de quem destruiu e criar um fundo para quem ficou sem poder trabalhar.\n\nProtesto contra a vida cara que termina quebrando o negócio de quem trabalha: quem paga essa conta?\n\nVídeo: BBC News Brasil (19/10/2026), com a tradução da BBC. Números: BBC News Brasil, a partir do governo francês (19/10/2026).\n\n#França #custodevida #protestos #Paris #economia",
+  "fontes": [
+    {
+      "titulo": "BBC News Brasil (YouTube) — Comerciante diz que teve prejuízo de 100 mil euros com saques durante protestos em Paris (19/10/2026)",
+      "url": "https://www.youtube.com/watch?v=dBOlpx54b-g"
+    },
+    {
+      "titulo": "BBC News Brasil — Protestos na França ampliam pressão sobre governo Macron; premiê autoriza toque de recolher parcial (19/10/2026)",
+      "url": "https://www.bbc.com/portuguese/articles/cwy8l5zm10vzo"
+    },
+    {
+      "titulo": "CNN Brasil (YouTube) — Protesto na França termina com mais de 500 policiais feridos, 1.800 presos e uma morte (18/10/2026)",
+      "url": "https://www.youtube.com/watch?v=h3NGXcwUwag"
+    }
+  ],
+  "postado_em": "2026-10-21T19:25:00-03:00"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-gringo-2-8-bi-pos-eleicao",
+  "titulo": "Story: o gringo tirou R$ 2,85 bi da Bolsa no dia seguinte à eleição",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T10:05",
+  "atualizado": "2026-10-28T15:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Na segunda (26/10), o gringo tirou [[vermelho:R$ 2,85 bilhões]] da Bolsa. Mas outubro ainda está no azul: [[verde:R$ 13,3 bi]] de saldo. A saída começou dias antes, aos poucos. Não foi pânico de um dia só."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-gringo-2-8-bi-pos-eleicao/print-infomoney-estrangeiros-retiraram-r-2-8-bil.png",
+          "h": 641,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-gringo-2-8-bi-pos-eleicao/estrangeiros-retiraram-r-2-8-bilhoes-da-b3-no-di.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "InfoMoney (Camille) — Estrangeiros retiraram R$ 2,8 bilhões da B3 no dia seguinte às eleições (28/10/2026, 9h): saída de cerca de R$ 2,85 bi em 26/10; saldo de outubro em R$ 13,3 bi até 26/10, contra R$ 16,2 bi na sexta e R$ 20,2 bi em 21/10 (dados da B3)",
+      "url": "https://www.infomoney.com.br/mercados/estrangeiros-retiraram-r-28-bilhoes-da-b3-no-dia-seguinte-as-eleicoes/"
+    }
+  ]
+}

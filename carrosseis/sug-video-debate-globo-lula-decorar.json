@@ -1,0 +1,62 @@
+{
+  "id": "sug-video-debate-globo-lula-decorar",
+  "titulo": "Lula sobre Flávio no debate da Globo: “conseguem decorar, mas não conseguem aprender” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-23T22:00",
+  "atualizado": "2026-10-23T22:00",
+  "trecho": {
+    "inicio": "O meu adversário parece aqueles alunos",
+    "fim": "Não é que vão fazer, estamos fazendo.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "O meu adversário parece",
+        "texto": "Debate Globo, 23/10/2026: bloco de infraestrutura"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "BR-319",
+        "texto": "Flávio tinha dito: “o Brasil voltou a ser um grande cemitério de obras”"
+      }
+    ],
+    "cta": true,
+    "crop": [
+      1020,
+      620,
+      260,
+      0
+    ],
+    "trilha": "tensao - dark tension (OpenMindAudio, Pixabay).mp3"
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tam": 52,
+          "texto": "Lula sobre Flávio: ==“conseguem decorar, mas não conseguem aprender”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "“Conseguem decorar, mas não conseguem aprender.” Foi assim que o Lula respondeu ao Flávio sobre obras no debate.\n\nO Flávio tinha dito que “o Brasil voltou a ser um grande cemitério de obras”. Na tréplica, o Lula comparou o adversário a aluno de vestibular e listou obras que diz estar fazendo.\n\nQuem levou a melhor nesse bate-boca?\n\nDebate na Globo, 23/10/2026.\nVídeo: reprodução TV Globo.\n\n#Lula #FlavioBolsonaro #debate #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo / g1 — Debate do 2º turno entre Lula e Flávio Bolsonaro (23/10/2026)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml"
+    }
+  ],
+  "postado_em": "2026-10-26T09:00:00-03:00"
+}

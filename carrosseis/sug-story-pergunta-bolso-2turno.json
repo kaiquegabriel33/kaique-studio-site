@@ -1,0 +1,38 @@
+{
+  "id": "sug-story-pergunta-bolso-2turno",
+  "titulo": "Story: uma pergunta sobre o seu bolso para os dois",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-18T19:35",
+  "atualizado": "2026-10-18T19:35",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Última semana antes do 2º turno. Se você pudesse fazer UMA pergunta sobre o seu bolso pro Lula e pro Flávio, qual seria? Me manda aqui na caixinha."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-pergunta-bolso-2turno/print-valor-lula-e-flavio-disputam-as-ruas-n.png",
+          "h": 592,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Valor — Lula e Flávio disputam as ruas na reta final da campanha (18/10/2026)",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/lula-e-flavio-disputam-as-ruas-na-reta-final-da-campanha.ghtml"
+    }
+  ],
+  "postado_em": "2026-10-23T21:00:00-03:00"
+}

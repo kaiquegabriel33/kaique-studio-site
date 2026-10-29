@@ -1,0 +1,298 @@
+{
+  "id": "sug-carrossel-financiamento-mais-caro",
+  "titulo": "Financiamento da casa mais caro: Bradesco sobe para 15% e o governo estuda IOF na LCI",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-28T13:20",
+  "atualizado": "2026-10-28T14:30",
+  "slides": [
+    {
+      "papel": "capa",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "texto": "Na segunda, o Bradesco subiu o juro da casa própria. Na quarta, o governo apareceu estudando taxar ==o dinheiro que banca esse crédito==."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-financiamento-mais-caro/print-exame-bradesco-da-salto-inedito-no-jur.png",
+          "h": 560,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 38,
+          "texto": "Segunda (26/10), primeiro dia útil depois da eleição: a taxa mínima do Bradesco foi de 11,7% para ==15% ao ano + TR==. O banco culpou a alta dos juros do mercado."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-financiamento-mais-caro/print-infomoney-bradesco-sobe-juros-do-credito-i.png",
+          "h": 600,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fato",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 40,
+          "texto": "Aí vem a segunda notícia. Nesta quarta (28/10), o governo voltou a estudar ==IOF sobre LCI, LCA, CRI e CRA==. Por decreto, sem passar pelo Congresso. Ainda não há decisão nem alíquota."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-financiamento-mais-caro/print-money-times-governo-estuda-aplicar-iof-sobre.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "evidencia",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 40,
+          "texto": "Quanto dinheiro está nisso? Mais de ==R$ 1,5 trilhão==, hoje isento de IR e de IOF. Essa isenção custa ao governo cerca de R$ 33 bilhões por ano."
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "h": 520,
+          "titulo": "LCI e LCA, sozinhas, passam de R$ 1,1 trilhão",
+          "subtitulo": "estoque na B3, R$ bi (LCI e LCA: jun/26; CRI e CRA: mar/26)",
+          "rotulos": [
+            "LCA (agro)",
+            "LCI (imóveis)",
+            "CRI (imóveis)",
+            "CRA (agro)"
+          ],
+          "valores": [
+            563,
+            544,
+            261,
+            176
+          ],
+          "casas": 0,
+          "destaques": [
+            0,
+            1
+          ],
+          "prefixo": "R$ ",
+          "corBarras": [
+            "#2e9e5b",
+            "#1f6fd1",
+            "#8fb8ee",
+            "#8fd3a8"
+          ]
+        }
+      ]
+    },
+    {
+      "papel": "evidencia",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 36,
+          "texto": "Quanto o governo arrecadaria? A alíquota não saiu. Em 2025, a MP que tentou taxar esses papéis previa 5% de IR, e a Fazenda esperava ==R$ 2,6 bi== em 2026, só com os papéis novos."
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras",
+          "h": 560,
+          "titulo": "Se cobrasse de todo o estoque de LCI e LCA",
+          "subtitulo": "R$ bi por ano; conta nossa, se ninguém tirar o dinheiro",
+          "rotulos": [
+            "MP de 2025",
+            "Conta nossa: 5%",
+            "Conta nossa: 7,5%"
+          ],
+          "valores": [
+            2.6,
+            6.8,
+            10.2
+          ],
+          "casas": 1,
+          "destaques": [
+            1,
+            2
+          ],
+          "prefixo": "R$ ",
+          "corBarras": [
+            "#9aa3ad",
+            "#f2a33a",
+            "#e0482f"
+          ]
+        }
+      ]
+    },
+    {
+      "papel": "interpretacao",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 36,
+          "texto": "E quem paga? O investidor quer o mesmo líquido. Com 7,5% de imposto, a LCI teria de pagar ==1 ponto a mais== por ano. Se o banco repassa tudo para o financiamento, os 15% viram 16%."
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras",
+          "h": 560,
+          "titulo": "A mesma casa, cada vez mais cara",
+          "subtitulo": "1ª parcela, R$ 240 mil em 30 anos (SAC); conta nossa",
+          "rotulos": [
+            "Antes: 11,7%",
+            "Hoje: 15%",
+            "Com imposto: 16%"
+          ],
+          "valores": [
+            2890,
+            3478,
+            3654
+          ],
+          "casas": 0,
+          "destaques": [
+            2
+          ],
+          "prefixo": "R$ ",
+          "corBarras": [
+            "#2e9e5b",
+            "#f2a33a",
+            "#e0482f"
+          ]
+        }
+      ]
+    },
+    {
+      "papel": "evidencia",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 36,
+          "texto": "Já vimos esse filme. Quando o dinheiro saiu da poupança, a Caixa, que tem quase 70% do mercado, cortou em nov/2024 o quanto financia: de 80% para ==70% do imóvel== (SAC)."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-financiamento-mais-caro/print-www-jornalopcao-com-br-entenda-o-que-deve-mudar-nos-fin.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "evidencia",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 40,
+          "texto": "E quando a LCI ficou menos atraente: em fevereiro de 2024, o CMN apertou as regras e a emissão de LCI ==caiu 64% em um mês==."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-carrossel-financiamento-mais-caro/print-euqueroinvestir-com-emissao-de-lci-e-lca-cai-mais-de.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "papel": "fecho",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 40,
+          "texto": "Se a isenção acaba, parte do dinheiro vai para Tesouro ou CDB. A base encolhe, o governo arrecada menos que a conta e o crédito fica caro do mesmo jeito."
+        },
+        {
+          "tipo": "comparacao",
+          "sinal": "",
+          "itens": [
+            {
+              "titulo": "Já assinou com taxa fixa?",
+              "texto": "Nada muda no seu contrato.",
+              "cor": "#2e9e5b"
+            },
+            {
+              "titulo": "Ainda vai comprar a casa?",
+              "texto": "Paga as duas contas: o juro que já subiu e o imposto que pode vir.",
+              "cor": "#e0482f"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "legenda": "O Bradesco subiu o juro da casa própria. E o governo estuda taxar o dinheiro que banca esse crédito.\n\nSegunda (26/10), o Bradesco levou a taxa mínima do financiamento imobiliário de 11,7% para 15% ao ano + TR, citando a alta dos juros do mercado. Caixa (10,99%), Santander (11,69%) e Itaú (11,79%) seguem abaixo.\n\nQuarta (28/10), segundo O Globo, a equipe econômica voltou a estudar IOF sobre LCI, LCA, CRI, CRA e debêntures incentivadas, por decreto. Não há decisão nem alíquota. Esses papéis somam mais de R$ 1,5 trilhão na B3 (LCI e LCA em junho; CRI e CRA em março), e a isenção custa cerca de R$ 33 bi por ano. A MP 1.303, de 2025, previa 5% de IR nos papéis novos e R$ 2,6 bi em 2026; caiu na Câmara.\n\nAs contas do post são nossas: 90% do CDI (~12,3% ao ano) sobre R$ 1,1 tri de LCI e LCA, se ninguém tirasse o dinheiro. A parcela: R$ 240 mil em 30 anos, SAC, sem TR, seguros e tarifas. Repasse integral é o pior caso: a LCI é só ~19% do dinheiro do crédito imobiliário.\n\nO que já aconteceu: saques líquidos da poupança de R$ 87,8 bi (2023), R$ 15,5 bi (2024) e R$ 85,6 bi (2025), pelo Banco Central. Em nov/2024 a Caixa baixou a cota financiada (SBPE, SAC) de 80% para 70%. Em fev/2024, depois da Resolução CMN 5.119, as novas LCI na B3 caíram de R$ 30,7 bi para R$ 11,2 bi.\n\nA fuga do investidor é hipótese, com base em 2024: não achei estudo com número.\n\nConteúdo informativo, não é recomendação de investimento.\n\nFontes: Exame, InfoMoney, Portas, Money Times e Seu Dinheiro (27 e 28/10/2026); B3; Agência Câmara (2025); Banco Central via Metrópoles; Jornal Opção e TNH1 (2024); Valor/Eu Quero Investir; Abecip. Prints: Exame, InfoMoney, Money Times, Jornal Opção e Eu Quero Investir.\n\n#financiamentoimobiliario #casapropria #LCI #LCA #juros",
+  "fontes": [
+    {
+      "titulo": "Exame — Bradesco dá salto inédito no juro da casa própria e taxa vai a 15% ao ano (27/10/2026)",
+      "url": "https://exame.com/mercado-imobiliario/bradesco-da-salto-inedito-no-juro-da-casa-propria-e-taxa-minima-vai-a-15-ao-ano/"
+    },
+    {
+      "titulo": "InfoMoney — Bradesco sobe juros do crédito imobiliário: por quê? E os outros bancos? (28/10/2026)",
+      "url": "https://www.infomoney.com.br/minhas-financas/bradesco-sobe-juros-do-credito-imobiliario-por-que-e-os-outros-bancos/"
+    },
+    {
+      "titulo": "Portas — Bradesco eleva juro mínimo da casa própria a 15% ao ano mais TR (28/10/2026)",
+      "url": "https://portas.com.br/noticias/bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-tr/"
+    },
+    {
+      "titulo": "Money Times — Governo estuda aplicar IOF sobre LCI, LCA e outros isentos, diz jornal (28/10/2026)",
+      "url": "https://www.moneytimes.com.br/governo-estuda-aplicar-iof-sobre-lci-lca-e-outros-isentos-diz-jornal-mlim/"
+    },
+    {
+      "titulo": "Seu Dinheiro — LCIs, LCAs e outros isentos voltam à mira do governo e podem passar a ter IOF (28/10/2026)",
+      "url": "https://www.seudinheiro.com/2026/renda-fixa/lcis-lcas-e-outros-isentos-voltam-a-mira-do-governo-e-podem-passar-a-ter-iof-diz-jornal-mlim/"
+    },
+    {
+      "titulo": "Agência Câmara — Medida provisória compensa recuo na cobrança do IOF (11/06/2025): 5% sobre LCI, LCA, CRI, CRA",
+      "url": "https://www.camara.leg.br/noticias/1169245-medida-provisoria-compensa-recuo-na-cobranca-do-imposto-sobre-operacoes-financeiras"
+    },
+    {
+      "titulo": "Metrópoles — Brasileiros sacaram R$ 85,6 bilhões da poupança em 2025 (09/01/2026)",
+      "url": "https://www.metropoles.com/brasil/economia-br/brasileiros-sacaram-r-856-bilhoes-da-poupanca-em-2025"
+    },
+    {
+      "titulo": "Jornal Opção — O que deve mudar nos financiamentos de imóveis pela Caixa (out/2024)",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/entenda-o-que-deve-mudar-nos-financiamentos-de-imoveis-pela-caixa-651837/"
+    },
+    {
+      "titulo": "TNH1 — Financiamento de imóveis pela Caixa: o que muda (out/2024)",
+      "url": "https://www.tnh1.com.br/noticia/nid/financiamento-de-imoveis-pela-caixa-entenda-o-que-muda-com-as-novas-regras/"
+    },
+    {
+      "titulo": "Eu Quero Investir — Emissão de LCI e LCA cai com CMN (2024), dados da B3 via Valor",
+      "url": "https://euqueroinvestir.com/educacao-financeira/emissao-de-lci-e-lca-cai-com-cmn"
+    },
+    {
+      "titulo": "B3: estoque de produtos de captação bancária (jun/2026), via Diário do Comércio",
+      "url": "https://diariodocomercio.com.br/?p=612576"
+    },
+    {
+      "titulo": "B3: estoque de dívida corporativa (1º tri/2026)",
+      "url": "https://www.b3.com.br/pt_br/noticias/renda-fixa-8AA8D0CD9DAAD6BE019DB58FB729555B.htm"
+    }
+  ],
+  "postado_em": "2026-10-28T14:30:00-03:00"
+}

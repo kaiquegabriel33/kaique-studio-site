@@ -1,0 +1,109 @@
+{
+  "id": "sug-tesouro-13-semana",
+  "titulo": "O Tesouro que subiu mais que a bolsa",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-10T20:50",
+  "atualizado": "2026-10-11T12:30",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tam": 54,
+          "texto": "O investimento \"seguro\" subiu mais que a bolsa na semana da eleição: ==13% em sete dias.==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": 640,
+          "raio": 18,
+          "src": "midia/sug-tesouro-13-semana/print-infomoney-titulos-do-tesouro-disparam-ate.png",
+          "tipo": "imagem"
+        }
+      ],
+      "papel": "capa",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 40,
+          "texto": "R$ 10 mil no Tesouro IPCA+ 2050 viraram ==R$ 11.302== de uma sexta pra outra. Na bolsa, R$ 10.882.",
+          "tipo": "texto"
+        },
+        {
+          "casas": 2,
+          "destaques": [
+            0
+          ],
+          "formato": "barras_h",
+          "h": 560,
+          "reservaValor": 200,
+          "rotulos": [
+            "Tesouro IPCA+ 2050",
+            "Tesouro Prefixado 2037",
+            "Tesouro IPCA+ 2040",
+            "Ibovespa"
+          ],
+          "subtitulo": "alta de 2 a 9/10, %",
+          "sufixo": "%",
+          "tipo": "grafico",
+          "titulo": "O título mais longo ganhou da bolsa",
+          "valores": [
+            13.02,
+            10.32,
+            9.3,
+            8.82
+          ]
+        }
+      ],
+      "papel": "evidência",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 46,
+          "texto": "Por quê? Esse título trava uma taxa até 2050.\n\nDepois do 1º turno, os títulos novos passaram a pagar menos: de inflação + 7,14% para inflação + 6,60% ao ano.\n\nQuem já tinha o que paga mais ficou com um papel ==mais disputado==. E o preço subiu.",
+          "tipo": "texto"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 46,
+          "texto": "Agora a outra metade da história.\n\nQuanto mais longe o vencimento, mais o preço balança. Funciona pros dois lados.\n\nSe a taxa voltar a subir, o mesmo título que ganhou 13% ==pode devolver rápido.==\n\nE o mercado está apostando numa expectativa, não num plano que já foi apresentado.",
+          "tipo": "texto"
+        }
+      ],
+      "papel": "post",
+      "tema": "claro"
+    },
+    {
+      "elementos": [
+        {
+          "tam": 46,
+          "texto": "E esse ganho só existe se vender. Até lá, é só o preço do dia.\n\nTesouro longo é ==seguro contra calote, não contra sobe e desce.==\n\nVocê sabia que o seu balança assim?",
+          "tipo": "texto"
+        }
+      ],
+      "papel": "conclusão",
+      "tema": "claro"
+    }
+  ],
+  "legenda": "R$ 10 mil no Tesouro IPCA+ 2050 viraram R$ 11.302 em uma semana. A bolsa, na mesma semana, R$ 10.882.\n\nO motivo: depois do 1º turno, os títulos novos passaram a pagar menos. Quem já tinha um que trava uma taxa maior até 2050 ficou com um papel mais disputado, e o preço subiu.\n\nSó que isso vale pros dois lados. O título longo é o que mais balança. Se a taxa voltar a subir, ele devolve rápido. E é aposta numa expectativa, não num plano apresentado.\n\nOutra coisa: o ganho é bruto e só existe se vender. Até lá, é só o preço do dia.\n\nSe você comprou Tesouro longo achando que era uma poupança melhor, agora sabe por que o saldo mexe tanto.\n\nFontes: InfoMoney (10/10/2026), com dados do Tesouro Nacional, Anbima e B3, fechamento de 02/10 a 09/10; valores brutos, Ibovespa sem dividendos. Conteúdo educativo, não é recomendação.\n\n#TesouroDireto #rendafixa #investimentos #eleicoes2026 #educacaofinanceira",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Títulos do Tesouro disparam até 13% em uma semana e batem Ibovespa (10/10/2026)",
+      "url": "https://www.infomoney.com.br/onde-investir/titulos-do-tesouro-disparam-ate-13-em-uma-semana-e-batem-ibovespa/"
+    },
+    {
+      "titulo": "InfoMoney (Instagram) — post com a tabela de valorização da semana",
+      "url": "https://www.instagram.com/infomoney/"
+    }
+  ],
+  "postado_em": "2026-10-13T10:38:24.827Z"
+}

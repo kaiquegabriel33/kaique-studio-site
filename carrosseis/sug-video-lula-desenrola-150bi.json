@@ -1,0 +1,70 @@
+{
+  "id": "sug-video-lula-desenrola-150bi",
+  "titulo": "Lula: “Nós vamos comprar 150 bilhões” da dívida do povo (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-15T18:50",
+  "atualizado": "2026-10-20T16:05",
+  "video_url": "https://www.youtube.com/watch?v=y-KdHRZ9Ggo&t=4800s",
+  "trecho_txt": "Flow News #077 com o Lula (Flow Podcast, 01/10). O link abre 15 s antes: grave de 1:20:15 a 1:20:42 (“…só o 5% que faltar pagar.”), celular deitado, tela cheia. Eu corto de “Nós vamos comprar 150 bilhões” até “que faltar pagar”.",
+  "trecho": {
+    "inicio": "Nós vamos comprar 150 bilhões",
+    "fim": "que faltar pagar",
+    "texto": "Nós vamos comprar 150 bilhões. Nós vamos fazer um leilão dessa dívida que muita dela já não vai, o banco não vai receber mais. Então essa dívida deve ser vendida para nós, sabe? Com 90% de desconto ou 95% de desconto no leilão. E a gente vai quitar a dívida do povo. Ele vai pagar só o 5% que faltar pagar.",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Nós vamos comprar 150 bilhões",
+        "texto": "Desenrola 3.0: MP de 25/09, dívidas de até R$ 10 mil",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "90% de desconto",
+        "texto": "Gasto da União limitado a R$ 15 bi; contratos só em fev/2027",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula sobre a dívida do povo: ==“Nós vamos comprar 150 bilhões”==."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Pagar só 5% da dívida? Foi o que o Lula prometeu no Flow, e o programa já saiu. Mas tem letra miúda.\n\nO Desenrola 3.0 saiu por medida provisória em 25 de setembro. O governo compra em leilão dívidas atrasadas de 2 a 4,5 anos, de até R$ 10 mil, com desconto mínimo de 90% para o banco.\n\nO que a fala não diz: o governo espera chegar a R$ 150 bilhões, mas a Fazenda estima R$ 75 bilhões renegociados de fato. O gasto da União tem teto de R$ 15 bilhões. E o cronograma prevê contratos e desconto chegando ao devedor só em fevereiro de 2027. A MP não garante o mesmo desconto para todo mundo.\n\nDo outro lado, o Flávio promete comprar a dívida pela Caixa, com 6 meses de carência, sem dizer quanto custa.\n\nVocê tem dívida parada há mais de 2 anos? Comenta aí.\n\nVídeo: Flow Podcast (01/10/2026). Fontes: Medida Provisória 1.393/2026, CNN Brasil e Serasa.\n\n#Desenrola #dividas #nomesujo #Lula #educacaofinanceira",
+  "fontes": [
+    {
+      "titulo": "Flow Podcast (YouTube) — LULA - Flow News #077 (01/10/2026)",
+      "url": "https://www.youtube.com/watch?v=y-KdHRZ9Ggo"
+    },
+    {
+      "titulo": "CNN Brasil — Governo anuncia Desenrola 3.0 e espera desconto de 90% em dívidas (25/09/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-anuncia-desenrola-3-0-e-espera-desconto-de-90-em-dividas/"
+    },
+    {
+      "titulo": "Serasa — Desenrola Brasil 3.0: tudo sobre a nova edição do programa (MP 1.393, de 25/09/2026)",
+      "url": "https://www.serasa.com.br/limpa-nome-online/blog/desenrola-brasil/"
+    },
+    {
+      "titulo": "Times Brasil (YouTube) — Flávio Bolsonaro apresenta propostas para economia (07/10/2026)",
+      "url": "https://www.youtube.com/watch?v=wHCQ7DrmNKA"
+    }
+  ],
+  "postado_em": "2026-10-22T16:00:00-03:00"
+}

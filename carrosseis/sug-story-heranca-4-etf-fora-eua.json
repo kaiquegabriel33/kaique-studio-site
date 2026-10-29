@@ -1,0 +1,79 @@
+{
+  "id": "sug-story-heranca-4-etf-fora-eua",
+  "titulo": "Story herança 4/6: ETF da Irlanda fica fora da herança americana; dividendo 30% x 15%",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T19:20",
+  "legenda": "",
+  "comentario": "O pulo do gato: mesmo cardápio, outro restaurante.\nO ETF irlandês compra as mesmas ações americanas, mas tem endereço na Irlanda. Pro governo americano, não é herança dele.\n\nE ainda tem bônus: de cada US$ 100 de dividendo, o governo americano fica com US$ 30.\nNo ETF irlandês, US$ 15.",
+  "serie": "heranca",
+  "ordem_serie": 4,
+  "fontes": [
+    {
+      "titulo": "IRS — Instructions for Form 706-NA, rev. 09/2025 (crédito de US$ 13 mil; ação de empresa não americana fica fora dos EUA)",
+      "url": "https://www.irs.gov/instructions/i706na"
+    },
+    {
+      "titulo": "IRS — Withholding on U.S. source income paid to nonresident aliens (dividendos: 30% ou a alíquota menor do tratado)",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/federal-income-tax-withholding-and-reporting-on-other-kinds-of-us-source-income-paid-to-nonresident-aliens"
+    },
+    {
+      "titulo": "IRS — United States income tax treaties A to Z (Irlanda tem tratado; Brasil não)",
+      "url": "https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z"
+    },
+    {
+      "titulo": "Tratado EUA–Irlanda, art. 10 (dividendos de carteira: até 15%) — Senate Treaty Doc. 105-31",
+      "url": "https://www.govinfo.gov/content/pkg/CDOC-105tdoc31/html/CDOC-105tdoc31.htm"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-4-etf-fora-eua/globo.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O pulo do gato: [[verde:mesmo cardápio, outro restaurante]].\nO ETF irlandês compra as mesmas ações americanas, mas tem endereço na Irlanda. Pro governo americano, [[verde:não é herança dele]].",
+          "tam": 50
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-4-etf-fora-eua/globo.jpg",
+        "escurecer": 0.45,
+        "desfoque": 10,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "E ainda tem bônus: de cada US$ 100 de dividendo, o governo americano fica com [[vermelho:US$ 30]].\nNo ETF irlandês, [[verde:US$ 15]].",
+          "tam": 50
+        }
+      ]
+    }
+  ],
+  "postado_em": "2026-10-22T19:50:00-03:00"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "sug-video-circuit-breaker-cnn",
+  "titulo": "CNN Money no circuit breaker: “é a primeira vez desde a pandemia” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-26T10:25",
+  "atualizado": "2026-10-26T10:25",
+  "trecho": {
+    "inicio": "Quando a gente olha para o Ibovespa Futuro",
+    "fim": "acionado no mercado brasileiro.",
+    "texto": "Quando a gente olha para o Ibovespa Futuro, a gente olha para a expectativa do mercado em relação ao comportamento do principal índice da Bolsa Brasileira. Não temos o principal índice da Bolsa Brasileira agora em negociação plena. 16,78% de queda agora do índice Futuro, precificando essa perspectiva bastante negativa em relação aos ativos. É a primeira vez desde a pandemia de Covid-19 que um circuit breaker é acionado no mercado brasileiro.",
+    "gancho": "É a primeira vez desde a pandemia de Covid-19 que um circuit breaker é acionado",
+    "crop": [
+      1214,
+      682,
+      76,
+      28
+    ],
+    "enquadrar": false,
+    "girar": "nao",
+    "cta": true,
+    "trocar_palavras": {
+      "Secret": "circuit"
+    },
+    "contexto": [
+      {
+        "desde": "Quando a gente olha",
+        "texto": "26/10/2026, 10h03: a B3 parou o pregão por 30 minutos. Regra: o Ibovespa caiu 10% sobre o fechamento anterior",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "É a primeira vez",
+        "texto": "Em março de 2020, na pandemia, a B3 acionou 6 circuit breakers em 8 pregões",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Bolsa parada no dia seguinte à eleição: ==“é a primeira vez desde a pandemia”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“É a primeira vez desde a pandemia de Covid-19 que um circuit breaker é acionado no mercado brasileiro.” Foi a cobertura ao vivo da CNN Money, na manhã de 26/10/2026.\n\nCircuit breaker é o freio da Bolsa: quando o Ibovespa cai 10% em relação ao fechamento anterior, a B3 para as negociações por 30 minutos. Se a queda chega a 15% depois da volta, para por mais 1 hora; a 20%, a B3 decide por quanto tempo. Hoje ele foi acionado às 10h03, no primeiro pregão depois da reeleição do Lula. O dólar passou de R$ 5,60.\n\nA última vez foi em março de 2020, quando a B3 acionou 6 circuit breakers em 8 pregões.\n\nVocê já tinha visto a Bolsa parar? Comenta aí.\n\nConteúdo informativo, não é recomendação de investimento.\nVídeo: reprodução CNN Money (26/10/2026).\n\n#circuitbreaker #ibovespa #B3 #dolar #mercadofinanceiro",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil Money — AO VIVO: Dólar dispara 12% e Ibovespa futuro despenca após vitória de Lula (26/10/2026)",
+      "url": "https://www.youtube.com/watch?v=0vuB9FbeHKM"
+    },
+    {
+      "titulo": "Money Times — Tempo real: Ibovespa reage à vitória de Lula; circuit breaker é acionado (26/10/2026, 10h03)",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/"
+    },
+    {
+      "titulo": "B3 — Circuit breaker (regras: 10%, 15%, 20%)",
+      "url": "https://www.b3.com.br/en_us/news/circuit-breaker.htm"
+    },
+    {
+      "titulo": "InfoMoney — Ibovespa cai mais de 10% e B3 aciona sexto circuit breaker em 8 pregões (março de 2020)",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-mais-de-10-e-b3-aciona-sexto-circuit-breaker-em-8-pregoes/"
+    }
+  ],
+  "postado_em": "2026-10-26T10:39:00-03:00"
+}

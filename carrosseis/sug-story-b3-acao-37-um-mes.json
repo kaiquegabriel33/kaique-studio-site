@@ -1,0 +1,47 @@
+{
+  "id": "sug-story-b3-acao-37-um-mes",
+  "titulo": "Story: a ação da própria B3 subiu 37% em 30 dias",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-21T18:40",
+  "atualizado": "2026-10-21T18:40",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-b3-acao-37-um-mes/b3-b3sa3-dispara-37-em-um-mes-ainda-da-tempo-de.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        },
+        "desfoque": 18,
+        "escurecer": 0.45
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A ação da própria bolsa subiu 37% em 30 dias. Eleição e juro caindo fazem todo mundo negociar mais, e a B3 cobra por cada negócio. Na corrida do ouro, quem vende a pá lucra."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-b3-acao-37-um-mes/print-money-times-b3-b3sa3-dispara-37-em-um-mes-ai.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "centralizar": true
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Money Times — B3 (B3SA3) dispara 37% em um mês; Santander eleva recomendação (21/10/2026)",
+      "url": "https://www.moneytimes.com.br/b3-b3sa3-dispara-37-em-um-mes-ainda-da-tempo-de-comprar-santander-eleva-recomendacao-e-fixa-novo-preco-alvo-miql/"
+    }
+  ],
+  "postado_em": "2026-10-23T12:30:00-03:00"
+}

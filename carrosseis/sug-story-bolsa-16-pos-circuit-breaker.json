@@ -1,0 +1,56 @@
+{
+  "id": "sug-story-bolsa-16-pos-circuit-breaker",
+  "titulo": "Story: depois do circuit breaker, Ibovespa cai 16%",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-26T11:20",
+  "atualizado": "2026-10-26T11:20",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Bolsa voltou do circuit breaker e segue derretendo: o Ibovespa cai 16%, aos 170 mil pontos. O dólar está em R$ 5,60."
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "rotulos": [
+            "Magalu",
+            "B3",
+            "Grandes bancos",
+            "Petrobras",
+            "Vale"
+          ],
+          "valores": [
+            -48,
+            -47,
+            -31,
+            -8,
+            6
+          ],
+          "sufixo": "%",
+          "casas": 0,
+          "sinal": true,
+          "destaques": [
+            0,
+            1
+          ],
+          "fonte": "InfoMoney, 26/10/2026, por volta das 11h15 (bancos: até -31%)"
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Ibovespa ao vivo (26/10/2026, ~11h15)",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
+    }
+  ]
+}

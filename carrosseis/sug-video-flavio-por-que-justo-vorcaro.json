@@ -1,0 +1,65 @@
+{
+  "id": "sug-video-flavio-por-que-justo-vorcaro",
+  "titulo": "1.600 instituições financeiras: por que justo o Vorcaro? A resposta do Flávio (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T23:15",
+  "atualizado": "2026-10-19T01:00",
+  "trecho": {
+    "inicio": "O Brasil tem cerca de 1.600",
+    "fim": "não tinha absolutamente nada de errado",
+    "texto": "O Brasil tem cerca de 1.600 instituições financeiras, tem quase 170 bancos. Por que de todas essas empresas o senhor foi bater na porta justo do Daniel Vorcaro? Olha, eu conversei com vários possíveis investidores e ele topou fazer numa época que ele não tinha absolutamente nada de errado.",
+    "gancho": false,
+    "trocar_palavras": {
+      "Vurcaro": "Vorcaro",
+      "Borcaro": "Vorcaro"
+    },
+    "contexto": [
+      {
+        "desde": "1.600 instituições",
+        "texto": "Entrevista à TV Globo, 2º turno, 16/10",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "ele topou",
+        "texto": "O BC liquidou o Banco Master em 18/11/2025",
+        "cor": "vermelho"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "O Brasil tem 1.600 instituições financeiras. Por que o Flávio bateu justo na porta do Vorcaro? ==“ele topou”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Por que de todas essas empresas o senhor foi bater na porta justo do Daniel Vorcaro?” A pergunta da Renata Lo Prete ao Flávio.\n\nA resposta: “eu conversei com vários possíveis investidores e ele topou fazer numa época que ele não tinha absolutamente nada de errado”.\n\nO Banco Central liquidou o Banco Master em 18/11/2025.\n\nConvenceu? Comenta aí.\n\nVídeo: entrevista à TV Globo (16/10/2026). Liquidação: Poder360.\n\n#FlavioBolsonaro #Vorcaro #BancoMaster #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "TV Globo — entrevista de Flávio Bolsonaro a Renata Lo Prete, 2º turno (16/10/2026, ao vivo)",
+      "url": "https://g1.globo.com/"
+    },
+    {
+      "titulo": "Poder360 — Banco Central decreta liquidação extrajudicial do Banco Master (18/11/2025)",
+      "url": "https://poder360.com.br/poder-economia/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/"
+    }
+  ],
+  "postado_em": "2026-10-20T15:00:00.000Z"
+}

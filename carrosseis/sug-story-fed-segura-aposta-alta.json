@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-fed-segura-aposta-alta",
+  "titulo": "Story: Fed segura os juros, mas o mercado já aposta em alta",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T16:30",
+  "atualizado": "2026-10-28T16:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-fed-segura-aposta-alta/cme-mercado-mantem-aposta-de-alta-de-juros-em-de.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Fed, o banco central dos EUA, segurou os juros entre 3,75% e 4% nesta quarta (28/10). Mas o mercado já dá [[vermelho:87,5%]] de chance de alta em dezembro. Juro subindo lá costuma puxar o dólar aqui."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-fed-segura-aposta-alta/print-infomoney-cme-mercado-mantem-aposta-de-alt.png",
+          "h": 330,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "InfoMoney (Lara Rizério) — CME: mercado mantém aposta de alta de juros em dezembro pelo Fed após decisão (28/10/2026): Fed Funds mantidos entre 3,75% e 4,00%; FedWatch às 15h06: 87,5% de chance de alta de 25 pb em dezembro",
+      "url": "https://www.infomoney.com.br/economia/cme-mercado-mantem-aposta-de-alta-de-juros-em-dezembro-pelo-fed-apos-decisao/"
+    }
+  ]
+}

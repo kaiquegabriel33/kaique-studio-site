@@ -1,0 +1,97 @@
+{
+  "id": "sug-story-debate-divida-dos-dois",
+  "titulo": "Stories: os dois prometeram comprar a sua dívida (Flávio x Desenrola 3.0 do Lula)",
+  "status": "publicado",
+  "formato": "story",
+  "criado": "2026-10-18T22:20",
+  "atualizado": "2026-10-18T22:20",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Os dois prometeram comprar a sua dívida no debate."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-divida-dos-dois/flavio-plano-divida.jpg",
+          "h": 480,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Flávio: o governo compra a dívida dos bancos, 6 meses sem boleto e a parcela de R$ 200 vira R$ 20. Não disse quanto custa."
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Lula: “nós já estamos comprando a dívida”, com desconto de até 92% e um Pix na conta pra recomeçar."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-divida-dos-dois/lula-comprando-divida.jpg",
+          "h": 440,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "(Repara: o Flávio passando atrás dele de novo.)"
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Fui conferir o do Lula: é o Desenrola 3.0. A União compra a dívida em leilão com desconto mínimo de 90%."
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Vale pra dívida de até R$ 10 mil atrasada de 2 a 4 anos e meio. Custa uns R$ 15 bi e ainda depende do Congresso. Pix na conta, não achei."
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Você tem dívida atrasada há mais de 2 anos?"
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Band — debate do 2º turno entre Flávio Bolsonaro e Lula (18/10/2026, ao vivo); quadros das gravações de tela",
+      "url": "https://www.band.com.br/"
+    },
+    {
+      "titulo": "Band — Saiba como funcionará compra de dívidas pela União (Desenrola 3.0, MP 1393/2026)",
+      "url": "https://www.band.com.br/economia/saiba-como-funcionara-compra-de-dividas-pela-uniao"
+    },
+    {
+      "titulo": "Mercado & Consumo — Desenrola 3.0: como funcionará a compra de dívidas pela União (26/09/2026)",
+      "url": "https://mercadoeconsumo.com.br/26/09/2026/noticias/desenrola-3-0-saiba-como-funcionara-compra-de-dividas-pela-uniao/amp/"
+    }
+  ],
+  "postado_em": "2026-10-19T02:20:10.672Z"
+}

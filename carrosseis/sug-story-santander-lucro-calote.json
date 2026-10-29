@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-santander-lucro-calote",
+  "titulo": "Story: lucro do Santander cai 28% por causa do calote",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T10:00",
+  "atualizado": "2026-10-28T15:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O lucro do Santander caiu 28% no 3º tri. Culpa do [[vermelho:calote]]: a inadimplência subiu para 3,4%, com pressão na baixa renda. A resposta do banco foi encolher o crédito pessoal e o consignado. Banco com medo empresta menos."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-santander-lucro-calote/print-folha-santander.png",
+          "h": 330,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-santander-lucro-calote/lucro-do-santander-cai-28-sob-pressao-de-proviso.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Folha de S.Paulo / C-Level (Gustavo Boldrini e Júlia Moura) — Lucro do Santander cai 28% sob pressão de provisões contra calotes (28/10/2026, 7h49): lucro gerencial de R$ 2,885 bi no 3º tri; inadimplência acima de 90 dias 3,4% (2,8% um ano antes); PDD +14,4% (R$ 7,46 bi); pressão no agro e na baixa renda; carteiras de consignado e crédito pessoal encolheram",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/lucro-do-santander-cai-28-sob-pressao-de-provisoes-contra-calotes.shtml"
+    }
+  ]
+}

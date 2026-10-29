@@ -1,0 +1,68 @@
+{
+  "id": "sug-video-malafaia-ficasse-preso",
+  "titulo": "Malafaia: “Queriam que o Flávio ficasse aqui para ser preso?” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T15:20",
+  "atualizado": "2026-10-28T15:45",
+  "trecho": {
+    "inicio": "Ele é um magistrado. Uma marca do magistrado é a imparcialidade.",
+    "fim": "Está corretíssimo.",
+    "texto": "Ele é um magistrado. Uma marca do magistrado é a imparcialidade. Cara, ele não é magistrado. Ele é um agente político no STF. Vocês queriam o quê? Eu estou vendo a esquerda espernear. Queria que Flávio ficasse aqui para ser preso sem o devido processo legal numa perseguição, igual a farsa do golpe que prendeu o pai dele? Ele fica aqui esperando? Está corretíssimo.",
+    "aspa_manchete": "para ser preso",
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Ele é um magistrado",
+        "texto": "28/10/2026: Silas Malafaia, em vídeo nas redes, sobre o ministro Alexandre de Moraes",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Queria que Flávio ficasse aqui",
+        "texto": "27/10: PF cancelou os passaportes do Flávio. 28/10: ele pousou em Miami",
+        "cor": "vermelho"
+      }
+    ],
+    "crop": [
+      600,
+      490,
+      660,
+      348
+    ],
+    "enquadrar": false
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Malafaia diz que queriam o Flávio no Brasil ==“para ser preso”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Silas Malafaia defendeu a saída do Flávio e perguntou se queriam que ele ficasse aqui “para ser preso sem o devido processo legal”.\n\nFoi em vídeo nas redes nesta quarta (28/10/2026). O pastor chamou o ministro Alexandre de Moraes, do STF, de “agente político” e disse que o Flávio Bolsonaro (PL) fez “corretíssimo”. O Moraes tinha proibido o Flávio de sair do país; a Polícia Federal cancelou os passaportes dele em 27/10, e o avião com ele e a família pousou em Miami na manhã de 28/10.\n\nFez certo ou fugiu da Justiça? Comenta aí.\n\nVídeo: reprodução @silasmalafaia via Poder360 (28/10/2026). Fontes: Poder360 (28/10/2026).\n\n#SilasMalafaia #FlavioBolsonaro #AlexandreDeMoraes #STF #politica",
+  "fontes": [
+    {
+      "titulo": "Poder360 — “Queriam que Flávio ficasse aqui para ser preso?”, diz Malafaia (28/10/2026)",
+      "url": "https://www.youtube.com/watch?v=VD6m9E8oV_8"
+    },
+    {
+      "titulo": "Poder360 — Avião com Flávio Bolsonaro chega aos EUA (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-internacional/aviao-com-flavio-bolsonaro-chega-aos-eua/"
+    }
+  ]
+}

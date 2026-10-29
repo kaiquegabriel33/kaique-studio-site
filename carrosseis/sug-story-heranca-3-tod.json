@@ -1,0 +1,73 @@
+{
+  "id": "sug-story-heranca-3-tod",
+  "titulo": "Story herança 3/6: TOD tira o inventário, não o imposto",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:30:00-03:00",
+  "atualizado": "2026-10-22T19:20",
+  "legenda": "",
+  "comentario": "A primeira coisa que a gente olhou beira o ridículo de tão simples: o TOD.\nMuita gente tem dinheiro lá fora e nunca assinou esse termo.\nFunciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, sem inventário lá fora.\n\nMas atenção: o TOD tira a fila, não tira a mordida.\nOs 18% a 40% continuam valendo.",
+  "serie": "heranca",
+  "ordem_serie": 3,
+  "fontes": [
+    {
+      "titulo": "FINRA — Plan ahead: transfer your brokerage account assets at death (17/01/2023): TOD evita o inventário (probate), mas o imposto sobre herança pode incidir",
+      "url": "https://www.finra.org/investors/insights/plan-ahead-transfer-your-brokerage-account-assets-death"
+    },
+    {
+      "titulo": "IRS — FAQ on estate taxes for nonresidents not citizens (imóvel e valores mobiliários dos EUA contam; depósito bancário e títulos com 'portfolio interest' não)",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-estate-taxes-for-nonresidents-not-citizens-of-the-united-states"
+    },
+    {
+      "titulo": "IRS — Instructions for Form 706, Table A (alíquotas de 18% a 40%; 40% acima de US$ 1 milhão)",
+      "url": "https://www.irs.gov/instructions/i706"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-3-tod/fundo-grafite.jpg",
+        "escurecer": 0,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A primeira coisa que a gente olhou [[vermelho:beira o ridículo]] de tão simples: o [[verde:TOD]].\nMuita gente tem dinheiro lá fora e [[vermelho:nunca assinou esse termo]].\nFunciona como o beneficiário do seguro de vida: você deixa o nome escrito e o dinheiro vai direto pra família, [[verde:sem inventário]] lá fora.",
+          "tam": 50
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-heranca-3-tod/fundo-grafite.jpg",
+        "escurecer": 0,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Mas atenção: o TOD [[verde:tira a fila]], [[vermelho:não tira a mordida]].\nOs 18% a 40% continuam valendo.",
+          "tam": 50
+        }
+      ]
+    }
+  ],
+  "postado_em": "2026-10-22T19:46:00-03:00"
+}

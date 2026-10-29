@@ -1,0 +1,50 @@
+{
+  "id": "sug-story-opcoes-semanais-dobram",
+  "titulo": "Story: opção semanal na B3 foi de R$ 19 mi para R$ 106 mi por dia em dois anos",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T11:50",
+  "atualizado": "2026-10-22T11:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-opcoes-semanais-dobram/painel-b3.jpg",
+        "foco": {
+          "x": 0.75,
+          "y": 0.45
+        },
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Opção semanal na B3 foi de R$ 19 mi por dia em 2024 pra R$ 106 mi agora. É aposta com prazo de 7 dias: se o movimento não vem, quem comprou perde o que pagou."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-opcoes-semanais-dobram/print-investalk-bb-com-br-opcoes-batem-recorde-na-b3-volum.png",
+          "h": 153,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "centralizar": true
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "BPMoney — B3: mercado de opções avança 79% e alcança recorde em 2026 (15/10/2026, dados da B3 até 09/10)",
+      "url": "https://bpmoney.com.br/?p=427399"
+    },
+    {
+      "titulo": "InvesTalk (BB) — Opções batem recorde na B3: volume diário sobe 79% em 2026",
+      "url": "https://investalk.bb.com.br/noticias/mercado/opcoes-batem-recorde-na-b3-volume-diario-sobe-79-em-2026"
+    }
+  ],
+  "postado_em": "2026-10-24T10:00:00-03:00"
+}

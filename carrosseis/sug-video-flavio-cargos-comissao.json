@@ -1,0 +1,57 @@
+{
+  "id": "sug-video-flavio-cargos-comissao",
+  "titulo": "Flávio: “Você que é servidor público de carreira, fique tranquilo” e os cargos em comissão (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-16T22:15",
+  "atualizado": "2026-10-19T01:00",
+  "trecho": {
+    "inicio": "eu quero aqui assumir o compromisso",
+    "fim": "os seus cargos eleitorais",
+    "texto": "eu quero aqui assumir o compromisso, eu não vou fazer economia com as pessoas que mais precisam do governo, as pessoas mais pobres. Tem de onde tirar, tem muito corte de despesa, em especial no combate à corrupção. O presidente Bolsonaro, ele extinguiu mais de 20 mil cargos em comissão. Você que é servidor público de carreira de Estado, você fique tranquilo, a sua profissão está garantida, ninguém vai atacar isso. E o Lula já criou mais de 22 mil e 500 cargos em comissão, só um exemplo de como é que o governo usa a sua estrutura para entregar os seus companheiros, os seus cargos eleitorais.",
+    "gancho": false,
+    "contexto": [
+      {
+        "desde": "assumir o compromisso",
+        "texto": "Entrevista à TV Globo, 2º turno, 16/10",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "cargos em comissão",
+        "texto": "Os números de cargos são afirmação dele na entrevista",
+        "cor": "vermelho"
+      }
+    ],
+    "cta": true
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Flávio promete ao servidor: ==“a sua profissão está garantida”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Você que é servidor público de carreira de Estado, você fique tranquilo, a sua profissão está garantida.” É o recado do Flávio ao servidor de carreira.\n\nEle prometeu não “fazer economia com as pessoas que mais precisam” e disse que o corte vem dos cargos em comissão: segundo ele, o Bolsonaro extinguiu mais de 20 mil e o Lula criou mais de 22,5 mil. Os números são afirmação dele na entrevista.\n\nCorte de cargo resolve as contas? Comenta aí.\n\nVídeo: entrevista à TV Globo (16/10/2026).\n\n#FlavioBolsonaro #servidorpublico #eleicoes2026 #economia",
+  "fontes": [
+    {
+      "titulo": "TV Globo — entrevista de Flávio Bolsonaro a Renata Lo Prete, 2º turno (16/10/2026, ao vivo)",
+      "url": "https://g1.globo.com/"
+    }
+  ],
+  "postado_em": "2026-10-21T16:00:00-03:00"
+}

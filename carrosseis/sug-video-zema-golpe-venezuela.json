@@ -1,0 +1,71 @@
+{
+  "id": "sug-video-zema-golpe-venezuela",
+  "titulo": "Zema acusa Lula de “golpe à la Venezuela” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-26T11:40",
+  "atualizado": "2026-10-26T11:40",
+  "trecho": {
+    "inicio": "A lá Venezuela",
+    "fim": "vale tudo.",
+    "texto": "A lá Venezuela, a mesma coisa que o seu companheiro e ditador fez lá, prorrogando o prazo da eleição. Os sindicalistas do PT adesivaram o ônibus lá em Salvador. Isso sem falar na quantidade de fake news que foram veiculadas nesses últimos meses. Essa foi a eleição mais alarmista e mentirosa que eu já vi no Brasil. Mas se é para somar para o lado deles, vale tudo.",
+    "crop": [
+      1080,
+      1040,
+      0,
+      200
+    ],
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "A lá Venezuela",
+        "texto": "Romeu Zema (Novo), em vídeo nas redes na noite de 25/10/2026, depois da reeleição do Lula",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Os sindicalistas do PT",
+        "texto": "Ele não apresentou provas. A prorrogação até as 19h foi decisão do ministro Zanin (STF), e o TSE proclamou o Lula reeleito com 51,79%",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Zema acusa o Lula de um ==“golpe à la Venezuela”== por causa da prorrogação da votação"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“A la Venezuela, a mesma coisa que o seu companheiro e ditador fez lá, prorrogando o prazo da eleição.” Foi o Romeu Zema (Novo), em vídeo nas redes na noite de 25/10/2026.\n\nEle também chamou a disputa de “a eleição mais alarmista e mentirosa” que já viu, sem apresentar provas. A prorrogação da votação até as 19h foi decisão do ministro Cristiano Zanin, do STF, por falta de ônibus em várias cidades. O TSE proclamou o Lula reeleito com 51,79% dos votos válidos, e ministros do STF e do TSE descartaram anular a eleição.\n\nExagero ou tem razão? Comenta aí.\n\nVídeo: reprodução Metrópoles / @romeuzema (25/10/2026).\n\n#eleicoes2026 #Zema #Lula #STF #TSE",
+  "fontes": [
+    {
+      "titulo": "Metrópoles — Zema acusa Lula de dar “golpe à la Venezuela” após prorrogação da votação (YouTube)",
+      "url": "https://www.youtube.com/watch?v=niSDwILav7A"
+    },
+    {
+      "titulo": "Poder360 — Zema diz que Lula aplicou “golpe à la Venezuela” na eleição",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-diz-que-lula-aplicou-golpe-a-la-venezuela-na-eleicao/"
+    },
+    {
+      "titulo": "TSE — Resultados 2º turno",
+      "url": "https://resultados.tse.jus.br"
+    }
+  ],
+  "postado_em": "2026-10-26T12:14:00-03:00"
+}

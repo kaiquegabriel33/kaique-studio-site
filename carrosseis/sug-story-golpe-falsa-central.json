@@ -1,0 +1,49 @@
+{
+  "id": "sug-story-golpe-falsa-central",
+  "titulo": "Story: golpe da falsa central do banco",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-25T12:20",
+  "atualizado": "2026-10-25T12:20",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-golpe-falsa-central/cafe-da-manha.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Banco nenhum pede Pix pra “proteger” o seu dinheiro. Ligaram falando de compra suspeita? Desliga e fala com o banco pelo app. Desconfiar, nesse caso, não é falta de educação."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-golpe-falsa-central/print-www-h2foz-com-br-pix-veja-como-proteger-se-do-gol.png",
+          "h": 360,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "H2FOZ (com informações da AEN/Polícia Civil do Paraná) — PIX: veja como proteger-se do golpe da falsa central bancária (19/10/2026)",
+      "url": "https://www.h2foz.com.br/govpr/pix-golpe-falsa-central-bancaria/"
+    },
+    {
+      "titulo": "Band Paraná — Golpe da falsa central bancária: PCPR faz alerta no Paraná (17/10/2026)",
+      "url": "https://www.band.com.br/nacional/pr/golpe-da-falsa-central-bancaria-pcpr-faz-alerta-no-parana"
+    }
+  ]
+}

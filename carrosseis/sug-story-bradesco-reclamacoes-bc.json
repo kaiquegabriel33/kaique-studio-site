@@ -1,0 +1,53 @@
+{
+  "id": "sug-story-bradesco-reclamacoes-bc",
+  "titulo": "Story: Bradesco lidera o ranking de reclamações do BC (3º trimestre)",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T18:20:00-03:00",
+  "atualizado": "2026-10-22T18:20",
+  "legenda": "",
+  "comentario": "Bradesco ficou em 1º no ranking de reclamações do Banco Central: 57 queixas procedentes por milhão de clientes. Banco grande não é sinônimo de bom atendimento. Antes de abrir conta, olha esse ranking.",
+  "repost_url": "https://www.infomoney.com.br/mercados/bradesco-lidera-ranking-de-reclamacoes-do-bc-do-3o-trimestre/",
+  "fontes": [
+    {
+      "titulo": "InfoMoney (Estadão Conteúdo) — Bradesco lidera ranking de reclamações do BC do 3º trimestre (22/10/2026; índice 57,23 por milhão de clientes, 6.333 reclamações procedentes)",
+      "url": "https://www.infomoney.com.br/mercados/bradesco-lidera-ranking-de-reclamacoes-do-bc-do-3o-trimestre/"
+    },
+    {
+      "titulo": "Banco Central — Ranking de reclamações",
+      "url": "https://www.bcb.gov.br/meubc/rankingreclamacoes"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Bradesco ficou em 1º no ranking de reclamações do Banco Central: 57 queixas procedentes por milhão de clientes. Banco grande não é sinônimo de bom atendimento. Antes de abrir conta, olha esse ranking."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bradesco-reclamacoes-bc/print-infomoney-bradesco-lidera-ranking-de-recla.png",
+          "h": 560,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-bradesco-reclamacoes-bc/bradesco-lidera-ranking-de-reclamacoes-do-bc-do.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.3
+        },
+        "clarear": 0.2
+      }
+    }
+  ],
+  "postado_em": "2026-10-24T12:30:00-03:00"
+}

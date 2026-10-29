@@ -1,0 +1,46 @@
+{
+  "id": "sug-story-capital-economics-divida-95",
+  "titulo": "Story: consultoria vê dívida a 95% do PIB e Selic parada em 13,75%",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-26T16:30",
+  "atualizado": "2026-10-26T16:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-capital-economics-divida-95/sala-reuniao-mesa-longa.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Capital Economics vê a dívida do país indo de 82,5% para 95% do PIB até 2030 e a Selic parada em 13,75% até o fim do ano. Juro alto por mais tempo, no seu financiamento também."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-capital-economics-divida-95/print-money-times-lula-reeleito-capital-economics.png",
+          "h": 570,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Money Times (Juliana Caveiro) — Lula reeleito: Capital Economics vê dívida rumo a 95% do PIB e freio nos cortes da Selic (26/10/2026, 14:52)",
+      "url": "https://www.moneytimes.com.br/lula-reeleito-capital-economics-ve-divida-rumo-a-95-do-pib-e-freio-nos-cortes-da-selic/"
+    }
+  ],
+  "postado_em": "2026-10-28T15:00:00-03:00"
+}

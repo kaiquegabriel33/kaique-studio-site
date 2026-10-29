@@ -1,0 +1,45 @@
+{
+  "id": "grav-explicador-circuit-breaker",
+  "titulo": "Você explica: o circuit breaker de hoje (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-26T11:30",
+  "atualizado": "2026-10-26T11:30",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "A Bolsa ==desligou==: o circuit breaker de hoje"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Às 10h03 desta segunda (26/10/2026), a Bolsa brasileira desligou. Por 30 minutos, ninguém comprou nem vendeu uma ação. Foi o circuit breaker, o primeiro desde março de 2020.\n\nEu explico do jeito mais simples o que é, por que aconteceu e como isso chega no seu bolso.\n\nRegra da B3: queda de 10% no Ibovespa = 30 minutos parado; 15% = 1 hora; 20% = a B3 decide. Antes da abertura, o Ibovespa futuro chegou a cair 19,7%, o dólar bateu R$ 5,605 e o EWZ caía 27,5% em Nova York.\n\nE você, o que fez hoje? Comenta aí.\n\nConteúdo informativo, não é recomendação de investimento.\n\nFontes: B3, InfoMoney e Money Times (26/10/2026).\n\n#circuitbreaker #ibovespa #B3 #dolar #educacaofinanceira",
+  "fontes": [
+    {
+      "titulo": "Money Times (26/10/2026)",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/"
+    },
+    {
+      "titulo": "InfoMoney (26/10/2026)",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
+    },
+    {
+      "titulo": "B3 — regras do circuit breaker",
+      "url": "https://www.b3.com.br/en_us/news/circuit-breaker-8AE490CA70CB10030170CEECFCE05EAF.htm"
+    }
+  ],
+  "postado_em": "2026-10-26T11:41:00-03:00"
+}

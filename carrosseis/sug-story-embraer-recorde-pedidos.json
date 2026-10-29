@@ -1,0 +1,46 @@
+{
+  "id": "sug-story-embraer-recorde-pedidos",
+  "titulo": "Story: Embraer bate recorde de US$ 35,7 bilhões em pedidos",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-23T09:45",
+  "atualizado": "2026-10-23T09:45",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-embraer-recorde-pedidos/praia-ceu-nuvens.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Embraer nunca teve tanto avião vendido esperando entrega: US$ 35,7 bilhões em pedidos. Em nove meses, já entregou 175 aviões. Tem empresa brasileira jogando em outro nível."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-embraer-recorde-pedidos/print-economia-uol-com-br-embraer-bate-recorde-de-us-35-7.png",
+          "h": 288,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "UOL Economia — Embraer bate recorde de US$ 35,7 bilhões em pedidos no 3º trimestre (23/10/2026)",
+      "url": "https://economia.uol.com.br/noticias/redacao/2026/10/23/embraer-atinge-recorde-de-us-357-bilhoes-em-pedidos-no-3-trimestre.htm"
+    }
+  ],
+  "postado_em": "2026-10-26T12:30:00-03:00"
+}

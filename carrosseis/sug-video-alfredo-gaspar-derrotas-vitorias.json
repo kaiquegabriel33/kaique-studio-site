@@ -1,0 +1,63 @@
+{
+  "id": "sug-video-alfredo-gaspar-derrotas-vitorias",
+  "titulo": "Vice do Flávio, Alfredo Gaspar: “o sistema também mudou as regras da eleição” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T12:30",
+  "atualizado": "2026-10-28T12:30",
+  "trecho": {
+    "inicio": "Nunca foi por mim, nunca foi pelo poder",
+    "fim": "nós permanecemos de pé ao lado de quase 60 milhões de brasileiros.",
+    "texto": "Nunca foi por mim, nunca foi pelo poder, foi pela vontade de mudar o país e quase 60 milhões de brasileiros e brasileiras acreditaram na gente. Foram muitos obstáculos, perseguições, mas nós resistimos, nós ultrapassamos os obstáculos, vencemos no primeiro turno com mais de 2 milhões de votos. No dia que os brasileiros foram às urnas, o sistema também mudou as regras da eleição, mas nós permanecemos de pé ao lado de quase 60 milhões de brasileiros.",
+    "gancho": "o sistema também mudou as regras da eleição",
+    "girar": "nao",
+    "crop": [1080, 1250, 0, 215],
+    "preencher": false,
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Nunca foi por mim",
+        "texto": "28/10: Flávio pousou nos EUA com a família",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "No dia que os brasileiros foram às urnas",
+        "texto": "25/10: Zanin (STF) prorrogou a votação até as 19h",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Vice do Flávio diz que ==“o sistema também mudou as regras”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Vice do Flávio diz que “o sistema também mudou as regras da eleição”.\n\nAlfredo Gaspar (PL), vice na chapa do Flávio Bolsonaro, falou em vídeo publicado em 27/10/2026, depois da derrota no 2º turno. A frase se refere à decisão do ministro Cristiano Zanin, do STF, que prorrogou a votação até as 19h em parte do país por falta de ônibus. Pelo TSE, Lula foi reeleito com 51,8% dos votos válidos. Em 28/10, o avião com o Flávio pousou nos Estados Unidos.\n\nVocê acha que a prorrogação mudou o resultado? Comenta aí.\n\nVídeo: reprodução UOL (27/10/2026). Fontes: Poder360 (28/10/2026), TSE.\n\n#AlfredoGaspar #FlavioBolsonaro #eleicoes2026 #STF #PL",
+  "fontes": [
+    {
+      "titulo": "UOL — Após fuga de Flávio, vice reconhece eleição de Lula: 'Tem derrotas que são vitórias' (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=llSUqx2qApE"
+    },
+    {
+      "titulo": "Poder360 — Avião com Flávio Bolsonaro chega aos EUA (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-internacional/aviao-com-flavio-bolsonaro-chega-aos-eua/"
+    }
+  ]
+}

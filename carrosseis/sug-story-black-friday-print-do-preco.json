@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-black-friday-print-do-preco",
+  "titulo": "Story: Black Friday, tira print do preço hoje",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-25T14:25",
+  "atualizado": "2026-10-25T14:25",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-black-friday-print-do-preco/rua-para-praia.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Quer algo na Black Friday? Tira print do preço hoje. Dia 27/11 você compara. Tem loja que sobe o preço agora pra dar “50%” depois: é a metade do dobro."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-black-friday-print-do-preco/print-diariodonordeste-verdesmares-com-br-black-friday-comeca-em-outubro-e.png",
+          "h": 326,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Diário do Nordeste (Alberto Pompeu) — Black Friday começa em outubro, e o desconto falso também (15/10/2026)",
+      "url": "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alberto-pompeu/black-friday-comeca-em-outubro-e-o-desconto-falso-tambem-1.3798653"
+    }
+  ]
+}

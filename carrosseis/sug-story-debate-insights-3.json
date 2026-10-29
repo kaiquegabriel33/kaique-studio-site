@@ -1,0 +1,101 @@
+{
+  "id": "sug-story-debate-insights-3",
+  "titulo": "Stories com imagem: “20 anos de PT” 4 vezes, os dados do data center e a audiência",
+  "status": "publicado",
+  "formato": "story",
+  "criado": "2026-10-18T22:35",
+  "atualizado": "2026-10-18T22:35",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Flávio falou “20 anos de PT” pelo menos 4 vezes no debate."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-insights-3/flavio-20-anos-4-vezes.jpg",
+          "h": 500,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "O PT governou uns 17 anos e meio. Erro ou arredondou pra cima?"
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Lula: todo data center vai ter que deixar “10% dos dados na mão do governo”. (E o Flávio de pé atrás de novo.)"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-insights-3/lula-data-center-flavio-atras.jpg",
+          "h": 440,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Não é isso: a regra pede 10% da capacidade pra empresas brasileiras. Seus dados não vão pro governo."
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Quantas pessoas estão vendo ao mesmo tempo a live que eu tô acompanhando:"
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-debate-insights-3/audiencia-ao-vivo.jpg",
+          "h": 200,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Chegou a 5,3 milhões. Você é um deles?"
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Band — debate do 2º turno entre Flávio Bolsonaro e Lula (18/10/2026, ao vivo); quadros das gravações de tela",
+      "url": "https://www.band.com.br/"
+    },
+    {
+      "titulo": "Jornal Contábil — Redata: data centers devem destinar ao menos 10% da capacidade ao mercado nacional",
+      "url": "https://www.jornalcontabil.com.br/noticia/governo-lanca-redata-para-atrair-investimentos-em-datacenters/"
+    },
+    {
+      "titulo": "Bahia Notícias — Lula sanciona lei que cria o Redata",
+      "url": "https://www.bahianoticias.com.br/noticia/321190-lula-sanciona-lei-que-cria-o-redata-programa-que-incentiva-a-instalacao-de-data-centers-no-brasil"
+    }
+  ],
+  "postado_em": "2026-10-19T02:08:17.426Z"
+}

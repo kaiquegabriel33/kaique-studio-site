@@ -1,0 +1,63 @@
+{
+  "id": "sug-video-eleicao2-kassio-resultado",
+  "titulo": "Presidente do TSE depois do resultado, sobre a pausa na apuração: “na realidade não houve problema” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-25T22:15",
+  "atualizado": "2026-10-25T22:10",
+  "trecho": {
+    "inicio": "Não sabíamos ao certo se teríamos armazenamento",
+    "fim": "na realidade não houve problema.",
+    "texto": "Não sabíamos ao certo se teríamos armazenamento, a capacidade de armazenar todos esses dados, tudo foi inusitado. No entanto, como os senhores já percebem, graças aos esforços administrativos do tribunal e da nossa equipe técnica, nós conseguimos solucionar, na realidade não houve problema.",
+    "gancho": "nós conseguimos solucionar, na realidade não houve problema",
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Não sabíamos ao certo",
+        "texto": "Kassio Nunes Marques, presidente do TSE, em pronunciamento depois do resultado, na noite de 25/10/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "No entanto",
+        "texto": "O TSE segurou os boletins de urna até as 19h, depois que Zanin (STF) prorrogou a votação; às 21h14, com 99,77% das urnas, Lula tinha 51,76%",
+        "cor": "amarelo"
+      }
+    ],
+    "foco_x": 0.53
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Presidente do TSE sobre a pausa na apuração: ==“na realidade não houve problema”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Na realidade não houve problema.” Foi o presidente do TSE, Kassio Nunes Marques, sobre a pausa na apuração.\n\nNo pronunciamento depois do resultado, na noite de 25/10/2026, ele explicou que o tribunal segurou os boletins de urna até as 19h, depois que o ministro Cristiano Zanin, do STF, prorrogou a votação, e que não sabia se teria capacidade para armazenar tudo. Às 21h14, com 99,77% das urnas apuradas, o TSE mostrava Lula com 51,76% e Flávio Bolsonaro com 48,24%.\n\nA noite foi tranquila ou confusa para você? Comenta aí.\n\nVídeo: reprodução UOL / TSE (25/10/2026).\n\n#eleicoes2026 #apuracao #TSE #NunesMarques #Lula",
+  "fontes": [
+    {
+      "titulo": "UOL — Kassio Nunes fala ao vivo após Lula ser eleito presidente pela quarta vez (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=J0GkayHOXGc"
+    },
+    {
+      "titulo": "TSE — Resultados, 2º turno presidente (25/10/2026, 21h14, 99,77% das urnas)",
+      "url": "https://resultados.tse.jus.br/oficial/app/index.html"
+    }
+  ],
+  "postado_em": "2026-10-25T22:20:00-03:00"
+}

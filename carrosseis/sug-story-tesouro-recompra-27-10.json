@@ -1,0 +1,50 @@
+{
+  "id": "sug-story-tesouro-recompra-27-10",
+  "titulo": "Story: o Tesouro recomprou títulos IPCA+ para frear os juros",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-27T22:55",
+  "atualizado": "2026-10-28T15:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Terça (27/10), o dólar devolveu parte da alta. Nos juros, o Tesouro entrou: [[verde:recomprou títulos IPCA+]] e cancelou o leilão de Tesouro Selic, e os juros futuros caíram. É remédio de curto prazo: o rumo depende do [[vermelho:plano fiscal]], que ainda não foi apresentado."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-tesouro-recompra-27-10/print-uol-dolar-fecha-em-queda.png",
+          "h": 306,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-tesouro-recompra-27-10/dolar-e-juros-futuros-recuam-apos-disparada-com.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "UOL Economia — Dólar fecha em queda após disparada eleitoral; Ibovespa recua 0,51% (27/10/2026, 17h10): dólar a R$ 5,350 (−0,97%); Tesouro anunciou recompra de NTN-B 2030, 2035, 2040 e 2045 e cancelou o leilão de LFT",
+      "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/27/dolar-fecha-em-queda-apos-disparada-eleitoral-bolsa-volta-a-cair.htm"
+    },
+    {
+      "titulo": "Folha de S.Paulo (Matheus dos Santos) — Dólar e juros futuros recuam após disparada com vitória de Lula (27/10/2026, atualizado 18h46): Tesouro anunciou recompra de títulos IPCA+ e cancelou leilão de Tesouro Selic; Durigan diz que medidas fiscais serão apresentadas pela equipe",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-apos-disparada-com-vitoria-de-lula-juros-futuros-recuam.shtml"
+    }
+  ],
+  "postado_em": "2026-10-28T18:00:00-03:00"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "sug-video-eleitora-barrada-rj",
+  "titulo": "Votação prorrogada, mas portão fechado: eleitora barrada no Rio (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-25T17:55",
+  "atualizado": "2026-10-25T17:55",
+  "trecho": {
+    "inicio": "Pessoal, vai ser reaberto?",
+    "fim": "Eu tinha que ter pegado o ônibus 472 e não passava, eu tive que pegar o 497.",
+    "texto": "Pessoal, vai ser reaberto? A gente já tem informação de que a... Não tem informação oficial ainda. Então, a informação aqui que tem agora desse senhor é que não tem informação oficial do TRE e, portanto, não pode passar. Mas essa eleitora aqui já chega falando de trânsito. Vem cá, por favor. A senhora quer falar com a gente? Qual o nome da senhora? Lady Jane. Dona Lady Jane, então a senhora encontrou essa dificuldade pra chegar até aqui? Eu peguei o 497 e o trânsito lá tá todo parado, por causa da feira, até agora. O ônibus foi tranquilo pra senhora pegar? O ônibus tá demorando muito a passar. Eu tinha que ter pegado o ônibus 472 e não passava, eu tive que pegar o 497.",
+    "gancho": "não tem informação oficial do TRE e, portanto, não pode passar",
+    "crop": [
+      1280,
+      590,
+      0,
+      0
+    ],
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Pessoal, vai ser reaberto?",
+        "texto": "25/10/2026, Botafogo (RJ): o STF tinha acabado de prorrogar a votação até as 19h",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Eu peguei o 497",
+        "texto": "Na hora da gravação, o local de votação ainda não tinha ordem do TRE para reabrir",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Votação prorrogada, mas o portão seguiu fechado: ==“não pode passar”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "O STF prorrogou a votação até as 19h, mas o portão continuou fechado.\n\nFoi num local de votação em Botafogo, no Rio, logo depois da decisão do ministro Cristiano Zanin, em 25/10/2026. Sem ordem do TRE, o funcionário não deixou entrar. A eleitora Lady Jane chegou contando que o ônibus não passava e o trânsito estava parado.\n\nE na sua cidade, os locais reabriram? Comenta aí.\n\nVídeo: reprodução BandNews FM (25/10/2026).\n\n#eleicoes2026 #apuracao #STF #TSE #RiodeJaneiro",
+  "fontes": [
+    {
+      "titulo": "BandNews FM — Prorrogação do horário de segundo turno: eleitora é barrada no RJ após decisão do STF (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=wkXCivn7RB8"
+    },
+    {
+      "titulo": "CNN Brasil — Zanin prorroga eleição até as 19h deste domingo em todo o país (25/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/zanin-prorroga-eleicao-ate-as-19h-deste-domingo-em-todo-o-pais/"
+    }
+  ],
+  "postado_em": "2026-10-25T18:30:00-03:00"
+}

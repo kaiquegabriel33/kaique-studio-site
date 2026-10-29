@@ -1,0 +1,42 @@
+{
+  "id": "sug-story-cartao-teto-juros",
+  "titulo": "Story: no rotativo, os juros não passam do valor da dívida",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-27T22:55",
+  "atualizado": "2026-10-27T22:55",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Desde janeiro de 2024, juros e encargos do rotativo e do parcelamento da fatura não podem passar do valor da dívida. Deveu R$ 1.000? A conta para em [[vermelho:R$ 2.000]]. Isso é teto, não desconto: a saída é [[verde:pagar a fatura inteira]]."
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-cartao-teto-juros/drink-bar-noite.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Lei nº 14.690, de 3/10/2023 (Desenrola), art. 28, § 1º: juros e encargos do rotativo e do parcelamento da fatura não podem exceder o valor original da dívida",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14690.htm"
+    },
+    {
+      "titulo": "Resolução CMN nº 5.112, de 21/12/2023 (Banco Central): regulamenta o limite para operações feitas após os 90 dias da Lei 14.690",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5112"
+    }
+  ]
+}

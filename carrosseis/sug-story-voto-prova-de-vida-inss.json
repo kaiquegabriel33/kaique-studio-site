@@ -1,0 +1,50 @@
+{
+  "id": "sug-story-voto-prova-de-vida-inss",
+  "titulo": "Story: votar no domingo vale como prova de vida do INSS",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-23T13:40",
+  "atualizado": "2026-10-23T13:40",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-voto-prova-de-vida-inss/voto-no-segundo-turno-tambem-vale-como-prova-de.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.6,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Manda pro seu pai ou sua avó: votar no domingo (25) já atualiza a [[verde:prova de vida do INSS]] sozinha. Vale pra aposentado e pensionista, até pra quem faltou no 1º turno."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-voto-prova-de-vida-inss/print-sbtnews-sbt-com-br-voto-no-segundo-turno-tambem-val.png",
+          "h": 575,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "SBT News — Voto no segundo turno também vale como prova de vida do INSS (21/10/2026)",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/voto-no-segundo-turno-tambem-vale-como-prova-de-vida-do-inss"
+    },
+    {
+      "titulo": "Tribuna PR — Prova de vida INSS pode ser feita votando em 2026; entenda (01/10/2026)",
+      "url": "https://www.tribunapr.com.br/noticias/economia/governo-envia-aviso-sobre-prova-de-vida-do-inss-via-voto-nas-eleicoes/"
+    }
+  ],
+  "postado_em": "2026-10-25T13:57:00-03:00"
+}

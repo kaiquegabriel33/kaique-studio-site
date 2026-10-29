@@ -1,0 +1,64 @@
+{
+  "id": "sug-story-flavio-atras-do-lula",
+  "titulo": "Story: na vez do Lula, o Flávio cola nele no palco",
+  "status": "publicado",
+  "formato": "story",
+  "criado": "2026-10-18T21:55",
+  "atualizado": "2026-10-18T21:55",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Reparou? Olha o relógio: é a vez do Lula falar. E o Flávio tá colado no ombro dele, apontando."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-flavio-atras-do-lula/flavio-colado-no-lula.jpg",
+          "h": 640,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ]
+    },
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Dez segundos depois, o Lula fala pra câmera e o Flávio fica de pé logo atrás. Na vez do Flávio, o Lula fica no púlpito."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-flavio-atras-do-lula/flavio-atras-do-lula.jpg",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        },
+        {
+          "tipo": "caixa_story",
+          "texto": "Intimidar ou aparecer no quadro do outro?"
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Band — debate do 2º turno entre Flávio Bolsonaro e Lula (18/10/2026, ao vivo); quadros da gravação de tela",
+      "url": "https://www.band.com.br/"
+    }
+  ],
+  "postado_em": "2026-10-19T00:53:02.522Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sug-story-indice-do-medo-recorde",
+  "titulo": "Story: \"índice do medo\" da Bolsa bate recorde antes do 2º turno",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-22T16:40:00-03:00",
+  "atualizado": "2026-10-22T16:40",
+  "legenda": "",
+  "comentario": "O \"índice do medo\" da Bolsa bateu recorde de novo nesta quinta: 45 pontos. É o mercado pagando caro pra se proteger até domingo. Quem tem reserva de emergência assiste isso de camarote.",
+  "repost_url": "https://www.cnnbrasil.com.br/economia/money/mercado/indice-do-medo-da-bolsa-brasileira-dispara-as-vesperas-da-eleicao/",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil — \"Índice do medo\" da bolsa brasileira dispara às vésperas da eleição (22/10/2026; S&P/B3 Ibovespa VIX a 45,42 pontos)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/indice-do-medo-da-bolsa-brasileira-dispara-as-vesperas-da-eleicao/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O \"índice do medo\" da Bolsa bateu recorde de novo nesta quinta: 45 pontos. É o mercado pagando caro pra se proteger até domingo. Quem tem reserva de emergência assiste isso de camarote."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-indice-do-medo-recorde/print-cnn-limpo.png",
+          "h": 500,
+          "ajuste": "conter",
+          "raio": 18,
+          "borda": false
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-indice-do-medo-recorde/indice-do-medo-da-bolsa-brasileira-dispara-as-ve.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.3
+        },
+        "clarear": 0.2
+      }
+    }
+  ],
+  "postado_em": "2026-10-23T10:00:00-03:00"
+}

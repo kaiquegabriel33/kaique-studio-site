@@ -1,0 +1,97 @@
+{
+  "id": "sug-frase-aumento-que-some",
+  "titulo": "O aumento que some em três meses",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-26T10:10",
+  "atualizado": "2026-10-26T10:10",
+  "slides": [
+    {
+      "tema": "claro",
+      "papel": "post",
+      "semCabecalho": true,
+      "fundo": {
+        "src": "midia/sug-frase-aumento-que-some/drink-bar-noite.jpg",
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.6
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "tam": 54,
+          "y": 230,
+          "texto": "Você ganha um aumento.\nTrês meses depois,\nnão sobra um real\na mais na conta.\n\nPra onde foi?"
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "post",
+      "semCabecalho": true,
+      "fundo": {
+        "src": "midia/sug-frase-aumento-que-some/restaurante-jantar.jpg",
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.6
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "tam": 54,
+          "y": 230,
+          "texto": "Pra lugar nenhum especial.\nFoi pro delivery de terça,\npra assinatura nova,\npro carro um pouco melhor.\nCada um parece pouco."
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "post",
+      "semCabecalho": true,
+      "fundo": {
+        "src": "midia/sug-frase-aumento-que-some/rua-para-praia.jpg",
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.6
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "tam": 54,
+          "y": 230,
+          "texto": "O padrão de vida sobe\nsem pedir licença.\nA reserva, não.\nEssa só sobe\nse alguém mandar."
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "post",
+      "semCabecalho": true,
+      "fundo": {
+        "src": "midia/sug-frase-aumento-que-some/praia-surf-amanhecer-1.jpg",
+        "escurecer": 0.05,
+        "foco": {
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "tam": 54,
+          "y": 230,
+          "texto": "No mês do aumento,\nmanda a diferença\npra reserva antes\nde se acostumar com ela.\n\nO que você nunca viu\nna conta não faz falta."
+        }
+      ]
+    }
+  ],
+  "legenda": "O aumento que some em três meses.\n\nConteúdo educativo, sem recomendação individual.\n\n#financaspessoais #reservadeemergencia #salario",
+  "fontes": [
+    {
+      "titulo": "Banco Central do Brasil — Caderno de Educação Financeira: Gestão de Finanças Pessoais (orçamento e reserva)",
+      "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+    }
+  ]
+}

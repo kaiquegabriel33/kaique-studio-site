@@ -1,0 +1,64 @@
+{
+  "id": "sug-video-lula-culpa-na-consciencia",
+  "titulo": "Lula sobre a saída do Flávio: “que culpa tem na consciência” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-28T09:50",
+  "atualizado": "2026-10-28T09:48",
+  "trecho": {
+    "inicio": "Quem não deve",
+    "fim": "foge do seu país.",
+    "texto": "Quem não deve não teme. Eu lamento que ele tenha saído do Brasil, porque ele poderia ficar aqui e provar que a acusação não foi verdadeira. O presidente ainda lembrou que sempre permaneceu no Brasil após as derrotas eleitorais. Eu fico imaginando que culpa tem na consciência um cidadão que acaba de perder as eleições e foge do seu país.",
+    "gancho": "que culpa tem na consciência um cidadão que acaba de perder as eleições e foge do seu país",
+    "girar": "nao",
+    "cta": true,
+    "abertura": "importa",
+    "contexto": [
+      {
+        "desde": "Quem não deve",
+        "texto": "26/10/2026: Moraes mandou Flávio entregar os passaportes",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Eu fico imaginando",
+        "texto": "28/10/2026: Trump disse que autoriza a entrada do Flávio nos EUA",
+        "cor": "vermelho"
+      }
+    ],
+    "trilha_lufs": -27,
+    "foco_x": 0.5
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 48,
+          "texto": "Lula sobre a saída do Flávio: ==“que culpa tem na consciência”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Lula sobre o Flávio: “Que culpa tem na consciência um cidadão que acaba de perder as eleições e foge do seu país?”\n\nNo aniversário de 81 anos, no Palácio da Alvorada, na terça (27/10/2026), o presidente disse que lamenta a saída do Flávio Bolsonaro (PL), que, segundo ele, “poderia ficar aqui e provar” que as suspeitas não eram verdade, e lembrou que ficou no Brasil depois das derrotas dele.\n\nO ministro Alexandre de Moraes, do STF, tinha mandado o Flávio entregar os passaportes e não sair do país. Na madrugada de 28/10, o Donald Trump disse a jornalistas que o senador estava na Argentina e que autorizaria a entrada dele nos Estados Unidos.\n\nPara você, foi fuga ou precaução? Comenta aí.\n\nVídeo: reprodução SBT News (27/10/2026). Fontes: SBT News e CNN Brasil (27 e 28/10/2026).\n\n#Lula #FlavioBolsonaro #STF #Trump #politica",
+  "fontes": [
+    {
+      "titulo": "SBT News — “Quem não deve não teme”, diz Lula sobre fuga de Flávio Bolsonaro (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=hbc8072iJ80"
+    },
+    {
+      "titulo": "CNN Brasil — Trump aprova ida de Flávio aos EUA e diz que senador estava na Argentina (28/10/2026)",
+      "url": "https://www.youtube.com/watch?v=zmUn0CevsF0"
+    }
+  ]
+}

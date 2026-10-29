@@ -1,0 +1,71 @@
+{
+  "id": "sug-video-eleicao2-flavio-nao-reconhece",
+  "titulo": "Flávio Bolsonaro: “é impossível reconhecer os resultados das eleições” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-25T23:10",
+  "atualizado": "2026-10-25T23:10",
+  "trecho": {
+    "inicio": "E o que eu tenho que falar aqui agora",
+    "fim": "pelos amigos do Lula no Supremo Tribunal Federal.",
+    "texto": "E o que eu tenho que falar aqui agora é que é impossível, é impossível reconhecer os resultados das eleições. A gente não tá aqui pra brincadeira. Não vou aceitar que a regra do jogo tenha sido mudada em cima do jogo, mais uma vez, pelos amigos do Lula no Supremo Tribunal Federal.",
+    "gancho": "é impossível reconhecer os resultados das eleições",
+    "girar": "nao",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "E o que eu tenho que falar aqui agora",
+        "texto": "Flávio Bolsonaro (PL), pronunciamento na noite de 25/10/2026, depois da derrota no 2º turno",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Não vou aceitar",
+        "texto": "TSE, 25/10/2026: Lula reeleito com 51,8% dos votos válidos. Ministros do STF e do TSE descartaram anular a eleição",
+        "cor": "amarelo"
+      }
+    ],
+    "foco_x": 0.48
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Flávio Bolsonaro depois da derrota: ==“é impossível reconhecer os resultados das eleições”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“É impossível reconhecer os resultados das eleições.” Foi o Flávio Bolsonaro (PL), em pronunciamento na noite de 25/10/2026, depois da derrota no 2º turno.\n\nEle disse que vai pedir a anulação da eleição por causa da decisão do ministro Cristiano Zanin, do STF, que prorrogou a votação até as 19h em parte do país. Pelo TSE, Lula foi reeleito com 51,8% dos votos válidos. Ministros do STF e do TSE já tinham descartado anular a eleição.\n\nO que acontece agora? Comenta aí.\n\nVídeo: reprodução SBT News (25/10/2026).\n\n#eleicoes2026 #FlavioBolsonaro #Lula #TSE #STF",
+  "fontes": [
+    {
+      "titulo": "SBT News — Flávio Bolsonaro se recusa a reconhecer resultado e pede anulação das eleições (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=lzVjilV3l5w"
+    },
+    {
+      "titulo": "InfoMoney — Flávio não reconhece resultado da eleição e diz que pedirá anulação ao TSE (25/10/2026)",
+      "url": "https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/"
+    },
+    {
+      "titulo": "TSE — Resultados do 2º turno (25/10/2026)",
+      "url": "https://resultados.tse.jus.br"
+    },
+    {
+      "titulo": "CNN Brasil — Ministros do STF e do TSE descartam anular eleição presidencial (25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=ztJqAD0oe-Q"
+    }
+  ],
+  "postado_em": "2026-10-25T23:34:00-03:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "sug-video-lula-regular-redes",
+  "titulo": "Lula reeleito sobre o Flávio: “representante genuíno do milicianismo” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-26T11:40",
+  "atualizado": "2026-10-26T11:45",
+  "trecho": {
+    "inicio": "E eu confesso a vocês",
+    "fim": "milicianismo desse país.",
+    "texto": "E eu confesso a vocês que cada vez que eu ia num debate, eu ficava constrangido, porque eu já debati com muita gente, já participei de muitas eleições. Eu lido todo ano com os principais presidentes do mundo, discutimos os principais assuntos do mundo, mas eu nunca pensei em me deparar com um representante genuíno do milicianismo desse país.",
+    "gancho": "representante genuíno do milicianismo",
+    "girar": "nao",
+    "cta": true,
+    "trocar_palavras": {
+      "Eu luto todo o ano": "Eu lido todo ano"
+    },
+    "contexto": [
+      {
+        "desde": "E eu confesso a vocês",
+        "texto": "1º discurso do Lula depois de reeleito, em SP, 25/10/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "eu nunca pensei",
+        "texto": "O adversário nos debates do 2º turno: Flávio Bolsonaro (PL)",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Lula sobre o Flávio: ==“representante genuíno do milicianismo”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Um representante genuíno do milicianismo.” Foi assim que o Lula falou do Flávio Bolsonaro, já reeleito.\n\nNo primeiro discurso depois da vitória, na noite de 25/10/2026, o Lula disse que ficava constrangido nos debates e que nunca imaginou alguém “mentir tanto”. No mesmo discurso, prometeu regular as plataformas digitais. Às 21h14, com 99,77% das urnas apuradas, o TSE mostrava Lula com 51,76% e Flávio com 48,24%.\n\nDiscurso de quem ganhou ou ataque desnecessário? Comenta aí.\n\nVídeo: reprodução Estadão (25/10/2026).\n\n#eleicoes2026 #Lula #FlavioBolsonaro #segundoturno #politica",
+  "fontes": [
+    {
+      "titulo": "Estadão — Lula afirma que deseja regular redes sociais (vídeo, 25/10/2026)",
+      "url": "https://www.youtube.com/watch?v=2xXcu2gt4Kc"
+    },
+    {
+      "titulo": "Estadão — Em 1º discurso após vitória, Lula promete mudar jeito de governar e regular plataformas (25/10/2026)",
+      "url": "https://www.estadao.com.br/politica/eleicoes/em-1-discurso-apos-vitoria-lula-promete-mudar-jeito-de-governar-e-regular-plataformas/"
+    },
+    {
+      "titulo": "TSE — Resultados, 2º turno presidente (25/10/2026, 21h14, 99,77% das urnas)",
+      "url": "https://resultados.tse.jus.br/oficial/app/index.html"
+    }
+  ],
+  "postado_em": "2026-10-26T12:30:00-03:00"
+}

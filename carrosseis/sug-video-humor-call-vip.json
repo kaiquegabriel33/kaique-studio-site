@@ -1,0 +1,36 @@
+{
+  "id": "sug-video-humor-call-vip",
+  "titulo": "Reel de humor: o 'call VIP' do banco na abertura (é o hino)",
+  "status": "pronto",
+  "formato": "telas",
+  "criado": "2026-10-26T11:15",
+  "atualizado": "2026-10-26T11:15",
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Vazou o áudio da call de um banco gigante com os clientes ==VIP== sobre a abertura de hoje.",
+          "tam": 56,
+          "peso": 800
+        },
+        {
+          "tipo": "texto",
+          "texto": "Ouve a orientação 🔊",
+          "tam": 44,
+          "peso": 600
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-video-humor-call-vip/print.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": []
+}
