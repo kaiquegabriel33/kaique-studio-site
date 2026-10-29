@@ -1,0 +1,43 @@
+{
+  "id": "sug-post-itau-sobe-juro-casa",
+  "titulo": "Post: primeiro o Bradesco, agora o Itaú sobe o juro da casa própria",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-29T12:51",
+  "atualizado": "2026-10-29T13:50",
+  "slides": [
+    {
+      "tema": "claro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 42,
+          "texto": "É, gente, a conta chegou na casa própria. O juro subiu depois da eleição e quem paga é quem ainda nem assinou. ==Vai financiar? Simula em mais de um banco antes.=="
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-post-itau-sobe-juro-casa/print-portas-itau-2.png",
+          "h": 660,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "Primeiro o Bradesco, agora o Itaú. E tem gente do setor dizendo que os outros bancos vão atrás.\n\nNesta quinta (29/10/2026), o Itaú subiu a taxa mínima do financiamento imobiliário para 12,95% ao ano + TR, quase 1 ponto a mais. O banco falou em \"recentes oscilações nas curvas de juros futuros\". Na segunda (26/10), o Bradesco tinha ido de 11,7% para 15%.\n\nPor que isso pesa: entre janeiro e agosto, Itaú e Bradesco fizeram 41,4% do crédito imobiliário com dinheiro da poupança (Abecip, via Exame). A Caixa, que faz quase metade, não comentou. O Santander diz que está acompanhando.\n\nNa prática: R$ 240 mil em 30 anos (SAC), a 1ª parcela no Itaú fica perto de R$ 200 a mais por mês. Conta nossa, sem TR, seguro e tarifa.\n\nQuem já assinou não muda nada: a taxa do contrato fica a mesma. Quem ainda vai comprar, vale simular em mais de um banco antes de fechar.\n\nVocê tava pensando em financiar agora?\n\nFontes: Exame e Portas (29/10/2026), InfoMoney (28/10/2026). Print: Portas. Referência: post do Renato Breia.\n\n#financiamentoimobiliario #casapropria #itau #bradesco #juros",
+  "fontes": [
+    {
+      "titulo": "Exame — Juro do financiamento imobiliário vai subir em outros bancos? O que se sabe até agora (29/10/2026): Itaú a 12,95% + TR desde 29/10; Itaú e Bradesco = 41,4% do crédito com poupança (jan–ago)",
+      "url": "https://exame.com/mercado-imobiliario/juro-do-financiamento-imobiliario-vai-subir-em-outros-bancos-o-que-se-sabe-ate-agora/"
+    },
+    {
+      "titulo": "Portas — Itaú anuncia aumento na taxa de financiamento imobiliário para 12,95% ao ano (29/10/2026); Santander mantém 11,69% por ora",
+      "url": "https://portas.com.br/noticias/itau-anuncia-aumento-taxa-financiamento-imobiliario/"
+    },
+    {
+      "titulo": "InfoMoney — Bradesco sobe juros do crédito imobiliário: por quê? E os outros bancos? (28/10/2026): Caixa 10,99%",
+      "url": "https://www.infomoney.com.br/minhas-financas/bradesco-sobe-juros-do-credito-imobiliario-por-que-e-os-outros-bancos/"
+    }
+  ]
+}

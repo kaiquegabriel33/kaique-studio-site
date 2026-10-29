@@ -1,0 +1,37 @@
+{
+  "id": "sug-story-eleicao-lula-prorrogacao",
+  "titulo": "Story: O Lula pediu ao TSE para ",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-25T17:00",
+  "atualizado": "2026-10-25T17:00",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Lula pediu ao TSE para [[vermelho:estender a votação em 9 estados]], incluindo SP, por falta de ônibus. A decisão é do TSE."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-eleicao-lula-prorrogacao/print-g1-lula-pede-que-tse-prorrogue-hora.png",
+          "h": 620,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "g1, 25/10/2026",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/lula-pede-que-tse-prorrogue-horario-da-votacao-apos-denuncias-sobre-falta-de-onibus.ghtml"
+    }
+  ]
+}

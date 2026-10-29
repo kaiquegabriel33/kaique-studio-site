@@ -1,0 +1,96 @@
+{
+  "id": "sug-carrossel-projecao-apuracao",
+  "titulo": "Carrossel: o Lula virou, e a conta dos votos que faltam aponta para ele",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-25T20:30",
+  "atualizado": "2026-10-25T20:30",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "O Lula virou nas apurações e agora depende do ==Nordeste== para um novo mandato.",
+          "tam": 54,
+          "peso": 800
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-post-projecao-apuracao/onde-estao-os-votos-2036.png",
+          "h": 440,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Por quê?",
+          "tam": 56,
+          "peso": 800
+        },
+        {
+          "tipo": "texto",
+          "texto": "**Nordeste:** só 57,2% apurado, e o Lula tem ==68,6%==.",
+          "tam": 40
+        },
+        {
+          "tipo": "texto",
+          "texto": "**Sudeste:** só 37,6% apurado, e o Flávio tem 54,3%.",
+          "tam": 40
+        },
+        {
+          "tipo": "texto",
+          "texto": "**Norte, Sul e Centro-Oeste**, onde o Flávio é mais forte, já passaram de 70% apurado.",
+          "tam": 40
+        },
+        {
+          "tipo": "texto",
+          "texto": "Ou seja: no Sudeste falta mais gente votar, mas a vantagem do Flávio lá é pequena. No Nordeste, a do Lula é enorme.",
+          "tam": 40
+        }
+      ],
+      "fonte": "TSE, 20:33 de 25/10/2026"
+    },
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Como fiz a conta",
+          "tam": 52,
+          "peso": 800
+        },
+        {
+          "tipo": "texto",
+          "texto": "**1.** Peguei os votos de cada candidato em cada estado, no site do TSE.",
+          "tam": 34
+        },
+        {
+          "tipo": "texto",
+          "texto": "**2.** Dividi pelo % já apurado naquele estado. Ex.: 1 milhão de votos com 50% apurado vira 2 milhões no fim.",
+          "tam": 34
+        },
+        {
+          "tipo": "texto",
+          "texto": "**3.** Somei todos os estados:",
+          "tam": 34
+        },
+        {
+          "tipo": "texto",
+          "texto": "**Lula:** ~62,9 milhões (==50,9%==)\n**Flávio:** ~60,7 milhões (49,1%)",
+          "tam": 42
+        }
+      ],
+      "fonte": "Conta: votos de cada candidato divididos pelo % apurado em cada estado. TSE, 20:33 de 25/10/2026"
+    }
+  ],
+  "legenda": "O Lula virou nas apurações e agora depende do Nordeste para um novo mandato.\n\nÀs 20:33, com 56,76% das urnas, o Lula tinha 50,41% e o Flávio 49,59% (TSE). O Nordeste, onde o Lula tem 68,6%, só tinha 57,2% apurado; no Sudeste, onde o Flávio lidera com 54,3%, eram 37,6%. Norte, Sul e Centro-Oeste, mais favoráveis ao Flávio, já passaram de 70%.\n\nComo fiz a conta: peguei os votos de cada candidato em cada estado, dividi pelo percentual já apurado naquele estado e somei tudo. Se o voto que falta seguir o padrão do que já foi apurado, o Lula termina com cerca de 50,9% e o Flávio com 49,1%. Não é torcida, é matemática com os números do TSE, e não é previsão oficial: se as cidades que faltam votarem diferente, a conta muda.\n\nO Nordeste decide essa eleição?\n\nDados: TSE (25/10/2026, 20:33). Imagem: painel de apuração com dados do TSE.\n\n#eleicoes2026 #apuracao #Lula #FlavioBolsonaro #Nordeste",
+  "fontes": [
+    {
+      "titulo": "TSE, Resultados por estado (25/10/2026, 20:25)",
+      "url": "https://resultados.tse.jus.br"
+    }
+  ]
+}

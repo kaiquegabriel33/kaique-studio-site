@@ -1,0 +1,47 @@
+{
+  "id": "sug-post-polymarket-vira-vira",
+  "titulo": "Post: no Polymarket, o Lula virou favorito e o Flávio virou de novo",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-10-25T19:30",
+  "atualizado": "2026-10-25T19:30",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Depois que o STF prorrogou a votação, o Lula ==virou favorito== no Polymarket.",
+          "tam": 40,
+          "peso": 800
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-post-polymarket-vira-vira/lula-favorito.png",
+          "h": 360,
+          "ajuste": "conter",
+          "raio": 18
+        },
+        {
+          "tipo": "texto",
+          "texto": "Logo depois, o Flávio ==virou de novo==.",
+          "tam": 40,
+          "peso": 800
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-post-polymarket-vira-vira/flavio-volta.png",
+          "h": 360,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "Tudo isso depois que o STF prorrogou a votação até as 19h.\n\nVira e vira no mercado de apostas durante a apuração: no Polymarket, o Lula chegou a passar o Flávio (38,3% × 34,1%) e, minutos depois, o Flávio voltou à frente (41,9% × 38,3%), neste domingo (25/10), por volta das 19h20.\n\nAntes da votação, o Flávio chegou a passar de 75% de chance no Polymarket. Depois da decisão do Zanin, o mercado ficou dividido.\n\nQuem decide é a urna, não a aposta: a apuração segue no TSE.\n\nQuem você acha que leva?\n\nImagem: reprodução Polymarket (25/10/2026). O Polymarket não é autorizado a operar no Brasil; não é recomendação de aposta.\n\n#eleicoes2026 #apuracao #Lula #FlavioBolsonaro #Polymarket",
+  "fontes": [
+    {
+      "titulo": "Polymarket, Brazil Presidential Election (prints enviados pelo Kaique, 25/10/2026, ~19h20)",
+      "url": "https://polymarket.com"
+    }
+  ]
+}

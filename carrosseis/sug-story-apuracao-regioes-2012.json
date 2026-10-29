@@ -1,0 +1,85 @@
+{
+  "id": "sug-story-apuracao-regioes-2012",
+  "titulo": "Story: apuração por estado",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-25T20:12",
+  "atualizado": "2026-10-25T20:12",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Com 35,08% das urnas, o Flávio lidera (50,30% × 49,70%). E o [[verde:Nordeste]] está mais adiantado que [[vermelho:SP e RJ]], onde ele ganha."
+        },
+        {
+          "tipo": "tabela",
+          "colunas": [
+            "Apurado",
+            "Lula",
+            "Flávio"
+          ],
+          "linhas": [
+            {
+              "rotulo": "SP",
+              "valores": [
+                "10,50%",
+                "41,06%",
+                "58,94%"
+              ]
+            },
+            {
+              "rotulo": "RJ",
+              "valores": [
+                "2,08%",
+                "44,42%",
+                "55,58%"
+              ]
+            },
+            {
+              "rotulo": "PE",
+              "valores": [
+                "24,19%",
+                "71,89%",
+                "28,11%"
+              ]
+            },
+            {
+              "rotulo": "CE",
+              "valores": [
+                "28,24%",
+                "65,06%",
+                "34,94%"
+              ]
+            },
+            {
+              "rotulo": "BA",
+              "valores": [
+                "14,59%",
+                "70,33%",
+                "29,67%"
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "texto",
+          "texto": "TSE, 20:12 de 25/10/2026",
+          "tam": 26
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "TSE, Resultados por estado (25/10/2026, 20:12)",
+      "url": "https://resultados.tse.jus.br"
+    }
+  ]
+}
