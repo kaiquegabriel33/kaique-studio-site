@@ -1,0 +1,64 @@
+{
+  "id": "sug-video-alessandro-flavio-presidente-eleito",
+  "titulo": "Alessandro Vieira no Senado sobre a carta do Flávio: \"esse circuito ridículo\" (TV Senado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T09:40",
+  "atualizado": "2026-10-29T09:27",
+  "trecho": {
+    "inicio": "é só para comunicar ao Plenário",
+    "fim": "esse circuito ridículo",
+    "texto": "é só para comunicar ao Plenário e a V. Exa. que já circula na internet – eu espero que não seja confirmado, mas circula na internet – uma manifestação do Senador Flávio Bolsonaro divulgada na imprensa americana em que ele se apresenta como o verdadeiro Presidente eleito do Brasil e vítima de perseguição judicial. Sr. Presidente, veja, conversávamos brevemente sobre isso. A gente precisa encerrar, de uma vez por todas, as coisas no Brasil, esse circuito ridículo.",
+    "gancho": "esse circuito ridículo",
+    "cta": true,
+    "enquadrar": false,
+    "foco_falante": false,
+    "contexto": [
+      {
+        "desde": "verdadeiro Presidente eleito",
+        "texto": "28/10: em carta, Flávio se disse \"verdadeiro presidente eleito\"",
+        "cor": "vermelho",
+        "lado": "dir"
+      },
+      {
+        "desde": "A gente precisa encerrar",
+        "texto": "Depois, ele trocou o trecho por \"líder do Brasil\"",
+        "cor": "amarelo",
+        "lado": "dir"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Senador sobre o Flávio se dizer presidente eleito: ==“esse circuito ridículo”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Alessandro Vieira no Senado: \"A gente precisa encerrar, de uma vez por todas, esse circuito ridículo.\"\n\nO senador do MDB de Sergipe falou em 28/10/2026, no plenário, sobre a carta em que o Flávio Bolsonaro, já nos Estados Unidos, se apresentou como \"o verdadeiro presidente eleito do Brasil\" e falou em fraude, sem mostrar prova. Na mesma fala, Alessandro lembrou que o próprio PL e os governadores aliados já tinham reconhecido o resultado.\n\nO outro lado: depois da repercussão, o Flávio tirou o trecho e passou a se apresentar como \"líder do Brasil\". Na carta, ele diz que \"não fugiu\" e que sofre perseguição política do ministro Alexandre de Moraes.\n\nCarta de quem perdeu muda alguma coisa no seu bolso ou é só barulho? Comenta aí.\n\nVídeo: TV Senado (28/10/2026). Fontes: notas taquigráficas do Senado (28/10) e Metrópoles (28/10/2026).\n\n#FlavioBolsonaro #AlessandroVieira #Senado #eleicoes2026 #politica",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — 138ª Sessão Deliberativa Extraordinária (28/10/2026), fala 4 (Alessandro Vieira, pela ordem)",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159589"
+    },
+    {
+      "titulo": "Metrópoles — Em carta, Flávio se declara \"verdadeiro presidente eleito do Brasil\" (28/10/2026)",
+      "url": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+    }
+  ]
+}
