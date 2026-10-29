@@ -1,0 +1,178 @@
+{
+  "id": "sug-carrossel-fechamento-26-10",
+  "titulo": "Carrossel: o fechamento do dia do circuit breaker (26/10)",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-26T17:20",
+  "atualizado": "2026-10-26T17:20",
+  "slides": [
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "O dia em que a Bolsa ==parou==: como o mercado fechou depois da reeleição do Lula.",
+          "tam": 50,
+          "peso": 800
+        },
+        {
+          "tipo": "numero",
+          "valor": "−13,88%",
+          "rotulo": "Ibovespa no dia",
+          "contexto": "205.089 → 176.608 pontos"
+        }
+      ]
+    },
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Os números do dia",
+          "tam": 54,
+          "peso": 800
+        },
+        {
+          "tipo": "tabela",
+          "titulo": "Segunda, 26/10/2026",
+          "colunas": [
+            "Variação"
+          ],
+          "larguraColuna": 300,
+          "linhas": [
+            {
+              "rotulo": "Ibovespa",
+              "valores": [
+                -13.43
+              ]
+            },
+            {
+              "rotulo": "Dólar comercial (R$ 5,40)",
+              "valores": [
+                8.25
+              ]
+            }
+          ],
+          "sufixo": "%",
+          "casas": 2,
+          "sinal": true,
+          "cores": true,
+          "fonte": "InfoMoney, fechamento preliminar (16h55 e 17h05)."
+        },
+        {
+          "tipo": "texto",
+          "texto": "**10h03:** circuit breaker, o 1º desde março de 2020.\n**Na máxima:** dólar a R$ 5,605.\n**Tesouro:** cancelou os leilões de prefixados e IPCA+ da semana.",
+          "tam": 34
+        }
+      ],
+      "fonte": "B3, InfoMoney e Money Times, 26/10/2026"
+    },
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "As maiores quedas",
+          "tam": 54,
+          "peso": 800
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "rotulos": [
+            "Hapvida",
+            "C&A",
+            "MRV",
+            "Banco do Brasil",
+            "Bradesco",
+            "Petrobras"
+          ],
+          "valores": [
+            -53.7,
+            -46.7,
+            -45.0,
+            -29.5,
+            -23.9,
+            -8.5
+          ],
+          "sufixo": "%",
+          "casas": 1,
+          "sinal": true,
+          "destaques": [
+            0
+          ],
+          "fonte": "InfoMoney, variações entre 16h11 e 16h46 de 26/10/2026"
+        }
+      ]
+    },
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "E quem ==subiu==?",
+          "tam": 54,
+          "peso": 800
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "rotulos": [
+            "Embraer",
+            "Vale"
+          ],
+          "valores": [
+            8.8,
+            6.0
+          ],
+          "sufixo": "%",
+          "casas": 1,
+          "sinal": true,
+          "destaques": [
+            0
+          ],
+          "fonte": "InfoMoney, 26/10/2026 (Embraer 16h54; Vale no meio do dia)"
+        },
+        {
+          "tipo": "texto",
+          "texto": "As duas vendem em dólar. Com o dólar mais caro, entram mais reais no caixa delas.",
+          "tam": 36
+        }
+      ]
+    },
+    {
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "E no fim da tarde…",
+          "tam": 54,
+          "peso": 800
+        },
+        {
+          "tipo": "texto",
+          "texto": "O Trump disse, ==sem apresentar provas==, que a eleição brasileira \"pareceu fraudada\". E, na mesma fala: \"eu gosto do Lula, vamos nos dar bem\".",
+          "tam": 38
+        },
+        {
+          "tipo": "texto",
+          "texto": "O TSE proclamou o Lula reeleito com 51,79% dos votos válidos.",
+          "tam": 32
+        },
+        {
+          "tipo": "texto",
+          "texto": "Amanhã a Bolsa volta ao normal ou o susto continua?",
+          "tam": 36,
+          "peso": 700
+        }
+      ],
+      "fonte": "Reuters via InfoMoney (16h48); TSE"
+    }
+  ],
+  "legenda": "O dia em que a Bolsa parou.\n\nNesta segunda (26/10/2026), primeiro pregão depois da reeleição do Lula, a B3 acionou o circuit breaker às 10h03, o primeiro desde março de 2020. O Ibovespa fechou em queda de 13,88%, aos 176.608 pontos (preliminar), e o dólar subiu 8,25%, a R$ 5,40, depois de bater R$ 5,605. O Tesouro cancelou os leilões de títulos prefixados e IPCA+ da semana.\n\nEmbraer e Vale, que vendem em dólar, estiveram entre as poucas altas.\n\nNo fim da tarde, o Trump disse, sem apresentar provas, que a eleição \"pareceu fraudada\", e que gosta do Lula. O TSE proclamou o Lula reeleito com 51,79%.\n\nAmanhã o susto continua? Comenta aí.\n\nConteúdo informativo, não é recomendação de investimento.\n\nFontes: B3, InfoMoney, Money Times e Reuters (26/10/2026).\n\n#ibovespa #dolar #circuitbreaker #mercadofinanceiro #B3",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Ibovespa ao vivo 26/10/2026",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
+    },
+    {
+      "titulo": "Money Times — tempo real 26/10/2026",
+      "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/"
+    }
+  ]
+}
