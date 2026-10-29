@@ -1,0 +1,61 @@
+{
+  "id": "sug-video-sadi-pf-prisao-flavio",
+  "titulo": "PF avalia pedir a prisão preventiva do Flávio, segundo a Andréia Sadi (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T09:41",
+  "atualizado": "2026-10-29T09:41",
+  "trecho": {
+    "inicio": "Essas fontes com quem eu conversei",
+    "fim": "em avaliação por investigadores da polícia.",
+    "texto": "Essas fontes com quem eu conversei me dizem o seguinte, que um, a investigação segue, ele descumpriu uma ordem judicial, está muito claro, sabemos, e fugiu do país. E agora, o que a Polícia Federal avalia é que estão presentes os requisitos de uma prisão preventiva, é isso que está sendo avaliado no bastidor. Se isso vai acontecer, se eles vão pedir isso, quem decreta é a justiça, como sabemos. Mas isso está na mesa em avaliação por investigadores da polícia.",
+    "aspa_manchete": "prisão preventiva",
+    "crop": [1080, 1360, 0, 0],
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Essas fontes",
+        "texto": "O Moraes tinha proibido o Flávio de sair do Brasil",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Se isso vai acontecer",
+        "texto": "28/10/2026: Flávio pousou em Miami depois de passar pela Argentina",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "PF avalia pedir a ==prisão preventiva== do Flávio, diz a Andréia Sadi"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "A PF avalia pedir a prisão preventiva do Flávio Bolsonaro, segundo a jornalista Andréia Sadi, da GloboNews.\n\nFoi na noite de quarta (28/10/2026). Segundo as fontes dela, investigadores entendem que ele descumpriu uma ordem judicial ao deixar o país e que estão presentes os requisitos da preventiva. Ainda não há pedido, e quem decreta prisão é a Justiça. O ministro Alexandre de Moraes, do STF, tinha proibido o Flávio de sair do Brasil; ele passou pela Argentina e pousou em Miami na manhã de 28/10.\n\nPrisão preventiva faz sentido ou é exagero? Comenta aí.\n\nVídeo: reprodução GloboNews (28/10/2026). Fontes: GloboNews e CNN Brasil (28/10/2026).\n\n#FlavioBolsonaro #PoliciaFederal #STF #AlexandreDeMoraes #politica",
+  "fontes": [
+    {
+      "titulo": "GloboNews (YouTube) — Sadi: PF avalia pedir prisão preventiva de Flávio Bolsonaro (28/10/2026)",
+      "url": "https://www.youtube.com/watch?v=En_qiKROfIg"
+    },
+    {
+      "titulo": "CNN Brasil — TSE e aliados de Flávio defendem urnas após carta com teor golpista (29/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/politica/tse-e-aliados-defendem-eleicao-apos-carta-com-teor-golpista-de-flavio/"
+    }
+  ]
+}

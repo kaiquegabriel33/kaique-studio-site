@@ -1,0 +1,62 @@
+{
+  "id": "sug-video-marinho-nem-eu-nem-pl",
+  "titulo": "Marinho, do PL, sobre fraude na eleição: “não há prova” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T09:41",
+  "atualizado": "2026-10-29T09:41",
+  "trecho": {
+    "inicio": "O PL considera que houve fraude eleitoral? A pergunta aqui é uma outra.",
+    "fim": "porque não há prova nesse sentido.",
+    "texto": "O PL considera que houve fraude eleitoral? A pergunta aqui é uma outra. Vamos lá. O PL considera que houve fraude eleitoral? Não, o PL não pode fazer essa afirmação, nem eu posso fazer essa afirmação, porque não há prova nesse sentido.",
+    "aspa_manchete": "não há prova",
+    "gancho": false,
+    "crop": [732, 550, 324, 32],
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "O PL considera",
+        "texto": "28/10/2026: Flávio divulgou carta alegando fraude, sem provas",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Não, o PL",
+        "texto": "TSE: Lula 51,79% × Flávio 48,21% dos votos válidos",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Marinho, do PL, sobre a fraude que o Flávio alega: ==“não há prova”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Rogério Marinho (PL) sobre fraude: “O PL não pode fazer essa afirmação (...) porque não há prova nesse sentido.”\n\nO senador, que coordenou a campanha do Flávio e lidera a oposição no Senado, falou na quarta (28/10/2026), horas depois de o Flávio Bolsonaro divulgar, já nos Estados Unidos, uma carta alegando fraude no 2º turno, sem apresentar provas. Na primeira versão, ele se dizia “o verdadeiro presidente eleito do Brasil”; minutos depois, apagou e republicou sem a frase. Pelo TSE, Lula teve 51,79% dos votos válidos e o Flávio, 48,21%: diferença de 4,4 milhões de votos. O TSE diz que qualquer pessoa pode baixar os boletins de urna e auditar o resultado.\n\nA direita fica com o Flávio ou com o Marinho? Comenta aí.\n\nVídeo: reprodução UOL (28/10/2026). Fontes: CNN Brasil e UOL (28 e 29/10/2026).\n\n#RogerioMarinho #FlavioBolsonaro #eleicoes2026 #PL #TSE",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Marinho diz que não há provas de fraude nas eleições: 'Nem eu nem PL podemos afirmar' (28/10/2026)",
+      "url": "https://www.youtube.com/watch?v=rDySPBU9Uh4"
+    },
+    {
+      "titulo": "CNN Brasil — TSE e aliados de Flávio defendem urnas após carta com teor golpista (29/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/politica/tse-e-aliados-defendem-eleicao-apos-carta-com-teor-golpista-de-flavio/"
+    }
+  ]
+}
