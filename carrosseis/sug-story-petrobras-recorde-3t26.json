@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-petrobras-recorde-3t26",
+  "titulo": "Story: Petrobras bate recorde de produção no 3º trimestre",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-29T09:40",
+  "atualizado": "2026-10-29T09:40",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Petrobras bateu recorde: [[verde:3,5 milhões de barris por dia]] no 3º trimestre, 11,7% a mais que há um ano. A exportação de petróleo subiu 21%, e 40% vai para a China. O dividendo agradece."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-petrobras-recorde-3t26/print-valor-petrobras-tem-recorde-de-produca.png",
+          "h": 600,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-petrobras-recorde-3t26/barco-janela.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Valor — Petrobras tem recorde de produção no 3º trimestre (29/10/2026): relatório de produção e vendas de 28/10; 3,512 milhões de boe/d (+11,7% sobre o 3T25); exportação de petróleo de 987 mil barris/dia (+21,3%), China com 40%; diesel recorde de 769 mil barris/dia",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/29/petrobras-tem-recorde-de-producao-no-3o-trimestre.ghtml"
+    }
+  ]
+}

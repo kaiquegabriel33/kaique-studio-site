@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-igpm-aluguel-outubro",
+  "titulo": "Story: IGP-M sobe 1,47% em outubro e 5,24% em 12 meses",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-29T09:40",
+  "atualizado": "2026-10-29T09:40",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O IGP-M, índice que ainda corrige muito contrato de aluguel, subiu 1,47% só em outubro e já soma [[vermelho:5,24% em 12 meses]]. Um ano atrás eram 0,92%. Renovação de contrato vai doer."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-igpm-aluguel-outubro/print-valor-igp-m-sobe-1-47-em-outubro-acumu.png",
+          "h": 569,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-igpm-aluguel-outubro/igp-m-sobe-1-47-em-outubro-acumula-alta-de-5-24.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Valor — IGP-M sobe 1,47% em outubro e acumula alta de 5,24% em 12 meses, informa FGV Ibre (29/10/2026): em outubro de 2025 o índice caiu 0,36% e acumulava 0,92% em 12 meses; no ano, 4,97%",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/29/igp-m-sobe-147-pontos-percentuais-em-outubro-acumula-alta-de-524-em-12-meses-informa-fgv-ibre.ghtml"
+    }
+  ]
+}

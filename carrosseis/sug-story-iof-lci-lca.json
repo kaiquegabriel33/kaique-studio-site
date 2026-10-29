@@ -1,0 +1,49 @@
+{
+  "id": "sug-story-iof-lci-lca",
+  "titulo": "Story: o governo estuda cobrar IOF na LCI e na LCA",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T09:55",
+  "atualizado": "2026-10-28T09:55",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Tem LCI ou LCA? O governo estuda cobrar [[vermelho:IOF]] nelas, no CRI, no CRA e nas debêntures incentivadas. Hoje o IOF desses títulos é zero. Poderia sair por decreto, sem votação no Congresso. Por enquanto é estudo: a Fazenda não comentou."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-iof-lci-lca/print-poder360-governo-avalia-cobrar-iof-sobre.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-iof-lci-lca/reuniao-apresentacao.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.6,
+          "y": 0.4
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "O Globo — Governo estuda aplicar IOF sobre LCI, LCA e outros títulos isentos (28/10/2026, 4h): equipe econômica reavalia cobrar IOF de LCI, LCA, CRI, CRA e debêntures incentivadas, hoje com alíquota zero; poderia ser por decreto; Fazenda não comentou",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/28/governo-estuda-aplicar-iof-sobre-lci-lca-e-outros-titulos-isentos.ghtml"
+    },
+    {
+      "titulo": "Poder360 — Governo avalia cobrar IOF sobre LCI, LCA e outros títulos (28/10/2026, 9h33): mesmos títulos; IOF zero hoje; por decreto, sem aprovação prévia do Congresso; isenção custa ~R$ 33 bi/ano; em 2025 a Câmara derrubou a MP do IR de 5% (251 x 193)",
+      "url": "https://www.poder360.com.br/poder-economia/governo-avalia-cobrar-iof-sobre-lci-lca-e-outros-titulos/"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sug-story-icms-diesel-fevereiro",
+  "titulo": "Story: ICMS do diesel sobe 11% em fevereiro",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-29T09:40",
+  "atualizado": "2026-10-29T09:40",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Em fevereiro, o ICMS do diesel sobe de R$ 1,17 para [[vermelho:R$ 1,30 por litro]], alta de 11%. Gasolina vai a R$ 1,64 e o gás de cozinha também sobe. Frete mais caro chega no prato."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-icms-diesel-fevereiro/print-valor-estados-atualizam-icms-sobre-com.png",
+          "h": 499,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Valor — Estados atualizam ICMS sobre combustíveis (29/10/2026): convênios do Confaz no DOU de 28/10; a partir de 1º/02/2027 gasolina de R$ 1,57 para R$ 1,64/litro (+4,46%), diesel de R$ 1,17 para R$ 1,30/litro (+11,11%), GLP de R$ 1,47 para R$ 1,54/kg (+4,76%)",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/29/estados-atualizam-icms-sobre-combustiveis.ghtml"
+    }
+  ]
+}

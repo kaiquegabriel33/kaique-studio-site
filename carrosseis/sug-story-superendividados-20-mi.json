@@ -1,0 +1,45 @@
+{
+  "id": "sug-story-superendividados-20-mi",
+  "titulo": "Story: 20,3 milhões de brasileiros com dívida de risco",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T14:30",
+  "atualizado": "2026-10-28T14:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Tem 20,3 milhões de brasileiros com [[vermelho:dívida de risco]], 75% a mais que em 2021. Quem ganha até 2 salários mínimos já entrega 42% da renda para pagar dívida. Essa conta não fecha."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-superendividados-20-mi/print-agencia-brasil-numero-de-superendividados-no-br.png",
+          "h": 511,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-superendividados-20-mi/mesa-noite-papeis.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — Número de superendividados no Brasil cresceu 75% em cinco anos, diz BC (27/10/2026): Relatório de Estabilidade Financeira do BC; 20,3 milhões em endividamento de risco em junho de 2026 (+75% desde junho de 2021, 17% dos devedores); quem ganha até 2 salários mínimos compromete 42% da renda com dívidas (15% no cartão)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/numero-de-superendividados-no-brasil-cresceu-75-em-cinco-anos-diz-bc"
+    }
+  ]
+}

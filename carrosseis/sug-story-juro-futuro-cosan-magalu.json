@@ -1,0 +1,41 @@
+{
+  "id": "sug-story-juro-futuro-cosan-magalu",
+  "titulo": "Story: Cosan cai 12% e Magalu 9% com o juro futuro subindo",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T18:35",
+  "atualizado": "2026-10-28T18:35",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Cosan caiu [[vermelho:12%]] e Magalu [[vermelho:9%]] só hoje. O juro futuro de longo prazo subiu de novo, e ação que depende de juro baixo é sempre a primeira a apanhar."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-juro-futuro-cosan-magalu/print-infomoney-cosan-vamos-magalu-e-mais-acoes.png",
+          "h": 536,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-juro-futuro-cosan-magalu/praia-predios-cidade.jpg",
+        "clarear": 0.2
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Cosan, Vamos, Magalu e mais ações caem forte com disparada dos juros futuros (28/10/2026, 17h38): CSAN3 -12,31%, VAMO3 -11,34%, COGN3 -10%, AZZA3 -9,64%, MGLU3 -9,22%; DI jan/2035 de 14,907% para 15,12%; DI jan/2028 estável em 14,385%",
+      "url": "https://www.infomoney.com.br/mercados/magalu-mglu3-vamos-vamo3-azzas-azza3-desabam-mais-de-10-com-disparada-dos-juros-futuros/"
+    }
+  ]
+}

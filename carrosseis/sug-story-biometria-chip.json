@@ -1,0 +1,41 @@
+{
+  "id": "sug-story-biometria-chip",
+  "titulo": "Story: chip de celular vai pedir biometria facial",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T18:30",
+  "atualizado": "2026-10-28T18:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Seu chip vai pedir seu rosto. A Anatel vai exigir [[vermelho:biometria facial]] até de quem já tem linha, com prazo até o fim de 2028. Chato, mas chip clonado é pior."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-biometria-chip/print-infomoney-biometria-facial-sera-obrigatori.png",
+          "h": 693,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-biometria-chip/sala-reuniao-cheia.jpg",
+        "clarear": 0.2
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Biometria facial será obrigatória para cadastrar ou manter linha de telefone (28/10/2026, 17h58): Norma Técnica GT-SEG.2026.11 da Anatel; pré-pago novo até 30/09/2027; pós-pago, portabilidade e troca de chip até 31/12/2027; clientes atuais até o fim de 2028; linha não regularizada pode ser suspensa a partir de jan/2029",
+      "url": "https://www.infomoney.com.br/minhas-financas/biometria-facial-sera-obrigatoria-para-cadastrar-ou-manter-linha-de-telefone-entenda/"
+    }
+  ]
+}
