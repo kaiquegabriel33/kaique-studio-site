@@ -1,0 +1,44 @@
+{
+  "id": "grav-binance-dossie",
+  "titulo": "Binance: teste formato Dossiê com material real (Reel de teste)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-30T12:05",
+  "atualizado": "2026-10-30T12:05",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Binance: ==saque travado=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "O maior roubo da história das criptos: US$ 6,3 bilhões na Binance. E hoje ninguém consegue sacar.\n\nSegundo a própria Binance, tudo começou num notebook invadido de um funcionário, e uns US$ 3 bi foram barrados a tempo. É uns 4 vezes o recorde anterior, o da Bybit em 2025 (US$ 1,5 bi).\n\nQuem foi? Duas empresas que rastreiam cripto (TRM Labs e Chainalysis) apontam um grupo de hackers da Coreia do Norte. Nenhum governo confirmou ainda: é suspeita forte, não prova.\n\nQuem paga é a própria Binance: o fundo de emergência dela tem uns 15 mil bitcoins (perto de US$ 1,1 bi) e o resto sai do caixa. Tá, mas na prática? Cobrir um rombo desse depende da saúde da corretora.\n\nConta nossa: US$ 6,3 bi roubados menos US$ 3 bi barrados, menos o fundo, dá uns US$ 2 bi saindo do caixa.\nFontes: Binance (comunicado de 30/10), TRM Labs, Chainalysis, InvestNews e TechTudo (30/10/2026). Conteúdo informativo, não é recomendação de investimento.\n\n#binance #bitcoin #criptomoedas #investimentos #educacaofinanceira",
+  "fontes": [
+    {
+      "titulo": "Binance: comunicado (30/10/2026)",
+      "url": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7"
+    },
+    {
+      "titulo": "TRM Labs (30/10/2026)",
+      "url": "https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history"
+    },
+    {
+      "titulo": "InvestNews (30/10/2026)",
+      "url": "https://investnews.com.br/investimentos/binance-maior-exchange-cripto-do-mundo-e-alvo-de-ataque-hacker-de-us-63-bilhoes-veja-o-que-se-sabe/"
+    }
+  ]
+}
