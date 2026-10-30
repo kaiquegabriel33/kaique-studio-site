@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T13:34-03:00",
+ "atualizado": "2026-10-30T13:37-03:00",
  "em_alta": [
   {
    "termo": "valeria diniz influenciadora",
@@ -52,54 +52,95 @@
     }
    ],
    "publicado": "2026-10-30T08:40:00-07:00"
-  },
-  {
-   "termo": "receita",
-   "trafego": "200+",
-   "temas": [
-    "economia"
-   ],
-   "video": false,
-   "noticias": [
-    {
-     "titulo": "Imposto de Renda 2026: Receita paga R$ 11 milhões a 5 mil contribuintes do Pará em lote residual",
-     "url": "https://g1.globo.com/pa/para/noticia/2026/10/30/imposto-de-renda-2026-receita-paga-r-11-milhoes-a-5-mil-contribuintes-do-para.ghtml",
-     "veiculo": "G1"
-    },
-    {
-     "titulo": "Receita paga nesta sexta-feira lote da malha fina do Imposto de Renda",
-     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-paga-nesta-sexta-feira-lote-da-malha-fina-do-imposto-de-renda",
-     "veiculo": "Agência Brasil"
-    },
-    {
-     "titulo": "Receita paga R$ 531,6 milhões em lote extra de restituição do Imposto de Renda; veja quem recebe",
-     "url": "https://www1.folha.uol.com.br/mercado/2026/10/receita-paga-r-5316-milhoes-em-lote-extra-de-restituicao-do-imposto-de-renda-veja-quem-recebe.shtml",
-     "veiculo": "Folha de S.Paulo"
-    }
-   ],
-   "publicado": "2026-10-30T08:30:00-07:00"
   }
  ],
  "pautas": [
+  {
+   "id": "22a430cbd0",
+   "titulo": "Políticos americanos cobram Rubio sobre fuga de Flávio Bolsonaro para os EUA",
+   "url": "https://exame.com/mundo/politicos-dos-eua-cobram-rubio-sobre-fuga-de-flavio-bolsonaro-para-os-eua/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-30T16:10:40+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Pol%C3%ADticos+americanos+cobram+Rubio+sobre+fuga+Fl%C3%A1vio+Bolsonaro+para",
+   "veiculos": 10,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
+     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk"
+    },
+    {
+     "veiculo": "Notícias ao Minuto Brasil",
+     "titulo": "Deputados dos EUA cobram explicações de Rubio sobre ajuda a Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0xEaXo4T2g4dF9CRGNSZ0cyV1Zsa2o4aUpKbFFwT2xvSkZ3bE1LQzFKTlJBYU5XQld2ek1GTTl0WHdWRXlBTFJNc2pwTS1GSlFsNHpNRnN5bkJQMFV1aDdjcWpibGJzRWd2Z0taTG54RkJ0b0QxRm94b095RHlSWjJvdnNWeWtiZWQxMDBGNW13d1JWYVl6NThHemRvZEowMjQ5T1gtckNVQzY1d3h2NktWakJwUThqVnR6TXNsa0tfU3hp?oc=5"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "Congressistas cobram Rubio sobre entrada de Flávio nos EUA",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbW0tNnluaUdVWGZfUjRGdWgxMGpPVEhjZHJ4UFJ0THUyZFgySXB5R3VrZl8xSzBqYnhVSkh1NTNSMXdXbTM1Y1pUaHd5U0ZXeXVHc0ttUmNZQkxXZDBTOUl3VXFnOUFaeFVtY2lSeDM1MXZrLWFHV1FCd09yU3FCTjk5UzFoT1pWelVKLTdCd3pYaTdGSjRYUXUxb3ZERDhuQk1KVw?oc=5"
+    },
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
+     "url": "https://www.youtube.com/watch?v=REHis8yv-FQ"
+    }
+   ],
+   "score": 53.3,
+   "video_url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 18805,
+   "video_acima_mediana": 11.7,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
+     "url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
+     "por_hora": 18805
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
+     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk",
+     "por_hora": 9340
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Casa Branca ajudou fuga de Flávio Bolsonaro, diz jornal",
+     "url": "https://www.youtube.com/watch?v=FX57Dhekls4",
+     "por_hora": 7429
+    }
+   ]
+  },
   {
    "id": "b762d41584",
    "titulo": "Governo Lula descarta escalar crise com Trump por Flávio Bolsonaro",
    "url": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
    "veiculo": "BBC News Brasil",
-   "publicado": "2026-10-30T15:34:44.193370+00:00",
+   "publicado": "2026-10-30T15:37:38.307508+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+descarta+escalar+crise+com+Trump+por+Fl%C3%A1vio",
-   "veiculos": 8,
+   "veiculos": 12,
    "rotina": false,
    "outras": [
     {
      "veiculo": "CNN Brasil",
      "titulo": "Democratas pedem explicações do governo Trump por fuga de Flávio Bolsonaro | LIVE CNN",
      "url": "https://www.youtube.com/watch?v=t61JX9rbyNk"
+    },
+    {
+     "veiculo": "Jornal Opção",
+     "titulo": "Democratas cobram explicações de Trump sobre possível ajuda na saída de Flávio Bolsonaro do Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWUNCQTJ4UGNFeF80X0UydFowZFh0Y0NGazE2Z0pOaTdNNk5naVkxWm5MX1JtUnEwaTlOaW1qRjNJTzQ5M3k2ZnR2NlZaVkRsaXN6TkRrbGNQZTdFS2x0MmJ6Qk1fbEVwejBoSHc3b2RNbmZEWTdFT2NHYm5JRF9qRVdiLUlveDJueVloek4wTGZ2Z25tZ3MtTUwxdzNXNkRIOW45Z2JMQlFGU1czQXFrV1ZTN0NrZWN6SkV2NTNRMTNKcUxzQWFnRGRrR21pd2lnSi1hUWROMHhDZWs5OTYyQ2FrZm5kY3kyN3c?oc=5"
     },
     {
      "veiculo": "SBT News",
@@ -110,36 +151,37 @@
      "veiculo": "SBT News",
      "titulo": "Trump não deve apoiar Flávio Bolsonaro, diz Agência de Notícias | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=bA-_ATb7bz8"
-    },
-    {
-     "veiculo": "www.plantaobrasil.net",
-     "titulo": "Democratas dos EUA pressionam governo por explicações sobre entrada de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EMFQ4dHdHU21BT29IaHJRMUNvSHNveGR5cEd2Y1dBWnRlbXVaZ1NSNnlDaDlDWkF5cHNWTVN2b2dIWEszWnFqYi1wcGVTaHUwd0dibEJUQUw?oc=5"
     }
    ],
-   "score": 49.4,
+   "score": 49.3,
    "video_url": "https://www.youtube.com/watch?v=bA-_ATb7bz8",
    "video_canal": "SBT News",
-   "video_por_hora": 9509,
-   "video_acima_mediana": 11.7,
+   "video_por_hora": 9319,
+   "video_acima_mediana": 12.0,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Trump não deve apoiar Flávio Bolsonaro, diz Agência de Notícias | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=bA-_ATb7bz8",
-     "por_hora": 9509
+     "por_hora": 9319
     },
     {
      "canal": "CNN Brasil",
      "titulo": "Democratas pedem explicações do governo Trump por fuga de Flávio Bolsonaro | LIVE CNN",
      "url": "https://www.youtube.com/watch?v=t61JX9rbyNk",
-     "por_hora": 8300
+     "por_hora": 8400
     },
     {
      "canal": "SBT News",
      "titulo": "Análise: Trump não deve comprar briga com Lula por Flávio Bolsonaro | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=Tzpw6nTKKPY",
-     "por_hora": 4644
+     "por_hora": 4433
+    },
+    {
+     "canal": "Record News",
+     "titulo": "PF investiga se Flávio recebeu ajuda para deixar o Brasil",
+     "url": "https://www.youtube.com/watch?v=dy0u-HPNy-Y",
+     "por_hora": 463
     },
     {
      "canal": "InfoMoney",
@@ -154,7 +196,7 @@
    "titulo": "Fachin devolve caso INSS para relatoria de Mendonça e mantém inquérito do Master na Presidência por 90 dias",
    "url": "https://www1.folha.uol.com.br/mercado/2026/10/fachin-devolve-caso-inss-para-relatoria-de-mendonca-mas-mantem-inquerito-do-master-na-presidencia.shtml",
    "veiculo": "Folha",
-   "publicado": "2026-10-30T15:34:44.193370+00:00",
+   "publicado": "2026-10-30T15:37:38.307508+00:00",
    "temas": [
     "comportamento",
     "mercado",
@@ -191,7 +233,7 @@
    "video_url": "https://www.youtube.com/watch?v=MGl2fv93g9Q",
    "video_canal": "Jovem Pan News",
    "video_por_hora": 18400,
-   "video_acima_mediana": 11.4,
+   "video_acima_mediana": 11.5,
    "videos": [
     {
      "canal": "Jovem Pan News",
@@ -215,13 +257,13 @@
      "canal": "Band Jornalismo",
      "titulo": "Fachin devolve investigação do INSS para André Mendonça | BandNews TV",
      "url": "https://www.youtube.com/watch?v=rwb4urZctDI",
-     "por_hora": 1440
+     "por_hora": 1558
     },
     {
      "canal": "GloboNews",
      "titulo": "Fachin devolve caso INSS para Mendonça",
      "url": "https://www.youtube.com/watch?v=E0f9v-Nyqbw",
-     "por_hora": 621
+     "por_hora": 620
     }
    ]
   },
@@ -230,7 +272,7 @@
    "titulo": "Taxa de desemprego fica em 6,5% na zona do euro em setembro",
    "url": "https://valor.globo.com/mundo/noticia/2026/10/30/taxa-de-desemprego-fica-em-65percent-na-zona-do-euro-em-setembro.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-30T13:34:44.193370+00:00",
+   "publicado": "2026-10-30T13:37:38.307508+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -266,20 +308,20 @@
    "score": 41.9,
    "video_url": "https://www.youtube.com/watch?v=TpMyXHXyR7E",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 314,
+   "video_por_hora": 316,
    "video_acima_mediana": 0.2,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Taxa de desemprego no Brasil cai para 5,2% em setembro; Alan Ghani analisa",
      "url": "https://www.youtube.com/watch?v=TpMyXHXyR7E",
-     "por_hora": 314
+     "por_hora": 316
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Desemprego cai a 5,2%, menor taxa para um terceiro trimestre desde 2012 | Bora Brasil",
      "url": "https://www.youtube.com/watch?v=T8E2XRQN6p8",
-     "por_hora": 269
+     "por_hora": 278
     }
    ]
   },
@@ -288,7 +330,7 @@
    "titulo": "Nikolas faz crime contra sistema eleitoral ao apoiar boicote contra eleitores do Lula | Maierovitch",
    "url": "https://www.youtube.com/watch?v=8W3CkW1gdzo",
    "veiculo": "UOL",
-   "publicado": "2026-10-30T15:51:44.193370+00:00",
+   "publicado": "2026-10-30T15:51:38.307508+00:00",
    "temas": [
     "politica"
    ],
@@ -319,73 +361,33 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1h5a1djYVpPMi1fQXhYV19rYlRJVjJBdHlsWm9BVGdLN2VYc19jZHZCdWgxM1dkS0VORmpyQ1pQd0M2cmFzSTNBSEFNajFDXzc0cW9qZnZISWtPVDJoZkVrTkVnUTl6b2ZoTkFSTkY3Qy1YdGdUaUQ3OE1CQzVoamNCRzRhSlAzcW9rejdTb1pnMU1wSzJDUnV0eXhDcDlLNnFvRDJVck5QcTNGbGRud1Y0STRET05Cb2xOdWtzdDd6eXQ3RlIydVJmSzJNaFdONUNHTA?oc=5"
     }
    ],
-   "score": 41.1,
+   "score": 41.0,
    "video_url": "https://www.youtube.com/watch?v=8W3CkW1gdzo",
    "video_canal": "UOL",
-   "video_por_hora": 3488,
+   "video_por_hora": 3391,
    "video_acima_mediana": 1.1,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Nikolas faz crime contra sistema eleitoral ao apoiar boicote contra eleitores do Lula | Maierovitch",
      "url": "https://www.youtube.com/watch?v=8W3CkW1gdzo",
-     "por_hora": 3488
+     "por_hora": 3391
     }
    ]
   },
   {
-   "id": "f775451b14",
-   "titulo": "Os 10 grandes desafios econômicos que Lula enfrentará em seu 4º mandato",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHNtWWM4SlhGM1BTbjNfRVBCLUhuT1Jmdzkwa2FOOGdCSGd4bDFmekdSQlZfYlBRS2RKZjh1VDZ4a21ESnVhaHVUUTEyellGVGZQdjVjTE9DZHliVHMtTUlVT1BGMUpuSElxSFU0dFNpVVZTWXRmb05pMTdiLWt2Qm9DaTVqeElOY0E?oc=5",
-   "veiculo": "Gazeta do Povo",
-   "publicado": "2026-10-30T16:29:06+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=grandes+desafios+econ%C3%B4micos+que+Lula+enfrentar%C3%A1+seu+mandato",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "VEJA",
-     "titulo": "Da economia à segurança: os enormes desafios do quarto mandato de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkdBT1RJTlZldUZXWWJ5a3lxUThxNndGYXB2N2dyMnRfaUhja2NSYVNvbWpnQmEwcWRJT1dobzdrU3RJc0hUTjJvWmc1TFRnYjUwXzM5MVN4anZnUVlTYV9ITFN6bVR0bWZ4bW8xRlFEUk95NHgzTm1IR2FWU3c1RzhhUmRZWHU1T2xneE5ERkhSN0pWLWF6cnZHUUtMY2N1MnpUWWg5Qmc?oc=5"
-    },
-    {
-     "veiculo": "Portal VV8",
-     "titulo": "Desafios econômicos do governo Lula para o quarto mandato",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOExCdkc0NDZHWWRCc2YySVV4TzZNa0xvQTVGNnNxeTcwQnpYUVZaQVY3RHFvQ3p4N3ZZNFUyM3Q5ZHNhbnZaSS1uOFgwVUZSTTNBdmh3YjFvTGJOakJOVHZYeVRibmtoQmJ0Z3lOWG8wSi1FOHQ4N3M2eW1JaXR4UE90Y2R0c3dqRURGazQ2Yk5URGE1dnBwZDVsbEQ?oc=5"
-    },
-    {
-     "veiculo": "Gazeta do Paraná",
-     "titulo": "Quarto governo Lula: economia pressionada e Congresso à direita desafiam presidente",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVMwQmg1WmFKLUR5cXlTWXA4NUlidFF3R1FtTm55ZjV1Ul9HUGdTUkV0anQzNnJpVmh0ZFVUY2lTY2ZSTHpMeU5ZNGJ1ckdSRVpHYjNmYnFzWFpnX0I5SWJ6TC15ZHYzM1FHXzJEQlo4NGJRaUlrZHFMUTJjbHFodi1qTGpZbjctWW9Ebw?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Tesouro trabalha em pacote econômico para o quarto mandato de Lula, diz secretário",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2YybWZsSEtVOUhQalpEUjVRSzd5M0U4UjJXTGtsUHB5d25EalpUM2FMTlRmREJPMGFMdGhNcWRtb0h5RUR1TzhuV3o2YTJEU3BZa2NKUnpWZ1ByWDZzNzg3bzlScnc1bzVIWjNtVzVPLU45WFo1aVhfS0V1bFhMcm9vYWdYR2tiU0pUZVRNclp6MzRwZldOOWhn?oc=5"
-    }
-   ],
-   "score": 39.0
-  },
-  {
-   "id": "0c6f7c4778",
-   "titulo": "Petrobras anuncia 3ª descoberta de petróleo em poço na Foz do Amazonas",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas",
-   "veiculo": "Agência Brasil",
+   "id": "7d2911d861",
+   "titulo": "Petrobras encontra petróleo pela 3ª vez no mesmo poço na costa do Amapá",
+   "url": "https://g1.globo.com/economia/noticia/2026/10/29/petrobras-conclui-perfuracao-com-mais-uma-descoberta-de-petroleo-em-aguas-ultra-profundas-do-amapa.ghtml",
+   "veiculo": "g1",
    "publicado": "2026-10-30T14:04:32+00:00",
    "temas": [
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+anuncia+descoberta+petr%C3%B3leo+po%C3%A7o+Foz+Amazonas",
-   "veiculos": 11,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+encontra+petr%C3%B3leo+pela+vez+mesmo+po%C3%A7o+costa+Amap%C3%A1",
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
@@ -394,62 +396,22 @@
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMTAxaWpuZUMyVkhBc2w4Ukt6OVZyME1qNWNWVzJaOEl4dHVQMFRDVjdRTENYdWM3LVBINFlwWWFkUHVpOUZ0cDBSWkRfMHlaZ09ValdneE5CeWFxOTI3ay1yVktIZ1JxTmdVMXlnam0ta2lBT1dWVjBEUGpLcHJsbUxLYU90S2d0M05aV0FPR3dVRk1sUGdab242NWZGUHYwRGppNkhNLXhwNVRCSnoxNHRKdlJIdG1TUU96TWRRdENOTERVeTRtWEM5c25Ud2lYRXBKYks5My1EeGJxTTkw?oc=5"
     },
     {
-     "veiculo": "Portal & TV Gurupi",
-     "titulo": "Petrobras Revela Terceira Descoberta De Petróleo Na Foz Do Amazonas",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JYXdZZThGaEJxRVhNQ29UN1J1ZmplckVYcklHdllaejZIMzZfZlMtanJTQkNUSzVLVUp3YmNrYklqOVN6NVhsRDk5LVRRZ3ZTeGZBNFJCdzY3elRRRE5jVlJES2dVZ2NfRm1QNE14ZllHSkt1SGc?oc=5"
-    },
-    {
-     "veiculo": "ncnews.com.br",
-     "titulo": "Petrobras confirma terceira descoberta de petróleo no Amapá e encerra perfuração do poço",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45S3BnQmZxOXV4UE5ZUU9FV2t1N1NDWmxRNDhxU3pidkgtLWhHbEVGYUVqd0oxLWpPaHJib21JUkt4dThMYzNQVTJzaGFqX1hBWUhmQ2ZXdVVpcGVwRm5SNlAza3JIT3lEN2lWXzh5V1lfcEZGRmc?oc=5"
-    },
-    {
      "veiculo": "Estadão",
      "titulo": "Petrobras conclui perfuração e confirma 3ª descoberta de petróleo na costa do Amapá",
      "url": "https://www.estadao.com.br/economia/negocios/petrobras-conclui-perfuracao-e-confirma-3-descoberta-de-petroleo-na-costa-do-amapa/"
-    }
-   ],
-   "score": 39.0
-  },
-  {
-   "id": "488bd851bf",
-   "titulo": "Dívida Pública sobe 0,97% em setembro e encosta em R$ 9,4 trilhões",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-sobe-097-em-setembro-e-encosta-em-r-94-trilhoes",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-10-30T00:03:34+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%ADvida+P%C3%BAblica+sobe+0%2C97%25+setembro+encosta+9%2C4+trilh%C3%B5es",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Enfoco",
-     "titulo": "Dívida pública sobe no Brasil e atinge R$ 9,3 trilhões em setembro",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFDZjNsRWhpVU5ibzN0RUVrSjd2RFhDWHR6QlJfNVRSUGk1OXd3U3BwbGFVNmdDcjI5R3Q0aUNUMWRfRkN3T1lLQVc3U1pCazd0NXVZNUJGYTRuUVdla2dsWU52WFQ1dWY1SjdWQldlbVdCZWZMNmswMlpCVzdEakZFWXZlSjQ5QkpSOG9tUTVxQTdhNDlzalluYjZxVGs4cnoxYXJsUFhMc3piZlFiN3VR?oc=5"
     },
     {
      "veiculo": "Folha",
-     "titulo": "Dívida pública federal sobe para R$ 9,4 tri em setembro sob pressão de gasto com juros, aponta Tesouro",
-     "url": "https://www1.folha.uol.com.br/mercado/2026/10/divida-publica-federal-sobe-para-r-94-tri-em-setembro-sob-pressao-de-gasto-com-juros-aponta-tesouro.shtml"
+     "titulo": "Petrobras faz terceira descoberta de petróleo em poço na Foz do Amazonas",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/petrobras-faz-terceira-descoberta-de-petroleo-em-poco-na-foz-do-amazonas.shtml"
     },
     {
-     "veiculo": "Tribuna do Paraná",
-     "titulo": "Dívida pública chega a R$ 11,1 trilhões e atinge 82,9% do PIB",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1pxT1F2QzdOYjhNZkI2U0wwWm9MeEdFMWt6ZjBGR3hqSWJKY3J3Vjhjbjk1U202b3JoS2FGX3JaNHZqb0ZiZmtuRjk5WW5iaHVUVDh2S094aTROSVRMM3NNa1EtNU9iZ1p2LWFEVmt2X0kyTGo1S3E5MjlqOEVTeDhmcEJtQ1JWRndqOWphYnlqVW94enJVbnMzTWlJSUh5MGxvaWd5WHc4T01Qd2fSAa4BQVVfeXFMTWtacU9RdkM3TmI4TWZCNlNMMFpvTHhHRTFremYwRkd4akliSmNyd1Y4Y245NVNtNm9yaEthRl9yWjR2am9GYmZrbkY5OVluYmh1VFQ4dktPeGk0TklUTDNzTWtRLTVPYmdadi1hRFZrdl9JMkxqNUtxOTI5ajhFU3g4ZnBCbUNSVkZ3ajlqYWJ5alVveHpyVW5zM01pSUlIeTBsb2lneVh3OE9NUHdn?oc=5"
-    },
-    {
-     "veiculo": "Agência Brasil",
-     "titulo": "Dívida pública fica em 82,9% do PIB, e déficit soma R$ 5,5 bilhões",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenZCQV9Xam5vS2c0aExKNFY3SWdKRUNXZm1MODA3SjA3QnY2WDZybGg5SmNvR2xsZkV3WXRQbjRvUWVmQ1pVX1l3MDdKbUhlWnloWkR3R2FiVXN0UnhHanZmT0Y1YTF1cm1abnZjU25WWmVkNmZwTU9sUk04Qm53N1Ezd01fYzFCemRGbndzVDVJdjdOOHJRNjRaOWhxTlVZS09wdVJDQUJULThSYjQ3V244TGJvY3BUVG5F?oc=5"
+     "veiculo": "Portal do Holanda",
+     "titulo": "Petrobras anuncia terceira descoberta de petróleo na Foz do Amazonas e celebra recorde de produção",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHZvVlR3YUcyZlY2VEJSVTJpVTN4bXBhNmNLa3hFcFJreXhtZU5RU19kUm1FN29aSWpOcTZUczJPVGZLOV82aHBDQ1Z4NElDT2pBWndaMmhDNng3WTlQa3o5dXdjMWgxdWxvT3VwbzVxY0tPdHpVMnZuenBieHlvd0JaYnBEUVViWTNxUTlMMXh3UFVfMjM1RDl2VGF6aGN4djJSa09tZ1BPYjZwbTV2UzNiRlRRbERrS3NtNlpfWG5VcWxXRTNPWVZUdFhLekFrWVJZajNmdw?oc=5"
     }
    ],
-   "score": 38.1
+   "score": 38.9
   },
   {
    "id": "e0cf9a0ca0",
@@ -524,61 +486,51 @@
    "score": 35.5
   },
   {
-   "id": "5ea4731590",
-   "titulo": "Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?",
-   "url": "https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss",
-   "veiculo": "BBC News Brasil",
-   "publicado": "2026-10-30T03:31:40+00:00",
+   "id": "488bd851bf",
+   "titulo": "Dívida Pública sobe 0,97% em setembro e encosta em R$ 9,4 trilhões",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-sobe-097-em-setembro-e-encosta-em-r-94-trilhoes",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-10-29T20:10:00-03:00",
    "temas": [
+    "economia",
+    "mercado",
     "politica"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pragmatismo+ideologia+como+Trump+vai+fato+lidar+com+declara%C3%A7%C3%B5es",
-   "veiculos": 9,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%ADvida+P%C3%BAblica+sobe+0%2C97%25+setembro+encosta+9%2C4+trilh%C3%B5es",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "politiza brasil",
-     "titulo": "Parlamentares do PT e PSOL intensificam pedidos judiciais contra Flávio Bolsonaro e aliados",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmNucUN4MXl2OEwtZ0pONXlTUDhvanlvZ2JvQTY5NWdEWnZlVDZ3VTkzWHU3OWlUUXl1dktRb0NNMGJPZFVibmNUa3JCYmh1U1l5SFNsemVSWFJHczJoZV9kODV2aTJjVEZyb0FtZW9vYzQ0ZFd3ZDItVmVWcElfS0NPNFphZHVXUEpSRXJWTk9xYWptTU5sQWJuUQ?oc=5"
+     "veiculo": "Folha",
+     "titulo": "Dívida pública federal sobe para R$ 9,4 tri em setembro sob pressão de gasto com juros, aponta Tesouro",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/divida-publica-federal-sobe-para-r-94-tri-em-setembro-sob-pressao-de-gasto-com-juros-aponta-tesouro.shtml"
     },
     {
-     "veiculo": "Nexo Jornal",
-     "titulo": "Como aliados reagem ao golpismo de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEJ1VDVDcEpYSjhHVzNtLXh5RkNCUkxSemVyRUg3LXNSRGNJOVZGZEtfMWlmWUdEVk9wa3I3Z2VTd3EzMEV5ODNtbkNXdmJpUk1iTktRT2VhNkFLdkpqR3JqcE45dGdVZlh5WU8zLXp3MUpyeFRPUjB5Y25vUzJ5ajNteHRrcE1xTDhESlcwZHh2dVJUVmUtdUdjaWZ5WmlUN1Q4TDBIZjNYUHQtdDZpZ0Jn?oc=5"
+     "veiculo": "Tribuna do Paraná",
+     "titulo": "Dívida pública chega a R$ 11,1 trilhões e atinge 82,9% do PIB",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1pxT1F2QzdOYjhNZkI2U0wwWm9MeEdFMWt6ZjBGR3hqSWJKY3J3Vjhjbjk1U202b3JoS2FGX3JaNHZqb0ZiZmtuRjk5WW5iaHVUVDh2S094aTROSVRMM3NNa1EtNU9iZ1p2LWFEVmt2X0kyTGo1S3E5MjlqOEVTeDhmcEJtQ1JWRndqOWphYnlqVW94enJVbnMzTWlJSUh5MGxvaWd5WHc4T01Qd2fSAa4BQVVfeXFMTWtacU9RdkM3TmI4TWZCNlNMMFpvTHhHRTFremYwRkd4akliSmNyd1Y4Y245NVNtNm9yaEthRl9yWjR2am9GYmZrbkY5OVluYmh1VFQ4dktPeGk0TklUTDNzTWtRLTVPYmdadi1hRFZrdl9JMkxqNUtxOTI5ajhFU3g4ZnBCbUNSVkZ3ajlqYWJ5alVveHpyVW5zM01pSUlIeTBsb2lneVh3OE9NUHdn?oc=5"
     },
     {
-     "veiculo": "Portal VV8",
-     "titulo": "Parlamentares do PT e do PSOL apresentam pedidos judiciais contra Flávio Bolsonaro e outros líderes da direita",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcWZNeF8tT2dIZmlBS3FZTXJHVGJtUXJDby1KeHluakFtT21uRndDSHhuU05EazVSMWpNMmxMVy1jRzhUQ0I1RUd5Qk1nTGVFc3NKckRHbUZBbHRyS3ZFWDAwZjNtaXlIRHhWYmRCSTdVZ2t0OU41OU5HSmFnNm96aU1HYW9ydHR6ZnRFeGYyekJQZHZvcTFGT2doZTFHaGFuaHRzckVMRnFtQnNnbG5oaEhXNXRkZXNvUng0TkFYWk5JcTlpTG9tcVBkOHFXSWxQVmN2dEJzdy1zb2FpTFozU1V1M2pEUU9h?oc=5"
+     "veiculo": "Agência Brasil",
+     "titulo": "Dívida pública fica em 82,9% do PIB, e déficit soma R$ 5,5 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenZCQV9Xam5vS2c0aExKNFY3SWdKRUNXZm1MODA3SjA3QnY2WDZybGg5SmNvR2xsZkV3WXRQbjRvUWVmQ1pVX1l3MDdKbUhlWnloWkR3R2FiVXN0UnhHanZmT0Y1YTF1cm1abnZjU25WWmVkNmZwTU9sUk04Qm53N1Ezd01fYzFCemRGbndzVDVJdjdOOHJRNjRaOWhxTlVZS09wdVJDQUJULThSYjQ3V244TGJvY3BUVG5F?oc=5"
     },
     {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Isolamento político: aliados de Flávio Bolsonaro reagem a guinada radical do senador",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWZWUWJuZ0RLdTB2RVJvYXpNYlU2bllfS3dMdGx4TWoyTDFFbl9vUmdfdTd3UG4yMk1FTHcwOU9uTWhmUU5Ia1VlTlRlRjZfdnI1QmNYSk1MT0luUTdBMXJRZ0ZVV0pCNlo2M1JRY2ZHQnpjamt4UVBVa3hiaEFLY3cxbFFsWGNEQWN4UmwzV2htWUh6R2FfTkxwa3dNTnl6THZweTdBLUdNTGF2Wl93aUV4SnZBRU5jWmNEMnIxR3Nxem80clVwMQ?oc=5"
+     "veiculo": "Rede Onda Digital",
+     "titulo": "Dívida pública chega a R$ 9,3 trilhões; entenda os impactos na economia",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEd3RllOeXQ0RDBRMTMyY3oyMU41bmtsVmxtam5mcDZOelJuTXFtMmd2Q0hGUmR3eHZWMTM3SC1sazl5LUtnZkZhZHdhS3JONUZLeHlQZ3d5U013UmZSTERxYnJnSW5LUWM5U0d3RFdmM0xKMVV5WHZMTjlXRExzZ08zY0ZmQXpIQnpvcFNaOW1fcmxQaHM2RUZCZkl0Z2M1b0VxVjF4akFzUHJj?oc=5"
     }
    ],
-   "score": 35.5,
-   "video_url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
-   "video_canal": "GloboNews",
-   "video_por_hora": 7292,
-   "video_acima_mediana": 4.5,
-   "videos": [
-    {
-     "canal": "GloboNews",
-     "titulo": "Tarcísio, Nunes Marques e outros reagem à carta de Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
-     "por_hora": 7292
-    }
-   ]
+   "score": 34.7
   },
   {
    "id": "96ea89bc05",
    "titulo": "Trump afirma que não tomou partido após pedido de Lula",
    "url": "https://www.youtube.com/watch?v=WntLQ2lB2cY",
    "veiculo": "Record News",
-   "publicado": "2026-10-30T12:34:44.193370+00:00",
+   "publicado": "2026-10-30T12:37:38.307508+00:00",
    "temas": [
     "politica"
    ],
@@ -602,14 +554,14 @@
    "score": 34.3,
    "video_url": "https://www.youtube.com/watch?v=MEcr68-a3gU",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 35250,
-   "video_acima_mediana": 21.8,
+   "video_por_hora": 36500,
+   "video_acima_mediana": 22.8,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Trump diz que não tomou partido na eleição do Brasil porque Lula pediu; Beraldo e Motta comentam",
      "url": "https://www.youtube.com/watch?v=MEcr68-a3gU",
-     "por_hora": 35250
+     "por_hora": 36500
     },
     {
      "canal": "SBT News",
@@ -644,99 +596,14 @@
    "score": 33.8,
    "video_url": "https://www.youtube.com/watch?v=NX830apV0Vw",
    "video_canal": "UOL",
-   "video_por_hora": 433854,
-   "video_acima_mediana": 137.0,
+   "video_por_hora": 409650,
+   "video_acima_mediana": 132.1,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Vorcaro contesta provas de celular; Nikolas apoia boicotes a petistas; Lula não procurará Trump e +",
      "url": "https://www.youtube.com/watch?v=NX830apV0Vw",
-     "por_hora": 433854
-    }
-   ]
-  },
-  {
-   "id": "62c6a45742",
-   "titulo": "CSN assina acordo de exclusividade com Huaxin para vender cimento",
-   "url": "https://economia.uol.com.br/colunas/monica-scaramuzzo/2026/10/30/csn-assina-acordo-de-exclusividade-com-huaxin-para-vender-cimento.htm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-30T15:34:03+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=CSN+assina+acordo+exclusividade+com+Huaxin+para+vender+cimento",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Mônica Scaramuzzo: CSN assina acordo de exclusividade com Huaxin para vender cimento",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdlVYU0pid0lZNzVVaEJFR0UxRGVWRVNnVFJTNlNYUi00aElrQzVoak9xNFBWRTU3Y0NPYmZ4YmZnOEJOV2JLdHptV0tHX3hCLWE5RVlNRXRzQnVHalpNbW9mSFFaX2hTOFdGUjNQM29abkJ2SDl5WVI1Njczdm91N0ozZzBaRzRfNFRScWxQZXZlWHlTNTZkb3l1bzFHSldmMXNlSzJEbkpKRWx6Wnh5SjRIdUNMXzBWRDlJenF1ZVVZTS14V2l3bjdaQUJ5ZzA?oc=5"
-    },
-    {
-     "veiculo": "Monitor do Mercado",
-     "titulo": "CSN assina acordo de exclusividade para vender CSN Cimentos à Huaxin por R$ 12,7 bi",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSl8wMWcxM2cxLWNQZFlsYnZvaHltWnhrT3ozbnByZWQ2WEZtZHZtWlZHZXg0Z3JwOXlaUTY0SFVvZ0FCdXhpMXdEbGNwc0VwQVd4OWFIWlFaM0wwUnlDdkVyU2J6dTNuR09vQzdPT0N5WVpucW5fVjdfcmhwMHltaVlWZGh6X0dsU3FLR1EwaXdmUUZSUDExbTJBNUpXUjFOQ2NwT1Y4ZWZRRU9mZ3FwR1JMR0hTNC1ma2NSa3FGeGtBdWVLQkhMcQ?oc=5"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "CSN assina acordo de exclusividade de 10 dias com Huaxin para venda da CSN Cimentos",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM3U2aE1KNUpIcTkxTEpuVkY5R1hLRDlYYVhCZFB3QVhtQ1F4d1RVaFdVSklkUnRXb0RIek94MHFsNkRJYkY0OXdnQmkzM2MzV2ZoYV9iR3BuVERrNTJQOU1GX2dkZ2l3UVcxQmd2R1RoSnVrQWstY21IcFgwZzdPR1ZGNVRrZ0tZZFo3cjlPTzNybEt3YTFZTlRKWjVicGp6RVU5ZFpqVjNrSXJtMHJIX1VUQzFOb2Rsa2xEd2MwWHVrM0pBYmpCX1luakd3MHd1Nm9UVmNSSnBJem9tdDRGcGRta3pydFU?oc=5"
-    },
-    {
-     "veiculo": "Folha",
-     "titulo": "CSN fecha acordo de exclusividade com a chinesa Huaxin para venda da unidade de cimentos",
-     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/csn-fecha-acordo-de-exclusividade-com-a-chinesa-huaxin-para-venda-da-unidade-de-cimentos.shtml"
-    }
-   ],
-   "score": 33.6
-  },
-  {
-   "id": "57e1667dbd",
-   "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
-   "url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-10-30T16:10:40+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Trump+viaja+Fl%C3%B3rida+ap%C3%B3s+chegada+Fl%C3%A1vio+Bolsonaro+aos+EUA",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
-     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk"
-    },
-    {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Com apoio de Trump, Flávio Bolsonaro foge para os EUA após derrota eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVdLdHZLcDAzSTFqUVNJajNXQ0R2bHZZXzhLcVNvdFlCdGsyT1lEeElfa2xValJHdmU2eFUwcFgwTHFEMWNDZUZtTEtjOEJaLUo1Tzd3NzZPaDRoUUxEVGwzaEdnZS1KS3NUUHd3Zmx4aXhmN0Nmd0FkUFp1VHRwcm5hMWU2RGxFTTgtbjBJb3dGWEh4VVJaOTNYbDF5VDhCT1N1WFpKR1dZRHpwVGxBU0pzRnRCQ09QaFZRV2FR?oc=5"
-    }
-   ],
-   "score": 33.2,
-   "video_url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 18461,
-   "video_acima_mediana": 11.4,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
-     "url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
-     "por_hora": 18461
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
-     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk",
-     "por_hora": 13480
+     "por_hora": 409650
     }
    ]
   },
@@ -817,6 +684,119 @@
    "score": 32.9
   },
   {
+   "id": "161ceb8c0b",
+   "titulo": "Papa Leão vota nas eleições de meio de mandato dos EUA pelo correio",
+   "url": "https://valor.globo.com/mundo/noticia/2026/10/30/papa-leo-vota-nas-eleies-de-meio-de-mandato-dos-eua-pelo-correio.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-30T16:12:43+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Papa+Le%C3%A3o+vota+nas+elei%C3%A7%C3%B5es+meio+mandato+dos+EUA",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Sete Margens",
+     "titulo": "Papa vota nas eleições americanas de 3 de novembro",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYk9aYy0zQkxyeEtvWTZEcVVUSlJjeVdCWThGSVNIRDFtc2VReFlGckJHNGtxQWZhMTNfUU94X193QTBIeWxQbkJSOUxOVG9sTXdoYVZmdnZTZTVOaHNNN3JZanRQd3FLRmIyUXFkQ1Z0Vm8tR2RFS1A1RUl5a2JITA?oc=5"
+    },
+    {
+     "veiculo": "noticiasdoplanalto.com.br",
+     "titulo": "Papa Leão XIV vota nas eleições americanas de meio de mandato",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3lBRF9ZNm9LdWFIbTRmRDRMRXVfVDExZnFtTFV1Wl9tc0lKcXhlb3g4ZG9hMWpGdVJuMUg0bWF4SU1YbG02dFlpX0ptX3RJTXRlUnExSTctdHk5MWRhWEp3azVCS18zbjNzclNZT2NDSDBPekFQalBLSEpkS1NMZzFuck9FOFdJOEpoUU03bzRKaklxSFNBbGtJZEg?oc=5"
+    },
+    {
+     "veiculo": "Rondônia Dinâmica",
+     "titulo": "Papa Leão XIV pede para votar por correspondência nas eleições americanas, diz TV",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHNKY1BDenFvN2RDSXFhSWpsS00taXlPeEVJelMyVEwwZGJkRE1CU1pfcFlRMnhmX2Z5RGc4ZzRMX0hiNFpXSGFzR3A1M2ZGNzNvb0h6cWpncWIyWkV4SXM0ZEhQYkk5QWJUYjc0NEsxcXhGR1dzRkFyeHdFRXFkeTBwRERUNjRkaTI5S1NWUVNWeG1aQUtxNFJUNjFFLUpXNTJHanhyM3dOUTJmRm4xRWpJNFlMd3FrR05DV09QaWl1TjFKajVXOUJ1LVFpUC0zR25CNG41RVRFSzg?oc=5"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Papa Leão XIV vota pelo correio para eleições de meio de mandato nos EUA",
+     "url": "https://exame.com/mundo/papa-leao-xiv-vota-pelo-correio-para-eleicoes-de-meio-de-mandato-nos-eua/"
+    }
+   ],
+   "score": 32.8
+  },
+  {
+   "id": "62c6a45742",
+   "titulo": "CSN assina acordo de exclusividade com Huaxin para vender cimento",
+   "url": "https://economia.uol.com.br/colunas/monica-scaramuzzo/2026/10/30/csn-assina-acordo-de-exclusividade-com-huaxin-para-vender-cimento.htm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-10-30T13:31:26+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=CSN+assina+acordo+exclusividade+com+Huaxin+para+vender+cimento",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Monitor do Mercado",
+     "titulo": "CSN assina acordo de exclusividade para vender CSN Cimentos à Huaxin por R$ 12,7 bi",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSl8wMWcxM2cxLWNQZFlsYnZvaHltWnhrT3ozbnByZWQ2WEZtZHZtWlZHZXg0Z3JwOXlaUTY0SFVvZ0FCdXhpMXdEbGNwc0VwQVd4OWFIWlFaM0wwUnlDdkVyU2J6dTNuR09vQzdPT0N5WVpucW5fVjdfcmhwMHltaVlWZGh6X0dsU3FLR1EwaXdmUUZSUDExbTJBNUpXUjFOQ2NwT1Y4ZWZRRU9mZ3FwR1JMR0hTNC1ma2NSa3FGeGtBdWVLQkhMcQ?oc=5"
+    },
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "CSN assina acordo de exclusividade de 10 dias com Huaxin para venda da CSN Cimentos",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM3U2aE1KNUpIcTkxTEpuVkY5R1hLRDlYYVhCZFB3QVhtQ1F4d1RVaFdVSklkUnRXb0RIek94MHFsNkRJYkY0OXdnQmkzM2MzV2ZoYV9iR3BuVERrNTJQOU1GX2dkZ2l3UVcxQmd2R1RoSnVrQWstY21IcFgwZzdPR1ZGNVRrZ0tZZFo3cjlPTzNybEt3YTFZTlRKWjVicGp6RVU5ZFpqVjNrSXJtMHJIX1VUQzFOb2Rsa2xEd2MwWHVrM0pBYmpCX1luakd3MHd1Nm9UVmNSSnBJem9tdDRGcGRta3pydFU?oc=5"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "CSN fecha acordo de exclusividade com a chinesa Huaxin para venda da unidade de cimentos",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/csn-fecha-acordo-de-exclusividade-com-a-chinesa-huaxin-para-venda-da-unidade-de-cimentos.shtml"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Agenda de empresas: Lucro da Vale recua 53%; CSN assina exclusividade para venda da CSN Cimentos",
+     "url": "https://valor.globo.com/empresas/noticia/2026/10/30/agenda-de-empresas-lucro-da-vale-recua-53percent-csn-assina-exclusividade-para-venda-da-csn-cimentos.ghtml"
+    }
+   ],
+   "score": 32.7
+  },
+  {
+   "id": "f775451b14",
+   "titulo": "Os 10 grandes desafios econômicos que Lula enfrentará em seu 4º mandato",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHNtWWM4SlhGM1BTbjNfRVBCLUhuT1Jmdzkwa2FOOGdCSGd4bDFmekdSQlZfYlBRS2RKZjh1VDZ4a21ESnVhaHVUUTEyellGVGZQdjVjTE9DZHliVHMtTUlVT1BGMUpuSElxSFU0dFNpVVZTWXRmb05pMTdiLWt2Qm9DaTVqeElOY0E?oc=5",
+   "veiculo": "Gazeta do Povo",
+   "publicado": "2026-10-30T16:29:06+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=grandes+desafios+econ%C3%B4micos+que+Lula+enfrentar%C3%A1+seu+mandato",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "VEJA",
+     "titulo": "Da economia à segurança: os enormes desafios do quarto mandato de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkdBT1RJTlZldUZXWWJ5a3lxUThxNndGYXB2N2dyMnRfaUhja2NSYVNvbWpnQmEwcWRJT1dobzdrU3RJc0hUTjJvWmc1TFRnYjUwXzM5MVN4anZnUVlTYV9ITFN6bVR0bWZ4bW8xRlFEUk95NHgzTm1IR2FWU3c1RzhhUmRZWHU1T2xneE5ERkhSN0pWLWF6cnZHUUtMY2N1MnpUWWg5Qmc?oc=5"
+    },
+    {
+     "veiculo": "Portal VV8",
+     "titulo": "Desafios econômicos do governo Lula para o quarto mandato",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOExCdkc0NDZHWWRCc2YySVV4TzZNa0xvQTVGNnNxeTcwQnpYUVZaQVY3RHFvQ3p4N3ZZNFUyM3Q5ZHNhbnZaSS1uOFgwVUZSTTNBdmh3YjFvTGJOakJOVHZYeVRibmtoQmJ0Z3lOWG8wSi1FOHQ4N3M2eW1JaXR4UE90Y2R0c3dqRURGazQ2Yk5URGE1dnBwZDVsbEQ?oc=5"
+    },
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Tesouro trabalha em pacote econômico para o quarto mandato de Lula, diz secretário",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2YybWZsSEtVOUhQalpEUjVRSzd5M0U4UjJXTGtsUHB5d25EalpUM2FMTlRmREJPMGFMdGhNcWRtb0h5RUR1TzhuV3o2YTJEU3BZa2NKUnpWZ1ByWDZzNzg3bzlScnc1bzVIWjNtVzVPLU45WFo1aVhfS0V1bFhMcm9vYWdYR2tiU0pUZVRNclp6MzRwZldOOWhn?oc=5"
+    }
+   ],
+   "score": 31.9
+  },
+  {
    "id": "8d7a6fd860",
    "titulo": "BTG (BPAC11) sofre corte de recomendação e preço-alvo pelo Itaú BBA, e ação sente",
    "url": "https://www.moneytimes.com.br/btg-bpac11-sofre-corte-de-recomendacao-e-preco-alvo-pelo-itau-bba-e-acao-sente/",
@@ -875,14 +855,14 @@
    "score": 31.7,
    "video_url": "https://www.youtube.com/watch?v=D3eOLghMvjM",
    "video_canal": "GloboNews",
-   "video_por_hora": 13255,
-   "video_acima_mediana": 8.3,
+   "video_por_hora": 13529,
+   "video_acima_mediana": 8.4,
    "videos": [
     {
      "canal": "GloboNews",
      "titulo": "Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do avião",
      "url": "https://www.youtube.com/watch?v=D3eOLghMvjM",
-     "por_hora": 13255
+     "por_hora": 13529
     }
    ]
   },
@@ -926,6 +906,46 @@
    "score": 31.7
   },
   {
+   "id": "a5e7119cf8",
+   "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
+   "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
+   "veiculo": "UOL",
+   "publicado": "2026-10-30T15:40:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+apoia+boicote+empres%C3%A1rios+artistas+que+votaram+Lula",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Bnews",
+     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT: \"Não condizem com os nossos princ…",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS19DVFFibi1yclJ3d3lyY29iekZITFU5R0JuM2JZaEl0aFN6UWlac2pid0QxOUlBYnp2MjRiX3BiWmcyRW5BaGRhYUt0SXZzaEpsZjVIU1NKNkFmek5haGFxakQwUkhyd0RGN3NnU3I3Q1ZCQko4dnRvYk9GSzc0U0phMXEwTEF2OHJZbFNUYmt2RzhhVnhEV3MwZkZaNFdvWG9KXzQzYy1UVTVNYzhoX0xJSEVLWWZKc2FFOVRQeHg3OVVsb2YxX3RrS2VpejlPbmlVWG9odzZWTWwwZGVzVkxhLUxnVEZiYjk0Yzl5SUpYWkHSAfMBQVVfeXFMTktfQ1RRYm4tcnJSd3d5cmNvYnpGSExVOUdCbjNiWWhJdGhTelFpWnNqYndEMTlJQWJ6djI0Yl9wYlpnMkVuQWhkYWFLdEl2c2hKbGY1SFNTSjZBZnpOYWhhcWpEMFJIcndERjdzZ1NyN0NWQkJKOHZ0b2JPRks3NFNKYTFxMExBdjhyWWxTVGJrdkc4YVZ4RFdzMGZGWjRXb1hvSl80M2MtVFU1TWM4aF9MSUhFS1lmSnNhRTlUUHh4NzlVbG9mMV90a0tlaXo5T25pVVhvaHc2Vk1sMGRlc1ZMYS1MZ1RGYmI5NGM5eUlKWFpB?oc=5"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84a0V3dWcyeE9DYXZBSTNnS01jTS01OG02b3FkZDNURkc1MHFmcU9Ha0doXzU0SzJYLThBcjBNMHd5UXBmMGNMZExFMVlqSjBvX2dYbm9ld19xNjRVWFpmZlU2WjRCMlU?oc=5"
+    }
+   ],
+   "score": 31.6,
+   "video_url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
+   "video_canal": "UOL",
+   "video_por_hora": 22500,
+   "video_acima_mediana": 7.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
+     "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
+     "por_hora": 22500
+    }
+   ]
+  },
+  {
    "id": "1004ff75a2",
    "titulo": "Hackers levam US$ 6,3 bilhões da Binance, no maior roubo de criptomoedas do mundo",
    "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/10/30/hackers-roubam-us-63-bilhes-da-binance-no-maior-roubo-de-criptomoedas-do-mundo.ghtml",
@@ -965,26 +985,26 @@
    "score": 31.2,
    "video_url": "https://www.youtube.com/watch?v=1FVLR1oxkjk",
    "video_canal": "InfoMoney",
-   "video_por_hora": 531,
+   "video_por_hora": 534,
    "video_acima_mediana": 3.5,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=1FVLR1oxkjk",
-     "por_hora": 531
+     "por_hora": 534
     },
     {
      "canal": "SBT News",
      "titulo": "Hackers fazem maior roubo de criptomoedas da história | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=sNk7vUao1VA",
-     "por_hora": 514
+     "por_hora": 501
     },
     {
      "canal": "InfoMoney",
      "titulo": "Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=wQzwnUl1oZE",
-     "por_hora": 102
+     "por_hora": 101
     }
    ]
   },
@@ -1003,7 +1023,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+tem+dia+seguido+queda+d%C3%B3lar+oscila+acima+5%2C40",
-   "veiculos": 13,
+   "veiculos": 12,
    "rotina": true,
    "outras": [
     {
@@ -1027,7 +1047,7 @@
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG5BNFR0Z2FpV0lTLVVpQWJ4bThuT2QteHYtNXltdzNxNXRyVXFJdTVtQjQtclJ3UklDZUt2V29qdld3NG0xMWN6SVRDeDA4UXNzbDM5TGw1WGx1UXJXa1YzTG9pbEM4UFJZLXVfNkduajZpUDVGVnFrbTBLRVI5Z3hjTWExVlplMVQtWQ?oc=5"
     }
    ],
-   "score": 31.0
+   "score": 30.9
   },
   {
    "id": "fab15c6610",
@@ -1067,47 +1087,7 @@
      "url": "https://g1.globo.com/economia/noticia/2026/10/29/contas-do-governo-tem-superavit-de-r-48-bilhoes-em-setembro-melhor-saldo-para-o-mes-em-tres-anos.ghtml"
     }
    ],
-   "score": 30.8
-  },
-  {
-   "id": "a5e7119cf8",
-   "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
-   "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
-   "veiculo": "UOL",
-   "publicado": "2026-10-30T15:40:00+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+apoia+boicote+empres%C3%A1rios+artistas+que+votaram+Lula",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Bnews",
-     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT: \"Não condizem com os nossos princ…",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS19DVFFibi1yclJ3d3lyY29iekZITFU5R0JuM2JZaEl0aFN6UWlac2pid0QxOUlBYnp2MjRiX3BiWmcyRW5BaGRhYUt0SXZzaEpsZjVIU1NKNkFmek5haGFxakQwUkhyd0RGN3NnU3I3Q1ZCQko4dnRvYk9GSzc0U0phMXEwTEF2OHJZbFNUYmt2RzhhVnhEV3MwZkZaNFdvWG9KXzQzYy1UVTVNYzhoX0xJSEVLWWZKc2FFOVRQeHg3OVVsb2YxX3RrS2VpejlPbmlVWG9odzZWTWwwZGVzVkxhLUxnVEZiYjk0Yzl5SUpYWkHSAfMBQVVfeXFMTktfQ1RRYm4tcnJSd3d5cmNvYnpGSExVOUdCbjNiWWhJdGhTelFpWnNqYndEMTlJQWJ6djI0Yl9wYlpnMkVuQWhkYWFLdEl2c2hKbGY1SFNTSjZBZnpOYWhhcWpEMFJIcndERjdzZ1NyN0NWQkJKOHZ0b2JPRks3NFNKYTFxMExBdjhyWWxTVGJrdkc4YVZ4RFdzMGZGWjRXb1hvSl80M2MtVFU1TWM4aF9MSUhFS1lmSnNhRTlUUHh4NzlVbG9mMV90a0tlaXo5T25pVVhvaHc2Vk1sMGRlc1ZMYS1MZ1RGYmI5NGM5eUlKWFpB?oc=5"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84a0V3dWcyeE9DYXZBSTNnS01jTS01OG02b3FkZDNURkc1MHFmcU9Ha0doXzU0SzJYLThBcjBNMHd5UXBmMGNMZExFMVlqSjBvX2dYbm9ld19xNjRVWFpmZlU2WjRCMlU?oc=5"
-    }
-   ],
-   "score": 30.6,
-   "video_url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
-   "video_canal": "UOL",
-   "video_por_hora": 20000,
-   "video_acima_mediana": 6.3,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
-     "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
-     "por_hora": 20000
-    }
-   ]
+   "score": 30.7
   },
   {
    "id": "2d55810876",
@@ -1123,7 +1103,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+Hoje+Vivo+Bolsa+cai+engata+sess%C3%A3o+negativa+VALE3",
-   "veiculos": 13,
+   "veiculos": 12,
    "rotina": true,
    "outras": [
     {
@@ -1147,7 +1127,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pdFVmVzdhY08zU205WlU1MWtJMmxOeXZHVS00X0NHZnBEaDdjaWg0TGVwMXlpN1BDX2Z1SldvcDJoaXRmUnRoTzVCNURKQTNteXI2ejk4UVVPTGdlVk4tb0tuZFppYXNLTTQyc0MtbU1vS0NxQzh1dzZNdUE?oc=5"
     }
    ],
-   "score": 30.6
+   "score": 30.5
   },
   {
    "id": "7f2946a3bd",
@@ -1165,7 +1145,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 30.3
+   "score": 30.2
   },
   {
    "id": "c84c4989b3",
@@ -1203,13 +1183,13 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamRra0tWRHlmM0tmaXhycTBqeVJpWnFrVTNzZ0NqT2lfeUh5U2dUd2E1S3NVb1QzdjhkbmZReHBaRHVBbEtReXRocXpMRFpMTEp4U2dnazE5bnBlc0ozeEJocGhoMTViR25WT1RmWS1UTkdoQk1TNHFyY0ozQUxfbXJfOEx1b1R3MjZOTHFndHlOSG51ZmFDMnVlRWRWUkJBRWVWQmdlWE4?oc=5"
     }
    ],
-   "score": 30.3
+   "score": 30.2
   },
   {
-   "id": "f5b0644e86",
-   "titulo": "D�lar supera R$ 5,40; Ibovespa cai mais de 1%, na quinta baixa consecutiva",
-   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/30/dolar-e-bolsa-30-de-outubro-de-2026.ghtm",
-   "veiculo": "UOL Economia",
+   "id": "5473a171a9",
+   "titulo": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-076-e-fecha-r-539-em-dia-de-cautela",
+   "veiculo": "Agência Brasil",
    "publicado": "2026-10-30T12:09:47+00:00",
    "temas": [
     "economia",
@@ -1218,14 +1198,14 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=lar+supera+5%2C40+Ibovespa+cai+mais+1%25%2C+quinta+baixa",
-   "veiculos": 15,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+0%2C76%25+fecha+5%2C39+dia+cautela",
+   "veiculos": 22,
    "rotina": true,
    "outras": [
     {
      "veiculo": "UOL Economia",
-     "titulo": "Dólar supera R$ 5,40; Ibovespa cai mais de 1% e tem quinta queda seguida",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlJjTkoxajJVZEdDcVdBYlc4TlgtZDhTVm5SdlQ1REJ2Q2lBakJJME8yUzd5SzFLb0ZuYnktRS1IQ3ZYdXFOUXlaSE1kTklkTk5hQ18xN29td1Y1UHNSb0JkNm1ULXNlTUxrQnRiVng0UzNBWWhoempEWmUtNzZ0V0ptR0l5dzBlZVNMbFFRcXJhVkxqUUJiNk82aDVlS1UwdGQyVmE1TUM?oc=5"
+     "titulo": "D�lar supera R$ 5,40; Ibovespa cai mais de 1%, na quinta baixa consecutiva",
+     "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/30/dolar-e-bolsa-30-de-outubro-de-2026.ghtm"
     },
     {
      "veiculo": "UOL Economia",
@@ -1243,46 +1223,31 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1phNnZsLVlTbXhfRGN3c0JEWmFzbFRpZFlwdnpIQWxJYncwQkFGMHQ4QTlZVGtWZU1pV1FvWUJIakF3YnpOaVl3T1N0RVdKUkgyajNLekQ4NEUzNzI2MEp3Q2pEaTJuQnhiTXdoSEtVQklUNG1CMVk5V19uWDF3Q2FmeWhMMHlRNk54RU5aMGQtM1pRbnBVdnBOa1hiSXdBUUtqbFFfWGk0QnU2cTgyN2JjVHZQQW05c3hxS0MxRjFNbVBZMTRPOVRzQjE?oc=5"
     }
    ],
-   "score": 30.2
+   "score": 30.1
   },
   {
-   "id": "161ceb8c0b",
-   "titulo": "Papa Leão vota nas eleições de meio de mandato dos EUA pelo correio",
-   "url": "https://valor.globo.com/mundo/noticia/2026/10/30/papa-leo-vota-nas-eleies-de-meio-de-mandato-dos-eua-pelo-correio.ghtml",
+   "id": "d9deba90b4",
+   "titulo": "Saída de estrangeiros da bolsa acelera após 2º turno e soma R$ 11,4 bi em 5  pregões",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/30/saida-de-estrangeiros-da-bolsa-acelera-apos-2o-turno-e-soma-r-114-bi-em-5-pregoes.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-30T16:12:43+00:00",
+   "publicado": "2026-10-30T13:34:35+00:00",
    "temas": [
-    "economia",
+    "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Papa+Le%C3%A3o+vota+nas+elei%C3%A7%C3%B5es+meio+mandato+dos+EUA",
-   "veiculos": 6,
+   "busca_video": "https://www.youtube.com/results?search_query=Sa%C3%ADda+estrangeiros+bolsa+acelera+ap%C3%B3s+turno+soma+11%2C4+preg%C3%B5es",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Sete Margens",
-     "titulo": "Papa vota nas eleições americanas de 3 de novembro",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYk9aYy0zQkxyeEtvWTZEcVVUSlJjeVdCWThGSVNIRDFtc2VReFlGckJHNGtxQWZhMTNfUU94X193QTBIeWxQbkJSOUxOVG9sTXdoYVZmdnZTZTVOaHNNN3JZanRQd3FLRmIyUXFkQ1Z0Vm8tR2RFS1A1RUl5a2JITA?oc=5"
-    },
-    {
-     "veiculo": "noticiasdoplanalto.com.br",
-     "titulo": "Papa Leão XIV vota nas eleições americanas de meio de mandato",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3lBRF9ZNm9LdWFIbTRmRDRMRXVfVDExZnFtTFV1Wl9tc0lKcXhlb3g4ZG9hMWpGdVJuMUg0bWF4SU1YbG02dFlpX0ptX3RJTXRlUnExSTctdHk5MWRhWEp3azVCS18zbjNzclNZT2NDSDBPekFQalBLSEpkS1NMZzFuck9FOFdJOEpoUU03bzRKaklxSFNBbGtJZEg?oc=5"
-    },
-    {
-     "veiculo": "Rondônia Dinâmica",
-     "titulo": "Papa Leão XIV pede para votar por correspondência nas eleições americanas, diz TV",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHNKY1BDenFvN2RDSXFhSWpsS00taXlPeEVJelMyVEwwZGJkRE1CU1pfcFlRMnhmX2Z5RGc4ZzRMX0hiNFpXSGFzR3A1M2ZGNzNvb0h6cWpncWIyWkV4SXM0ZEhQYkk5QWJUYjc0NEsxcXhGR1dzRkFyeHdFRXFkeTBwRERUNjRkaTI5S1NWUVNWeG1aQUtxNFJUNjFFLUpXNTJHanhyM3dOUTJmRm4xRWpJNFlMd3FrR05DV09QaWl1TjFKajVXOUJ1LVFpUC0zR25CNG41RVRFSzg?oc=5"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Papa Leão XIV vota pelo correio para eleições de meio de mandato nos EUA",
-     "url": "https://exame.com/mundo/papa-leao-xiv-vota-pelo-correio-para-eleicoes-de-meio-de-mandato-nos-eua/"
+     "veiculo": "Valor Econômico",
+     "titulo": "Saída de estrangeiros da bolsa acelera após 2º turno e soma R$ 11,4 bi em 5 pregões",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYWVRUUNxRzltWUZQaDZxbDhjUzJHb3lEdjJrSDE5V1hJTEFzTlZkckR1VDkxeWMyeHV4YWNsUFZac1gwckZvLW9jQ0l2S1lZWmpkSGZDblJpU2lsRWhuWHB1NHdUTTUyUEIyNmZUd1FoQWVvWV9sUHAwQ2ZzNXZMZzRZbjJQVlRMSGliRUlDMENYalBuZzJmay1EUFJuR3A3LTVLd3R0ejA1dlpha08tWTlLcUJsZEs1M1VLZzVGSUZiOUIzcjdlVUdwZVVBQl9na2M2dkZTNjVQY21aUG51NklLOGLSAeQBQVVfeXFMTWFlUVFDcUc5bVlGUGg2cWw4Y1MyR295RHYya0gxOVdYSUxBc05WZHJEdVQ5MXljMnh1eGFjbFBWWnNYMHJGby1vY0NJdktZWVpqZEhmQ25SaVNpbEVoblhwdTR3VE01MlBCMjZmVHdRaEFlb1lfbFBwMENmczV2TGc0WW4yUFZUTEhpYkVJQzBDWGpQbmcyZmstRFBSbkdwNy01S3d0dHowNXZaYWtPLVk5S3FCbGRLNTNVS2c1RklGYjlCM3I3ZVVHcGVVQUJfZ2tjNnZGUzY1UGNtWlBudTZJSzhi?oc=5"
     }
    ],
-   "score": 29.8
+   "score": 29.7
   },
   {
    "id": "184618a4ae",
@@ -1310,23 +1275,23 @@
      "url": "https://www.youtube.com/watch?v=7u38qKqNzFI"
     }
    ],
-   "score": 29.7,
+   "score": 29.5,
    "video_url": "https://www.youtube.com/watch?v=sZ-RK5lIyRw",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 19330,
-   "video_acima_mediana": 71.9,
+   "video_por_hora": 18956,
+   "video_acima_mediana": 68.3,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Assessor de Trump teria conseguido avião usado por Flávio | BORA BRASIL - 30/10/2026",
      "url": "https://www.youtube.com/watch?v=sZ-RK5lIyRw",
-     "por_hora": 19330
+     "por_hora": 18956
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Assessor de Trump teria providenciado voo de Flávio Bolsonaro; Beraldo, Mehero e Motta comentam",
      "url": "https://www.youtube.com/watch?v=7u38qKqNzFI",
-     "por_hora": 14400
+     "por_hora": 14600
     },
     {
      "canal": "Band Jornalismo",
@@ -1335,30 +1300,6 @@
      "por_hora": 575
     }
    ]
-  },
-  {
-   "id": "d9deba90b4",
-   "titulo": "Saída de estrangeiros da bolsa acelera após 2º turno e soma R$ 11,4 bi em 5  pregões",
-   "url": "https://valor.globo.com/financas/noticia/2026/10/30/saida-de-estrangeiros-da-bolsa-acelera-apos-2o-turno-e-soma-r-114-bi-em-5-pregoes.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-30T13:34:35+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Sa%C3%ADda+estrangeiros+bolsa+acelera+ap%C3%B3s+turno+soma+11%2C4+preg%C3%B5es",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Saída de estrangeiros da bolsa acelera após 2º turno e soma R$ 11,4 bi em 5 pregões",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYWVRUUNxRzltWUZQaDZxbDhjUzJHb3lEdjJrSDE5V1hJTEFzTlZkckR1VDkxeWMyeHV4YWNsUFZac1gwckZvLW9jQ0l2S1lZWmpkSGZDblJpU2lsRWhuWHB1NHdUTTUyUEIyNmZUd1FoQWVvWV9sUHAwQ2ZzNXZMZzRZbjJQVlRMSGliRUlDMENYalBuZzJmay1EUFJuR3A3LTVLd3R0ejA1dlpha08tWTlLcUJsZEs1M1VLZzVGSUZiOUIzcjdlVUdwZVVBQl9na2M2dkZTNjVQY21aUG51NklLOGLSAeQBQVVfeXFMTWFlUVFDcUc5bVlGUGg2cWw4Y1MyR295RHYya0gxOVdYSUxBc05WZHJEdVQ5MXljMnh1eGFjbFBWWnNYMHJGby1vY0NJdktZWVpqZEhmQ25SaVNpbEVoblhwdTR3VE01MlBCMjZmVHdRaEFlb1lfbFBwMENmczV2TGc0WW4yUFZUTEhpYkVJQzBDWGpQbmcyZmstRFBSbkdwNy01S3d0dHowNXZaYWtPLVk5S3FCbGRLNTNVS2c1RklGYjlCM3I3ZVVHcGVVQUJfZ2tjNnZGUzY1UGNtWlBudTZJSzhi?oc=5"
-    }
-   ],
-   "score": 29.7
   },
   {
    "id": "e221b3317e",
@@ -1385,14 +1326,9 @@
      "veiculo": "Estadão",
      "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Ibovespa tomba mais 2,6% com incerteza fiscal e temor sobre IOF; Fed mantém juros inalterados",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdzdQZW9Ib3Z2SHR3alAwTTNQRVBNaEpTQnpqU1RMVnZGSzdkTVVWdlhIUTF5YzliOWdNRjlPZmg4Y2VmeHY3U2d2bURFZEt0QktDZ1ByemxYVnlySGxlVnNDZDZYLXM0U0ZzQmlLV0tSdjRWSzFYcXc4Q0IweURmYS02dGlPbzBhSjM2Y0M5VGtxWjU5Tno5R3VHREhkRVFnV2JXOUFKYWpnLUtfMnJZYjdOSlZmWTZJOHAxNmQxYmVNTFhTMHF0WnRMcWxkSG4ySVMyM1I3cXZzdDNHZDJTSU0wZDAtQnVoVUNzYmN3?oc=5"
     }
    ],
-   "score": 29.6
+   "score": 29.5
   },
   {
    "id": "8809c298a4",
@@ -1434,73 +1370,54 @@
    "score": 29.4
   },
   {
-   "id": "794ba9f7e3",
-   "titulo": "Petista 'liberal'? Como governador Rafael Fonteles entrou no radar de Lula para comandar a economia do Brasil",
-   "url": "https://www.bbc.com/portuguese/articles/cx1l37yrndmro?at_medium=RSS&at_campaign=rss",
+   "id": "5ea4731590",
+   "titulo": "Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?",
+   "url": "https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss",
    "veiculo": "BBC News Brasil",
-   "publicado": "2026-10-30T10:04:50+00:00",
+   "publicado": "2026-10-30T01:08:51+00:00",
    "temas": [
-    "economia",
-    "mercado",
     "politica"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Petista+liberal+Como+governador+Rafael+Fonteles+entrou+radar+Lula",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "O POVO",
-     "titulo": "Petista 'liberal'? Como governador Rafael Fonteles entrou no radar de Lula para comandar a economia do Brasil",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVTJwT2xWTTZGSlM0NGIwX1U1MXhVM1c0eW9EUGltR3lfTkNmRy1ZcHpmLUFCVnVlXzJSQVBxcEw1bngwVnlDemctcnpGVDVMUjhkMF9FNHU2NmJ6Zk5VQWlId3VtS2wtX05jaS1WWFhfQm44RXNRQ0pXRUhzY3V3QWstajdub2xWcEFQTGtjaGlXbW9tOEFXbXc4cG0wN0hKMm5LbGpOb1kwdThram1tMmFnTXFSVzF4RlgzSzNiUXlfTUpFTGtMd1V1ZkNqMlVtb3hOUEVtWVF5b1RyUUdMYVppSVU0Tm51Y0tGUFlxOFk?oc=5"
-    },
-    {
-     "veiculo": "BBC",
-     "titulo": "Rafael Fonteles: Como 'petista mais liberal' entrou no radar de Lula para comandar a economia do Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZTVpTYzduWER5NllKYnJFWklYVzJPak1mWFQ4QW1rajN2VU42RldCM203bnhXRmZUeDE3MXBFcTZ0Z1pjZkJJTF9qQWJ2OHVtNEdoMDJuUjRfS3YtdEFaTjF6b9IBaEFVX3lxTE1YNU9KRDI0bno3OHRxN3NzcHR5SkxRb0RMTDZSQ3d1SXZQTHpkeThjNGdmNEEtQVlSUUQzVHh1b3dveERWUENWaEdyT2pKQTFwdGI5NEpYZDVDWEFHZHdLOWY5dU5mZEZL?oc=5"
-    }
-   ],
-   "score": 29.3
-  },
-  {
-   "id": "8bc22d2c78",
-   "titulo": "Inflação nos EUA acelera em setembro e pressiona Fed",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/inflacao-nos-eua-acelera-em-setembro-e-pressiona-fed.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-29T21:45:24+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Infla%C3%A7%C3%A3o+nos+EUA+acelera+setembro+pressiona+Fed",
+   "busca_video": "https://www.youtube.com/results?search_query=Pragmatismo+ideologia+como+Trump+vai+fato+lidar+com+declara%C3%A7%C3%B5es",
    "veiculos": 5,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Vero Notícias",
-     "titulo": "Trump critica Fed por manter juros e destaca crescimento de 3,4% do PIB dos EUA",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGJtWGJZdEFLUWtxbHpGUEZPQUtNTEJHLVpuREZYV1MwbHBkeGdyTEhWNk9id0VDUVRZWjVjbU5yOGdPWlZCSk93dHppUEFRTzM0WnV6ZnhNamhiT3VXY1FNYXBnYlU1ZUlvZVotVEw3OEY0X3ZzZUZ6ZmdPa2RETU9WSzc4aUpfQzJCcDRqRHJFcnpvbUFFd1kzeV9zWGxteTZHSU9MazVCQ1VoZVE?oc=5"
+     "veiculo": "Nexo Jornal",
+     "titulo": "Como aliados reagem ao golpismo de Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEJ1VDVDcEpYSjhHVzNtLXh5RkNCUkxSemVyRUg3LXNSRGNJOVZGZEtfMWlmWUdEVk9wa3I3Z2VTd3EzMEV5ODNtbkNXdmJpUk1iTktRT2VhNkFLdkpqR3JqcE45dGdVZlh5WU8zLXp3MUpyeFRPUjB5Y25vUzJ5ajNteHRrcE1xTDhESlcwZHh2dVJUVmUtdUdjaWZ5WmlUN1Q4TDBIZjNYUHQtdDZpZ0Jn?oc=5"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Trump critica Fed por manter juros e comemora PIB dos EUA",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXRoaTFOVTA1REZoTTJsY2oxallXekYtWGpUbGFwWERkTDcyNkZJZm4wY3l1M1o5RHQ2aXJFcFZHY09qcFFEb05HNzZxcWU1cVJVV3FST1p2aHlBb3ZTdVVxRmRnSkhlMjN3ZTI4X3d0WkFWN2J6bU9HOFB1WnJlSThuSy11em9LR1l6dThUZ1lFNFhzSkJlV1FXN0pyWlRzaXdSVnM3OTJ3YjZXNl9DLUg3dkxBRHM?oc=5"
+     "veiculo": "Plantão Brasil",
+     "titulo": "Isolamento político: aliados de Flávio Bolsonaro reagem a guinada radical do senador",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWZWUWJuZ0RLdTB2RVJvYXpNYlU2bllfS3dMdGx4TWoyTDFFbl9vUmdfdTd3UG4yMk1FTHcwOU9uTWhmUU5Ia1VlTlRlRjZfdnI1QmNYSk1MT0luUTdBMXJRZ0ZVV0pCNlo2M1JRY2ZHQnpjamt4UVBVa3hiaEFLY3cxbFFsWGNEQWN4UmwzV2htWUh6R2FfTkxwa3dNTnl6THZweTdBLUdNTGF2Wl93aUV4SnZBRU5jWmNEMnIxR3Nxem80clVwMQ?oc=5"
     },
     {
-     "veiculo": "UOL Economia",
-     "titulo": "Trump diz que Fed evita cortar juros para não favorecê-lo e celebra PIB dos EUA",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVDhsZTcxRlZKWVoxQm12aEhubEhLT19WbzFlWVJSclZvWkNzRmNYRm5qSnZabkxKVFRFSXJ1YVhTY2ItSGhPcmlMbU8ySEdPa0Q1ekFMRXJPUHZNeDdDajJLeW94UUdCWUZEMjRtSUxjYS1BRlZRcHNzdnVvWmpLWlhadGtOb2JuMW55Wmg1TXJTdmhYbmRKQ016enlna25TNGpGcm10aklITmVtOEgwcDM4QUF3X0hKeTFrUkEyTGhIMEJrVmxTMDVUMnpnRUdiM1I5M295dldNMWpKS3BXbF9R?oc=5"
+     "veiculo": "UOL Notícias",
+     "titulo": "Quais aliados de Flávio Bolsonaro compartilharam a carta golpista? Veja",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONTBBSW1jR1d0dFB5UUR3RlNRNjBvb3FUWkJRNzhuTFJTcUxpWDQ1V3M5eDZvQU15amsyOF9kN2RMd2NBUWdNdk96eUt5WEMyVV9YbUJYbGMzYVdYUlpGN3BpY19iTDZBVjZPc3U5SVVJVDNOV0dBQ1RxeG1oSlNzQXR5Y3BMeC1ZT0JCY3JzdktYMm4wVVpnVXBQN0tOQkRrdUZnYmR1YjNUemxBQkVEczAzMEJLU1ZjSHRiRHJKbld3b18wbTg2YWo1WFJLYkhjOTZUbUFjWVNSeHQxeUE?oc=5"
     },
     {
-     "veiculo": "Monitor Mercantil",
-     "titulo": "PIB dos EUA mais forte e inflação mais alta devem levar Fed a subir juros",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWlGdVBEZUI2dUZQXzRqcktvSjV5T08tRlRTemZweG5GZDhjdVdWVGttejZQQUl4d0NuczRBWUE4U09uYWE2VGl5MTBBQTZsbU9tMDFZeGZsX2RsNnc0bTFFZ3lWdUJndU9BaWxENGRncGJMbVFhSzdzcFh6aGFLUkJpQnBNSXZIdGZQcDZoajNHNW0yVmRMWXhTWkE2LXNCdjhPQTNMa2kzUQ?oc=5"
+     "veiculo": "Plantão Brasil",
+     "titulo": "Isolamento de Flávio Bolsonaro: aliados evitam endossar carta com teor golpista",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlBYeUpyX1JLeGZDb2hkSXpCUmp6OTBSUE5SajFqRjdzUjNwdG1wRjVockJfclJlRjB2dlFhN24wNTRDb0hEbld2ZVM0LVdHY1BnWmpzSF9oRHFIQ0JhOUtXV0diR05DWFdieVY4TjBKUXJiLXNRUGJ4dnA0eGc5TmkyV1ZVdHc2dGRRSzdPcFVMRlRiYmVBQXhaSWd2VTJRS000bWhjRDVvYWY2YWpMWHhVNFpxWXdQU3dCSGhXZnRVUQ?oc=5"
     }
    ],
-   "score": 29.2
+   "score": 28.5,
+   "video_url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
+   "video_canal": "GloboNews",
+   "video_por_hora": 7292,
+   "video_acima_mediana": 4.5,
+   "videos": [
+    {
+     "canal": "GloboNews",
+     "titulo": "Tarcísio, Nunes Marques e outros reagem à carta de Flávio Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
+     "por_hora": 7292
+    }
+   ]
   },
   {
    "id": "fba7216ab8",
@@ -1561,10 +1478,10 @@
    "score": 28.1
   },
   {
-   "id": "5473a171a9",
-   "titulo": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-076-e-fecha-r-539-em-dia-de-cautela",
-   "veiculo": "Agência Brasil",
+   "id": "fb95f3d938",
+   "titulo": "Ibovespa recua aos 175 mil pontos após tombo de quase 14% com reeleição de Lula; dólar cai a R$ 5,35",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNTV0b1BGRV9qOGZ1OGlYcWpxYmptNFlwZHJxcWs5akpoR2RmOFp5SUtjQTRxdUhrRG9WeV9tamx5Z2VscEp6R2d3aHBUdHVaenhuSnRrSHlURVpxRzdmdVJuTHh4NURJa2NxSzJxX05EVTZPV3dKWWVwV2U5V29lRGoyWVhjWmxnS055M1lEeFJYQ1NJc2xkS3gtOG9YYzdVSllJZndGRFA3Qy16T1V3RFdNWDM0MUhnZ0I0RmFjTlB4TjFNYWIwQ1NWdkxRS1R1NDFpbkZLM1hxcmd6X3FZeWFtTE9sRmQyZHk5NXE0aw?oc=5",
+   "veiculo": "Estadão",
    "publicado": "2026-10-30T14:24:35+00:00",
    "temas": [
     "economia",
@@ -1573,8 +1490,8 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+0%2C76%25+fecha+5%2C39+dia+cautela",
-   "veiculos": 14,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+recua+aos+175+mil+pontos+ap%C3%B3s+tombo+quase",
+   "veiculos": 12,
    "rotina": true,
    "outras": [
     {
@@ -1593,9 +1510,9 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXozMFByX3l5cnY5NFQ5cHJaUDFCZ0xEMHBwUndnX3pwNW5MVXhrckxWVEgzUWl1aWVrZmhOMy03R1BHOXJZeWZGX0lna2htcnRJdU9ZZG5BczdReW9RelFtdEFBbnY4NFlIY0lBTWxQSnJvcVZzTUpqb1ZFT0xkdHRyY2FsX1RjT0kzX2Zmbkw5VFhpSFHSAZYBQVVfeXFMTkl6MzBQcl95eXJ2OTRUOXByWlAxQmdMRDBwcFJ3Z196cDVuTFV4a3JMVlRIM1FpdWlla2ZoTjMtN0dQRzlyWXlmRl9JZ2tobXJ0SXVPWWRuQXM3UXlvUXpRbXRBQW52ODRZSGNJQU1sUEpyb3FWc01Kam9WRU9MZHR0cmNhbF9UY09JM19mZm5MOVRYaUhR?oc=5"
     },
     {
-     "veiculo": "O TEMPO",
-     "titulo": "Em dia de cautela entre investidores, dólar volta a subir",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEptS19NWGMwaFhPUFU0UFRPNTdGdEJRRlVPRmhHdG5MZkRVTW96UGFCZi1QamFYNjl6RU9ONGJJc3NNWG1kUWJiUm9fam93SnRYRXpkSXJ2cUttczBJZlNmNUhyYk1oZUQ2US1BOXlzYjZwajFuMnU1amxyc1UtX2lXZzVaOFdKUURpcnhHNjFXWXZJUWZDaTREVUpJa056MlpNNQ?oc=5"
+     "veiculo": "TradingView",
+     "titulo": "Ibovespa fecha abaixo de 170 mil pontos; dólar sobe com preocupações com Lula 4",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nVXI2X1dYODhkd3AxQlA3XzdyV1pNdHZSV21ZcUdBWVRvbmt6WG9ZS2lDQzBFT1lSNXJ0YmYyV1R5WW1lYnNCVVRDLTloeWFPalVWOTBBT1U0eDJKeUM2WS11VGI2RkhSOE9mcFlUckVQNm1BRlNF?oc=5"
     }
    ],
    "score": 28.1
@@ -1618,14 +1535,14 @@
    "score": 28.0,
    "video_url": "https://www.youtube.com/watch?v=6nldbYvEDrk",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 84926,
-   "video_acima_mediana": 52.6,
+   "video_por_hora": 89418,
+   "video_acima_mediana": 55.8,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "NÚMERO DE ENDIVIDADOS CRESCEU NO BRASIL | VOCÊ JÁ VIROU PÁGINA DAS ELEIÇÕES?MORNING SHOW - 30/10/26",
      "url": "https://www.youtube.com/watch?v=6nldbYvEDrk",
-     "por_hora": 84926
+     "por_hora": 89418
     }
    ]
   },
@@ -1667,7 +1584,7 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXV0VHRFZEdmVFhSX1BzbW1BQ2c3WEl6NWtsQXN5MURrUDV5bDFISjZObXgzaV8ybzN5bUdqM3pEcXA0LXJQOWdiSkFIOGNUYVEtWmpDYnVmbF8wNVZ6M1pNZTMta0FmbUpISmxicXEtN3FaalMzWWJmZGpVMEZ4Ym9JN1R3TEg3NHVySFVoWWlvbGJRZlltWjRXX2toclpMNXZpUVgwMTVRZEMxSHlPdUhsZVVIS2dDYjdFRTREejRoRjV3?oc=5"
     }
    ],
-   "score": 27.7
+   "score": 27.6
   },
   {
    "id": "e0a0ea9e3d",
@@ -1707,28 +1624,147 @@
     }
    ],
    "score": 27.6
+  },
+  {
+   "id": "121b49831e",
+   "titulo": "Nikolas Ferreira critica projeto do PT contra discriminação política na Câmara",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0V2dERSenF5MXpUWEFNcDZDNk9wbGRmZExaNGdGTFRQTmxHTkdBdDMyUG0wV0x1di1ybGprcVcydm9ldTU3LXVxSVFYaGh2YWtTYWZZWHRvVXppeEZrM0xuSEdpaV95TUJ2QVpYcW9EemE5Z01rWm5UbUFyakxFZEZjMjFISkhlZ1k2eEJrYUY1ay01cTVaNDJUa2NadjVyQVRHem0xTDBFbWg0aXJwcElYaGdpTERa?oc=5",
+   "veiculo": "180graus",
+   "publicado": "2026-10-30T15:37:11+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+critica+projeto+contra+discrimina%C3%A7%C3%A3o+pol%C3%ADtica+C%C3%A2mara",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Portal VV8",
+     "titulo": "Deputado Nikolas Ferreira critica projeto de lei do PT sobre discriminação política",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTlNodkNJLTdsQnQtc0hKS3RrMHJfMU5wTkRWME9GT2cwcTV3cURDTjhPOG5YSC1UcmJGekx2cnVDRm5QV05HVno5Z3dXLUl6U1B5MnpJWEplc3JrOWpqaFBTb29DZjh2OXZ2Y3AyU0JpMjZfQUNSRVVFWlVoYjdEQldCOGxOdURGQXFZMXRnRk5LeE9kMGNXNnFUNHp3TVhyUUpDMU1DSVlhTGFUVjU3NDNiRGdDLVE5c2pOOUVFRQ?oc=5"
+    },
+    {
+     "veiculo": "RedeTV!",
+     "titulo": "Nikolas Ferreira critica projeto do PT que prevê prisão para discriminação política",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazNVMXFXM25aYWdoUzRvb0N4YnNpb2JBb2pOMWdXZmgtWVZHelQwVDRtWExLOE1qYzBRLXVLZGFiOGxPS1ZEVHhyM1dSVzR0MXZJMGxPT2QxZFg5OHprTFJWTjJkQkdreEozTWZRSlIzSGJsNnhFVmN0c3gySnpfUWpWMVd5dzhoUnlGS1dkYXZkNlI0TDBsLUVlWnlnbHBWLXBPRENRUFo5ZWEwdUZfUEMtM2ptWl9jMDhLdUs3QdIB1wFBVV95cUxQOXBhVDlGZURGMkhsM3M2YWd0MmZ1LWtvUTRaRVVNUGt1X2ZFRzktVE5EeU0xa3dLQU9RUDZkd0p5aUJsd3BWdVlycFo2dlVYcTlCb1VLd2JjTE1rMTFmZDZtQVNIQTJMeEMtckFjNm1fMGktWFg2bGRZNUJ0X1M2T0VwcVJUV3o2Ylh5TFVVRzB5blFReGFaTHc2c0FObTBpSE9pY3R0dVVnS2YtWEtlR3lSckl4WGxDYmU0eGF1aEZzdm56c01hS1RYSnlpMkk1bFFwLThyNA?oc=5"
+    }
+   ],
+   "score": 27.6
+  },
+  {
+   "id": "36dfdf622f",
+   "titulo": "Novos dados desafiam avaliação do Fed sobre desempenho da economia",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/novos-dados-desafiam-avaliacao-do-fed-sobre-desempenho-da-economia/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-30T15:34:36+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Novos+dados+desafiam+avalia%C3%A7%C3%A3o+Fed+sobre+desempenho+economia",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Terra",
+     "titulo": "Novos dados desafiam avaliação do presidente do Fed de que economia não está superaquecida",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLVF0SjZoNEFMb01hQlh2QllzWmYtTlVmTXhZZGFESmxBMUNzbVhic2VMQ0Z4UnFMVEdETkxjWW5zWnlLUmdGeTVqMWZsaGU4bF9vMWNMRmtYT0d5TnpWR2pkdlRTSkcyTVotSFVqbkVJemdyT2ZFU3ByTUVkTHFCSFJTUk5JVGk5S29BalpXWE41dUNHd1dhN1gwQmowREpycHk4Y0RSQ2JPanpDUmhRNks2a0VKQnRfS2JwbG40d0VTdTJZRmp5Tm9qa1BvSG5GMExGUUdqMmlhcnJPMmdTYWlOaGFRVGp4eE5YTFp4RGlCQncxYnJoZWVpTEtRQk0?oc=5"
+    }
+   ],
+   "score": 27.6
   }
  ],
  "falas_e_videos": [
+  {
+   "id": "22a430cbd0",
+   "titulo": "Políticos americanos cobram Rubio sobre fuga de Flávio Bolsonaro para os EUA",
+   "url": "https://exame.com/mundo/politicos-dos-eua-cobram-rubio-sobre-fuga-de-flavio-bolsonaro-para-os-eua/",
+   "veiculo": "Exame",
+   "publicado": "2026-10-30T16:10:40+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Pol%C3%ADticos+americanos+cobram+Rubio+sobre+fuga+Fl%C3%A1vio+Bolsonaro+para",
+   "veiculos": 10,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
+     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk"
+    },
+    {
+     "veiculo": "Notícias ao Minuto Brasil",
+     "titulo": "Deputados dos EUA cobram explicações de Rubio sobre ajuda a Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0xEaXo4T2g4dF9CRGNSZ0cyV1Zsa2o4aUpKbFFwT2xvSkZ3bE1LQzFKTlJBYU5XQld2ek1GTTl0WHdWRXlBTFJNc2pwTS1GSlFsNHpNRnN5bkJQMFV1aDdjcWpibGJzRWd2Z0taTG54RkJ0b0QxRm94b095RHlSWjJvdnNWeWtiZWQxMDBGNW13d1JWYVl6NThHemRvZEowMjQ5T1gtckNVQzY1d3h2NktWakJwUThqVnR6TXNsa0tfU3hp?oc=5"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "Congressistas cobram Rubio sobre entrada de Flávio nos EUA",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbW0tNnluaUdVWGZfUjRGdWgxMGpPVEhjZHJ4UFJ0THUyZFgySXB5R3VrZl8xSzBqYnhVSkh1NTNSMXdXbTM1Y1pUaHd5U0ZXeXVHc0ttUmNZQkxXZDBTOUl3VXFnOUFaeFVtY2lSeDM1MXZrLWFHV1FCd09yU3FCTjk5UzFoT1pWelVKLTdCd3pYaTdGSjRYUXUxb3ZERDhuQk1KVw?oc=5"
+    },
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
+     "url": "https://www.youtube.com/watch?v=REHis8yv-FQ"
+    }
+   ],
+   "score": 53.3,
+   "video_url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 18805,
+   "video_acima_mediana": 11.7,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
+     "url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
+     "por_hora": 18805
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
+     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk",
+     "por_hora": 9340
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Casa Branca ajudou fuga de Flávio Bolsonaro, diz jornal",
+     "url": "https://www.youtube.com/watch?v=FX57Dhekls4",
+     "por_hora": 7429
+    }
+   ]
+  },
   {
    "id": "b762d41584",
    "titulo": "Governo Lula descarta escalar crise com Trump por Flávio Bolsonaro",
    "url": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
    "veiculo": "BBC News Brasil",
-   "publicado": "2026-10-30T15:34:44.193370+00:00",
+   "publicado": "2026-10-30T15:37:38.307508+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+descarta+escalar+crise+com+Trump+por+Fl%C3%A1vio",
-   "veiculos": 8,
+   "veiculos": 12,
    "rotina": false,
    "outras": [
     {
      "veiculo": "CNN Brasil",
      "titulo": "Democratas pedem explicações do governo Trump por fuga de Flávio Bolsonaro | LIVE CNN",
      "url": "https://www.youtube.com/watch?v=t61JX9rbyNk"
+    },
+    {
+     "veiculo": "Jornal Opção",
+     "titulo": "Democratas cobram explicações de Trump sobre possível ajuda na saída de Flávio Bolsonaro do Brasil",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWUNCQTJ4UGNFeF80X0UydFowZFh0Y0NGazE2Z0pOaTdNNk5naVkxWm5MX1JtUnEwaTlOaW1qRjNJTzQ5M3k2ZnR2NlZaVkRsaXN6TkRrbGNQZTdFS2x0MmJ6Qk1fbEVwejBoSHc3b2RNbmZEWTdFT2NHYm5JRF9qRVdiLUlveDJueVloek4wTGZ2Z25tZ3MtTUwxdzNXNkRIOW45Z2JMQlFGU1czQXFrV1ZTN0NrZWN6SkV2NTNRMTNKcUxzQWFnRGRrR21pd2lnSi1hUWROMHhDZWs5OTYyQ2FrZm5kY3kyN3c?oc=5"
     },
     {
      "veiculo": "SBT News",
@@ -1739,36 +1775,37 @@
      "veiculo": "SBT News",
      "titulo": "Trump não deve apoiar Flávio Bolsonaro, diz Agência de Notícias | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=bA-_ATb7bz8"
-    },
-    {
-     "veiculo": "www.plantaobrasil.net",
-     "titulo": "Democratas dos EUA pressionam governo por explicações sobre entrada de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EMFQ4dHdHU21BT29IaHJRMUNvSHNveGR5cEd2Y1dBWnRlbXVaZ1NSNnlDaDlDWkF5cHNWTVN2b2dIWEszWnFqYi1wcGVTaHUwd0dibEJUQUw?oc=5"
     }
    ],
-   "score": 49.4,
+   "score": 49.3,
    "video_url": "https://www.youtube.com/watch?v=bA-_ATb7bz8",
    "video_canal": "SBT News",
-   "video_por_hora": 9509,
-   "video_acima_mediana": 11.7,
+   "video_por_hora": 9319,
+   "video_acima_mediana": 12.0,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Trump não deve apoiar Flávio Bolsonaro, diz Agência de Notícias | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=bA-_ATb7bz8",
-     "por_hora": 9509
+     "por_hora": 9319
     },
     {
      "canal": "CNN Brasil",
      "titulo": "Democratas pedem explicações do governo Trump por fuga de Flávio Bolsonaro | LIVE CNN",
      "url": "https://www.youtube.com/watch?v=t61JX9rbyNk",
-     "por_hora": 8300
+     "por_hora": 8400
     },
     {
      "canal": "SBT News",
      "titulo": "Análise: Trump não deve comprar briga com Lula por Flávio Bolsonaro | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=Tzpw6nTKKPY",
-     "por_hora": 4644
+     "por_hora": 4433
+    },
+    {
+     "canal": "Record News",
+     "titulo": "PF investiga se Flávio recebeu ajuda para deixar o Brasil",
+     "url": "https://www.youtube.com/watch?v=dy0u-HPNy-Y",
+     "por_hora": 463
     },
     {
      "canal": "InfoMoney",
@@ -1783,7 +1820,7 @@
    "titulo": "Fachin devolve caso INSS para relatoria de Mendonça e mantém inquérito do Master na Presidência por 90 dias",
    "url": "https://www1.folha.uol.com.br/mercado/2026/10/fachin-devolve-caso-inss-para-relatoria-de-mendonca-mas-mantem-inquerito-do-master-na-presidencia.shtml",
    "veiculo": "Folha",
-   "publicado": "2026-10-30T15:34:44.193370+00:00",
+   "publicado": "2026-10-30T15:37:38.307508+00:00",
    "temas": [
     "comportamento",
     "mercado",
@@ -1820,7 +1857,7 @@
    "video_url": "https://www.youtube.com/watch?v=MGl2fv93g9Q",
    "video_canal": "Jovem Pan News",
    "video_por_hora": 18400,
-   "video_acima_mediana": 11.4,
+   "video_acima_mediana": 11.5,
    "videos": [
     {
      "canal": "Jovem Pan News",
@@ -1844,13 +1881,13 @@
      "canal": "Band Jornalismo",
      "titulo": "Fachin devolve investigação do INSS para André Mendonça | BandNews TV",
      "url": "https://www.youtube.com/watch?v=rwb4urZctDI",
-     "por_hora": 1440
+     "por_hora": 1558
     },
     {
      "canal": "GloboNews",
      "titulo": "Fachin devolve caso INSS para Mendonça",
      "url": "https://www.youtube.com/watch?v=E0f9v-Nyqbw",
-     "por_hora": 621
+     "por_hora": 620
     }
    ]
   },
@@ -1859,7 +1896,7 @@
    "titulo": "Taxa de desemprego fica em 6,5% na zona do euro em setembro",
    "url": "https://valor.globo.com/mundo/noticia/2026/10/30/taxa-de-desemprego-fica-em-65percent-na-zona-do-euro-em-setembro.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-10-30T13:34:44.193370+00:00",
+   "publicado": "2026-10-30T13:37:38.307508+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -1895,20 +1932,20 @@
    "score": 41.9,
    "video_url": "https://www.youtube.com/watch?v=TpMyXHXyR7E",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 314,
+   "video_por_hora": 316,
    "video_acima_mediana": 0.2,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Taxa de desemprego no Brasil cai para 5,2% em setembro; Alan Ghani analisa",
      "url": "https://www.youtube.com/watch?v=TpMyXHXyR7E",
-     "por_hora": 314
+     "por_hora": 316
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Desemprego cai a 5,2%, menor taxa para um terceiro trimestre desde 2012 | Bora Brasil",
      "url": "https://www.youtube.com/watch?v=T8E2XRQN6p8",
-     "por_hora": 269
+     "por_hora": 278
     }
    ]
   },
@@ -1917,7 +1954,7 @@
    "titulo": "Nikolas faz crime contra sistema eleitoral ao apoiar boicote contra eleitores do Lula | Maierovitch",
    "url": "https://www.youtube.com/watch?v=8W3CkW1gdzo",
    "veiculo": "UOL",
-   "publicado": "2026-10-30T15:51:44.193370+00:00",
+   "publicado": "2026-10-30T15:51:38.307508+00:00",
    "temas": [
     "politica"
    ],
@@ -1948,67 +1985,17 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1h5a1djYVpPMi1fQXhYV19rYlRJVjJBdHlsWm9BVGdLN2VYc19jZHZCdWgxM1dkS0VORmpyQ1pQd0M2cmFzSTNBSEFNajFDXzc0cW9qZnZISWtPVDJoZkVrTkVnUTl6b2ZoTkFSTkY3Qy1YdGdUaUQ3OE1CQzVoamNCRzRhSlAzcW9rejdTb1pnMU1wSzJDUnV0eXhDcDlLNnFvRDJVck5QcTNGbGRud1Y0STRET05Cb2xOdWtzdDd6eXQ3RlIydVJmSzJNaFdONUNHTA?oc=5"
     }
    ],
-   "score": 41.1,
+   "score": 41.0,
    "video_url": "https://www.youtube.com/watch?v=8W3CkW1gdzo",
    "video_canal": "UOL",
-   "video_por_hora": 3488,
+   "video_por_hora": 3391,
    "video_acima_mediana": 1.1,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Nikolas faz crime contra sistema eleitoral ao apoiar boicote contra eleitores do Lula | Maierovitch",
      "url": "https://www.youtube.com/watch?v=8W3CkW1gdzo",
-     "por_hora": 3488
-    }
-   ]
-  },
-  {
-   "id": "5ea4731590",
-   "titulo": "Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?",
-   "url": "https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss",
-   "veiculo": "BBC News Brasil",
-   "publicado": "2026-10-30T03:31:40+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pragmatismo+ideologia+como+Trump+vai+fato+lidar+com+declara%C3%A7%C3%B5es",
-   "veiculos": 9,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "politiza brasil",
-     "titulo": "Parlamentares do PT e PSOL intensificam pedidos judiciais contra Flávio Bolsonaro e aliados",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmNucUN4MXl2OEwtZ0pONXlTUDhvanlvZ2JvQTY5NWdEWnZlVDZ3VTkzWHU3OWlUUXl1dktRb0NNMGJPZFVibmNUa3JCYmh1U1l5SFNsemVSWFJHczJoZV9kODV2aTJjVEZyb0FtZW9vYzQ0ZFd3ZDItVmVWcElfS0NPNFphZHVXUEpSRXJWTk9xYWptTU5sQWJuUQ?oc=5"
-    },
-    {
-     "veiculo": "Nexo Jornal",
-     "titulo": "Como aliados reagem ao golpismo de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEJ1VDVDcEpYSjhHVzNtLXh5RkNCUkxSemVyRUg3LXNSRGNJOVZGZEtfMWlmWUdEVk9wa3I3Z2VTd3EzMEV5ODNtbkNXdmJpUk1iTktRT2VhNkFLdkpqR3JqcE45dGdVZlh5WU8zLXp3MUpyeFRPUjB5Y25vUzJ5ajNteHRrcE1xTDhESlcwZHh2dVJUVmUtdUdjaWZ5WmlUN1Q4TDBIZjNYUHQtdDZpZ0Jn?oc=5"
-    },
-    {
-     "veiculo": "Portal VV8",
-     "titulo": "Parlamentares do PT e do PSOL apresentam pedidos judiciais contra Flávio Bolsonaro e outros líderes da direita",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcWZNeF8tT2dIZmlBS3FZTXJHVGJtUXJDby1KeHluakFtT21uRndDSHhuU05EazVSMWpNMmxMVy1jRzhUQ0I1RUd5Qk1nTGVFc3NKckRHbUZBbHRyS3ZFWDAwZjNtaXlIRHhWYmRCSTdVZ2t0OU41OU5HSmFnNm96aU1HYW9ydHR6ZnRFeGYyekJQZHZvcTFGT2doZTFHaGFuaHRzckVMRnFtQnNnbG5oaEhXNXRkZXNvUng0TkFYWk5JcTlpTG9tcVBkOHFXSWxQVmN2dEJzdy1zb2FpTFozU1V1M2pEUU9h?oc=5"
-    },
-    {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Isolamento político: aliados de Flávio Bolsonaro reagem a guinada radical do senador",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWZWUWJuZ0RLdTB2RVJvYXpNYlU2bllfS3dMdGx4TWoyTDFFbl9vUmdfdTd3UG4yMk1FTHcwOU9uTWhmUU5Ia1VlTlRlRjZfdnI1QmNYSk1MT0luUTdBMXJRZ0ZVV0pCNlo2M1JRY2ZHQnpjamt4UVBVa3hiaEFLY3cxbFFsWGNEQWN4UmwzV2htWUh6R2FfTkxwa3dNTnl6THZweTdBLUdNTGF2Wl93aUV4SnZBRU5jWmNEMnIxR3Nxem80clVwMQ?oc=5"
-    }
-   ],
-   "score": 35.5,
-   "video_url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
-   "video_canal": "GloboNews",
-   "video_por_hora": 7292,
-   "video_acima_mediana": 4.5,
-   "videos": [
-    {
-     "canal": "GloboNews",
-     "titulo": "Tarcísio, Nunes Marques e outros reagem à carta de Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
-     "por_hora": 7292
+     "por_hora": 3391
     }
    ]
   },
@@ -2017,7 +2004,7 @@
    "titulo": "Trump afirma que não tomou partido após pedido de Lula",
    "url": "https://www.youtube.com/watch?v=WntLQ2lB2cY",
    "veiculo": "Record News",
-   "publicado": "2026-10-30T12:34:44.193370+00:00",
+   "publicado": "2026-10-30T12:37:38.307508+00:00",
    "temas": [
     "politica"
    ],
@@ -2041,14 +2028,14 @@
    "score": 34.3,
    "video_url": "https://www.youtube.com/watch?v=MEcr68-a3gU",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 35250,
-   "video_acima_mediana": 21.8,
+   "video_por_hora": 36500,
+   "video_acima_mediana": 22.8,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Trump diz que não tomou partido na eleição do Brasil porque Lula pediu; Beraldo e Motta comentam",
      "url": "https://www.youtube.com/watch?v=MEcr68-a3gU",
-     "por_hora": 35250
+     "por_hora": 36500
     },
     {
      "canal": "SBT News",
@@ -2083,60 +2070,14 @@
    "score": 33.8,
    "video_url": "https://www.youtube.com/watch?v=NX830apV0Vw",
    "video_canal": "UOL",
-   "video_por_hora": 433854,
-   "video_acima_mediana": 137.0,
+   "video_por_hora": 409650,
+   "video_acima_mediana": 132.1,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Vorcaro contesta provas de celular; Nikolas apoia boicotes a petistas; Lula não procurará Trump e +",
      "url": "https://www.youtube.com/watch?v=NX830apV0Vw",
-     "por_hora": 433854
-    }
-   ]
-  },
-  {
-   "id": "57e1667dbd",
-   "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
-   "url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-10-30T16:10:40+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Trump+viaja+Fl%C3%B3rida+ap%C3%B3s+chegada+Fl%C3%A1vio+Bolsonaro+aos+EUA",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
-     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk"
-    },
-    {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Com apoio de Trump, Flávio Bolsonaro foge para os EUA após derrota eleitoral",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVdLdHZLcDAzSTFqUVNJajNXQ0R2bHZZXzhLcVNvdFlCdGsyT1lEeElfa2xValJHdmU2eFUwcFgwTHFEMWNDZUZtTEtjOEJaLUo1Tzd3NzZPaDRoUUxEVGwzaEdnZS1KS3NUUHd3Zmx4aXhmN0Nmd0FkUFp1VHRwcm5hMWU2RGxFTTgtbjBJb3dGWEh4VVJaOTNYbDF5VDhCT1N1WFpKR1dZRHpwVGxBU0pzRnRCQ09QaFZRV2FR?oc=5"
-    }
-   ],
-   "score": 33.2,
-   "video_url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 18461,
-   "video_acima_mediana": 11.4,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Trump viaja à Flórida após chegada de Flávio Bolsonaro aos EUA; Mehero comenta",
-     "url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
-     "por_hora": 18461
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Democratas pedem à gestão Trump explicações sobre a entrada de Flávio Bolsonaro aos EUA | Sanches",
-     "url": "https://www.youtube.com/watch?v=PkAOmKVTQnk",
-     "por_hora": 13480
+     "por_hora": 409650
     }
    ]
   },
@@ -2174,14 +2115,54 @@
    "score": 31.7,
    "video_url": "https://www.youtube.com/watch?v=D3eOLghMvjM",
    "video_canal": "GloboNews",
-   "video_por_hora": 13255,
-   "video_acima_mediana": 8.3,
+   "video_por_hora": 13529,
+   "video_acima_mediana": 8.4,
    "videos": [
     {
      "canal": "GloboNews",
      "titulo": "Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do avião",
      "url": "https://www.youtube.com/watch?v=D3eOLghMvjM",
-     "por_hora": 13255
+     "por_hora": 13529
+    }
+   ]
+  },
+  {
+   "id": "a5e7119cf8",
+   "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
+   "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
+   "veiculo": "UOL",
+   "publicado": "2026-10-30T15:40:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+apoia+boicote+empres%C3%A1rios+artistas+que+votaram+Lula",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Bnews",
+     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT: \"Não condizem com os nossos princ…",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS19DVFFibi1yclJ3d3lyY29iekZITFU5R0JuM2JZaEl0aFN6UWlac2pid0QxOUlBYnp2MjRiX3BiWmcyRW5BaGRhYUt0SXZzaEpsZjVIU1NKNkFmek5haGFxakQwUkhyd0RGN3NnU3I3Q1ZCQko4dnRvYk9GSzc0U0phMXEwTEF2OHJZbFNUYmt2RzhhVnhEV3MwZkZaNFdvWG9KXzQzYy1UVTVNYzhoX0xJSEVLWWZKc2FFOVRQeHg3OVVsb2YxX3RrS2VpejlPbmlVWG9odzZWTWwwZGVzVkxhLUxnVEZiYjk0Yzl5SUpYWkHSAfMBQVVfeXFMTktfQ1RRYm4tcnJSd3d5cmNvYnpGSExVOUdCbjNiWWhJdGhTelFpWnNqYndEMTlJQWJ6djI0Yl9wYlpnMkVuQWhkYWFLdEl2c2hKbGY1SFNTSjZBZnpOYWhhcWpEMFJIcndERjdzZ1NyN0NWQkJKOHZ0b2JPRks3NFNKYTFxMExBdjhyWWxTVGJrdkc4YVZ4RFdzMGZGWjRXb1hvSl80M2MtVFU1TWM4aF9MSUhFS1lmSnNhRTlUUHh4NzlVbG9mMV90a0tlaXo5T25pVVhvaHc2Vk1sMGRlc1ZMYS1MZ1RGYmI5NGM5eUlKWFpB?oc=5"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84a0V3dWcyeE9DYXZBSTNnS01jTS01OG02b3FkZDNURkc1MHFmcU9Ha0doXzU0SzJYLThBcjBNMHd5UXBmMGNMZExFMVlqSjBvX2dYbm9ld19xNjRVWFpmZlU2WjRCMlU?oc=5"
+    }
+   ],
+   "score": 31.6,
+   "video_url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
+   "video_canal": "UOL",
+   "video_por_hora": 22500,
+   "video_acima_mediana": 7.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
+     "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
+     "por_hora": 22500
     }
    ]
   },
@@ -2225,66 +2206,26 @@
    "score": 31.2,
    "video_url": "https://www.youtube.com/watch?v=1FVLR1oxkjk",
    "video_canal": "InfoMoney",
-   "video_por_hora": 531,
+   "video_por_hora": 534,
    "video_acima_mediana": 3.5,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=1FVLR1oxkjk",
-     "por_hora": 531
+     "por_hora": 534
     },
     {
      "canal": "SBT News",
      "titulo": "Hackers fazem maior roubo de criptomoedas da história | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=sNk7vUao1VA",
-     "por_hora": 514
+     "por_hora": 501
     },
     {
      "canal": "InfoMoney",
      "titulo": "Hackers desviam US$ 6,3 bi da Binance no maior roubo de criptomoedas da história | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=wQzwnUl1oZE",
-     "por_hora": 102
-    }
-   ]
-  },
-  {
-   "id": "a5e7119cf8",
-   "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
-   "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
-   "veiculo": "UOL",
-   "publicado": "2026-10-30T15:40:00+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+apoia+boicote+empres%C3%A1rios+artistas+que+votaram+Lula",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Bnews",
-     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT: \"Não condizem com os nossos princ…",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS19DVFFibi1yclJ3d3lyY29iekZITFU5R0JuM2JZaEl0aFN6UWlac2pid0QxOUlBYnp2MjRiX3BiWmcyRW5BaGRhYUt0SXZzaEpsZjVIU1NKNkFmek5haGFxakQwUkhyd0RGN3NnU3I3Q1ZCQko4dnRvYk9GSzc0U0phMXEwTEF2OHJZbFNUYmt2RzhhVnhEV3MwZkZaNFdvWG9KXzQzYy1UVTVNYzhoX0xJSEVLWWZKc2FFOVRQeHg3OVVsb2YxX3RrS2VpejlPbmlVWG9odzZWTWwwZGVzVkxhLUxnVEZiYjk0Yzl5SUpYWkHSAfMBQVVfeXFMTktfQ1RRYm4tcnJSd3d5cmNvYnpGSExVOUdCbjNiWWhJdGhTelFpWnNqYndEMTlJQWJ6djI0Yl9wYlpnMkVuQWhkYWFLdEl2c2hKbGY1SFNTSjZBZnpOYWhhcWpEMFJIcndERjdzZ1NyN0NWQkJKOHZ0b2JPRks3NFNKYTFxMExBdjhyWWxTVGJrdkc4YVZ4RFdzMGZGWjRXb1hvSl80M2MtVFU1TWM4aF9MSUhFS1lmSnNhRTlUUHh4NzlVbG9mMV90a0tlaXo5T25pVVhvaHc2Vk1sMGRlc1ZMYS1MZ1RGYmI5NGM5eUlKWFpB?oc=5"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no PT",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84a0V3dWcyeE9DYXZBSTNnS01jTS01OG02b3FkZDNURkc1MHFmcU9Ha0doXzU0SzJYLThBcjBNMHd5UXBmMGNMZExFMVlqSjBvX2dYbm9ld19xNjRVWFpmZlU2WjRCMlU?oc=5"
-    }
-   ],
-   "score": 30.6,
-   "video_url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
-   "video_canal": "UOL",
-   "video_por_hora": 20000,
-   "video_acima_mediana": 6.3,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
-     "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
-     "por_hora": 20000
+     "por_hora": 101
     }
    ]
   },
@@ -2314,29 +2255,79 @@
      "url": "https://www.youtube.com/watch?v=7u38qKqNzFI"
     }
    ],
-   "score": 29.7,
+   "score": 29.5,
    "video_url": "https://www.youtube.com/watch?v=sZ-RK5lIyRw",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 19330,
-   "video_acima_mediana": 71.9,
+   "video_por_hora": 18956,
+   "video_acima_mediana": 68.3,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Assessor de Trump teria conseguido avião usado por Flávio | BORA BRASIL - 30/10/2026",
      "url": "https://www.youtube.com/watch?v=sZ-RK5lIyRw",
-     "por_hora": 19330
+     "por_hora": 18956
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Assessor de Trump teria providenciado voo de Flávio Bolsonaro; Beraldo, Mehero e Motta comentam",
      "url": "https://www.youtube.com/watch?v=7u38qKqNzFI",
-     "por_hora": 14400
+     "por_hora": 14600
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Assessor de Trump teria conseguido avião usado por Flávio Bolsonaro | Bora Brasil",
      "url": "https://www.youtube.com/watch?v=Nk-PJSZFzBE",
      "por_hora": 575
+    }
+   ]
+  },
+  {
+   "id": "5ea4731590",
+   "titulo": "Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?",
+   "url": "https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss",
+   "veiculo": "BBC News Brasil",
+   "publicado": "2026-10-30T01:08:51+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Pragmatismo+ideologia+como+Trump+vai+fato+lidar+com+declara%C3%A7%C3%B5es",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Nexo Jornal",
+     "titulo": "Como aliados reagem ao golpismo de Flávio Bolsonaro",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEJ1VDVDcEpYSjhHVzNtLXh5RkNCUkxSemVyRUg3LXNSRGNJOVZGZEtfMWlmWUdEVk9wa3I3Z2VTd3EzMEV5ODNtbkNXdmJpUk1iTktRT2VhNkFLdkpqR3JqcE45dGdVZlh5WU8zLXp3MUpyeFRPUjB5Y25vUzJ5ajNteHRrcE1xTDhESlcwZHh2dVJUVmUtdUdjaWZ5WmlUN1Q4TDBIZjNYUHQtdDZpZ0Jn?oc=5"
+    },
+    {
+     "veiculo": "Plantão Brasil",
+     "titulo": "Isolamento político: aliados de Flávio Bolsonaro reagem a guinada radical do senador",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWZWUWJuZ0RLdTB2RVJvYXpNYlU2bllfS3dMdGx4TWoyTDFFbl9vUmdfdTd3UG4yMk1FTHcwOU9uTWhmUU5Ia1VlTlRlRjZfdnI1QmNYSk1MT0luUTdBMXJRZ0ZVV0pCNlo2M1JRY2ZHQnpjamt4UVBVa3hiaEFLY3cxbFFsWGNEQWN4UmwzV2htWUh6R2FfTkxwa3dNTnl6THZweTdBLUdNTGF2Wl93aUV4SnZBRU5jWmNEMnIxR3Nxem80clVwMQ?oc=5"
+    },
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Quais aliados de Flávio Bolsonaro compartilharam a carta golpista? Veja",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONTBBSW1jR1d0dFB5UUR3RlNRNjBvb3FUWkJRNzhuTFJTcUxpWDQ1V3M5eDZvQU15amsyOF9kN2RMd2NBUWdNdk96eUt5WEMyVV9YbUJYbGMzYVdYUlpGN3BpY19iTDZBVjZPc3U5SVVJVDNOV0dBQ1RxeG1oSlNzQXR5Y3BMeC1ZT0JCY3JzdktYMm4wVVpnVXBQN0tOQkRrdUZnYmR1YjNUemxBQkVEczAzMEJLU1ZjSHRiRHJKbld3b18wbTg2YWo1WFJLYkhjOTZUbUFjWVNSeHQxeUE?oc=5"
+    },
+    {
+     "veiculo": "Plantão Brasil",
+     "titulo": "Isolamento de Flávio Bolsonaro: aliados evitam endossar carta com teor golpista",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlBYeUpyX1JLeGZDb2hkSXpCUmp6OTBSUE5SajFqRjdzUjNwdG1wRjVockJfclJlRjB2dlFhN24wNTRDb0hEbld2ZVM0LVdHY1BnWmpzSF9oRHFIQ0JhOUtXV0diR05DWFdieVY4TjBKUXJiLXNRUGJ4dnA0eGc5TmkyV1ZVdHc2dGRRSzdPcFVMRlRiYmVBQXhaSWd2VTJRS000bWhjRDVvYWY2YWpMWHhVNFpxWXdQU3dCSGhXZnRVUQ?oc=5"
+    }
+   ],
+   "score": 28.5,
+   "video_url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
+   "video_canal": "GloboNews",
+   "video_por_hora": 7292,
+   "video_acima_mediana": 4.5,
+   "videos": [
+    {
+     "canal": "GloboNews",
+     "titulo": "Tarcísio, Nunes Marques e outros reagem à carta de Flávio Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=5PCXQCK94lE",
+     "por_hora": 7292
     }
    ]
   }
@@ -2347,9 +2338,9 @@
    "url": "https://www.youtube.com/watch?v=NX830apV0Vw",
    "canal": "UOL",
    "publicado": "2026-10-30T16:09:53+00:00",
-   "views": 216927,
-   "por_hora": 433854,
-   "acima_mediana": 137.0,
+   "views": 204825,
+   "por_hora": 409650,
+   "acima_mediana": 132.1,
    "temas": [
     "politica",
     "comportamento"
@@ -2361,8 +2352,8 @@
    "canal": "Jovem Pan News",
    "publicado": "2026-10-30T15:25:43+00:00",
    "views": 189970,
-   "por_hora": 165144,
-   "acima_mediana": 102.3,
+   "por_hora": 158480,
+   "acima_mediana": 98.9,
    "temas": [
     "politica"
    ]
@@ -2372,9 +2363,9 @@
    "url": "https://www.youtube.com/watch?v=6nldbYvEDrk",
    "canal": "Jovem Pan News",
    "publicado": "2026-10-30T16:30:52+00:00",
-   "views": 42463,
-   "por_hora": 84926,
-   "acima_mediana": 52.6,
+   "views": 44709,
+   "por_hora": 89418,
+   "acima_mediana": 55.8,
    "temas": [
     "politica"
    ]
@@ -2383,10 +2374,10 @@
    "titulo": "Trump diz que não tomou partido na eleição do Brasil porque Lula pediu; Beraldo e Motta comentam",
    "url": "https://www.youtube.com/watch?v=MEcr68-a3gU",
    "canal": "Jovem Pan News",
-   "publicado": "2026-10-30T12:34:44.193370+00:00",
-   "views": 141000,
-   "por_hora": 35250,
-   "acima_mediana": 21.8,
+   "publicado": "2026-10-30T12:37:38.307508+00:00",
+   "views": 146000,
+   "por_hora": 36500,
+   "acima_mediana": 22.8,
    "temas": [
     "politica"
    ]
@@ -2395,10 +2386,10 @@
    "titulo": "Itabirito tem maior virada pró-Lula e simboliza mudança no segundo turno em MG | A Hora",
    "url": "https://www.youtube.com/watch?v=tzdsnfG7cA8",
    "canal": "UOL",
-   "publicado": "2026-10-30T11:34:44.193370+00:00",
+   "publicado": "2026-10-30T11:37:38.307508+00:00",
    "views": 148000,
    "por_hora": 29600,
-   "acima_mediana": 9.3,
+   "acima_mediana": 9.5,
    "temas": [
     "politica"
    ]
@@ -2407,10 +2398,10 @@
    "titulo": "Nikolas Ferreira apoia boicote a empresários e artistas que votaram no Lula na eleição",
    "url": "https://www.youtube.com/watch?v=VudfE4iqTc0",
    "canal": "UOL",
-   "publicado": "2026-10-30T14:34:44.193370+00:00",
-   "views": 40000,
-   "por_hora": 20000,
-   "acima_mediana": 6.3,
+   "publicado": "2026-10-30T14:37:38.307508+00:00",
+   "views": 45000,
+   "por_hora": 22500,
+   "acima_mediana": 7.3,
    "temas": [
     "politica"
    ]
@@ -2419,22 +2410,10 @@
    "titulo": "Flávio foi admitido nos EUA por razões humanitárias, mostra registro de entrada | InfoMoney News",
    "url": "https://www.youtube.com/watch?v=i7f1m4gEobs",
    "canal": "InfoMoney",
-   "publicado": "2026-10-29T16:34:44.193370+00:00",
+   "publicado": "2026-10-29T16:37:38.307508+00:00",
    "views": 465000,
    "por_hora": 19375,
-   "acima_mediana": 128.2,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Assessor de Trump teria conseguido avião usado por Flávio | BORA BRASIL - 30/10/2026",
-   "url": "https://www.youtube.com/watch?v=sZ-RK5lIyRw",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-10-30T14:07:52+00:00",
-   "views": 47317,
-   "por_hora": 19330,
-   "acima_mediana": 71.9,
+   "acima_mediana": 126.4,
    "temas": [
     "politica"
    ]
@@ -2443,12 +2422,24 @@
    "titulo": "Brasil pode ter maior imposto sobre consumo do mundo | #NewsNoite",
    "url": "https://www.youtube.com/watch?v=RJFWsvLeCGQ",
    "canal": "SBT News",
-   "publicado": "2026-10-30T02:34:44.193370+00:00",
+   "publicado": "2026-10-30T02:37:38.307508+00:00",
    "views": 269000,
    "por_hora": 19214,
-   "acima_mediana": 23.6,
+   "acima_mediana": 24.8,
    "temas": [
     "economia"
+   ]
+  },
+  {
+   "titulo": "Assessor de Trump teria conseguido avião usado por Flávio | BORA BRASIL - 30/10/2026",
+   "url": "https://www.youtube.com/watch?v=sZ-RK5lIyRw",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-10-30T14:07:52+00:00",
+   "views": 47317,
+   "por_hora": 18956,
+   "acima_mediana": 68.3,
+   "temas": [
+    "politica"
    ]
   },
   {
@@ -2456,9 +2447,9 @@
    "url": "https://www.youtube.com/watch?v=REHis8yv-FQ",
    "canal": "Jovem Pan News",
    "publicado": "2026-10-30T12:21:59+00:00",
-   "views": 77768,
-   "por_hora": 18461,
-   "acima_mediana": 11.4,
+   "views": 80128,
+   "por_hora": 18805,
+   "acima_mediana": 11.7,
    "temas": [
     "politica"
    ]
@@ -2467,10 +2458,10 @@
    "titulo": "Kassio e Mendonça tentam se desvincular de Flávio e falam em perda de bom senso",
    "url": "https://www.youtube.com/watch?v=S4B6cmfrEqM",
    "canal": "UOL",
-   "publicado": "2026-10-29T22:34:44.193370+00:00",
+   "publicado": "2026-10-29T22:37:38.307508+00:00",
    "views": 275000,
    "por_hora": 15278,
-   "acima_mediana": 4.8,
+   "acima_mediana": 4.9,
    "temas": [
     "politica"
    ]
@@ -2480,9 +2471,9 @@
    "url": "https://www.youtube.com/watch?v=D3eOLghMvjM",
    "canal": "GloboNews",
    "publicado": "2026-10-30T11:58:55+00:00",
-   "views": 60931,
-   "por_hora": 13255,
-   "acima_mediana": 8.3,
+   "views": 62846,
+   "por_hora": 13529,
+   "acima_mediana": 8.4,
    "temas": [
     "politica"
    ]
@@ -2491,10 +2482,10 @@
    "titulo": "O que acontece após Netanyahu não conseguir maioria nas eleições de Israel? | LIVE CNN",
    "url": "https://www.youtube.com/watch?v=xBHYsUsuN3s",
    "canal": "CNN Brasil",
-   "publicado": "2026-10-30T14:34:44.193370+00:00",
-   "views": 23000,
-   "por_hora": 11500,
-   "acima_mediana": 9.5,
+   "publicado": "2026-10-30T14:37:38.307508+00:00",
+   "views": 25000,
+   "por_hora": 12500,
+   "acima_mediana": 9.1,
    "temas": [
     "politica"
    ]
@@ -2503,10 +2494,10 @@
    "titulo": "Eleições nos EUA podem mudar relação de Trump com o Brasil | #NewsPrimeiraEdição",
    "url": "https://www.youtube.com/watch?v=v7Btb9n3yuo",
    "canal": "SBT News",
-   "publicado": "2026-10-30T12:34:44.193370+00:00",
+   "publicado": "2026-10-30T12:37:38.307508+00:00",
    "views": 45000,
    "por_hora": 11250,
-   "acima_mediana": 13.8,
+   "acima_mediana": 14.5,
    "temas": [
     "politica"
    ]
@@ -2517,8 +2508,8 @@
    "canal": "SBT News",
    "publicado": "2026-10-30T14:12:36+00:00",
    "views": 22526,
-   "por_hora": 9509,
-   "acima_mediana": 11.7,
+   "por_hora": 9319,
+   "acima_mediana": 12.0,
    "temas": [
     "politica"
    ]
@@ -2531,8 +2522,8 @@
    "url": "https://www.youtube.com/watch?v=M7hPe82m6X0",
    "video_url": "https://www.youtube.com/watch?v=M7hPe82m6X0",
    "canal": "Jovem Pan News",
-   "views_h": 165144,
-   "acima_mediana": 102.3,
+   "views_h": 158480,
+   "acima_mediana": 98.9,
    "publicado": "2026-10-30T12:25-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
@@ -2540,7 +2531,7 @@
     "politica"
    ],
    "forca": 44,
-   "porque": "vídeo do Jovem Pan News com 165.144 views/h (102.3x o normal do canal); nenhum veículo deu ainda"
+   "porque": "vídeo do Jovem Pan News com 158.480 views/h (98.9x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "video",
@@ -2548,8 +2539,8 @@
    "url": "https://www.youtube.com/watch?v=6nldbYvEDrk",
    "video_url": "https://www.youtube.com/watch?v=6nldbYvEDrk",
    "canal": "Jovem Pan News",
-   "views_h": 84926,
-   "acima_mediana": 52.6,
+   "views_h": 89418,
+   "acima_mediana": 55.8,
    "publicado": "2026-10-30T13:30-03:00",
    "veiculos": [
     "Paraíba Total"
@@ -2559,7 +2550,7 @@
     "politica"
    ],
    "forca": 42,
-   "porque": "vídeo do Jovem Pan News com 84.926 views/h (52.6x o normal do canal); só 1 veículo deram"
+   "porque": "vídeo do Jovem Pan News com 89.418 views/h (55.8x o normal do canal); só 1 veículo deram"
   },
   {
    "tipo": "video",
@@ -2568,15 +2559,15 @@
    "video_url": "https://www.youtube.com/watch?v=tzdsnfG7cA8",
    "canal": "UOL",
    "views_h": 29600,
-   "acima_mediana": 9.3,
-   "publicado": "2026-10-30T08:34-03:00",
+   "acima_mediana": 9.5,
+   "publicado": "2026-10-30T08:37-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
    "forca": 38.8,
-   "porque": "vídeo do UOL com 29.600 views/h (9.3x o normal do canal); nenhum veículo deu ainda"
+   "porque": "vídeo do UOL com 29.600 views/h (9.5x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "pauta",
@@ -2609,7 +2600,7 @@
    "temas": [
     "politica"
    ],
-   "forca": 36.6,
+   "forca": 37.6,
    "porque": "só 2 veículos (Bnews, UOL); apareceu às 11h26"
   },
   {
@@ -2618,9 +2609,9 @@
    "url": "https://www.youtube.com/watch?v=MEcr68-a3gU",
    "video_url": "https://www.youtube.com/watch?v=MEcr68-a3gU",
    "canal": "Jovem Pan News",
-   "views_h": 35250,
-   "acima_mediana": 21.8,
-   "publicado": "2026-10-30T09:34-03:00",
+   "views_h": 36500,
+   "acima_mediana": 22.8,
+   "publicado": "2026-10-30T09:37-03:00",
    "veiculos": [
     "BBC News Brasil",
     "Folha",
@@ -2630,8 +2621,8 @@
    "temas": [
     "politica"
    ],
-   "forca": 35.6,
-   "porque": "vídeo do Jovem Pan News com 35.250 views/h (21.8x o normal do canal); só 3 veículos deram"
+   "forca": 36.2,
+   "porque": "vídeo do Jovem Pan News com 36.500 views/h (22.8x o normal do canal); só 3 veículos deram"
   },
   {
    "tipo": "pauta",
@@ -2668,38 +2659,36 @@
   },
   {
    "tipo": "pauta",
-   "titulo": "Usiminas (USIM5) tem uma das maiores baixas do Ibovespa com balanço aquém do esperado; o que pesou nos números do 3T26?",
-   "url": "https://www.seudinheiro.com/2026/bolsa-dolar/acoes-a-usiminas-caem-3-com-balanco-aquem-do-esperado-o-que-pesou-nos-numeros-do-3t26-lmrs/",
+   "titulo": "Vale não prevê dividendos extraordinários em 2026, diz CFO",
+   "url": "https://www.cnnbrasil.com.br/infra/vale-nao-preve-dividendos-extraordinarios-em-2026-diz-cfo/",
    "veiculos": [
-    "BPMoney",
-    "InfoMoney",
-    "Seu Dinheiro"
+    "CNN Brasil",
+    "Folha"
    ],
-   "qtd_veiculos": 3,
-   "primeira_vez": "2026-10-30T10:37-03:00",
+   "qtd_veiculos": 2,
+   "primeira_vez": "2026-10-30T13:24-03:00",
    "temas": [
     "economia",
     "mercado"
    ],
-   "forca": 31.6,
-   "porque": "só 3 veículos (BPMoney, InfoMoney, Seu Dinheiro); apareceu às 10h37"
+   "forca": 30.9,
+   "porque": "só 2 veículos (CNN Brasil, Folha); apareceu às 13h24"
   },
   {
    "tipo": "pauta",
-   "titulo": "Nikolas Ferreira critica projeto do PT contra discriminação política na Câmara",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0V2dERSenF5MXpUWEFNcDZDNk9wbGRmZExaNGdGTFRQTmxHTkdBdDMyUG0wV0x1di1ybGprcVcydm9ldTU3LXVxSVFYaGh2YWtTYWZZWHRvVXppeEZrM0xuSEdpaV95TUJ2QVpYcW9EemE5Z01rWm5UbUFyakxFZEZjMjFISkhlZ1k2eEJrYUY1ay01cTVaNDJUa2NadjVyQVRHem0xTDBFbWg0aXJwcElYaGdpTERa?oc=5",
+   "titulo": "Em depoimento, Vorcaro diz ter 'convicção' de que negócio do Master com BRB deu lucro, mas é rebatido pela PF",
+   "url": "https://valor.globo.com/financas/noticia/2026/10/30/em-depoimento-vorcaro-diz-ter-convico-de-que-negcio-do-master-com-brb-deu-lucro-mas-rebatido-pela-pf.ghtml",
    "veiculos": [
-    "180graus",
-    "Portal VV8",
-    "RedeTV!"
+    "Valor"
    ],
-   "qtd_veiculos": 3,
-   "primeira_vez": "2026-10-30T11:22-03:00",
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-10-30T13:04-03:00",
    "temas": [
-    "politica"
+    "economia",
+    "mercado"
    ],
-   "forca": 31.6,
-   "porque": "só 3 veículos (180graus, Portal VV8, RedeTV!); apareceu às 11h22"
+   "forca": 29.8,
+   "porque": "só 1 veículo (Valor); apareceu às 13h04"
   }
  ],
  "fontes_ok": 64,
