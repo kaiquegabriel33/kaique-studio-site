@@ -1,0 +1,41 @@
+{
+ "id": "sug-story-binance-saque",
+ "titulo": "Story: maior roubo das criptos, saque travado na Binance",
+ "status": "pronto",
+ "formato": "story",
+ "criado": "2026-10-30T09:50",
+ "atualizado": "2026-10-30T09:50",
+ "slides": [
+  {
+   "altura": 1920,
+   "centralizar": true,
+   "semCabecalho": true,
+   "tema": "escuro",
+   "papel": "post",
+   "elementos": [
+    {
+     "tipo": "caixa_story",
+     "texto": "Maior roubo da história das criptos: [[vermelho:US$ 6,3 bilhões]] na Binance. E hoje os saques estão travados. Tá, mas na prática? Cripto parada na corretora é uma promessa da corretora. Eu nunca deixaria tudo num lugar só."
+    },
+    {
+     "tipo": "imagem",
+     "src": "midia/sug-story-binance-saque/print-investnews.png",
+     "h": 560,
+     "ajuste": "conter",
+     "raio": 18
+    }
+   ]
+  }
+ ],
+ "legenda": "",
+ "fontes": [
+  {
+   "titulo": "InvestNews (30/10/2026): Binance é alvo de ataque hacker de US$ 6,3 bilhões",
+   "url": "https://investnews.com.br/investimentos/binance-maior-exchange-cripto-do-mundo-e-alvo-de-ataque-hacker-de-us-63-bilhoes-veja-o-que-se-sabe/"
+  },
+  {
+   "titulo": "TechTudo (30/10/2026): saques seguem suspensos, previsão de ~45 h",
+   "url": "https://www.techtudo.com.br/noticias/2026/10/binance-sofre-ataque-hacker-com-roubo-de-us-63-bilhoes-veja-o-que-se-sabe-edsoftwares.ghtml"
+  }
+ ]
+}
