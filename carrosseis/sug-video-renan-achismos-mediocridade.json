@@ -1,0 +1,64 @@
+{
+  "id": "sug-video-renan-achismos-mediocridade",
+  "titulo": "Renan Santos: “O Brasil vai ficar nessa mediocridade” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T17:30",
+  "atualizado": "2026-10-29T17:30",
+  "trecho": {
+    "inicio": "É igual, lembra que o Bolsonaro ganhou?",
+    "fim": "Isso vai dar um problema em dois anos.",
+    "texto": "É igual, lembra que o Bolsonaro ganhou? Os petistas disseram: isto aqui vai virar um regime fascista. Cara, não vai virar. Talvez seja só o Bolsonaro falando de golden shower e falando daquelas merdas que ele falou e a economia andando de lado, como andou de lado. Ah, quando o Lula ganhou, não, o Brasil vai virar uma Venezuela. E não virou Venezuela. Ficou lá o Haddad com o arcabouço, ficou a Janja falando das janjagens dela. O Brasil vai ficar nessa mediocridade. É uma mediocridade. Ele vai ficar andando ali médio, médio, médio. Sobe um pouco, cai um pouco, sobe um pouco. Ó, não, mercado tá irritado. Aí dá um biscoito pro mercado ali, aí dá uma corrigida. O que tem como constante é um aumento da dívida e um descontrole nas contas públicas. Isso vai dar um problema em dois anos.",
+    "aspa_manchete": "O Brasil vai ficar nessa mediocridade",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "É igual, lembra",
+        "texto": "Renan Santos (Missão) foi candidato a presidente em 2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "aumento da dívida",
+        "texto": "Dívida bruta: de 71,7% do PIB (dez/22) a 82,9% (set/26), BC",
+        "cor": "vermelho"
+      }
+    ],
+    "trocar_palavras": {
+      "merdas": "m*rdas",
+      "Caracabouço": "arcabouço"
+    }
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Renan Santos: “O Brasil vai ficar ==nessa mediocridade==”"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Renan Santos sobre o futuro do Brasil: “O Brasil vai ficar nessa mediocridade.”\n\nPra ele, nem o “vai virar regime fascista” da vitória do Bolsonaro nem o “vai virar Venezuela” da vitória do Lula se confirmaram: a economia anda de lado, com um biscoito pro mercado aqui e uma corrigida ali. O que não para de subir, diz ele, é a dívida. Pelo Banco Central, a dívida bruta do governo geral saiu de 71,7% do PIB em dezembro de 2022 para 82,9% em setembro de 2026.\n\nMediocridade ou exagero? Comenta aí.\n\nVídeo: reprodução AchismosTV (27/10/2026). Fonte: Banco Central (dívida bruta do governo geral, % do PIB).\n\n#dividapublica #contaspublicas #economia #RenanSantos #investimentos",
+  "fontes": [
+    {
+      "titulo": "AchismosTV (YouTube) — Qual o futuro do Brasil com o Lula eleito? ft. Renan Santos | Achismos Podcast #441 (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=UUKtux3KQHU"
+    },
+    {
+      "titulo": "Banco Central — SGS 13762: dívida bruta do governo geral (% do PIB), dez/2022 e set/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/48?formato=json"
+    }
+  ]
+}
