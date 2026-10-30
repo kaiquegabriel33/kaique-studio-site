@@ -1,0 +1,66 @@
+{
+  "id": "sug-video-dono-aviao-flavio-150-mil",
+  "titulo": "Dono do jatinho do Flávio: voo pago por intermediário dos EUA, US$ 150 mil (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-30T11:40",
+  "atualizado": "2026-10-30T12:12",
+  "video_url": "https://www.youtube.com/watch?v=D3eOLghMvjM",
+  "trecho": {
+    "inicio": "esse intermediário, ele não revela a identidade",
+    "fim": "para um banco argentino",
+    "texto": "Esse intermediário, ele não revela a identidade, mas ele revelou o valor que ele recebeu. Segundo o Grande, esse intermediário cuja identidade ele se recusou a revelar, transferiu um pagamento de 150 mil dólares por esse voo, o que equivale a 800 mil reais, de uma conta da empresa dele, da Baires Fly, em um banco americano para um banco argentino.",
+    "aspa_manchete": "transferiu um pagamento de 150 mil dólares por esse voo",
+    "cta": true,
+    "girar": "nao",
+    "contexto": [
+      {
+        "desde": "Segundo o Grande",
+        "texto": "Luis Grande, argentino, dono da Baires Fly: contou à AFP por telefone, da Flórida (29/10/2026)",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "transferiu um pagamento",
+        "texto": "Flávio deixou o Brasil em 27/10 com os passaportes cancelados pela PF; pousou em Miami em 28/10",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Dono do jatinho do Flávio: um intermediário dos EUA ==“transferiu um pagamento de 150 mil dólares por esse voo”==. Quem pagou a fuga?"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Quem pagou o jatinho do Flávio? Um intermediário que mora nos Estados Unidos, diz o dono do avião.\n\nO argentino Luis Grande, dono da Baires Fly, contou à AFP que foi contratado por um broker que conhece há 10 anos e mora nos EUA. Esse intermediário, que ele não quis nomear, transferiu US$ 150 mil (uns R$ 800 mil) de uma conta de empresa num banco americano para a conta da Baires Fly num banco argentino. Grande diz que nunca falou direto com o cliente. A GloboNews mostrou a apuração na manhã de 30/10/2026.\n\nO caminho do dinheiro é o mesmo da rota: o Flávio saiu do Brasil em 27/10 com os passaportes cancelados pela PF, passou pela Argentina e pousou em Miami em 28/10. O New York Times e o Wall Street Journal noticiaram que Jason Miller, assessor do Trump, organizou o jato; quem botou o dinheiro, ninguém confirmou. A defesa do Flávio diz que ele é perseguido pelo ministro Alexandre de Moraes, do STF.\n\nR$ 800 mil num voo pago por alguém que ninguém sabe quem é. Pra mim, a pergunta não é mais se fugiu: é quem bancou.\n\nVídeo: reprodução GloboNews (30/10/2026). Fontes: AFP via GloboNews e Gazeta do Povo (30/10/2026), Poder360 (28/10/2026).\n\n#FlavioBolsonaro #jatinho #AFP #politica",
+  "fontes": [
+    {
+      "titulo": "GloboNews (YouTube) — Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do avião (30/10/2026, apuração da AFP)",
+      "url": "https://www.youtube.com/watch?v=D3eOLghMvjM"
+    },
+    {
+      "titulo": "Gazeta do Povo — Voo que levou Flávio a Miami custou US$ 150 mil, diz dono da empresa (30/10/2026): Luis Grande, Baires Fly; broker que conhece há 10 anos e mora nos EUA; transferência de conta em banco americano para banco argentino; NYT e WSJ apontam Jason Miller na organização do jato",
+      "url": "https://www.gazetadopovo.com.br/republica/voo-que-levou-flavio-a-miami-custou-150-mil-diz-dono-da-empresa/"
+    },
+    {
+      "titulo": "ECO/Sapo (AFP) — Avião que transportou Flávio Bolsonaro para Miami pago a partir dos EUA (30/10/2026)",
+      "url": "https://eco.sapo.pt/2026/10/30/aviao-que-transportou-flavio-bolsonaro-para-miami-pago-a-partir-dos-eua/"
+    }
+  ]
+}
