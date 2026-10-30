@@ -1,0 +1,75 @@
+{
+ "id": "sug-video-flavio-custo-senado",
+ "titulo": "Flávio nos EUA e o Senado pagando: “vai custar 1 milhão e 200 mil reais aos cofres públicos” até o fim do mandato (vídeo)",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-10-30T14:50",
+ "atualizado": "2026-10-30T15:02",
+ "video_url": "https://www.youtube.com/watch?v=hyFfMQVKeV8",
+ "trecho": {
+  "inicio": "esse valor se refere aqui ao salário de 46 mil reais",
+  "fim": "vai custar 1 milhão e 200 mil reais aos cofres públicos",
+  "texto": "Bom, esse valor se refere aqui ao salário de 46 mil reais que cada senador recebe e a verba indenizatória para o salário dos servidores, que tem esse total aí de 345 mil reais. Então, se esse valor for pago pelos próximos três meses, quer dizer, novembro, dezembro e janeiro, somando tudo, no fim disso, só o senador Flávio Bolsonaro que não vai estar no Brasil, que não se sabe se ele vai estar atuando, que não se sabe se ele vai votar, que não se sabe se ele vai apresentar nenhum projeto, vai custar 1 milhão e 200 mil reais aos cofres públicos.",
+  "aspa_manchete": "vai custar 1 milhão e 200 mil reais aos cofres públicos",
+  "cta": true,
+  "contexto": [
+   {
+    "desde": "esse valor se refere",
+    "texto": "Subsídio de senador em 2026: R$ 46.366,19 por mês (Senado Federal, tabela de agosto/2026)",
+    "cor": "amarelo"
+   },
+   {
+    "desde": "só o senador Flávio Bolsonaro",
+    "texto": "Mandato de Flávio no Senado vai até 31/01/2027; ele deixou o Brasil em 27/10/2026 com os passaportes cancelados pela PF",
+    "cor": "vermelho"
+   }
+  ],
+  "crop": [
+   1218,
+   846,
+   702,
+   4
+  ]
+ },
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "claro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Flávio foi pros EUA, mas o Senado continua pagando: ==“vai custar 1 milhão e 200 mil reais aos cofres públicos”== até janeiro. A conta da GloboNews."
+    },
+    {
+     "tipo": "video",
+     "h": "resto",
+     "ajuste": "conter",
+     "x": 0,
+     "w": 1080,
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "legenda": "O Flávio foi pros Estados Unidos. O salário de senador e o gabinete dele continuam saindo do seu imposto.\n\nA conta é da GloboNews (Em Pauta, 29/10/2026): R$ 46 mil de salário mais R$ 345 mil por mês pra pagar os servidores do gabinete dão uns R$ 391 mil por mês, sem contar cota de passagem, aluguel de escritório e combustível. Em três meses, novembro, dezembro e janeiro, passa de R$ 1,2 milhão. O mandato dele vai até 31/01/2027.\n\nPelo portal do Senado, o subsídio de senador é R$ 46.366,19 e o gabinete do Flávio tem 20 pessoas, 15 delas comissionadas. Ele não é obrigado a se licenciar: falta pode ser descontada, mas não é regra, e em dezembro o Congresso já entra em recesso. Ou seja: dá pra ficar fora do país e receber.\n\nMas tem o outro lado: a regra vale pra qualquer senador, e quem muda isso é o próprio Senado. Pra mim, o problema nem é o Flávio: é um sistema em que ninguém precisa aparecer pra receber. Você pagaria um funcionário que avisou que não volta?\n\nVídeo: reprodução GloboNews (Em Pauta, 29/10/2026). Fontes: GloboNews (29/10/2026), Portal da Transparência do Senado Federal (subsídio de agosto/2026 e gabinete do senador, dados de 30/10/2026).\n\n#FlavioBolsonaro #Senado #dinheiropublico #politica",
+ "fontes": [
+  {
+   "titulo": "GloboNews (YouTube) — Saiba quanto Flávio Bolsonaro custará aos cofres públicos mesmo nos EUA (Em Pauta, 29/10/2026, 22h06): gabinete custa ~R$ 391 mil/mês (salário R$ 46 mil + R$ 345 mil de verba para servidores), ~R$ 1,2 milhão em nov–jan; mandato até 31/01/2027",
+   "url": "https://www.youtube.com/watch?v=hyFfMQVKeV8"
+  },
+  {
+   "titulo": "Senado Federal — Estrutura remuneratória dos parlamentares, vigência ago/2026: subsídio de senador R$ 46.366,19 (PDF, emitido em 01/09/2026)",
+   "url": "https://www12.senado.leg.br/transparencia/rh/segp/estrutura-remuneratoria-dos-parlamentares"
+  },
+  {
+   "titulo": "Senado Federal — Transparência do senador Flávio Bolsonaro (dados de 30/10/2026): mandato 2019–2027; gabinete com 20 pessoas (15 comissionados, 1 efetivo, 4 terceirizados) + 5 no escritório de apoio; cota parlamentar R$ 86.264,27 em 2026; auxílio-moradia não utilizado",
+   "url": "https://www6g.senado.leg.br/transparencia/sen/5894"
+  },
+  {
+   "titulo": "Poder360 — Flávio deixou o Brasil em 27/10/2026 com os passaportes cancelados pela PF e pousou em Miami em 28/10 (legendas dos cortes de 28–30/10)",
+   "url": "https://www.poder360.com.br/"
+  }
+ ]
+}
