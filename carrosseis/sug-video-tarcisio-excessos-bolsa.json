@@ -12,7 +12,12 @@
     "gancho": "a conta sempre chega para o contribuinte",
     "girar": "nao",
     "cta": true,
-    "crop": [1080, 1420, 0, 0],
+    "crop": [
+      1080,
+      1420,
+      0,
+      0
+    ],
     "legenda": false,
     "enquadrar": false,
     "preencher": false,
@@ -67,5 +72,6 @@
       "titulo": "UOL Economia — Dólar fecha em queda após disparada eleitoral; Ibovespa recua 0,51% (27/10/2026)",
       "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/27/dolar-fecha-em-queda-apos-disparada-eleitoral-bolsa-volta-a-cair.htm"
     }
-  ]
+  ],
+  "postado_em": "2026-10-29T09:00:00-03:00"
 }

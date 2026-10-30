@@ -1,0 +1,65 @@
+{
+  "id": "sug-video-zenaide-orcamento-banco",
+  "titulo": "Zenaide Maia: “quase 50% fica para o banco” (vídeo, TV Senado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-30T15:00",
+  "atualizado": "2026-10-30T15:00",
+  "trecho": {
+    "inicio": "Não adianta aprovar um plano de educação",
+    "fim": "4% para a educação",
+    "texto": "Não adianta aprovar um plano de educação; se não o colocarmos no Orçamento, não vai funcionar! Qualificar professores, bons salários e condições de trabalho... Isso é um grande desafio que a gente tem. Você chega à Comissão de Orçamentos, e, de um orçamento previsto, eu acho, para agora, os 7 trilhões, quase 50% fica para o banco, juros e serviços de uma dívida, e a gente passa um ano discutindo 4% para a saúde, 4% para a educação.",
+    "aspa_manchete": "quase 50% fica para o banco",
+    "cta": true,
+    "crop": [616, 880, 651, 0],
+    "contexto": [
+      {
+        "desde": "Você chega",
+        "texto": "LOA 2026: R$ 6,5 tri; juros + amortização da dívida = R$ 2,9 tri (44%)",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "4% para a saúde",
+        "texto": "Só juros: R$ 644 bi. Saúde R$ 271 bi, educação R$ 234 bi (LOA 2026)",
+        "cor": "verde"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Senadora Zenaide Maia sobre o Orçamento: “==quase 50% fica para o banco==”"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Senadora Zenaide Maia sobre o Orçamento: “quase 50% fica para o banco.”\n\nEla falou no plenário do Senado em 15/10/2026, pedindo mais dinheiro pra educação. A conta dela: o Orçamento gira uns R$ 7 trilhões, quase metade vai pra juros e dívida, e o Congresso passa o ano discutindo 4% pra saúde e 4% pra educação.\n\nFui conferir na lei do Orçamento de 2026. O total é R$ 6,5 trilhões. Juros mais amortização da dívida dão R$ 2,9 trilhões, 44%. Saúde fica com R$ 271 bilhões e educação com R$ 234 bilhões: os 4% dela batem.\n\nTá, mas na prática? A maior parte desses R$ 2,9 trilhões é rolagem: título velho que vence e é pago com título novo. Não é dinheiro saindo do caixa pro banco. O que sai de verdade é o juro, R$ 644 bilhões, e só isso já passa de saúde e educação juntas. Ninguém faz campanha prometendo cortar essa conta, porque ela só cai com juro mais baixo, e juro mais baixo só vem com conta pública fechando.\n\nPra mim esse é o debate que fica de fora toda vez que o Congresso briga por 4%.\n\nVídeo: TV Senado (15/10/2026). Fontes: Relatório final da LOA 2026 (Congresso Nacional, via Agência Câmara, 19/12/2025) e Lei Orçamentária sancionada em 14/01/2026.\n\n#orcamento #juros #dividapublica #Senado #educacaofinanceira",
+  "fontes": [
+    {
+      "titulo": "TV Senado — 135ª Sessão Deliberativa Ordinária, fala da senadora Zenaide Maia (15/10/2026)",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159133"
+    },
+    {
+      "titulo": "Fenacon/Agência Câmara — Congresso aprova Orçamento de 2026 com R$ 6,5 trilhões em despesas (quadro do relatório final: juros R$ 643,9 bi, amortização R$ 2.220 bi, saúde R$ 271,3 bi)",
+      "url": "https://fenacon.org.br/noticias/congresso-nacional-aprova-orcamento-de-2026-com-r-65-trilhoes-em-despesas/"
+    },
+    {
+      "titulo": "Brasil 61 — LOA sancionada prevê R$ 6,54 trilhões; saúde R$ 271,3 bi e educação R$ 233,7 bi (14/01/2026)",
+      "url": "https://brasil61.com/n/loa-sancionada-pelo-governo-preve-r-6-54-trilhoes-em-orcamento-da-uniao-bras2615577"
+    }
+  ]
+}
