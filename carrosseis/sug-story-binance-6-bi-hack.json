@@ -1,0 +1,49 @@
+{
+  "id": "sug-story-binance-6-bi-hack",
+  "titulo": "Story: hackers levaram US$ 6,3 bi da Binance, o maior roubo de cripto da história",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-30T08:50",
+  "atualizado": "2026-10-30T08:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-binance-6-bi-hack/binance-sofre-ataque-de-us-6-3-bilhoes-em-possiv.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Hackers levaram [[vermelho:US$ 6,3 bilhões]] da Binance em 20 minutos, o maior roubo da história das criptomoedas. A corretora travou os saques e diz que cobre todas as perdas. O bitcoin caiu 4%, e o saque só volta em até 48 horas."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-binance-6-bi-hack/print-correio-braziliense-binance-sofre-ataque-de-us-6-3-b.png",
+          "h": 581,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Correio Braziliense/BBC News — Binance sofre ataque de US$ 6,3 bilhões em possível maior roubo da história das criptomoedas (30/10/2026): recorde anterior Bybit US$ 1,5 bi (2025); saques suspensos (Yi He); 'cobrirá todas as perdas'; bitcoin cai mais de 4%; TRM Labs e Chainalysis apontam o grupo norte-coreano TraderTraitor",
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/10/7530695-binance-sofre-ataque-de-uss-63-bilhoes-em-possivel-maior-roubo-da-historia-das-criptomoedas.html"
+    },
+    {
+      "titulo": "SBT News — Hackers fazem maior roubo de criptomoedas da história (30/10/2026): ataque de cerca de 20 minutos no fim da noite de 29/10; saques suspensos, retomada em até 48 h; Richard Teng: 'Seu dinheiro está seguro e estamos cobrindo todas as perdas'; cerca de US$ 3 bi congelados",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/hackers-fazem-maior-roubo-de-criptomoedas-da-historia"
+    }
+  ]
+}
