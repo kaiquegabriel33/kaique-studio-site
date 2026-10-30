@@ -1,0 +1,40 @@
+{
+  "id": "grav-13o-destino",
+  "titulo": "O 13º nem vem inteiro (vídeo, voz dele)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T23:10",
+  "atualizado": "2026-10-29T23:10",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "O 13º ==nem vem inteiro=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "O seu 13º nem vem inteiro. E se tem cartão rolando, ele já tem dono.\n\nA Ana do vídeo é um exemplo: CLT, R$ 3 mil de salário e R$ 1.500 no rotativo. Em agosto, o rotativo cobrou em média 15,18% ao mês, segundo o Banco Central. Dá uns R$ 230 de juros num mês só.\n\nA 1ª parcela cai até 30/11, sem desconto. A 2ª cai até 20/12 e traz o INSS do 13º inteiro: pra Ana, sobram uns R$ 1.250.\n\nNo lugar dela, a primeira parcela ia inteira pro rotativo. Nenhuma aplicação segura rende 15% ao mês.\n\nContas nossas: INSS pela tabela de 2026 e juros pela taxa média de agosto/2026.\nFontes: Lei 4.749/1965 e Banco Central. Conteúdo educativo, não é recomendação individual.\n\n#13salario #educacaofinanceira #financaspessoais #cartaodecredito",
+  "fontes": [
+    {
+      "titulo": "Lei 4.749/1965 (13º salário)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm"
+    },
+    {
+      "titulo": "Banco Central: juros do cartão rotativo PF, agosto/2026 (SGS 22022)",
+      "url": "https://dadosabertos.bcb.gov.br/dataset/22022-taxa-media-de-juros-das-operacoes-de-credito-com-recursos-livres---pessoas-fisicas---cartao-d"
+    }
+  ]
+}
