@@ -1,0 +1,48 @@
+{
+ "id": "grav-heranca-dossie",
+ "titulo": "Herança nos EUA: teste formato Dossiê (abre com Lula 2024, Reel de teste)",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-10-30T12:45",
+ "atualizado": "2026-10-30T12:45",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Herança nos EUA: ==até 40%== pro governo americano"
+    },
+    {
+     "tipo": "video",
+     "h": "resto",
+     "x": 0,
+     "w": 1080,
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "legenda": "O Lula falou em 2024 que nos EUA 40% da herança fica com o governo. Pro americano, isso é raro: a isenção lá passa de US$ 13 milhões. Agora, se você não mora lá e tem ação americana, o limite é US$ 60 mil. Aí sim, isso aqui é com você.\n\nPra quem não mora nos EUA, a herança só passa sem imposto americano até US$ 60 mil em bens nos EUA (ações de empresas americanas, ETFs americanos, imóveis). Acima disso, a alíquota vai de 18% a 40% (para quem tem mais de US$ 60 mil, a primeira faixa que pesa já é a de 26%); os 40% valem acima de US$ 1 milhão. E o Brasil não tem tratado de herança com os EUA.\n\nO exemplo do seu Carlos (US$ 200 mil em ações americanas) é conta nossa pela tabela do IRS: uns US$ 42 mil de imposto. Câmbio de 29/10/2026 (R$ 5,42).\n\nO TOD (Transfer on Death) põe um beneficiário na conta e evita o inventário de lá. O imposto continua.\n\nETF registrado na Irlanda não é bem americano para a herança, e a Irlanda isenta cotas de fundo irlandês quando quem deixa e quem recebe não moram lá. No dividendo, o fundo paga 15%, contra 30% retidos na ação americana para quem mora no Brasil.\n\nPra trocar, você vende: lucro de aplicação no exterior paga 15% aqui (Lei 14.754/2023). E aqui ainda tem o ITCMD, do seu estado, com teto de 8%: assunto do próximo vídeo.\n\nPara abrir sua conta Avenue: https://pit.avenue.us/onboarding/foreign-finder/AVE600894 (ou use o código AVE600894 no cadastro). Já tem Avenue? Dá pra trocar a assessoria pra mim.\n\nConteúdo educativo, não é recomendação de investimento. Cada família tem um caso: antes de mexer, fale com quem entende de sucessão.\n\nComenta HERANÇA que eu te explico o resto.\n\nFontes: IRS (Form 706-NA, Table A do Form 706, tratados de herança, retenção de não residentes), FINRA, Revenue da Irlanda (CATCA 2003, s.75), tratado EUA-Irlanda, Resolução do Senado 9/1992 e Lei 14.754/2023. Vídeo: Lula em Buri (SP), 23/07/2024, reprodução CanalGov/UOL. Prints: Diário do Nordeste e SBT News (Comprova).\n\n#heranca #investimentos #educacaofinanceira #investirnoexterior #planejamentosucessorio\n",
+ "fontes": [
+  {
+   "titulo": "IRS — Form 706-NA (US$ 60 mil para não residentes)",
+   "url": "https://www.irs.gov/instructions/i706na"
+  },
+  {
+   "titulo": "IRS — Table A do Form 706",
+   "url": "https://www.irs.gov/instructions/i706"
+  },
+  {
+   "titulo": "Diário do Nordeste: Lula compara imposto sobre herança no Brasil e EUA",
+   "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/lula-compara-imposto-sobre-heranca-no-brasil-e-eua-1.3537815"
+  },
+  {
+   "titulo": "SBT News (Comprova): diferença entre Brasil e EUA no imposto sobre herança",
+   "url": "https://sbtnews.sbt.com.br/noticia/comprova/explica-entenda-a-diferenca-entre-brasil-e-eua-na-tributacao-do-imposto-sobre-heranca"
+  }
+ ]
+}
