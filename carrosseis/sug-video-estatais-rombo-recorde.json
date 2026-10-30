@@ -1,0 +1,69 @@
+{
+  "id": "sug-video-estatais-rombo-recorde",
+  "titulo": "Rombo recorde das estatais federais: R$ 8,5 bi em 2026, Correios com 15 trimestres de prejuízo (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-30T08:55",
+  "atualizado": "2026-10-30T09:02",
+  "video_url": "https://www.youtube.com/watch?v=fuAfjF8F-4g",
+  "trecho": {
+    "inicio": "Os Correios lideram a pressão sobre as contas",
+    "fim": "resultados negativos até 2030.",
+    "texto": "Os Correios lideram a pressão sobre as contas, somando 15 trimestres consecutivos de prejuízo e um saldo negativo no primeiro semestre de 2026. O levantamento do Banco Central abrange companhias como Correios, Infraero, Casa da Moeda, Serpro, Dataprev, Engeprom, Hemobras e Mger, excluindo a Petrobras e bancos públicos. O projeto da LDO de 2027 indica a expectativa governamental de que essas estatais permaneçam com resultados negativos até 2030.",
+    "aspa_manchete": "15 trimestres consecutivos de prejuízo",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "Os Correios lideram",
+        "texto": "Rombo de R$ 8,5 bi de janeiro a setembro de 2026: recorde da série do Banco Central, que começa em 2002",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "O projeto da LDO",
+        "texto": "O próprio governo já prevê essas estatais no vermelho até 2030 (projeto da LDO 2027)",
+        "cor": "vermelho"
+      }
+    ],
+    "gancho": false
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Estatais do governo: rombo recorde de R$ 8,5 bi, e os Correios somam ==“15 trimestres consecutivos de prejuízo”==. Adivinha quem paga?"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "As estatais do governo já queimaram R$ 8,5 bilhões em 2026. Pior número desde 2002.\n\nÉ a série do Banco Central, que começa em 2002.\n\nSó em setembro foram R$ 2 bilhões de rombo. Até setembro de 2025 tinham sido R$ 6,3 bilhões. O recorde de um ano fechado era o de 2024, R$ 6,73 bilhões. Já passou.\n\nQuem puxa é o Correios: 15 trimestres seguidos no prejuízo e um empréstimo de R$ 7 bilhões com garantia do Tesouro. Petrobras, BB e Caixa não entram nessa conta.\n\nO lado do governo: o Banco Central diz que não separa o que é despesa e o que é investimento, e que investimento bem feito volta depois. Pode ser. Mas a própria LDO de 2027 já prevê essas empresas no vermelho até 2030.\n\nSe a conta não fecha, quem entra é o Tesouro: garantia, aporte. Ou seja, o seu imposto.\n\nVídeo: reprodução Jovem Pan News (30/10/2026). Fontes: Banco Central (estatísticas fiscais, 29/10/2026), Folha de S.Paulo e Gazeta do Povo (29/10/2026).\n\n#estatais #Correios #contaspublicas",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News (YouTube) — Rombo das estatais federais bate recorde em 2026 (30/10/2026)",
+      "url": "https://www.youtube.com/watch?v=fuAfjF8F-4g"
+    },
+    {
+      "titulo": "Folha de S.Paulo — Estatais federais têm déficit recorde de R$ 2 bi em setembro, o maior para mês desde 2002, mostra BC (29/10/2026)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/estatais-federais-tem-deficit-recorde-de-r-2-bi-em-setembro-o-maior-para-mes-desde-2002-mostra-bc.shtml"
+    },
+    {
+      "titulo": "Gazeta do Povo — Dívida pública federal chega a R$ 9,38 trilhões; rombo das estatais bate recorde (29/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/economia/divida-publica-federal-chega-a-r-938-trilhoes-rombo-das-estatais-bate-recorde/"
+    }
+  ]
+}
