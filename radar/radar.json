@@ -1,34 +1,76 @@
 {
- "atualizado": "2026-10-31T14:16-03:00",
- "em_alta": [
+ "atualizado": "2026-10-31T15:07-03:00",
+ "em_alta": [],
+ "pautas": [
   {
-   "termo": "assaí",
-   "trafego": "200+",
+   "id": "6de83d75d2",
+   "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
+   "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-31T17:56:36+00:00",
    "temas": [
-    "mercado"
+    "mercado",
+    "politica"
    ],
-   "video": false,
-   "noticias": [
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Assista+deo+Fla+vio+Bolsonaro+nos+EUA",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
     {
-     "titulo": "Irmãos Muffato chegam a 15% do Assaí e já são os maiores acionistas",
-     "url": "https://pipelinevalor.globo.com/negocios/noticia/irmaos-muffato-chegam-a-15percent-do-assai-e-ja-sao-os-maiores-acionistas.ghtml",
-     "veiculo": "Pipeline"
+     "veiculo": "Valor",
+     "titulo": "Secretário de Estado americano nega ajuda de governo dos EUA na fuga de Flávio Bolsonaro",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/31/secretario-de-estado-americano-nega-ajuda-de-governo-dos-eua-na-fuga-de-flavio-bolsonaro.ghtml"
     },
     {
-     "titulo": "Assaí tem 15% do capital em ações e derivativos nas mãos de grupo de investidores",
-     "url": "https://www.estadao.com.br/em-alta/einvestidor/cenarios-e-mercado/assai-tem-15-do-capital-em-acoes-e-derivativos-nas-maos-de-grupo-de-investidores/",
-     "veiculo": "Estadão"
+     "veiculo": "Record News",
+     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
+     "url": "https://www.youtube.com/watch?v=dVfet26T0gI"
     },
     {
-     "titulo": "Irmãos Muffato se tornam maiores acionistas do Assaí após elevar participação a 15%",
-     "url": "https://investnews.com.br/negocios/irmaos-muffato-se-tornam-maiores-acionistas-do-assai-apos-elevar-participacao-a-15/",
-     "veiculo": "InvestNews"
+     "veiculo": "Valor",
+     "titulo": "Mauro Vieira conversa com Marco Rubio dias após fuga de Flávio Bolsonaro aos EUA",
+     "url": "https://valor.globo.com/brasil/noticia/2026/10/30/mauro-vieira-conversa-com-marco-rubio-dias-aps-fuga-de-flvio-bolsonaro-aos-eua.ghtml"
+    },
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
+     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI"
     }
    ],
-   "publicado": "2026-10-31T09:50:00-07:00"
-  }
- ],
- "pautas": [
+   "score": 59.4,
+   "video_url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
+   "video_canal": "Poder360",
+   "video_por_hora": 26154,
+   "video_acima_mediana": 135.0,
+   "videos": [
+    {
+     "canal": "Poder360",
+     "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
+     "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
+     "por_hora": 26154
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
+     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
+     "por_hora": 11328
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do avião",
+     "url": "https://www.youtube.com/watch?v=YyTJKrUXJK8",
+     "por_hora": 1357
+    },
+    {
+     "canal": "Record News",
+     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
+     "url": "https://www.youtube.com/watch?v=dVfet26T0gI",
+     "por_hora": 307
+    }
+   ]
+  },
   {
    "id": "c0ddc15cf3",
    "titulo": "Voto antecipado nos EUA bate recorde e chega a 48 milhões",
@@ -43,7 +85,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Voto+antecipado+nos+EUA+bate+recorde+chega+milh%C3%B5es",
-   "veiculos": 7,
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
@@ -67,166 +109,29 @@
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXVJVjYteGpneDFWRHIyaVBlVVhlaGZ0NDJyQTlLLS1wZVRnN2NKd01FTG54WkNUOWd4UkRFdmxoNzhpbV9zMnhMZFI0cDR2OE9ybnlSSXI3QmdtVnBQVHY0VnZFa3VfV3hJVV84NXJqdm5fb1RQc01MMFQ2M2dGb0pPOFpxc0RPLTBnbW9wZk5FWHVNSFJGRS1WR2c3ei0yRUp0UkV2QnlCLXNueEJvSmJRU1dFRGQzU3ktMWFGN0JaTm9jZG1QNlRwNTliRFpf?oc=5"
     }
    ],
-   "score": 55.6,
+   "score": 49.2,
    "video_url": "https://www.youtube.com/watch?v=pJpBmEaazkE",
    "video_canal": "UOL",
-   "video_por_hora": 34200,
-   "video_acima_mediana": 13.7,
+   "video_por_hora": 32333,
+   "video_acima_mediana": 7.9,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Eleições nos EUA superam recorde de votação antecipada, com 48 milhões de votos no 'midterms'",
      "url": "https://www.youtube.com/watch?v=pJpBmEaazkE",
-     "por_hora": 34200
+     "por_hora": 32333
     },
     {
      "canal": "InfoMoney",
      "titulo": "Voto antecipado nos EUA bate recorde e chega a 48 milhões",
      "url": "https://www.youtube.com/watch?v=tjQlKjXdIKk",
-     "por_hora": 16682
+     "por_hora": 17252
     },
     {
      "canal": "UOL",
      "titulo": "EUA têm recorde de voto antecipado nas eleições de meio de mandato, com mais de 49 milhões de votos",
      "url": "https://www.youtube.com/watch?v=Of2RbkWIuLU",
-     "por_hora": 6487
-    }
-   ]
-  },
-  {
-   "id": "6de83d75d2",
-   "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
-   "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-31T13:18:18+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Assista+deo+Fla+vio+Bolsonaro+nos+EUA",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=f4Speyg_mbc"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=rCmMVTGGckk"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
-     "url": "https://www.youtube.com/watch?v=dVfet26T0gI"
-    },
-    {
-     "veiculo": "G1",
-     "titulo": "O que pode acontecer com Flávio Bolsonaro nos EUA se democratas derrotarem Trump no Congresso?",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR25wb1JwUW9BcUg1MXNuc1RUX3pxVFRBcV9uWnZtRVZmYUdLNFJQWEJsRVBncUpFRUh3MjNjOV9HY1hRMEFtLTVHNnZfMlRBUXFqRkZianBTZzNBRXJWUk1Zc0V3UHRQY2lZNC05Q3VCQXJoMW1fVjd1MVhpM2xmRVBkdTJWUFZyRWZXS0luSVR5c2lHaVNrUWdrRGpqVUp0WmJqd2hfUUhTTl9TQUhSczF5ckNNQ3JZd1BhX2F2dFlGNHNJTU0xeDc1ZnZkUjl4SXF4YlBfa003MWZMRHfSAewBQVVfeXFMUDhFOVVISHVFWWhrNzQ5Y2dzZURONUQ1bEFVd0dkN1dRbVdqUlk0YkdCaV9RRTBGRTY4cU9NaG9XdDhtbUNWSVI1MFhza0U5N3lQbWNXdmV5eF9xYkVpaWprdjZMYnp3R05GUVRIZ2ZoMmRjRTA5YTRLcnQxU1lpb3RhbGNzQUlfOVRGTW9KOWF4R082RWtBTFpjU3U1dnJPUjFlNkRzRmxWU0dzSVFJLW1PYi0xZG83NUlOYWpLMGFTWVBIeUV1al95SHhqS3hvSHctbDl0cXNtc1BmT0JHRmwxOGZMNnk1SVQ3UHI?oc=5"
-    }
-   ],
-   "score": 53.2,
-   "video_url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
-   "video_canal": "Poder360",
-   "video_por_hora": 27254,
-   "video_acima_mediana": 134.0,
-   "videos": [
-    {
-     "canal": "Poder360",
-     "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
-     "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
-     "por_hora": 27254
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do avião",
-     "url": "https://www.youtube.com/watch?v=YyTJKrUXJK8",
-     "por_hora": 1405
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=rCmMVTGGckk",
-     "por_hora": 1279
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=f4Speyg_mbc",
-     "por_hora": 625
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
-     "url": "https://www.youtube.com/watch?v=dVfet26T0gI",
-     "por_hora": 317
-    }
-   ]
-  },
-  {
-   "id": "d844d7f3c2",
-   "titulo": "Mauro Vieira conversa com Marco Rubio dias após fuga de Flávio Bolsonaro aos EUA",
-   "url": "https://valor.globo.com/brasil/noticia/2026/10/30/mauro-vieira-conversa-com-marco-rubio-dias-aps-fuga-de-flvio-bolsonaro-aos-eua.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-31T16:08:24+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mauro+Vieira+conversa+com+Marco+Rubio+dias+ap%C3%B3s+fuga",
-   "veiculos": 8,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "SBT News",
-     "titulo": "Vieira tem 1º encontro com Rubio após fuga de Flávio Bolsonaro | #Newssabado",
-     "url": "https://www.youtube.com/watch?v=acIxqyR4rVc"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
-     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI"
-    },
-    {
-     "veiculo": "Transmissão Política",
-     "titulo": "Deputados dos EUA cobram Marco Rubio sobre possível ajuda do governo Trump na fuga de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWo3NU9qVExkUmNEZnFQY25yUzZkNHM1VFYwQm1PRXFma1JPeU1EZk1VcGNjc0VWS1pTNGFwaUcxSU53WUU2c2V2QVJ1SGNkLXBSRHpLelNjV1pPZG41WEVRanlZYTBibUdkejhTZHBjMWZ6YjBTSVFBcDJpX0NyMUkwVDh2cVVsS3M2UXY1Tm9iZnJmWkhoQ1lvNHNIa2RCdjZSNTc2LVMxMUtBZ0Y3MXlDb2NNM2NSUjJN?oc=5"
-    },
-    {
-     "veiculo": "Rondônia Dinâmica",
-     "titulo": "Deputados dos EUA cobram explicações de Rubio sobre ajuda a Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaFNGeW1ldTVaSnBHbjBjWl9ETXExQzhGa3RoMUFQS1JCYzFMdGtFU1pTX3FVclMyUEcwRUU2M1UxWHYyb3dqUXlaVng1QkdjNF9QVWNFQk15WnJmdnk1blpTVHhWMVVjMk9wRzFiaG1HSGxrWW16Um9Ra2p6MmJ6bTU2dkZYRnBNTy1iWWRGUTJ4U25BNVZxekpFSDVBSmZwcGcyanJUOFZCSlV5RWFTemsyNzJRQTk1ajQ1SHJvQ01mU0FucE1tdnVLUUVzeERYTGRjTEtB?oc=5"
-    }
-   ],
-   "score": 50.0,
-   "video_url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
-   "video_canal": "GloboNews",
-   "video_por_hora": 11172,
-   "video_acima_mediana": 8.6,
-   "videos": [
-    {
-     "canal": "GloboNews",
-     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
-     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
-     "por_hora": 11172
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Deputados dos EUA questionam papel de Trump na fuga de Flávio e emissão de visto",
-     "url": "https://www.youtube.com/watch?v=0nxBGrDSlb8",
-     "por_hora": 7821
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Vieira tem 1º encontro com Rubio após fuga de Flávio Bolsonaro | #Newssabado",
-     "url": "https://www.youtube.com/watch?v=acIxqyR4rVc",
-     "por_hora": 793
+     "por_hora": 11703
     }
    ]
   },
@@ -243,7 +148,7 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Michelle+chama+Jair+Bolsonaro+l%C3%ADder+diz+que+presidente+pede",
-   "veiculos": 28,
+   "veiculos": 12,
    "rotina": false,
    "outras": [
     {
@@ -262,76 +167,37 @@
      "url": "https://www.youtube.com/watch?v=I1Gagv5Hq2g"
     },
     {
-     "veiculo": "Correio do Povo Penedo",
-     "titulo": "Michelle Bolsonaro defende união da direita após a derrota de Flávio",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0hzMnBVSlhrZEVEYXFORTRBbFJILVZ2bWtKX3pTbko1OUhIalpnS2JHSHNRQ184WnFSUkRMSVdFY1c3anlCTVZlVVVhM2t1RU16ekZUU1kzd2dWOFFiQXBpa0dYOGtSTlFsUHNsSG9DdEVDMS1FMW9LTC1xYm9uUjYtazl4QWExa29URjdXeVNzQV82bXN3cFFXVDJ0VjRwbFBvR1Vjck1raW1yWkFtMGJDV3pTdGtHVXNSOEpQMA?oc=5"
+     "veiculo": "JC",
+     "titulo": "Custo da derrota de Flávio Bolsonaro no mercado não se restringiu apenas às contribuições para a campanha eleitoral",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTXRvQ0UyU3dCS0thaXpGdHVPV0dSWFpBMzBHU0RuSDNORHhLTXpWRU5YUFhwXzV5NkdfVjg5d1hTTUhrVkp0MVFzTDdKeDU0eU5TZ1FpaTBMeTliMklKV0RpcE10TlhPNFE3NUJWdEFqaThwRWdfV3lXWExReEc3bWRTQXpieEhiWTN3eUdZbTFOLVl1N3lfU2NmUlVsczFmS3p6VkNia05TN19HRk1HeUhEdHN6TWpKM3VKNk9ZSVZCVnVfV2luS1ExUVNNc005LS13WWJ0SWhNYU5Kb1RBREM2NG1qMHJfa21hUTN0RUR0bm5XaGY1TFZ6OVBMOTk5QkFv?oc=5"
     }
    ],
-   "score": 46.6,
+   "score": 46.0,
    "video_url": "https://www.youtube.com/watch?v=0DmqG9nU6pE",
    "video_canal": "UOL",
-   "video_por_hora": 16421,
-   "video_acima_mediana": 6.6,
+   "video_por_hora": 15800,
+   "video_acima_mediana": 3.9,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Vingança de patrões pela derrota de Flávio Bolsonaro aprofunda divisão do Brasil | Sakamoto",
      "url": "https://www.youtube.com/watch?v=0DmqG9nU6pE",
-     "por_hora": 16421
+     "por_hora": 15800
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Michelle afirma que Jair Bolsonaro não procura culpados pela derrota de Flávio",
      "url": "https://www.youtube.com/watch?v=I1Gagv5Hq2g",
-     "por_hora": 4000
+     "por_hora": 3571
     }
    ]
   },
   {
-   "id": "ed603ecb64",
-   "titulo": "Itaú corta projeção de PIB de 2027 para 0,5% e eleva IPCA para 6,1%",
-   "url": "https://valor.globo.com/brasil/noticia/2026/10/30/ita-corta-projeo-de-pib-de-2027-para-05-pontos-percentuais-e-eleva-ipca-para-61.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-31T15:48:19+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ita%C3%BA+corta+proje%C3%A7%C3%A3o+PIB+2027+para+0%2C5%25+eleva+IPCA",
-   "veiculos": 6,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Portal VV8",
-     "titulo": "Itaú reduz projeção de crescimento do PIB e eleva estimativa de inflação para 2027",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNG4xRVdzYnZaWm43a25HdTQ5bUlUZkZLbFpYQjZ2SlV1eVVKOW11NktteEZwM1kzQTFIendpRzcyUmcyTHBsal85WTNDYlVNN043Rk4yN0k0SmRMN29JR3ZhVTA5SkhzSFNadHQtUmdhb0h3b0tTQ1AzTEVrU0ZlQzJtMVBHZURvUzV5TjZrdWhKdHZERWh4UUdDUEMzUGhKamk2ZW1XVnVmcWpxOEVXNkk1NFRsQ3Btc3NCcjdB?oc=5"
-    },
-    {
-     "veiculo": "Folha",
-     "titulo": "Itaú corta projeção do PIB de 2027 para 0,5% e vê inflação acima da meta",
-     "url": "https://www1.folha.uol.com.br/mercado/2026/10/itau-corta-projecao-do-pib-de-2027-para-05-e-ve-inflacao-acima-da-meta.shtml"
-    },
-    {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Itaú corta projeção do PIB de 2027 para 0,5% e vê inflação acima da meta",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXV5RF9PM1NkRXR4MktkX1JfdnREQTBtOVlWb0JwcFgyejFWemt6bmplSDJ5Qmsza1NZMXVBOWRRVjJfZThfT2M5d1IyUmY0SjduZXZ1MG8zLXZXZlNyUWV3TFJJQUdGQll2MVgwM0I2c2ZPOXV6RmFoVFdtd0FYNlNGekw1ZWd0TmFldDE5b1RlSWR2RjlnYjR4MWROaXpzaEpGeXE5RTA5S3U5SmkzQXJ2LThqU1ExbGlLX0ZGWQ?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Itaú corta projeção de PIB de 2027 para 0,5% e eleva IPCA para 6,1%",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlRmQkRoUHc1MDJrVl9BSi1weXVQSk9OMDhkUGl2VkpLSzRBZS1sclI1M3JkbkpCWVBPemdQSWJia0c0aEp6NkNYdGM1Vlo2VVlZLVh5SldITmFsZDJVMUliMXVCRHNGcUZVeThkSzdxTjN3Q1RzWjdZZ0ZWQVdiWkpKSzJfRUZ3d294cHo5OHNYT29xUDZoazN2WktYUFBfQ29rYkNheWRZR2hQejd2T0dITVFHbDJ6VUE3Y1FvMXhybERoWFYxNlphb2M5emFabWN4b2V4RXR0Qzl3b19n0gHfAUFVX3lxTE0yVGZCRGhQdzUwMmtWX0FKLXB5dVBKT04wOGRQaXZWSktLNEFlLWxyUjUzcmRuSkJZUE96Z1BJYmJrRzRoSno2Q1h0YzVWWjZVWVktWHlKV0hOYWxkMlUxSWIxdUJEc0ZxRlV5OGRLN3FOM3dDVHNaN1lnRlZBV2JaSkpLMl9FRnd3b3hwejk4c1hPb3FQNmhrM3ZaS1hQUF9Db2tiQ2F5ZFlHaFB6N3ZPR0hNUUdsMnpVQTdjUW8xeHJsRGhYVjE2WmFvYzl6YVptY3hvZXhFdHRDOXdvX2c?oc=5"
-    }
-   ],
-   "score": 39.4
-  },
-  {
-   "id": "c63d7c2d38",
-   "titulo": "Ibovespa tem pior m�s desde junho de 2022; d�lar sobe 5,22% em outubro",
-   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/30/ibovespa-tem-pior-mes-desde-junho-de-2022-dolar-sobe-522-em-outubro.htm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-10-31T15:32:30+00:00",
+   "id": "05c9480c7e",
+   "titulo": "Itaú eleva previsão de inflação em 2027 para 6,1%",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1ZFUzRHU2JnajVvUU1qdkJzZnpvVTNLd1dneWdnSjZtRkhVckpZbkloYkl6MGhKaEhVbTZCRWRrSmpNMVBDX2w0S1B4YWhPOWE3Vk5LejJtdkRSMXBmOUZzbFFsQmpVVi16SnAxNTAyN1FjOGdFRW5nak0tZkFNTFZVVTJOb0NQ?oc=5",
+   "veiculo": "BM&C",
+   "publicado": "2026-10-31T17:40:00+00:00",
    "temas": [
     "comportamento",
     "economia",
@@ -340,64 +206,24 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+tem+pior+desde+junho+2022+lar+sobe+5%2C22%25",
-   "veiculos": 27,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Ibovespa em outubro de 2022: pior mês desde junho",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQVpVNkdiMGxyTGpMRU5VZHYzQW1KazNqLXF4WVdhLXgtYVZrMjF0RVFmNFJUSnlPOUdUbDlpNnNSU1BNQkFaMG5wZG1LYmh5ZW5TVUt5NGZRSHJ3UXZzS2dtNHFTNzF1TjhmM0NsbXp1QVZYWDUyM3dpMA?oc=5"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Ibovespa tem pior mês desde junho de 2022; dólar sobe 5,22% em outubro",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWNzcnRWU1o2bEdxeWZxeFhHMjd3c3NOaGxJWUpxUzRudU14RDZ2WjgyRjJmWUF4azJTUEJ5a19JTE1BS2xHR2s0Z1JlY3cycHVUZmtkYlJReVRQSUhOejJNNEVGbE9LbTd2TmZwT1FDWEpLUlNPQW1GbmticlJkX01tUWdFeUZPR1lnalhpTHVkV0hsNkV1aUpvYlJtMGFSYXo4QzhReGZ6STNzbUNOSVA4dG9WV05ES2hfM2FrN0ZmdDNWU1JRU3B5NUczdVBFd1E?oc=5"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Ibovespa tem pior mês desde junho de 2022; dólar sobe 5,22% em outubro",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWNzcnRWU1o2bEdxeWZxeFhHMjd3c3NOaGxJWUpxUzRudU14RDZ2WjgyRjJmWUF4azJTUEJ5a19JTE1BS2xHR2s0Z1JlY3cycHVUZmtkYlJReVRQSUhOejJNNEVGbE9LbTd2TmZwT1FDWEpLUlNPQW1GbmticlJkX01tUWdFeUZPR1lnalhpTHVkV0hsNkV1aUpvYlJtMGFSYXo4QzhReGZ6STNzbUNOSVA4dG9WV05ES2hfM2FrN0ZmdDNWU1JRU3B5NUczdVBFd1E?oc=5"
-    },
-    {
-     "veiculo": "redeutv.com.br",
-     "titulo": "Após reeleição de Lula, Ibovespa tem pior semana desde a pandemia e dólar dispara",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHZuWGhEM3gwTlhSOGNxSDVqR3QzSUxwU3NJOS1GTk01YVBTM29ydVRwbXY5MkJZT2lkUU9lWmljdV9HWXQ3WTNJWkk5dVNhS2ZUTGdidlZmSTdaZUlscUdnUjRQbGNBTWxTcGh1SFNsbzBGZUFmQkhpSUdVdjYyZDQ0ZXBHdm1FVmNuSWc1cmRpMjgzeTBfR2hrenBSbnhDbnNJQ1ZB?oc=5"
-    }
-   ],
-   "score": 39.3
-  },
-  {
-   "id": "8863e0801b",
-   "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/expectativas-de-inflacao-para-2027-e-2028-saltam-apos-segundo-turno.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-31T16:53:51+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Expectativas+infla%C3%A7%C3%A3o+para+2027+2028+saltam+ap%C3%B3s+segundo+turno",
+   "busca_video": "https://www.youtube.com/results?search_query=Ita%C3%BA+eleva+previs%C3%A3o+infla%C3%A7%C3%A3o+2027+para+6%2C1%25",
    "veiculos": 6,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Instagram",
-     "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5"
+     "veiculo": "Vero Notícias",
+     "titulo": "Mercado projeta inflação de 5,3% para 2027 após eleição",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVpGS3pVS3RySXhnNjczOUE0N0x6N1lMYng0NUQzdEJVeGFRUWMwN0FZYWJ0RUJaMG9rT2hSTjZ4bVVCR0JxQ052anZSTXBnY2hSc29RZHVvZXdQWkFORmtfRDlGelp5eEp2bkVPd2IwOVl4eGhPbndDQmZIT01kRnVHczdwV0pfRXQzeFE3QW1yZw?oc=5"
     },
     {
-     "veiculo": "Instagram",
-     "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5"
+     "veiculo": "Vero Notícias",
+     "titulo": "Mercado projeta inflação de 5,3% para 2027 após eleição",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVpGS3pVS3RySXhnNjczOUE0N0x6N1lMYng0NUQzdEJVeGFRUWMwN0FZYWJ0RUJaMG9rT2hSTjZ4bVVCR0JxQ052anZSTXBnY2hSc29RZHVvZXdQWkFORmtfRDlGelp5eEp2bkVPd2IwOVl4eGhPbndDQmZIT01kRnVHczdwV0pfRXQzeFE3QW1yZw?oc=5"
     },
     {
-     "veiculo": "Instagram",
-     "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5"
+     "veiculo": "Mais Goiás",
+     "titulo": "Após reeleição de Lula, mercado eleva previsão de inflação para 5,3% em 2027",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa196MlVlSXlMOHdUT1ZoRlB1NzNBM051S3NEUnpzMzFMZkgtaC1IVDNEOVRWNG40VUdkYmtPRGxRZGxxdnBLSFVqTVRIMHlwSmxWRUVaRDUza1IyczN2d2hKdGFfLWhhTDk4SUFDWWg1eEVGZjVPcVBJRkR4U1JObUtkOHpWam1EcXhSVw?oc=5"
     },
     {
      "veiculo": "Mais Goiás",
@@ -405,7 +231,96 @@
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa196MlVlSXlMOHdUT1ZoRlB1NzNBM051S3NEUnpzMzFMZkgtaC1IVDNEOVRWNG40VUdkYmtPRGxRZGxxdnBLSFVqTVRIMHlwSmxWRUVaRDUza1IyczN2d2hKdGFfLWhhTDk4SUFDWWg1eEVGZjVPcVBJRkR4U1JObUtkOHpWam1EcXhSVw?oc=5"
     }
    ],
-   "score": 37.8
+   "score": 40.8
+  },
+  {
+   "id": "2a95fb6860",
+   "titulo": "Ibovespa cai mais de 18% na semana e tem pior resultado desde 2020 | #SBTBrasil",
+   "url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
+   "veiculo": "SBT News",
+   "publicado": "2026-10-31T14:21:00+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+cai+mais+18%25+semana+tem+pior+resultado+desde",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Diário 360",
+     "titulo": "LULA \"VENCE\" E MERCADO DESABA: BOLSA PERDE 18% E DÓLAR DISPARA 9%; PIOR SEMANA DESDE MARÇO DE 2020",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVEw2M0FYYWctVExsZWxhUFJVdDlBeTZyVUJoZmFsQmREWUNJUGR4ZmdLVnBPdi1valRQZ3hYVTJ1LUFfUkpjY0F6ZlpCTzAyeFBjTkVzai1SM2ZLdlE5VHZNMFVFaHd6UVljQm1MWldZNER3Y1RRTGFCN2U0MXJMdThiR1MwZmRMNVR1eWxJQTkyZWI4MnlTbzN5eFV0Y09lWXpISnBfTEFENFQ2WUx6eEtwYXdWNkdkRXpEQmlSMU4yZWptWEtZYw?oc=5"
+    },
+    {
+     "veiculo": "O Petróleo",
+     "titulo": "Dólar dispara, Bolsa desaba e mercado já teme juros altos por mais tempo no Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDhwRzZTd1BVbDlhZkd2S003TXFGQW03WW5TWGtJejExTEdmMDZRVmc2WTZnMHFMYVhJenJoTlNFX2xKdTYyNW8zOUdIaDFUb2I3ODRjLW0zLTh0RjZsWWVNd2JoWC0tWGZTODNCcFFuUEdiWXBRLXZzMGNPV3BXZzlNRnVwZExnMmZkZU1sZWFmWlNEMmlGVTNadlFyc2d6UHFLUmpfUnJYRVE?oc=5"
+    },
+    {
+     "veiculo": "Natal em Foco",
+     "titulo": "Dólar dispara 9% após eleição e Bolsa registra pior semana desde 2020",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzFHZkU4LXpyVDgtN0l3RFBpT1FzR1d2XzE0UllzZG40TUw2M1U3bEhUSUNxZ0xwTDNlREtZMzhZODVZMUExVTFJX2xDSVUzcVl3U3VVOUdyeTV6Q1o2UjFBSmJ4Q0o1dFE3M3JEZGFkSl9MS2dVUnQ2RkdMMmw1dXF0ZDZOVlFnYVJ6ckVNQXhSUF93b09RR1cxYm4xWEExNFBhbkg3R2NpVjZUc2c?oc=5"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "B3 perde R$ 948,8 bilhões em valor de mercado em uma semana",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWNBMHhyVlJMTXVJM1JRNWtuN2QzMDEzYWdIekRfblRtcWphOW1HSFRWdXk3M18tWGgtQ2RCSnlGZVp4UmJIWFJYZGhuMnFBZHpFc1RWRm43dVd0Z3pGME1Mc0hlTnVPdjJYTnR3dU5VM3BiUU5PeDVfaU9tZU5ZZFBFbVhnMjZrQ3VoZnZ6SUxadVpUclRjMU9BMllzV25MVUZV?oc=5"
+    }
+   ],
+   "score": 40.5,
+   "video_url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
+   "video_canal": "SBT News",
+   "video_por_hora": 139,
+   "video_acima_mediana": 0.2,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Ibovespa cai mais de 18% na semana e tem pior resultado desde 2020 | #SBTBrasil",
+     "url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
+     "por_hora": 139
+    }
+   ]
+  },
+  {
+   "id": "f9580d74e5",
+   "titulo": "Chilli Beans faz pedido de recuperação extrajudicial com dívida de R$ 340 milhões",
+   "url": "https://c-level.folha.uol.com.br/negocios/2026/10/chilli-beans-faz-pedido-de-recuperacao-extrajudicial-com-divida-de-r-340-milhoes.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-31T18:02:14+00:00",
+   "temas": [
+    "economia"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Chilli+Beans+faz+pedido+recupera%C3%A7%C3%A3o+extrajudicial+com+d%C3%ADvida+340",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Expressão Rondônia",
+     "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjU3d1ZIcGdXZnF4NzFHd1Q2bUFRQ25XZU5XdVlfa2RidThmb3BLWkJ2TnNYMHNjT2xYOXlhVWtfV29UM001RTBIeHhHSXhPRUlDQ1BzTE1YdGxBNWV4Qjg1Sy1zdng0Y0pQLUFlMC1CR0pYdHVQeFFYU0JRaDZ5YUZ3Y2VJTlZfS1pPLWVUZnVBWFJBSEl6dmE2bFJpeWxiTUpNU1hDMS11VVlVNVBNVHNBYlY1NEFrOEdVZEVlMTIwT0dETnRjSU9YR0F5UQ?oc=5"
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+     "url": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml"
+    },
+    {
+     "veiculo": "Bnews",
+     "titulo": "Chilli Beans pede recuperação extrajudicial com dívida de R$ 340 milhões",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZG1ZUUtFOTJQbURlampSWllvdzJKLWlCZURlYVBXNkkyYnZ6dlBJT2tyVEZ1aUVlMFJ4ZzlYaHY5VWRKR3d3UHU0NVZaLTUtbVZ4LVVDeURPR3Jfel85b0JHWnQ4V0VybFNDbWxrRk9WeDdrNWNiTWNkNERfOEFCUlNydXplSzZBakxzSi1pazZ0al9HR2hLX3d0aTJ4NVp2YkJMRW9tN29PWmFwczAxUk5hTGpvQ1NFRkxfTmJ2ZGZscy0zLWNBdThEQTVlNzBLVlExNWNWdkdNUdIB3wFBVV95cUxPTVpDd3RIYjJCTW5jdkNfOEQ3U1ktdDhxY2lPUmUzRnZmeXZvOW12VUFqR0NmXzdqU1B0VHdHTUprQno4SHllUzNXUllIdE1LZWh4N1FQODNPREdwSVFyTjV4WE8zRTVJODZTcXlBQnV4YldmVFJkd2Job2tpaXRacGpmTEFVa3U0Vlphdm54Zk9FTzI3X19iSjgtYjdOb2tJYklsVVYxMGpSSmNEMXF6akZ4SWdrM0FaTkhkclE5WVdWWmxlNHZjYlM3WGZwTlo5LXBwUkg0d0tKaVZfcXg4?oc=5"
+    },
+    {
+     "veiculo": "Impactto News",
+     "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXdwckVNRzBhNkI3ZkRPdjJ5cmQ5ejhPd3FqNFhFeVdGQ0lOd0QxeTJ1amJLZUtOYXRBeWFQT1lrRFNtbTAyWTZ5SlRReHhmLVhNeHFsSl9hcWNIdVNaeDlFdlBrNk4zekU5RHRwbVBMaC1QbVFFZFZqdmJ6TkhVTU1BZ1prUkVLMFF3UWVFQWtIam5velZ5dHZmTnhRcHZOOHV2OWVTV2cwem1VQVF3MmF1bHNkb3NWbnF6eDNUYjRlSHJWSUE?oc=5"
+    }
+   ],
+   "score": 37.0
   },
   {
    "id": "350d8b3eb8",
@@ -441,10 +356,48 @@
     {
      "veiculo": "G1",
      "titulo": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcER2RWxZRU9kMFBZMDFyT1BHa3FRdmdqREJMc2VfWjNfelpOV3d5SHBwR1djT2FZUkRUTkFHRHJPQ1ZZZzh5aWVTamtmU2N3aEtqMmlOLS0zdVlrMXVqcjJ3Qk1FOXpnUFB5eEZJNW1QQVpCcHJxVEhOeDZENUwwUm40QmE3OERKNjRtNl9EMWl2VllqUXNzUG5YcDl5bnlZRS1r0gGjAUFVX3lxTE5wRHZFbFlFT2QwUFkwMXJPUEdrcVF2Z2pEQkxzZV9aM196Wk5Xd3lIcHBHV2NPYVlSRFROQUdEck9DVllnOHlpZVNqa2ZTY3doS2oyaU4tLTN1WWsxdWpyMndCTUU5emdQUHl4Rkk1bVBBWkJwcnFUSE54NkQ1TDBSbjRCYTc4REo2NG02X0QxaXZWWWpRc3NQblhwOXlueVlFLWs?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUJ5akJGX0huLTNTeldzT2VKVmFZOU1salpVZ214bEh6UVdLdGNGdDRvMi0zUU1BNDN4N0VKd2xpcVBZMi0tRldVVGQ3b1RCRHRuYlVEdDV4b3lBUXBpRHdLajFSd1pjOFk3X0twNUdqVDVpdDlzWEtpM2l6ZlFjVjh2b2lRLUt0YUJxN2c4X0FnS0Vu0gGjAUFVX3lxTE5wRHZFbFlFT2QwUFkwMXJPUEdrcVF2Z2pEQkxzZV9aM196Wk5Xd3lIcHBHV2NPYVlSRFROQUdEck9DVllnOHlpZVNqa2ZTY3doS2oyaU4tLTN1WWsxdWpyMndCTUU5emdQUHl4Rkk1bVBBWkJwcnFUSE54NkQ1TDBSbjRCYTc4REo2NG02X0QxaXZWWWpRc3NQblhwOXlueVlFLWs?oc=5"
     }
    ],
-   "score": 35.7
+   "score": 35.4
+  },
+  {
+   "id": "2ba0ca7290",
+   "titulo": "Oncoclínicas (ONCO3) consegue apoio de credores para avançar com plano de recuperação de R$ 5,7 bilhões",
+   "url": "https://www.seudinheiro.com/2026/economia/oncoclinicas-onco3-consegue-apoio-de-credores-para-avancar-com-plano-de-recuperacao-de-r-57-bilhoes-bdap-lmrs/",
+   "veiculo": "Seu Dinheiro",
+   "publicado": "2026-10-31T14:00:00+00:00",
+   "temas": [
+    "economia"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Oncocl%C3%ADnicas+ONCO3+consegue+apoio+credores+para+avan%C3%A7ar+com+plano",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Oncoclínicas (ONCO3) consegue apoio de credores para avançar com plano de recuperação de R$ 5,7 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRS1hOEUzemFCSHBGbTdmUlBjanM4bm5KUEFoSXgyWXRaZXRieWdxS0RhUVVHSVM1clJJS2hGWXpBeGQzYWRPODR4OHdxb0NQbTRjU3FvMzhjMDRmemI2QmE3ZEppY29sREhRdTBWVkxOVU4tUDNaSVhjYUtGMWdlR01qaHRKMkhicjhQRDB2dFVYTTB0ZER2MFRhOXdBQWhQTWt6VXFndlM4U0dPRlVIQkRGaDJLekNLQ1dMQWN2WDU1ZWR3YTYtcm9xSk1zMkZWMGhPLS05M1JlUmRILW9EOElNeXhISEU?oc=5"
+    },
+    {
+     "veiculo": "PAIPEE -",
+     "titulo": "Oncoclínicas conquista apoio de credores para aprovar recuperação extrajudicial",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVVEcVBXOHpwcmRxNzcwcE9LT0VUcEhQejE2OEtueHpZSUlwaHRxREx6dHNCUy0yV3BkY3J5NU4yaXBhdC1zNGdIdmNlWUQ4V3RQb1hKTkpSVHllVE9SVTVEMk84bG9qbWxwU3VTbHhxYlpJLVBiM2l1UXR1bjViU0d3Vm9JODBxVnd1ek40aUxnRGNiNkhwb1JuV1g4eElOZVhNNXhHWWJ1MmVVT2p5YkdoMA?oc=5"
+    },
+    {
+     "veiculo": "PAIPEE -",
+     "titulo": "Oncoclínicas conquista apoio de credores para aprovar recuperação extrajudicial",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVVEcVBXOHpwcmRxNzcwcE9LT0VUcEhQejE2OEtueHpZSUlwaHRxREx6dHNCUy0yV3BkY3J5NU4yaXBhdC1zNGdIdmNlWUQ4V3RQb1hKTkpSVHllVE9SVTVEMk84bG9qbWxwU3VTbHhxYlpJLVBiM2l1UXR1bjViU0d3Vm9JODBxVnd1ek40aUxnRGNiNkhwb1JuV1g4eElOZVhNNXhHWWJ1MmVVT2p5YkdoMA?oc=5"
+    },
+    {
+     "veiculo": "YacoNews",
+     "titulo": "Oncoclínicas obtém apoio de credores para aprovar recuperação extrajudicial",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNTlCYUJjSi14OTdQdkM1Z2lrQnI1bW1MRWpGcUV3NmxNX2o0b3RQRWZEbDhVSlZGRjFpYVdQZzY5V2JHSFQ0eGxzbkRET3BPbjVzWmdQWVQ4X3ZIOHRPUnlsSUFMLVZTdlRxUGJQT1lsSUJaVk40akFRYkVKVWtOUkUtUXJIREhJNTFwSkZSVzl1anY0WDZQTGNfclQ0VmhFMHl2eVJn?oc=5"
+    }
+   ],
+   "score": 35.3
   },
   {
    "id": "b925b6b881",
@@ -472,143 +425,31 @@
      "url": "https://www.youtube.com/watch?v=WCvI3TfiUak"
     }
    ],
-   "score": 33.9,
+   "score": 33.6,
    "video_url": "https://www.youtube.com/watch?v=6f5LB8Vh-ik",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 81692,
-   "video_acima_mediana": 69.2,
+   "video_por_hora": 61791,
+   "video_acima_mediana": 50.1,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "FLÁVIO BOLSONARO CRITICA RESULTADO DAS ELEIÇÕES | JORNAL DA MANHÃ - EDIÇÃO SÁBADO - 31/10/26",
      "url": "https://www.youtube.com/watch?v=6f5LB8Vh-ik",
-     "por_hora": 81692
+     "por_hora": 61791
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Flávio Bolsonaro volta a questionar resultado das eleições de 2026",
      "url": "https://www.youtube.com/watch?v=GJWmkNgbEDU",
-     "por_hora": 6667
+     "por_hora": 6286
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Sem provas, Flávio Bolsonaro volta a falar em fraude nas eleições | Jornal da Noite",
      "url": "https://www.youtube.com/watch?v=WCvI3TfiUak",
-     "por_hora": 4846
+     "por_hora": 4571
     }
    ]
-  },
-  {
-   "id": "2ba0ca7290",
-   "titulo": "Oncoclínicas (ONCO3) consegue apoio de credores para avançar com plano de recuperação de R$ 5,7 bilhões",
-   "url": "https://www.seudinheiro.com/2026/economia/oncoclinicas-onco3-consegue-apoio-de-credores-para-avancar-com-plano-de-recuperacao-de-r-57-bilhoes-bdap-lmrs/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-10-31T14:00:00+00:00",
-   "temas": [
-    "economia"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Oncocl%C3%ADnicas+ONCO3+consegue+apoio+credores+para+avan%C3%A7ar+com+plano",
-   "veiculos": 6,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Oncoclínicas (ONCO3) consegue apoio de credores para avançar com plano de recuperação de R$ 5,7 bilhões",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRS1hOEUzemFCSHBGbTdmUlBjanM4bm5KUEFoSXgyWXRaZXRieWdxS0RhUVVHSVM1clJJS2hGWXpBeGQzYWRPODR4OHdxb0NQbTRjU3FvMzhjMDRmemI2QmE3ZEppY29sREhRdTBWVkxOVU4tUDNaSVhjYUtGMWdlR01qaHRKMkhicjhQRDB2dFVYTTB0ZER2MFRhOXdBQWhQTWt6VXFndlM4U0dPRlVIQkRGaDJLekNLQ1dMQWN2WDU1ZWR3YTYtcm9xSk1zMkZWMGhPLS05M1JlUmRILW9EOElNeXhISEU?oc=5"
-    },
-    {
-     "veiculo": "PAIPEE -",
-     "titulo": "Oncoclínicas conquista apoio de credores para aprovar recuperação extrajudicial",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVVEcVBXOHpwcmRxNzcwcE9LT0VUcEhQejE2OEtueHpZSUlwaHRxREx6dHNCUy0yV3BkY3J5NU4yaXBhdC1zNGdIdmNlWUQ4V3RQb1hKTkpSVHllVE9SVTVEMk84bG9qbWxwU3VTbHhxYlpJLVBiM2l1UXR1bjViU0d3Vm9JODBxVnd1ek40aUxnRGNiNkhwb1JuV1g4eElOZVhNNXhHWWJ1MmVVT2p5YkdoMA?oc=5"
-    },
-    {
-     "veiculo": "PAIPEE -",
-     "titulo": "Oncoclínicas conquista apoio de credores para aprovar recuperação extrajudicial",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVVEcVBXOHpwcmRxNzcwcE9LT0VUcEhQejE2OEtueHpZSUlwaHRxREx6dHNCUy0yV3BkY3J5NU4yaXBhdC1zNGdIdmNlWUQ4V3RQb1hKTkpSVHllVE9SVTVEMk84bG9qbWxwU3VTbHhxYlpJLVBiM2l1UXR1bjViU0d3Vm9JODBxVnd1ek40aUxnRGNiNkhwb1JuV1g4eElOZVhNNXhHWWJ1MmVVT2p5YkdoMA?oc=5"
-    },
-    {
-     "veiculo": "YacoNews",
-     "titulo": "Oncoclínicas obtém apoio de credores para aprovar recuperação extrajudicial",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNTlCYUJjSi14OTdQdkM1Z2lrQnI1bW1MRWpGcUV3NmxNX2o0b3RQRWZEbDhVSlZGRjFpYVdQZzY5V2JHSFQ0eGxzbkRET3BPbjVzWmdQWVQ4X3ZIOHRPUnlsSUFMLVZTdlRxUGJQT1lsSUJaVk40akFRYkVKVWtOUkUtUXJIREhJNTFwSkZSVzl1anY0WDZQTGNfclQ0VmhFMHl2eVJn?oc=5"
-    }
-   ],
-   "score": 32.6
-  },
-  {
-   "id": "d2a7e0517e",
-   "titulo": "Ministro do Trabalho pede que MP acione Nikolas por \"boicote\" a petistas Vídeo",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVRvN1EyZzJScXBTVkRJSkJBaDNhOTBfRUVINUlfZlVvX2RucFlOeUZDOWN5QXhzTEpIeW5Sb241TGJlQnZzNG1RRUE5RnllWEJVUGltQ3YzTzI0UkdJVnhSZTRlZ2xtYzBFNHpfSFQxa3hyVVdtTGdObFpjWVIzNTFvT2RscU5GRWgzUDZXS09jR3d6a3ZrVU1mN1JfSElOdWpoZmJFYXFPb2J4S2I5OXE3VkpoNHZDc2R1QkJn?oc=5",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-10-31T10:53:29+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ministro+Trabalho+pede+que+acione+Nikolas+por+boicote+petistas",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Portal Salvador FM",
-     "titulo": "Nikolas propõe boicote a comerciantes; ministro do Trabalho pede ação do MP",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlQ5VVEwYnhxd2JwWUI3WXpVTUc3MUVjWF9wR2c2THBMUW1ZRjBEQ0Z6X1dXSmQzdW13SG9SVlItUGFOVjFWdVEwQzhXekNySnh2WGxXeVY5UWVkdUdwSUs2YjMzWlVSUXRtNWxrTUI4cDBScUxjYkpsMlJ0clYzUmttcm15SVNQV0xSYUhkd2VMVmxPb3A1eGRIVjRyN1dScEZBajJNUndHcndIS3RxR1RmWEIxSDUzRldkdw?oc=5"
-    },
-    {
-     "veiculo": "Diário do Centro do Mundo",
-     "titulo": "Ministro do Trabalho cobra MP contra Nikolas por incentivo a boicote de petistas",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmctWmtXSVhmc2FfWFE1Q1J5aTJnUXJrU3FWNDItR0ptZTZUM2Z3UjlyY05hOHdhVkVKLTJUWTNZTUZjVXloclQxSVpfR25FRDBPOGhWX0E5RGU3aVZTZ2xFQ19RdWhlWWIwem1uc1B2OF84TjVUT3A5YThUanJRZFBlaUhUZUpkZGtkQ0cyZURpU1UwYjEtc2lfRjNFeUFhU29qbVV6VHFnbUtOdkpibzlydzk5a3JkVmh4WGE4cw?oc=5"
-    },
-    {
-     "veiculo": "BNC Amazonas",
-     "titulo": "Ministro pede que MP avalie medidas contra Nikolas por ‘boicote’ a petistas",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNl85SGdyaExsMVdybHdZZ1ZvZ1hMWUJQRnJBV3F3SDBkRThIZ0VUUmNMUU9Wd2dtZm1rZTR3N1VEMWRCNk40NFlXQ0l1cVZuOVhiZ3AxZF9FdEdtZ0loYkkxeXV4VnpsSlFSQVRnSS03ZFZCTWktcFBwdndLZ2NLdWRVVnFCeVh6QUJQVldqRmNkMHFXYmJ2LWZHRTVOUUJMUUZEVkdxc0gyX2UydjNqbWF3?oc=5"
-    },
-    {
-     "veiculo": "Brasil 247",
-     "titulo": "Luiz Marinho pede que MP acione Nikolas Ferreira por boicote a petistas",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkIxOGItVGYyTjJuTmVaYkl0bWoxWGJFQ3h0dkFHSGpTRk5DQllvN0pJeHBDWGFqUnU4a2JON1N4QjlicW9wcGl6WlVVdjZGVm1xem41U0hObzZpUDVvNGxQd18yNEEzZnM2eUxPR3JWLXRjcTB2TkRhRDVrQzZveTlLcnc0c19KcTZqZmE4bi02LW1TVm83dWxhUjlNSTVTd3FzV204aVA?oc=5"
-    }
-   ],
-   "score": 32.3
-  },
-  {
-   "id": "b256de6afd",
-   "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUVMYmlUeE1aenowYkFFQlR0N1Nlb3hjYmFBNnBtQUlKTTVxSzRkUXFaWUpEME9RUE54eGlITE5za1NHZl9QZDJ4TG5FWU1aRnZnYWx6NEVfZXltNmJ5Z1JaTTlwcmxPenpMYzhXcHNkeWpJN1d5bEQwTXRkTW00d3lDTVJPZEtpdlhkenpNd3hIMlNmMHdmMzRDYUxnOXItR09MOVJGX19yQjVVWG5ONjloTQ?oc=5",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-31T12:35:51+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+reavalia+riscos+fiscais+ap%C3%B3s+queda+18%25+Ibovespa",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Cruzeiro FM",
-     "titulo": "Mercado reavalia cenário fiscal após queda de 18% do Ibovespa",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMy1pbTctUFRVZkVCNWtXYlhPWEdhOFM0VmdycjkybXVoakhoVE5pYWZ2RU14UXZ1eGhDd0g1cndnRUJyZk5tcnBHeG9Ha0hqb3pIZzkycEp1Uk9XUHJ1dzRxal9ZbEJuTXgzSHZwak9ZRGVxZnQzR3hRTGQyMmFvTXVvUWd5VWJ5c1FGamZ4VDg2d1M2MDYxTWNzMkx1eDE5eWJJNnRWeXptNzl4dGRYdw?oc=5"
-    },
-    {
-     "veiculo": "Repórter Diário",
-     "titulo": "Ibovespa cai pela 5ª vez com temor fiscal e externo, rumo à queda histórica semanal",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmxnb1cxMVFJdnE4QkE0MWQ2TUw0NFRuWFc3Zzh3dFhzV05yMnhVbVNzRThDaWZreGNEdU1NRjdzZG81dXlpanlpRzJnMldqbjFDRVAxSkhlT3NEaUFtTTlXNzRXNEJWampieVl2S01BSlRlUFExT0VDbTM2VG8xU3l2czI2MWpWeTEtYTU0dklaR1R0SGlPbXR4WmNmTW45N0Z1ejBxQmpJZ190dGszMTdRaVJkeVFvQWpURzNJOUF3R0lhaEJTSU5pT3dRZw?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Ibovespa: mercado espera sinais fiscais de Lula após queda da Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlNlZ0c2TDFRTmp5a0h4TDBZRXR5Y2dlV1Npb1k0eGs3SEJTTGtoeFYxY1B5bEU1aF9LaU1RSDcwMG1vSTBuV2lTVHlhSmJZUjJ1eEFfcVl0bWJoUy1BLVNJbnZFWlFRblg4MHIzbFgwelhrTWJhQTdwWElYWURQc0paXy1UTzdBaDNLTkNfRlZiaDcwazAwTEtNVFpOd09i?oc=5"
-    }
-   ],
-   "score": 32.1
   },
   {
    "id": "adc856c9ca",
@@ -646,45 +487,48 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUNVZ0p6bkIyYXJteTE0bW9xcngtSHE0SWlhcnlqdnlOYXd0bENPQkVidTg2VHNjRngzeW1JcTdaeEdMN3M3UFZzY2ZWWWlTWGFSc3FrNks2Vi1zdjJZcUd0Q013Nkc2YzNLRjgtcXhuV3o2aExHOG1JZHBUYzF4S3FrVlFnNGR1YlkxOTh3YUFJUzc3bXAxMVBfajRyMTM5czdXM2VpaWNjQ3JBWVY3amFGakU?oc=5"
     }
    ],
-   "score": 31.4
+   "score": 31.0
   },
   {
-   "id": "21411fd8b1",
-   "titulo": "Nikolas Ferreira critica projeto do PT sobre discriminação política",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNlo1VFFnTG9UZFUwb3hPa3BQWmczcVBZejhqRkx5MkhzOUN3dEM1QS1hX0dlRWd1Z3NydnBSNDlwRFZTbFg5Vlg3RWo2QzBkYkl4TllNcXRwQWxlODJtVF9zQW5lTFlWUXFHU3JIdnBwRzJmQ3FqZWdoYTVmODV3OEo3aW16MktPQ1N5VFNkNjQ4d2ljLXVsZmM3cld6TFZUaE1DMDJtOXFrREhmUERSaUFR?oc=5",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-31T15:11:17+00:00",
+   "id": "c63d7c2d38",
+   "titulo": "Ibovespa tem pior m�s desde junho de 2022; d�lar sobe 5,22% em outubro",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/30/ibovespa-tem-pior-mes-desde-junho-de-2022-dolar-sobe-522-em-outubro.htm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-10-31T15:32:30+00:00",
    "temas": [
+    "comportamento",
+    "economia",
+    "mercado",
     "politica"
    ],
    "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+critica+projeto+sobre+discrimina%C3%A7%C3%A3o+pol%C3%ADtica",
-   "veiculos": 8,
-   "rotina": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+tem+pior+desde+junho+2022+lar+sobe+5%2C22%25",
+   "veiculos": 25,
+   "rotina": true,
    "outras": [
     {
-     "veiculo": "BossaNews Brasil",
-     "titulo": "Nikolas Ferreira critica proposta do PT que criminaliza discriminação política",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkdud29JcXdMdkZjV1pia2hMOVBjWEtMT0hNVUEzSi1TTURQSWZIa1BEaDk1eWF1ZXlMYUtrMzY4NUViWlhxZFRMeC1NaEdkbTMzSjh4X18xSFdMSGlqd0t6czk3aUdGU1l5b0M1cWhHWHlMV2dDd0ZjWmlLMXpPNnY3c2UwdXVkZ0U2djBKMkZLYXVOcjdaWHJSMlNsS0Jfa3hXbVJEcw?oc=5"
+     "veiculo": "Acia Araçatuba",
+     "titulo": "Ibovespa em outubro de 2022: pior mês desde junho",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQVpVNkdiMGxyTGpMRU5VZHYzQW1KazNqLXF4WVdhLXgtYVZrMjF0RVFmNFJUSnlPOUdUbDlpNnNSU1BNQkFaMG5wZG1LYmh5ZW5TVUt5NGZRSHJ3UXZzS2dtNHFTNzF1TjhmM0NsbXp1QVZYWDUyM3dpMA?oc=5"
     },
     {
-     "veiculo": "Vero Notícias",
-     "titulo": "Nikolas contesta projeto do PT contra discriminação política",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjZOOUZTWVVjV3pBVlViTkJqZ0QtMUM0OUlCMWE3SW5oZHdQM2NDV2QtSGFtUGYyRjFSYWZ0UE1fdTVoeTBCTnJoMVhGX2JtV19vVHVCc0dxOThpWDd6RkdmdjJHYzhMN05kVlB4SjNHOHlOQUhLTUJnVXlGOE4xSTlyOUgtR1daSkxSTENkR1B0OTNaWS1RRk9LTQ?oc=5"
+     "veiculo": "brazileconomy.com.br",
+     "titulo": "Efeito Lula faz o Ibovespa cair 9,88% em outubro, pior mês desde 2022",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQm9TcFh2N2xrWVJtWS0tZFBKeXNjYTZWVWtTcVJRN25mREhWQS1nRF9mUl9LaktZcGFDbzNoVUVkWC11UVY1b3dTSEF0SzNmcTEwT0hPQ2xBNmVTUWZuNGxJVjJWNDRmd2liSG05WXc4RlY1OExyVmpOR0l5Sy0yakJpeXBXQXlRY3ZfM3EtX0RNMEdvNlgwU050bXdmc0l6MjQyM003ZHBnMFhKN1c0a3hzSQ?oc=5"
     },
     {
-     "veiculo": "OCP News",
-     "titulo": "Nikolas Ferreira critica projeto do PT que prevê até seis anos de prisão por discriminação política",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaE54ZXkwazlHZE5PYXByOW5pTVJFTDdJbTVsTy1JMkhqTHU1QWhZNy1LUGlneV94WmVfMXNUM2FoSmtycFlkTU5aejk5UE5JMnVrTENtdkxEaHREYjkwMEdXWE9uOHcyejBkN2swajA3NHgtVS1KcWk2TnZVVmk0TzBBY1Iwakt2bW1TeUdwaUFHaGJza21nWEh6MGd2QlpsYkVPRkZNNlBHS1I2eXlsNHkyT3pNMEdBMnBZREtnTXpJeEE?oc=5"
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Ibovespa cai 18% na semana e tem pior resultado desde 2020",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFM2VmRSRTR3OENHamdQV3BYa21rMUU1UkxHT3NxTjlteFZfRko4UkU0QnBaQUhZekRlT1BfSjN6a3lmMkhBaGpMR2Q5cTctcC1CTDU0bkd6M0d5WHJYQU8zUFN3bGYtb0JLX1JPcWZXWTFYWlhhVjZpc3dnemd6azFMVFRZSE5OXzI0dVItaU5ZNEpvR29SOGJtZjVMLWpLMmRrUWN5TDhNdG13aVVGRVFuVVc?oc=5"
     },
     {
-     "veiculo": "O Republicano",
-     "titulo": "Nikolas dispara contra projeto do PT sobre discriminação política",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM3VoZy1NakxsbHRwdzFDZkhLdEtFWEVQeE9DbHJEbU5kNnhwSkRaYjZLOFFzWC1PV3ZIdm5hMlQzejJJYlBlMllmX01UcVloU0MtbGdrS2lfRU81RWZfSWx1eVNkX3lxbHlEd2NsUXJVY0FwdUd4cHB6S19XMGNIZ2NJdENhRU54aWJ6aGhNZEExUC1VcHVUNC1CalFKcWhvR2N6NFEwSTBtU25adXk1MNIBtgFBVV95cUxPTXBoMTcyRWVfeU1ReXRacVJJTnBNcWJoY2ZCd1BXelBvaFB0R3RlN0xPWS1VcVpGelRzNG9BU1I1SVZzeWdHaHZRZ1VMczZOcGFhZThqT3dZbUZtZ1NDWGoyUHc4RG1mLVI5QzlIcFg2S2FmMjNvaWYzY1RIWF9YLVJsRDZGakVWcWYzTFhoTEpTLXNuZ2wtSk53azRuN1ZDY0pzZzF4a1o0MTlVaF9DZEV3cVJCUQ?oc=5"
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Ibovespa cai 18% na semana e tem pior resultado desde 2020",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFM2VmRSRTR3OENHamdQV3BYa21rMUU1UkxHT3NxTjlteFZfRko4UkU0QnBaQUhZekRlT1BfSjN6a3lmMkhBaGpMR2Q5cTctcC1CTDU0bkd6M0d5WHJYQU8zUFN3bGYtb0JLX1JPcWZXWTFYWlhhVjZpc3dnemd6azFMVFRZSE5OXzI0dVItaU5ZNEpvR29SOGJtZjVMLWpLMmRrUWN5TDhNdG13aVVGRVFuVVc?oc=5"
     }
    ],
-   "score": 31.1
+   "score": 30.9
   },
   {
    "id": "25a0f51ba6",
@@ -701,57 +545,58 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 31.1,
+   "score": 30.7,
    "video_url": "https://www.youtube.com/watch?v=NdwfnLU7ddQ",
    "video_canal": "UOL",
-   "video_por_hora": 59347,
-   "video_acima_mediana": 23.7,
+   "video_por_hora": 56248,
+   "video_acima_mediana": 13.7,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Lula deve defender pacificação em discurso; Tebet é cotada para o STF; reunião entre EUA e Brasil e+",
      "url": "https://www.youtube.com/watch?v=NdwfnLU7ddQ",
-     "por_hora": 59347
+     "por_hora": 56248
     }
    ]
   },
   {
-   "id": "1fb2e3c940",
-   "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0pLU0F1Q3djUzk3bDlxckFrMjZQbGtVV0tuZG1TeUdlNEQzaGRRQVU3OUtBU0diMEpyNlVTOW8zbWE0T2Z1X3NzMmxyRU5mck0zeHR4bWs2SFA5cGJwRkdONndNc0lPeTB1Uy1TeGZTam9WQ0djalhfNkx4Q2RBWHZiSld0bXE2WmJGazBoSEEwTllyMmZha0tRZ0pWclZhQ09vVGVsM2ZMbzNzbHdVVA?oc=5",
-   "veiculo": "Exame",
-   "publicado": "2026-10-31T16:45:00+00:00",
+   "id": "ed603ecb64",
+   "titulo": "Itaú corta projeção de PIB de 2027 para 0,5% e eleva IPCA para 6,1%",
+   "url": "https://valor.globo.com/brasil/noticia/2026/10/30/ita-corta-projeo-de-pib-de-2027-para-05-pontos-percentuais-e-eleva-ipca-para-61.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-10-30T22:45:00-03:00",
    "temas": [
-    "economia"
+    "economia",
+    "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Chilli+Beans+pede+recupera%C3%A7%C3%A3o+extrajudicial+para+renegociar+d%C3%ADvida+340",
+   "busca_video": "https://www.youtube.com/results?search_query=Ita%C3%BA+corta+proje%C3%A7%C3%A3o+PIB+2027+para+0%2C5%25+eleva+IPCA",
    "veiculos": 5,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Bnews",
-     "titulo": "Gigante do varejo pede recuperação extrajudicial com dívida de R$ 340 milhões",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZG1ZUUtFOTJQbURlampSWllvdzJKLWlCZURlYVBXNkkyYnZ6dlBJT2tyVEZ1aUVlMFJ4ZzlYaHY5VWRKR3d3UHU0NVZaLTUtbVZ4LVVDeURPR3Jfel85b0JHWnQ4V0VybFNDbWxrRk9WeDdrNWNiTWNkNERfOEFCUlNydXplSzZBakxzSi1pazZ0al9HR2hLX3d0aTJ4NVp2YkJMRW9tN29PWmFwczAxUk5hTGpvQ1NFRkxfTmJ2ZGZscy0zLWNBdThEQTVlNzBLVlExNWNWdkdNUdIB3wFBVV95cUxPTVpDd3RIYjJCTW5jdkNfOEQ3U1ktdDhxY2lPUmUzRnZmeXZvOW12VUFqR0NmXzdqU1B0VHdHTUprQno4SHllUzNXUllIdE1LZWh4N1FQODNPREdwSVFyTjV4WE8zRTVJODZTcXlBQnV4YldmVFJkd2Job2tpaXRacGpmTEFVa3U0Vlphdm54Zk9FTzI3X19iSjgtYjdOb2tJYklsVVYxMGpSSmNEMXF6akZ4SWdrM0FaTkhkclE5WVdWWmxlNHZjYlM3WGZwTlo5LXBwUkg0d0tKaVZfcXg4?oc=5"
+     "veiculo": "Folha",
+     "titulo": "Itaú corta projeção do PIB de 2027 para 0,5% e vê inflação acima da meta",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/itau-corta-projecao-do-pib-de-2027-para-05-e-ve-inflacao-acima-da-meta.shtml"
     },
     {
-     "veiculo": "Aliados Brasil",
-     "titulo": "Gigante do varejo, Marabraz entra em recuperação judicial com dívida milionária",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3hNNUwwNGVDSUFfM2h4RFZOVVNYcWs3OTM2eVVjRjhIU3lxTW1XdHk4eDJGcWdNS3BqM0JMV0Y2UXFXdkZOQXlOU2Ywc20tOGI0VTF6N28xbUJCdHR3cHJTVEFKemRaOGI3S3pBUHhWaGFUY3FmQ2hKSW4yNHdFM2JLU2VoTFBVTjk2TWlpYjRJaFh5S2tXLVR6STJiQlVCTDBPenVMUHE2Rk9nSEN1UGdudnY4Z0RXZVhVTm1iV1JCTkZq?oc=5"
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Itaú corta projeção do PIB de 2027 para 0,5% e vê inflação acima da meta",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXV5RF9PM1NkRXR4MktkX1JfdnREQTBtOVlWb0JwcFgyejFWemt6bmplSDJ5Qmsza1NZMXVBOWRRVjJfZThfT2M5d1IyUmY0SjduZXZ1MG8zLXZXZlNyUWV3TFJJQUdGQll2MVgwM0I2c2ZPOXV6RmFoVFdtd0FYNlNGekw1ZWd0TmFldDE5b1RlSWR2RjlnYjR4MWROaXpzaEpGeXE5RTA5S3U5SmkzQXJ2LThqU1ExbGlLX0ZGWQ?oc=5"
     },
     {
-     "veiculo": "Aliados Brasil",
-     "titulo": "Gigante do varejo, Marabraz entra em recuperação judicial com dívida milionária",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3hNNUwwNGVDSUFfM2h4RFZOVVNYcWs3OTM2eVVjRjhIU3lxTW1XdHk4eDJGcWdNS3BqM0JMV0Y2UXFXdkZOQXlOU2Ywc20tOGI0VTF6N28xbUJCdHR3cHJTVEFKemRaOGI3S3pBUHhWaGFUY3FmQ2hKSW4yNHdFM2JLU2VoTFBVTjk2TWlpYjRJaFh5S2tXLVR6STJiQlVCTDBPenVMUHE2Rk9nSEN1UGdudnY4Z0RXZVhVTm1iV1JCTkZq?oc=5"
+     "veiculo": "Valor Econômico",
+     "titulo": "Itaú corta projeção de PIB de 2027 para 0,5% e eleva IPCA para 6,1%",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlRmQkRoUHc1MDJrVl9BSi1weXVQSk9OMDhkUGl2VkpLSzRBZS1sclI1M3JkbkpCWVBPemdQSWJia0c0aEp6NkNYdGM1Vlo2VVlZLVh5SldITmFsZDJVMUliMXVCRHNGcUZVeThkSzdxTjN3Q1RzWjdZZ0ZWQVdiWkpKSzJfRUZ3d294cHo5OHNYT29xUDZoazN2WktYUFBfQ29rYkNheWRZR2hQejd2T0dITVFHbDJ6VUE3Y1FvMXhybERoWFYxNlphb2M5emFabWN4b2V4RXR0Qzl3b19n0gHfAUFVX3lxTE0yVGZCRGhQdzUwMmtWX0FKLXB5dVBKT04wOGRQaXZWSktLNEFlLWxyUjUzcmRuSkJZUE96Z1BJYmJrRzRoSno2Q1h0YzVWWjZVWVktWHlKV0hOYWxkMlUxSWIxdUJEc0ZxRlV5OGRLN3FOM3dDVHNaN1lnRlZBV2JaSkpLMl9FRnd3b3hwejk4c1hPb3FQNmhrM3ZaS1hQUF9Db2tiQ2F5ZFlHaFB6N3ZPR0hNUUdsMnpVQTdjUW8xeHJsRGhYVjE2WmFvYzl6YVptY3hvZXhFdHRDOXdvX2c?oc=5"
     },
     {
-     "veiculo": "Impactto News",
-     "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXdwckVNRzBhNkI3ZkRPdjJ5cmQ5ejhPd3FqNFhFeVdGQ0lOd0QxeTJ1amJLZUtOYXRBeWFQT1lrRFNtbTAyWTZ5SlRReHhmLVhNeHFsSl9hcWNIdVNaeDlFdlBrNk4zekU5RHRwbVBMaC1QbVFFZFZqdmJ6TkhVTU1BZ1prUkVLMFF3UWVFQWtIam5velZ5dHZmTnhRcHZOOHV2OWVTV2cwem1VQVF3MmF1bHNkb3NWbnF6eDNUYjRlSHJWSUE?oc=5"
+     "veiculo": "Valor Econômico",
+     "titulo": "Itaú corta projeção de PIB de 2027 para 0,5% e eleva IPCA para 6,1%",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2Z3RmoxTlhabkN2UkFVbFdhZ0JlLWhWekxRQ2M2M2dOSXBlU3lVNllIZ1FIZW5rQnlpQ0ZzVWtIYjlLMU1qYWpmY0NfU013dXJwQ053OTZZa3p4a2VvRGgzaDJpb2VtQVFiMkJWY1Q1MHdpSV8yVHNCLUx2THdJdG5EM2ZJcXFyY19NeTVPUVkwTUxUUFRqc0JHQWpsV0xRX2FMaUJyYWEzNTVOcDVETmhjZ0dZMFcwSkNSaVAzQUJQWUlGS0JoVExEaGdqdVF40gHfAUFVX3lxTE0yVGZCRGhQdzUwMmtWX0FKLXB5dVBKT04wOGRQaXZWSktLNEFlLWxyUjUzcmRuSkJZUE96Z1BJYmJrRzRoSno2Q1h0YzVWWjZVWVktWHlKV0hOYWxkMlUxSWIxdUJEc0ZxRlV5OGRLN3FOM3dDVHNaN1lnRlZBV2JaSkpLMl9FRnd3b3hwejk4c1hPb3FQNmhrM3ZaS1hQUF9Db2tiQ2F5ZFlHaFB6N3ZPR0hNUUdsMnpVQTdjUW8xeHJsRGhYVjE2WmFvYzl6YVptY3hvZXhFdHRDOXdvX2c?oc=5"
     }
    ],
-   "score": 30.8
+   "score": 30.2
   },
   {
    "id": "c318405332",
@@ -791,7 +636,7 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVd5TllIdEtGU3ZyamtUbDIyNFVCY3JMUy1EbWNwREMzTHUwYmNvVDlqX0d1U3ZoUGt6UndJdlg5Y1VLTzFNcG1mdTJwYUZpZC1OczZQc29wOW81OVhiRmViSGFtWjdndEhCbDg0ekNvcVVPVTF4V01lYUJwaDhWQlViZkk1S0xPUWUwNXE1MTNqWVZfR3o5Q0pXb3ljbU5vYmVWYlNpd3JFYVRDY01lUlJtZU1Jb3ZzdG1ubWlFaTZOdFdYVm1ZMWNxOU4?oc=5"
     }
    ],
-   "score": 29.9
+   "score": 29.6
   },
   {
    "id": "f5533b2e7a",
@@ -829,13 +674,54 @@
      "url": "https://valor.globo.com/empresas/noticia/2026/10/30/oncoclnicas-obtm-apoio-de-616-pontos-percentuais-dos-credores-e-avana-com-recuperao-extrajudicial.ghtml"
     }
    ],
-   "score": 29.8
+   "score": 29.4
   },
   {
-   "id": "b3ff1e5788",
-   "titulo": "Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5%",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzBQWVpRS003cFVVeWdzWG1LVUpIcmR6dkwyQk53dXZDMExyQzdSRnlhOWtGS1VLdFhNSXRGblF4QzktOG5ISG5KLXUzWm9TRms3WGl0U3M1bkR0NU8tRlBxMFNPQ3dtcWJ0dDl3aWNXS2RLOTNrT0E0OXhHSFBHSWhFTXFMbTE2QWVwdTY0WDlneTRXal9LMWU3a0Rmb0U1UlpFSmxNQ0pRUEk?oc=5",
-   "veiculo": "Poder360",
+   "id": "1e48ae71a4",
+   "titulo": "Lula estuda nomes para composição de seu quarto governo; veja | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=0rBfNcLH7E8",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-31T16:19:50+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+estuda+nomes+para+composi%C3%A7%C3%A3o+seu+quarto+governo+veja",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "LULA SEGUE CONVERSAS SOBRE NOVOS NOMES PARA O GOVERNO | CNN AGORA MANHÃ II",
+     "url": "https://www.youtube.com/watch?v=_30a8vgktmE"
+    }
+   ],
+   "score": 29.3,
+   "video_url": "https://www.youtube.com/watch?v=_30a8vgktmE",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 37770,
+   "video_acima_mediana": 31.8,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "LULA SEGUE CONVERSAS SOBRE NOVOS NOMES PARA O GOVERNO | CNN AGORA MANHÃ II",
+     "url": "https://www.youtube.com/watch?v=_30a8vgktmE",
+     "por_hora": 37770
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Lula estuda nomes para composição de seu quarto governo; veja | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=0rBfNcLH7E8",
+     "por_hora": 2200
+    }
+   ]
+  },
+  {
+   "id": "b4e99e338e",
+   "titulo": "Ibovespa acumula queda de 18% na semana e dólar sobe 9% no pós-reeleição de Lula",
+   "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+   "veiculo": "Valor",
    "publicado": "2026-10-31T15:50:18+00:00",
    "temas": [
     "mercado",
@@ -843,8 +729,8 @@
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+cai+9%2C88%25+outubro+d%C3%B3lar+turismo+comercial+avan%C3%A7am",
-   "veiculos": 11,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+acumula+queda+18%25+semana+d%C3%B3lar+sobe+p%C3%B3s+reelei%C3%A7%C3%A3o",
+   "veiculos": 16,
    "rotina": true,
    "outras": [
     {
@@ -868,88 +754,188 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUG5YTWZVblZJYVVwM3dSYWZKaEp4LVZ2M1ZMaGRnakZQbEVQZGgtd01SY2ZBT2RITEI4R1JYQWp0MkpLbmVmQ3A5R0lmbGpGTGpTWUlHVG0wRHoyM2ZzeGltcGozbVRLYU11emtvMXlINUpkV3pSMkJBa1dfOWxETHZKRjVDNGlXQkNQaF82QXIwS2JBWlJfdmd1NEY3NTVxSEVQZjk4RDM2akRn?oc=5"
     }
    ],
-   "score": 29.4
+   "score": 29.0
   },
   {
-   "id": "6ee1c39abe",
-   "titulo": "B3 perde R$ 948,8 bilhões em valor de mercado em uma semana",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWNBMHhyVlJMTXVJM1JRNWtuN2QzMDEzYWdIekRfblRtcWphOW1HSFRWdXk3M18tWGgtQ2RCSnlGZVp4UmJIWFJYZGhuMnFBZHpFc1RWRm43dVd0Z3pGME1Mc0hlTnVPdjJYTnR3dU5VM3BiUU5PeDVfaU9tZU5ZZFBFbVhnMjZrQ3VoZnZ6SUxadVpUclRjMU9BMllzV25MVUZV?oc=5",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-31T14:21:00+00:00",
+   "id": "d2a7e0517e",
+   "titulo": "Ministro do Trabalho pede que MP acione Nikolas por \"boicote\" a petistas Vídeo",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVRvN1EyZzJScXBTVkRJSkJBaDNhOTBfRUVINUlfZlVvX2RucFlOeUZDOWN5QXhzTEpIeW5Sb241TGJlQnZzNG1RRUE5RnllWEJVUGltQ3YzTzI0UkdJVnhSZTRlZ2xtYzBFNHpfSFQxa3hyVVdtTGdObFpjWVIzNTFvT2RscU5GRWgzUDZXS09jR3d6a3ZrVU1mN1JfSElOdWpoZmJFYXFPb2J4S2I5OXE3VkpoNHZDc2R1QkJn?oc=5",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-31T10:53:29+00:00",
    "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=perde+948%2C8+bilh%C3%B5es+valor+mercado+uma+semana",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Diário 360",
-     "titulo": "LULA \"VENCE\" E MERCADO DESABA: BOLSA PERDE 18% E DÓLAR DISPARA 9%; PIOR SEMANA DESDE MARÇO DE 2020",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVEw2M0FYYWctVExsZWxhUFJVdDlBeTZyVUJoZmFsQmREWUNJUGR4ZmdLVnBPdi1valRQZ3hYVTJ1LUFfUkpjY0F6ZlpCTzAyeFBjTkVzai1SM2ZLdlE5VHZNMFVFaHd6UVljQm1MWldZNER3Y1RRTGFCN2U0MXJMdThiR1MwZmRMNVR1eWxJQTkyZWI4MnlTbzN5eFV0Y09lWXpISnBfTEFENFQ2WUx6eEtwYXdWNkdkRXpEQmlSMU4yZWptWEtZYw?oc=5"
-    },
-    {
-     "veiculo": "O Petróleo",
-     "titulo": "Dólar dispara, Bolsa desaba e mercado já teme juros altos por mais tempo no Brasil",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDhwRzZTd1BVbDlhZkd2S003TXFGQW03WW5TWGtJejExTEdmMDZRVmc2WTZnMHFMYVhJenJoTlNFX2xKdTYyNW8zOUdIaDFUb2I3ODRjLW0zLTh0RjZsWWVNd2JoWC0tWGZTODNCcFFuUEdiWXBRLXZzMGNPV3BXZzlNRnVwZExnMmZkZU1sZWFmWlNEMmlGVTNadlFyc2d6UHFLUmpfUnJYRVE?oc=5"
-    }
-   ],
-   "score": 28.8
-  },
-  {
-   "id": "2a95fb6860",
-   "titulo": "Ibovespa cai mais de 18% na semana e tem pior resultado desde 2020 | #SBTBrasil",
-   "url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
-   "veiculo": "SBT News",
-   "publicado": "2026-10-31T16:01:16+00:00",
-   "temas": [
-    "economia",
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+cai+mais+18%25+semana+tem+pior+resultado+desde",
-   "veiculos": 12,
-   "rotina": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Ministro+Trabalho+pede+que+acione+Nikolas+por+boicote+petistas",
+   "veiculos": 6,
+   "rotina": false,
    "outras": [
     {
-     "veiculo": "Portal Guaíra",
-     "titulo": "Economia - Bolsa tem pior semana pós-eleição em 37 anos",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWROeEZjMnhvSGhPU3ZyLUVEaWtYd3NObm91c2htVl80MnRza1NLU3RJemsyT1liUVhUSDE5eWxmWnprZHpqdlE2S0R1U1pRRGlxSERuVDd5MHBNYjJ5cmdxS1BjUTR5WDZSZVNuUHZsQWVlNEJxazlqVUhDek1ldnVQY24?oc=5"
+     "veiculo": "Portal Salvador FM",
+     "titulo": "Nikolas propõe boicote a comerciantes; ministro do Trabalho pede ação do MP",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlQ5VVEwYnhxd2JwWUI3WXpVTUc3MUVjWF9wR2c2THBMUW1ZRjBEQ0Z6X1dXSmQzdW13SG9SVlItUGFOVjFWdVEwQzhXekNySnh2WGxXeVY5UWVkdUdwSUs2YjMzWlVSUXRtNWxrTUI4cDBScUxjYkpsMlJ0clYzUmttcm15SVNQV0xSYUhkd2VMVmxPb3A1eGRIVjRyN1dScEZBajJNUndHcndIS3RxR1RmWEIxSDUzRldkdw?oc=5"
     },
     {
-     "veiculo": "Natal em Foco",
-     "titulo": "Dólar dispara 9% após eleição e Bolsa registra pior semana desde 2020",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzFHZkU4LXpyVDgtN0l3RFBpT1FzR1d2XzE0UllzZG40TUw2M1U3bEhUSUNxZ0xwTDNlREtZMzhZODVZMUExVTFJX2xDSVUzcVl3U3VVOUdyeTV6Q1o2UjFBSmJ4Q0o1dFE3M3JEZGFkSl9MS2dVUnQ2RkdMMmw1dXF0ZDZOVlFnYVJ6ckVNQXhSUF93b09RR1cxYm4xWEExNFBhbkg3R2NpVjZUc2c?oc=5"
+     "veiculo": "Diário do Centro do Mundo",
+     "titulo": "Ministro do Trabalho cobra MP contra Nikolas por incentivo a boicote de petistas",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmctWmtXSVhmc2FfWFE1Q1J5aTJnUXJrU3FWNDItR0ptZTZUM2Z3UjlyY05hOHdhVkVKLTJUWTNZTUZjVXloclQxSVpfR25FRDBPOGhWX0E5RGU3aVZTZ2xFQ19RdWhlWWIwem1uc1B2OF84TjVUT3A5YThUanJRZFBlaUhUZUpkZGtkQ0cyZURpU1UwYjEtc2lfRjNFeUFhU29qbVV6VHFnbUtOdkpibzlydzk5a3JkVmh4WGE4cw?oc=5"
     },
     {
-     "veiculo": "Tribuna do Paraná",
-     "titulo": "Ibovespa registra pior semana desde março de 2020 após eleição",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXdTMFFTaTBoSDd4TEY3T2sxT0tsZldqbEZrNTJ5NGJmYld0SmdrV0tYaXdDUXBfTlAxTVFpQmltSEU1dkw1YlZKd0hnU05UYUtQbTVUV3kyWktwVWQ4eU9fQnVtUDBSQkpUNjRNdmpRLU5VdDc2c1Q5b2VCUjkyV2FXT0NmU3VDUWg4S0tqbDNRQXkybkJWaVhWRmFVVmN0bFlhZFdWVFdZeU1MSUZJ0gG0AUFVX3lxTFAySktURzgtcE5YVDdIc1E1Y2dMSjdDWGhaVVE2U0xUUVpaU29Ia0cxTjdaMy1UQUpwZUk3S1Q2MTczdzlMMHlRQmlIcFJJcVhCTGEyMEpNSW16ZDZiSDktRzFlbGp5WDYwSU9nNGVfdHJJOFRSemtfSV82X2FUS0tmdUk5ZjlvRkN0N0YzR05HSVBZV2cyTkROQTNaRmM2TGp0clN6ZU80YUhRYU9idy05ZTBWYw?oc=5"
+     "veiculo": "BNC Amazonas",
+     "titulo": "Ministro pede que MP avalie medidas contra Nikolas por ‘boicote’ a petistas",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNl85SGdyaExsMVdybHdZZ1ZvZ1hMWUJQRnJBV3F3SDBkRThIZ0VUUmNMUU9Wd2dtZm1rZTR3N1VEMWRCNk40NFlXQ0l1cVZuOVhiZ3AxZF9FdEdtZ0loYkkxeXV4VnpsSlFSQVRnSS03ZFZCTWktcFBwdndLZ2NLdWRVVnFCeVh6QUJQVldqRmNkMHFXYmJ2LWZHRTVOUUJMUUZEVkdxc0gyX2UydjNqbWF3?oc=5"
     },
     {
-     "veiculo": "Pleno.News",
-     "titulo": "Ibovespa cai 18% após reeleição de Lula, maior baixa desde 2020",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjlLemdvME5IeVh4WGZERFY4QmxTejlqRWluekpVR0RtZmxKOUNTdHJjc3NFYms0NzFxeGVXcnYwQW1lOC1MSm9KRWsyeHgweldfQ243Y0FkWUo5ZmxXRWVnbWFLVVNQY2x6VmY3US15cVA1OF9CNElvRGtiRjlyN3FkQ3dfODBjZUtrU3FMRnY2VEJldmd0UkNR0gGiAUFVX3lxTFBVaVZBWU5Pdm9uaFNXZmZMdlpHY3FiV3Q4TXVMNDNUYmZSRlpTN1R0LUNSTm42NlFBXzhVUVQybmVIanNtaDR4c2VfY3QzYmtaWlpWYzA0MkRMQ2lQbEJ2QnB4a0xld3FGUGxvWnZOSUlYSmh2ckF6U19nVjNXRXprLXp2SXo2b2hfMmNGNFVKRlE4UG40YkZ2cDN0el9aUnd0QQ?oc=5"
+     "veiculo": "Brasil 247",
+     "titulo": "Luiz Marinho pede que MP acione Nikolas Ferreira por boicote a petistas",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkIxOGItVGYyTjJuTmVaYkl0bWoxWGJFQ3h0dkFHSGpTRk5DQllvN0pJeHBDWGFqUnU4a2JON1N4QjlicW9wcGl6WlVVdjZGVm1xem41U0hObzZpUDVvNGxQd18yNEEzZnM2eUxPR3JWLXRjcTB2TkRhRDVrQzZveTlLcnc0c19KcTZqZmE4bi02LW1TVm83dWxhUjlNSTVTd3FzV204aVA?oc=5"
     }
    ],
-   "score": 28.5,
-   "video_url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
-   "video_canal": "SBT News",
-   "video_por_hora": 141,
-   "video_acima_mediana": 0.2,
+   "score": 29.0
+  },
+  {
+   "id": "58b5cc1239",
+   "titulo": "\"Chamar petista de jumento vai dar cadeia\", diz Nikolas Ferreira",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0tiM09la1ZNS3ROSXFLbl80Zl8zRW54ajVXdU81ZUl0bUlwdlJhSkJZZks2cUpweWFWOWpSckVYSUFmUzNrY1RZcFNjTWw3OFpRWGg4Y1FuQ1dYVFZ5UGY4SUNDVnMyY2UzTVNnNm15dmtiWGJYWFZnWEZmV28zUEFNaEpXZjNSY1diMFFPblNWY1lmd3VBMDRIbEFWVlNwRy1jbGxkTkZ2YVU?oc=5",
+   "veiculo": "Área VIP",
+   "publicado": "2026-10-31T17:44:04+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Chamar+petista+jumento+vai+dar+cadeia+diz+Nikolas+Ferreira",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Pleno.News",
+     "titulo": "Nikolas critica PL do PT: “Chamar petista de jumento vai dar cadeia”",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHg3M1hBeW03eUp5SU41eWxGMndYQlVQOW5TaGh1Y1lIeVUweGk1SG1wcUtZZDRZOUZJVUktaUR5VXcwODRzb19Bb0o2cUNSYzljeVNFTWtEandkWGI2aHdUYjdURHZORFVUaHRObmhMRnUtVi1uVk1ya0k5SVFMZk16U0Ffa1lVbG5mTzBTdDJNRTg3SG5KU2Z1N25fQm1LbkQtSk9ieWFFbDNJamNieWJSanXSAbwBQVVfeXFMTUtjdWE2SGtqSG1MM1VXd3NlVUV4MkFnT0F2LWMwaGg3Um9wd1BEQzVIblZITlN6anFNVl9IRkNlZWtqaHEwVEgtdFRDVFQzUm9fa0VLMElBcGxYYnRUQ3dFZzFNWm00Z3FQMHptNUxqQnF4aGtQa29WRk1yZlVuTUp4RUlKdHZCZ1RiTWVocHFFdlJONGhxLWRyajZQZjJXN2RGMEpldWhudW5tTW9fbEtlT1VMdzVuREVGZ3o?oc=5"
+    },
+    {
+     "veiculo": "ncnews.com.br",
+     "titulo": "Nikolas Ferreira critica projeto do PT sobre discriminação política: “Chamar petista de jumento vai te levar para a cadeia”",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbUV5eExma1V4OW45TldlUjdjdFAzV2FTR3ZCVHZGbnE1ckN6VmlRYlR4eURjNTVMWC1tVm1DMS1nRXZnT2JkQ2FweHZ4U3liQTlYZEsxRXRRbjY3MzFHdUVmVUFKN0xoNHBiYzBsTHd6Z0RiT2lWZFhZeTNsdXRiZTRLUHJJanBOTEpkX290aXVlWGFjR2xKeHZteW5GNTZFRHI1dVVwNmxxcFliX1paZVhNNEdoZ0VDdVFkenhhNmNlWlZCSWVFWnpwR3k5VE9pNERoWXQyVU5ORHZWbnVYWHlvT3VScEg5c0E?oc=5"
+    },
+    {
+     "veiculo": "O Juruá Em Tempo",
+     "titulo": "“Chamar petista de jumento vai dar cadeia”, diz Nikolas Ferreira sobre projeto do PT",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZXFfaHNFbFNBQnR2ZjZsS3pGSEU2NWp2RGZCa250YXhxaHh0enI5V2VDQ3AwX252RjZhWVdydTYtUENZVzZfamVPSm91T0dBMkxMSlBYQnNBV2l5cXNLNXVvaHhMenVGSXFUQzU3Mkowc3BDM05hRk5vLVJNcWF6X2JfVU9YT05LcFVJZ1VqMUlVajNwN1VFVTJkWktKRnY3VXF4d05rWHJSVm9xUm8yM2RlbkY?oc=5"
+    }
+   ],
+   "score": 28.8
+  },
+  {
+   "id": "b1326416dc",
+   "titulo": "Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista",
+   "url": "https://www.infomoney.com.br/politica/simone-tebet-estaria-entre-nomes-considerados-por-lula-para-o-stf-diz-colunista/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-31T16:22:57+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Simone+Tebet+estaria+entre+nomes+considerados+por+Lula+para",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Simone Tebet contribuirá mais com o governo Lula em um ministério do que no STF, diz professor",
+     "url": "https://www.youtube.com/watch?v=Qmdm6E440Po"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Simone Tebet é cotada para ser ministra do STF caso Lula decida indicar uma mulher para a Corte",
+     "url": "https://www.youtube.com/watch?v=LwYE5c9VDFA"
+    }
+   ],
+   "score": 28.0,
+   "video_url": "https://www.youtube.com/watch?v=LwYE5c9VDFA",
+   "video_canal": "UOL",
+   "video_por_hora": 14333,
+   "video_acima_mediana": 3.5,
    "videos": [
     {
-     "canal": "SBT News",
-     "titulo": "Ibovespa cai mais de 18% na semana e tem pior resultado desde 2020 | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
-     "por_hora": 141
+     "canal": "UOL",
+     "titulo": "Simone Tebet é cotada para ser ministra do STF caso Lula decida indicar uma mulher para a Corte",
+     "url": "https://www.youtube.com/watch?v=LwYE5c9VDFA",
+     "por_hora": 14333
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Simone Tebet contribuirá mais com o governo Lula em um ministério do que no STF, diz professor",
+     "url": "https://www.youtube.com/watch?v=Qmdm6E440Po",
+     "por_hora": 696
     }
    ]
+  },
+  {
+   "id": "8863e0801b",
+   "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/10/expectativas-de-inflacao-para-2027-e-2028-saltam-apos-segundo-turno.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-10-31T16:53:51+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Expectativas+infla%C3%A7%C3%A3o+para+2027+2028+saltam+ap%C3%B3s+segundo+turno",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Instagram",
+     "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5"
+    },
+    {
+     "veiculo": "Instagram",
+     "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5"
+    },
+    {
+     "veiculo": "Instagram",
+     "titulo": "INFLAÇÃO | A reeleição de Luiz Inácio Lula da Silva (PT) no segundo turno fez saltar as expectativas de inflação de analistas de mercado para os próximos anos, mostra pesquisa realizada pela corretora BGC Liquidez com cerca de 30 participantes de merc",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tNHRzeE9fbUFleUJDS0pTa1BucXRQYXBxWEFaVzZJQl9SdWRJT2ZjMUNuQkg0NUpSM2ZrX0had1hxbm5XUy1Bb1dldElhMC03TUE?oc=5"
+    },
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Expectativas de inflação para 2027 e 2028 saltam após segundo turno",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUJDU3A5bkNjeWdlWGo5bmFKaloxbW9MMmFwQlFNbnlkLVJqZzlmMC1oT041N0VjMEwzR05NTGY4UTMxQUFYT25yeXhncG5GblRQYy1wWHI1a3FiX185VXdFVXdXUE9pbGdRYVBaY3RBWlF1WTZJQzZPNWE5Nnd4SVJ3RzV1Q3FrWFRFNWNKMXROMXRtTVE3RTlCckFUY2Q1QkRZWl9vR2NjUGtNZmxqSUdfUUVySWdSUDhv?oc=5"
+    }
+   ],
+   "score": 27.5
+  },
+  {
+   "id": "03a36fb532",
+   "titulo": "Marco Rubio nega que os EUA tenham ajudado Flávio a sair do Brasil",
+   "url": "https://www.metropoles.com/mundo/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-sair-do-brasil",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-31T17:35:45+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Marco+Rubio+nega+que+EUA+tenham+ajudado+Fl%C3%A1vio+sair",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Marco Rubio nega que EUA tenham “facilitado” entrada de Flávio no país",
+     "url": "https://www.cnnbrasil.com.br/internacional/marco-rubio-nega-que-eua-tenham-facilitado-entrada-de-flavio-no-pais/"
+    }
+   ],
+   "score": 26.8
   },
   {
    "id": "a6fc6c7c2f",
@@ -971,14 +957,9 @@
      "veiculo": "CidadeVerde.com",
      "titulo": "Fundos de investimento perdem R$ 157,5 bilhões após reeleição de Lula",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzJsMlY3TVZ3NmNKVDhLZFlWaEk5eTFvbEdlZ1ZYaTVrQkl0OThpSjNhTlZQWWVSX0JjRGRBT3BtSmhWeHJ2dEZBWmI4RHZsdkpMaUVKdXZmNW5STGR2OGZBeGxvRXpWVjFEeEdra19Dc05zWWR0TTZOX2NWbXA5Y2dFZkd6aUdyTklLZjQwNTdRRHBYSFJjWjlxTXAwY2Q1dmkzeGpyZXVDcnc?oc=5"
-    },
-    {
-     "veiculo": "CidadeVerde.com",
-     "titulo": "Fundos de investimento perdem R$ 157,5 bilhões após reeleição de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzJsMlY3TVZ3NmNKVDhLZFlWaEk5eTFvbEdlZ1ZYaTVrQkl0OThpSjNhTlZQWWVSX0JjRGRBT3BtSmhWeHJ2dEZBWmI4RHZsdkpMaUVKdXZmNW5STGR2OGZBeGxvRXpWVjFEeEdra19Dc05zWWR0TTZOX2NWbXA5Y2dFZkd6aUdyTklLZjQwNTdRRHBYSFJjWjlxTXAwY2Q1dmkzeGpyZXVDcnc?oc=5"
     }
    ],
-   "score": 26.9
+   "score": 26.6
   },
   {
    "id": "c8a992f012",
@@ -1004,86 +985,7 @@
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pS2hNUGYxS213ZHU4a1Q4UG1xemxISTU5UGIwMEMzc2l6UGpmclBZSDEtajhCUTBON2Y4d204SHMwLTB6U1RQbm9iMnJia3lwU3c?oc=5"
     }
    ],
-   "score": 26.2
-  },
-  {
-   "id": "3daaa8efa6",
-   "titulo": "Humorista relata ameaças após publicação de Nikolas Ferreira",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONW1IdlFIb1UzMW9qV0lJYUh1ZE41SmxwUHhMb3FYajdhWXZkNXNmZlhJT2F1b2pmVThseDZNdnM0M25rSnZMSHZMSEJMb3dZdVFsMzRyZVdjeDEzSDBUTmdSS2FfMjd3VFM4bzdSb0Rqbk9sLWQ5X0t2WDBVeFRpN1duOVJVSkF6c3k0QU5EaGFVQTZxY19nZ01EUHl4S0Z4VlJKSVVZS1ltb0s5YVE?oc=5",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-31T15:06:08+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Humorista+relata+amea%C3%A7as+ap%C3%B3s+publica%C3%A7%C3%A3o+Nikolas+Ferreira",
-   "veiculos": 6,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "BossaNews Brasil",
-     "titulo": "Bruno Motta diz ter recebido ameaças após postagem de Nikolas Ferreira",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlQ0R21OdGY5eW9tVDVlcmdwVVd6Qi1yYWJfUVVxaENucDA1ZTJFa19OMVB6RXNYOFZYRmh5NkhfSW04YmxqaGcxX3VwUDRTendndHpoQzFuellweEE1aWNnSGpqR1d0XzQ2ZHhITzBkZlZ3aHU5bzRYdWwwVzhzZVI1TlRtNU44aV9EREhkVnJ6bFFBZzU5bXBwZUI?oc=5"
-    },
-    {
-     "veiculo": "Jetss BR",
-     "titulo": "Humorista diz receber ameaças após publicação de Nikolas Ferreira",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3NLTzFLRXE3NEJUU0lFSnhEcXhCNDFvRUZsa1o1Snk5dmZ3Q0NEUktQRldPU0NpSzJLS1llclJ5enhlcG9kdnV4N2VaeU9yYjc5Qk1nNnhfR1BhTjFodllBdlJPMUZMaTltNHJnS2xMREZUZlNIUjZXU1l2VmFWanB4ZUxLQkt6UlZpYkNqdDRNajY0VDlUcVhXX3ZFM0I3elczdHFGRdIBpwFBVV95cUxNY3NLTzFLRXE3NEJUU0lFSnhEcXhCNDFvRUZsa1o1Snk5dmZ3Q0NEUktQRldPU0NpSzJLS1llclJ5enhlcG9kdnV4N2VaeU9yYjc5Qk1nNnhfR1BhTjFodllBdlJPMUZMaTltNHJnS2xMREZUZlNIUjZXU1l2VmFWanB4ZUxLQkt6UlZpYkNqdDRNajY0VDlUcVhXX3ZFM0I3elczdHFGRQ?oc=5"
-    },
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Bruno Motta relata ameaças após ser ironizado por Nikolas",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXNHSXNNZ1pva1JPcVl0bW5TaFVhcmNGRXBFUTBDbXJZdy1ZNEpsZGF1akoyNEVKYUZSSmtQTm00SWFUdzJxMkNtZm9Ya1h5VFprWGs5RndfRzc1N2kyQzJfUkFzZjUwcDZMQVJGQnhlQ01xTldWYnVNbXk4Ym5UaWFhd1pHQnl4M3N2QzhrWXNPUlZHdjdF?oc=5"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Bruno Motta relata ameaças após discutir política com Nikolas Ferreira",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlZWVGJub200d183c3ItMU1DUEtMbFRBVS1jX1ItZTlrQTJnU3l3Y1JfbHJPQl9EeHF6Wmx2Q3N5NDBYM09CTVl6eUJnZ1kxZDBoV2VabGsxbjlGZV9Rb2JqbVdWT3NxZWJiN2luZ3p2bVYtQW93cDhJc3pBcHJXZk56bTFQVlQ2cHpB?oc=5"
-    }
-   ],
-   "score": 26.1
-  },
-  {
-   "id": "3353d6bd37",
-   "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
-   "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
-   "veiculo": "Estadão",
-   "publicado": "2026-10-31T16:15:54+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Como+funcionam+elei%C3%A7%C3%B5es+meio+mandato+nos+Estados+Unidos",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
-     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c"
-    }
-   ],
-   "score": 25.9,
-   "video_url": "https://www.youtube.com/watch?v=kaOV5915HF0",
-   "video_canal": "Estadão",
-   "video_por_hora": 8206,
-   "video_acima_mediana": 73.7,
-   "videos": [
-    {
-     "canal": "Estadão",
-     "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
-     "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
-     "por_hora": 8206
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
-     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c",
-     "por_hora": 124
-    }
-   ]
+   "score": 25.9
   },
   {
    "id": "e9dc436755",
@@ -1121,35 +1023,169 @@
      "url": "https://www.youtube.com/watch?v=mK-QASzq4Is"
     }
    ],
-   "score": 25.0,
+   "score": 25.7,
    "video_url": "https://www.youtube.com/watch?v=b-_X55-eLTk",
    "video_canal": "UOL",
-   "video_por_hora": 2392,
-   "video_acima_mediana": 1.0,
+   "video_por_hora": 4957,
+   "video_acima_mediana": 1.2,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Alcolumbre pauta PEC da Segurança para terça: entenda o que tem na proposta",
      "url": "https://www.youtube.com/watch?v=b-_X55-eLTk",
-     "por_hora": 2392
+     "por_hora": 4957
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública para terça (03); Diego Tavares comenta",
      "url": "https://www.youtube.com/watch?v=s9U0ryrBE2k",
-     "por_hora": 2167
+     "por_hora": 2333
     },
     {
      "canal": "SBT News",
      "titulo": "Alcolumbre pauta PEC da Segurança Pública para a próxima terça-feira | #NewsNoite",
      "url": "https://www.youtube.com/watch?v=DG8FRI7jYd0",
-     "por_hora": 1625
+     "por_hora": 1529
     },
     {
      "canal": "SBT News",
      "titulo": "Alcolumbre marca votação da PEC da Segurança Pública para terça-feira (3) | #SBTBrasil",
      "url": "https://www.youtube.com/watch?v=mK-QASzq4Is",
-     "por_hora": 824
+     "por_hora": 778
+    }
+   ]
+  },
+  {
+   "id": "3353d6bd37",
+   "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
+   "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
+   "veiculo": "Estadão",
+   "publicado": "2026-10-31T16:15:54+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Como+funcionam+elei%C3%A7%C3%B5es+meio+mandato+nos+Estados+Unidos",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
+     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c"
+    }
+   ],
+   "score": 25.4,
+   "video_url": "https://www.youtube.com/watch?v=kaOV5915HF0",
+   "video_canal": "Estadão",
+   "video_por_hora": 7858,
+   "video_acima_mediana": 72.7,
+   "videos": [
+    {
+     "canal": "Estadão",
+     "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
+     "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
+     "por_hora": 7858
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
+     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c",
+     "por_hora": 1209
+    }
+   ]
+  },
+  {
+   "id": "858ed82571",
+   "titulo": "A fuga de Flávio aos EUA impacta a diplomacia com o Brasil? Especialista avalia | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=0tpXoP_zSwQ",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-31T15:16:28+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=fuga+Fl%C3%A1vio+aos+EUA+impacta+diplomacia+com+Brasil+Especialista",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Fuga de Flávio aos EUA teve Vans, ex-agente da Mossad e jato estrangeir; veja detalhes | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=ZPwtbPWnFt8"
+    }
+   ],
+   "score": 25.4,
+   "video_url": "https://www.youtube.com/watch?v=ZPwtbPWnFt8",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 16357,
+   "video_acima_mediana": 13.8,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Fuga de Flávio aos EUA teve Vans, ex-agente da Mossad e jato estrangeir; veja detalhes | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=ZPwtbPWnFt8",
+     "por_hora": 16357
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "A fuga de Flávio aos EUA impacta a diplomacia com o Brasil? Especialista avalia | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=0tpXoP_zSwQ",
+     "por_hora": 14565
+    }
+   ]
+  },
+  {
+   "id": "3de63ae870",
+   "titulo": "“Janonismo” inspira ativistas na França, Espanha e Argentina | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=6LjmfBj1tp8",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-31T14:07:25.873728+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Janonismo+inspira+ativistas+Fran%C3%A7a%2C+Espanha+Argentina+InfoMoney+News",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SBT News",
+     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
+     "url": "https://www.youtube.com/watch?v=mynFycUd5Tk"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
+     "url": "https://www.youtube.com/watch?v=EjU-t4HFbps"
+    }
+   ],
+   "score": 25.4,
+   "video_url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
+   "video_canal": "SBT News",
+   "video_por_hora": 15250,
+   "video_acima_mediana": 18.3,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
+     "url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
+     "por_hora": 15250
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
+     "url": "https://www.youtube.com/watch?v=EjU-t4HFbps",
+     "por_hora": 3771
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "“Janonismo” inspira ativistas na França, Espanha e Argentina | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=6LjmfBj1tp8",
+     "por_hora": 1322
     }
    ]
   },
@@ -1189,17 +1225,81 @@
      "url": "https://g1.globo.com/economia/noticia/2026/10/30/conta-de-luz-aneel-mantem-bandeira-tarifaria-para-verde-em-novembro.ghtml"
     }
    ],
-   "score": 24.6,
+   "score": 24.3,
    "video_url": "https://www.youtube.com/watch?v=jLd4cJ1WXZk",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 145,
+   "video_por_hora": 163,
    "video_acima_mediana": 0.1,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Aneel anuncia bandeira verde para a conta de luz de novembro | CNN AGORA",
      "url": "https://www.youtube.com/watch?v=jLd4cJ1WXZk",
-     "por_hora": 145
+     "por_hora": 163
+    }
+   ]
+  },
+  {
+   "id": "d4f31cf262",
+   "titulo": "Master: Fachin trava ao menos 6 pedidos de revisão de prisões preventivas",
+   "url": "https://www.youtube.com/watch?v=i3iVKfrdxls",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-31T17:26:22+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Master+Fachin+trava+menos+pedidos+revis%C3%A3o+pris%C3%B5es+preventivas",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "PIRANOT",
+     "titulo": "Ao menos seis pedidos de revisão de prisões do caso Master aguardam decisão no STF há mais de um mês",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkxZaDEtMWNGcDVXdDhNTUh3amRpVEZmNGo0TFl3bGNJNnRKV0htZTZWWmNHN08wclZqLTN4UndxR1ZTU0hkSVZHQkpfNDEyQ0NUUjVUR2FWVl8yWDhES1Vmdm1lMWpBYTJuXzc5Vk80T3g4cWJ1ZDVNOU1hTjhMTThkSXhNaU1tTVkxWmVoNWs1UQ?oc=5"
+    }
+   ],
+   "score": 24.0,
+   "video_url": "https://www.youtube.com/watch?v=i3iVKfrdxls",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 8114,
+   "video_acima_mediana": 6.8,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Master: Fachin trava ao menos 6 pedidos de revisão de prisões preventivas",
+     "url": "https://www.youtube.com/watch?v=i3iVKfrdxls",
+     "por_hora": 8114
+    }
+   ]
+  },
+  {
+   "id": "4d414bb463",
+   "titulo": "democratas cobram que trump reconheça vitória de Lula | #Newssabado",
+   "url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
+   "veiculo": "SBT News",
+   "publicado": "2026-10-31T16:15:24+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=democratas+cobram+que+trump+reconhe%C3%A7a+vit%C3%B3ria+Lula+Newssabado",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 23.6,
+   "video_url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
+   "video_canal": "SBT News",
+   "video_por_hora": 935,
+   "video_acima_mediana": 1.1,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "democratas cobram que trump reconheça vitória de Lula | #Newssabado",
+     "url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
+     "por_hora": 935
     }
    ]
   },
@@ -1226,7 +1326,24 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkxROHJZRDk2bEttNnA2R0IyR2tLYzEySXNIaEFIeHZ2dVIyYUdiVks2Z0V6akFaWHhLYXBWYk9VTEdzNFZXcUNGRlJzVzZDT1E2VlpmVENlazZpVXdtOFdHNkZyNFZ6eTgxMlk0czc3X0Y4cEx4NVQ2UFFKd1V5MElJVlVnS2NicHltQzJoNXVSa25ZVXNzczVVZzNsbmUxVHJZcldjYU9yWk5yYWFqOXl4ZFViMTNmSVdpNDlR?oc=5"
     }
    ],
-   "score": 23.9
+   "score": 23.5
+  },
+  {
+   "id": "9b70252ca0",
+   "titulo": "Lula quer nomes de peso e exige fidelidade de aliados no novo governo",
+   "url": "https://www.metropoles.com/colunas/neila-guimaraes/lula-quer-nomes-de-peso-e-exige-fidelidade-de-aliados-no-novo-governo",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-31T16:52:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+quer+nomes+peso+exige+fidelidade+aliados+novo+governo",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 23.5
   },
   {
    "id": "2ab399aad0",
@@ -1244,59 +1361,13 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.9
-  },
-  {
-   "id": "9b70252ca0",
-   "titulo": "Lula quer nomes de peso e exige fidelidade de aliados no novo governo",
-   "url": "https://www.metropoles.com/colunas/neila-guimaraes/lula-quer-nomes-de-peso-e-exige-fidelidade-de-aliados-no-novo-governo",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-10-31T16:52:00+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+quer+nomes+peso+exige+fidelidade+aliados+novo+governo",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.8
-  },
-  {
-   "id": "4d414bb463",
-   "titulo": "democratas cobram que trump reconheça vitória de Lula | #Newssabado",
-   "url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
-   "veiculo": "SBT News",
-   "publicado": "2026-10-31T16:15:24+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=democratas+cobram+que+trump+reconhe%C3%A7a+vit%C3%B3ria+Lula+Newssabado",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.8,
-   "video_url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
-   "video_canal": "SBT News",
-   "video_por_hora": 550,
-   "video_acima_mediana": 0.7,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "democratas cobram que trump reconheça vitória de Lula | #Newssabado",
-     "url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
-     "por_hora": 550
-    }
-   ]
+   "score": 23.5
   },
   {
    "id": "2ed93761b5",
    "titulo": "SP amplia ofensiva contra fraude fiscal no combate à ocultação patrimonial no mercado financeiro",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYURSal8tVWdNbGs4UWllVzgzdExtZUowbVNTUnlOdHZuQVM5WHY3akZhZklZZm5faDBHT0Jfa0hjcDM2MkJhQjdWdUt0Ym5DMUhjT2tWYUh1dEtacmJhU0g5aTY3VWhzWWFqeUR5UW5RRWNPSWdOSmxpUVBPd05KYzFyWnpIYTRZdFgzM3BHa1dLVmlkSkpwTHZaNzRTRDRCSGJqMzQ3NlN2UGxmSUVDVW5YbzhUaUIweXRfVEpUS250dzVfRUJWcHlqRElVWEVLRzVBS0Z3dnA?oc=5",
-   "veiculo": "BOM DIA GUARULHOS",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdDc4VDVtUVJuUWJ5RlIyZFdqVHVrNnRkc003NGEySWIyU0ViVjFpNzQ2dmk3Wi0yOURtdms2UVRVNlBmdlg2bUFrUzZuVkozckpQZHpVb2JrYnYtS1BGeHp1U3BBRjFjQThmbEhVVzlmRTBoM1dNNW55Nmc0cDRweURjMXh0aW1fa2YxSVFtMHpqUXdCa3dQMVZ4WTQ5N1lORk12dnJKU1BuRGhDNFBjY1BpTnNqNzc2UEdaN1A0Z0tiUnh5azAyZTNacktGWWNNMjBJUGV3?oc=5",
+   "veiculo": "Portal VV8",
    "publicado": "2026-10-31T07:17:10+00:00",
    "temas": [
     "economia",
@@ -1314,144 +1385,17 @@
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSlcyQmhUWWR6M281aDVyV0xOWWNjQXJ1b29NcmN2M1U3S2tuNV9ydUVQVHduUlF0LVoyc0hpWm1GQnFGdjBQM0xqWDVPM0I4bWVoU2ZOa2Z2d0tvdW1HUUxwVVFKUHFac050N0FJRXBBX19yYVJLYk9VVVlNYm85cnUtM2EzYnp2b05OYnczSnNqODlnclF6OXRpZ1pWYm5TQzdlSFpvVk9ZeERNbHhURkw2Qk1Nbk5ESm9FVmJqMDVtU2NONnVOalp3Z3l2cTJyaWZN?oc=5"
     },
     {
-     "veiculo": "Portal VV8",
-     "titulo": "SP amplia ofensiva contra fraude fiscal no combate à ocultação patrimonial no mercado financeiro",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdDc4VDVtUVJuUWJ5RlIyZFdqVHVrNnRkc003NGEySWIyU0ViVjFpNzQ2dmk3Wi0yOURtdms2UVRVNlBmdlg2bUFrUzZuVkozckpQZHpVb2JrYnYtS1BGeHp1U3BBRjFjQThmbEhVVzlmRTBoM1dNNW55Nmc0cDRweURjMXh0aW1fa2YxSVFtMHpqUXdCa3dQMVZ4WTQ5N1lORk12dnJKU1BuRGhDNFBjY1BpTnNqNzc2UEdaN1A0Z0tiUnh5azAyZTNacktGWWNNMjBJUGV3?oc=5"
-    },
-    {
      "veiculo": "REDE BRASIL DE TELEVISÃO",
      "titulo": "SP amplia ofensiva contra fraude fiscal no combate à ocultação patrimonial no mercado financeiro",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVVFDek96S3lXYUtTajFlRldLZ3ZfMmZIUXNuaVI5UE1RMjF6dVBsX0t4Z0xoVWQzWVp3R05ob2pON1VPSjN1R083UHI4WllXWkh3NkFjU2NMTEFHczlqaW9NX2hCRmNYZWJUdmZzbkFHQmE4THREVXcySGVHTk9XcmFFcUtwc1k0c0NzaWJtUVplcUtYR0dobFA4bFlkUHY5Sl9kV1hkSWlnYkZEZ3V0bDFENFlSMG80VDBGUEx6MnNsNkozMHZYZ3NR?oc=5"
-    }
-   ],
-   "score": 23.8
-  },
-  {
-   "id": "3de63ae870",
-   "titulo": "“Janonismo” inspira ativistas na França, Espanha e Argentina | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=6LjmfBj1tp8",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-10-31T13:30:28+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Janonismo+inspira+ativistas+Fran%C3%A7a%2C+Espanha+Argentina+InfoMoney+News",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "SBT News",
-     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
-     "url": "https://www.youtube.com/watch?v=EjU-t4HFbps"
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclNsdkVIb1R6S3VPZVBkMmZfdFI5UnVsQ3RNZHFQN0RabzJOQXZnb3lYY2JZWVd2ZkFVNTBXa0ZWNlVVMmNsdnV0RURHaVZnUTk1X25wbzZ2d3FpSkc2aTQ1ZEpldDVFZG9JeGFuZ29ZU1NqR3EzcnpuMndfY3h6YTdaSTF6OWJzdi02ejA3aXhva1Y3Q3pyYXE5Y0RyTTZ6ZmdXWHVzSF9pbWdSQjRhSHR1UUF2RktNbjlXZ0ZkWlJUeVAza0pGeURIRHZ1dDg?oc=5"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
-     "url": "https://www.youtube.com/watch?v=mynFycUd5Tk"
+     "veiculo": "BOM DIA SOROCABA",
+     "titulo": "SP amplia ofensiva contra fraude fiscal no combate à ocultação patrimonial no mercado financeiro",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFBrQ0VtRkdQczF0b3QxQzZzZVBJZFdiRUtVekh3MC1LY3loQjg0cUN3RFNRcGNCV2VScVJLY2d6SG5iZTZXd0xNQ0ZMNThGRkMzOXlJRGd2eGo5NFQtZnFtLS12Umg3RWZ5eDN6dkdvd0hFXy1KOEItU3pkV2NxcndjTzZjUzNzQlNyUjNlME9zSFJtVjBUQVhaMVFGWkhBN2pkNGFlemk0QzEzbEtESWI0Z3gwYW84REZfTzNOUm1RTmpPN055MzFmWm5JN2FUOG5tcVdEM20?oc=5"
     }
    ],
-   "score": 23.7,
-   "video_url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
-   "video_canal": "SBT News",
-   "video_por_hora": 10750,
-   "video_acima_mediana": 13.1,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
-     "url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
-     "por_hora": 10750
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
-     "url": "https://www.youtube.com/watch?v=EjU-t4HFbps",
-     "por_hora": 2604
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "“Janonismo” inspira ativistas na França, Espanha e Argentina | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=6LjmfBj1tp8",
-     "por_hora": 1287
-    }
-   ]
-  },
-  {
-   "id": "b1d15932ae",
-   "titulo": "Apesar da pressão nos custos, Vale (VALE3) conta como economizou até US$ 3 bilhões no 3T26; ação sobe mesmo com balanço fraco",
-   "url": "https://www.seudinheiro.com/2026/empresas/apesar-da-pressao-vale-vale3-revela-estrategia-que-economizou-ate-us-3-bilhoes-no-3t26-acao-sobe-mesmo-com-balanco-fraco-bdap/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-10-30T23:48:15+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Apesar+press%C3%A3o+nos+custos%2C+Vale+VALE3+conta+como+economizou",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Genial Analisa",
-     "titulo": "Vale (VALE3) | 3T26 Call: Elevamos para COMPRAR; 2027 Espera o Vale Day",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjRYWFpXNHE4dnVINXpPak16bEVqdnpiMjUzX0dTQ1NPdDFoXzVYb0dYZ2cyT0ZqTmRFTVI4dWR0SHVXQ0JUSm9VdTdFM0pJVzJKekZOQy1RSTMwS2VldjdJZnczRkJvcTQyMWZuMEhEekVIZmd6Q09YenBYTkpQNVo3R3Y2WW1VNXotZ0VPV2dWVndIUjcybENLMEl3cjF2U2xlUC1LdHRZTmdKMEpaa3R1ZGlrYU9sUmNhTFJR?oc=5"
-    },
-    {
-     "veiculo": "Monitor Mercantil",
-     "titulo": "Vale (VALE3): resultado do 3T26, dinâmicas e perspectivas",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWMwQ0RhcmpxazRxWUlIWTVnWFR5Y05xNVRpMVo0SFA3ajZiN25RRHpDT2ZFSHJDTEw3QUMtRERKNk8wUkpTb29ZWlNyWDVleUVRY19OeTIwNmMtSTV5Rm5IQXF3OVE1RDBiTG00aFJCU0gtUFVJWnpGQTJ5c2s1X3JYcVdZeGxyM0pDaW1GNA?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Vale (VALE3) está entre as maiores altas do Ibovespa mesmo após balanço fraco no 3T26. O que explica?",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1I4ZkkwQUJNWS1Bc2RONElFZHJmR1hVcDBNQzVKRktfM3owSE9JRXpVTXRZdEd1SWFuclpCd2lJVkpnWmtQVVdBSDc3RkJzT1JYYUU4dGRNZ1FYWU41OUJBa1BtQkQtRzZVR0dLV1hvRXNpRjVsYWZVYnV4SDVGQXFXdmw3NjZQbTBmVUpzdWhkMXlvNjFNZU1nWUwxeW1jVUNZVk1TV3FyS2NpTk1kUg?oc=5"
-    }
-   ],
-   "score": 23.7
-  },
-  {
-   "id": "858ed82571",
-   "titulo": "A fuga de Flávio aos EUA impacta a diplomacia com o Brasil? Especialista avalia | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=0tpXoP_zSwQ",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-31T15:16:28+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=fuga+Fl%C3%A1vio+aos+EUA+impacta+diplomacia+com+Brasil+Especialista",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Fuga de Flávio aos EUA teve Vans, ex-agente da Mossad e jato estrangeir; veja detalhes | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=ZPwtbPWnFt8"
-    }
-   ],
-   "score": 23.6,
-   "video_url": "https://www.youtube.com/watch?v=0tpXoP_zSwQ",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 11120,
-   "video_acima_mediana": 10.8,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "A fuga de Flávio aos EUA impacta a diplomacia com o Brasil? Especialista avalia | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=0tpXoP_zSwQ",
-     "por_hora": 11120
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Fuga de Flávio aos EUA teve Vans, ex-agente da Mossad e jato estrangeir; veja detalhes | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=ZPwtbPWnFt8",
-     "por_hora": 9340
-    }
-   ]
+   "score": 23.5
   },
   {
    "id": "73d87296d0",
@@ -1476,43 +1420,7 @@
      "url": "https://www.estadao.com.br/economia/tributaria-comissao-do-senado-confirma-braga-como-relator-da-cbs-e-vai-convidar-durigan-para-debate/"
     }
    ],
-   "score": 23.5
-  },
-  {
-   "id": "77b5eabe04",
-   "titulo": "Trump retoma comícios na reta final das midterms nos EUA  | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=Sm_KvugD2TM",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-10-31T17:05:00+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Trump+retoma+com%C3%ADcios+reta+final+das+midterms+nos+EUA",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Transmissão Política",
-     "titulo": "Trump volta atrás e retoma comícios cancelados na reta final das eleições americanas",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUk0M2sxU08zY25VYWZtVUtUZHVTWDFULVBKWGxMSzJEVFZZTTBRR0hTVDk0QWxxb0ZXWmJNUFB5TWVfeDlUbmlwa1NJU2N2R0IxRXlYak9TdnR1LV9aeFpYVE1HenpEUTVOUW13VEpkWjFJdnlyN3VJek1JMllpSjRjN3NQckgzVzl0T1h1LUNiSkVMb1FfcS1TRFNTYnZkYUVxZ2tVUU1tbjYydDkzZm10Q1BjUQ?oc=5"
-    }
-   ],
-   "score": 23.4,
-   "video_url": "https://www.youtube.com/watch?v=Sm_KvugD2TM",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 3694,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Trump retoma comícios na reta final das midterms nos EUA  | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=Sm_KvugD2TM",
-     "por_hora": 3694
-    }
-   ]
+   "score": 23.1
   },
   {
    "id": "73971fed39",
@@ -1535,53 +1443,158 @@
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05aEN4bWtybjF6dk9zQ1Ixa0I1WHFER0hqTTZhVmlSU2pvSDlCelItcmpyaGZhQVIydUxoZnBWeUNrRXRfU1EwSzUzWGlYSHYtYTk3czhrOG1uQVU5TXU0bVQ0MzdlNWVK?oc=5"
     }
    ],
-   "score": 23.4
+   "score": 23.1
   },
   {
-   "id": "2f1c6ddc3d",
-   "titulo": "Comissão do Senado analisa alíquota da CBS a partir de 11 de novembro",
-   "url": "https://www.poder360.com.br/poder-congresso/comissao-do-senado-analisa-aliquota-da-cbs-a-partir-de-11-de-novembro/",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-31T15:53:39+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Comiss%C3%A3o+Senado+analisa+al%C3%ADquota+CBS+partir+novembro",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "Comissão  do Senado fará audiências sobre alíquota da CBS a partir de 11 de novembro",
-     "url": "https://valor.globo.com/politica/noticia/2026/10/31/comissao-do-senado-fara-audiencias-sobre-aliquota-da-cbs-a-partir-de-11-de-novembro.ghtml"
-    }
-   ],
-   "score": 22.4
-  },
-  {
-   "id": "a158e61ae0",
-   "titulo": "Preço-justo do InvestingPro previu queda de 57% na CCXI Por Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlVVcFZwRGk2Q2twZmhudlRlM0wzTkV0YTZ4bmdSVXQ3Z055c0pJTURnbVFsTnRSTDRkcUdVcmJacWxZSW4xUjMxdzZXbXZhNGV1dmdQZm5BQ045Tmx1bVNWWEVHQ2hpOTdFWU92bEdHbXdheDRqbWZQdVRVOVlLV2hvTzNQbUlkZWVzUWswR0Jad3U4Y1VTb3dQRUoyQkNKd0dTamxEbUFpRzJlWms0cE1acw?oc=5",
-   "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "publicado": "2026-10-31T11:03:00+00:00",
+   "id": "7c877692ab",
+   "titulo": "Nasdaq cai quase 4% com tombo da Intel e temor sobre gastos com IA",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/30/nasdaq-cai-quase-4-com-tombo-da-intel-e-temor-sobre-gastos-com-ia.htm",
+   "veiculo": "UOL Economia",
+   "publicado": null,
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7o+justo+InvestingPro+previu+queda+57%25+CCXI+Por+Investing.com",
+   "busca_video": "https://www.youtube.com/results?search_query=Nasdaq+cai+quase+com+tombo+Intel+temor+sobre+gastos",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.4
+   "score": 23.0
+  },
+  {
+   "id": "3daaa8efa6",
+   "titulo": "Humorista relata ameaças após publicação de Nikolas Ferreira",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONW1IdlFIb1UzMW9qV0lJYUh1ZE41SmxwUHhMb3FYajdhWXZkNXNmZlhJT2F1b2pmVThseDZNdnM0M25rSnZMSHZMSEJMb3dZdVFsMzRyZVdjeDEzSDBUTmdSS2FfMjd3VFM4bzdSb0Rqbk9sLWQ5X0t2WDBVeFRpN1duOVJVSkF6c3k0QU5EaGFVQTZxY19nZ01EUHl4S0Z4VlJKSVVZS1ltb0s5YVE?oc=5",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-31T15:06:08+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Humorista+relata+amea%C3%A7as+ap%C3%B3s+publica%C3%A7%C3%A3o+Nikolas+Ferreira",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BossaNews Brasil",
+     "titulo": "Bruno Motta diz ter recebido ameaças após postagem de Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlQ0R21OdGY5eW9tVDVlcmdwVVd6Qi1yYWJfUVVxaENucDA1ZTJFa19OMVB6RXNYOFZYRmh5NkhfSW04YmxqaGcxX3VwUDRTendndHpoQzFuellweEE1aWNnSGpqR1d0XzQ2ZHhITzBkZlZ3aHU5bzRYdWwwVzhzZVI1TlRtNU44aV9EREhkVnJ6bFFBZzU5bXBwZUI?oc=5"
+    },
+    {
+     "veiculo": "Vero Notícias",
+     "titulo": "Bruno Motta relata ameaças após ser ironizado por Nikolas",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXNHSXNNZ1pva1JPcVl0bW5TaFVhcmNGRXBFUTBDbXJZdy1ZNEpsZGF1akoyNEVKYUZSSmtQTm00SWFUdzJxMkNtZm9Ya1h5VFprWGs5RndfRzc1N2kyQzJfUkFzZjUwcDZMQVJGQnhlQ01xTldWYnVNbXk4Ym5UaWFhd1pHQnl4M3N2QzhrWXNPUlZHdjdF?oc=5"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Bruno Motta relata ameaças após discutir política com Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlZWVGJub200d183c3ItMU1DUEtMbFRBVS1jX1ItZTlrQTJnU3l3Y1JfbHJPQl9EeHF6Wmx2Q3N5NDBYM09CTVl6eUJnZ1kxZDBoV2VabGsxbjlGZV9Rb2JqbVdWT3NxZWJiN2luZ3p2bVYtQW93cDhJc3pBcHJXZk56bTFQVlQ2cHpB?oc=5"
+    },
+    {
+     "veiculo": "BOL",
+     "titulo": "Bruno Motta relata ameaças após discutir política com Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVVZTkFIQTI3X3dZck9ZQ3lnQTBfNko2aWsyWFV0LUMxN1NCaWtrUmVZd2tBTVF3Z2IteUJycjN2UE9PZ3Zrb1hFT3NEdERWbFRsTTFWdnlyYVdWRVFPNHByWXBxS1R5U1JYczh1MWNJbG9LSURTa0RpZktJcTIxckwxN0ZLTVkxOGxkakNRSmZNbHM?oc=5"
+    }
+   ],
+   "score": 22.7
+  },
+  {
+   "id": "b256de6afd",
+   "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUVMYmlUeE1aenowYkFFQlR0N1Nlb3hjYmFBNnBtQUlKTTVxSzRkUXFaWUpEME9RUE54eGlITE5za1NHZl9QZDJ4TG5FWU1aRnZnYWx6NEVfZXltNmJ5Z1JaTTlwcmxPenpMYzhXcHNkeWpJN1d5bEQwTXRkTW00d3lDTVJPZEtpdlhkenpNd3hIMlNmMHdmMzRDYUxnOXItR09MOVJGX19yQjVVWG5ONjloTQ?oc=5",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-31T11:17:05+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+reavalia+riscos+fiscais+ap%C3%B3s+queda+18%25+Ibovespa",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Blog do Gustavo Negreiros",
+     "titulo": "Mercado reavalia riscos fiscais após queda de 18% do Ibovespa",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdktyS3VEMktNTTdmNnRVeVJjXy1IaEh1ZmJFMi1odVBqQktOZ3Bzb05VdHRkYWxScVJBakJHMmxabnV4VjQxMG44UTJsekRfYnJEemNFVXNYck1sSXJHTXNKaE9qWWNsbWhtenJCS1hqVldWTVJzRDB3NXduNDdETmYtVU1WMG1qSWtiblBoQkR3enFXXzdXTjNteWh1VWtZUE5nSWZyeFc2dnRDSVlr?oc=5"
+    }
+   ],
+   "score": 22.2
   }
  ],
  "falas_e_videos": [
+  {
+   "id": "6de83d75d2",
+   "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
+   "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
+   "veiculo": "Poder360",
+   "publicado": "2026-10-31T17:56:36+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Assista+deo+Fla+vio+Bolsonaro+nos+EUA",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Secretário de Estado americano nega ajuda de governo dos EUA na fuga de Flávio Bolsonaro",
+     "url": "https://valor.globo.com/politica/noticia/2026/10/31/secretario-de-estado-americano-nega-ajuda-de-governo-dos-eua-na-fuga-de-flavio-bolsonaro.ghtml"
+    },
+    {
+     "veiculo": "Record News",
+     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
+     "url": "https://www.youtube.com/watch?v=dVfet26T0gI"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Mauro Vieira conversa com Marco Rubio dias após fuga de Flávio Bolsonaro aos EUA",
+     "url": "https://valor.globo.com/brasil/noticia/2026/10/30/mauro-vieira-conversa-com-marco-rubio-dias-aps-fuga-de-flvio-bolsonaro-aos-eua.ghtml"
+    },
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
+     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI"
+    }
+   ],
+   "score": 59.4,
+   "video_url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
+   "video_canal": "Poder360",
+   "video_por_hora": 26154,
+   "video_acima_mediana": 135.0,
+   "videos": [
+    {
+     "canal": "Poder360",
+     "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
+     "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
+     "por_hora": 26154
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
+     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
+     "por_hora": 11328
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do avião",
+     "url": "https://www.youtube.com/watch?v=YyTJKrUXJK8",
+     "por_hora": 1357
+    },
+    {
+     "canal": "Record News",
+     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
+     "url": "https://www.youtube.com/watch?v=dVfet26T0gI",
+     "por_hora": 307
+    }
+   ]
+  },
   {
    "id": "c0ddc15cf3",
    "titulo": "Voto antecipado nos EUA bate recorde e chega a 48 milhões",
@@ -1596,7 +1609,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Voto+antecipado+nos+EUA+bate+recorde+chega+milh%C3%B5es",
-   "veiculos": 7,
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
@@ -1620,166 +1633,29 @@
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXVJVjYteGpneDFWRHIyaVBlVVhlaGZ0NDJyQTlLLS1wZVRnN2NKd01FTG54WkNUOWd4UkRFdmxoNzhpbV9zMnhMZFI0cDR2OE9ybnlSSXI3QmdtVnBQVHY0VnZFa3VfV3hJVV84NXJqdm5fb1RQc01MMFQ2M2dGb0pPOFpxc0RPLTBnbW9wZk5FWHVNSFJGRS1WR2c3ei0yRUp0UkV2QnlCLXNueEJvSmJRU1dFRGQzU3ktMWFGN0JaTm9jZG1QNlRwNTliRFpf?oc=5"
     }
    ],
-   "score": 55.6,
+   "score": 49.2,
    "video_url": "https://www.youtube.com/watch?v=pJpBmEaazkE",
    "video_canal": "UOL",
-   "video_por_hora": 34200,
-   "video_acima_mediana": 13.7,
+   "video_por_hora": 32333,
+   "video_acima_mediana": 7.9,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Eleições nos EUA superam recorde de votação antecipada, com 48 milhões de votos no 'midterms'",
      "url": "https://www.youtube.com/watch?v=pJpBmEaazkE",
-     "por_hora": 34200
+     "por_hora": 32333
     },
     {
      "canal": "InfoMoney",
      "titulo": "Voto antecipado nos EUA bate recorde e chega a 48 milhões",
      "url": "https://www.youtube.com/watch?v=tjQlKjXdIKk",
-     "por_hora": 16682
+     "por_hora": 17252
     },
     {
      "canal": "UOL",
      "titulo": "EUA têm recorde de voto antecipado nas eleições de meio de mandato, com mais de 49 milhões de votos",
      "url": "https://www.youtube.com/watch?v=Of2RbkWIuLU",
-     "por_hora": 6487
-    }
-   ]
-  },
-  {
-   "id": "6de83d75d2",
-   "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
-   "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
-   "veiculo": "Poder360",
-   "publicado": "2026-10-31T13:18:18+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Assista+deo+Fla+vio+Bolsonaro+nos+EUA",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=f4Speyg_mbc"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=rCmMVTGGckk"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
-     "url": "https://www.youtube.com/watch?v=dVfet26T0gI"
-    },
-    {
-     "veiculo": "G1",
-     "titulo": "O que pode acontecer com Flávio Bolsonaro nos EUA se democratas derrotarem Trump no Congresso?",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR25wb1JwUW9BcUg1MXNuc1RUX3pxVFRBcV9uWnZtRVZmYUdLNFJQWEJsRVBncUpFRUh3MjNjOV9HY1hRMEFtLTVHNnZfMlRBUXFqRkZianBTZzNBRXJWUk1Zc0V3UHRQY2lZNC05Q3VCQXJoMW1fVjd1MVhpM2xmRVBkdTJWUFZyRWZXS0luSVR5c2lHaVNrUWdrRGpqVUp0WmJqd2hfUUhTTl9TQUhSczF5ckNNQ3JZd1BhX2F2dFlGNHNJTU0xeDc1ZnZkUjl4SXF4YlBfa003MWZMRHfSAewBQVVfeXFMUDhFOVVISHVFWWhrNzQ5Y2dzZURONUQ1bEFVd0dkN1dRbVdqUlk0YkdCaV9RRTBGRTY4cU9NaG9XdDhtbUNWSVI1MFhza0U5N3lQbWNXdmV5eF9xYkVpaWprdjZMYnp3R05GUVRIZ2ZoMmRjRTA5YTRLcnQxU1lpb3RhbGNzQUlfOVRGTW9KOWF4R082RWtBTFpjU3U1dnJPUjFlNkRzRmxWU0dzSVFJLW1PYi0xZG83NUlOYWpLMGFTWVBIeUV1al95SHhqS3hvSHctbDl0cXNtc1BmT0JHRmwxOGZMNnk1SVQ3UHI?oc=5"
-    }
-   ],
-   "score": 53.2,
-   "video_url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
-   "video_canal": "Poder360",
-   "video_por_hora": 27254,
-   "video_acima_mediana": 134.0,
-   "videos": [
-    {
-     "canal": "Poder360",
-     "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
-     "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
-     "por_hora": 27254
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do avião",
-     "url": "https://www.youtube.com/watch?v=YyTJKrUXJK8",
-     "por_hora": 1405
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=rCmMVTGGckk",
-     "por_hora": 1279
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio Bolsonaro fala pela 1ª vez dos EUA e cita concorrer em eleições antes de 2030",
-     "url": "https://www.youtube.com/watch?v=f4Speyg_mbc",
-     "por_hora": 625
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Voo que levou Flávio Bolsonaro e a família aos EUA custou cerca de R$ 800 mil",
-     "url": "https://www.youtube.com/watch?v=dVfet26T0gI",
-     "por_hora": 317
-    }
-   ]
-  },
-  {
-   "id": "d844d7f3c2",
-   "titulo": "Mauro Vieira conversa com Marco Rubio dias após fuga de Flávio Bolsonaro aos EUA",
-   "url": "https://valor.globo.com/brasil/noticia/2026/10/30/mauro-vieira-conversa-com-marco-rubio-dias-aps-fuga-de-flvio-bolsonaro-aos-eua.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-10-31T16:08:24+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mauro+Vieira+conversa+com+Marco+Rubio+dias+ap%C3%B3s+fuga",
-   "veiculos": 8,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "SBT News",
-     "titulo": "Vieira tem 1º encontro com Rubio após fuga de Flávio Bolsonaro | #Newssabado",
-     "url": "https://www.youtube.com/watch?v=acIxqyR4rVc"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
-     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI"
-    },
-    {
-     "veiculo": "Transmissão Política",
-     "titulo": "Deputados dos EUA cobram Marco Rubio sobre possível ajuda do governo Trump na fuga de Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWo3NU9qVExkUmNEZnFQY25yUzZkNHM1VFYwQm1PRXFma1JPeU1EZk1VcGNjc0VWS1pTNGFwaUcxSU53WUU2c2V2QVJ1SGNkLXBSRHpLelNjV1pPZG41WEVRanlZYTBibUdkejhTZHBjMWZ6YjBTSVFBcDJpX0NyMUkwVDh2cVVsS3M2UXY1Tm9iZnJmWkhoQ1lvNHNIa2RCdjZSNTc2LVMxMUtBZ0Y3MXlDb2NNM2NSUjJN?oc=5"
-    },
-    {
-     "veiculo": "Rondônia Dinâmica",
-     "titulo": "Deputados dos EUA cobram explicações de Rubio sobre ajuda a Flávio Bolsonaro",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaFNGeW1ldTVaSnBHbjBjWl9ETXExQzhGa3RoMUFQS1JCYzFMdGtFU1pTX3FVclMyUEcwRUU2M1UxWHYyb3dqUXlaVng1QkdjNF9QVWNFQk15WnJmdnk1blpTVHhWMVVjMk9wRzFiaG1HSGxrWW16Um9Ra2p6MmJ6bTU2dkZYRnBNTy1iWWRGUTJ4U25BNVZxekpFSDVBSmZwcGcyanJUOFZCSlV5RWFTemsyNzJRQTk1ajQ1SHJvQ01mU0FucE1tdnVLUUVzeERYTGRjTEtB?oc=5"
-    }
-   ],
-   "score": 50.0,
-   "video_url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
-   "video_canal": "GloboNews",
-   "video_por_hora": 11172,
-   "video_acima_mediana": 8.6,
-   "videos": [
-    {
-     "canal": "GloboNews",
-     "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
-     "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
-     "por_hora": 11172
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Deputados dos EUA questionam papel de Trump na fuga de Flávio e emissão de visto",
-     "url": "https://www.youtube.com/watch?v=0nxBGrDSlb8",
-     "por_hora": 7821
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Vieira tem 1º encontro com Rubio após fuga de Flávio Bolsonaro | #Newssabado",
-     "url": "https://www.youtube.com/watch?v=acIxqyR4rVc",
-     "por_hora": 793
+     "por_hora": 11703
     }
    ]
   },
@@ -1796,7 +1672,7 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Michelle+chama+Jair+Bolsonaro+l%C3%ADder+diz+que+presidente+pede",
-   "veiculos": 28,
+   "veiculos": 12,
    "rotina": false,
    "outras": [
     {
@@ -1815,28 +1691,79 @@
      "url": "https://www.youtube.com/watch?v=I1Gagv5Hq2g"
     },
     {
-     "veiculo": "Correio do Povo Penedo",
-     "titulo": "Michelle Bolsonaro defende união da direita após a derrota de Flávio",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0hzMnBVSlhrZEVEYXFORTRBbFJILVZ2bWtKX3pTbko1OUhIalpnS2JHSHNRQ184WnFSUkRMSVdFY1c3anlCTVZlVVVhM2t1RU16ekZUU1kzd2dWOFFiQXBpa0dYOGtSTlFsUHNsSG9DdEVDMS1FMW9LTC1xYm9uUjYtazl4QWExa29URjdXeVNzQV82bXN3cFFXVDJ0VjRwbFBvR1Vjck1raW1yWkFtMGJDV3pTdGtHVXNSOEpQMA?oc=5"
+     "veiculo": "JC",
+     "titulo": "Custo da derrota de Flávio Bolsonaro no mercado não se restringiu apenas às contribuições para a campanha eleitoral",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTXRvQ0UyU3dCS0thaXpGdHVPV0dSWFpBMzBHU0RuSDNORHhLTXpWRU5YUFhwXzV5NkdfVjg5d1hTTUhrVkp0MVFzTDdKeDU0eU5TZ1FpaTBMeTliMklKV0RpcE10TlhPNFE3NUJWdEFqaThwRWdfV3lXWExReEc3bWRTQXpieEhiWTN3eUdZbTFOLVl1N3lfU2NmUlVsczFmS3p6VkNia05TN19HRk1HeUhEdHN6TWpKM3VKNk9ZSVZCVnVfV2luS1ExUVNNc005LS13WWJ0SWhNYU5Kb1RBREM2NG1qMHJfa21hUTN0RUR0bm5XaGY1TFZ6OVBMOTk5QkFv?oc=5"
     }
    ],
-   "score": 46.6,
+   "score": 46.0,
    "video_url": "https://www.youtube.com/watch?v=0DmqG9nU6pE",
    "video_canal": "UOL",
-   "video_por_hora": 16421,
-   "video_acima_mediana": 6.6,
+   "video_por_hora": 15800,
+   "video_acima_mediana": 3.9,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Vingança de patrões pela derrota de Flávio Bolsonaro aprofunda divisão do Brasil | Sakamoto",
      "url": "https://www.youtube.com/watch?v=0DmqG9nU6pE",
-     "por_hora": 16421
+     "por_hora": 15800
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Michelle afirma que Jair Bolsonaro não procura culpados pela derrota de Flávio",
      "url": "https://www.youtube.com/watch?v=I1Gagv5Hq2g",
-     "por_hora": 4000
+     "por_hora": 3571
+    }
+   ]
+  },
+  {
+   "id": "2a95fb6860",
+   "titulo": "Ibovespa cai mais de 18% na semana e tem pior resultado desde 2020 | #SBTBrasil",
+   "url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
+   "veiculo": "SBT News",
+   "publicado": "2026-10-31T14:21:00+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+cai+mais+18%25+semana+tem+pior+resultado+desde",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Diário 360",
+     "titulo": "LULA \"VENCE\" E MERCADO DESABA: BOLSA PERDE 18% E DÓLAR DISPARA 9%; PIOR SEMANA DESDE MARÇO DE 2020",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVEw2M0FYYWctVExsZWxhUFJVdDlBeTZyVUJoZmFsQmREWUNJUGR4ZmdLVnBPdi1valRQZ3hYVTJ1LUFfUkpjY0F6ZlpCTzAyeFBjTkVzai1SM2ZLdlE5VHZNMFVFaHd6UVljQm1MWldZNER3Y1RRTGFCN2U0MXJMdThiR1MwZmRMNVR1eWxJQTkyZWI4MnlTbzN5eFV0Y09lWXpISnBfTEFENFQ2WUx6eEtwYXdWNkdkRXpEQmlSMU4yZWptWEtZYw?oc=5"
+    },
+    {
+     "veiculo": "O Petróleo",
+     "titulo": "Dólar dispara, Bolsa desaba e mercado já teme juros altos por mais tempo no Brasil",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDhwRzZTd1BVbDlhZkd2S003TXFGQW03WW5TWGtJejExTEdmMDZRVmc2WTZnMHFMYVhJenJoTlNFX2xKdTYyNW8zOUdIaDFUb2I3ODRjLW0zLTh0RjZsWWVNd2JoWC0tWGZTODNCcFFuUEdiWXBRLXZzMGNPV3BXZzlNRnVwZExnMmZkZU1sZWFmWlNEMmlGVTNadlFyc2d6UHFLUmpfUnJYRVE?oc=5"
+    },
+    {
+     "veiculo": "Natal em Foco",
+     "titulo": "Dólar dispara 9% após eleição e Bolsa registra pior semana desde 2020",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzFHZkU4LXpyVDgtN0l3RFBpT1FzR1d2XzE0UllzZG40TUw2M1U3bEhUSUNxZ0xwTDNlREtZMzhZODVZMUExVTFJX2xDSVUzcVl3U3VVOUdyeTV6Q1o2UjFBSmJ4Q0o1dFE3M3JEZGFkSl9MS2dVUnQ2RkdMMmw1dXF0ZDZOVlFnYVJ6ckVNQXhSUF93b09RR1cxYm4xWEExNFBhbkg3R2NpVjZUc2c?oc=5"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "B3 perde R$ 948,8 bilhões em valor de mercado em uma semana",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWNBMHhyVlJMTXVJM1JRNWtuN2QzMDEzYWdIekRfblRtcWphOW1HSFRWdXk3M18tWGgtQ2RCSnlGZVp4UmJIWFJYZGhuMnFBZHpFc1RWRm43dVd0Z3pGME1Mc0hlTnVPdjJYTnR3dU5VM3BiUU5PeDVfaU9tZU5ZZFBFbVhnMjZrQ3VoZnZ6SUxadVpUclRjMU9BMllzV25MVUZV?oc=5"
+    }
+   ],
+   "score": 40.5,
+   "video_url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
+   "video_canal": "SBT News",
+   "video_por_hora": 139,
+   "video_acima_mediana": 0.2,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Ibovespa cai mais de 18% na semana e tem pior resultado desde 2020 | #SBTBrasil",
+     "url": "https://www.youtube.com/watch?v=5eNTJ2Rzx9A",
+     "por_hora": 139
     }
    ]
   },
@@ -1866,70 +1793,31 @@
      "url": "https://www.youtube.com/watch?v=WCvI3TfiUak"
     }
    ],
-   "score": 33.9,
+   "score": 33.6,
    "video_url": "https://www.youtube.com/watch?v=6f5LB8Vh-ik",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 81692,
-   "video_acima_mediana": 69.2,
+   "video_por_hora": 61791,
+   "video_acima_mediana": 50.1,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "FLÁVIO BOLSONARO CRITICA RESULTADO DAS ELEIÇÕES | JORNAL DA MANHÃ - EDIÇÃO SÁBADO - 31/10/26",
      "url": "https://www.youtube.com/watch?v=6f5LB8Vh-ik",
-     "por_hora": 81692
+     "por_hora": 61791
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Flávio Bolsonaro volta a questionar resultado das eleições de 2026",
      "url": "https://www.youtube.com/watch?v=GJWmkNgbEDU",
-     "por_hora": 6667
+     "por_hora": 6286
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Sem provas, Flávio Bolsonaro volta a falar em fraude nas eleições | Jornal da Noite",
      "url": "https://www.youtube.com/watch?v=WCvI3TfiUak",
-     "por_hora": 4846
+     "por_hora": 4571
     }
    ]
-  },
-  {
-   "id": "d2a7e0517e",
-   "titulo": "Ministro do Trabalho pede que MP acione Nikolas por \"boicote\" a petistas Vídeo",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVRvN1EyZzJScXBTVkRJSkJBaDNhOTBfRUVINUlfZlVvX2RucFlOeUZDOWN5QXhzTEpIeW5Sb241TGJlQnZzNG1RRUE5RnllWEJVUGltQ3YzTzI0UkdJVnhSZTRlZ2xtYzBFNHpfSFQxa3hyVVdtTGdObFpjWVIzNTFvT2RscU5GRWgzUDZXS09jR3d6a3ZrVU1mN1JfSElOdWpoZmJFYXFPb2J4S2I5OXE3VkpoNHZDc2R1QkJn?oc=5",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-10-31T10:53:29+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ministro+Trabalho+pede+que+acione+Nikolas+por+boicote+petistas",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Portal Salvador FM",
-     "titulo": "Nikolas propõe boicote a comerciantes; ministro do Trabalho pede ação do MP",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlQ5VVEwYnhxd2JwWUI3WXpVTUc3MUVjWF9wR2c2THBMUW1ZRjBEQ0Z6X1dXSmQzdW13SG9SVlItUGFOVjFWdVEwQzhXekNySnh2WGxXeVY5UWVkdUdwSUs2YjMzWlVSUXRtNWxrTUI4cDBScUxjYkpsMlJ0clYzUmttcm15SVNQV0xSYUhkd2VMVmxPb3A1eGRIVjRyN1dScEZBajJNUndHcndIS3RxR1RmWEIxSDUzRldkdw?oc=5"
-    },
-    {
-     "veiculo": "Diário do Centro do Mundo",
-     "titulo": "Ministro do Trabalho cobra MP contra Nikolas por incentivo a boicote de petistas",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmctWmtXSVhmc2FfWFE1Q1J5aTJnUXJrU3FWNDItR0ptZTZUM2Z3UjlyY05hOHdhVkVKLTJUWTNZTUZjVXloclQxSVpfR25FRDBPOGhWX0E5RGU3aVZTZ2xFQ19RdWhlWWIwem1uc1B2OF84TjVUT3A5YThUanJRZFBlaUhUZUpkZGtkQ0cyZURpU1UwYjEtc2lfRjNFeUFhU29qbVV6VHFnbUtOdkpibzlydzk5a3JkVmh4WGE4cw?oc=5"
-    },
-    {
-     "veiculo": "BNC Amazonas",
-     "titulo": "Ministro pede que MP avalie medidas contra Nikolas por ‘boicote’ a petistas",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNl85SGdyaExsMVdybHdZZ1ZvZ1hMWUJQRnJBV3F3SDBkRThIZ0VUUmNMUU9Wd2dtZm1rZTR3N1VEMWRCNk40NFlXQ0l1cVZuOVhiZ3AxZF9FdEdtZ0loYkkxeXV4VnpsSlFSQVRnSS03ZFZCTWktcFBwdndLZ2NLdWRVVnFCeVh6QUJQVldqRmNkMHFXYmJ2LWZHRTVOUUJMUUZEVkdxc0gyX2UydjNqbWF3?oc=5"
-    },
-    {
-     "veiculo": "Brasil 247",
-     "titulo": "Luiz Marinho pede que MP acione Nikolas Ferreira por boicote a petistas",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkIxOGItVGYyTjJuTmVaYkl0bWoxWGJFQ3h0dkFHSGpTRk5DQllvN0pJeHBDWGFqUnU4a2JON1N4QjlicW9wcGl6WlVVdjZGVm1xem41U0hObzZpUDVvNGxQd18yNEEzZnM2eUxPR3JWLXRjcTB2TkRhRDVrQzZveTlLcnc0c19KcTZqZmE4bi02LW1TVm83dWxhUjlNSTVTd3FzV204aVA?oc=5"
-    }
-   ],
-   "score": 32.3
   },
   {
    "id": "adc856c9ca",
@@ -1967,7 +1855,7 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUNVZ0p6bkIyYXJteTE0bW9xcngtSHE0SWlhcnlqdnlOYXd0bENPQkVidTg2VHNjRngzeW1JcTdaeEdMN3M3UFZzY2ZWWWlTWGFSc3FrNks2Vi1zdjJZcUd0Q013Nkc2YzNLRjgtcXhuV3o2aExHOG1JZHBUYzF4S3FrVlFnNGR1YlkxOTh3YUFJUzc3bXAxMVBfajRyMTM5czdXM2VpaWNjQ3JBWVY3amFGakU?oc=5"
     }
    ],
-   "score": 31.4
+   "score": 31.0
   },
   {
    "id": "25a0f51ba6",
@@ -1984,58 +1872,143 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 31.1,
+   "score": 30.7,
    "video_url": "https://www.youtube.com/watch?v=NdwfnLU7ddQ",
    "video_canal": "UOL",
-   "video_por_hora": 59347,
-   "video_acima_mediana": 23.7,
+   "video_por_hora": 56248,
+   "video_acima_mediana": 13.7,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Lula deve defender pacificação em discurso; Tebet é cotada para o STF; reunião entre EUA e Brasil e+",
      "url": "https://www.youtube.com/watch?v=NdwfnLU7ddQ",
-     "por_hora": 59347
+     "por_hora": 56248
     }
    ]
   },
   {
-   "id": "3353d6bd37",
-   "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
-   "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
-   "veiculo": "Estadão",
-   "publicado": "2026-10-31T16:15:54+00:00",
+   "id": "1e48ae71a4",
+   "titulo": "Lula estuda nomes para composição de seu quarto governo; veja | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=0rBfNcLH7E8",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-10-31T16:19:50+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Como+funcionam+elei%C3%A7%C3%B5es+meio+mandato+nos+Estados+Unidos",
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+estuda+nomes+para+composi%C3%A7%C3%A3o+seu+quarto+governo+veja",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "LULA SEGUE CONVERSAS SOBRE NOVOS NOMES PARA O GOVERNO | CNN AGORA MANHÃ II",
+     "url": "https://www.youtube.com/watch?v=_30a8vgktmE"
+    }
+   ],
+   "score": 29.3,
+   "video_url": "https://www.youtube.com/watch?v=_30a8vgktmE",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 37770,
+   "video_acima_mediana": 31.8,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "LULA SEGUE CONVERSAS SOBRE NOVOS NOMES PARA O GOVERNO | CNN AGORA MANHÃ II",
+     "url": "https://www.youtube.com/watch?v=_30a8vgktmE",
+     "por_hora": 37770
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Lula estuda nomes para composição de seu quarto governo; veja | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=0rBfNcLH7E8",
+     "por_hora": 2200
+    }
+   ]
+  },
+  {
+   "id": "d2a7e0517e",
+   "titulo": "Ministro do Trabalho pede que MP acione Nikolas por \"boicote\" a petistas Vídeo",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVRvN1EyZzJScXBTVkRJSkJBaDNhOTBfRUVINUlfZlVvX2RucFlOeUZDOWN5QXhzTEpIeW5Sb241TGJlQnZzNG1RRUE5RnllWEJVUGltQ3YzTzI0UkdJVnhSZTRlZ2xtYzBFNHpfSFQxa3hyVVdtTGdObFpjWVIzNTFvT2RscU5GRWgzUDZXS09jR3d6a3ZrVU1mN1JfSElOdWpoZmJFYXFPb2J4S2I5OXE3VkpoNHZDc2R1QkJn?oc=5",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-10-31T10:53:29+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ministro+Trabalho+pede+que+acione+Nikolas+por+boicote+petistas",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Portal Salvador FM",
+     "titulo": "Nikolas propõe boicote a comerciantes; ministro do Trabalho pede ação do MP",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlQ5VVEwYnhxd2JwWUI3WXpVTUc3MUVjWF9wR2c2THBMUW1ZRjBEQ0Z6X1dXSmQzdW13SG9SVlItUGFOVjFWdVEwQzhXekNySnh2WGxXeVY5UWVkdUdwSUs2YjMzWlVSUXRtNWxrTUI4cDBScUxjYkpsMlJ0clYzUmttcm15SVNQV0xSYUhkd2VMVmxPb3A1eGRIVjRyN1dScEZBajJNUndHcndIS3RxR1RmWEIxSDUzRldkdw?oc=5"
+    },
+    {
+     "veiculo": "Diário do Centro do Mundo",
+     "titulo": "Ministro do Trabalho cobra MP contra Nikolas por incentivo a boicote de petistas",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmctWmtXSVhmc2FfWFE1Q1J5aTJnUXJrU3FWNDItR0ptZTZUM2Z3UjlyY05hOHdhVkVKLTJUWTNZTUZjVXloclQxSVpfR25FRDBPOGhWX0E5RGU3aVZTZ2xFQ19RdWhlWWIwem1uc1B2OF84TjVUT3A5YThUanJRZFBlaUhUZUpkZGtkQ0cyZURpU1UwYjEtc2lfRjNFeUFhU29qbVV6VHFnbUtOdkpibzlydzk5a3JkVmh4WGE4cw?oc=5"
+    },
+    {
+     "veiculo": "BNC Amazonas",
+     "titulo": "Ministro pede que MP avalie medidas contra Nikolas por ‘boicote’ a petistas",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNl85SGdyaExsMVdybHdZZ1ZvZ1hMWUJQRnJBV3F3SDBkRThIZ0VUUmNMUU9Wd2dtZm1rZTR3N1VEMWRCNk40NFlXQ0l1cVZuOVhiZ3AxZF9FdEdtZ0loYkkxeXV4VnpsSlFSQVRnSS03ZFZCTWktcFBwdndLZ2NLdWRVVnFCeVh6QUJQVldqRmNkMHFXYmJ2LWZHRTVOUUJMUUZEVkdxc0gyX2UydjNqbWF3?oc=5"
+    },
+    {
+     "veiculo": "Brasil 247",
+     "titulo": "Luiz Marinho pede que MP acione Nikolas Ferreira por boicote a petistas",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkIxOGItVGYyTjJuTmVaYkl0bWoxWGJFQ3h0dkFHSGpTRk5DQllvN0pJeHBDWGFqUnU4a2JON1N4QjlicW9wcGl6WlVVdjZGVm1xem41U0hObzZpUDVvNGxQd18yNEEzZnM2eUxPR3JWLXRjcTB2TkRhRDVrQzZveTlLcnc0c19KcTZqZmE4bi02LW1TVm83dWxhUjlNSTVTd3FzV204aVA?oc=5"
+    }
+   ],
+   "score": 29.0
+  },
+  {
+   "id": "b1326416dc",
+   "titulo": "Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista",
+   "url": "https://www.infomoney.com.br/politica/simone-tebet-estaria-entre-nomes-considerados-por-lula-para-o-stf-diz-colunista/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-10-31T16:22:57+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Simone+Tebet+estaria+entre+nomes+considerados+por+Lula+para",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Band Jornalismo",
-     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
-     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c"
-    }
-   ],
-   "score": 25.9,
-   "video_url": "https://www.youtube.com/watch?v=kaOV5915HF0",
-   "video_canal": "Estadão",
-   "video_por_hora": 8206,
-   "video_acima_mediana": 73.7,
-   "videos": [
-    {
-     "canal": "Estadão",
-     "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
-     "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
-     "por_hora": 8206
+     "veiculo": "UOL",
+     "titulo": "Simone Tebet contribuirá mais com o governo Lula em um ministério do que no STF, diz professor",
+     "url": "https://www.youtube.com/watch?v=Qmdm6E440Po"
     },
     {
-     "canal": "Band Jornalismo",
-     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
-     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c",
-     "por_hora": 124
+     "veiculo": "UOL",
+     "titulo": "Simone Tebet é cotada para ser ministra do STF caso Lula decida indicar uma mulher para a Corte",
+     "url": "https://www.youtube.com/watch?v=LwYE5c9VDFA"
+    }
+   ],
+   "score": 28.0,
+   "video_url": "https://www.youtube.com/watch?v=LwYE5c9VDFA",
+   "video_canal": "UOL",
+   "video_por_hora": 14333,
+   "video_acima_mediana": 3.5,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Simone Tebet é cotada para ser ministra do STF caso Lula decida indicar uma mulher para a Corte",
+     "url": "https://www.youtube.com/watch?v=LwYE5c9VDFA",
+     "por_hora": 14333
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Simone Tebet contribuirá mais com o governo Lula em um ministério do que no STF, diz professor",
+     "url": "https://www.youtube.com/watch?v=Qmdm6E440Po",
+     "por_hora": 696
     }
    ]
   },
@@ -2075,114 +2048,76 @@
      "url": "https://www.youtube.com/watch?v=mK-QASzq4Is"
     }
    ],
-   "score": 25.0,
+   "score": 25.7,
    "video_url": "https://www.youtube.com/watch?v=b-_X55-eLTk",
    "video_canal": "UOL",
-   "video_por_hora": 2392,
-   "video_acima_mediana": 1.0,
+   "video_por_hora": 4957,
+   "video_acima_mediana": 1.2,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Alcolumbre pauta PEC da Segurança para terça: entenda o que tem na proposta",
      "url": "https://www.youtube.com/watch?v=b-_X55-eLTk",
-     "por_hora": 2392
+     "por_hora": 4957
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública para terça (03); Diego Tavares comenta",
      "url": "https://www.youtube.com/watch?v=s9U0ryrBE2k",
-     "por_hora": 2167
+     "por_hora": 2333
     },
     {
      "canal": "SBT News",
      "titulo": "Alcolumbre pauta PEC da Segurança Pública para a próxima terça-feira | #NewsNoite",
      "url": "https://www.youtube.com/watch?v=DG8FRI7jYd0",
-     "por_hora": 1625
+     "por_hora": 1529
     },
     {
      "canal": "SBT News",
      "titulo": "Alcolumbre marca votação da PEC da Segurança Pública para terça-feira (3) | #SBTBrasil",
      "url": "https://www.youtube.com/watch?v=mK-QASzq4Is",
-     "por_hora": 824
+     "por_hora": 778
     }
    ]
   },
   {
-   "id": "beda341064",
-   "titulo": "Aneel mantém bandeira verde na conta de luz em novembro",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/10/aneel-mantem-bandeira-verde-na-conta-de-luz-em-novembro.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-10-31T16:12:34+00:00",
-   "temas": [
-    "economia"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Aneel+mant%C3%A9m+bandeira+verde+conta+luz+novembro",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Aneel anuncia bandeira verde para a conta de luz de novembro | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=jLd4cJ1WXZk"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Conta de luz segue com bandeira verde em novembro, sem taxa adicional",
-     "url": "https://valor.globo.com/brasil/noticia/2026/10/30/conta-de-luz-segue-com-bandeira-verde-em-novembro-sem-taxa-adicional.ghtml"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Bandeira tarifária em novembro segue verde, sem adicional na conta de luz",
-     "url": "https://www.estadao.com.br/economia/bandeira-tarifaria-em-novembro-segue-verde-sem-adicional-na-conta-de-luz/"
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em novembro",
-     "url": "https://g1.globo.com/economia/noticia/2026/10/30/conta-de-luz-aneel-mantem-bandeira-tarifaria-para-verde-em-novembro.ghtml"
-    }
-   ],
-   "score": 24.6,
-   "video_url": "https://www.youtube.com/watch?v=jLd4cJ1WXZk",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 145,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Aneel anuncia bandeira verde para a conta de luz de novembro | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=jLd4cJ1WXZk",
-     "por_hora": 145
-    }
-   ]
-  },
-  {
-   "id": "4d414bb463",
-   "titulo": "democratas cobram que trump reconheça vitória de Lula | #Newssabado",
-   "url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
-   "veiculo": "SBT News",
-   "publicado": "2026-10-31T16:15:24+00:00",
+   "id": "3353d6bd37",
+   "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
+   "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
+   "veiculo": "Estadão",
+   "publicado": "2026-10-31T16:15:54+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=democratas+cobram+que+trump+reconhe%C3%A7a+vit%C3%B3ria+Lula+Newssabado",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Como+funcionam+elei%C3%A7%C3%B5es+meio+mandato+nos+Estados+Unidos",
+   "veiculos": 2,
    "rotina": false,
-   "outras": [],
-   "score": 23.8,
-   "video_url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
-   "video_canal": "SBT News",
-   "video_por_hora": 550,
-   "video_acima_mediana": 0.7,
+   "outras": [
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
+     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c"
+    }
+   ],
+   "score": 25.4,
+   "video_url": "https://www.youtube.com/watch?v=kaOV5915HF0",
+   "video_canal": "Estadão",
+   "video_por_hora": 7858,
+   "video_acima_mediana": 72.7,
    "videos": [
     {
-     "canal": "SBT News",
-     "titulo": "democratas cobram que trump reconheça vitória de Lula | #Newssabado",
-     "url": "https://www.youtube.com/watch?v=1yUQXZNFeYg",
-     "por_hora": 550
+     "canal": "Estadão",
+     "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
+     "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
+     "por_hora": 7858
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "BANDNEWS NO MUNDO - Eleições de meio de mandato nos Estados Unidos",
+     "url": "https://www.youtube.com/watch?v=cHOVOAz8z3c",
+     "por_hora": 1209
     }
    ]
   }
@@ -2193,9 +2128,9 @@
    "url": "https://www.youtube.com/watch?v=6f5LB8Vh-ik",
    "canal": "Jovem Pan News",
    "publicado": "2026-10-31T14:43:35+00:00",
-   "views": 207745,
-   "por_hora": 81692,
-   "acima_mediana": 69.2,
+   "views": 209934,
+   "por_hora": 61791,
+   "acima_mediana": 50.1,
    "temas": [
     "politica"
    ]
@@ -2205,21 +2140,21 @@
    "url": "https://www.youtube.com/watch?v=NdwfnLU7ddQ",
    "canal": "UOL",
    "publicado": "2026-10-31T15:03:26+00:00",
-   "views": 131288,
-   "por_hora": 59347,
-   "acima_mediana": 23.7,
+   "views": 172491,
+   "por_hora": 56248,
+   "acima_mediana": 13.7,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "AO VIVO: LULA SEGUE CONVERSAS SOBRE NOVOS NOMES PARA O GOVERNO | CNN AGORA MANHÃ II",
+   "titulo": "LULA SEGUE CONVERSAS SOBRE NOVOS NOMES PARA O GOVERNO | CNN AGORA MANHÃ II",
    "url": "https://www.youtube.com/watch?v=_30a8vgktmE",
    "canal": "CNN Brasil",
    "publicado": "2026-10-31T16:19:50+00:00",
-   "views": 35191,
-   "por_hora": 37483,
-   "acima_mediana": 36.6,
+   "views": 67732,
+   "por_hora": 37770,
+   "acima_mediana": 31.8,
    "temas": [
     "politica"
    ]
@@ -2228,10 +2163,10 @@
    "titulo": "Eleições nos EUA superam recorde de votação antecipada, com 48 milhões de votos no 'midterms'",
    "url": "https://www.youtube.com/watch?v=pJpBmEaazkE",
    "canal": "UOL",
-   "publicado": "2026-10-31T12:16:09.891812+00:00",
-   "views": 171000,
-   "por_hora": 34200,
-   "acima_mediana": 13.7,
+   "publicado": "2026-10-31T12:07:25.873728+00:00",
+   "views": 194000,
+   "por_hora": 32333,
+   "acima_mediana": 7.9,
    "temas": [
     "mercado",
     "politica"
@@ -2242,9 +2177,9 @@
    "url": "https://www.youtube.com/watch?v=AIlL6yDAnqw",
    "canal": "Poder360",
    "publicado": "2026-10-31T03:10:25+00:00",
-   "views": 384162,
-   "por_hora": 27254,
-   "acima_mediana": 134.0,
+   "views": 391014,
+   "por_hora": 26154,
+   "acima_mediana": 135.0,
    "temas": [
     "politica"
    ]
@@ -2253,10 +2188,10 @@
    "titulo": "Flávio Bolsonaro faz live com discurso golpista e diz que fuga não é fraqueza",
    "url": "https://www.youtube.com/watch?v=1-k3TdkLzUA",
    "canal": "UOL",
-   "publicado": "2026-10-31T01:16:09.891812+00:00",
-   "views": 416000,
-   "por_hora": 26000,
-   "acima_mediana": 10.4,
+   "publicado": "2026-10-31T01:07:25.873728+00:00",
+   "views": 423000,
+   "por_hora": 24882,
+   "acima_mediana": 6.1,
    "temas": [
     "politica"
    ]
@@ -2266,11 +2201,23 @@
    "url": "https://www.youtube.com/watch?v=tjQlKjXdIKk",
    "canal": "InfoMoney",
    "publicado": "2026-10-31T11:41:54+00:00",
-   "views": 92937,
-   "por_hora": 16682,
-   "acima_mediana": 44.6,
+   "views": 110850,
+   "por_hora": 17252,
+   "acima_mediana": 158.7,
    "temas": [
     "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Fuga de Flávio aos EUA teve Vans, ex-agente da Mossad e jato estrangeir; veja detalhes | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=ZPwtbPWnFt8",
+   "canal": "CNN Brasil",
+   "publicado": "2026-10-31T15:16:28+00:00",
+   "views": 46607,
+   "por_hora": 16357,
+   "acima_mediana": 13.8,
+   "temas": [
     "politica"
    ]
   },
@@ -2278,34 +2225,22 @@
    "titulo": "Vingança de patrões pela derrota de Flávio Bolsonaro aprofunda divisão do Brasil | Sakamoto",
    "url": "https://www.youtube.com/watch?v=0DmqG9nU6pE",
    "canal": "UOL",
-   "publicado": "2026-10-30T22:16:09.891812+00:00",
-   "views": 312000,
-   "por_hora": 16421,
-   "acima_mediana": 6.6,
+   "publicado": "2026-10-30T22:07:25.873728+00:00",
+   "views": 316000,
+   "por_hora": 15800,
+   "acima_mediana": 3.9,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Quais são os critérios para Flávio Bolsonaro pedir asilo nos EUA? Advogado explica",
-   "url": "https://www.youtube.com/watch?v=kkNhg3Ujhu0",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-10-31T12:16:09.891812+00:00",
-   "views": 56000,
-   "por_hora": 11200,
-   "acima_mediana": 9.5,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
-   "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
-   "canal": "GloboNews",
-   "publicado": "2026-10-31T00:01:05+00:00",
-   "views": 192729,
-   "por_hora": 11172,
-   "acima_mediana": 8.6,
+   "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
+   "url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
+   "canal": "SBT News",
+   "publicado": "2026-10-31T14:07:25.873728+00:00",
+   "views": 61000,
+   "por_hora": 15250,
+   "acima_mediana": 18.3,
    "temas": [
     "politica"
    ]
@@ -2315,57 +2250,57 @@
    "url": "https://www.youtube.com/watch?v=0tpXoP_zSwQ",
    "canal": "CNN Brasil",
    "publicado": "2026-10-31T13:59:51+00:00",
-   "views": 36385,
-   "por_hora": 11120,
-   "acima_mediana": 10.8,
+   "views": 60102,
+   "por_hora": 14565,
+   "acima_mediana": 12.3,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "‘Exército de lula’ inspira grupos na França, Espanha e Argentina | #MapaMundi",
-   "url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
+   "titulo": "Marco Rubio e Mauro Vieira se encontram no G20",
+   "url": "https://www.youtube.com/watch?v=wcnpY2RC1kI",
+   "canal": "GloboNews",
+   "publicado": "2026-10-31T00:01:05+00:00",
+   "views": 205096,
+   "por_hora": 11328,
+   "acima_mediana": 11.6,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Quais são os critérios para Flávio Bolsonaro pedir asilo nos EUA? Advogado explica",
+   "url": "https://www.youtube.com/watch?v=kkNhg3Ujhu0",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-10-31T12:07:25.873728+00:00",
+   "views": 62000,
+   "por_hora": 10333,
+   "acima_mediana": 8.4,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Reeleição de Lula: o que esperar da relação do Brasil com o mundo? | #MapaMundi",
+   "url": "https://www.youtube.com/watch?v=5UzWL4WmJxQ",
    "canal": "SBT News",
-   "publicado": "2026-10-31T13:16:09.891812+00:00",
-   "views": 43000,
-   "por_hora": 10750,
-   "acima_mediana": 13.1,
+   "publicado": "2026-10-31T13:07:25.873728+00:00",
+   "views": 48000,
+   "por_hora": 9600,
+   "acima_mediana": 11.5,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "\"Exército de Lula\" inspira canais de esquerda em eleições estrangeiras | CNN PRIME TIME",
-   "url": "https://www.youtube.com/watch?v=Xic9SV7vp08",
-   "canal": "CNN Brasil",
-   "publicado": "2026-10-31T00:16:09.891812+00:00",
-   "views": 175000,
-   "por_hora": 10294,
-   "acima_mediana": 10.0,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Fuga de Flávio aos EUA teve Vans, ex-agente da Mossad e jato estrangeir; veja detalhes | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=ZPwtbPWnFt8",
-   "canal": "CNN Brasil",
-   "publicado": "2026-10-31T15:16:28+00:00",
-   "views": 18633,
-   "por_hora": 9340,
-   "acima_mediana": 9.1,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Como funcionam as eleições de meio de mandato nos Estados Unidos?",
-   "url": "https://www.youtube.com/watch?v=kaOV5915HF0",
-   "canal": "Estadão",
-   "publicado": "2026-10-30T23:01:33+00:00",
-   "views": 149703,
-   "por_hora": 8206,
-   "acima_mediana": 73.7,
+   "titulo": "Eleições em Israel terminam sem maioria e abrem disputa por coalizão; entenda | #MapaMundi",
+   "url": "https://www.youtube.com/watch?v=Y-Q9NWXVT2M",
+   "canal": "SBT News",
+   "publicado": "2026-10-31T13:30:24+00:00",
+   "views": 37984,
+   "por_hora": 8227,
+   "acima_mediana": 9.9,
    "temas": [
     "politica"
    ]
@@ -2378,18 +2313,16 @@
    "url": "https://www.youtube.com/watch?v=6f5LB8Vh-ik",
    "video_url": "https://www.youtube.com/watch?v=6f5LB8Vh-ik",
    "canal": "Jovem Pan News",
-   "views_h": 81692,
-   "acima_mediana": 69.2,
+   "views_h": 61791,
+   "acima_mediana": 50.1,
    "publicado": "2026-10-31T11:43-03:00",
-   "veiculos": [
-    "Repórter Maceió"
-   ],
-   "qtd_veiculos": 1,
+   "veiculos": [],
+   "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
-   "forca": 42,
-   "porque": "vídeo do Jovem Pan News com 81.692 views/h (69.2x o normal do canal); só 1 veículo deram"
+   "forca": 44,
+   "porque": "vídeo do Jovem Pan News com 61.791 views/h (50.1x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "video",
@@ -2397,8 +2330,8 @@
    "url": "https://www.youtube.com/watch?v=NdwfnLU7ddQ",
    "video_url": "https://www.youtube.com/watch?v=NdwfnLU7ddQ",
    "canal": "UOL",
-   "views_h": 59347,
-   "acima_mediana": 23.7,
+   "views_h": 56248,
+   "acima_mediana": 13.7,
    "publicado": "2026-10-31T12:03-03:00",
    "veiculos": [
     "InfoMoney"
@@ -2408,70 +2341,65 @@
     "politica"
    ],
    "forca": 42,
-   "porque": "vídeo do UOL com 59.347 views/h (23.7x o normal do canal); só 1 veículo deram"
+   "porque": "vídeo do UOL com 56.248 views/h (13.7x o normal do canal); só 1 veículo deram"
   },
   {
-   "tipo": "pauta",
-   "titulo": "Economistas propõem taxar ricos em vez de cortar gastos sociais",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economistas-propoem-taxar-ricos-em-vez-de-cortar-gastos-sociais",
+   "tipo": "video",
+   "titulo": "LULA SEGUE CONVERSAS SOBRE NOVOS NOMES PARA O GOVERNO | CNN AGORA MANHÃ II",
+   "url": "https://www.youtube.com/watch?v=_30a8vgktmE",
+   "video_url": "https://www.youtube.com/watch?v=_30a8vgktmE",
+   "canal": "CNN Brasil",
+   "views_h": 37770,
+   "acima_mediana": 31.8,
+   "publicado": "2026-10-31T13:19-03:00",
    "veiculos": [
-    "Agência Brasil"
+    "BBC News Brasil",
+    "Metrópoles",
+    "Valor"
    ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-10-31T14:02-03:00",
+   "qtd_veiculos": 3,
    "temas": [
-    "economia",
+    "politica"
+   ],
+   "forca": 36.9,
+   "porque": "vídeo do CNN Brasil com 37.770 views/h (31.8x o normal do canal); só 3 veículos deram"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Eleições nos EUA superam recorde de votação antecipada, com 48 milhões de votos no 'midterms'",
+   "url": "https://www.youtube.com/watch?v=pJpBmEaazkE",
+   "video_url": "https://www.youtube.com/watch?v=pJpBmEaazkE",
+   "canal": "UOL",
+   "views_h": 32333,
+   "acima_mediana": 7.9,
+   "publicado": "2026-10-31T09:07-03:00",
+   "veiculos": [
+    "CNN Brasil",
+    "Exame"
+   ],
+   "qtd_veiculos": 2,
+   "temas": [
     "mercado",
     "politica"
    ],
-   "forca": 31.9,
-   "porque": "só 1 veículo (Agência Brasil); apareceu às 14h02"
+   "forca": 36.0,
+   "porque": "vídeo do UOL com 32.333 views/h (7.9x o normal do canal); só 2 veículos deram"
   },
   {
    "tipo": "pauta",
-   "titulo": "Lula quer nomes de peso e exige fidelidade de aliados no novo governo",
-   "url": "https://www.metropoles.com/colunas/neila-guimaraes/lula-quer-nomes-de-peso-e-exige-fidelidade-de-aliados-no-novo-governo",
+   "titulo": "Marco Rubio nega que os EUA tenham ajudado Flávio a sair do Brasil",
+   "url": "https://www.metropoles.com/mundo/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-sair-do-brasil",
    "veiculos": [
+    "CNN Brasil",
     "Metrópoles"
    ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-10-31T13:52-03:00",
+   "qtd_veiculos": 2,
+   "primeira_vez": "2026-10-31T14:10-03:00",
    "temas": [
     "politica"
    ],
-   "forca": 31.8,
-   "porque": "só 1 veículo (Metrópoles); apareceu às 13h52"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Trump retoma comícios na reta final das midterms nos EUA  | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=Sm_KvugD2TM",
-   "veiculos": [
-    "Transmissão Política"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-10-31T14:05-03:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "forca": 31.4,
-   "porque": "só 1 veículo (Transmissão Política); apareceu às 14h05"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista",
-   "url": "https://www.infomoney.com.br/politica/simone-tebet-estaria-entre-nomes-considerados-por-lula-para-o-stf-diz-colunista/",
-   "veiculos": [
-    "InfoMoney"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-10-31T13:22-03:00",
-   "temas": [
-    "politica"
-   ],
-   "forca": 29.4,
-   "porque": "só 1 veículo (InfoMoney); apareceu às 13h22"
+   "forca": 32.8,
+   "porque": "só 2 veículos (CNN Brasil, Metrópoles); apareceu às 14h10"
   },
   {
    "tipo": "video",
@@ -2479,31 +2407,71 @@
    "url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
    "video_url": "https://www.youtube.com/watch?v=mynFycUd5Tk",
    "canal": "SBT News",
-   "views_h": 10750,
-   "acima_mediana": 13.1,
-   "publicado": "2026-10-31T10:16-03:00",
+   "views_h": 15250,
+   "acima_mediana": 18.3,
+   "publicado": "2026-10-31T11:07-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
-   "forca": 29.4,
-   "porque": "vídeo do SBT News com 10.750 views/h (13.1x o normal do canal); nenhum veículo deu ainda"
+   "forca": 31.6,
+   "porque": "vídeo do SBT News com 15.250 views/h (18.3x o normal do canal); nenhum veículo deu ainda"
   },
   {
-   "tipo": "pauta",
-   "titulo": "Marco Rubio nega que os EUA tenham ajudado Flávio a sair do Brasil",
-   "url": "https://www.metropoles.com/mundo/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-sair-do-brasil",
-   "veiculos": [
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-10-31T14:10-03:00",
+   "tipo": "video",
+   "titulo": "Reeleição de Lula: o que esperar da relação do Brasil com o mundo? | #MapaMundi",
+   "url": "https://www.youtube.com/watch?v=5UzWL4WmJxQ",
+   "video_url": "https://www.youtube.com/watch?v=5UzWL4WmJxQ",
+   "canal": "SBT News",
+   "views_h": 9600,
+   "acima_mediana": 11.5,
+   "publicado": "2026-10-31T10:07-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
-   "forca": 28.0,
-   "porque": "só 1 veículo (Metrópoles); apareceu às 14h10"
+   "forca": 28.8,
+   "porque": "vídeo do SBT News com 9.600 views/h (11.5x o normal do canal); nenhum veículo deu ainda"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Voto antecipado nos EUA bate recorde e chega a 48 milhões",
+   "url": "https://www.youtube.com/watch?v=tjQlKjXdIKk",
+   "video_url": "https://www.youtube.com/watch?v=tjQlKjXdIKk",
+   "canal": "InfoMoney",
+   "views_h": 17252,
+   "acima_mediana": 158.7,
+   "publicado": "2026-10-31T08:41-03:00",
+   "veiculos": [
+    "Exame",
+    "Área VIP"
+   ],
+   "qtd_veiculos": 2,
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 28.6,
+   "porque": "vídeo do InfoMoney com 17.252 views/h (158.7x o normal do canal); só 2 veículos deram"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Eleições em Israel terminam sem maioria e abrem disputa por coalizão; entenda | #MapaMundi",
+   "url": "https://www.youtube.com/watch?v=Y-Q9NWXVT2M",
+   "video_url": "https://www.youtube.com/watch?v=Y-Q9NWXVT2M",
+   "canal": "SBT News",
+   "views_h": 8227,
+   "acima_mediana": 9.9,
+   "publicado": "2026-10-31T10:30-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
+   "temas": [
+    "politica"
+   ],
+   "forca": 28.1,
+   "porque": "vídeo do SBT News com 8.227 views/h (9.9x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "video",
@@ -2511,31 +2479,16 @@
    "url": "https://www.youtube.com/watch?v=shOepsONJPE",
    "video_url": "https://www.youtube.com/watch?v=shOepsONJPE",
    "canal": "Band Jornalismo",
-   "views_h": 6248,
-   "acima_mediana": 36.4,
+   "views_h": 5793,
+   "acima_mediana": 29.9,
    "publicado": "2026-10-31T13:17-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "mercado"
    ],
-   "forca": 27.1,
-   "porque": "vídeo do Band Jornalismo com 6.248 views/h (36.4x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Pessoas físicas concentram 72,5% dos investimentos em fundos imobiliários",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzdiazh4aFI4dFNsUDBzR3pONWZPZjVOcGJvTkNpVmx6UjM2Nl9lTGxrYUcxTEpnWDMzTUJ1VnFheTRwMm1aUE5JTnozOFd0M2pxOTZXc2Y3VEJBY0pJSnRhaS1hVGxfZllOSW1pU0xwbVU3NFlYc2w3ODlSbWJOQTBvNlhzWlBPQmw5OHhMeTNsZkZkMWs3THRQcmhBVFhZQTI4UDBn?oc=5",
-   "veiculos": [
-    "Paraíba Business"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-10-31T14:00-03:00",
-   "temas": [
-    "mercado"
-   ],
    "forca": 26.9,
-   "porque": "só 1 veículo (Paraíba Business); apareceu às 14h00"
+   "porque": "vídeo do Band Jornalismo com 5.793 views/h (29.9x o normal do canal); nenhum veículo deu ainda"
   }
  ],
  "fontes_ok": 64,
