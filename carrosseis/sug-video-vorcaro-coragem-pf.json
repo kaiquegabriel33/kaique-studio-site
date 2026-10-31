@@ -1,78 +1,79 @@
 {
- "id": "sug-video-vorcaro-coragem-pf",
- "titulo": "Vorcaro à delegada da PF: “será que tem alguém com coragem na Polícia Federal para poder entender isso?” (vídeo)",
- "status": "pronto",
- "formato": "video",
- "criado": "2026-10-30T14:35",
- "atualizado": "2026-10-30T15:10",
- "video_url": "https://www.youtube.com/watch?v=RAwWP7WSS7Y",
- "trecho": {
-  "inicio": "Será que tem alguém com coragem",
-  "fim": "para mim é muito dinheiro",
-  "texto": "Será que tem alguém com coragem na Polícia Federal para poder entender isso? Não, a gente já pediu acesso a esses documentos ao resultado dessa auditoria. Agora, assim, o que a gente vê, externamente, o que a gente vê, o que apareceu, 2,2 bi de baixa, isso já tem 2,2 bi, porque para mim é muito dinheiro.",
-  "aspa_manchete": "será que tem alguém com coragem na Polícia Federal para poder entender isso",
-  "cta": true,
-  "encher": true,
-  "contexto": [
-   {
-    "desde": "Será que tem alguém",
-    "texto": "Depoimento à PF em 15/10/2026, divulgado em 29/10, um dia depois de a PF indiciar Vorcaro e mais 14 no caso Master",
-    "cor": "amarelo"
-   },
-   {
-    "desde": "2,2 bi de baixa",
-    "texto": "A delegada: baixa de R$ 2,2 bi no BRB com carteiras podres que o Master repassou ao banco",
-    "cor": "vermelho"
-   }
-  ]
- },
- "slides": [
-  {
-   "papel": "vídeo",
-   "tema": "escuro",
-   "altura": 1920,
-   "elementos": [
+  "id": "sug-video-vorcaro-coragem-pf",
+  "titulo": "Vorcaro à delegada da PF: “será que tem alguém com coragem na Polícia Federal para poder entender isso?” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-30T14:35",
+  "atualizado": "2026-10-30T15:10",
+  "video_url": "https://www.youtube.com/watch?v=RAwWP7WSS7Y",
+  "trecho": {
+    "inicio": "Será que tem alguém com coragem",
+    "fim": "para mim é muito dinheiro",
+    "texto": "Será que tem alguém com coragem na Polícia Federal para poder entender isso? Não, a gente já pediu acesso a esses documentos ao resultado dessa auditoria. Agora, assim, o que a gente vê, externamente, o que a gente vê, o que apareceu, 2,2 bi de baixa, isso já tem 2,2 bi, porque para mim é muito dinheiro.",
+    "aspa_manchete": "será que tem alguém com coragem na Polícia Federal para poder entender isso",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "Será que tem alguém",
+        "texto": "Depoimento à PF em 15/10/2026, divulgado em 29/10, um dia depois de a PF indiciar Vorcaro e mais 14 no caso Master",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "2,2 bi de baixa",
+        "texto": "A delegada: baixa de R$ 2,2 bi no BRB com carteiras podres que o Master repassou ao banco",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Vorcaro, dono do Master, pra delegada da PF: ==“será que tem alguém com coragem na Polícia Federal para poder entender isso?”== A delegada responde na hora."
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Vorcaro, dono do Master, pra delegada da PF: ==“será que tem alguém com coragem na Polícia Federal para poder entender isso?”== A delegada responde na hora."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Vorcaro pra delegada da PF: “será que tem alguém com coragem na Polícia Federal para poder entender isso?”\n\nO dono do Banco Master falou isso no depoimento de 15/10/2026, que a PF mandou ao STF em 29/10, um dia depois de indiciar ele e mais 14 pessoas no caso Master. A delegada Janaína Palazzo atribui a ele fraude: carteiras de crédito podres, vindas da Tirreno (que a PF aponta como empresa de fachada), repassadas pelo Master ao BRB, o banco do governo do Distrito Federal. Pela PF, isso virou uma baixa de R$ 2,2 bilhões no BRB.\n\nO lado dele: diz que não fez nada, que trocou os ativos ruins por ativos próprios de boa-fé e que hoje o BRB tem mais ativo do que pagou. Pede perícia e pede pra responder solto. Ele está preso desde 4 de março de 2026, na Papudinha.\n\nNa prática: R$ 2,2 bilhões de baixa num banco público é dinheiro que sai do dono do banco, e o dono é o governo do DF. Quem cobre rombo de banco público é o contribuinte. Pra mim, ironizar a delegada dentro do depoimento não ajuda em nada quem diz que não tem nada a esconder.\n\nVídeo: reprodução Poder360 (29/10/2026), depoimento gravado pela PF. Fontes: Poder360 (29/10/2026), Agência Brasil e G1 (28/10/2026).\n\n#Vorcaro #BancoMaster #BRB #PoliciaFederal",
+  "fontes": [
+    {
+      "titulo": "Poder360 (YouTube) — Vorcaro ironiza delegada da PF ao ser questionado sobre fraude (29/10/2026, 22h41; trecho do depoimento gravado pela PF em 15/10/2026)",
+      "url": "https://www.youtube.com/watch?v=RAwWP7WSS7Y"
     },
     {
-     "tipo": "video",
-     "h": "resto",
-     "ajuste": "conter",
-     "x": 0,
-     "w": 1080,
-     "raio": 0
+      "titulo": "Poder360 — Vorcaro ironiza delegada da PF ao ser questionado sobre fraude (29/10/2026, 22h30): delegada Janaína Palazzo; fraude com carteira da Tirreno (empresa de fachada, segundo a PF) repassada ao BRB; baixa de R$ 2,2 bi no BRB; “Será que tem alguém com coragem na Polícia Federal para entender isso?”; preso na Papudinha; depoimento enviado ao STF em 29/10, um dia após o indiciamento com outras 14 pessoas",
+      "url": "https://www.poder360.com.br/poder-justica/vorcaro-ironiza-delegada-da-pf-ao-ser-questionado-sobre-fraude/"
+    },
+    {
+      "titulo": "Poder360 — Vorcaro diz estar preso há quase 1 ano por negócio que não ocorreu (29/10/2026): depoimento em 15/10/2026; pede perícia e para responder solto",
+      "url": "https://www.poder360.com.br/poder-justica/vorcaro-diz-estar-preso-ha-quase-1-ano-por-negocio-que-nao-ocorreu/"
+    },
+    {
+      "titulo": "Agência Brasil — PF indicia Vorcaro e mais 14 investigados no caso Master (28/10/2026); também CNN Brasil, G1, Metrópoles e Poder360 (28/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/"
+    },
+    {
+      "titulo": "Wikipédia (pt) — Daniel Vorcaro: preso em 4/3/2026 na 3ª fase da Operação Compliance Zero; BRB aportou ~R$ 16,7 bi no Master em 2024–2025",
+      "url": "https://pt.wikipedia.org/wiki/Daniel_Vorcaro"
     }
-   ]
-  }
- ],
- "legenda": "Vorcaro pra delegada da PF: “será que tem alguém com coragem na Polícia Federal para poder entender isso?”\n\nO dono do Banco Master falou isso no depoimento de 15/10/2026, que a PF mandou ao STF em 29/10, um dia depois de indiciar ele e mais 14 pessoas no caso Master. A delegada Janaína Palazzo atribui a ele fraude: carteiras de crédito podres, vindas da Tirreno (que a PF aponta como empresa de fachada), repassadas pelo Master ao BRB, o banco do governo do Distrito Federal. Pela PF, isso virou uma baixa de R$ 2,2 bilhões no BRB.\n\nO lado dele: diz que não fez nada, que trocou os ativos ruins por ativos próprios de boa-fé e que hoje o BRB tem mais ativo do que pagou. Pede perícia e pede pra responder solto. Ele está preso desde 4 de março de 2026, na Papudinha.\n\nNa prática: R$ 2,2 bilhões de baixa num banco público é dinheiro que sai do dono do banco, e o dono é o governo do DF. Quem cobre rombo de banco público é o contribuinte. Pra mim, ironizar a delegada dentro do depoimento não ajuda em nada quem diz que não tem nada a esconder.\n\nVídeo: reprodução Poder360 (29/10/2026), depoimento gravado pela PF. Fontes: Poder360 (29/10/2026), Agência Brasil e G1 (28/10/2026).\n\n#Vorcaro #BancoMaster #BRB #PoliciaFederal",
- "fontes": [
-  {
-   "titulo": "Poder360 (YouTube) — Vorcaro ironiza delegada da PF ao ser questionado sobre fraude (29/10/2026, 22h41; trecho do depoimento gravado pela PF em 15/10/2026)",
-   "url": "https://www.youtube.com/watch?v=RAwWP7WSS7Y"
-  },
-  {
-   "titulo": "Poder360 — Vorcaro ironiza delegada da PF ao ser questionado sobre fraude (29/10/2026, 22h30): delegada Janaína Palazzo; fraude com carteira da Tirreno (empresa de fachada, segundo a PF) repassada ao BRB; baixa de R$ 2,2 bi no BRB; “Será que tem alguém com coragem na Polícia Federal para entender isso?”; preso na Papudinha; depoimento enviado ao STF em 29/10, um dia após o indiciamento com outras 14 pessoas",
-   "url": "https://www.poder360.com.br/poder-justica/vorcaro-ironiza-delegada-da-pf-ao-ser-questionado-sobre-fraude/"
-  },
-  {
-   "titulo": "Poder360 — Vorcaro diz estar preso há quase 1 ano por negócio que não ocorreu (29/10/2026): depoimento em 15/10/2026; pede perícia e para responder solto",
-   "url": "https://www.poder360.com.br/poder-justica/vorcaro-diz-estar-preso-ha-quase-1-ano-por-negocio-que-nao-ocorreu/"
-  },
-  {
-   "titulo": "Agência Brasil — PF indicia Vorcaro e mais 14 investigados no caso Master (28/10/2026); também CNN Brasil, G1, Metrópoles e Poder360 (28/10/2026)",
-   "url": "https://agenciabrasil.ebc.com.br/"
-  },
-  {
-   "titulo": "Wikipédia (pt) — Daniel Vorcaro: preso em 4/3/2026 na 3ª fase da Operação Compliance Zero; BRB aportou ~R$ 16,7 bi no Master em 2024–2025",
-   "url": "https://pt.wikipedia.org/wiki/Daniel_Vorcaro"
-  }
- ],
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-10-30T15:10"
+  ],
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-10-30T15:10",
+  "postado_em": "2026-10-30T19:00:00-03:00"
 }
