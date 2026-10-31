@@ -1,0 +1,41 @@
+{
+ "id": "atomo-clone-previdencia-taxa",
+ "titulo": "Explicador: taxa da previdência (voz clonada)",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-10-31T16:49:33",
+ "atualizado": "2026-10-31T16:49:33",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Quanto a taxa da sua previdência vai comer em 30 anos? Fiz a conta da Márcia."
+    }
+   ]
+  }
+ ],
+ "legenda": "Quanto a taxa da sua previdência vai comer em 30 anos? Fiz a conta da Márcia.\n\nR$ 100 mil por 30 anos, rendendo 10% ao ano antes da taxa:\ncom 2% de taxa de administração, sobram uns 8% e viram cerca de R$ 1 milhão.\ncom 0,5% de taxa, sobram 9,5% e viram mais de R$ 1,5 milhão.\n\nMesmo dinheiro, mesmo prazo, sem colocar um real a mais. A diferença passa de R$ 500 mil.\n\nE tem plano que ainda cobra carregamento: até 10% de cada depósito, antes de investir (regra da SUSEP).\n\nO outro lado: previdência tem vantagem de verdade. Na tabela regressiva, depois de 10 anos o imposto no resgate é de 10% (Lei 11.053/2004). E dá pra trocar de plano sem sacar, pela portabilidade: o dinheiro vai direto de uma empresa pra outra.\n\nPra mim, \"pelo menos tá rendendo\" é argumento de preguiçoso. Olha a taxa no extrato ou no regulamento do seu plano.\n\nA conta é nossa: juros compostos sobre R$ 100 mil, sem novos depósitos e sem imposto, com a taxa descontada direto do rendimento (simplificação). Os 10% ao ano são hipótese, não promessa de rendimento.\n\nNarração com a minha voz gerada por IA.\n\nConteúdo educativo, não é recomendação de investimento.\n\nFontes: SUSEP (Previdência Complementar Aberta, dúvidas frequentes: carregamento, taxa de administração e portabilidade) e Lei 11.053/2004, art. 1º. Print da abertura: Exame.\n\n#previdenciaprivada #aposentadoria #investimentos #educacaofinanceira",
+ "fontes": [
+  {
+   "titulo": "SUSEP (Previdência Complementar Aberta"
+  },
+  {
+   "titulo": "dúvidas frequentes: carregamento"
+  },
+  {
+   "titulo": "taxa de administração e portabilidade) e Lei 11.053/2004"
+  },
+  {
+   "titulo": "art. 1º. Print da abertura: Exame."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 62.8
+}
