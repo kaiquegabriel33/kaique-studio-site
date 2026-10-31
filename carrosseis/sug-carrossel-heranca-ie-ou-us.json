@@ -1,0 +1,238 @@
+{
+ "id": "sug-carrossel-heranca-ie-ou-us",
+ "titulo": "IE ou US? O código que muda a herança",
+ "status": "pronto",
+ "formato": "carrossel",
+ "criado": "2026-10-31T13:30",
+ "atualizado": "2026-10-31T13:30",
+ "slides": [
+  {
+   "papel": "capa",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 50,
+     "texto": "Dois fundos seguem a mesma bolsa americana. O código de um começa com US, o do outro com IE. Pra herança dos seus filhos, essas duas letras podem separar ==um imposto de até 40% de um imposto zero==."
+    },
+    {
+     "tipo": "comparacao",
+     "sinal": "×",
+     "itens": [
+      {
+       "titulo": "US…",
+       "texto": "Fundo registrado nos EUA. Entra no limite de US$ 60 mil da herança americana.",
+       "cor": "#e0482f"
+      },
+      {
+       "titulo": "IE…",
+       "texto": "Fundo registrado na Irlanda. Fica fora da herança americana.",
+       "cor": "#2e9e5b"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "papel": "fato",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 40,
+     "texto": "Pra herança, os EUA olham onde a empresa ou o fundo foi constituído, não o que ele compra. O ETF da Irlanda tem as mesmas ações americanas, mas ==não é bem americano pra herança==: a mesma comida, num restaurante diferente."
+    },
+    {
+     "tipo": "citacao",
+     "tam": 34,
+     "citacoes": [
+      "“Ação de empresa constituída sob a lei americana é bem localizado nos Estados Unidos, e toda outra ação de empresa é bem localizado fora dos Estados Unidos.”"
+     ],
+     "autor": "IRS, instruções do Form 706-NA",
+     "contexto": "tradução nossa"
+    }
+   ]
+  },
+  {
+   "papel": "evidencia",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 40,
+     "texto": "E a Irlanda não cobra no lugar? Não, quando ==quem deixa e quem recebe não moram lá==. A lei irlandesa de herança isenta a cota de fundo irlandês nesse caso. Zero nos EUA, zero na Irlanda."
+    },
+    {
+     "tipo": "imagem",
+     "src": "midia/sug-carrossel-heranca-ie-ou-us/print-www-irishstatutebook-ie-capital-acquisitions-tax-consoli.png",
+     "h": 431,
+     "ajuste": "conter",
+     "raio": 18
+    }
+   ]
+  },
+  {
+   "papel": "evidencia",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 40,
+     "texto": "Como saber de onde é o seu fundo? Olha o código dele, o ISIN, que aparece na página do fundo na corretora. Começa com ==IE==, é da Irlanda. Começa com ==US==, é americano. Não importa qual bolsa ele segue."
+    },
+    {
+     "tipo": "comparacao",
+     "sinal": "",
+     "itens": [
+      {
+       "titulo": "IE…",
+       "texto": "Registrado na Irlanda.",
+       "cor": "#2e9e5b"
+      },
+      {
+       "titulo": "US…",
+       "texto": "Registrado nos Estados Unidos.",
+       "cor": "#e0482f"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "papel": "evidencia",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 40,
+     "texto": "E ainda tem o dividendo. Na ação americana, quem mora no Brasil tem 30% retidos lá. Dentro do fundo irlandês, os dividendos das ações americanas pagam ==15%==, pelo acordo entre EUA e Irlanda."
+    },
+    {
+     "tipo": "grafico",
+     "formato": "barras",
+     "h": 520,
+     "titulo": "De cada US$ 100 de dividendo, o governo americano fica com",
+     "subtitulo": "imposto retido nos EUA, em US$",
+     "rotulos": [
+      "Ação americana (quem mora no Brasil)",
+      "Dentro do fundo irlandês"
+     ],
+     "valores": [
+      30,
+      15
+     ],
+     "casas": 0,
+     "destaques": [
+      1
+     ],
+     "prefixo": "US$ ",
+     "corBarras": [
+      "#e0482f",
+      "#2e9e5b"
+     ]
+    }
+   ]
+  },
+  {
+   "papel": "interpretacao",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 40,
+     "texto": "Mas tem o outro lado. Pra trocar o americano pelo irlandês, você vende. E lucro de aplicação lá fora paga ==15% aqui no Brasil==, pela Lei 14.754/2023. Quem tem muito lucro acumulado faz essa conta antes de vender."
+    },
+    {
+     "tipo": "comparacao",
+     "sinal": "",
+     "itens": [
+      {
+       "titulo": "Trocar agora",
+       "texto": "15% sobre o lucro, pago no Brasil, na venda.",
+       "cor": "#1f6fd1"
+      },
+      {
+       "titulo": "Deixar no americano",
+       "texto": "Acima de US$ 60 mil, a família pode pagar de 26% a 40% sobre o que passa.",
+       "cor": "#e0482f"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "papel": "interpretacao",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 40,
+     "texto": "De bônus, o TOD (Transfer on Death): um beneficiário cadastrado na sua conta lá fora. Com ele, a família não passa pelo inventário americano pra receber. ==O imposto continua==, mas o dinheiro vai direto pra quem você escolheu."
+    },
+    {
+     "tipo": "comparacao",
+     "sinal": "",
+     "itens": [
+      {
+       "titulo": "Sem TOD",
+       "texto": "A família abre inventário nos EUA, com advogado de lá.",
+       "cor": "#e0482f"
+      },
+      {
+       "titulo": "Com TOD",
+       "texto": "A conta passa pro beneficiário que você cadastrou.",
+       "cor": "#2e9e5b"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "papel": "fecho",
+   "tema": "claro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 44,
+     "texto": "Pra mim, o erro não é investir lá. ==É nunca olhar como o dinheiro passa pra família.==\n\nEu olharia o código de cada fundo que você tem lá fora e faria as duas contas: quanto a família pagaria de herança e quanto custam os 15% pra trocar."
+    }
+   ]
+  }
+ ],
+ "legenda": "IE ou US? Duas letras no código do fundo mudam quanto a sua família paga de herança nos EUA.\n\nPra quem não mora nos EUA, ação de empresa americana e ETF americano entram no limite de US$ 60 mil do imposto de herança de lá. Acima disso, a tabela vai de 18% a 40%. Pela regra do IRS, ação de empresa constituída fora dos EUA fica fora dessa conta: o ETF registrado na Irlanda segue a bolsa americana, mas não é bem americano pra herança.\n\nE a Irlanda isenta a cota de fundo irlandês quando quem deixa e quem recebe não moram lá.\n\nPra saber de onde é o fundo, olha o código (ISIN): IE é Irlanda, US é Estados Unidos.\n\nNo dividendo, o fundo irlandês paga 15% sobre o que recebe das ações americanas, pelo tratado entre EUA e Irlanda. Na ação americana, quem mora no Brasil tem 30% retidos.\n\nO outro lado: pra trocar, você vende, e lucro de aplicação no exterior paga 15% aqui (Lei 14.754/2023). Com muito lucro acumulado, essa conta pesa.\n\nO TOD (Transfer on Death) põe um beneficiário na conta e evita o inventário de lá. O imposto continua.\n\nPara abrir sua conta Avenue: https://pit.avenue.us/onboarding/foreign-finder/AVE600894 (ou use o código AVE600894 no cadastro). Já tem Avenue? Dá pra trocar a assessoria pra mim.\n\nFundos americanos e irlandeses aqui são exemplos de tipo de produto, não é recomendação de investimento. Cada família tem um caso: antes de mexer, fale com quem entende de sucessão.\n\nFontes: IRS (Instructions for Form 706-NA, rev. 09/2025; Table A do Form 706; retenção de não residentes), tratado EUA-Irlanda (art. 10), Revenue/Irish Statute Book (Capital Acquisitions Tax Consolidation Act 2003, s. 75), FINRA (TOD) e Lei 14.754/2023. Print: Irish Statute Book.\n\n#heranca #investirnoexterior #ETF",
+ "fontes": [
+  {
+   "titulo": "IRS — Instructions for Form 706-NA, rev. 09/2025 (ação de empresa constituída nos EUA é bem nos EUA; toda outra ação, fora)",
+   "url": "https://www.irs.gov/instructions/i706na"
+  },
+  {
+   "titulo": "IRS — Instructions for Form 706, Table A (alíquotas de 18% a 40%)",
+   "url": "https://www.irs.gov/instructions/i706"
+  },
+  {
+   "titulo": "Irish Statute Book — Capital Acquisitions Tax Consolidation Act 2003, s. 75 (cota de fundo irlandês isenta quando quem deixa e quem recebe não têm domicílio nem residência habitual na Irlanda)",
+   "url": "https://www.irishstatutebook.ie/eli/2003/act/1/section/75/enacted/en/html"
+  },
+  {
+   "titulo": "IRS — Withholding on U.S. source income paid to nonresident aliens (dividendos: 30% ou a alíquota menor do tratado)",
+   "url": "https://www.irs.gov/individuals/international-taxpayers/federal-income-tax-withholding-and-reporting-on-other-kinds-of-us-source-income-paid-to-nonresident-aliens"
+  },
+  {
+   "titulo": "IRS — United States income tax treaties A to Z (Irlanda tem tratado; Brasil não)",
+   "url": "https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z"
+  },
+  {
+   "titulo": "Tratado EUA–Irlanda, art. 10 (dividendos de carteira: até 15%) — Senate Treaty Doc. 105-31",
+   "url": "https://www.govinfo.gov/content/pkg/CDOC-105tdoc31/html/CDOC-105tdoc31.htm"
+  },
+  {
+   "titulo": "Lei 14.754, de 12/12/2023 (aplicações financeiras no exterior: 15% sobre os rendimentos, arts. 2º e 3º)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14754.htm"
+  },
+  {
+   "titulo": "FINRA — Plan ahead: transfer your brokerage account assets at death (17/01/2023): TOD evita o inventário (probate), mas o imposto sobre herança pode incidir",
+   "url": "https://www.finra.org/investors/insights/plan-ahead-transfer-your-brokerage-account-assets-death"
+  }
+ ],
+ "aprovado_por": "fds autônomo 31/10 (ele: 'vai fazendo por conta própria')"
+}
