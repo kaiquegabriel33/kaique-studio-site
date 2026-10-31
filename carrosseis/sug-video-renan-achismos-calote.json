@@ -1,0 +1,59 @@
+{
+  "id": "sug-video-renan-achismos-calote",
+  "titulo": "Renan Santos: “Nunca existe um programa temporário” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T17:30",
+  "atualizado": "2026-10-29T17:30",
+  "trecho": {
+    "inicio": "O problema é que você vai gerar um precedente",
+    "fim": "continuar pagando?",
+    "texto": "O problema é que você vai gerar um precedente e nunca existe um programa temporário. Você fez uma vez, vai ter que fazer outra. Porque as pessoas se acostumam. É igual, Desenrola. Já, já ele tem um Desenrola três. Então você vai criar um ciclo de endividamento, calote, endividamento, calote, endividamento, calote. É um ciclo de baixa confiança. Então qual é o estímulo de uma pessoa boa pagadora continuar pagando?",
+    "aspa_manchete": "nunca existe um programa temporário",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "É igual",
+        "texto": "Lei 14.690/2023 criou o Desenrola como “programa emergencial”",
+        "cor": "amarelo"
+      }
+    ],
+    "trocar_palavras": {
+      "desenrola": "Desenrola",
+      "desenrola.": "Desenrola."
+    }
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Renan Santos sobre perdão de dívida: “==nunca existe um programa temporário==”"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Renan Santos sobre renegociar e perdoar dívida: “Nunca existe um programa temporário.”\n\nPra ele, todo alívio de dívida feito uma vez vira expectativa de um próximo: endividamento, calote, endividamento, calote. E quem paga em dia fica sem motivo pra continuar pagando. O Desenrola Brasil, por exemplo, foi criado pela Lei 14.690, de 3/10/2023, como “Programa Emergencial de Renegociação de Dívidas”.\n\nRenegociar ajuda ou ensina a não pagar? Comenta aí.\n\nVídeo: reprodução AchismosTV (27/10/2026). Fonte: Lei 14.690/2023 (Planalto).\n\n#Desenrola #dividas #educacaofinanceira #RenanSantos #credito",
+  "fontes": [
+    {
+      "titulo": "AchismosTV (YouTube) — Qual o futuro do Brasil com o Lula eleito? ft. Renan Santos | Achismos Podcast #441 (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=UUKtux3KQHU"
+    },
+    {
+      "titulo": "Planalto — Lei nº 14.690, de 3 de outubro de 2023 (Desenrola Brasil)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14690.htm"
+    }
+  ]
+}
