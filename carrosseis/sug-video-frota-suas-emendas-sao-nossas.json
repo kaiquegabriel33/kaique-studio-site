@@ -1,0 +1,69 @@
+{
+  "id": "sug-video-frota-suas-emendas-sao-nossas",
+  "titulo": "Frota conta o que ouviu de Eduardo Bolsonaro ao chegar em Brasília: “as suas emendas são nossas” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-01T12:10",
+  "atualizado": "2026-11-01T11:47",
+  "video_url": "https://www.youtube.com/watch?v=KUseD5nM5uc",
+  "trecho": {
+    "inicio": "E aí quando eu chego em Brasília",
+    "fim": "um clima",
+    "texto": "E aí quando eu chego em Brasília, aí as coisas mudam, porque, óbvio, eu estou aqui resumindo, mas as coisas mudam, tipo, olha, você foi eleito por nossa causa e a partir de agora nós vamos falar o que você vai fazer, né? E aí eu fiquei meio, eu falei, mas como assim? Os caras são burros pra caramba. Em vez de aproveitar, né? Não, e o Frota, parece que o Frota, ó, você vai falar o que a gente quer. Você vai votar como a gente quer, as suas emendas são nossas, nós vamos direcionar para os prefeitos que nós queremos, e você só foi eleito por causa do meu pai, você só está aqui por causa do meu pai. Isso é Flávio que te falou? É Eduardo, entendeu? Aí eu, eu não vou falar aqui o que eu falei pra ele, né? E aí já criou um clima.",
+    "girar": "nao",
+    "aspa_manchete": "as suas emendas são nossas",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "quando eu chego em Brasília",
+        "texto": "Frota contou isso à Rede TVT em 2026. Foi eleito pelo PSL em 2018 e expulso do partido em 13/08/2019",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "as suas emendas são nossas",
+        "texto": "É a versão do Frota, sem prova mostrada. Emenda é dinheiro público: uns R$ 61 bi no Orçamento de 2026",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Frota conta o que ouviu de Eduardo Bolsonaro ao chegar em Brasília: ==“as suas emendas são nossas”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Frota sobre o que ouviu de Eduardo Bolsonaro quando virou deputado: “as suas emendas são nossas”.\n\nEle contou isso numa entrevista à Rede TVT, publicada em 31/10/2026. Foi eleito em 2018 pelo PSL e diz que, ao chegar em Brasília, ouviu que ia votar como mandassem e que as emendas dele iriam pros prefeitos que a família escolhesse. Depois disso rompeu, e em 13/08/2019 o PSL expulsou ele por unanimidade.\n\nÉ bom separar as coisas: isso é a versão do Frota, sem prova mostrada na entrevista, e ele virou adversário da família. Não achei resposta do Eduardo a essa fala.\n\nO que me interessa aqui é o dinheiro. Emenda não é do deputado. Sai do Orçamento, foram uns R$ 61 bilhões em 2026, e quem decide pra qual prefeitura vai quase nunca aparece pra você.\n\nVocê sabe pra onde o deputado em quem você votou mandou as emendas dele?\n\nVídeo: reprodução Rede TVT (31/10/2026). Fontes: Diário de Pernambuco (13/08/2019) e BNews (aprovação do Orçamento de 2026).\n\n#emendas #AlexandreFrota #EduardoBolsonaro #orcamento",
+  "fontes": [
+    {
+      "titulo": "Rede TVT (YouTube) — Frota conta os bastidores no bolsonarismo no poder (publicado em 31/10/2026; o trecho vai de 0:38 a 1:32)",
+      "url": "https://www.youtube.com/watch?v=KUseD5nM5uc"
+    },
+    {
+      "titulo": "Diário de Pernambuco — Por unanimidade, PSL expulsa deputado Alexandre Frota nesta terça (13/08/2019)",
+      "url": "https://www.diariodepernambuco.com.br/noticia/politica/2019/08/por-unanimidade-psl-expulsa-deputado-alexandre-frota-nesta-terca.html"
+    },
+    {
+      "titulo": "BNews — Congresso aprova Orçamento de 2026 destinando R$ 61 bilhões para emendas parlamentares",
+      "url": "https://www.bnews.com.br/noticias/politica/congresso-nacional-aprova-orcamento-para-2026-destinando-r61-bilhoes-para-emendas-parlamentares.html"
+    }
+  ]
+}
