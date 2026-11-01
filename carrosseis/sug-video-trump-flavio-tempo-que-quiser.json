@@ -1,0 +1,74 @@
+{
+  "id": "sug-video-trump-flavio-tempo-que-quiser",
+  "titulo": "Trump sobre o Flávio: “ele pode ficar aqui o tempo que ele quiser”, mas diz que não tem planos de se reunir com ele (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-01T11:45",
+  "atualizado": "2026-11-01T11:45",
+  "video_url": "https://www.youtube.com/watch?v=nWrgSs5dsSU&t=100s",
+  "trecho": {
+    "inicio": "Acho que ele foi tratado",
+    "fim": "forma muito indigna e ele pode ficar aqui o tempo que ele quiser",
+    "texto": "Acho que ele foi tratado de uma forma muito indigna, muito indigna. Portanto, ele pode ficar aqui pelo tempo que quiser. Bolsonaro, ele pode ficar aqui o tempo que ele quiser. Ele foi tratado de uma maneira muito injusta e na minha opinião, a eleição foi uma vergonha. Ele foi tratado de uma forma muito indigna e ele pode ficar aqui o tempo que ele quiser.",
+    "aspa_manchete": "ele pode ficar aqui o tempo que ele quiser",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "Acho que ele foi tratado",
+        "texto": "Trump a jornalistas em 31/10/2026, em Mar-a-Lago. Sobre se reunir com o Flávio: não tem planos",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "a eleição foi uma vergonha",
+        "texto": "Pelo TSE, Lula venceu com 51,79% dos votos, contra 48,21% do Flávio",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Trump sobre o Flávio: ==“ele pode ficar aqui o tempo que ele quiser”==. Reunião com ele? Disse que não tem planos."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Trump sobre o Flávio: “ele pode ficar aqui o tempo que ele quiser”. Reunião com ele? Disse que não tem planos.\n\nFoi na noite de 31/10/2026, na festa de Halloween de Mar-a-Lago, o clube dele na Flórida, falando com jornalistas. Ele disse que o Flávio foi maltratado e chamou de novo a eleição do Brasil de “vergonha”. No mesmo dia, o Marco Rubio, secretário de Estado dele, disse que o governo americano não ajudou na saída do Brasil, mas que foi o Trump quem decidiu deixar o Flávio entrar.\n\nO outro lado: pelo TSE, o Lula ganhou com 64.256.232 votos (51,79%) contra 59.826.041 (48,21%). Os passaportes do Flávio foram cancelados por ordem do Moraes, numa investigação de suspeita de lavagem de dinheiro, que ele nega.\n\nPra mim o detalhe é esse: o cara sai do Brasil pela Argentina, passa pelo Equador, chega na Flórida e ouve do Trump que pode ficar, mas que ele não tem planos de encontrar com ele. Pra mim, isso é abrigo, não é apoio.\n\nVídeo: reprodução Jovem Pan News (01/11/2026), com a tradução em português da emissora. Fontes: Estadão Conteúdo via InfoMoney (01/11/2026), CNN Brasil (01/11/2026), TSE (resultado do 2º turno, 25/10/2026), Diário do Pará com Reuters e NYT (28/10/2026).\n\n#Trump #FlavioBolsonaro #eleicoes2026 #politica",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News (YouTube) — Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA” (01/11/2026; a fala do Trump, com tradução da emissora, vai de 1:45 a 2:02; rota pela Argentina e Equador contada pelo repórter)",
+      "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU"
+    },
+    {
+      "titulo": "InfoMoney / Estadão Conteúdo — Trump diz não ter plano de ver Flávio, mas que ele pode ficar “pelo tempo que quiser” (01/11/2026, 08h59): festa de Halloween em Mar-a-Lago na noite de 31/10",
+      "url": "https://www.infomoney.com.br/mundo/trump-diz-nao-ter-plano-de-ver-flavio-mas-que-ele-pode-ficar-pelo-tempo-que-quiser/"
+    },
+    {
+      "titulo": "CNN Brasil (YouTube) — Flávio pode ficar nos EUA “o tempo que quiser”, diz Trump (01/11/2026): repórter em Miami; a fala do Rubio em Atlanta (não participou da saída; Trump autorizou a entrada)",
+      "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0"
+    },
+    {
+      "titulo": "Diário do Pará (Reuters e NYT) — Flávio Bolsonaro está nos EUA após deixar o Brasil; veja o que se sabe (28/10/2026): passaportes cancelados; investigação de suspeita de lavagem de dinheiro, que ele nega",
+      "url": "https://diariodopara.com.br/noticias/brasil/flavio-bolsonaro-esta-nos-eua-apos-deixar-o-brasil-veja-o-que-se-sabe/"
+    }
+  ],
+  "ab_formato": "30-10",
+  "teste_reel": true
+}
