@@ -1,6 +1,32 @@
 {
- "atualizado": "2026-11-01T19:04-03:00",
+ "atualizado": "2026-11-01T19:06-03:00",
  "em_alta": [
+  {
+   "termo": "carlos vinícius",
+   "trafego": "2000+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Análise: Grêmio empolga contra o Athletico e atinge aproveitamento que pode evitar queda",
+     "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/10/30/analise-gremio-empolga-contra-o-athletico-e-atinge-aproveitamento-que-pode-evitar-queda.ghtml",
+     "veiculo": "ge"
+    },
+    {
+     "titulo": "Após críticas, Renato Gaúcho exalta elenco e manda recado após vitória do Grêmio: 'Sou muito bom'",
+     "url": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17451332/apos-criticas-renato-gaucho-exalta-elenco-manda-recado-apos-vitoria-gremio-sou-muito-bom",
+     "veiculo": "ESPN Brasil"
+    },
+    {
+     "titulo": "Atuação de Weverton em Grêmio x Athletico vira assunto: 'Não merece'",
+     "url": "https://www.lance.com.br/fora-de-campo/atuacao-de-weverton-em-gremio-x-athletico-vira-assunto-nao-merece.html",
+     "veiculo": "LANCE!"
+    }
+   ],
+   "publicado": "2026-11-01T13:40:00-08:00"
+  },
   {
    "termo": "desenhos bíblicos record",
    "trafego": "200+",
@@ -29,7 +55,7 @@
   },
   {
    "termo": "rodrigo muniz",
-   "trafego": "100+",
+   "trafego": "200+",
    "temas": [
     "mercado"
    ],
@@ -52,92 +78,9 @@
     }
    ],
    "publicado": "2026-11-01T13:40:00-08:00"
-  },
-  {
-   "termo": "tempestade",
-   "trafego": "1000+",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "noticias": [
-    {
-     "titulo": "Defesa Civil emite novos alertas para o RS, que tem risco de tempestades com queda de granizo e rajadas de vento",
-     "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/01/defesa-civil-alertas.ghtml",
-     "veiculo": "G1"
-    },
-    {
-     "titulo": "Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo que atuam nas proximidades de Pinhal da Serra",
-     "url": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-que-atuam-nas-proximidades-de-pinhal-da-serra",
-     "veiculo": "Defesa Civil do Rio Grande do Sul"
-    },
-    {
-     "titulo": "Not��cias - Defesa Civil alerta para risco de alagamentos e elevação de rios no Rio Grande do Sul nos próximos dias",
-     "url": "https://guiacrissiumal.com.br/noticias/01-11-2026-Defesa_Civil_alerta_para_risco_de_alagamentos_e_elevacao_de_rios_no_Rio_Grande_do_Sul_nos_proximos_dias",
-     "veiculo": "Guia Crissiumal"
-    }
-   ],
-   "publicado": "2026-11-01T13:30:00-08:00"
   }
  ],
  "pautas": [
-  {
-   "id": "e98b38495c",
-   "titulo": "Leia o que Trump disse até agora sobre as eleições no Brasil",
-   "url": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-01T20:30:28+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Leia+que+Trump+disse+at%C3%A9+agora+sobre+elei%C3%A7%C3%B5es+Brasil",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
-     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU"
-    },
-    {
-     "veiculo": "Blog do Valente",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA “quanto tempo quiser”, mas descarta encontro com senador",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVUcxNlZHcG5IS1RXWHZlQndCWjllVUVwT0NFOVNwdERvS1AtYXFKcWFUZDc3SFNtOEFrdGV1cF9PUVlTc2tLNnBXaFhMdWJ1S2xXd1IzSEJvRXhSbXJuSGNoNmdlbXMwTDk5R0pkMVBfeVdOWHV0WGNJb0RDeFNVWHlVX3hFRktXS3NmRUprTmE2Y21wcExvNHpkS25ZRTdPRVBwVEQ2eUMwN1V1OWFTeHFrUUR2T04xeFhDYzJoWjFrRlFVRFVIUlBKa3NtQmFmakFSSjEwbjdTTVNMVGhaTzcyR20?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser, mas que não há plano de encontrá-lo",
-     "url": "https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml"
-    },
-    {
-     "veiculo": "Rádio Metrópole",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA “quanto tempo quiser” e que não pretende se encontrar com ele",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblJvU1dEZWxmZDVkWHNtbDJIdHJVYzVaMU1VRWFVbGxvRGhmaExpSnhyeWJhU01lSUlDbkRtTUdTQlU2S1dyRWdjd2djdzNjaFRGT2ZDbUE4MHZrUHVaYlphTUItaDYtTjdwbmx6bFktUk9qY0NzVHBpTVBhd2pQYlUzOVdtTUdWVC1kZzdENzdRYUdrOUhmTHZ2NkVYaVM0aW9Ca0dZaFFPaEs3UmNGamZZcmRqd2ZkY3VTejQxZm9TTURmdTZJejJfSlZ1WWRUN0Jqa1FYa2FDclZwNWNOLTFTU2xDM1lPWXBneDRhUXRTcmJTejRrVQ?oc=5"
-    }
-   ],
-   "score": 43.1,
-   "video_url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 7000,
-   "video_acima_mediana": 3.9,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
-     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
-     "por_hora": 7000
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
-     "url": "https://www.youtube.com/watch?v=MsCqJByi3ro",
-     "por_hora": 3444
-    }
-   ]
-  },
   {
    "id": "cfd3e5392b",
    "titulo": "Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado",
@@ -270,94 +213,14 @@
    "score": 40.8,
    "video_url": "https://www.youtube.com/watch?v=GvFEdyRfpUk",
    "video_canal": "MyNews",
-   "video_por_hora": 266,
+   "video_por_hora": 264,
    "video_acima_mediana": 2.4,
    "videos": [
     {
      "canal": "MyNews",
      "titulo": "QUEM LULA VAI INDICAR? ENTENDA O IMPACTO DO NOVO MINISTRO DA FAZENDA PARA O MERCADO FINANCEIRO",
      "url": "https://www.youtube.com/watch?v=GvFEdyRfpUk",
-     "por_hora": 266
-    }
-   ]
-  },
-  {
-   "id": "42de2a3d5c",
-   "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-01T20:27:01+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+pode+ficar+nos+EUA+tempo+que+quiser+diz",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
-     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
-     "url": "https://www.youtube.com/watch?v=4ybhZIccC88"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "TRUMP DIZ QUE FLÁVIO PODE FICAR NOS EUA \"O TEMPO QUE QUISER\"  | CNN AGORA MANHÃ",
-     "url": "https://www.youtube.com/watch?v=5icHy6QyxsI"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c"
-    }
-   ],
-   "score": 40.3,
-   "video_url": "https://www.youtube.com/watch?v=5icHy6QyxsI",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 40390,
-   "video_acima_mediana": 8.7,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "TRUMP DIZ QUE FLÁVIO PODE FICAR NOS EUA \"O TEMPO QUE QUISER\"  | CNN AGORA MANHÃ",
-     "url": "https://www.youtube.com/watch?v=5icHy6QyxsI",
-     "por_hora": 40390
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
-     "por_hora": 14778
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
-     "url": "https://www.youtube.com/watch?v=4ybhZIccC88",
-     "por_hora": 7453
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
-     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8",
-     "por_hora": 3859
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=4F5XW8r6yws",
-     "por_hora": 1315
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c",
-     "por_hora": 385
+     "por_hora": 264
     }
    ]
   },
@@ -399,7 +262,7 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0pzZ2lnbW1zUVRZd09iQkZIMXNxRlBobGNjU3lTX1M3VUd4cVRMYmRVUUllcHJOVHdGbXFiTGV4NkFhX255ZVZiVXhzdzNaZVpnbXM3Yk0xem8wb3B0NHFSWGthNE1Yem03QzhsNFE0Ql84cWVudW1QdjdTZ0pDakZEaWJCVFh2V0pjZXdZTlFHWWhNbm5kbjBYc0pLbzByZTI3Tm12NXJyYjc3YWNXOA?oc=5"
     }
    ],
-   "score": 39.7
+   "score": 39.6
   },
   {
    "id": "4f6ff509ac",
@@ -426,7 +289,7 @@
     {
      "veiculo": "Investidor10",
      "titulo": "Decisão do Copom sobre Selic e Payroll nos EUA são destaques; veja a agenda da semana",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa19jX0VVcDdzRnRTbGtyM2E1OGFNR0FnMDZhX2RPVUx1ekVZa1pFcEx1Zjk0R0o5dlJSM2xyc1VEVFFqMm1QYkRqZ0MzMllkVFVXSENaRG45WFdQVnVsNnZkaVFmN3BMcWhXbzZ3UWJ5YjVodjgxN011ZlJHUGszeGlXT29Lc2R5YXctSkZpQ3pJNkk4SThDMWp5dFhhU3hMVXNGcXNCY1kzYTZIaVJxMUd5elQtamJJR2Y5Z2ZDckRERi1NVkxyWTF2N3puUdIBzgFBVV95cUxNa19jX0VVcDdzRnRTbGtyM2E1OGFNR0FnMDZhX2RPVUx1ekVZa1pFcEx1Zjk0R0o5dlJSM2xyc1VEVFFqMm1QYkRqZ0MzMllkVFVXSENaRG45WFdQVnVsNnZkaVFmN3BMcWhXbzZ3UWJ5YjVodjgxN011ZlJHUGszeGlXT29Lc2R5YXctSkZpQ3pJNkk4SThDMWp5dFhhU3hMVXNGcXNCY1kzYTZIaVJxMUd5elQtamJJR2Y5Z2ZDckRERi1NVkxyWTF2N3puUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVlJZ2JOeEx3dHh2b3UzWno4OGlaejNQTzN0a0loNVlSMGVPVE9aOHNmRTIwNjBuMDhVa1pCdExGUzJEZ1lxV3BJbGptSVM4bnptNk1pV0hHU3lhODF4Wk9tVmo0UFNGNnRncEVFNkt1U25tVGVmeGpNTmE5cnZ0OXBJaDhPb29IU2MtdWpQY3NOWXNscHdrb1d2bzAzODFyZnVFTkpndElPcEhPbDVGTzd2VG50MlEwNkk2UHhuWEdielJUOWVmY9IBzgFBVV95cUxNa19jX0VVcDdzRnRTbGtyM2E1OGFNR0FnMDZhX2RPVUx1ekVZa1pFcEx1Zjk0R0o5dlJSM2xyc1VEVFFqMm1QYkRqZ0MzMllkVFVXSENaRG45WFdQVnVsNnZkaVFmN3BMcWhXbzZ3UWJ5YjVodjgxN011ZlJHUGszeGlXT29Lc2R5YXctSkZpQ3pJNkk4SThDMWp5dFhhU3hMVXNGcXNCY1kzYTZIaVJxMUd5elQtamJJR2Y5Z2ZDckRERi1NVkxyWTF2N3puUQ?oc=5"
     },
     {
      "veiculo": "SpaceMoney",
@@ -439,7 +302,93 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXVhVEVpeldFRWVQbHVtUnloZlBDWlE4RktiTFhmV1BSQk1KdGk2YkFFYnBNbF9PM2JzZXM0TmhBSVQ1Qm93NHh5OFd3cktsTmFFOThweXZlSHVaYTNyS3h0SEZGeGVJaVhVcmRlNk9HMVV6enFvMUM4ZnZCbEdoZVNzZlN2Zw?oc=5"
     }
    ],
-   "score": 39.6
+   "score": 39.5
+  },
+  {
+   "id": "e98b38495c",
+   "titulo": "Leia o que Trump disse até agora sobre as eleições no Brasil",
+   "url": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-01T20:30:28+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Leia+que+Trump+disse+at%C3%A9+agora+sobre+elei%C3%A7%C3%B5es+Brasil",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
+     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser, mas que não há plano de encontrá-lo",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml"
+    },
+    {
+     "veiculo": "Rádio Metrópole",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA “quanto tempo quiser” e que não pretende se encontrar com ele",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblJvU1dEZWxmZDVkWHNtbDJIdHJVYzVaMU1VRWFVbGxvRGhmaExpSnhyeWJhU01lSUlDbkRtTUdTQlU2S1dyRWdjd2djdzNjaFRGT2ZDbUE4MHZrUHVaYlphTUItaDYtTjdwbmx6bFktUk9qY0NzVHBpTVBhd2pQYlUzOVdtTUdWVC1kZzdENzdRYUdrOUhmTHZ2NkVYaVM0aW9Ca0dZaFFPaEs3UmNGamZZcmRqd2ZkY3VTejQxZm9TTURmdTZJejJfSlZ1WWRUN0Jqa1FYa2FDclZwNWNOLTFTU2xDM1lPWXBneDRhUXRTcmJTejRrVQ?oc=5"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
+     "url": "https://www.youtube.com/watch?v=MsCqJByi3ro"
+    }
+   ],
+   "score": 37.1,
+   "video_url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 7000,
+   "video_acima_mediana": 4.1,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
+     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
+     "por_hora": 7000
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
+     "url": "https://www.youtube.com/watch?v=MsCqJByi3ro",
+     "por_hora": 3444
+    }
+   ]
+  },
+  {
+   "id": "6c8301bcaa",
+   "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
+   "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "veiculo": "UOL",
+   "publicado": "2026-11-01T20:01:47+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Trump+debocha+migrantes+elei%C3%A7%C3%B5es+nos+EUA+Lula+come%C3%A7a",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 36.5,
+   "video_url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "video_canal": "UOL",
+   "video_por_hora": 28502,
+   "video_acima_mediana": 9.1,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
+     "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+     "por_hora": 28502
+    }
+   ]
   },
   {
    "id": "25a6717a0f",
@@ -478,7 +427,7 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2tZRzhyNF9fSGxLSUJUOHMycXRXb0hwTi0xQTNpcGVvd2QwWktDSTgyc2M5UTN3Tm45MEQ5bVdQNzd2MUh4ZldjZU9WVkg0LW1vQ3VfR1E1eU1LbS11MUpkNEZmUVg3Zm53YWFxVW52c0dHd0JGUGFKbGtGM0FHd29YU2pNWWN2dEQxdjNnYVBZUTFJbHBEV3o5RHdSM3REZGtIeGx0aWt1ZlQ3NWc?oc=5"
     }
    ],
-   "score": 36.3
+   "score": 36.2
   },
   {
    "id": "f9580d74e5",
@@ -516,59 +465,79 @@
      "url": "https://www.moneytimes.com.br/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas-lmrs/"
     }
    ],
-   "score": 35.8
+   "score": 35.7
   },
   {
-   "id": "d48842bd87",
-   "titulo": "LULA RETOMA AGENDA INTERNACIONAL APÓS REELEIÇÃO | CNN AGORA TARDE II",
-   "url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+   "id": "42de2a3d5c",
+   "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
    "veiculo": "CNN Brasil",
-   "publicado": "2026-11-01T20:21:00+00:00",
+   "publicado": "2026-11-01T20:27:01+00:00",
    "temas": [
-    "economia",
-    "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=LULA+RETOMA+AGENDA+INTERNACIONAL+AP%C3%93S+REELEI%C3%87%C3%83O+CNN+AGORA+TARDE",
-   "veiculos": 1,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+pode+ficar+nos+EUA+tempo+que+quiser+diz",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Especialistas redesenham cenário econômico do Brasil após reeleição de Lula | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=lIQChGVp1As"
+     "veiculo": "Band Jornalismo",
+     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
+     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "COP 31, cúpula do Mercosul e G20; veja viagens de Lula após reeleição | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=5CRVGqohYWo"
+     "veiculo": "GloboNews",
+     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
+     "url": "https://www.youtube.com/watch?v=4ybhZIccC88"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=4F5XW8r6yws"
     }
    ],
-   "score": 35.2,
-   "video_url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+   "score": 34.3,
+   "video_url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 12382,
-   "video_acima_mediana": 2.7,
+   "video_por_hora": 14889,
+   "video_acima_mediana": 3.6,
    "videos": [
     {
      "canal": "CNN Brasil",
-     "titulo": "LULA RETOMA AGENDA INTERNACIONAL APÓS REELEIÇÃO | CNN AGORA TARDE II",
-     "url": "https://www.youtube.com/watch?v=RMztXb5tISU",
-     "por_hora": 12382
+     "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
+     "por_hora": 14889
     },
     {
-     "canal": "CNN Brasil",
-     "titulo": "COP 31, cúpula do Mercosul e G20; veja viagens de Lula após reeleição | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=5CRVGqohYWo",
-     "por_hora": 11667
+     "canal": "GloboNews",
+     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
+     "url": "https://www.youtube.com/watch?v=4ybhZIccC88",
+     "por_hora": 7637
     },
     {
-     "canal": "CNN Brasil",
-     "titulo": "Especialistas redesenham cenário econômico do Brasil após reeleição de Lula | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=lIQChGVp1As",
-     "por_hora": 4626
+     "canal": "Band Jornalismo",
+     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
+     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8",
+     "por_hora": 3816
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=4F5XW8r6yws",
+     "por_hora": 1306
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c",
+     "por_hora": 379
     }
    ]
   },
@@ -608,47 +577,17 @@
      "url": "https://www.youtube.com/watch?v=aTPx0prEer4"
     }
    ],
-   "score": 34.2,
+   "score": 34.1,
    "video_url": "https://www.youtube.com/watch?v=aTPx0prEer4",
    "video_canal": "Poder360",
-   "video_por_hora": 515,
-   "video_acima_mediana": 1.7,
+   "video_por_hora": 509,
+   "video_acima_mediana": 1.6,
    "videos": [
     {
      "canal": "Poder360",
      "titulo": "“Nenhum programa social será extinto nesse país”, diz Lula",
      "url": "https://www.youtube.com/watch?v=aTPx0prEer4",
-     "por_hora": 515
-    }
-   ]
-  },
-  {
-   "id": "6c8301bcaa",
-   "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
-   "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
-   "veiculo": "UOL",
-   "publicado": "2026-11-01T20:01:47+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Trump+debocha+migrantes+elei%C3%A7%C3%B5es+nos+EUA+Lula+come%C3%A7a",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 33.4,
-   "video_url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
-   "video_canal": "UOL",
-   "video_por_hora": 20743,
-   "video_acima_mediana": 7.9,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
-     "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
-     "por_hora": 20743
+     "por_hora": 509
     }
    ]
   },
@@ -690,7 +629,7 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXR1VnZXUEMyS0RtQkszRWlscXh2SnRlZnFYaDBiT1NWUXY4SFJGc2Z3eTRPbFVqOW5uSXhNc1pOalJDc0Mzcy1WTlVHX003TWFHSHQzRFNTenk3S3VTaGdqZ3dmWU9aMFNGaFhMeEtFRkt6UnpVUHI4VVpGSnFUVTltLWE2ZHluVk0yYjRHQnJvb2twN2lMT2FYb0tNLThOaHJ3ag?oc=5"
     }
    ],
-   "score": 33.2
+   "score": 33.1
   },
   {
    "id": "2e99eded7b",
@@ -731,61 +670,31 @@
    "score": 32.7
   },
   {
-   "id": "66f62af0ee",
-   "titulo": "Petroleiras dobram lucros com guerra, enquanto gasolina dispara nos EUA",
-   "url": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleiras-dobram-lucros-com-guerra-enquanto-gasolina-dispara-nos-eua/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-01T16:10:12+00:00",
+   "id": "6e265e31be",
+   "titulo": "EUA: Pesquisas apontam vantagem dos Democratas na Câmara a 3 dias das eleições de meio de mandato",
+   "url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
+   "veiculo": "UOL",
+   "publicado": "2026-11-01T19:36:51+00:00",
    "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Petroleiras+dobram+lucros+com+guerra%2C+enquanto+gasolina+dispara+nos",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Exxon e Chevron dobram lucro com a guerra, e gasolina dispara nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjg4S1FiY1p4bTVINlRDVUdJM1d3Mm9yWGFwTHVES0NqX0tfdDdaNDhkRlFOZno0U2F6aUI0SXg2b0FNX0dTX1JxeGMwMGpqc0p2M3pCYUpFRU1hc3R6Q29QRlZyRExsME1FUmV2MHQydXNwTFNSUTlTUXZoNm84TEk5TlA4OUZtOTc3dnAxSHdBekNlbk9oak1YQUtqbDdPcWVkYmgyRXBubXRHUk1VR0xmVkNyTUk?oc=5"
-    },
-    {
-     "veiculo": "Folha de Curitiba",
-     "titulo": "Exxonmobil e Chevron dobram lucros com alta do petróleo e gasolina bate recorde nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDVjbkE0dDZfR1pZaWhkY0s1TDA5YXBtRjZDNDRtUzZnS1VqbkdDbm9wTHg1dk9HRWlMdEhPSzZyZ2JwcUdZNzVlaHd2R1c5bndTZ1Z0QWx2WENHdUc5ZVh3Ukl3Zmd6ZkNaVUpwcUZKdU9RXzBpNTgtMnE1OUU5NmpaOHVnd1U4MXlJbEV4Q0xaNktsUU5ET3pieER1UVZpYUV1cXRNR0lTcTFZbmotN3g1Z1BsWjVNcFRN?oc=5"
-    }
-   ],
-   "score": 31.5
-  },
-  {
-   "id": "ee74b252d4",
-   "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
-   "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-01T13:04:17.393687+00:00",
-   "temas": [
-    "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Vota%C3%A7%C3%A3o+recorde+nos+EUA+pode+afetar+governo+Trump+Professora",
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=EUA+Pesquisas+apontam+vantagem+dos+Democratas+C%C3%A2mara+dias+das",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 30.2,
-   "video_url": "https://www.youtube.com/watch?v=LooxUSakZA4",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 37000,
-   "video_acima_mediana": 20.5,
+   "score": 30.5,
+   "video_url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
+   "video_canal": "UOL",
+   "video_por_hora": 21238,
+   "video_acima_mediana": 6.8,
    "videos": [
     {
-     "canal": "Jovem Pan News",
-     "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
-     "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
-     "por_hora": 37000
+     "canal": "UOL",
+     "titulo": "EUA: Pesquisas apontam vantagem dos Democratas na Câmara a 3 dias das eleições de meio de mandato",
+     "url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
+     "por_hora": 21238
     }
    ]
   },
@@ -812,23 +721,53 @@
      "url": "https://www.youtube.com/watch?v=BoHqksxLVHM"
     }
    ],
-   "score": 30.0,
+   "score": 30.2,
    "video_url": "https://www.youtube.com/watch?v=01zgVAM9tik",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 22147,
-   "video_acima_mediana": 10.8,
+   "video_por_hora": 22781,
+   "video_acima_mediana": 10.9,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Trump diz que só aceita resultado da eleição 'se for honesta' | Aconteceu na Semana",
      "url": "https://www.youtube.com/watch?v=01zgVAM9tik",
-     "por_hora": 22147
+     "por_hora": 22781
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Trump diz que só aceita resultado da eleição 'se for honesta' | Aconteceu na Semana",
      "url": "https://www.youtube.com/watch?v=BoHqksxLVHM",
-     "por_hora": 17315
+     "por_hora": 18041
+    }
+   ]
+  },
+  {
+   "id": "ee74b252d4",
+   "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
+   "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-01T13:06:52.910076+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Vota%C3%A7%C3%A3o+recorde+nos+EUA+pode+afetar+governo+Trump+Professora",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 30.2,
+   "video_url": "https://www.youtube.com/watch?v=LooxUSakZA4",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 37333,
+   "video_acima_mediana": 22.1,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
+     "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
+     "por_hora": 37333
     }
    ]
   },
@@ -867,14 +806,14 @@
    "score": 29.6,
    "video_url": "https://www.youtube.com/watch?v=Q0cN_wO3Qro",
    "video_canal": "InfoMoney",
-   "video_por_hora": 50,
+   "video_por_hora": 47,
    "video_acima_mediana": 0.2,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Selic, Payroll e Eleições nos EUA: A agenda mexe com os mercados | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=Q0cN_wO3Qro",
-     "por_hora": 50
+     "por_hora": 47
     }
    ]
   },
@@ -898,43 +837,14 @@
    "score": 29.3,
    "video_url": "https://www.youtube.com/watch?v=DNHe19NAR8E",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 444,
-   "video_acima_mediana": 0.2,
+   "video_por_hora": 434,
+   "video_acima_mediana": 0.3,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Copom inicia nesta terça (3) reunião sobre taxa Selic",
      "url": "https://www.youtube.com/watch?v=DNHe19NAR8E",
-     "por_hora": 444
-    }
-   ]
-  },
-  {
-   "id": "6e265e31be",
-   "titulo": "EUA: Pesquisas apontam vantagem dos Democratas na Câmara a 3 dias das eleições de meio de mandato",
-   "url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
-   "veiculo": "UOL",
-   "publicado": "2026-11-01T19:36:51+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=EUA+Pesquisas+apontam+vantagem+dos+Democratas+C%C3%A2mara+dias+das",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 28.9,
-   "video_url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
-   "video_canal": "UOL",
-   "video_por_hora": 17362,
-   "video_acima_mediana": 6.6,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "EUA: Pesquisas apontam vantagem dos Democratas na Câmara a 3 dias das eleições de meio de mandato",
-     "url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
-     "por_hora": 17362
+     "por_hora": 434
     }
    ]
   },
@@ -1053,7 +963,7 @@
    "video_url": "https://www.youtube.com/watch?v=uKyXuiLHHts",
    "video_canal": "Jovem Pan News",
    "video_por_hora": 1333,
-   "video_acima_mediana": 0.7,
+   "video_acima_mediana": 0.8,
    "videos": [
     {
      "canal": "Jovem Pan News",
@@ -1126,11 +1036,11 @@
      "url": "https://www.youtube.com/watch?v=od8I56jj4c4"
     }
    ],
-   "score": 25.7,
+   "score": 25.6,
    "video_url": "https://www.youtube.com/watch?v=od8I56jj4c4",
    "video_canal": "Jovem Pan News",
    "video_por_hora": 7800,
-   "video_acima_mediana": 4.3,
+   "video_acima_mediana": 4.6,
    "videos": [
     {
      "canal": "Jovem Pan News",
@@ -1142,7 +1052,7 @@
      "canal": "Jovem Pan News",
      "titulo": "Delegado avalia PEC da Segurança às vésperas de votação",
      "url": "https://www.youtube.com/watch?v=AktcwmrsiNM",
-     "por_hora": 1474
+     "por_hora": 1409
     }
    ]
   },
@@ -1165,14 +1075,14 @@
    "score": 25.4,
    "video_url": "https://www.youtube.com/watch?v=agKccesQr2s",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 1804,
+   "video_por_hora": 1689,
    "video_acima_mediana": 1.0,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Tarcísio rebate Boulos sobre alta do ICMS dos combustíveis",
      "url": "https://www.youtube.com/watch?v=agKccesQr2s",
-     "por_hora": 1804
+     "por_hora": 1689
     }
    ]
   },
@@ -1199,7 +1109,37 @@
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWhEQWJ4VTAwekR1cnNjYzRfbmZfUlZ1dG9TNjhLdGthTWhHZUpieVpSNVpER200T180Tmx4aVJSbUM4ZFZLaTJsSV9lRHJWQld6UkRxSFhLVlZfOUgzV1B0M0wwd2FyTThubHFTRV9KQUNBSGxla2lwUWFubnk5bGEzOTNaRkQ4Rlp1NEtPanJra1JXMUVTeURqdG9YVEhMZHVUVTMtMHFzcEh2d3hqeFRzWDFIbjBOaXZfckY2NGdia3o5Q3I5SmRB?oc=5"
     }
    ],
-   "score": 25.3
+   "score": 25.2
+  },
+  {
+   "id": "857be98a90",
+   "titulo": "Lula rebate extrema direita e descarta cortes em programas sociais",
+   "url": "https://www.youtube.com/watch?v=u6vLakgHuKk",
+   "veiculo": "UOL",
+   "publicado": "2026-11-01T20:36:32+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+rebate+extrema+direita+descarta+cortes+programas+sociais",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 24.6,
+   "video_url": "https://www.youtube.com/watch?v=u6vLakgHuKk",
+   "video_canal": "UOL",
+   "video_por_hora": 5579,
+   "video_acima_mediana": 1.8,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Lula rebate extrema direita e descarta cortes em programas sociais",
+     "url": "https://www.youtube.com/watch?v=u6vLakgHuKk",
+     "por_hora": 5579
+    }
+   ]
   },
   {
    "id": "8f6fbd5f9d",
@@ -1223,53 +1163,23 @@
      "url": "https://www.youtube.com/watch?v=rbOXfmLm5nw"
     }
    ],
-   "score": 24.5,
+   "score": 24.6,
    "video_url": "https://www.youtube.com/watch?v=UyCQB2cL49o",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 9125,
-   "video_acima_mediana": 5.1,
+   "video_por_hora": 9250,
+   "video_acima_mediana": 5.5,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Oposição deve lançar Rogério Marinho para disputar presidência do Senado contra Alcolumbre",
      "url": "https://www.youtube.com/watch?v=UyCQB2cL49o",
-     "por_hora": 9125
+     "por_hora": 9250
     },
     {
      "canal": "UOL",
      "titulo": "André do Prado diz que oposição fará reunião para indicar Rogério Marinho à presidência do Senado",
      "url": "https://www.youtube.com/watch?v=rbOXfmLm5nw",
-     "por_hora": 1891
-    }
-   ]
-  },
-  {
-   "id": "857be98a90",
-   "titulo": "Lula rebate extrema direita e descarta cortes em programas sociais",
-   "url": "https://www.youtube.com/watch?v=u6vLakgHuKk",
-   "veiculo": "UOL",
-   "publicado": "2026-11-01T20:36:32+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+rebate+extrema+direita+descarta+cortes+programas+sociais",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 24.3,
-   "video_url": "https://www.youtube.com/watch?v=u6vLakgHuKk",
-   "video_canal": "UOL",
-   "video_por_hora": 4809,
-   "video_acima_mediana": 1.8,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Lula rebate extrema direita e descarta cortes em programas sociais",
-     "url": "https://www.youtube.com/watch?v=u6vLakgHuKk",
-     "por_hora": 4809
+     "por_hora": 2865
     }
    ]
   },
@@ -1320,9 +1230,8 @@
    "titulo": "Governo Trump divulga vídeo de Halloween que debocha da detenção de migrantes pelo ICE nos EUA",
    "url": "https://www.youtube.com/watch?v=nB4edTAuJos",
    "veiculo": "UOL",
-   "publicado": "2026-11-01T18:26:41+00:00",
+   "publicado": "2026-11-01T19:06:52.910076+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
    "video": true,
@@ -1331,17 +1240,69 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.4,
+   "score": 24.2,
    "video_url": "https://www.youtube.com/watch?v=nB4edTAuJos",
    "video_canal": "UOL",
-   "video_por_hora": 14902,
-   "video_acima_mediana": 5.6,
+   "video_por_hora": 23667,
+   "video_acima_mediana": 7.6,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Governo Trump divulga vídeo de Halloween que debocha da detenção de migrantes pelo ICE nos EUA",
      "url": "https://www.youtube.com/watch?v=nB4edTAuJos",
-     "por_hora": 14902
+     "por_hora": 23667
+    }
+   ]
+  },
+  {
+   "id": "d48842bd87",
+   "titulo": "LULA RETOMA AGENDA INTERNACIONAL APÓS REELEIÇÃO | CNN AGORA TARDE II",
+   "url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-01T20:21:00+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=LULA+RETOMA+AGENDA+INTERNACIONAL+AP%C3%93S+REELEI%C3%87%C3%83O+CNN+AGORA+TARDE",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Especialistas redesenham cenário econômico do Brasil após reeleição de Lula | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=lIQChGVp1As"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "COP 31, cúpula do Mercosul e G20; veja viagens de Lula após reeleição | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=5CRVGqohYWo"
+    }
+   ],
+   "score": 23.5,
+   "video_url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 15587,
+   "video_acima_mediana": 3.7,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "LULA RETOMA AGENDA INTERNACIONAL APÓS REELEIÇÃO | CNN AGORA TARDE II",
+     "url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+     "por_hora": 15587
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "COP 31, cúpula do Mercosul e G20; veja viagens de Lula após reeleição | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=5CRVGqohYWo",
+     "por_hora": 11667
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Especialistas redesenham cenário econômico do Brasil após reeleição de Lula | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=lIQChGVp1As",
+     "por_hora": 5600
     }
    ]
   },
@@ -1370,14 +1331,14 @@
    "score": 23.2,
    "video_url": "https://www.youtube.com/watch?v=cLCP1s2AJFM",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 1034,
+   "video_por_hora": 1025,
    "video_acima_mediana": 0.5,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Endividamento das famílias brasileiras bate recorde | BandNews TV",
      "url": "https://www.youtube.com/watch?v=cLCP1s2AJFM",
-     "por_hora": 1034
+     "por_hora": 1025
     }
    ]
   },
@@ -1434,19 +1395,43 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.5,
+   "score": 22.6,
    "video_url": "https://www.youtube.com/watch?v=I702mmyw7zo",
    "video_canal": "UOL",
-   "video_por_hora": 649,
-   "video_acima_mediana": 0.2,
+   "video_por_hora": 801,
+   "video_acima_mediana": 0.3,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Governo Lula vai precisar de salto bilionário no orçamento para cumprir promessas na educação",
      "url": "https://www.youtube.com/watch?v=I702mmyw7zo",
-     "por_hora": 649
+     "por_hora": 801
     }
    ]
+  },
+  {
+   "id": "66f62af0ee",
+   "titulo": "Petroleiras dobram lucros com guerra, enquanto gasolina dispara nos EUA",
+   "url": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleiras-dobram-lucros-com-guerra-enquanto-gasolina-dispara-nos-eua/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-01T16:10:12+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Petroleiras+dobram+lucros+com+guerra%2C+enquanto+gasolina+dispara+nos",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Exxon e Chevron dobram lucro com a guerra, e gasolina dispara nos EUA",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMjg4S1FiY1p4bTVINlRDVUdJM1d3Mm9yWGFwTHVES0NqX0tfdDdaNDhkRlFOZno0U2F6aUI0SXg2b0FNX0dTX1JxeGMwMGpqc0p2M3pCYUpFRU1hc3R6Q29QRlZyRExsME1FUmV2MHQydXNwTFNSUTlTUXZoNm84TEk5TlA4OUZtOTc3dnAxSHdBekNlbk9oak1YQUtqbDdPcWVkYmgyRXBubXRHUk1VR0xmVkNyTUk?oc=5"
+    }
+   ],
+   "score": 22.5
   },
   {
    "id": "e4a146ffb5",
@@ -1484,7 +1469,7 @@
    "video_url": "https://www.youtube.com/watch?v=3JHUYc_7ZD4",
    "video_canal": "UOL",
    "video_por_hora": 5000,
-   "video_acima_mediana": 1.9,
+   "video_acima_mediana": 1.6,
    "videos": [
     {
      "canal": "UOL",
@@ -1496,120 +1481,87 @@
      "canal": "Band Jornalismo",
      "titulo": "Protestos na Europa: Lojas são saqueadas na Alemanha",
      "url": "https://www.youtube.com/watch?v=6Gvc2ckEROc",
-     "por_hora": 3785
+     "por_hora": 3729
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Protestos na Europa têm 800 presos na França e lojas saqueadas na Alemanha",
      "url": "https://www.youtube.com/watch?v=w57fVtoqGGE",
-     "por_hora": 2863
+     "por_hora": 3061
     }
    ]
   },
   {
-   "id": "f819b6065f",
-   "titulo": "SNEL11 paga dividendos de quase 16% ao ano, mas números acendem alerta para investidores",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWpnZll6Z29MeWdCeW5oOFpZaTJOUUVEaXBGOE13OGdhWmNtWHNZWHI2aWRVQ1EzTlpBYmFnc0xoOEptbnBYWmNTRXBSUlRrWXNHS0I0eDdXTXEzQ2JZMVBCa25zX3JBU2NGTS1YRGdGb0NpYm5STFExT21OUnNTZ0I2cFQ1SFJrZkwxTWFkMWs2Tjl4MU41YnZaSUNnRWlJTjBMb0RKTmNib2RaekdOQlFB?oc=5",
-   "veiculo": "O Petróleo",
-   "publicado": "2026-11-01T21:24:37+00:00",
+   "id": "82c1454112",
+   "titulo": "Lula promete manter programas sociais e critica fake news: “Vivem tentando vender desgraça”",
+   "url": "https://www.youtube.com/watch?v=-JNcqIC61vI",
+   "veiculo": "UOL",
+   "publicado": "2026-11-01T22:00:58+00:00",
    "temas": [
-    "mercado"
+    "politica"
    ],
-   "video": false,
+   "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=SNEL11+paga+dividendos+quase+16%25+ano%2C+mas+n%C3%BAmeros+acendem",
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+promete+manter+programas+sociais+critica+fake+news+Vivem",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.7
+   "score": 22.1,
+   "video_url": "https://www.youtube.com/watch?v=-JNcqIC61vI",
+   "video_canal": "UOL",
+   "video_por_hora": 232,
+   "video_acima_mediana": 0.1,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Lula promete manter programas sociais e critica fake news: “Vivem tentando vender desgraça”",
+     "url": "https://www.youtube.com/watch?v=-JNcqIC61vI",
+     "por_hora": 232
+    }
+   ]
   },
   {
-   "id": "5e07b479db",
-   "titulo": "Vinícius Ferreira Rodrigues conquista ouro mundial de Física e bate recorde brasileiro",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFBBMXFtZjJGS3FMam0zWTM2X3Vfa2NHMzhKMDAzYzdHNDBQMVIxZi1GMnp6U0xzLXczWURmUUdRbk9xNVk1WVBXQ3NnNGIyNDNBMHUtV2NaZGhNbk5ndDZmamR2WnhmUUZEZDFMYWZTS1h6d182RndXTlpBUVRmWVZudGJyYmYwdElwenpZczhSb1JqLUp0ZVVmNUZGZ0Nkak9DdmVDUjRmejZqYTJ3c00xM041YlVBVFhz0gG7AUFVX3lxTE1QUEExcW1mMkZLcUxqbTNZMzZfdV9rY0czOEowMDNjN0c0MFAxUjFmLUYyenpTTHMtdzNZRGZRR1FuT3E1WTVZUFdDc2c0YjI0M0EwdS1XY1pkaE1uTmd0NmZqZHZaeGZRRkRkMUxhZlNLWHp3XzZGd1dOWkFRVGZZVm50YnJiZjB0SXB6ellzOFJvUmotSnRlVWY1RkZnQ2RqT0N2ZUNSNGZ6NmphMndzTTEzTjViVUFUWHM?oc=5",
-   "veiculo": "Jetss BR",
-   "publicado": "2026-11-01T14:11:07+00:00",
+   "id": "1df02520e8",
+   "titulo": "Binance retoma saques após ataque hacker roubar US$ 6,3 bilhões",
+   "url": "https://c-level.folha.uol.com.br/financas/2026/11/binance-retoma-saques-apos-ataque-hacker-roubar-us-63-bilhoes.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-01T22:03:06+00:00",
    "temas": [
     "mercado"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Vin%C3%ADcius+Ferreira+Rodrigues+conquista+ouro+mundial+F%C3%ADsica+bate+recorde",
+   "busca_video": "https://www.youtube.com/results?search_query=Binance+retoma+saques+ap%C3%B3s+ataque+hacker+roubar+US%24+6%2C3",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "São Carlos no Toque",
-     "titulo": "Ex-aluno da USP de São Carlos conquista ouro em competição mundial de Física e bate recorde brasileiro - São",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRW9pSUdHb3VKZjl5cmUxeURHaEl0bnRFa19RYzBDZkpHanY4MjNMUFhZNUt6OUlFTHZCNmNkQnpJQ1hQUUc0SmRYSnF1Vy0xbnFUSklYMTlaV1lNaFIyaWF4WnQzTkpaN0VybFBadFdFaUtJMVN3dWlweHRBZWlsQjA4dkJEU2xpejJ4dS1ralA0QzJMVXhqOVRPUG9aZGlnRDhiR05GOGhPWndfTWp1b2hNeXY2OVhBUVF4Z0ZjNTJ2S1lVaTFXcTBpX3NMVnFMcWfSAdIBQVVfeXFMTUVvaUlHR291SmY5eXJlMXlER2hJdG50RWtfUWMwQ2ZKR2p2ODIzTFBYWTVLejlJRUx2QjZjZEJ6SUNYUFFHNEpkWEpxdVctMW5xVEpJWDE5WldZTWhSMmlheFp0M05KWjdFcmxQWnRXRWlLSTFTd3VpcHh0QWVpbEIwOHZCRFNsaXoyeHUta2pQNEMyTFV4ajlUT1BvWmRpZ0Q4YkdORjhoT1p3X01qdW9oTXl2NjlYQVFReGdGYzUydktZVWkxV3EwaV9zTFZxTHFn?oc=5"
+     "veiculo": "CNN Brasil",
+     "titulo": "Binance retoma saques após recuperar 95% de US$ 6,3 bi roubados em ataque | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=qUTjIoXfBD4"
     },
     {
-     "veiculo": "Só Notícia Boa",
-     "titulo": "Cearense de 24 anos conquista ouro em competição mundial de Física e bate recorde brasileiro",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0hWMm5fRG81bC1MeG1YV3Z0OHlhT3RsVVlEOEZ2Z0NyOTZwSVNsV3M1cnVlRnBzOGI3Vm9HeVUwS0FDY3ZCWFVEajFMY0N5NVE5NzdkLUl0YlRoVW85MkVXV0JXbXd1RmF4aGd3d2oxTzlRcEpJa0xNQzJXd2RQY2h5R0MteGo2dHhGcWE0UXNyanB4cjkw?oc=5"
+     "veiculo": "g1",
+     "titulo": "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
+     "url": "https://g1.globo.com/tecnologia/noticia/2026/11/01/binance-retoma-saques-apos-roubo-de-us-63-bilhoes.ghtml"
     }
    ],
-   "score": 21.7
+   "score": 22.0,
+   "video_url": "https://www.youtube.com/watch?v=qUTjIoXfBD4",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 38,
+   "video_acima_mediana": 0.0,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Binance retoma saques após recuperar 95% de US$ 6,3 bi roubados em ataque | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=qUTjIoXfBD4",
+     "por_hora": 38
+    }
+   ]
   }
  ],
  "falas_e_videos": [
-  {
-   "id": "e98b38495c",
-   "titulo": "Leia o que Trump disse até agora sobre as eleições no Brasil",
-   "url": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-01T20:30:28+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Leia+que+Trump+disse+at%C3%A9+agora+sobre+elei%C3%A7%C3%B5es+Brasil",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
-     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU"
-    },
-    {
-     "veiculo": "Blog do Valente",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA “quanto tempo quiser”, mas descarta encontro com senador",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVUcxNlZHcG5IS1RXWHZlQndCWjllVUVwT0NFOVNwdERvS1AtYXFKcWFUZDc3SFNtOEFrdGV1cF9PUVlTc2tLNnBXaFhMdWJ1S2xXd1IzSEJvRXhSbXJuSGNoNmdlbXMwTDk5R0pkMVBfeVdOWHV0WGNJb0RDeFNVWHlVX3hFRktXS3NmRUprTmE2Y21wcExvNHpkS25ZRTdPRVBwVEQ2eUMwN1V1OWFTeHFrUUR2T04xeFhDYzJoWjFrRlFVRFVIUlBKa3NtQmFmakFSSjEwbjdTTVNMVGhaTzcyR20?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser, mas que não há plano de encontrá-lo",
-     "url": "https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml"
-    },
-    {
-     "veiculo": "Rádio Metrópole",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA “quanto tempo quiser” e que não pretende se encontrar com ele",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblJvU1dEZWxmZDVkWHNtbDJIdHJVYzVaMU1VRWFVbGxvRGhmaExpSnhyeWJhU01lSUlDbkRtTUdTQlU2S1dyRWdjd2djdzNjaFRGT2ZDbUE4MHZrUHVaYlphTUItaDYtTjdwbmx6bFktUk9qY0NzVHBpTVBhd2pQYlUzOVdtTUdWVC1kZzdENzdRYUdrOUhmTHZ2NkVYaVM0aW9Ca0dZaFFPaEs3UmNGamZZcmRqd2ZkY3VTejQxZm9TTURmdTZJejJfSlZ1WWRUN0Jqa1FYa2FDclZwNWNOLTFTU2xDM1lPWXBneDRhUXRTcmJTejRrVQ?oc=5"
-    }
-   ],
-   "score": 43.1,
-   "video_url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 7000,
-   "video_acima_mediana": 3.9,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
-     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
-     "por_hora": 7000
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
-     "url": "https://www.youtube.com/watch?v=MsCqJByi3ro",
-     "por_hora": 3444
-    }
-   ]
-  },
   {
    "id": "cfd3e5392b",
    "titulo": "Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado",
@@ -1703,94 +1655,100 @@
    "score": 40.8,
    "video_url": "https://www.youtube.com/watch?v=GvFEdyRfpUk",
    "video_canal": "MyNews",
-   "video_por_hora": 266,
+   "video_por_hora": 264,
    "video_acima_mediana": 2.4,
    "videos": [
     {
      "canal": "MyNews",
      "titulo": "QUEM LULA VAI INDICAR? ENTENDA O IMPACTO DO NOVO MINISTRO DA FAZENDA PARA O MERCADO FINANCEIRO",
      "url": "https://www.youtube.com/watch?v=GvFEdyRfpUk",
-     "por_hora": 266
+     "por_hora": 264
     }
    ]
   },
   {
-   "id": "42de2a3d5c",
-   "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-01T20:27:01+00:00",
+   "id": "e98b38495c",
+   "titulo": "Leia o que Trump disse até agora sobre as eleições no Brasil",
+   "url": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-01T20:30:28+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+pode+ficar+nos+EUA+tempo+que+quiser+diz",
-   "veiculos": 4,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Leia+que+Trump+disse+at%C3%A9+agora+sobre+elei%C3%A7%C3%B5es+Brasil",
+   "veiculos": 6,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
-     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8"
+     "veiculo": "Jovem Pan News",
+     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
+     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU"
     },
     {
-     "veiculo": "GloboNews",
-     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
-     "url": "https://www.youtube.com/watch?v=4ybhZIccC88"
+     "veiculo": "Valor",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser, mas que não há plano de encontrá-lo",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "TRUMP DIZ QUE FLÁVIO PODE FICAR NOS EUA \"O TEMPO QUE QUISER\"  | CNN AGORA MANHÃ",
-     "url": "https://www.youtube.com/watch?v=5icHy6QyxsI"
+     "veiculo": "Rádio Metrópole",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA “quanto tempo quiser” e que não pretende se encontrar com ele",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPblJvU1dEZWxmZDVkWHNtbDJIdHJVYzVaMU1VRWFVbGxvRGhmaExpSnhyeWJhU01lSUlDbkRtTUdTQlU2S1dyRWdjd2djdzNjaFRGT2ZDbUE4MHZrUHVaYlphTUItaDYtTjdwbmx6bFktUk9qY0NzVHBpTVBhd2pQYlUzOVdtTUdWVC1kZzdENzdRYUdrOUhmTHZ2NkVYaVM0aW9Ca0dZaFFPaEs3UmNGamZZcmRqd2ZkY3VTejQxZm9TTURmdTZJejJfSlZ1WWRUN0Jqa1FYa2FDclZwNWNOLTFTU2xDM1lPWXBneDRhUXRTcmJTejRrVQ?oc=5"
     },
     {
-     "veiculo": "InfoMoney",
-     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c"
+     "veiculo": "UOL",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
+     "url": "https://www.youtube.com/watch?v=MsCqJByi3ro"
     }
    ],
-   "score": 40.3,
-   "video_url": "https://www.youtube.com/watch?v=5icHy6QyxsI",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 40390,
-   "video_acima_mediana": 8.7,
+   "score": 37.1,
+   "video_url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 7000,
+   "video_acima_mediana": 4.1,
    "videos": [
     {
-     "canal": "CNN Brasil",
-     "titulo": "TRUMP DIZ QUE FLÁVIO PODE FICAR NOS EUA \"O TEMPO QUE QUISER\"  | CNN AGORA MANHÃ",
-     "url": "https://www.youtube.com/watch?v=5icHy6QyxsI",
-     "por_hora": 40390
+     "canal": "Jovem Pan News",
+     "titulo": "Trump sobre eleições no Brasil: “Flávio pode ficar quanto quiser nos EUA”",
+     "url": "https://www.youtube.com/watch?v=nWrgSs5dsSU",
+     "por_hora": 7000
     },
     {
-     "canal": "CNN Brasil",
-     "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
-     "por_hora": 14778
-    },
+     "canal": "UOL",
+     "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
+     "url": "https://www.youtube.com/watch?v=MsCqJByi3ro",
+     "por_hora": 3444
+    }
+   ]
+  },
+  {
+   "id": "6c8301bcaa",
+   "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
+   "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "veiculo": "UOL",
+   "publicado": "2026-11-01T20:01:47+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Trump+debocha+migrantes+elei%C3%A7%C3%B5es+nos+EUA+Lula+come%C3%A7a",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 36.5,
+   "video_url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "video_canal": "UOL",
+   "video_por_hora": 28502,
+   "video_acima_mediana": 9.1,
+   "videos": [
     {
-     "canal": "GloboNews",
-     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
-     "url": "https://www.youtube.com/watch?v=4ybhZIccC88",
-     "por_hora": 7453
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
-     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8",
-     "por_hora": 3859
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=4F5XW8r6yws",
-     "por_hora": 1315
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c",
-     "por_hora": 385
+     "canal": "UOL",
+     "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
+     "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+     "por_hora": 28502
     }
    ]
   },
@@ -1831,59 +1789,79 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2tZRzhyNF9fSGxLSUJUOHMycXRXb0hwTi0xQTNpcGVvd2QwWktDSTgyc2M5UTN3Tm45MEQ5bVdQNzd2MUh4ZldjZU9WVkg0LW1vQ3VfR1E1eU1LbS11MUpkNEZmUVg3Zm53YWFxVW52c0dHd0JGUGFKbGtGM0FHd29YU2pNWWN2dEQxdjNnYVBZUTFJbHBEV3o5RHdSM3REZGtIeGx0aWt1ZlQ3NWc?oc=5"
     }
    ],
-   "score": 36.3
+   "score": 36.2
   },
   {
-   "id": "d48842bd87",
-   "titulo": "LULA RETOMA AGENDA INTERNACIONAL APÓS REELEIÇÃO | CNN AGORA TARDE II",
-   "url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+   "id": "42de2a3d5c",
+   "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
    "veiculo": "CNN Brasil",
-   "publicado": "2026-11-01T20:21:00+00:00",
+   "publicado": "2026-11-01T20:27:01+00:00",
    "temas": [
-    "economia",
-    "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=LULA+RETOMA+AGENDA+INTERNACIONAL+AP%C3%93S+REELEI%C3%87%C3%83O+CNN+AGORA+TARDE",
-   "veiculos": 1,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fl%C3%A1vio+pode+ficar+nos+EUA+tempo+que+quiser+diz",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Especialistas redesenham cenário econômico do Brasil após reeleição de Lula | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=lIQChGVp1As"
+     "veiculo": "Band Jornalismo",
+     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
+     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "COP 31, cúpula do Mercosul e G20; veja viagens de Lula após reeleição | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=5CRVGqohYWo"
+     "veiculo": "GloboNews",
+     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
+     "url": "https://www.youtube.com/watch?v=4ybhZIccC88"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=4F5XW8r6yws"
     }
    ],
-   "score": 35.2,
-   "video_url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+   "score": 34.3,
+   "video_url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 12382,
-   "video_acima_mediana": 2.7,
+   "video_por_hora": 14889,
+   "video_acima_mediana": 3.6,
    "videos": [
     {
      "canal": "CNN Brasil",
-     "titulo": "LULA RETOMA AGENDA INTERNACIONAL APÓS REELEIÇÃO | CNN AGORA TARDE II",
-     "url": "https://www.youtube.com/watch?v=RMztXb5tISU",
-     "por_hora": 12382
+     "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
+     "por_hora": 14889
     },
     {
-     "canal": "CNN Brasil",
-     "titulo": "COP 31, cúpula do Mercosul e G20; veja viagens de Lula após reeleição | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=5CRVGqohYWo",
-     "por_hora": 11667
+     "canal": "GloboNews",
+     "titulo": "Trump diz não ter planos de encontrar Flávio e que senador pode ficar nos EUA 'quanto tempo quiser'",
+     "url": "https://www.youtube.com/watch?v=4ybhZIccC88",
+     "por_hora": 7637
     },
     {
-     "canal": "CNN Brasil",
-     "titulo": "Especialistas redesenham cenário econômico do Brasil após reeleição de Lula | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=lIQChGVp1As",
-     "por_hora": 4626
+     "canal": "Band Jornalismo",
+     "titulo": "Trump diz que não tem planos de se reunir com Flávio",
+     "url": "https://www.youtube.com/watch?v=Wak1bDMerz8",
+     "por_hora": 3816
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=4F5XW8r6yws",
+     "por_hora": 1306
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Flávio nos EUA: Trump diz que não deve se encontrar com senador | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sH6Jipf4O-c",
+     "por_hora": 379
     }
    ]
   },
@@ -1923,77 +1901,46 @@
      "url": "https://www.youtube.com/watch?v=aTPx0prEer4"
     }
    ],
-   "score": 34.2,
+   "score": 34.1,
    "video_url": "https://www.youtube.com/watch?v=aTPx0prEer4",
    "video_canal": "Poder360",
-   "video_por_hora": 515,
-   "video_acima_mediana": 1.7,
+   "video_por_hora": 509,
+   "video_acima_mediana": 1.6,
    "videos": [
     {
      "canal": "Poder360",
      "titulo": "“Nenhum programa social será extinto nesse país”, diz Lula",
      "url": "https://www.youtube.com/watch?v=aTPx0prEer4",
-     "por_hora": 515
+     "por_hora": 509
     }
    ]
   },
   {
-   "id": "6c8301bcaa",
-   "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
-   "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "id": "6e265e31be",
+   "titulo": "EUA: Pesquisas apontam vantagem dos Democratas na Câmara a 3 dias das eleições de meio de mandato",
+   "url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
    "veiculo": "UOL",
-   "publicado": "2026-11-01T20:01:47+00:00",
+   "publicado": "2026-11-01T19:36:51+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Trump+debocha+migrantes+elei%C3%A7%C3%B5es+nos+EUA+Lula+come%C3%A7a",
+   "busca_video": "https://www.youtube.com/results?search_query=EUA+Pesquisas+apontam+vantagem+dos+Democratas+C%C3%A2mara+dias+das",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 33.4,
-   "video_url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "score": 30.5,
+   "video_url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
    "video_canal": "UOL",
-   "video_por_hora": 20743,
-   "video_acima_mediana": 7.9,
+   "video_por_hora": 21238,
+   "video_acima_mediana": 6.8,
    "videos": [
     {
      "canal": "UOL",
-     "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
-     "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
-     "por_hora": 20743
-    }
-   ]
-  },
-  {
-   "id": "ee74b252d4",
-   "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
-   "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-01T13:04:17.393687+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Vota%C3%A7%C3%A3o+recorde+nos+EUA+pode+afetar+governo+Trump+Professora",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 30.2,
-   "video_url": "https://www.youtube.com/watch?v=LooxUSakZA4",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 37000,
-   "video_acima_mediana": 20.5,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
-     "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
-     "por_hora": 37000
+     "titulo": "EUA: Pesquisas apontam vantagem dos Democratas na Câmara a 3 dias das eleições de meio de mandato",
+     "url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
+     "por_hora": 21238
     }
    ]
   },
@@ -2020,23 +1967,53 @@
      "url": "https://www.youtube.com/watch?v=BoHqksxLVHM"
     }
    ],
-   "score": 30.0,
+   "score": 30.2,
    "video_url": "https://www.youtube.com/watch?v=01zgVAM9tik",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 22147,
-   "video_acima_mediana": 10.8,
+   "video_por_hora": 22781,
+   "video_acima_mediana": 10.9,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Trump diz que só aceita resultado da eleição 'se for honesta' | Aconteceu na Semana",
      "url": "https://www.youtube.com/watch?v=01zgVAM9tik",
-     "por_hora": 22147
+     "por_hora": 22781
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Trump diz que só aceita resultado da eleição 'se for honesta' | Aconteceu na Semana",
      "url": "https://www.youtube.com/watch?v=BoHqksxLVHM",
-     "por_hora": 17315
+     "por_hora": 18041
+    }
+   ]
+  },
+  {
+   "id": "ee74b252d4",
+   "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
+   "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-01T13:06:52.910076+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Vota%C3%A7%C3%A3o+recorde+nos+EUA+pode+afetar+governo+Trump+Professora",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 30.2,
+   "video_url": "https://www.youtube.com/watch?v=LooxUSakZA4",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 37333,
+   "video_acima_mediana": 22.1,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
+     "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
+     "por_hora": 37333
     }
    ]
   },
@@ -2075,14 +2052,14 @@
    "score": 29.6,
    "video_url": "https://www.youtube.com/watch?v=Q0cN_wO3Qro",
    "video_canal": "InfoMoney",
-   "video_por_hora": 50,
+   "video_por_hora": 47,
    "video_acima_mediana": 0.2,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Selic, Payroll e Eleições nos EUA: A agenda mexe com os mercados | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=Q0cN_wO3Qro",
-     "por_hora": 50
+     "por_hora": 47
     }
    ]
   },
@@ -2106,55 +2083,29 @@
    "score": 29.3,
    "video_url": "https://www.youtube.com/watch?v=DNHe19NAR8E",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 444,
-   "video_acima_mediana": 0.2,
+   "video_por_hora": 434,
+   "video_acima_mediana": 0.3,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Copom inicia nesta terça (3) reunião sobre taxa Selic",
      "url": "https://www.youtube.com/watch?v=DNHe19NAR8E",
-     "por_hora": 444
+     "por_hora": 434
     }
    ]
   }
  ],
  "youtube": [
   {
-   "titulo": "TRUMP DIZ QUE FLÁVIO PODE FICAR NOS EUA \"O TEMPO QUE QUISER\"  | CNN AGORA MANHÃ",
-   "url": "https://www.youtube.com/watch?v=5icHy6QyxsI",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-01T16:26:34+00:00",
-   "views": 227345,
-   "por_hora": 40390,
-   "acima_mediana": 8.7,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
    "titulo": "Votação recorde nos EUA pode afetar governo Trump? Professora responde",
    "url": "https://www.youtube.com/watch?v=LooxUSakZA4",
    "canal": "Jovem Pan News",
-   "publicado": "2026-11-01T13:04:17.393687+00:00",
-   "views": 333000,
-   "por_hora": 37000,
-   "acima_mediana": 20.5,
+   "publicado": "2026-11-01T13:06:52.910076+00:00",
+   "views": 336000,
+   "por_hora": 37333,
+   "acima_mediana": 22.1,
    "temas": [
     "mercado",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Trump diz que só aceita resultado da eleição 'se for honesta' | Aconteceu na Semana",
-   "url": "https://www.youtube.com/watch?v=01zgVAM9tik",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-11-01T20:00:00+00:00",
-   "views": 45878,
-   "por_hora": 22147,
-   "acima_mediana": 10.8,
-   "temas": [
-    "mercado",
-    "economia",
     "politica"
    ]
   },
@@ -2163,23 +2114,37 @@
    "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
    "canal": "UOL",
    "publicado": "2026-11-01T20:01:47+00:00",
-   "views": 42353,
-   "por_hora": 20743,
-   "acima_mediana": 7.9,
+   "views": 59426,
+   "por_hora": 28502,
+   "acima_mediana": 9.1,
    "temas": [
     "mercado",
     "politica"
    ]
   },
   {
-   "titulo": "Apesar de Flávio, Trump quer manter governo Lula por perto; veja análise | CNN Agora",
-   "url": "https://www.youtube.com/watch?v=Xe7rK_hcGqI",
-   "canal": "CNN Brasil",
-   "publicado": "2026-10-31T23:04:17.393687+00:00",
-   "views": 400000,
-   "por_hora": 17391,
-   "acima_mediana": 3.8,
+   "titulo": "Governo Trump divulga vídeo de Halloween que debocha da detenção de migrantes pelo ICE nos EUA",
+   "url": "https://www.youtube.com/watch?v=nB4edTAuJos",
+   "canal": "UOL",
+   "publicado": "2026-11-01T19:06:52.910076+00:00",
+   "views": 71000,
+   "por_hora": 23667,
+   "acima_mediana": 7.6,
    "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Trump diz que só aceita resultado da eleição 'se for honesta' | Aconteceu na Semana",
+   "url": "https://www.youtube.com/watch?v=01zgVAM9tik",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-11-01T20:00:00+00:00",
+   "views": 48175,
+   "por_hora": 22781,
+   "acima_mediana": 10.9,
+   "temas": [
+    "mercado",
+    "economia",
     "politica"
    ]
   },
@@ -2188,9 +2153,9 @@
    "url": "https://www.youtube.com/watch?v=GhjnjAfExMg",
    "canal": "UOL",
    "publicado": "2026-11-01T19:36:51+00:00",
-   "views": 42664,
-   "por_hora": 17362,
-   "acima_mediana": 6.6,
+   "views": 53106,
+   "por_hora": 21238,
+   "acima_mediana": 6.8,
    "temas": [
     "politica"
    ]
@@ -2200,9 +2165,9 @@
    "url": "https://www.youtube.com/watch?v=BoHqksxLVHM",
    "canal": "Band Jornalismo",
    "publicado": "2026-11-01T17:00:20+00:00",
-   "views": 87716,
-   "por_hora": 17315,
-   "acima_mediana": 8.5,
+   "views": 92175,
+   "por_hora": 18041,
+   "acima_mediana": 8.6,
    "temas": [
     "mercado",
     "economia",
@@ -2210,15 +2175,26 @@
    ]
   },
   {
-   "titulo": "Governo Trump divulga vídeo de Halloween que debocha da detenção de migrantes pelo ICE nos EUA",
-   "url": "https://www.youtube.com/watch?v=nB4edTAuJos",
-   "canal": "UOL",
-   "publicado": "2026-11-01T18:26:41+00:00",
-   "views": 54047,
-   "por_hora": 14902,
-   "acima_mediana": 5.6,
+   "titulo": "Apesar de Flávio, Trump quer manter governo Lula por perto; veja análise | CNN Agora",
+   "url": "https://www.youtube.com/watch?v=Xe7rK_hcGqI",
+   "canal": "CNN Brasil",
+   "publicado": "2026-10-31T23:06:52.910076+00:00",
+   "views": 400000,
+   "por_hora": 17391,
+   "acima_mediana": 4.2,
    "temas": [
-    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "LULA RETOMA AGENDA INTERNACIONAL APÓS REELEIÇÃO | CNN AGORA TARDE II",
+   "url": "https://www.youtube.com/watch?v=RMztXb5tISU",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-01T20:21:00+00:00",
+   "views": 27507,
+   "por_hora": 15587,
+   "acima_mediana": 3.7,
+   "temas": [
     "politica"
    ]
   },
@@ -2226,10 +2202,10 @@
    "titulo": "Flávio pode ficar nos EUA “o tempo que quiser”, diz trump | CNN AGORA",
    "url": "https://www.youtube.com/watch?v=JWWdoQbqBb0",
    "canal": "CNN Brasil",
-   "publicado": "2026-11-01T13:04:17.393687+00:00",
-   "views": 133000,
-   "por_hora": 14778,
-   "acima_mediana": 3.2,
+   "publicado": "2026-11-01T13:06:52.910076+00:00",
+   "views": 134000,
+   "por_hora": 14889,
+   "acima_mediana": 3.6,
    "temas": [
     "politica"
    ]
@@ -2238,10 +2214,10 @@
    "titulo": "Voto antecipado para Midterms nos EUA chega a 51,3 milhões e bate recorde | CNN Agora",
    "url": "https://www.youtube.com/watch?v=ubJ7KJbVro4",
    "canal": "CNN Brasil",
-   "publicado": "2026-10-31T22:04:17.393687+00:00",
+   "publicado": "2026-10-31T22:06:52.910076+00:00",
    "views": 351000,
    "por_hora": 14625,
-   "acima_mediana": 3.2,
+   "acima_mediana": 3.5,
    "temas": [
     "mercado"
    ]
@@ -2250,22 +2226,22 @@
    "titulo": "Mais de 100 mil candidatos fazem a primeira fase da Fuvest",
    "url": "https://www.youtube.com/watch?v=bi72jpXSvho",
    "canal": "Band Jornalismo",
-   "publicado": "2026-11-01T16:04:17.393687+00:00",
-   "views": 68000,
-   "por_hora": 11333,
-   "acima_mediana": 5.6,
+   "publicado": "2026-11-01T16:06:52.910076+00:00",
+   "views": 69000,
+   "por_hora": 11500,
+   "acima_mediana": 5.5,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Eleição legislativa nos EUA, as “midterms”: Trump corre risco de perder controle do Congresso?",
-   "url": "https://www.youtube.com/watch?v=KB6OQH_FV3E",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-01T13:04:17.393687+00:00",
-   "views": 98000,
-   "por_hora": 10889,
-   "acima_mediana": 6.0,
+   "titulo": "Cleitinho, governador eleito por MG, repudia o boicote a empresas por divergências políticas",
+   "url": "https://www.youtube.com/watch?v=MAuawc3oc7U",
+   "canal": "UOL",
+   "publicado": "2026-11-01T20:03:49+00:00",
+   "views": 22325,
+   "por_hora": 10884,
+   "acima_mediana": 3.5,
    "temas": [
     "politica"
    ]
@@ -2276,20 +2252,20 @@
    "canal": "Jovem Pan News",
    "publicado": "2026-11-01T17:48:44+00:00",
    "views": 46154,
-   "por_hora": 10836,
-   "acima_mediana": 6.0,
+   "por_hora": 10727,
+   "acima_mediana": 6.4,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Cleitinho, governador eleito por MG, repudia o boicote a empresas por divergências políticas",
-   "url": "https://www.youtube.com/watch?v=MAuawc3oc7U",
-   "canal": "UOL",
-   "publicado": "2026-11-01T20:03:49+00:00",
-   "views": 18519,
-   "por_hora": 9223,
-   "acima_mediana": 3.5,
+   "titulo": "Eleição legislativa nos EUA, as “midterms”: Trump corre risco de perder controle do Congresso?",
+   "url": "https://www.youtube.com/watch?v=KB6OQH_FV3E",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-01T12:06:52.910076+00:00",
+   "views": 98000,
+   "por_hora": 9800,
+   "acima_mediana": 5.8,
    "temas": [
     "politica"
    ]
@@ -2298,10 +2274,10 @@
    "titulo": "Oposição deve lançar Rogério Marinho para disputar presidência do Senado contra Alcolumbre",
    "url": "https://www.youtube.com/watch?v=UyCQB2cL49o",
    "canal": "Jovem Pan News",
-   "publicado": "2026-11-01T14:04:17.393687+00:00",
-   "views": 73000,
-   "por_hora": 9125,
-   "acima_mediana": 5.1,
+   "publicado": "2026-11-01T14:06:52.910076+00:00",
+   "views": 74000,
+   "por_hora": 9250,
+   "acima_mediana": 5.5,
    "temas": [
     "politica"
    ]
@@ -2310,12 +2286,33 @@
  "faro": [
   {
    "tipo": "video",
+   "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
+   "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "video_url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
+   "canal": "UOL",
+   "views_h": 28502,
+   "acima_mediana": 9.1,
+   "publicado": "2026-11-01T17:01-03:00",
+   "veiculos": [
+    "BBC News Brasil",
+    "Valor"
+   ],
+   "qtd_veiculos": 2,
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 34.3,
+   "porque": "vídeo do UOL com 28.502 views/h (9.1x o normal do canal); só 2 veículos deram"
+  },
+  {
+   "tipo": "video",
    "titulo": "Trump diz que só aceita resultado da eleição 'se for honesta' | Aconteceu na Semana",
    "url": "https://www.youtube.com/watch?v=01zgVAM9tik",
    "video_url": "https://www.youtube.com/watch?v=01zgVAM9tik",
    "canal": "Band Jornalismo",
-   "views_h": 22147,
-   "acima_mediana": 10.8,
+   "views_h": 22781,
+   "acima_mediana": 10.9,
    "publicado": "2026-11-01T17:00-03:00",
    "veiculos": [
     "Poder360"
@@ -2326,8 +2323,27 @@
     "economia",
     "politica"
    ],
-   "forca": 33.1,
-   "porque": "vídeo do Band Jornalismo com 22.147 views/h (10.8x o normal do canal); só 1 veículo deram"
+   "forca": 33.4,
+   "porque": "vídeo do Band Jornalismo com 22.781 views/h (10.9x o normal do canal); só 1 veículo deram"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Governo Trump divulga vídeo de Halloween que debocha da detenção de migrantes pelo ICE nos EUA",
+   "url": "https://www.youtube.com/watch?v=nB4edTAuJos",
+   "video_url": "https://www.youtube.com/watch?v=nB4edTAuJos",
+   "canal": "UOL",
+   "views_h": 23667,
+   "acima_mediana": 7.6,
+   "publicado": "2026-11-01T16:06-03:00",
+   "veiculos": [
+    "Valor"
+   ],
+   "qtd_veiculos": 1,
+   "temas": [
+    "politica"
+   ],
+   "forca": 33.0,
+   "porque": "vídeo do UOL com 23.667 views/h (7.6x o normal do canal); só 1 veículo deram"
   },
   {
    "tipo": "video",
@@ -2335,8 +2351,8 @@
    "url": "https://www.youtube.com/watch?v=BoHqksxLVHM",
    "video_url": "https://www.youtube.com/watch?v=BoHqksxLVHM",
    "canal": "Band Jornalismo",
-   "views_h": 17315,
-   "acima_mediana": 8.5,
+   "views_h": 18041,
+   "acima_mediana": 8.6,
    "publicado": "2026-11-01T14:00-03:00",
    "veiculos": [
     "Poder360"
@@ -2347,8 +2363,8 @@
     "economia",
     "politica"
    ],
-   "forca": 30.7,
-   "porque": "vídeo do Band Jornalismo com 17.315 views/h (8.5x o normal do canal); só 1 veículo deram"
+   "forca": 31.0,
+   "porque": "vídeo do Band Jornalismo com 18.041 views/h (8.6x o normal do canal); só 1 veículo deram"
   },
   {
    "tipo": "pauta",
@@ -2383,28 +2399,6 @@
    "porque": "só 1 veículo (Brasil 247); apareceu às 18h39"
   },
   {
-   "tipo": "video",
-   "titulo": "Governo Trump debocha de migrantes; eleições nos EUA; Lula começa a montar nova gestão e + notícias",
-   "url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
-   "video_url": "https://www.youtube.com/watch?v=YFDojrv8zlw",
-   "canal": "UOL",
-   "views_h": 20743,
-   "acima_mediana": 7.9,
-   "publicado": "2026-11-01T17:01-03:00",
-   "veiculos": [
-    "BBC News Brasil",
-    "Howl.Link",
-    "Valor"
-   ],
-   "qtd_veiculos": 3,
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 28.2,
-   "porque": "vídeo do UOL com 20.743 views/h (7.9x o normal do canal); só 3 veículos deram"
-  },
-  {
    "tipo": "pauta",
    "titulo": "Em manifesto, economistas cobram nova regra fiscal, menos juros e mais investimentos",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2xLdldxSi1yeFUyc0Z3LVVqOEFhM296amJ3N083RGNTeklRZjJpRlRpQ3JKRmxOSUZkU1Q1TXBxMnlybTZIU2ZaTkhlMHBxMmkxVXhqczRtZWhZVGRZQUg2cWhXbS1GWU03Ukk3U0k3WlphTTBzbWpla0R6M2hmeThVN09ZdmpjSWdONG84NG1BdFJsZ3FKNEdlYWRCTHRERU1NWHRvNTdJRmdyRVE?oc=5",
@@ -2426,16 +2420,31 @@
    "url": "https://www.youtube.com/watch?v=VsVsX_clFfI",
    "video_url": "https://www.youtube.com/watch?v=VsVsX_clFfI",
    "canal": "Jovem Pan News",
-   "views_h": 10836,
-   "acima_mediana": 6.0,
+   "views_h": 10727,
+   "acima_mediana": 6.4,
    "publicado": "2026-11-01T14:48-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
-   "forca": 25.4,
-   "porque": "vídeo do Jovem Pan News com 10.836 views/h (6.0x o normal do canal); nenhum veículo deu ainda"
+   "forca": 26.2,
+   "porque": "vídeo do Jovem Pan News com 10.727 views/h (6.4x o normal do canal); nenhum veículo deu ainda"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Nove pessoas morrem após queda de avião em área residencial da Flórida",
+   "url": "https://www.cnnbrasil.com.br/internacional/autoridades-investigam-queda-de-aviao-com-9-pessoas-a-bordo-na-florida/",
+   "veiculos": [
+    "CNN Brasil"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-01T18:08-03:00",
+   "temas": [
+    "mercado"
+   ],
+   "forca": 25.0,
+   "porque": "só 1 veículo (CNN Brasil); apareceu às 18h08"
   },
   {
    "tipo": "pauta",
@@ -2452,42 +2461,6 @@
    ],
    "forca": 24.8,
    "porque": "só 1 veículo (Metrópoles); apareceu às 18h33"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Economia em Foco: Novos Nomes Nos Ministérios do Governo Lula",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YY1pBY09qc0RXTExLNV9iQkFqZXBXbV9UQThkQ01tbHZ6ZVFRMmRtUVN5cTNSbHF5YVg4aEdiMGkxVUhqbU9KbThyOEpBcmpua3o5LTVDSGxrZnZjU3dTaEJ2Zjh2QXYz?oc=5",
-   "veiculos": [
-    "boca.com.br"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-01T18:22-03:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "forca": 24.7,
-   "porque": "só 1 veículo (boca.com.br); apareceu às 18h22"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Governo Trump divulga vídeo de Halloween que debocha da detenção de migrantes pelo ICE nos EUA",
-   "url": "https://www.youtube.com/watch?v=nB4edTAuJos",
-   "video_url": "https://www.youtube.com/watch?v=nB4edTAuJos",
-   "canal": "UOL",
-   "views_h": 14902,
-   "acima_mediana": 5.6,
-   "publicado": "2026-11-01T15:26-03:00",
-   "veiculos": [
-    "Valor"
-   ],
-   "qtd_veiculos": 1,
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 24.7,
-   "porque": "vídeo do UOL com 14.902 views/h (5.6x o normal do canal); só 1 veículo deram"
   }
  ],
  "fontes_ok": 64,
