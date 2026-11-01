@@ -1,0 +1,77 @@
+{
+  "id": "sug-video-boulos-tarcisio-diesel-imposto",
+  "titulo": "Boulos: “o Tarcísio tá aumentando o imposto” do diesel. Conferi: a alta é de 11% e o valor é nacional (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-01T14:40",
+  "atualizado": "2026-11-01T14:47",
+  "video_url": "https://www.youtube.com/watch?v=aAMbyR_CjEQ&t=39s",
+  "trecho": {
+    "inicio": "E sabe quem é que tá aumentando o imposto",
+    "fim": "a prática ser outra",
+    "texto": "E sabe quem é que tá aumentando o imposto e prejudicando isso? O Tarcísio, gente, governador de São Paulo, decidiu aumentar em mais de 1% o imposto estadual sobre o óleo diesel. Isso vai fazer com que esse imposto vá de 1,17 por litro a 1,30 por litro. Enquanto o Lula, que eles dizem aumentar imposto, tá segurando o preço do diesel para não aumentar o custo de vida do seu mercado e o custo do caminhoneiro, o Tarcísio tá aumentando o imposto. Governador Tarcísio, faça sua parte, ajude o povo brasileiro. Não dá para ter um discurso na eleição e a prática ser outra.",
+    "legenda": false,
+    "aspa_manchete": "o Tarcísio tá aumentando o imposto",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "em": 11.5,
+        "texto": "De R$ 1,17 pra R$ 1,30 dá 11%. Começa em 01/02/2027",
+        "cor": "vermelho"
+      },
+      {
+        "em": 23.5,
+        "texto": "O valor saiu do Confaz em 28/10/2026 e é o mesmo no país todo",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Boulos: ==“o Tarcísio tá aumentando o imposto”== do diesel. Conferi a conta."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Boulos disse que o Tarcísio decidiu aumentar o imposto do diesel. Fui conferir, e a conta não é bem essa.\n\nO vídeo saiu no Poder360 em 01/11/2026. O imposto vai mesmo de R$ 1,17 pra R$ 1,30 por litro, a partir de 01/02/2027. Na fala sai “mais de 1%”, mas a conta dá 11% (conta nossa).\n\nE não é decisão só de São Paulo. O valor saiu do Confaz, o conselho que reúne as Fazendas dos estados, nos convênios publicados em 28/10/2026, e é o mesmo no país inteiro. Não achei como São Paulo votou. A gasolina também sobe, de R$ 1,57 pra R$ 1,64.\n\nO outro lado: o Comsefaz, que representa os secretários estaduais, diz que só cumpriu a Lei Complementar 192/2022. E o governo federal prorrogou mesmo, em 27/10/2026, a ajuda de R$ 2,12 por litro de diesel. Não achei resposta do Tarcísio a essa fala.\n\nPra mim, os dois lados tão fazendo campanha com o mesmo diesel, e a eleição já acabou. Em fevereiro são R$ 0,13 a mais por litro, e isso vai parar no frete do arroz.\n\nPor aí, o frete já subiu ou ainda não?\n\nVídeo: reprodução Poder360 (01/11/2026). Fontes: Confaz (Convênios ICMS 127 e 128/2026), Diário do Comércio/Estadão (28/10/2026), Valor (29/10/2026) e Agência Brasil (27/10/2026).\n\n#diesel #ICMS #Boulos #Tarcisio #impostos",
+  "fontes": [
+    {
+      "titulo": "Poder360 (YouTube) — Boulos critica Tarcísio por preço do diesel em São Paulo (01/11/2026; o trecho vai de 0:43 a 1:11)",
+      "url": "https://www.youtube.com/watch?v=aAMbyR_CjEQ"
+    },
+    {
+      "titulo": "Guia Tributário — Publicados Convênios ICMS 127 e 128/2026 (28/10/2026)",
+      "url": "https://guiatributario.net/2026/10/28/publicados-convenios-icms-127-e-128-2026-combustiveis/"
+    },
+    {
+      "titulo": "Diário do Comércio / Agência Estadão — Confaz estabelece alíquotas de ICMS de combustíveis e GLP para valer a partir de fevereiro (28/10/2026)",
+      "url": "https://diariodocomercio.com.br/economia/confaz-estabelece-aliquotas-de-icms-e-glp/"
+    },
+    {
+      "titulo": "Valor — Estados atualizam ICMS sobre combustíveis (29/10/2026): diesel de R$ 1,17 para R$ 1,30/litro (+11,11%), gasolina de R$ 1,57 para R$ 1,64/litro",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/29/estados-atualizam-icms-sobre-combustiveis.ghtml"
+    },
+    {
+      "titulo": "Agência Brasil — Governo prorroga por um mês subvenção de R$ 2,12 ao diesel (27/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-prorroga-por-um-mes-subvencao-de-r-212-ao-diesel"
+    }
+  ]
+}
