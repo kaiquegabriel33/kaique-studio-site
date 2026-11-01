@@ -1,0 +1,67 @@
+{
+  "id": "sug-video-gilson-picanha-por-correio",
+  "titulo": "Gilson Marques, líder do Novo: “boa parte da população ainda acredita que vai receber picanha por correio” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-01T13:25",
+  "atualizado": "2026-11-01T13:42",
+  "video_url": "https://www.youtube.com/watch?v=u-JW8uQZkIQ&t=349s",
+  "trecho": {
+    "inicio": "a população ainda não entendeu",
+    "fim": "picanha por correio",
+    "texto": "a população ainda não entendeu que o estado ele é incapaz de dar, comprar, construir, reformar qualquer coisa sem antes retirar da sociedade uma quantidade de recursos ainda maior. E aí a gente vive nessa loucura onde todos acham que vão conseguir viver às custas de todos. E aí a gente tá num país aí onde boa parte da população ainda acredita que vai receber picanha por correio.",
+    "aspa_manchete": "boa parte da população ainda acredita que vai receber picanha por correio",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "retirar da sociedade",
+        "texto": "Arrecadação federal em 2025: R$ 2,89 trilhões, recorde da Receita",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Gilson Marques, líder do Novo: ==“boa parte da população ainda acredita que vai receber picanha por correio”==. Exagero?"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Gilson Marques, líder do Novo na Câmara: “boa parte da população ainda acredita que vai receber picanha por correio”.\n\nFoi no Jornal da Manhã da Jovem Pan, em 01/11/2026. A tese dele: o Estado não dá nada sem antes tirar de alguém, e ninguém em Brasília quer cortar o próprio gasto. A arrecadação federal bateu R$ 2,89 trilhões em 2025, recorde pela Receita.\n\nAntes desse trecho, ele diz que o líder do governo falou que equilíbrio fiscal não é prioridade, e essa frase eu não achei. O que achei foi o líder do PT na Câmara, Pedro Uczai, em 27/10/2026: “Nossa federação não tem nenhuma discussão de ajuste fiscal.”\n\nO outro lado: o Gilson é oposição, e “picanha por correio” é ironia dele. Antes da eleição, a equipe econômica falou à CNN em manter um ajuste “que não penalize os mais pobres”, e o projeto pra 2027 prevê sobra de 0,5% do PIB nas contas.\n\nPra mim, a frase é exagerada e a conta é real. Se ninguém corta, a fatura volta no juro da parcela do seu carro.\n\nQual gasto de Brasília você cortaria primeiro?\n\nVídeo: reprodução Jovem Pan News (01/11/2026). Fontes: Receita Federal via Bora Investir/B3 (22/01/2026), Diário do Grande ABC (27/10/2026) e CNN Brasil.\n\n#contaspublicas #impostos #GilsonMarques #economia",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News (YouTube) — Gilson Marques critica gastos do governo: “Não conseguiu fechar contas” (01/11/2026; o trecho vai de 6:17 a 6:43)",
+      "url": "https://www.youtube.com/watch?v=u-JW8uQZkIQ"
+    },
+    {
+      "titulo": "Diário do Grande ABC — Pedro Uczai: Nossa federação não tem nenhuma discussão de ajuste fiscal (27/10/2026)",
+      "url": "https://www.dgabc.com.br/Noticia/4365396/pedro-uczai-nossa-federacao-nao-tem-nenhuma-discussao-de-ajuste-fiscal"
+    },
+    {
+      "titulo": "Bora Investir (B3) — Arrecadação federal bate recorde de R$ 2,89 trilhões em 2025",
+      "url": "https://borainvestir.b3.com.br/noticias/arrecadacao-federal-bate-recorde-de-r-289-trilhoes-em-2025/"
+    },
+    {
+      "titulo": "CNN Brasil — Governo Lula defende manter política fiscal se reeleito",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/governo-lula-defende-manter-politica-fiscal-se-reeleito/"
+    }
+  ]
+}

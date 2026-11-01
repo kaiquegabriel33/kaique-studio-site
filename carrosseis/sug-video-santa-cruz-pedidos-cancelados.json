@@ -1,0 +1,71 @@
+{
+  "id": "sug-video-santa-cruz-pedidos-cancelados",
+  "titulo": "A única cidade de PE onde Flávio ganhou: “pessoas de fora do Nordeste estão deixando de comprar” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-01T13:25",
+  "atualizado": "2026-11-01T13:42",
+  "video_url": "https://www.youtube.com/watch?v=04dB9xLFAzs",
+  "trecho": {
+    "inicio": "Santa Cruz do Capibaribe",
+    "fim": "para outras regiões cancelados",
+    "texto": "Santa Cruz do Capibaribe. Foi a única cidade de Pernambuco que Flávio Bolsonaro ganhou a eleição no primeiro e no segundo turno, pois essa cidade está reclamando aí alguns comerciantes dessa cidade que é a maior produtora de moda ali da região, que pessoas de fora do Nordeste estão deixando de comprar mercadorias. Porque temem no primeiro momento, talvez a questão de uma crise econômica, uma dificuldade do comércio, mas também segundo pessoas ouvidas por conta de uma suposta retaliação de comerciantes de outros estados pela vitória do presidente Lula no Nordeste. Esse caso ganhou repercussão após alguns desses fabricantes publicarem vídeo nas redes sociais falando que tiveram carregamento já com várias roupas e peças produzidas para outras regiões cancelados.",
+    "aspa_manchete": "pessoas de fora do Nordeste estão deixando de comprar",
+    "cta": true,
+    "girar": "nao",
+    "crop": [880, 864, 405, 0],
+    "legenda_y": 860,
+    "placa_y": 950,
+    "contexto": [
+      {
+        "desde": "suposta retaliação",
+        "texto": "Prova de boicote ninguém mostrou. Câmara do setor: “foram poucos”, por causa da economia",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "tiveram carregamento",
+        "texto": "Um fabricante contou ao UOL: 14 pedidos e 6 mil peças cancelados, uns R$ 120 mil",
+        "cor": "amarelo"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Única cidade de PE onde Flávio ganhou: ==“pessoas de fora do Nordeste estão deixando de comprar”==. Boicote ou medo?"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "A única cidade de Pernambuco onde o Flávio ganhou agora tá vendo pedido de roupa ser cancelado.\n\nSanta Cruz do Capibaribe vive de confecção. No 2º turno deu Flávio 53,6% e Lula 46,4%. Um fabricante contou ao UOL que perdeu 14 pedidos, 6 mil peças, uns R$ 120 mil. Desses pedidos, 11 eram do Sul, e ele vende 95% da produção pra outras regiões. Um consultor de vendas fala em mais de R$ 2 milhões cancelados em dois dias numa representação só.\n\nO outro lado: o coordenador da Câmara Setorial dos representantes comerciais de lá diz “foram poucos” e culpa o momento da economia. Outro fabricante liga os cancelamentos às dúvidas sobre imposto em janeiro. Prova de boicote, até agora, ninguém mostrou.\n\nPra mim, se foi castigo pelo voto do Nordeste, tem uma ironia pesada aí: pegaram logo a cidade que votou no outro lado. E quem fica sem encomenda é a costureira, que nem foi perguntada.\n\nVocê cancelaria um pedido por causa da região do fornecedor?\n\nVídeo: reprodução UOL (Carlos Madeiro, 31/10/2026). Fontes: UOL (31/10/2026, texto reproduzido pelo Blog do Ricardo Antunes) e Portal Pop Notícias (27/10/2026).\n\n#SantaCruzdoCapibaribe #confeccao #boicote #economia",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Cidade bolsonarista de PE relata vendas para fora canceladas após eleição | Carlos Madeiro (31/10/2026)",
+      "url": "https://www.youtube.com/watch?v=04dB9xLFAzs"
+    },
+    {
+      "titulo": "Blog do Ricardo Antunes — reprodução da reportagem de Carlos Madeiro, UOL (31/10/2026)",
+      "url": "https://ricardoantunes.net/polo-de-confeccoes-de-pernambuco-registra-cancelamento-de-vendas-para-fora-do-nordeste-pos-eleicao/"
+    },
+    {
+      "titulo": "Portal Pop Notícias — Relatos de cancelamento de pedidos preocupam setor de confecções (27/10/2026)",
+      "url": "https://portalpopnoticias.com.br/2026/10/27/relatos-de-cancelamento-de-pedidos-preocupam-setor-de-confeccoes-de-santa-cruz-do-capibaribe-apos-eleicoes"
+    }
+  ]
+}
