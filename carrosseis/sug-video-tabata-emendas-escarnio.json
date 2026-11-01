@@ -1,0 +1,68 @@
+{
+  "id": "sug-video-tabata-emendas-escarnio",
+  "titulo": "Tabata sobre as emendas: “o escárnio que são essas emendas parlamentares, você bota pra voto e vai perder” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-01T12:10",
+  "atualizado": "2026-11-01T11:42",
+  "video_url": "https://www.youtube.com/watch?v=6aYKQoXLGUI&t=575s",
+  "trecho": {
+    "inicio": "seja pra dizer que vai ser carimbado",
+    "fim": "Nem o Flávio teve coragem",
+    "texto": "Então, seja pra dizer que vai ser carimbado pra transporte, pra saúde ou pra educação. Mas se a gente não trouxer a população pra enfrentar o escárnio que são essas emendas parlamentares, você bota pra voto e vai perder. Agora, mobiliza a população. Quem foi o deputado e senador que votou contra o fim da escala 6 por 1? Nem o Flávio teve coragem.",
+    "aspa_manchete": "o escárnio que são essas emendas parlamentares",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "carimbado pra transporte",
+        "texto": "Emendas no Orçamento de 2026: uns R$ 61 bi. Educação inteira: R$ 234 bi",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "votou contra o fim da escala",
+        "texto": "No Senado, o fim da 6x1 passou por 75 a 1 em 14/10/2026: teve 1 voto contra",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Tabata sobre as emendas: ==“escárnio”==. Sem o povo na pressão, “você bota pra voto e vai perder”."
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Tabata Amaral chamou as emendas parlamentares de “escárnio”: “você bota pra voto e vai perder”.\n\nFoi em entrevista ao Estadão publicada em 31/10/2026. A ideia dela é simples: tirar parte das emendas pra pagar transporte, saúde ou educação só passa no Congresso se o povo pressionar, como aconteceu com a 6x1.\n\nFiz a conta pra ver o tamanho disso. O Orçamento de 2026 reservou uns R$ 61 bilhões pra emendas, e a educação inteira ficou com R$ 234 bilhões. Dá 26% do que o país inteiro separou pra educação (conta nossa).\n\nUm detalhe da fala: ela pergunta quem votou contra o fim da 6x1. No Senado, o 2º turno foi 75 a 1, então teve um voto contra.\n\nO outro lado: deputado e senador defendem a emenda como o jeito de o dinheiro chegar em cidade pequena que Brasília nem olha. E tem cidade que depende disso de verdade.\n\nPra mim, o problema nem é a emenda existir. É você não conseguir saber fácil pra onde foi o dinheiro.\n\nSe desse pra escolher, você tirava das emendas pra colocar onde?\n\nVídeo: reprodução Estadão (31/10/2026). Fontes: BNews e Agência Câmara (Orçamento de 2026) e Senado Notícias (14/10/2026).\n\n#emendas #TabataAmaral #orcamento #Congresso",
+  "fontes": [
+    {
+      "titulo": "Estadão (YouTube) — Tabata apoia Alckmin na Fazenda, admite disputar Prefeitura de SP e quer pressão para rever emendas (publicado em 31/10/2026; o trecho vai de 9:40 a 10:03)",
+      "url": "https://www.youtube.com/watch?v=6aYKQoXLGUI"
+    },
+    {
+      "titulo": "BNews — Congresso aprova Orçamento de 2026 destinando R$ 61 bilhões para emendas parlamentares",
+      "url": "https://www.bnews.com.br/noticias/politica/congresso-nacional-aprova-orcamento-para-2026-destinando-r61-bilhoes-para-emendas-parlamentares.html"
+    },
+    {
+      "titulo": "Senado Notícias — Aprovado em 2º turno, fim da 6x1 vai à promulgação (14/10/2026): 75 a 1",
+      "url": "https://www12.senado.leg.br/noticias/senado-agora/2026/10/14/aprovado-em-segundo-turno-fim-da-6x1-vai-a-promulgacao"
+    }
+  ]
+}
