@@ -1,0 +1,75 @@
+{
+  "id": "sug-video-chef-nikolas-cristo-cooler",
+  "titulo": "Chef que serve comida embaixo do viaduto responde ao Nikolas: “ele carrega um monte de cooler cheio de comida” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-01T18:30",
+  "atualizado": "2026-11-01T18:30",
+  "video_url": "https://www.youtube.com/watch?v=jfqY5bHmBdY",
+  "trecho": {
+    "inicio": "eu nem conheço a tua história",
+    "fim": "cooler cheio de comida",
+    "texto": "eu nem conheço a tua história. Sabe por quê? Porque eu não tenho tempo para isso. Eu acho que tu ainda tava nas fraldas quando eu comecei a servir comida nesse viaduto, hein, cristão. O que o teu Cristo faria se estivesse vivo hoje? Andaria só com quem tem dinheiro, com os empresários que vocês disseram que eu ataquei ou iam estar aqui embaixo desse viaduto? Só me responde isso. Se ia tá do lado das pessoas que mais precisam. O meu Cristo é esse. E ele não carrega uma cruz, ele carrega um monte de cooler cheio de comida.",
+    "aspa_manchete": "ele carrega um monte de cooler cheio de comida",
+    "cta": true,
+    "legenda": false,
+    "girar": "nao",
+    "enquadrar": false,
+    "crop": [518, 560, 701, 345],
+    "contexto": [
+      {
+        "em": 8.5,
+        "texto": "Julio Ritta, Cozinheiros do Bem: 11 anos em Porto Alegre",
+        "cor": "amarelo"
+      },
+      {
+        "em": 23.0,
+        "texto": "Ele diz que doadores pararam após a eleição; sem valor",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Chef responde ao Nikolas: ==“ele carrega um monte de cooler cheio de comida”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Chef que serve comida embaixo do viaduto, pro Nikolas: “ele carrega um monte de cooler cheio de comida”.\n\nÉ o Julio Ritta, do Cozinheiros do Bem, em Porto Alegre. O vídeo é de 01/11/2026: mais de 500 pessoas, segundo ele, e picanha no prato de propósito.\n\nA briga começou em 29/10/2026. O Julio diz que empresário e apoiador pararam de doar depois que o Lula ganhou, e o Nikolas ironizou nos stories. O Julio não disse quanto perdeu, e esse valor eu não achei.\n\nO outro lado: no vídeo sobre o boicote, o Nikolas diz que cada um escolhe pra onde vai o próprio salário. Só que ele também diz que deixar de ser caridoso por causa de voto “é errado e não é uma atitude cristã”.\n\nPra mim, deixar de comprar numa loja é direito de quem paga. Doação é outra história: quando ela para, quem sente é quem tá na fila, e esse nem entrou na briga.\n\nVocê pararia de doar por causa do voto de quem toca o projeto?\n\nVídeo: reprodução O Povo (01/11/2026). Fontes: Metrópoles e O Vale (01/11/2026) e TV Paraú (vídeo do Nikolas).\n\n#NikolasFerreira #doacoes #boicote #PortoAlegre",
+  "fontes": [
+    {
+      "titulo": "O Povo (YouTube) — Alvo de Nikolas, chef de projeto social comemora doações após boicotes (01/11/2026)",
+      "url": "https://www.youtube.com/watch?v=jfqY5bHmBdY"
+    },
+    {
+      "titulo": "Metrópoles — Chef serve picanha e manda recado a Nikolas: “Meu Cristo carrega comida” (01/11/2026)",
+      "url": "https://www.metropoles.com/minas-gerais/chef-serve-picanha-e-manda-recado-a-nikolas-meu-cristo-carrega-comida"
+    },
+    {
+      "titulo": "O Vale — Chef serve picanha e provoca Nikolas: 'Meu Cristo carrega comida' (01/11/2026): 11 anos de projeto",
+      "url": "https://sampi.net.br/ovale/noticias/3015755/geral/2026/11/chef-serve-picanha-e-provoca-nikolas-meu-cristo-carrega-comida"
+    },
+    {
+      "titulo": "TV Paraú (YouTube) — Nikolas Ferreira sobre clientes de direita que deixaram de consumir (reprodução do vídeo dele)",
+      "url": "https://www.youtube.com/watch?v=IXCUIKKy4Ac"
+    }
+  ]
+}
