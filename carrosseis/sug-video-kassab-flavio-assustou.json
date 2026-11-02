@@ -1,0 +1,72 @@
+{
+  "id": "sug-video-kassab-flavio-assustou",
+  "titulo": "Kassab sobre a derrota do Flávio: “ele assustou” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-02T14:40",
+  "atualizado": "2026-11-02T14:40",
+  "video_url": "https://www.youtube.com/watch?v=hSUPr-DqNHM&t=136s",
+  "trecho": {
+    "inicio": "porque o Lula todo mundo conhece",
+    "fim": "o que ele ia mudar",
+    "texto": "porque o Lula todo mundo conhece. Quem tava com ele tava, quem não tava, agora o Flávio é é de se supor, e aí eu não tenho nenhuma pesquisa, posso tá errado, mas eu acho que não tô, que muitos do que aqueles que o conheceram não gostaram. Que não conheciam. Então, no segundo turno nós tivemos essa questão do desconhecimento e que ele não agradou a parte importante, o Lula não tinha esse problema. E principalmente, alguns falam arrogância, outros salto alto, eu não sei qual é o nome, mas na medida que ele foi soltando pílulas do que seria a sua conduta como presidente e numa autoconfiança muito grande, ele assustou. Ele falou que ia mudar a Constituição. Errou, ele podia falar o que ele ia mudar.",
+    "aspa_manchete": "ele assustou",
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "agora o Flávio",
+        "texto": "Kassab, presidente do PSD, no Canal Livre de 01/11/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "mudar a Constituição",
+        "texto": "Flávio, em 07/10: Judiciário, maioridade penal e fim da reeleição",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Kassab sobre a derrota do Flávio: ==“ele assustou”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Kassab sobre a derrota do Flávio: “ele assustou”.\n\nFoi no Canal Livre, da Band, em 01/11/2026. Pra ele, tinha gente que só foi conhecer o Flávio no 2º turno, e muitos “não gostaram”. Ele mesmo avisa que não tem pesquisa sobre isso. E cita a fala de mudar a Constituição: “Errou, ele podia falar o que ele ia mudar”.\n\nO outro lado: quem fala não é neutro. Kassab preside o PSD, foi anunciado como vice do Caiado em julho e em 13/07 já dizia que o Flávio perdia pro Lula. O Caiado depois apoiou o Flávio no 2º turno. E o Flávio disse o que queria mudar logo no dia seguinte, em 07/10: reforma do Judiciário, maioridade penal, fim da reeleição.\n\nPra mim, promessa sem detalhe assusta mais que a promessa. Numa eleição decidida por 3,58 pontos (51,79% a 48,21%, conta nossa), frase solta custa caro.\n\nTeve alguma fala do 2º turno que fez você mudar de voto?\n\nVídeo: reprodução Band Jornalismo (01/11/2026). Fontes: Poder360 (13/07/2026), SBT News (07/10/2026), Tribuna de Jundiaí e TSE.\n\n#Kassab #FlavioBolsonaro #eleicoes2026 #Constituicao",
+  "fontes": [
+    {
+      "titulo": "Band Jornalismo (YouTube) — Direita errou ao escolher Flávio contra o Lula, diz Kassab | Canal Livre (01/11/2026; o trecho vai de 2:21 a 3:06)",
+      "url": "https://www.youtube.com/watch?v=hSUPr-DqNHM"
+    },
+    {
+      "titulo": "Poder360 — Kassab diz que Lula vence Flávio, mas perde para Caiado (13/07/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/kassab-diz-que-lula-vence-flavio-mas-perde-para-caiado/"
+    },
+    {
+      "titulo": "SBT News — Flávio lista mudanças prioritárias na Constituição se eleito (07/10/2026)",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-lista-mudancas-prioritarias-na-constituicao-se-eleito"
+    },
+    {
+      "titulo": "Tribuna de Jundiaí — Caiado apoia Flávio Bolsonaro no 2º turno",
+      "url": "https://tribunadejundiai.com.br/politica/eleicoes-2026/caiado-apoia-flavio-bolsonaro/"
+    }
+  ]
+}
