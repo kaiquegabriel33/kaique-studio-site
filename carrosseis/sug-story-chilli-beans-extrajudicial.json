@@ -1,0 +1,55 @@
+{
+  "id": "sug-story-chilli-beans-extrajudicial",
+  "titulo": "Story: Chilli Beans pede recuperação extrajudicial pra renegociar R$ 340 milhões",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-31T13:40",
+  "atualizado": "2026-10-31T13:40",
+  "comentario": "A Chilli Beans pediu recuperação extrajudicial pra renegociar R$ 340 milhões com os bancos, que põem até R$ 50 milhões novos. Extrajudicial: acordo fechado antes com os credores; fornecedor e funcionário ficam de fora. Caito Maia, o dono, culpa o juro e o calote dos franqueados: de 3% pra 22% depois da pandemia. Marabraz, Kitchens e agora Chilli Beans, na mesma semana.",
+  "repost_url": "https://neofeed.com.br/negocios/com-dividas-de-r-340-milhoes-chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial/",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "centralizar": true,
+      "fundo": {
+        "src": "midia/sug-story-chilli-beans-extrajudicial/com-dividas-de-r-340-milhoes-chilli-beans-entra.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.35
+        },
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Chilli Beans pediu recuperação extrajudicial pra renegociar [[vermelho:R$ 340 milhões]] com os bancos, que põem até R$ 50 milhões novos. Extrajudicial: acordo fechado antes com os credores; fornecedor e funcionário ficam de fora. Caito Maia, o dono, culpa o juro e o calote dos franqueados: de 3% pra 22% depois da pandemia. Marabraz, Kitchens e agora Chilli Beans, na mesma semana."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-chilli-beans-extrajudicial/print-neofeed-com-br-com-dividas-de-r-340-milhoes-chi.png",
+          "h": 360,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "NeoFeed — Com dívidas de R$ 340 milhões, Chilli Beans entra com pedido de recuperação extrajudicial (30/10/2026, 20h16, Sérgio Vieira): pedido protocolado na sexta 30/10; plano alinhado com os principais credores, aporte de R$ 50 milhões; Itaú, Akron e Vega como financiadores âncora; Vert Securitizadora declarou vencimento antecipado de debênture de R$ 89 milhões da Mustang 25 Participações (controladora), parcelas de julho e agosto de R$ 16,5 milhões não pagas, Caito Maia avalista; 900 franquias em 14 países; fundada em 1997",
+      "url": "https://neofeed.com.br/negocios/com-dividas-de-r-340-milhoes-chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial/"
+    },
+    {
+      "titulo": "Exame — Chilli Beans pede recuperação extrajudicial para renegociar dívida de R$ 340 milhões (30/10/2026, 18h51): dívida financeira de R$ 340 milhões; até R$ 50 milhões novos pelos próprios credores (Itaú, Akron Capital e Vega Asset); fornecedores, funcionários e demais parceiros fora do plano; Caito Maia atribui a dívida ao aumento dos juros e à inadimplência dos franqueados, de ~3% para ~22% no pós-pandemia (hoje ~4%); cerca de 900 franquias, mais de 14 países, já teve 1.300 lojas",
+      "url": "https://exame.com/negocios/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/"
+    },
+    {
+      "titulo": "Lei 11.101/2005, arts. 161 a 167 (recuperação extrajudicial): plano negociado com os credores e levado à Justiça só para homologação; não abrange créditos trabalhistas e fiscais",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm"
+    }
+  ]
+}
