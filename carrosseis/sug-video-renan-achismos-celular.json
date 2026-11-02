@@ -1,0 +1,64 @@
+{
+  "id": "sug-video-renan-achismos-celular",
+  "titulo": "Renan Santos: “O celular usa você” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T17:30",
+  "atualizado": "2026-11-01T22:22",
+  "trecho": {
+    "inicio": "Porque tá me levando a crer que tá tendo um 2015 aqui.",
+    "fim": "mas a pessoa fica meio, tá?",
+    "texto": "Porque tá me levando a crer que tá tendo um 2015 aqui. Sim, mas é que não vai acontecer, ao meu ver, de maneira imediata. A Dilma entra e já tá um clima muito ruim. E havia Lava-Jato e havia nas pessoas um terror ético. Assim, as pessoas vão para cima, a Lava Jato vai prender todo mundo. Hoje ninguém liga pra corrupção. O que me parece: naquela época o celular não era tão importante. Então o celular era um instrumental. Então você usava as redes sociais para organizar a manifestação, para falar. Hoje o celular usa você. Então hoje a pessoa ela tá anestesiada. Ela tá anestesiada. Então ninguém tá ligando para nada. Então o que tá acontecendo no STF é bizarro, é um absurdo. O que tá acontecendo em termos econômicos é uma perda de espaço gigante do Brasil, mercado externo, conta pública descontrolada, mas a pessoa fica meio, tá?",
+    "aspa_manchete": "o celular usa você",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "A Dilma entra",
+        "texto": "2015: PIB do Brasil caiu 3,5% (IBGE)",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "conta pública",
+        "texto": "Dívida bruta: 82,9% do PIB em set/2026 (Banco Central)",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Renan Santos: “Hoje ==o celular usa você==”"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Renan Santos sobre por que o Brasil não repete 2015: “O celular usa você.”\n\nEm 2015, com a Lava Jato e o PIB caindo 3,5% (IBGE), muita gente foi pra rua. Pra ele, o celular deixou de ser ferramenta e virou anestesia: conta pública descontrolada e o Brasil perdendo espaço lá fora já não mobilizam ninguém.\n\nVocê concorda que ninguém mais liga?\n\nVídeo: reprodução AchismosTV (27/10/2026). Fontes: IBGE (PIB de 2015) e Banco Central (dívida bruta, set/2026).\n\n#economia #RenanSantos #redessociais #corrupcao #contaspublicas",
+  "fontes": [
+    {
+      "titulo": "AchismosTV (YouTube) — Qual o futuro do Brasil com o Lula eleito? ft. Renan Santos | Achismos Podcast #441 (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=UUKtux3KQHU"
+    },
+    {
+      "titulo": "IBGE — SIDRA tabela 6784: PIB, variação em volume (2015: -3,5%)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810/p/2015"
+    },
+    {
+      "titulo": "Banco Central — SGS 13762: dívida bruta do governo geral (% do PIB), set/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/3?formato=json"
+    }
+  ]
+}
