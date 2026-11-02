@@ -1,0 +1,83 @@
+{
+  "id": "sug-video-tebet-pais-da-corrupcao",
+  "titulo": "Tebet, ex-ministra do Lula: o Brasil é “o país da corrupção”, e a conta de até R$ 120 bi (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-02T18:45",
+  "atualizado": "2026-11-02T18:48",
+  "video_url": "https://www.youtube.com/watch?v=F9a2VcyUbZA&t=19s",
+  "trecho": {
+    "inicio": "porque o Brasil",
+    "fim": "que entrariam nos cofres públicos",
+    "texto": "porque o Brasil, lamentavelmente, tem muita gordura para cortar. O Brasil tem, é o país dos desperdícios, é o país da corrupção, é o país de privilégios. Esta é uma frente que nós temos que enfrentar. Não é suficiente, não é, mas paralelo a isso, nós temos muitas políticas públicas que eram importantes e necessárias no passado e que não se justificam mais, seja de que setor for. Eu dou só um exemplo para não seguirmos muito em relação a isso. Em relação às renúncias fiscais pelo lado da receita, sem precisar aumentar um único imposto no Brasil, ao contrário, o Brasil tem mais de 600 bi de renúncia fiscal todos os anos. Se nós falarmos de um corte de 10 a 20%, nós estamos falando entre 60 e 120 bi que entrariam nos cofres públicos.",
+    "aspa_manchete": "é o país da corrupção",
+    "cta": true,
+    "girar": "nao",
+    "crop": [
+      1080,
+      1180,
+      0,
+      100
+    ],
+    "enquadrar": false,
+    "contexto": [
+      {
+        "desde": "tem muita gordura",
+        "texto": "Tebet, ex-ministra do Planejamento de Lula, CNN, 28/10/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "entre 60 e 120",
+        "texto": "Corte de 10% aprovado em 12/2025: R$ 22,45 bi previstos",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Tebet, ex-ministra do Lula: o Brasil é ==“o país da corrupção”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Tebet, ex-ministra do Lula, chamou o Brasil de “país da corrupção” e disse onde achar até R$ 120 bi sem aumentar imposto.\n\nFoi na CNN, em 28/10/2026, três dias depois do 2º turno. A conta dela: o Brasil abre mão de mais de R$ 600 bi por ano em renúncia fiscal, o imposto que o governo deixa de cobrar de setor ou empresa. Cortou 10% a 20%, entram de R$ 60 a 120 bi.\n\nSó que um corte de 10% já existe. É a Lei Complementar 224, de 26/12/2025. Quando o Senado aprovou, a previsão pro Orçamento de 2026 era R$ 22,45 bi, não R$ 60 bi. No projeto, o que está na Constituição, como Simples e Zona Franca, ficava de fora.\n\nE no governo a conversa era outra: um dia antes, o ministro José Guimarães disse que ajuste fiscal não está em discussão.\n\nPra mim, a conta bonita termina onde começa a lista de quem fica de fora. Cada isenção tem um setor defendendo ela em Brasília.\n\nQual isenção você cortaria primeiro?\n\nVídeo: reprodução CNN Brasil Money (28/10/2026). Fontes: Gazeta do Povo (28/10/2026), Correio Braziliense (LC 224), Reforma Tributária (29/08/2025) e AmdJus (18/12/2025).\n\n#SimoneTebet #ajustefiscal #impostos #orcamento",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil Money (YouTube) — Ajuste fiscal é necessário e temos “gordura” para cortar, diz Tebet (o trecho vai de 0:19 a 1:13)",
+      "url": "https://www.youtube.com/watch?v=F9a2VcyUbZA"
+    },
+    {
+      "titulo": "Gazeta do Povo — Tebet defende ajuste fiscal em meio a divergências no governo Lula sobre corte de gastos (28/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/republica/tebet-defende-ajuste-fiscal-em-meio-a-divergencias-no-governo-lula-sobre-corte-de-gastos/"
+    },
+    {
+      "titulo": "Correio Braziliense — LC 224/2025: o corte de 10% nos benefícios fiscais",
+      "url": "https://blogs.correiobraziliense.com.br/jusbraziliense/2026/08/12/lc-224-2025-o-corte-de-10-nos-beneficios-fiscais-que-sua-empresa-talvez-nem-percebeu/amp/"
+    },
+    {
+      "titulo": "Reforma Tributária — Governo quer R$ 19,8 bilhões com projeto de corte linear de 10% (29/08/2025): exceções do projeto",
+      "url": "https://www.reformatributaria.com/governo-quer-r-198-bilhoes-com-projeto-de-corte-linear-de-10-beneficios-fiscais/"
+    },
+    {
+      "titulo": "AmdJus — Orçamento de 2026 ganha fôlego com eliminação de isenções: R$ 22,45 bilhões a mais (18/12/2025)",
+      "url": "https://amdjus.com.br/orcamento-de-2026-ganha-folego-com-eliminacao-de-isencoes-tributarias-resultando-em-r-2245-bilhoes-a-mais/"
+    }
+  ]
+}
