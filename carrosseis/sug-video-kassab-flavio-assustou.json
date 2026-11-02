@@ -12,7 +12,8 @@
     "texto": "porque o Lula todo mundo conhece. Quem tava com ele tava, quem não tava, agora o Flávio é é de se supor, e aí eu não tenho nenhuma pesquisa, posso tá errado, mas eu acho que não tô, que muitos do que aqueles que o conheceram não gostaram. Que não conheciam. Então, no segundo turno nós tivemos essa questão do desconhecimento e que ele não agradou a parte importante, o Lula não tinha esse problema. E principalmente, alguns falam arrogância, outros salto alto, eu não sei qual é o nome, mas na medida que ele foi soltando pílulas do que seria a sua conduta como presidente e numa autoconfiança muito grande, ele assustou. Ele falou que ia mudar a Constituição. Errou, ele podia falar o que ele ia mudar.",
     "aspa_manchete": "ele assustou",
     "cta": true,
-    "encher": true,
+    "crop": [1760, 900, 90, 125],
+    "enquadrar": false,
     "contexto": [
       {
         "desde": "agora o Flávio",
@@ -20,8 +21,8 @@
         "cor": "amarelo"
       },
       {
-        "desde": "mudar a Constituição",
-        "texto": "Flávio, em 07/10: Judiciário, maioridade penal e fim da reeleição",
+        "desde": "o Lula não tinha esse problema",
+        "texto": "TSE, 25/10/2026: Lula 51,79%, Flávio 48,21%",
         "cor": "vermelho"
       }
     ]
