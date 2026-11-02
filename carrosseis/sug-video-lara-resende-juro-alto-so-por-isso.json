@@ -1,0 +1,73 @@
+{
+  "id": "sug-video-lara-resende-juro-alto-so-por-isso",
+  "titulo": "Lara Resende, um dos pais do Plano Real: o juro é alto porque o Banco Central mantém alto, “só por isso” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-02T13:45",
+  "atualizado": "2026-11-02T13:30",
+  "video_url": "https://www.youtube.com/watch?v=koSyieYkwYM&t=355s",
+  "trecho": {
+    "inicio": "a taxa de juros no Brasil é alta",
+    "fim": "básica de juros",
+    "texto": "a taxa de juros no Brasil é alta, porque o Banco Central mantém a taxa de juros alta. Só por isso. E preciso dizer o que que é a taxa de juros. Já escrevi sobre isso várias vezes, existem muitas taxas de juros. Então, se falar, a taxa de juros é alta porque o spread bancário é alto, porque o sistema é isso, são outras coisas. A taxa na ponta do crédito é uma coisa, nós estamos falando da taxa básica da economia. a taxa que é paga pelo Banco Central nas reservas bancárias, a chamada taxa Selic. Essa taxa quem fixa é o Banco Central e fixa exclusivamente isso. Agora não, mas a taxa ele não, essa taxa precisa dessa taxa para impedir a inflação. Isso eu acho que é um equívoco. Não existe a a inflação não responde diretamente à taxa básica de juros.",
+    "aspa_manchete": "Só por isso",
+    "gancho": false,
+    "cta": true,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "mantém a taxa de juros alta",
+        "texto": "Selic em 13,75% desde 16/09/2026. Copom decide em 04/11/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "um equívoco",
+        "texto": "A proposta dele: 7,5% em 1 ano. A Fazenda diz que não está na mesa",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Um dos pais do Plano Real: o juro é alto porque o BC mantém alto, ==“só por isso”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Um dos pais do Plano Real falou: o juro no Brasil é alto porque o Banco Central mantém alto. “Só por isso.”\n\nAndré Lara Resende defende levar a Selic de 13,75% pra perto de 7,5% em um ano, e depois deixar entre 3% e 5,5%. Foi isso que mexeu com o mercado nos últimos dias.\n\nO outro lado: o ministro Durigan disse que isso não tá na mesa do governo, e a Fazenda diz que não tem reunião marcada entre Lula e Lara Resende. Quem critica lembra de 2012: a Selic caiu a 7,25% e depois voltou a subir até 14,25%, em 2015. E o Copom decide a Selic em 04/11/2026, com autonomia pra isso.\n\nPra mim, ele tem razão em uma coisa: juro de 13,75% pesa em toda parcela que você paga. Mas dizer que a inflação não responde ao juro é a parte que eu quero ver provada com conta, antes de apostar o teu salário nisso.\n\nSe a Selic caísse pela metade, qual parcela tua mudaria primeiro?\n\nVídeo: reprodução Cortes da Kings BR (publicado em 02/11/2026). Fontes: Rádio Bandeirantes e CNN Brasil (02/11/2026), Rankia (calendário do Copom).\n\n#Selic #juros #Copom #LaraResende #economia",
+  "fontes": [
+    {
+      "titulo": "Cortes da Kings BR (YouTube) — Como o pai do Plano Real pretende baixar a Selic | André Lara Resende (publicado em 02/11/2026; o trecho vai de 5:55 a 6:49)",
+      "url": "https://www.youtube.com/watch?v=koSyieYkwYM"
+    },
+    {
+      "titulo": "Rádio Bandeirantes (YouTube) — André Lara Resende propõe corte drástico nos juros e assusta mercado (02/11/2026): 7,5% em 1 ano, depois 3% a 5,5%; Durigan diz que não está na mesa; 2012 como alerta",
+      "url": "https://www.youtube.com/watch?v=Zst0xTi156M"
+    },
+    {
+      "titulo": "CNN Brasil (YouTube) — Durigan nega reunião entre Lula e Lara Resende após reação do mercado (02/11/2026)",
+      "url": "https://www.youtube.com/watch?v=YYEQ8TBydkM"
+    },
+    {
+      "titulo": "Rankia — Próxima reunião do Copom é em 4 de novembro, com a Selic em 13,75%",
+      "url": "https://rankia.com.br/proxima-reuniao-copom/"
+    }
+  ]
+}
