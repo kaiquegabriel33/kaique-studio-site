@@ -1,32 +1,38 @@
 {
-    "id":  "atomo-f12-durigan-gradual",
-    "titulo":  "Durigan: ajuste gradual de quanto? (corte + comentário)",
-    "status":  "pronto",
-    "formato":  "video",
-    "criado":  "2026-11-03T15:33:56",
-    "atualizado":  "2026-11-03T15:33:56",
-    "slides":  [
-                   {
-                       "papel":  "vídeo",
-                       "tema":  "escuro",
-                       "altura":  1920,
-                       "elementos":  [
-                                         {
-                                             "tipo":  "texto",
-                                             "tam":  52,
-                                             "texto":  "Lindbergh Farias, deputado do PT, chamou de “chantagem de quinta categoria”. O dólar pesa mais que a torcida."
-                                         }
-                                     ]
-                   }
-               ],
-    "legenda":  "Durigan pediu calma ao mercado e falou em ajuste gradual. Gradual de quanto?\r\n\r\nO ministro da Fazenda disse em 03/11/2026 que as medidas ainda não estão fechadas e que não falou com o Lula sobre as próximas indicações ao Banco Central. A equipe econômica de 2027 também não foi definida.\r\n\r\nO dólar saiu de R$ 5,04 (23/10) pra R$ 5,49 (03/11), na cotação oficial do Banco Central. A conta de juros do setor público foi de R$ 1,205 trilhão em 12 meses até setembro. Dá uns R$ 100 bi por mês e R$ 3,3 bi por dia, conta nossa.\r\n\r\nO outro lado: são 10 dias desde a eleição, e o governo diz que o plano precisa respeitar os compromissos de campanha e ser justo com os mais pobres. E o dólar não subiu só por isso: a eleição e o debate sobre limitar os juros também pesaram.\r\n\r\nO que você precisaria ver pra acreditar nesse ajuste?\r\n\r\nNarração com a minha voz gerada por IA.\r\n\r\nConteúdo educativo, não é recomendação de investimento.\r\n\r\nVídeo: reprodução Times Brasil (03/11/2026).\r\n\r\nFontes: InfoMoney/Reuters e Gazeta do Povo (03/11/2026), InfoMoney, Poder360 e Banco Central. Print: InfoMoney.\r\n\r\n#Durigan #dolar #juros #ajustefiscal\r\n",
-    "fontes":  [
-                   {
-                       "titulo":  "InfoMoney/Reuters (02/11/2026) e Banco Central. Print: InfoMoney."
-                   }
-               ],
-    "teste_reel":  true,
-    "atomo":  true,
-    "voz_clonada":  true,
-    "duracao_s":  50.4
+ "id": "atomo-f12-durigan-gradual",
+ "titulo": "Átomo f12-durigan-gradual",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-03T18:01:43",
+ "atualizado": "2026-11-03T18:01:43",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Durigan pediu calma ao mercado e falou em ajuste gradual. Gradual de quanto?"
+    }
+   ]
+  }
+ ],
+ "legenda": "Durigan pediu calma ao mercado e falou em ajuste gradual. Gradual de quanto?\n\nO ministro da Fazenda disse em 03/11/2026 que as medidas ainda não estão fechadas e que não falou com o Lula sobre as próximas indicações ao Banco Central. A equipe econômica de 2027 também não foi definida.\n\nO dólar saiu de R$ 5,04 (23/10) pra R$ 5,49 (03/11), na cotação oficial do Banco Central. A conta de juros do setor público foi de R$ 1,205 trilhão em 12 meses até setembro. Dá uns R$ 100 bi por mês e R$ 3,3 bi por dia, conta nossa.\n\nO outro lado: são 10 dias desde a eleição, e o governo diz que o plano precisa respeitar os compromissos de campanha e ser justo com os mais pobres. E o dólar não subiu só por isso: a eleição e o debate sobre limitar os juros também pesaram.\n\nO que você precisaria ver pra acreditar nesse ajuste?\n\nNarração com a minha voz gerada por IA.\n\nConteúdo educativo, não é recomendação de investimento.\n\nVídeo: reprodução Times Brasil (03/11/2026).\n\nFontes: InfoMoney/Reuters e Gazeta do Povo (03/11/2026), InfoMoney, Poder360 e Banco Central. Print: InfoMoney.\n\n#Durigan #dolar #juros #ajustefiscal",
+ "fontes": [
+  {
+   "titulo": "InfoMoney/Reuters e Gazeta do Povo (03/11/2026)"
+  },
+  {
+   "titulo": "InfoMoney"
+  },
+  {
+   "titulo": "Poder360 e Banco Central. Print: InfoMoney."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 62.3
 }
