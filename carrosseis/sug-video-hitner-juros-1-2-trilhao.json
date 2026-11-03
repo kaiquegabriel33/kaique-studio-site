@@ -1,0 +1,74 @@
+{
+  "id": "sug-video-hitner-juros-1-2-trilhao",
+  "titulo": "CNN sobre a conta dos juros: “1,2 trilhão com T” por ano (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-02T22:30",
+  "atualizado": "2026-11-02T22:27",
+  "video_url": "https://www.youtube.com/watch?v=zRjtnAx0A4c&t=274s",
+  "trecho": {
+    "inicio": "A gente tem um problema",
+    "fim": "Isso é o que tá em discussão",
+    "texto": "A gente tem um problema inegável que é a conta dos juros, 1,2 trilhão com T por ano, o que significa R$ 100 bilhões de reais por mês. Isso é muita, muita, muita coisa. Só que a questão é o que vem antes, a política fiscal que pode abrir espaço pra política monetária ou a política monetária tabelar os juros, dar um canetaço na Selic, para aí sim livrar espaço para a política fiscal atuar. Isso é o que tá em discussão.",
+    "aspa_manchete": "1,2 trilhão com T",
+    "cta": true,
+    "gancho": false,
+    "contexto": [
+      {
+        "desde": "a conta dos juros",
+        "texto": "Banco Central: R$ 1,205 trilhão em 12 meses até set/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "dar um canetaço",
+        "texto": "Selic em 13,75%. O Copom decide em 04/11/2026",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "A conta dos juros no Brasil: ==“1,2 trilhão com T”== por ano"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "“1,2 trilhão com T.” É a conta de juros do Brasil em um ano, e o Copom decide a Selic em 04/11.\n\nQuem fala é o Daniel Rittner, da CNN, no CNN 360° de 02/11/2026. O número confere: o Banco Central fechou em R$ 1,205 trilhão os juros do setor público nos 12 meses até setembro, 8,99% do PIB. Dá uns R$ 100 bi por mês, conta nossa. Um ano antes eram R$ 984,8 bi.\n\nA briga é sobre o que vem antes. O André Lara Resende quer um teto na Selic, que está em 13,75%, e parte do PT gostou. O Durigan, da Fazenda, diz que tabelar não está na mesa e que o governo trabalha no ajuste das contas. O risco do teto, que a própria CNN cita, é dinheiro saindo do país e o dólar subindo.\n\nPra mim, essa conta não some no canetaço. Muda de lugar: sai dos juros e aparece no dólar, e o dólar chega no mercado.\n\nVocê mexeria primeiro no gasto ou no juro?\n\nVídeo: reprodução CNN Brasil (02/11/2026). Fontes: Poder360 com dados do Banco Central (29/10/2026) e Band Jornalismo (02/11/2026).\n\n#Selic #Copom #juros #contaspublicas",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (YouTube) — Coordenador do programa de Lula celebra fim do “pensamento único” | CNN 360° (02/11/2026; trecho de 4:36 a 5:17)",
+      "url": "https://www.youtube.com/watch?v=zRjtnAx0A4c"
+    },
+    {
+      "titulo": "Banco Central — Estatísticas Fiscais, setembro de 2026 (texto de 28/10/2026, cópia no Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/10/202610_Texto_de_estatisticas_fiscais.pdf"
+    },
+    {
+      "titulo": "Poder360 — Dívida bruta fica em 82,9% do PIB, diz Banco Central (29/10/2026)",
+      "url": "https://www.poder360.com.br/poder-economia/divida-bruta-fica-em-829-do-pib-diz-banco-central/"
+    },
+    {
+      "titulo": "Band Jornalismo (YouTube) — Durigan diz que Lula não vai tabelar taxa de juros (02/11/2026)",
+      "url": "https://www.youtube.com/watch?v=ieLsCeu6K0c"
+    }
+  ],
+  "formato_corte": "tweet_escuro"
+}
