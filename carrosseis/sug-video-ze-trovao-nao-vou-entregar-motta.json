@@ -1,0 +1,74 @@
+{
+  "id": "sug-video-ze-trovao-nao-vou-entregar-motta",
+  "titulo": "Zé Trovão contra Hugo Motta: “Eu não vou entregar a eleição” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T11:50",
+  "atualizado": "2026-11-03T11:45",
+  "video_url": "https://www.youtube.com/watch?v=YZBa3HerUMY",
+  "trecho": {
+    "inicio": "Vamos aceitar que crie",
+    "fim": "são deputados de direita",
+    "texto": "Vamos aceitar que crie uma narrativa de que a gente precisa fazer um acordo pra gente eleger no Senado. A gente precisa entregar a Câmara dos Deputados pro Hugo Motta. Nós não vamos entregar a eleição pro Hugo Motta. Eu não vou entregar a eleição pro Hugo Motta. Eu serei oposição ao Hugo Motta. Eu serei candidato contra o Hugo Motta se o Partido Liberal não lançar um nome competitivo. Se o Partido Liberal não comprar essa briga, eu vou fazer e vou começar as articulações com os outros deputados que foram eleitos em vários partidos que são deputados de direita.",
+    "aspa_manchete": "não vou entregar a eleição",
+    "encher": true,
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Vamos aceitar",
+        "texto": "Zé Trovão, deputado do PL-SC; a eleição da Câmara é em 01/02/2027",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Se o Partido Liberal",
+        "texto": "Partidos a favor de Motta somam 354 deputados (27/10/2026)",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Zé Trovão contra Hugo Motta: ==“não vou entregar a eleição”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Zé Trovão, do PL, sobre a presidência da Câmara: “Eu não vou entregar a eleição pro Hugo Motta”.\n\nO vídeo é dele, das redes, e passou no SBT News em 02/11/2026. Se o PL não lançar um nome competitivo, ele diz que o candidato é ele. O problema é dentro de casa: segundo o SBT, o próprio partido considera apoiar o Motta pra não ficar isolado, e a bancada marcou a conversa pra esta terça, 03/11. Não vi como terminou.\n\nAgora a conta. Mais pra frente, no mesmo vídeo, ele fala em 287 deputados de direita, número dele. Os partidos a favor do Motta já somavam 354 em 27/10, com o PT junto, e depois disso não vi nenhum voltar atrás. Só que voto de partido não é voto de deputado: a votação é secreta, e é nisso que essa ala do PL aposta. O analista do SBT chama de candidatura de protesto.\n\nPra mim, o que vai dizer se isso é candidatura ou só recado é quantos desses 287 topam perder comissão pra votar contra quem deve ganhar.\n\nSe a votação é secreta, você acha que o PL inteiro vota igual?\n\nVídeo: reprodução SBT News (02/11/2026). Fontes: Vero Notícias (02/11/2026), Jornal do Comércio (27/10/2026) e A Crítica (21/10/2026).\n\n#ZeTrovao #HugoMotta #Camara #PL",
+  "fontes": [
+    {
+      "titulo": "SBT News (YouTube) — “Não vou entregar a Hugo Motta”, afirma Zé Trovão (02/11/2026; o corte vai de 0:19 a 0:53; os 287 vêm logo depois, 0:54; Iander Porcela: PL rachado, apoio de 10+ partidos, votação secreta, candidatura de protesto)",
+      "url": "https://www.youtube.com/watch?v=YZBa3HerUMY"
+    },
+    {
+      "titulo": "Vero Notícias (YouTube) — Zé Trovão ameaça disputar presidência da Câmara (02/11/2026): bancada do PL discute na terça, 03/11; eleição em fevereiro de 2027",
+      "url": "https://www.youtube.com/watch?v=7QDJ7FTCIjA"
+    },
+    {
+      "titulo": "Jornal do Comércio — PT vai apoiar reeleição de Hugo Motta (27/10/2026): partidos favoráveis chegam a 354 parlamentares",
+      "url": "https://www.jornaldocomercio.com/politica/2026/10/1268489-pt-vai-apoiar-reeleicao-de-hugo-motta-a-presidencia-da-camara.html"
+    },
+    {
+      "titulo": "A Crítica — PSB e PDT anunciam apoio a Motta; eleição em 1º de fevereiro de 2027 (21/10/2026)",
+      "url": "https://acritica.net/politica/psb-e-pdt-anunciam-apoio-a-reeleicao-de-hugo-motta-eleicao-na-camara-sera-em-1o-de-fevereiro/"
+    }
+  ],
+  "formato_corte": "tweet_escuro"
+}

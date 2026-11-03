@@ -1,0 +1,74 @@
+{
+  "id": "sug-video-durigan-nada-justifica-medo",
+  "titulo": "Durigan sobre o mercado: “nada que justifique” a “posição de medo” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T11:50",
+  "atualizado": "2026-11-03T11:45",
+  "video_url": "https://www.youtube.com/watch?v=uqX_lLMhjng",
+  "trecho": {
+    "inicio": "Há uma precipitação",
+    "fim": "nosso sistema",
+    "texto": "Há uma precipitação muito grande sobre com quem o presidente vai falar ou não, porque não há agenda colocada. Então eu tô esclarecendo um tema fático. O presidente não tem agenda com outros economistas. Ele tem tido agenda comigo e nas agendas comigo nós não estamos tratando de nada que justifique ao mercado ter uma posição de medo. Nós estamos tratando de um ajuste gradual que respeite os compromissos de campanha, que seja justo em relação aos mais pobres, em relação à progressividade que é necessária ser buscada no nosso sistema.",
+    "aspa_manchete": "nada que justifique",
+    "encher": true,
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Há uma precipitação",
+        "texto": "Dario Durigan, ministro da Fazenda, 03/11/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "ajuste gradual",
+        "texto": "Copom decide a Selic em 04/11, com ela em 13,75%",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Durigan sobre o mercado: ==“nada que justifique”== o medo"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Durigan, da Fazenda, sobre as conversas com o Lula: “nada que justifique ao mercado ter uma posição de medo”.\n\nFoi nesta terça, 03/11. Ele responde ao boato de que o Lula ia sentar com outros economistas, depois da proposta do André Lara Resende de pôr teto na Selic. Diz que não há agenda nenhuma e que a conversa é “um ajuste gradual”, respeitando os compromissos de campanha.\n\nO medo tem número. Na semana depois da reeleição, o Ibovespa caiu 18,12% e o dólar subiu 9,04%, nas contas do SBT News. E nesse trecho ele não diz de quanto é o ajuste nem de onde sai. Também diz que ainda nem falou com o Lula sobre as próximas indicações pro Banco Central.\n\nPra mim, “gradual” é a palavra que mais vai ser cobrada, porque enquanto não vier o tamanho da conta, quem compra dólar vai seguir chutando o pior. E o Copom decide a Selic em 04/11, com ela em 13,75%.\n\nO que você precisaria ver pra acreditar nesse ajuste?\n\nVídeo: reprodução Times Brasil (03/11/2026). Fontes: Itatiaia (03/11/2026), Band Jornalismo (02/11/2026) e SBT News.\n\n#Durigan #Selic #Copom #ajustefiscal",
+  "fontes": [
+    {
+      "titulo": "Times Brasil, licenciado CNBC (YouTube) — Dario Durigan garante rigor técnico em indicações para o Banco Central (03/11/2026)",
+      "url": "https://www.youtube.com/watch?v=uqX_lLMhjng"
+    },
+    {
+      "titulo": "Itatiaia (YouTube) — Governo Lula rejeita proposta para limitar Selic e desmente boato sobre reservas em dólar (03/11/2026)",
+      "url": "https://www.youtube.com/watch?v=IcmM0QzbN5o"
+    },
+    {
+      "titulo": "Band Jornalismo (YouTube) — Durigan diz que Lula não vai tabelar taxa de juros (02/11/2026)",
+      "url": "https://www.youtube.com/watch?v=ieLsCeu6K0c"
+    },
+    {
+      "titulo": "SBT News — Análise: às vésperas do Copom, PT expõe divisão na economia (Ibovespa -18,12%, dólar +9,04%)",
+      "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-iander/analise-as-vesperas-do-copom-pt-expoe-divisao-na-economia"
+    }
+  ],
+  "formato_corte": "tweet_escuro"
+}
