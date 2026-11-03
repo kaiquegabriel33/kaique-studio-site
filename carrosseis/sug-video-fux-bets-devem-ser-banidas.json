@@ -1,0 +1,69 @@
+{
+  "id": "sug-video-fux-bets-devem-ser-banidas",
+  "titulo": "Fux, ministro do STF, sobre as bets: “devem ser banidas” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T13:45",
+  "atualizado": "2026-11-03T13:36",
+  "video_url": "https://www.youtube.com/watch?v=OveXGoWupnA",
+  "trecho": {
+    "inicio": "E houve um pedido de vista",
+    "fim": "edição da medida provisória",
+    "texto": "E houve um pedido de vista que não voltou até hoje, razão pela qual eu não tive oportunidade de reiterar e acrescentar ao meu voto a minha percepção de que as bets devem ser banidas. Sucede que eu tenho 10 colegas que vão ter de apreciar, razão pela qual eu preciso levar a eles outros elementos que surgiram depois da edição da medida provisória.",
+    "aspa_manchete": "as bets devem ser banidas",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "E houve um pedido",
+        "texto": "Bets proibidas por medida provisória, fora do ar desde 06/10",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Sucede que",
+        "texto": "Audiência no STF em 03/11; outros 10 ministros ainda vão analisar",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Fux, ministro do STF, sobre as bets: ==“devem ser banidas”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Fux, ministro do STF, abriu o jogo sobre as bets: “devem ser banidas”.\n\nFoi na audiência pública de 03/11/2026, a que ele mesmo convocou pra discutir a medida provisória que tirou as bets do ar em 06/10. Quem reclamou da lista de convidados ouviu dele que o STF já escutou dezenas de entidades em 2024. Só que, dos 34 chamados agora, ao menos 22 já tinham se posicionado contra a proibição, segundo a CNN.\n\nE a frase não fecha a conta. No mesmo discurso, Fux diz que a opinião dele depende dos colegas e fala das notícias de milhares de bets ilegais depois da proibição.\n\nTem dinheiro de gente real dos dois lados: a família que apostava o que não tinha e o clube que perdeu patrocínio.\n\nPra mim, o ponto é esse: proibir é a parte fácil. Se o cara continuar apostando num site clandestino, sem nenhuma regra, o problema só trocou de endereço.\n\nVídeo: reprodução UOL, transmissão da audiência no STF (03/11/2026). Fontes: CNN Brasil (03/11/2026) e STF (27/10/2026).\n\n#bets #STF #Fux #apostas",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Fux rebate críticas por ouvir empresas e clubes sobre bets e defende que apostas sejam banidas (03/11/2026)",
+      "url": "https://www.youtube.com/watch?v=OveXGoWupnA"
+    },
+    {
+      "titulo": "CNN Brasil — Fux defende “banir” bets e diz que já ouviu entidades contrárias às apostas (03/11/2026): 34 convocadas, ao menos 22 contra a proibição",
+      "url": "https://www.cnnbrasil.com.br/politica/fux-defende-banir-bets-e-diz-que-ja-ouviu-entidades-contrarias-as-apostas/"
+    },
+    {
+      "titulo": "STF — STF realizará audiência pública sobre MP das bets (27/10/2026): ADI 8027, MP 1.394/2026",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/"
+    }
+  ],
+  "formato_corte": "tela_cheia_escura"
+}
