@@ -1,0 +1,79 @@
+{
+  "id": "sug-video-bacci-galipolo-bolsonarista",
+  "titulo": "Luiz Bacci na véspera do Copom: “Tô achando que o Galípolo é bolsonarista” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T18:40",
+  "atualizado": "2026-11-03T18:36",
+  "video_url": "https://www.youtube.com/watch?v=YzEMbyzSXc4&t=127s",
+  "trecho": {
+    "crop": [
+      880,
+      660,
+      450,
+      90
+    ],
+    "enquadrar": false,
+    "foco_falante": false,
+    "inicio": "O cara que o senhor botou lá",
+    "fim": "A gente quer financiar uma casa, não consegue nunca",
+    "aspa_manchete": "Tô achando que o Galípolo é bolsonarista",
+    "texto": "O cara que o senhor botou lá não baixa. O cara tá indo, parece que contra o seu governo. Tô achando que o Galípolo é bolsonarista. Ele não baixa essa taxa de juros que só ajuda os bancos. A gente quer financiar uma casa, não consegue nunca.",
+    "contexto": [
+      {
+        "desde": "O cara que o senhor botou",
+        "texto": "Lei de 2021: presidente do BC tem mandato, Lula não dá ordem",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Ele não baixa",
+        "texto": "Copom decide em 04/11: 33 de 48 analistas veem Selic em 13,75%",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Bacci Notícias (YouTube), publicado em 03/11/2026; de 2:28 a 2:46",
+  "legenda": "Luiz Bacci, que se diz de direita, soltou essa na véspera do Copom: “tô achando que o Galípolo é bolsonarista”.\n\nA piada tem um pé na realidade. O Galípolo foi pro Banco Central por indicação do próprio Lula, e a Selic tá em 13,75%. Isso é o juro que serve de base pro financiamento da casa que o Bacci reclama de não conseguir.\n\nSó que tem um erro aí. No mesmo programa, o Bacci manda o recado: “o senhor manda, presidente Lula, baixar os juros”. Desde a lei de 2021, o presidente do Banco Central tem mandato, e o Lula pode pedir o que quiser, mas não dá ordem no juro. Quem decide é o Copom.\n\nE ele decide nesta quarta (04/11). Numa pesquisa da Reuters, 33 de 48 analistas esperam os juros parados em 13,75%.\n\nChamar o Galípolo de bolsonarista rende risada. A parcela da casa continua igual.\n\nSe o juro ficar parado na quarta, você culpa quem: o Galípolo ou a conta do governo?\n\nVídeo: reprodução Bacci Notícias (03/11/2026). Fontes: InfoMoney/Reuters (02/11/2026), Lei Complementar 179/2021 e SBT News (02/11/2026).\n\n#selic #copom #galipolo",
+  "fontes": [
+    {
+      "titulo": "Bacci Notícias (YouTube) — Luiz Bacci critica alta da taxa de juros no governo Lula (publicado em 03/11/2026; o trecho vai de 2:28 a 2:46)",
+      "url": "https://www.youtube.com/watch?v=YzEMbyzSXc4"
+    },
+    {
+      "titulo": "InfoMoney/Reuters — BC deve manter Selic em 13,75% em uma pausa após a reeleição de Lula (02/11/2026)",
+      "url": "https://www.infomoney.com.br/economia/bc-deve-manter-selic-em-1375-em-uma-pausa-apos-a-reeleicao-de-lula/"
+    },
+    {
+      "titulo": "Planalto — Lei Complementar 179/2021 (autonomia do Banco Central)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp179.htm"
+    },
+    {
+      "titulo": "SBT News (YouTube) — Galípolo no Banco Central por indicação do presidente Lula (02/11/2026)",
+      "url": "https://www.youtube.com/watch?v=bR35KqoI3L0"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Luiz Bacci na véspera do Copom: ==“Tô achando que o Galípolo é bolsonarista”==. Só que o Lula não manda no juro.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
