@@ -1,0 +1,40 @@
+{
+  "id": "sug-story-selic-boato-tabelar",
+  "titulo": "Story: o boato de tabelar a Selic, o ministro negou, e o Copom decide na quarta",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-02T13:50",
+  "atualizado": "2026-11-02T13:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-selic-boato-tabelar/bc-deve-manter-selic-em-13-75-em-uma-pausa-apos.jpg",
+        "foco": {
+          "x": 0.48,
+          "y": 0.5
+        },
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Domingo correu no mercado que o governo ia tabelar a Selic, o juro básico do país. O ministro da Fazenda negou. Na quarta, [[verde:33 de 48 analistas]] esperam os juros parados em 13,75%. Pra mim, boato de domingo não é motivo pra mexer em investimento."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-selic-boato-tabelar/print-infomoney-bc-deve-manter-selic-em-13-75-em.png",
+          "h": 460,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": []
+}

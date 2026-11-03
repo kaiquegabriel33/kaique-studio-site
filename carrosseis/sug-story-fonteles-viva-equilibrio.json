@@ -1,0 +1,53 @@
+{
+  "id": "sug-story-fonteles-viva-equilibrio",
+  "titulo": "Story: o cotado para a Fazenda escreveu “Viva o Equilíbrio Fiscal!!!”",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-03T09:10",
+  "atualizado": "2026-11-03T09:10",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-fonteles-viva-equilibrio/fazenda.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O mais cotado pra Fazenda do Lula escreveu ontem “Viva o Equilíbrio Fiscal!!!”, com três exclamações. É o Rafael Fonteles, reeleito no Piauí. Se ele não tomar posse lá, é a [[vermelho:primeira vez em 108 anos]]. E no PT já tem gente com medo de corte pesado no gasto. Pra mim, o dólar só acalma quando sair o nome."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-fonteles-viva-equilibrio/print-infomoney-viva-o-equilibrio-fiscal-diz-gov.png",
+          "h": 340,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — ‘Viva o equilíbrio fiscal’, diz governador cotado para a Fazenda sobre secretário (02/11/2026; 70,90% e os 108 anos, do Broadcast Político)",
+      "url": "https://www.infomoney.com.br/politica/viva-o-equilibrio-fiscal-diz-governador-cotado-para-a-fazenda-sobre-secretario/"
+    },
+    {
+      "titulo": "Folha — ‘Viva o equilíbrio fiscal’, publica governador do PI cotado para Fazenda na gestão Lula 4 (02/11/2026; o “tesouraço” e o fogo amigo no PT)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/11/viva-o-equilibrio-fiscal-publica-governador-do-pi-cotado-para-fazenda-na-gestao-lula-4.shtml"
+    },
+    {
+      "titulo": "Foto de fundo: Esplanada dos Ministérios, Senado Federal (CC BY 2.0, Wikimedia Commons)",
+      "url": "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_(48205132557).jpg"
+    }
+  ]
+}
