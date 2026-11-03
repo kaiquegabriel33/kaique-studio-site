@@ -1,0 +1,83 @@
+{
+  "id": "sug-video-zema-conta-vai-vir",
+  "titulo": "Zema sobre Lula: “mais ou menos comprando votos com recursos públicos”, e a conta “vai vir agora” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-02T22:25",
+  "atualizado": "2026-11-02T22:25",
+  "video_url": "https://www.youtube.com/watch?v=byiZxYXbjus&t=5976s",
+  "trecho": {
+    "inicio": "o nosso partido já entrou",
+    "fim": "vai subir os preços",
+    "texto": "o nosso partido já entrou com uma ação, feriu a legislação eleitoral. Não foram três, quatro vezes, não foram mais de 15 vezes nesses últimos 15 meses. E isso, infelizmente, cria uma imagem para boa parte da população, que ele é o bonzinho, que ele está fazendo bem, que ele está muito preocupado com as pessoas, mas a conta vai vir agora. Então, é uma forma de agir totalmente errada. É alguém que está mais ou menos comprando votos com recursos públicos. Infelizmente é o que aconteceu. Agora nós vamos ter, deixo de pagar a conta. Tá aí um imposto novo que vai começar no dia 1º de janeiro e que muito provavelmente vai subir os preços.",
+    "aspa_manchete": "mais ou menos comprando votos",
+    "gancho": false,
+    "cta": true,
+    "girar": "nao",
+    "crop": [
+      840,
+      740,
+      430,
+      40
+    ],
+    "enquadrar": false,
+    "legenda_y": 715,
+    "contexto": [
+      {
+        "desde": "o nosso partido",
+        "texto": "Romeu Zema, ex-candidato do Novo, na rádio O Povo, 02/11/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "um imposto novo",
+        "texto": "A CBS começa em 01/01/2027 no lugar de PIS e Cofins",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Zema sobre Lula: ==“mais ou menos comprando votos”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Zema disse que o Lula está “mais ou menos comprando votos com recursos públicos” e que a conta vem em janeiro.\n\nFoi na rádio O Povo CBN, em 02/11/2026. Zema, ex-candidato do Novo, apoiou o Flávio no 2º turno. Na mesma entrevista, ele diz que não questiona a votação de 25/10 e critica a saída do Flávio do país: “quem não deve não teme”, a mesma frase que o Lula usou em 27/10.\n\nA acusação tem papel na Justiça: o Novo pediu a cassação da chapa no TSE duas vezes, em 08/08 pelo desfile na Sapucaí e em 20/10 pelas bets e pelo reajuste do Bolsa Família, que a petição diz ter sido concluído 4 dias antes do voto. A de outubro cita 35 atos do governo na campanha. Não achei decisão em nenhuma das duas.\n\nO “imposto novo” ele não diz qual é. O que começa em 01/01/2027 é a CBS, da reforma tributária de 2023, no lugar de PIS e Cofins, dois impostos que já vêm embutidos no preço. É troca de imposto, e a alíquota ainda depende do Senado.\n\nPra mim, misturar as duas contas confunde: o Bolsa Família sai do Orçamento e a CBS já estava marcada desde a reforma. Se o preço subir em janeiro, vale cobrar a conta certa.\n\nVocê sabia que esse imposto de janeiro vem de uma lei de 2023?\n\nVídeo: reprodução O Povo (02/11/2026). Fontes: BNLData, Poder360 e Jornal do Brasil.\n\n#Zema #TSE #reformatributaria",
+  "fontes": [
+    {
+      "titulo": "O Povo (YouTube) — Entrevista com Romeu Zema, OPR, 02/11/2026 (o trecho vai de 1:39:36 a 1:40:39)",
+      "url": "https://www.youtube.com/watch?v=byiZxYXbjus"
+    },
+    {
+      "titulo": "BNLData — Novo leva proibição das bets ao TSE como prova de abuso de poder e pede cassação de Lula e Alckmin",
+      "url": "https://bnldata.com.br/?p=189457"
+    },
+    {
+      "titulo": "Poder360 — Entenda o que muda com a reforma tributária a partir de 2027",
+      "url": "https://www.poder360.com.br/reforma-tributaria-2027/entenda-o-que-muda-com-a-reforma-tributaria-a-partir-de-2027/"
+    },
+    {
+      "titulo": "Jornal do Brasil — “Quem não deve, não teme”, diz Lula sobre fuga de Flávio aos EUA (28/10/2026)",
+      "url": "https://www.jb.com.br/brasil/politica/2026/10/amp/1061377-quem-nao-deve-nao-teme-diz-lula-sobre-fuga-de-flavio-aos-eua.html"
+    }
+  ],
+  "formato_corte": "tela_cheia_escura"
+}

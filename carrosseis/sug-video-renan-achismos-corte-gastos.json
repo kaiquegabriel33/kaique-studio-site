@@ -1,0 +1,60 @@
+{
+  "id": "sug-video-renan-achismos-corte-gastos",
+  "titulo": "Renan Santos: defender corte de gasto e o eleitor pensa “esse cara é ruim” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-10-29T17:30",
+  "atualizado": "2026-11-02T21:50",
+  "trecho": {
+    "inicio": "Teve alguma que você achou que você falou",
+    "fim": "no frigir dos ovos.",
+    "texto": "Teve alguma que você achou que você falou puta? Não, eu, por exemplo, todas as vezes que eu defendi matéria de corte de gastos do governo, tipo, ah, eu vou desindexar a aposentadoria do... Você não desindexar? Você já se fodeu. E eu falei isso no Jornal Nacional. No fundo, eleitor, tipo, um, ele não entendeu, dois, você entendeu que ele vai tirar um direito meu? Pô, esse cara é ruim, por que esse cara tá fazendo isso? Na cabeça do eleitor, eu tô tão quebrado, por que você tá fazendo isso contra mim? Mesmo ele não entendendo que eu fazer isso vai fazer ele ficar melhor no frigir dos ovos.",
+    "aspa_manchete": "desindexar a aposentadoria",
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "desindexar a aposentadoria",
+        "texto": "Constituição: benefício do INSS nunca abaixo do salário mínimo",
+        "cor": "amarelo"
+      }
+    ],
+    "trocar_palavras": {
+      "fodeu": "f*deu",
+      "Puta": "P*ta"
+    },
+    "gancho": "eu vou desindexar a aposentadoria do... Você não desindexar? Você já se fodeu."
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "claro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "texto": "Renan Santos: fala em ==desindexar a aposentadoria== e o eleitor pensa “esse cara é ruim”"
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Renan Santos sobre defender corte de gastos: “eu vou desindexar a aposentadoria do...”\n\nO entrevistador nem deixa terminar: “você já se f*deu”. Desindexar é tirar a regra que corrige um gasto automaticamente (como o piso da aposentadoria, que a Constituição prende ao salário mínimo). Pra ele, o eleitor ou não entende ou entende que vai perder um direito e conclui “esse cara é ruim”, mesmo que a conta, no fim, fique melhor pra ele. É por isso que quase nenhum candidato fala em cortar gasto.\n\nDá pra ganhar eleição falando a verdade sobre as contas? Comenta aí.\n\nVídeo: reprodução AchismosTV (27/10/2026). Fonte: Constituição Federal, art. 201, § 2º.\n\n#gastopublico #previdencia #aposentadoria #RenanSantos #contaspublicas",
+  "fontes": [
+    {
+      "titulo": "AchismosTV (YouTube) — Qual o futuro do Brasil com o Lula eleito? ft. Renan Santos | Achismos Podcast #441 (27/10/2026)",
+      "url": "https://www.youtube.com/watch?v=UUKtux3KQHU"
+    },
+    {
+      "titulo": "Constituição Federal, art. 201, § 2º (benefício não inferior ao salário mínimo)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ]
+}

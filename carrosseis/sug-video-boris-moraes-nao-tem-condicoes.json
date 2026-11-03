@@ -1,0 +1,86 @@
+{
+  "id": "sug-video-boris-moraes-nao-tem-condicoes",
+  "titulo": "Boris Casoy sobre Moraes: “não tem condições nem de continuar no STF” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-02T21:50",
+  "atualizado": "2026-11-02T21:50",
+  "video_url": "https://www.youtube.com/watch?v=dkmEtpP1b60&t=25s",
+  "trecho": {
+    "inicio": "Eu tô achando",
+    "fim": "um caso que o envolve",
+    "texto": "Eu tô achando que o Xandão não tem condições nem de continuar no STF. Eu não tenho nada contra ele, nem conheço. Ah, agora tudo que aconteceu com ele, aquelas gravações da relação dele com o Vorcaro, né, a mulher dele, né, a história da mulher dele e o banco master não dá, né? Não dá. Infelizmente vai ter que arrumar um jeito de tirar alguns ministros, inclusive ele, Toffoli, depois dos negócios com Não dá, enfim, não dá. Como é que você pode acreditar em que o ministro Moraes aja com, eu vou dizer com lisura num caso que o envolve? um caso que o envolve.",
+    "aspa_manchete": "não tem condições nem de continuar no STF",
+    "gancho": false,
+    "cta": true,
+    "girar": "nao",
+    "crop": [
+      1010,
+      440,
+      35,
+      560
+    ],
+    "enquadrar": false,
+    "contexto": [
+      {
+        "desde": "Eu não tenho nada contra ele",
+        "texto": "Boris Casoy, jornalista, no SBT News de 02/11/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "a mulher dele",
+        "texto": "Contrato do Master com o escritório dela previa R$ 129 mi",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Boris Casoy sobre Moraes: ==“não tem condições nem de continuar no STF”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Boris Casoy, sobre Alexandre de Moraes: “não tem condições nem de continuar no STF”.\n\nFoi no SBT News, em 02/11/2026. Ele comentava o pedido que a defesa do Flávio Bolsonaro fez a Fachin em 30/10: tirar Moraes do inquérito sobre lavagem de dinheiro e passar pro André Mendonça. O argumento são voos de Moraes em jatos ligados a Vorcaro e o contrato do Master com o escritório da mulher dele.\n\nO que dá pra separar. O contrato previa R$ 129 milhões em 3 anos, revelado pelo O Globo; o escritório diz que fez 36 pareceres e 94 reuniões. Boris fala em “gravações”, mas o que a PF tornou público foram mensagens e registros de encontros, e Moraes negou em março ter recebido as mensagens. Até onde achei, Fachin ainda não decidiu.\n\nNa prática, tirar ministro do Supremo passa pelo Senado, e a presidência do Senado está em disputa agora, com o PL lançando Rogério Marinho contra Alcolumbre.\n\nUm ministro pode relatar um inquérito quando a defesa cita o avião em que ele voou? Pra mim, essa é a pergunta que o Fachin tem que responder.\n\nVídeo: reprodução SBT News (02/11/2026). Fontes: Jornal de Brasília (01/11/2026), Itatiaia, Diário de Pernambuco e Revista Oeste (06/03/2026).\n\n#Moraes #STF #BorisCasoy",
+  "fontes": [
+    {
+      "titulo": "SBT News (YouTube) — “Não tem condições”: Boris Casoy critica permanência de Moraes no STF (trecho de 0:25 a 1:23)",
+      "url": "https://www.youtube.com/watch?v=dkmEtpP1b60"
+    },
+    {
+      "titulo": "Jornal de Brasília — Defesa de Flávio Bolsonaro pede que Moraes seja impedido de relatar inquérito e quer troca por Mendonça (01/11/2026)",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/defesa-de-flavio-bolsonaro-pede-que-moraes-seja-impedido-de-relatar-inquerito-e-quer-troca-por-mendonca/"
+    },
+    {
+      "titulo": "Itatiaia — Contrato do Master com escritório de mulher de Moraes era de R$ 129 milhões",
+      "url": "https://www.itatiaia.com.br/economia/contrato-do-master-com-escritorio-de-mulher-de-moraes-era-de-r-129-milhoes/"
+    },
+    {
+      "titulo": "Diário de Pernambuco — Esposa de Moraes diz que produziu 36 pareceres e fez 94 reuniões com o Banco Master (03/2026)",
+      "url": "https://www.diariodepernambuco.com.br/politica/2026/03/11709371-esposa-de-moraes-diz-que-produziu-36-pareceres-e-fez-94-reunioes-com-o-banco-master.html"
+    },
+    {
+      "titulo": "Revista Oeste — Moraes nega troca de mensagens com Vorcaro (06/03/2026)",
+      "url": "https://revistaoeste.com/politica/moraes-nega-troca-de-mensagens-com-vorcaro/"
+    }
+  ],
+  "formato_corte": "tweet_escuro"
+}

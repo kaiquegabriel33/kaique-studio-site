@@ -1,0 +1,82 @@
+{
+  "id": "sug-video-marinho-bolsa-quitanda",
+  "titulo": "Luiz Marinho sobre o tombo da Bolsa: “não gerou nenhum impacto” na economia real, “lá na quitanda” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-02T22:10",
+  "atualizado": "2026-11-02T22:10",
+  "video_url": "https://www.youtube.com/watch?v=k0lYM7B2wAU&t=30s",
+  "trecho": {
+    "inicio": "Mas nós também temos que chamar",
+    "fim": "cumprir seus compromissos",
+    "texto": "mas nós também temos que chamar a responsabilidade dos agentes econômicos, porque a queda da Bolsa foi por uma aposta do mercado para um lado só e perderam a aposta, agora vem o ajuste dessas contas, dessa aposta, não tem nada a ver com dívida, com equilíbrio fiscal, tem a ver com a especulação que os agentes econômicos produzem nesse momento, ou seja, eles provocam o ataque especulativo e ganham na baixa e ganham na alta, isso que acontece na Bolsa de Valores, o fato de ter tido queda na Bolsa não gerou nenhum impacto na economia real, lá na ponta, lá no mercado, lá no bairro, lá na quitanda, portanto nós temos que chamar a responsabilidade também dos agentes econômicos para agirem com responsabilidade, esse é um país que tem suas reservas, que honra seus compromissos, não tem absolutamente nenhum risco de deixar de cumprir seus compromissos.",
+    "aspa_manchete": "nenhum impacto",
+    "gancho": false,
+    "cta": true,
+    "girar": "nao",
+    "crop": [
+      1015,
+      640,
+      33,
+      530
+    ],
+    "enquadrar": false,
+    "contexto": [
+      {
+        "desde": "a queda da bolsa foi",
+        "texto": "Luiz Marinho, ministro do Trabalho, no SBT News, 30/10/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "não gerou nenhum impacto",
+        "texto": "Bradesco subiu a taxa da casa para 15% ao ano nessa mesma semana",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Marinho sobre a queda da Bolsa: ==“nenhum impacto”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Marinho disse que a queda da Bolsa não mexeu em nada “lá na quitanda”. Na mesma semana, o juro da casa foi a 15% no Bradesco.\n\nFoi no SBT News, em 30/10/2026. Pro ministro do Trabalho, o tombo foi “uma aposta do mercado para um lado só” e “não tem nada a ver com dívida, com equilíbrio fiscal”.\n\nA semana depois da reeleição: Ibovespa -18,12% e dólar +9,04%, nas contas do SBT News. E o crédito da casa subiu: Bradesco de 11,7% pra 15% ao ano + TR, Itaú de 11,99% pra 12,95% e Santander de 11,69% pra 12,49%. A InfoMoney liga a alta aos juros futuros, que dispararam depois da eleição. Quem já tem contrato fica com a taxa que assinou. A Caixa, com quase 70% desse crédito, não tinha mexido até a matéria.\n\nPra mim, ele acerta numa parte: dono de quitanda não abre o Ibovespa de manhã. Só que quem foi simular o financiamento nessa semana já pegou outra parcela.\n\nJá sentiu isso em alguma conta sua? Comenta aí.\n\nVídeo: reprodução SBT News (30/10/2026). Fontes: SBT News (30/10/2026) e InfoMoney.\n\n#LuizMarinho #Ibovespa #financiamento",
+  "fontes": [
+    {
+      "titulo": "SBT News (YouTube) — Ministro de Lula diz que reação do mercado é ataque especulativo (trecho de 0:30 a 1:23)",
+      "url": "https://www.youtube.com/watch?v=k0lYM7B2wAU"
+    },
+    {
+      "titulo": "SBT News — Governo estuda punir empresas por assédio eleitoral (30/10/2026; identifica Luiz Marinho e as aspas sobre a Bolsa)",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/governo-estuda-punir-empresas-por-assedio-eleitoral"
+    },
+    {
+      "titulo": "SBT News — Análise: às vésperas do Copom, PT expõe divisão na economia (Ibovespa -18,12%, dólar +9,04%)",
+      "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-iander/analise-as-vesperas-do-copom-pt-expoe-divisao-na-economia"
+    },
+    {
+      "titulo": "InfoMoney — Após Bradesco e Itaú, Santander também eleva juros do crédito imobiliário",
+      "url": "https://www.infomoney.com.br/minhas-financas/apos-bradesco-e-itau-santander-tambem-eleva-juros-do-credito-imobiliario/"
+    }
+  ],
+  "formato_corte": "tweet_escuro"
+}
