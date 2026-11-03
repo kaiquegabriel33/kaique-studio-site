@@ -1,0 +1,86 @@
+{
+  "id": "sug-video-lula-bets-nao-podemos-permitir",
+  "titulo": "Lula sobre as bets, antes da audiência no STF: os pobres “jogam aquilo que não têm” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T10:40",
+  "atualizado": "2026-11-03T10:40",
+  "video_url": "https://www.youtube.com/watch?v=yGhmCre3rbA",
+  "trecho": {
+    "inicio": "Vocês sabem que as coisas",
+    "fim": "a continuidade das bets",
+    "texto": "Vocês sabem que as coisas começaram a melhorar muito depois que as bets fecharam. Poucas pessoas querem que as bets continuem, sobretudo aqueles que querem continuar ganhando dinheiro, às custas da violência, às custas do sofrimento das pessoas pobres, que na perspectiva de ficar rico, jogam aquilo que não têm. A sociedade civil não pode permitir a continuidade das bets.",
+    "aspa_manchete": "jogam aquilo que não têm",
+    "girar": "nao",
+    "crop": [
+      1080,
+      1650,
+      0,
+      0
+    ],
+    "enquadrar": false,
+    "preencher": false,
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "Vocês sabem",
+        "texto": "Bets proibidas por medida provisória, fora do ar desde 06/10",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Poucas pessoas",
+        "texto": "STF ouviu os dois lados em 03/11; Fux ainda vai decidir",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Lula sobre as bets: os pobres ==“jogam aquilo que não têm”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Lula sobre as bets: os pobres, “na perspectiva de ficar rico”, “jogam aquilo que não têm”.\n\nO vídeo é de 03/11/2026, gravado antes da audiência do Fux no STF. Ele pede pra sociedade não permitir a volta. A proibição veio por medida provisória assinada em 25/09, dias antes do 1º turno, e quem é contra chama de eleitoreira.\n\nLula diz que “as coisas começaram a melhorar muito”, mas nesse vídeo não dá número. Quem trouxe número foi a Abras, a associação dos supermercados: consumo 6,5% maior depois da proibição, segundo a tarja do UOL (a CNN fala em cerca de 6%). Do outro lado, os clubes falam em prejuízo, como o Flamengo, que perdeu o patrocínio master.\n\nE o saldo de quem apostava? Eram cerca de R$ 1,3 bi nas contas. Os bancos tinham até 14/10 pra devolver e o que travou foi pra Caixa. Ninguém precisa pagar taxa pra receber: se pedirem, desconfia.\n\nPra mim, o dado do supermercado é o mais interessante da história, porque aposta que vira comida muda a conversa. Só que vem da associação do próprio setor, e eu ainda quero ver outro número antes de comemorar.\n\nVocê conhece alguém que parou de apostar depois que fechou?\n\nVídeo: reprodução UOL (03/11/2026). Fontes: STF (27/10/2026), CNN Brasil (03/11/2026), O Povo (06/10/2026) e Mercado & Consumo (14/10/2026).\n\n#bets #Lula #STF #apostas",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Lula pede mobilização contra bets antes de audiência no STF (03/11/2026)",
+      "url": "https://www.youtube.com/watch?v=yGhmCre3rbA"
+    },
+    {
+      "titulo": "STF — STF realizará audiência pública sobre MP das bets (27/10/2026)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/"
+    },
+    {
+      "titulo": "CNN Brasil (YouTube) — Bets: divergências econômicas pautarão audiência no STF (03/11/2026): supermercados cerca de 6%, patrocínio do Flamengo, crítica de eleitoreira",
+      "url": "https://www.youtube.com/watch?v=-6dDeTCTxQ8"
+    },
+    {
+      "titulo": "O Povo — Bets começam a sair do ar nesta terça-feira (06/10/2026): MP 1.394/2026 assinada em 25/09",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/10/06/bets-comecam-a-sair-do-ar-nesta-terca-feira.html"
+    },
+    {
+      "titulo": "Mercado & Consumo — Prazo pra bancos devolverem R$ 1,3 bilhão de bets acaba nesta quarta (14/10/2026)",
+      "url": "https://mercadoeconsumo.com.br/14/10/2026/economia/prazo-pra-bancos-devolverem-r-13-bilhao-de-bets-acaba-nesta-quarta/"
+    }
+  ],
+  "formato_corte": "tela_cheia_escura"
+}
