@@ -1,0 +1,66 @@
+{
+  "id": "sug-video-kassab-casa-propria-20-por-cento",
+  "titulo": "Kassab sobre o financiamento da casa própria: juros “na casa de 20%”, “algo impossível” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T09:10",
+  "atualizado": "2026-11-03T09:01",
+  "video_url": "https://www.youtube.com/watch?v=TTBVPlvr_44&t=225s",
+  "trecho": {
+    "inicio": "as contas públicas vão precisar",
+    "fim": "na sua política econômica",
+    "texto": "as contas públicas vão precisar sofrer um enxugamento muito grande para que a gente possa trazer a tranquilidade pro investidor em especial, porque o capital hoje ele é globalizado. O capital, seja aquele que tá aqui no Brasil ou que está lá fora, o que está aqui vai ficar e o que está lá fora virá se ele tiver segurança para investir. Com esses juros, por exemplo, quem é que quer investir? Hoje eu tenho conversado com algumas pessoas na cidade de São Paulo, por exemplo, os juros para quem financia sua casa própria tá na casa de 20%. Se um cidadão compra um apartamento por R$ 1 milhão e ele financia 600, ele tá pagando quase 20% de juros. É algo impossível, não é? Qualquer cidadão que tenha hoje um financiamento, ele não vai conseguir pagar. Então, é evidente que para acreditar nesse governo, a gente precisa acreditar na sua política econômica.",
+    "aspa_manchete": "casa de 20%",
+    "gancho": false,
+    "cta": true,
+    "contexto": [
+      {
+        "desde": "as contas públicas",
+        "texto": "Gilberto Kassab, presidente do PSD, na Jovem Pan, 02/11/2026",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "na casa de 20%",
+        "texto": "Mínimas dos bancos: de 12,49% a 15% ao ano + TR (29/10/2026)",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Kassab diz que o juro da casa própria está ==“na casa de 20%”=="
+        },
+        {
+          "tipo": "video",
+          "h": "resto",
+          "ajuste": "conter",
+          "x": 0,
+          "w": 1080,
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "ab_formato": "30-10",
+  "legenda": "Kassab diz que o juro da casa própria está “na casa de 20%”. O que os bancos divulgaram é menos, mas subiu rápido.\n\nO presidente do PSD falou isso na Jovem Pan, em 02/11/2026, e ele mesmo diz que ouviu de “algumas pessoas” em São Paulo. No exemplo dele, um apartamento de R$ 1 milhão com R$ 600 mil financiados.\n\nAs taxas mínimas divulgadas na semana passada: Bradesco 15% ao ano + TR (era 11,7%), Itaú 12,95% + TR (era 11,99%) e Santander 12,49% + TR (era 11,69%). A TR anda perto de 2% ao ano, então o Bradesco encosta em 17%, conta nossa. A Caixa, com quase 70% desse crédito, não tinha respondido até 29/10. E essas taxas são pra quem vai contratar agora.\n\nPra mim, o 20% passa do que os bancos mostram. Só que o susto de quem foi simular financiamento nessa semana é real, e o Copom decide a Selic nesta quarta, 04/11.\n\nVocê tá esperando o juro cair pra financiar?\n\nVídeo: reprodução Jovem Pan News (02/11/2026). Fonte: InfoMoney (29/10/2026).\n\n#financiamento #casapropria #Selic #Kassab",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News (YouTube) — Kassab questiona gastos do governo Lula, Direto ao Ponto (02/11/2026; o trecho vai de 3:52 a 4:49)",
+      "url": "https://www.youtube.com/watch?v=TTBVPlvr_44"
+    },
+    {
+      "titulo": "InfoMoney — Após Bradesco e Itaú, Santander também eleva juros do crédito imobiliário",
+      "url": "https://www.infomoney.com.br/minhas-financas/apos-bradesco-e-itau-santander-tambem-eleva-juros-do-credito-imobiliario/"
+    }
+  ],
+  "formato_corte": "tweet_escuro"
+}
