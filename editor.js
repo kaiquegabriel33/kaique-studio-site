@@ -13,6 +13,10 @@
     let lays = [];              // layout de cada página (do último desenho)
     const desfazer = [];
     let sujo = false;
+    let rev = 0;                // cada mudança soma 1: o que foi digitado durante o salvar continua "não salvo"
+    let versao = cfg.versao || '';   // versão do arquivo que esta aba leu (o servidor recusa se o disco mudou)
+    const CHAVE_RASCUNHO = `ks-rascunho-${d.id}`;
+    let tRascunho = 0;
 
     const camada = el('canvas', { class: 'camada-editor' });
     cfg.palco.append(camada);
@@ -20,8 +24,18 @@
     cfg.lado.prepend(painel);
     const estado = el('p', { class: 'status', role: 'status' });
 
-    function snapshot() { desfazer.push(JSON.stringify(d.slides)); if (desfazer.length > 60) desfazer.shift(); }
-    function marcarSujo() { sujo = true; btnSalvar.textContent = 'Salvar alterações •'; }
+    function snapshot() { desfazer.push(JSON.stringify({ slides: d.slides, legenda: d.legenda })); if (desfazer.length > 60) desfazer.shift(); }
+    function marcarSujo() {
+      sujo = true; rev++; btnSalvar.textContent = 'Salvar alterações •';
+      // rascunho neste navegador: servidor caído, aba fechada ou recarregar não perdem o trabalho
+      clearTimeout(tRascunho);
+      tRascunho = setTimeout(gravarRascunho, 600);
+    }
+    function gravarRascunho() {
+      clearTimeout(tRascunho);
+      try { localStorage.setItem(CHAVE_RASCUNHO, JSON.stringify({ slides: d.slides, legenda: d.legenda, em: Date.now(), versao }, (k, v) => (k.startsWith('_') ? undefined : v))); } catch { /* sem armazenamento: segue */ }
+    }
+    function apagarRascunho() { clearTimeout(tRascunho); try { localStorage.removeItem(CHAVE_RASCUNHO); } catch { /* segue */ } }
     function slideAtual() { return d.slides[cfg.paginaAtual()]; }
     // selecionado só vale na página que está na tela (trocar de página pelos pontos não apaga o elemento errado)
     function elAtual() { return sel && sel.pagina === cfg.paginaAtual() && d.slides[sel.pagina] ? d.slides[sel.pagina].elementos[sel.idx] : null; }
@@ -91,6 +105,8 @@
       if (!arrasto) return;
       const p = pontoPagina(ev), e = elAtual();
       if (!e) return;
+      // clique com a mão tremendo não fixa posição: só vale arrasto de verdade (8 px da página, uns 4 na tela)
+      if (!arrasto.mexeu && Math.hypot(p.x - arrasto.p0.x, p.y - arrasto.p0.y) < 8) return;
       if (arrasto.modo === 'mover') {
         e.x = Math.round(arrasto.x0 + p.x - arrasto.p0.x);
         e.y = Math.round(arrasto.y0 + p.y - arrasto.p0.y);
@@ -109,11 +125,14 @@
     camada.addEventListener('pointercancel', soltar);
 
     // ---------- painel ----------
-    const btnSalvar = el('button', { text: 'Salvar alterações', onclick: salvar });
+    const btnSalvar = el('button', { text: 'Salvar alterações', onclick: () => salvar() });
+    const caixaEscolha = el('div', { class: 'acoes' });
     const btnPublicar = el('button', { class: 'sec', text: 'Publicar no site', onclick: publicar });
     const btnDesfazer = el('button', { class: 'sec', text: 'Desfazer', onclick: () => {
       if (!desfazer.length) return;
-      d.slides = JSON.parse(desfazer.pop());
+      const v = JSON.parse(desfazer.pop());
+      d.slides = v.slides; d.legenda = v.legenda;
+      if (cfg.aoMudarLegenda) cfg.aoMudarLegenda();
       sel = null; cfg.aoMudarPaginas(); redesenharTudo(); montarPainel(); marcarSujo();
     } });
     const campos = el('div', { class: 'edicao' });
@@ -138,6 +157,8 @@
     function montarPainel() {
       campos.innerHTML = '';
       const s = slideAtual();
+      // legenda: ajustar só ela, sem tocar nas páginas
+      campos.append(campo('Legenda', 'textarea', d.legenda || '', (v) => { d.legenda = v; if (cfg.aoMudarLegenda) cfg.aoMudarLegenda(); }));
       // página
       campos.append(el('h2', { text: `Página ${cfg.paginaAtual() + 1}` }));
       campos.append(el('div', { class: 'acoes' },
@@ -155,7 +176,7 @@
       campos.append(el('h2', { text: `Elemento: ${e.tipo}` }));
       const textuais = { texto: ['texto'], noticia: ['manchete', 'linhaFina', 'veiculo', 'data'], numero: ['valor', 'rotulo', 'contexto'],
         grafico: ['titulo', 'subtitulo', 'fonte'], tabela: ['titulo', 'subtitulo', 'fonte'], citacao: [], manchetes: [], linha_tempo: ['titulo'],
-        comparacao: [], imagem: ['credito'], video: ['credito'] };
+        comparacao: [], imagem: ['credito'], video: ['credito'], caixa_story: ['texto'] };
       (textuais[e.tipo] || []).forEach((k) => campos.append(campo(k, 'textarea', e[k], (v) => { e[k] = v; })));
       if (e.tipo === 'citacao') (e.citacoes || []).forEach((c, k) => campos.append(campo(`citação ${k + 1}`, 'textarea', c, (v) => { e.citacoes[k] = v; })));
       if (e.tipo === 'manchetes') (e.itens || []).forEach((it, k) => campos.append(campo(`manchete ${k + 1}`, 'textarea', it.manchete, (v) => { it.manchete = v; })));
@@ -163,7 +184,7 @@
         campos.append(campo(`item ${k + 1} — título`, 'textarea', it.titulo, (v) => { it.titulo = v; }));
         campos.append(campo(`item ${k + 1} — texto`, 'textarea', it.texto, (v) => { it.texto = v; }));
       });
-      if ('tam' in e || e.tipo === 'texto') campos.append(campo('Tamanho da letra', 'number', e.tam ?? 37, (v) => { e.tam = v; }));
+      if ('tam' in e || e.tipo === 'texto' || e.tipo === 'caixa_story') campos.append(campo('Tamanho da letra', 'number', e.tam ?? (e.tipo === 'caixa_story' ? 42 : 37), (v) => { e.tam = v; }));
       if (e.tipo === 'texto') {
         campos.append(campo('Peso', 'select', e.peso ?? 700, (v) => { e.peso = Number(v); }, { opcoes: [[500, 'Médio'], [600, 'Semi-negrito'], [700, 'Negrito (modelo)'], [800, 'Extra-negrito']] }));
         campos.append(campo('Alinhamento', 'select', e.alinhar || 'inicio', (v) => { e.alinhar = v === 'inicio' ? undefined : v; }, { opcoes: [['inicio', 'Esquerda'], ['centro', 'Centro'], ['fim', 'Direita']] }));
@@ -176,7 +197,7 @@
         el('button', { class: 'sec', text: 'Apagar elemento', onclick: () => {
           snapshot(); slideAtual().elementos.splice(sel.idx, 1); sel = null; marcarSujo(); redesenhar(); montarPainel();
         } })));
-      campos.append(el('p', { class: 'nota', text: 'No texto: **negrito** e ==marca-texto==.' }));
+      campos.append(el('p', { class: 'nota', text: e.tipo === 'caixa_story' ? 'Na caixa do story: [[vermelho:palavra]] e [[verde:palavra]].' : 'No texto: **negrito** e ==marca-texto==.' }));
     }
 
     function trocarOrdem(dir) {
@@ -209,38 +230,82 @@
       marcarSujo(); redesenhar(); montarPainel();
     }
 
-    async function salvar() {
-      estado.textContent = 'Salvando…';
+    // Mensagem com botões no lugar do status (conflito e rascunho)
+    function perguntar(texto, ...botoes) {
+      estado.textContent = texto;
+      caixaEscolha.innerHTML = '';
+      botoes.forEach(([rotulo, acao]) => caixaEscolha.append(el('button', { class: 'sec', text: rotulo, onclick: () => { caixaEscolha.innerHTML = ''; acao(); } })));
+    }
+    function ofereceRascunho() {
+      let r = null;
+      try { r = JSON.parse(localStorage.getItem(CHAVE_RASCUNHO) || 'null'); } catch { /* segue */ }
+      if (!r || !Array.isArray(r.slides)) return;
+      const limpo = (x) => JSON.stringify(x, (k, v) => (k.startsWith('_') ? undefined : v));
+      if (limpo(r.slides) === limpo(d.slides) && (r.legenda || '') === (d.legenda || '')) { apagarRascunho(); return; }
+      const hora = new Date(r.em).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+      perguntar(`Há alterações não salvas de ${hora} neste navegador${r.versao && r.versao !== versao ? ' (o arquivo mudou depois delas)' : ''}.`,
+        ['Recuperar', () => { if (r.versao) versao = r.versao; snapshot(); d.slides = r.slides; d.legenda = r.legenda; if (cfg.aoMudarLegenda) cfg.aoMudarLegenda(); sel = null; cfg.aoMudarPaginas(); redesenharTudo(); montarPainel(); marcarSujo(); estado.textContent = 'Recuperado. Confira e salve.'; }],
+        ['Descartar', () => { apagarRascunho(); estado.textContent = ''; }]);
+    }
+    let salvando = null;
+    function salvar(forcar) {
+      if (salvando) return salvando;     // duplo clique: o 2º PUT levava a versão antiga e dava conflito falso; quem chega no meio espera o mesmo salvar
+      btnSalvar.disabled = true;
+      salvando = salvarAgora(forcar).finally(() => { salvando = null; btnSalvar.disabled = false; });
+      return salvando;
+    }
+    async function salvarAgora(forcar) {
+      estado.textContent = 'Salvando…'; caixaEscolha.innerHTML = '';
+      const revEnviada = rev;
       const limpo = JSON.parse(JSON.stringify(d, (k, v) => (k.startsWith('_') ? undefined : v)));
-      try {
-        const r = await fetch(`/api/carrossel/${encodeURIComponent(d.id)}`, {
-          method: 'PUT', headers: { 'Content-Type': 'application/json', 'X-KS': '1' }, body: JSON.stringify(limpo) });
-        const j = await r.json();
-        if (!j.ok) { estado.textContent = 'Não salvou: ' + j.erro; return false; }
-        sujo = false; btnSalvar.textContent = 'Salvar alterações';
-        estado.textContent = 'Salvo no computador. Use “Publicar no site” para mandar para o celular.';
-        return true;
-      } catch { estado.textContent = 'Servidor local não respondeu.'; return false; }
+      const cab = { 'Content-Type': 'application/json', 'X-KS': '1' };
+      if (versao) cab['X-KS-Base'] = versao;
+      if (forcar === true) cab['X-KS-Forcar'] = '1';
+      let r;
+      try { r = await fetch(`/api/carrossel/${encodeURIComponent(d.id)}`, { method: 'PUT', headers: cab, body: JSON.stringify(limpo) }); }
+      catch { estado.textContent = 'Servidor local não respondeu. Nada se perdeu: suas alterações seguem aqui e no rascunho; abra o Kaique Studio de novo e salve.'; return false; }
+      const j = await r.json().catch(() => ({ ok: false, erro: `resposta inesperada do servidor (${r.status})` }));
+      if (r.status === 409 && j.conflito) {
+        perguntar(j.erro,
+          ['Ver o que está no arquivo (minhas alterações ficam no rascunho)', () => { gravarRascunho(); sujo = false; location.reload(); }],
+          ['Salvar por cima mesmo assim', () => salvar(true)]);
+        return false;
+      }
+      if (!j.ok) { estado.textContent = 'Não salvou: ' + j.erro; return false; }
+      if (j.versao) versao = j.versao;
+      if (rev === revEnviada) { sujo = false; btnSalvar.textContent = 'Salvar alterações'; apagarRascunho(); }
+      const avisos = [rev === revEnviada ? 'Salvo no computador.' : 'Salvo, mas você mudou algo enquanto salvava: salve de novo.'];
+      if (j.sem_mudanca) avisos[0] = 'Nada mudou desde o último salvar.';
+      else {
+        avisos.push('A Central não recebe esta edição sozinha.');
+        if (j.postar_velho) avisos.push('As imagens de postar/ são de antes desta edição: rode exportar_post e confira a agenda antes de postar.');
+      }
+      if (j.aviso) avisos.push(j.aviso);
+      estado.textContent = avisos.join(' ');
+      return true;
     }
     async function publicar() {
       if (sujo && !(await salvar())) return;
       estado.textContent = 'Publicando… (testes, GitHub e site, uns 20 segundos)';
       btnPublicar.disabled = true;
       try {
-        const j = await (await fetch('/api/publicar', { method: 'POST', headers: { 'X-KS': '1' } })).json();
+        const resp = await fetch('/api/publicar', { method: 'POST', headers: { 'X-KS': '1' } });
+        const j = await resp.json().catch(() => ({ ok: false, erro: `resposta inesperada do servidor (${resp.status}); confira o site antes de tentar de novo` }));
         estado.textContent = j.ok ? 'Publicado. Em cerca de 1 minuto aparece no site.' : `Não publicou: ${j.erro}`;
         global.__ksPublicacao = j;
       } catch { estado.textContent = 'Servidor local não respondeu.'; }
       btnPublicar.disabled = false;
     }
 
-    painel.append(el('h2', { text: 'Editor' }), el('div', { class: 'acoes' }, btnSalvar, btnPublicar, btnDesfazer), estado, campos);
+    painel.append(el('h2', { text: 'Editor' }), el('div', { class: 'acoes' }, btnSalvar, btnPublicar, btnDesfazer), estado, caixaEscolha, campos);
     cfg.trilho.addEventListener('scroll', () => { requestAnimationFrame(() => { desenharCamada(); montarPainel(); }); }, { passive: true });
     global.addEventListener('resize', desenharCamada);
-    global.addEventListener('beforeunload', (ev) => { if (sujo) { ev.preventDefault(); ev.returnValue = ''; } });
     redesenharTudo();
     montarPainel();
-    return { selecionar: (pagina, idx) => { sel = { pagina, idx }; montarPainel(); desenharCamada(); }, salvar, get sujo() { return sujo; } };
+    if (cfg.comPendencia) marcarSujo();
+    ofereceRascunho();
+    return { selecionar: (pagina, idx) => { sel = { pagina, idx }; montarPainel(); desenharCamada(); }, salvar, get sujo() { return sujo; },
+      fechar: () => { global.removeEventListener('resize', desenharCamada); clearTimeout(tRascunho); } };
   }
 
   global.KSEditor = { abrir };

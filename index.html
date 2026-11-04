@@ -188,6 +188,9 @@
   const toque = matchMedia('(pointer: coarse)').matches;   // celular: menu de compartilhar; PC: baixa direto
   let navegacao = 0;          // cada troca de tela ganha um número; tela antiga que termina de carregar não desenha
   let sairTela = null;        // limpeza da tela atual (vídeo tocando, laços, memória)
+  const versoes = new Map();  // versão do arquivo que cada carrossel tinha ao ser lido (só o servidor local manda)
+  let ajustesPendentes = false;   // "Ajustar textos" com alteração que ainda não foi copiada
+  const temPendencia = () => LOCAL && (ajustesPendentes || !!(window.__ksEditor && window.__ksEditor.sujo));
 
   // link vindo de dado (fontes, radar) nunca vira "javascript:"
   const linkSeguro = (v) => {
@@ -222,6 +225,7 @@
     const r = await fetch(`carrosseis/${encodeURIComponent(id)}.json` + semCache());
     if (!r.ok) throw new Error('carrossel não encontrado');
     const d = await r.json();
+    versoes.set(id, r.headers.get('X-KS-Versao') || '');
     cache.set(id, d);
     return d;
   }
@@ -377,6 +381,7 @@
     app.innerHTML = '<p class="vazio">Montando as páginas…</p>';
     const minha = navegacao;
     let d;
+    if (LOCAL) cache.delete(id);     // no computador abre sempre do arquivo (a lista pode estar aberta há horas)
     try { d = structuredClone(await carregarCarrossel(id)); }
     catch {
       if (minha === navegacao) {
@@ -465,7 +470,16 @@
     const blobs = () => Promise.all(canvases.map((c) => R.canvasParaBlob(c)));
 
     let legendaCopiada = false;
+    // imagem ou fonte que não carregou = peça incompleta: o 1º toque avisa, só o 2º baixa assim mesmo
+    let avisouCarga = false;
+    function pararPorCarga() {
+      if (!LOCAL || !problemaCarga || avisouCarga) return false;
+      avisouCarga = true;
+      status.textContent = `Não baixei: ${problemaCarga} Toque de novo só se quiser baixar assim mesmo.`;
+      return true;
+    }
     async function salvarNoCelular() {
+      if (pararPorCarga()) return;
       // a legenda vai para a área de transferência no mesmo toque (o celular só deixa copiar dentro do toque)
       if (d.legenda && !legendaCopiada) navigator.clipboard.writeText(d.legenda).then(() => { legendaCopiada = true; }, () => {});
       status.textContent = 'Preparando as imagens…';
@@ -473,6 +487,7 @@
       try { bs = await (imagensProntas || blobs()); }
       catch { status.textContent = 'O celular ficou sem memória para gerar as imagens. Feche outras abas e atualize a página.'; return; }
       const arquivos = bs.map((b, i) => new File([b], nomeArq(i), { type: 'image/png' }));
+      ajustesPendentes = false;     // o ajuste já saiu nas imagens (vale só para elas)
       if (toque && navigator.canShare && navigator.canShare({ files: arquivos })) {
         try {
           await navigator.share({ files: arquivos, title: d.titulo || id });
@@ -496,6 +511,7 @@
       setTimeout(() => URL.revokeObjectURL(a.href), 4000);
     }
     async function baixarZip() {
+      if (pararPorCarga()) return;
       status.textContent = 'Montando o ZIP…';
       const zip = new JSZip();
       let bs;
@@ -504,6 +520,7 @@
       bs.forEach((b, i) => zip.file(nomeArq(i), b));
       if (d.legenda) zip.file('legenda.txt', d.legenda + '\n');
       baixar(await zip.generateAsync({ type: 'blob' }), `${id}.zip`);
+      ajustesPendentes = false;     // o ajuste já saiu nas imagens (vale só para elas)
       status.textContent = 'ZIP baixado.';
     }
     async function copiar(texto, ok) {
@@ -544,13 +561,18 @@
       bStory,
       el('button', { class: 'sec', onclick: baixarZip, text: 'Baixar tudo (ZIP)' }));
     if (LOCAL) {
-      acoes.append(el('button', { class: 'sec', onclick: () => conferirLocal(id, canvases, status), text: 'Exportar e conferir (local)' }));
+      acoes.append(el('button', { class: 'sec', onclick: () => conferirLocal(id, canvases, status, problemaCarga), text: 'Exportar e conferir (local)' }));
       const btnEditar = el('button', { class: 'sec', text: 'Editar (computador)' });
       btnEditar.addEventListener('click', async () => {
         btnEditar.disabled = true;
         await carregarScript('editor.js');
+        // o editor assume os textos: duas caixas para o mesmo texto desencontravam (e perdiam o ajuste depois de Desfazer)
+        const comPendencia = ajustesPendentes;
+        ajustesPendentes = false;
+        if (blocoAjustes) blocoAjustes.remove();
         window.__ksEditor = KSEditor.abrir({
-          d, el, trilho, palco: document.querySelector('.palco'), lado,
+          d, el, trilho, palco: document.querySelector('.palco'), lado, comPendencia, versao: versoes.get(id) || '',
+          aoMudarLegenda: () => { legendaCopiada = false; lado.querySelectorAll('.legenda, .legenda-curta').forEach((p) => { p.textContent = d.legenda || ''; }); },
           canvases: new Proxy([], { get: (_, k) => canvases[k] }),
           paginaAtual: () => atual,
           irPara: (i) => irPara(i, false),
@@ -572,7 +594,8 @@
       d.fontes.forEach((f) => ul.append(el('li', {}, f.url ? el('a', { href: f.url, target: '_blank', rel: 'noopener', text: f.titulo || f.url }) : el('span', { text: f.titulo }))));
       mais.append(el('section', { class: 'bloco' }, el('h2', { text: `Fontes (${d.fontes.length})` }), ul));
     }
-    mais.append(editorTextos(d, desenharTudo, (txt) => copiar(txt, 'Alterações copiadas. Cole no Claude para gravar de vez.')));
+    const blocoAjustes = editorTextos(d, desenharTudo, (txt) => copiar(txt, 'Alterações copiadas. Cole no Claude para gravar de vez.'));
+    mais.append(blocoAjustes);
     lado.append(mais);
 
     app.innerHTML = '';
@@ -820,6 +843,7 @@
         ta.addEventListener('input', () => {
           e[campo] = ta.value;
           mudancas.set(idc, { pagina: i + 1, campo, texto: ta.value });
+          ajustesPendentes = true;
           clearTimeout(t); t = setTimeout(redesenhar, 250);
         });
         caixa.append(el('div', {}, el('label', { for: idc, text: `Página ${i + 1} · ${campo === 'linhaFina' ? 'linha fina' : campo}` }), ta));
@@ -827,6 +851,7 @@
     }));
     caixa.append(el('button', { class: 'sec', text: 'Copiar alterações para o Claude', onclick: () => {
       if (!mudancas.size) return copiarAlteracoes('Nenhuma alteração.');
+      ajustesPendentes = false;
       const txt = 'Kaique Studio — alterações no carrossel ' + d.id + ':\n' +
         [...mudancas.values()].map((m) => `• Página ${m.pagina} (${m.campo}): ${m.texto}`).join('\n');
       copiarAlteracoes(txt);
@@ -836,14 +861,17 @@
   }
 
   // Só no computador, com o servidor local: grava e confere os PNGs (1080 × 1350).
-  async function conferirLocal(id, canvases, status) {
+  async function conferirLocal(id, canvases, status, problemaCarga = '') {
+    if (problemaCarga) { status.textContent = `Não exportei: ${problemaCarga}`; return; }
+    if (window.__ksEditor && window.__ksEditor.sujo) { status.textContent = 'Salve as alterações antes de exportar: a imagem e a legenda precisam ser as do arquivo.'; return; }
     status.textContent = 'Exportando…';
     const fd = new FormData();
     for (let i = 0; i < canvases.length; i++) {
       fd.append(`pagina_${String(i + 1).padStart(2, '0')}`, await R.canvasParaBlob(canvases[i]), `p${i + 1}.png`);
     }
     try {
-      const j = await (await fetch(`/api/exportar/${encodeURIComponent(id)}`, { method: 'POST', body: fd, headers: { 'X-KS': '1' } })).json();
+      const resp = await fetch(`/api/exportar/${encodeURIComponent(id)}`, { method: 'POST', body: fd, headers: { 'X-KS': '1' } });
+      const j = await resp.json().catch(() => ({ ok: false, erro: `resposta inesperada do servidor (${resp.status})` }));
       window.__ksExport = j;
       status.textContent = j.ok ? `Conferido e gravado em ${j.pasta}` : `Falhou: ${j.erro}`;
     } catch { status.textContent = 'Servidor local não respondeu.'; }
@@ -852,6 +880,8 @@
   async function rotear() {
     navegacao++;
     if (sairTela) { try { sairTela(); } catch { /* segue */ } sairTela = null; }
+    if (window.__ksEditor) { window.__ksEditor.fechar(); window.__ksEditor = null; }
+    ajustesPendentes = false;
     const m = location.hash.match(/^#\/c\/([a-z0-9-]+)$/);
     window.scrollTo(0, 0);
     if (m) await telaCarrossel(m[1]);
@@ -859,18 +889,25 @@
     else await telaLista();
     titulo.focus({ preventScroll: true });     // leitor de tela anuncia a tela nova
   }
-  voltar.addEventListener('click', () => {
-    // editor aberto com alteração não salva: confirma antes de jogar fora
-    if (window.__ksEditor && window.__ksEditor.sujo && !confirm('Você tem alterações não salvas. Sair mesmo assim?')) return;
-    location.hash = '#/';
-  });
+  voltar.addEventListener('click', () => { location.hash = '#/'; });
+  // 04/11: o aviso de alteração não salva mora aqui e vale para Voltar, Alt+← e link direto (antes só o botão Voltar perguntava)
+  let hashAtual = location.hash, ignorarHash = false;
+  window.addEventListener('beforeunload', (ev) => { if (temPendencia()) { ev.preventDefault(); ev.returnValue = ''; } });
   // o app fica aberto dias na tela de início do celular: ao voltar para ele, a lista se atualiza
   let escondidoEm = 0;
   document.addEventListener('visibilitychange', () => {
     if (document.hidden) { escondidoEm = Date.now(); return; }
     if (escondidoEm && Date.now() - escondidoEm > 60e3) { cache.clear(); if (!location.hash || location.hash === '#/') rotear(); }
   });
-  window.addEventListener('hashchange', rotear);
+  window.addEventListener('hashchange', () => {
+    if (ignorarHash) { ignorarHash = false; return; }
+    if (temPendencia() && !confirm('Você tem alterações não salvas. Sair mesmo assim?')) {
+      ignorarHash = true; location.hash = hashAtual;
+      return;
+    }
+    hashAtual = location.hash;
+    rotear();
+  });
   carregarIndice().then(rotear).catch(() => {
     app.innerHTML = '';
     app.append(el('p', { class: 'vazio', text: 'Não consegui carregar a lista de carrosséis. Atualize a página.' }));
