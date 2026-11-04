@@ -1,0 +1,115 @@
+{
+  "id": "sug-disney-corta-20-por-cento",
+  "titulo": "A Disney cortou 8 mil em 2023 e hoje tem 11 mil a mais",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-11-04T13:10",
+  "atualizado": "2026-11-04T13:10",
+  "slides": [
+    {
+      "tema": "claro",
+      "papel": "capa",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "texto": "A Disney se prepara pra cortar milhares de vagas, segundo a Bloomberg.\n\n==Alguns gerentes já têm meta: até 20% de economia.=="
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-disney-corta-20-por-cento/print-folha-disney-planeja-milhares-de-demis.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "evidência",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 44,
+          "texto": "Em 2023 a manchete foi parecida: mais de 8 mil cargos eliminados.\n\nDois anos depois, a Disney tinha ==11 mil funcionários a mais.=="
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "titulo": "Cortou 8 mil, e o total subiu",
+          "subtitulo": "funcionários no fim de cada ano fiscal",
+          "rotulos": [
+            "2022",
+            "2025"
+          ],
+          "valores": [
+            220,
+            231
+          ],
+          "sufixo": " mil",
+          "casas": 0,
+          "destaques": [
+            1
+          ],
+          "h": 340
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "evidência",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "texto": "E quem saiu em 2023?\n\nO total subir não devolveu o emprego de ninguém. Hoje uns 185 mil dos 231 mil estão em parques e cruzeiros.\n\nNaquele corte, os horistas dos parques ficaram de fora. ==A conta caiu em outra parte da empresa.=="
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "evidência",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "texto": "Por que de novo?\n\nA Disney prometeu ao investidor um lucro por ação crescendo mais de 10% ao ano, com as vendas crescendo bem menos que isso.\n\nA TV a cabo tá perdendo gente e Orlando tá dando desconto. ==Pra fechar a diferença, a meta caiu no gerente: até 20%.=="
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "conclusão",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 46,
+          "texto": "Tem muita gente que olha empresa grande e acha que tá segura.\n\nA Disney tem 231 mil funcionários, e nem disse quais áreas entram nessa.\n\nFaz a conta de quantos meses você aguenta sem salário.\n\n==Crachá de empresa grande não é reserva de emergência.=="
+        }
+      ]
+    }
+  ],
+  "legenda": "A Disney cortou mais de 8 mil cargos em 2023. Dois anos depois, tinha 11 mil funcionários a mais.\n\nAgora a Bloomberg conta que ela se prepara pra cortar milhares de vagas, e que alguns gerentes têm meta de até 20% de economia por ano. Pode ser demissão ou outro gasto. A Disney não confirmou, e a reportagem não diz quantas vagas.\n\nJá teve corte em abril e em setembro deste ano. Parte da economia volta pra filme, série, tecnologia, parques e cruzeiros.\n\nO repórter da Bloomberg explica a pressa: a empresa prometeu lucro por ação crescendo dois dígitos, com venda crescendo um dígito médio. A TV a cabo perde público e os parques deram desconto em Orlando.\n\nO número total subir não ajuda quem perdeu o cargo. Quantos meses você aguenta sem salário?\n\nFontes: Bloomberg, pela Folha (03/11/2026), Reuters (02/11/2026) e Bloomberg Tech (YouTube). Funcionários: relatórios anuais da Disney, citados pela Business Model Analyst. Os 11 mil são conta nossa: 231 mil menos 220 mil.\n\n#Disney #emprego #dinheiro",
+  "fontes": [
+    {
+      "titulo": "Folha C-Level / Bloomberg: Disney planeja milhares de demissões para cortar custos em 20% (03/11/2026)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/11/disney-planeja-milhares-de-demissoes-para-cortar-custos-em-20.shtml"
+    },
+    {
+      "titulo": "U.S. News / Reuters: Disney Eyes Thousands of Layoffs, Managers Asked to Cut 20% in Costs (02/11/2026)",
+      "url": "https://money.usnews.com/investing/news/articles/2026-11-02/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports"
+    },
+    {
+      "titulo": "Yahoo Finance: Disney reportedly plans thousands of job cuts (231 mil funcionários, cortes de abril e setembro, sem confirmação da empresa)",
+      "url": "https://finance.yahoo.com/media-advertising/articles/disney-reportedly-plans-thousands-job-112744347.html"
+    },
+    {
+      "titulo": "Bloomberg Tech (YouTube): Disney Plans Thousands of Layoffs Companywide, com o repórter Chris Palmeri (promessa de lucro, venda, TV, Orlando)",
+      "url": "https://www.youtube.com/watch?v=uu4IO43eAnU"
+    },
+    {
+      "titulo": "Business Model Analyst: Disney Is Cutting Thousands of Jobs. Last Time, Its Workforce Grew (funcionários 2022–2025, 185 mil em parques e cruzeiros, horistas fora em 2023)",
+      "url": "https://businessmodelanalyst.com/disney-layoffs-thousands-jobs-cost-cuts-parks"
+    }
+  ]
+}
