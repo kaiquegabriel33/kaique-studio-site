@@ -1,0 +1,43 @@
+{
+  "id": "sug-story-gestores-kit-brasil-dolar",
+  "titulo": "Story: em setembro, 64% dos gestores apostavam na queda do dólar; agora 70% apostam na alta",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T12:50:00-03:00",
+  "atualizado": "2026-11-04T12:50:00-03:00",
+  "legenda": "",
+  "comentario": "Em setembro, 64% desses gestores apostavam na queda do dólar. Agora 70% apostam na alta. Se nem quem vive disso acertou o rumo, correr pro dólar no susto não é plano.",
+  "repost_url": "https://www.infomoney.com.br/economia/fuga-kit-brasil-fundos-multimercados-dolar/",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Gestores quase zeram otimismo, fogem do ‘Kit Brasil’ e apostam no dólar, aponta XP (04/11/2026): pesquisa da XP com 20 gestoras, 26 a 30/10",
+      "url": "https://www.infomoney.com.br/economia/fuga-kit-brasil-fundos-multimercados-dolar/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-gestores-kit-brasil-dolar/gestores-quase-zeram-otimismo-fogem-do-kit-brasi.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Em setembro, 64% desses gestores apostavam na queda do dólar. Agora [[vermelho:70% apostam na alta]]. Se nem quem vive disso acertou o rumo, correr pro dólar no susto não é plano."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-gestores-kit-brasil-dolar/print-infomoney-gestores-quase-zeram-otimismo-fo.png",
+          "h": 641,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "sug-story-ueno-paraguai",
+  "titulo": "Story: banco quebra no Paraguai com 2,9 milhões de clientes, a garantia é de uns R$ 210 mil e o primeiro pagamento é de uns R$ 9 mil",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T13:40:00-03:00",
+  "atualizado": "2026-11-04T13:40:00-03:00",
+  "legenda": "",
+  "comentario": "O Ueno, banco do Paraguai, tinha 2,9 milhões de clientes num país de 6,1 milhões. O Banco Central interveio e travou tudo. A garantia é de uns R$ 210 mil, só que o primeiro pagamento é de uns R$ 9 mil. Aqui o FGC cobre R$ 250 mil, mas não paga o boleto de amanhã: deixa a reserva num banco e o dinheiro do mês em outro.",
+  "repost_url": "https://exame.com/mundo/crise-do-ueno-bank-leva-a-renuncia-do-presidente-do-banco-central-do-paraguai/",
+  "fontes": [
+    {
+      "titulo": "Exame — Crise do Ueno bank leva à renúncia do presidente do Banco Central do Paraguai (04/11/2026): 2,9 milhões de clientes, país de 6,1 milhões, garantia de 228,3 milhões de guaranis, primeiro pagamento de até 10 milhões de guaranis (cerca de US$ 1,6 mil), prazo legal de 15 dias",
+      "url": "https://exame.com/mundo/crise-do-ueno-bank-leva-a-renuncia-do-presidente-do-banco-central-do-paraguai/"
+    },
+    {
+      "titulo": "Poder360 — Crise bancária leva manifestantes às ruas do Paraguai (04/11/2026): garantia de 228,3 milhões de guaranis, cerca de R$ 210 mil; depósitos indisponíveis",
+      "url": "https://www.poder360.com.br/poder-internacional/crise-bancaria-leva-manifestantes-as-ruas-do-paraguai/"
+    },
+    {
+      "titulo": "InvestNews — Crise no Paraguai: clientes do Ueno ficam sem acesso a contas após intervenção (04/11/2026)",
+      "url": "https://investnews.com.br/negocios/crise-no-paraguai-clientes-do-ueno-ficam-sem-acesso-a-contas-apos-intervencao/amp"
+    },
+    {
+      "titulo": "Comunicado FGC 2026, Banco Semear: garantia de R$ 250 mil por CPF ou CNPJ em cada instituição",
+      "url": "https://www.bancosemear.com.br/wp-content/uploads/2026/06/Comunicado-FGC-2026-a__-Banco-Semear.pdf"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-ueno-paraguai/crise-no-ueno-bank-derruba-presidente-do-bc-do-p.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Ueno, banco do Paraguai, tinha [[vermelho:2,9 milhões de clientes]] num país de 6,1 milhões. O Banco Central interveio e travou tudo. A garantia é de uns R$ 210 mil, só que o primeiro pagamento é de uns R$ 9 mil. Aqui o FGC cobre R$ 250 mil, mas não paga o boleto de amanhã: [[vermelho:deixa a reserva num banco e o dinheiro do mês em outro]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-ueno-paraguai/print-exame-crise-do-ueno-bank-leva-a-renunc.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

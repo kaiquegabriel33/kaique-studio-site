@@ -1,0 +1,44 @@
+{
+  "id": "sug-story-itau-lucro-2027-pior",
+  "titulo": "Story: R$ 12,6 bi de lucro em três meses, e o CEO do Itaú diz que 2027 vem pior",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T12:50:00-03:00",
+  "atualizado": "2026-11-04T12:50:00-03:00",
+  "legenda": "",
+  "comentario": "R$ 12,6 bilhões de lucro em três meses, e o próprio CEO do Itaú diz que 2027 vem pior. Se a tua parcela já tá no limite, mexe nela agora, não em 2027.",
+  "repost_url": "https://exame.com/invest/mercados/nao-somos-imunes-diz-ceo-do-itau-sobre-piora-da-economia-em-2027/",
+  "fontes": [
+    {
+      "titulo": "Exame — 'Não somos imunes', diz CEO do Itaú sobre piora da economia em 2027 (04/11/2026): lucro de R$ 12,6 bi no 3º tri de 2026; aspas de Milton Maluhy Filho",
+      "url": "https://exame.com/invest/mercados/nao-somos-imunes-diz-ceo-do-itau-sobre-piora-da-economia-em-2027/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "[[vermelho:R$ 12,6 bilhões]] de lucro em três meses, e o próprio CEO do Itaú diz que 2027 vem pior. Se a tua parcela já tá no limite, mexe nela agora, não em 2027."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-itau-lucro-2027-pior/print-exame-nao-somos-imunes-diz-ceo-do-itau.png",
+          "h": 410,
+          "ajuste": "conter",
+          "raio": 18
+        },
+        {
+          "tipo": "texto",
+          "tam": 30,
+          "texto": "Exame, 04/11/2026"
+        }
+      ]
+    }
+  ]
+}

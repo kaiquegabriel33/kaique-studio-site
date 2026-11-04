@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-feijao-preto-91",
+  "titulo": "Story: feijão-preto sobe 91% no ano no preço do grão, no dia em que o Banco Central decide os juros",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T12:42:00-03:00",
+  "atualizado": "2026-11-04T12:42:00-03:00",
+  "legenda": "",
+  "comentario": "Feijão-preto subiu 91% no ano, no preço do grão (no mercado, até agosto, eram 26%). Falta grão na entressafra, e a próxima safra do Paraná vem com 16% menos área e chuva demais. Hoje o Banco Central decide os juros, e juro nenhum faz brotar feijão.",
+  "repost_url": "https://www.cnnbrasil.com.br/agro/feijao-preto-acumula-alta-de-91-em-2026-e-atinge-maior-preco-em-dois-anos/",
+  "fontes": [
+    {
+      "titulo": "CNA — Feijão-preto tem maior cotação em dois anos, indica Cepea/CNA (03/11/2026): +91,29% em 2026, +11,67% na parcial de outubro, área do Paraná 86,3 mil hectares, 16% menor",
+      "url": "https://cnabrasil.org.br/noticias/feijao-preto-tem-maior-cotacao-em-dois-anos-indica-cepea-cna"
+    },
+    {
+      "titulo": "CNN Brasil — Feijão-preto acumula alta de 91% em 2026 e atinge maior preço em dois anos (03/11/2026)",
+      "url": "https://www.cnnbrasil.com.br/agro/feijao-preto-acumula-alta-de-91-em-2026-e-atinge-maior-preco-em-dois-anos/"
+    },
+    {
+      "titulo": "CNN Brasil — IPCA: alimentos ficam mais baratos em agosto (11/09/2026): feijão-preto +25,85% no ano até agosto",
+      "url": "https://www.cnnbrasil.com.br/agro/ipca-alimentos-ficam-mais-baratos-em-agosto-mas-leite-e-carnes-pressionam/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-feijao-preto-91/feijao-preto-acumula-alta-de-91-em-2026-e-atinge.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Feijão-preto subiu [[vermelho:91%]] no ano, no preço do grão (no mercado, até agosto, eram 26%). Falta grão na entressafra, e a próxima safra do Paraná vem com 16% menos área e chuva demais. Hoje o Banco Central decide os juros, e [[vermelho:juro nenhum faz brotar feijão]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-feijao-preto-91/print-cnn-brasil-o-acumula-alta-de-91-em-2026-e-a.png",
+          "h": 530,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}
