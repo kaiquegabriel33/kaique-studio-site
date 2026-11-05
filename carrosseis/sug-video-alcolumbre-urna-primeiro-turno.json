@@ -1,0 +1,72 @@
+{
+  "id": "sug-video-alcolumbre-urna-primeiro-turno",
+  "titulo": "Alcolumbre, presidente do Senado, sobre quem contesta o 2º turno: “no primeiro turno a urna eletrônica prestou” (TV Senado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-05T13:45",
+  "atualizado": "2026-11-05T13:56",
+  "trecho": {
+    "inicio": "é que no primeiro turno a urna eletrônica prestou",
+    "fim": "para dizer que estava errada desde o primeiro turno",
+    "aspa_manchete": "no primeiro turno a urna eletrônica prestou",
+    "texto": "é que no primeiro turno a urna eletrônica prestou. No primeiro turno, abriu-se a urna eletrônica e essa mesma urna eletrônica, que tem 30 anos, serviu para eleger 120 Deputados Federais do partido do candidato que perdeu a eleição. Essa mesma urna eletrônica serviu para eleger vinte e tantos Senadores. Ela serviu para comemorar, no primeiro turno, uma eleição vitoriosa do adversário do Presidente Lula, que ganhou por mais de 2 milhões de votos no primeiro turno e, quando abriu no segundo turno, não prestou mais. O resultado valeu para o primeiro turno. Eu não achei um, Jayme, para dizer que estava errada desde o primeiro turno.",
+    "cta": true,
+    "girar": "nao",
+    "crop": [
+      932,
+      700,
+      321,
+      0
+    ],
+    "enquadrar": false,
+    "encher": true,
+    "contexto": [
+      {
+        "desde": "essa mesma urna eletrônica",
+        "texto": "04/11, plenário do Senado: resposta a críticas do líder do PL",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "quando abriu no segundo turno",
+        "texto": "TSE: Lula venceu o 2º turno (25/10) por 4,4 milhões de votos",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "TV Senado, 140ª Sessão Deliberativa Ordinária (04/11/2026), fala 21 do presidente Davi Alcolumbre",
+  "legenda": "O presidente do Senado disse no plenário que a urna eletrônica prestou no primeiro turno e só deixou de prestar no segundo.\n\nO Davi Alcolumbre falou isso em 04/11/2026, depois de ser cobrado pelo líder do PL, o Carlos Portinho. Na conta dele, a mesma urna elegeu 120 deputados e vinte e tantos senadores do partido do Flávio Bolsonaro.\n\nO número do TSE bate com o que ele lembrou: no primeiro turno, o Flávio terminou 2,2 milhões de votos na frente do Lula. No segundo, perdeu por 4,4 milhões.\n\nO outro lado: o Portinho respondeu na mesma sessão que não ofendeu ninguém e que não tinha falado de urna.\n\nE o assunto da sessão era outro. O Portinho cobrava a votação da redução da maioridade penal, que os dois lados dizem ter sido promessa dos dois candidatos. O Alcolumbre espera a Câmara votar primeiro, e o líder do MDB, Eduardo Braga, pediu um prazo: 1º de dezembro.\n\nVídeo: TV Senado (04/11/2026). Fontes: notas taquigráficas do Senado (04/11/2026) e TSE (resultados de 04/10 e 25/10/2026).\n\n#Senado #Alcolumbre #eleicoes2026",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — 140ª Sessão Deliberativa Ordinária (04/11/2026), fala 21 (Davi Alcolumbre, presidente): vídeo oficial e notas taquigráficas; falas 14 (Eduardo Braga, prazo de 1º de dezembro), 17 (Alcolumbre, data para a Câmara), 18 e 26 (Carlos Portinho: “Eu não ofendi ninguém... muito menos tratei aqui de urna eletrônica”)",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159754"
+    },
+    {
+      "titulo": "TSE — resultados oficiais do 1º turno (04/10/2026) e do 2º turno (25/10/2026): Flávio 2,2 milhões de votos à frente no 1º; Lula 4,4 milhões à frente no 2º (conferido em 27/10/2026 para o explicador da virada)",
+      "url": "https://resultados.tse.jus.br"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Presidente do Senado a quem contesta a eleição: ==“No primeiro turno a urna eletrônica prestou”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
