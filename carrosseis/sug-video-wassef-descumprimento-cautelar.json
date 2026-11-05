@@ -1,0 +1,85 @@
+{
+  "id": "sug-video-wassef-descumprimento-cautelar",
+  "titulo": "Wassef, advogado do Flávio, no Pânico: “talvez fosse o descumprimento de uma cautelar” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T18:40",
+  "atualizado": "2026-11-05T15:50",
+  "video_url": "https://www.youtube.com/watch?v=t8EHFTf4_BY&t=816s",
+  "trecho": {
+    "inicio": "Sete minutos depois",
+    "fim": "nada tem a ver com fugir",
+    "aspa_manchete": "talvez fosse o descumprimento de uma cautelar",
+    "texto": "Sete minutos depois, vem uma decisão do ministro Alexandre de Moraes, falando que o Flávio precisava reter o passaporte. Qual é a palavra adequada então? É perseguição? Como que você colocaria a palavra que o Flávio fez sendo seu cliente? Assim, no máximo, no máximo, no máximo, com todo o critério e rigor da maldade, o máximo que se poderia dizer do ponto de vista técnico, técnico, talvez fosse o descumprimento de uma cautelar dada poucas horas antes, que ele sequer sabia do detalhe e da profundidade, porque não teve sequer acesso ao processo. E poderiam caber recursos, decisões e outras coisas. Isso nada tem a ver com fugir.",
+    "contexto": [
+      {
+        "desde": "Sete minutos depois",
+        "texto": "25/10: resultado às 20h44 e pedido da PF às 21h16",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "descumprimento de uma cautelar",
+        "texto": "PF: intimado em 26/10, não entregou passaportes em 24 h",
+        "cor": "vermelho"
+      }
+    ],
+    "crop": [
+      1000,
+      520,
+      140,
+      0
+    ],
+    "enquadrar": false,
+    "foco_falante": false,
+    "preencher": false,
+    "gancho": "talvez fosse o descumprimento de uma cautelar",
+    "girar": "nao",
+    "cta": true
+  },
+  "trecho_txt": "Pânico Jovem Pan (YouTube), publicado em 03/11/2026; de 13:41 a 14:28",
+  "legenda": "O advogado do Flávio diz que não teve fuga. O máximo, segundo ele: “talvez fosse o descumprimento de uma cautelar”.\n\nO Frederick Wassef falou isso no Pânico, da Jovem Pan, em vídeo publicado em 03/11/2026. Cautelar é uma ordem do juiz antes de qualquer condenação. No caso, entregar os passaportes.\n\nOs dois lados têm munição. A PF disse em nota que restrição a documento de viagem, por si só, “não caracteriza a condição de foragido nem autoriza a realização de prisão”. E a mesma PF disse que o Flávio foi intimado em 26/10 a entregar os passaportes em 24 horas e não entregou.\n\nOs 7 minutos da pergunta vêm do senador Rogério Marinho. Pelo horário que a Gazeta do Povo atribui ao O Globo, o pedido da PF foi às 21h16. Com o resultado às 20h44, dá 32 minutos.\n\nPrazo vencendo e saída do país no mesmo dia, segundo o Poder360, com a PF dizendo que não tem registro oficial da saída. “Fuga” pode ser exagero, mas “viagem com a família” também é pouco.\n\nQue palavra você usaria?\n\nVídeo: reprodução Pânico Jovem Pan (03/11/2026). Fontes: Poder360 (28/10/2026) e Gazeta do Povo (27/10/2026).\n\n#FlavioBolsonaro #Moraes #Wassef",
+  "fontes": [
+    {
+      "titulo": "Pânico Jovem Pan (YouTube) — “Flávio Bolsonaro não fugiu de nada”, Frederick Wassef no Pânico, na íntegra (publicado em 03/11/2026; o trecho vai de 13:41 a 14:28)",
+      "url": "https://www.youtube.com/watch?v=t8EHFTf4_BY"
+    },
+    {
+      "titulo": "Poder360 — Decisão de Moraes não autorizava prisão de Flávio, diz PF (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
+    },
+    {
+      "titulo": "Gazeta do Povo — Sigilo, rapidez e fragilidade de ordem contra Flávio (27/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/republica/sigilo-rapidez-e-fragilidade-de-ordem-contra-flavio-reforcam-tese-de-perseguicao-politica/"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Advogado do Flávio nega fuga. “No máximo”: ==“talvez fosse o descumprimento de uma cautelar”==.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "forca": "alta",
+  "formato_corte": "tweet_escuro",
+  "fato_em": "2026-11-03T15:00:00-03:00",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sem_tiktok": true
+}

@@ -1,0 +1,92 @@
+{
+  "id": "sug-video-nikolas-abrir-mao-ccj",
+  "titulo": "Nikolas: “prefiro abrir mão da CCJ”, logo antes de dizer que o acordo dificilmente sairia (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-04T13:20",
+  "atualizado": "2026-11-05T15:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "Nikolas: ==“eu prefiro abrir mão da CCJ”==. Repara no que ele diz logo depois.",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "legenda": "Nikolas diz que entre a CCJ e a coerência, fica com a coerência. E logo depois diz que esse acordo dificilmente sairia.\n\nA CCJ é a comissão da Câmara que diz se um projeto pode seguir ou não. Em 31/10, o NC News ainda citava o Nikolas entre os interessados em comandar ela.\n\nA recusa é a apoiar o Hugo Motta, que tenta se reeleger presidente da Câmara. Nisso ele tem base: em agosto, o Motta declarou apoio ao Lula, como o O Povo publicou. Em 21/10, o SBT News contava 273 dos 513 deputados com o Motta, e depois o PT também anunciou apoio.\n\nFicar fora tem custo pro PL, sim: o Brasil de Fato escreveu que o partido cairia pra 16ª escolha nas comissões. E a bancada tinha reunião marcada em 03/11 pra decidir, com reportagens dizendo que o PL caminhava pra apoiar o Motta. O resultado eu não achei.\n\nMas o preço que ele cita no vídeo, a CCJ, ele mesmo diz que dificilmente vinha. E a culpa, na fala dele, é da esquerda.\n\nQuero ver essa coerência no dia em que ela custar um cargo que estava na mão.\n\nVídeo: reprodução Poder360 (publicado em 03/11/2026). Fontes: SBT News (21/10/2026), Brasil de Fato (27/10/2026), NC News (31/10/2026) e O Povo (10/08/2026).\n\n#NikolasFerreira #HugoMotta #CCJ",
+  "fontes": [
+    {
+      "titulo": "Poder360 (YouTube): Nikolas diz que prefere abrir mão da CCJ a apoiar reeleição de Motta (o trecho vai de 1:12 a 1:45)",
+      "url": "https://www.youtube.com/watch?v=DjpGkHKwDoc"
+    },
+    {
+      "titulo": "SBT News, coluna do Iander: Motta conquista apoio de PDT e PSB e eleva isolamento do PL (21/10/2026): 12 partidos, 273 de 513 deputados",
+      "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-iander/motta-conquista-apoio-de-pdt-e-psb-e-eleva-isolamento-do-pl"
+    },
+    {
+      "titulo": "Brasil de Fato: Federação do PT formaliza apoio a Hugo Motta na Câmara (27/10/2026)",
+      "url": "https://www.brasildefato.com.br/2026/10/27/federacao-do-pt-formaliza-apoio-a-hugo-motta-na-camara-e-articula-superbloco-para-isolar-o-pl/"
+    },
+    {
+      "titulo": "NC News: PL caminha para apoiar Motta; reunião da bancada em 03/11; Nikolas entre os interessados na CCJ (31/10/2026)",
+      "url": "https://ncnews.com.br/?p=72059"
+    },
+    {
+      "titulo": "O Povo: Hugo Motta declara apoio à reeleição de Lula (10/08/2026)",
+      "url": "https://mais.opovo.com.br/jornal/politica/2026/08/10/hugo-motta-declara-apoio-a-reeleicao-de-lula.html"
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "eu prefiro abrir mão da CCJ",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "eu prefiro abrir mão",
+        "texto": "CCJ: a comissão que diz se um projeto pode seguir"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "dificilmente",
+        "texto": "21/10: Motta já tinha 273 dos 513 deputados (SBT News)"
+      }
+    ],
+    "inicio": "O senhor vai tentar a presidência",
+    "fim": "cedido para o PL",
+    "texto": "O senhor vai tentar a presidência da CCJ, dependendo do acordo que foi firmado? Entre a presidência da CCJ e entre manter a coerência, eu prefiro abrir mão da CCJ. Afinal de contas, eu vejo que dificilmente a gente conseguiria, por exemplo, fazer um acordo onde eu seria o presidente, por exemplo, da CCJ. Eu fui presidente da comissão de educação e a esquerda literalmente fez um terror porque eu seria. Quando a Caroline De Toni também foi presidente da CCJ, fizeram a mesma coisa. Então, eu vejo que a possibilidade de ter um acordo onde isso seria cedido para o PL é muito pequena.",
+    "crop": [
+      1000,
+      732,
+      460,
+      100
+    ],
+    "enquadrar": false,
+    "foco_falante": false,
+    "preencher": false,
+    "girar": "nao",
+    "cta": true
+  },
+  "trecho_txt": "Poder360 (YouTube), publicado em 03/11/2026; de 1:12 a 1:45",
+  "video_url": "https://www.youtube.com/watch?v=DjpGkHKwDoc&t=60s",
+  "forca": "media",
+  "formato_corte": "tweet_escuro",
+  "fato_em": "2026-11-03T22:40:00-03:00",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sem_tiktok": true
+}

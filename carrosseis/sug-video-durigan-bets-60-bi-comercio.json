@@ -1,0 +1,84 @@
+{
+  "id": "sug-video-durigan-bets-60-bi-comercio",
+  "titulo": "Durigan, ministro da Fazenda, sobre o dinheiro das bets: “esse dinheiro não desaparece”, são R$ 60 bi por ano indo pro comércio (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-05T15:20",
+  "atualizado": "2026-11-05T15:20",
+  "video_url": "https://www.youtube.com/watch?v=i7BQytU5Bmg&t=124s",
+  "trecho": {
+    "inicio": "como a gente tem percebido, esse dinheiro não desaparece",
+    "fim": "mas a gente a perceba em outros lugares",
+    "aspa_manchete": "esse dinheiro não desaparece",
+    "girar": "nao",
+    "crop": [
+      846,
+      820,
+      514,
+      0
+    ],
+    "enquadrar": false,
+    "preencher": false,
+    "texto": "Agora, como a gente tem percebido, esse dinheiro não desaparece. É um dinheiro que, algo como 60 bilhões por ano, que deixa de ser canalizado para as apostas, mas tem sido canalizado para outras atividades da economia. Varejo, atacado tem percebido já o aumento da atividade. Então é natural que sim, saia essa arrecadação das apostas, mas a gente a perceba em outros lugares.",
+    "contexto": [
+      {
+        "desde": "como a gente tem percebido",
+        "texto": "Pergunta: o governo perde imposto com o fim das apostas?",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Varejo",
+        "texto": "Bets proibidas por medida provisória de 25/09/2026",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "UOL (YouTube), publicado em 05/11/2026; de 2:15 a 2:40",
+  "legenda": "O ministro da Fazenda disse que uns R$ 60 bilhões por ano que iam pras bets agora estão indo pro comércio.\n\nO Dario Durigan falou isso a jornalistas em 05/11/2026. A pergunta era sobre o imposto que o governo deixa de receber das apostas, proibidas por medida provisória assinada em 25/09/2026. Ele confirmou que essa arrecadação sai da conta. Neste ano ela fica perto de R$ 10 bilhões, e ele disse que isso não vai trazer dificuldade pras receitas.\n\nO argumento dele é que o dinheiro não desaparece. Sai da aposta e vai pro varejo e pro atacado, que já percebem mais movimento, e o governo espera ver o imposto aparecer por lá.\n\nNa prática, é a conta de casa: o que ia pra aposta vira compra no mercado, e o mercado também paga imposto.\n\nSó que os R$ 60 bilhões são conta do próprio ministro, e ele não disse de onde tirou. O número de fora que eu já vi é o da Abras, a associação dos supermercados, que fala em consumo perto de 6% maior depois da proibição. Também é dado de quem tem interesse na história, e o IBGE ainda não divulgou o comércio de outubro, o primeiro mês sem as bets.\n\nA lógica faz sentido, porque dinheiro que não vai pra aposta vai pra algum lugar. Mas R$ 60 bilhões é um número grande pra ficar só na palavra do ministro.\n\nVídeo: reprodução UOL (05/11/2026). Fontes: Agência Estadão, pelo Diário do Comércio (05/11/2026), O Povo (06/10/2026), UOL e CNN Brasil (03/11/2026).\n\n#bets #apostas #Durigan",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Durigan promete cortar privilégios para reduzir gastos e diz que Lula convocou reunião com equipe (publicado em 05/11/2026; o trecho vai de 2:15 a 2:40)",
+      "url": "https://www.youtube.com/watch?v=i7BQytU5Bmg"
+    },
+    {
+      "titulo": "Diário do Comércio / Agência Estadão — Durigan: Imposto Seletivo não visa arrecadação e indústria ficará isenta de IPI (05/11/2026, 13h17): “algo como R$ 60 bilhões por ano”, varejo e atacado, arrecadação próxima de R$ 10 bilhões neste ano",
+      "url": "https://diariodocomercio.com.br/economia/imposto-seletivo-nao-arrecadacao/"
+    },
+    {
+      "titulo": "O Povo — Bets começam a sair do ar nesta terça-feira (06/10/2026): MP 1.394/2026 assinada em 25/09",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/10/06/bets-comecam-a-sair-do-ar-nesta-terca-feira.html"
+    },
+    {
+      "titulo": "UOL (YouTube) — Lula pede mobilização contra bets antes de audiência no STF (03/11/2026): tarja com o dado da Abras, consumo 6,5% maior",
+      "url": "https://www.youtube.com/watch?v=yGhmCre3rbA"
+    },
+    {
+      "titulo": "CNN Brasil (YouTube) — Bets: divergências econômicas pautarão audiência no STF (03/11/2026): Abras, cerca de 6%",
+      "url": "https://www.youtube.com/watch?v=-6dDeTCTxQ8"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Dinheiro das bets: ==“esse dinheiro não desaparece”==, diz o ministro da Fazenda. Seriam R$ 60 bilhões por ano indo pro comércio.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "sug-video-bacci-esconderam-flavio",
+  "titulo": "Luiz Bacci sobre a derrota: “Esconderam o Flávio” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T18:40",
+  "atualizado": "2026-11-05T15:50",
+  "video_url": "https://www.youtube.com/watch?v=YzEMbyzSXc4&t=689s",
+  "trecho": {
+    "inicio": "E olha que eu sou de direita",
+    "fim": "ele não pôde desmentir esses absurdos",
+    "aspa_manchete": "Esconderam o Flávio",
+    "texto": "E olha que eu sou de direita. O Flávio cagou pros convites daqui, cagou para convite de SBT, cagou para convite de podcasts famosos. Diferente do pai dele. O pai dele, se chamassem ele para falar numa mesa de bar para 15 eleitores, o Bolsonaro ia. E o Flávio foi blindado. Esconderam o Flávio. Por isso que ele não pôde desmentir esses absurdos.",
+    "contexto": [
+      {
+        "desde": "E olha que eu sou de direita",
+        "texto": "25/10: Flávio perdeu o 2º turno para o Lula",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "foi blindado. Esconderam o Flávio",
+        "texto": "Flávio foi aos debates da Band e da Globo no 2º turno",
+        "cor": "verde"
+      }
+    ],
+    "crop": [
+      590,
+      740,
+      60,
+      116
+    ],
+    "enquadrar": false,
+    "foco_falante": false,
+    "gancho": "E o Flávio foi blindado. Esconderam o Flávio.",
+    "girar": "nao",
+    "cta": true
+  },
+  "trecho_txt": "Bacci Notícias (YouTube), publicado em 03/11/2026; de 11:34 a 12:00",
+  "legenda": "“Olha que eu sou de direita”, avisa o Luiz Bacci. Na conta dele, o que custou a eleição: “esconderam o Flávio”.\n\nNo programa dele, em vídeo publicado em 03/11/2026, o Bacci conta que o Flávio ignorou convite do programa, do SBT e de podcasts, e compara com o pai, que ia até em mesa de bar pra 15 eleitores. Os “absurdos” do fim da fala são as fake news que ele vinha citando. Os convites são palavra dele, não vi a lista.\n\nE tem uma coisa que ele não fala: o Flávio foi aos debates da Band, em 18/10, e da Globo, em 23/10. A cobrança é sobre o resto da agenda.\n\nFoi erro de campanha ou o voto já tava decidido?\n\nVídeo: reprodução Bacci Notícias (03/11/2026). Fontes dos debates: O Povo (24/10/2026) e Metrópoles.\n\n#FlavioBolsonaro #Bacci #eleicoes",
+  "fontes": [
+    {
+      "titulo": "Bacci Notícias (YouTube) — Luiz Bacci critica alta da taxa de juros no governo Lula (publicado em 03/11/2026; o trecho vai de 11:34 a 12:00)",
+      "url": "https://www.youtube.com/watch?v=YzEMbyzSXc4"
+    },
+    {
+      "titulo": "O Povo: checagem de declarações de Flávio Bolsonaro e Lula durante debate da TV Globo (24/10/2026)",
+      "url": "https://mais.opovo.com.br/jornal/politica/2026/10/24/o-povo-fez-checagem-de-declaracoes-de-flavio-bolsonaro-e-lula-durante-debate-da-tv-globo.html"
+    },
+    {
+      "titulo": "Metrópoles: Flávio e Lula no debate da Band",
+      "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-lula-debate-ao-vivo"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "“Olha que eu sou de direita”, avisa Luiz Bacci. E sobre a derrota: ==“Esconderam o Flávio”==.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "forca": "media",
+  "formato_corte": "tweet_escuro",
+  "fato_em": "2026-11-03T15:00:00-03:00",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sem_tiktok": true
+}
