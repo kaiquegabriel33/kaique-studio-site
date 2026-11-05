@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-fgc-dados-acessados",
+  "titulo": "Story: acessaram dados de investidores pagos pelo FGC, e o risco agora é o golpe que parece o FGC",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-05T13:28:00-03:00",
+  "atualizado": "2026-11-05T13:28:00-03:00",
+  "legenda": "",
+  "comentario": "Acessaram dados de investidores pagos pelo FGC: nome, CPF, e-mail e por onde a pessoa investiu. Golpista com isso na mão liga parecendo o FGC. Pediu senha, código ou pagamento, não passa: confere pelo app do FGC.",
+  "repost_url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/fgc-comunica-vazamento-de-dados-pessoais-de-clientes-incluindo-cpf/",
+  "fontes": [
+    {
+      "titulo": "FGC — comunicado oficial, atualização de 05/11/2026 (lido inteiro): acesso não autorizado a informações pessoais em ambientes do fluxo de pagamento de garantia; suspeita identificada em 26 de outubro de 2026; dados: nome, CPF, e-mail, data de nascimento, tributos retidos no pagamento e canal de distribuição do investimento garantido; até o momento sem evidência de divulgação ou uso indevido e sem perda financeira; ANPD e titulares afetados comunicados; orientação: desconfiar de contato que peça pagamento, senha, código ou instalação de aplicativo, não clicar em link e usar diretamente o aplicativo do FGC",
+      "url": "https://www.fgc.org.br/comunicado"
+    },
+    {
+      "titulo": "CNN Brasil — FGC comunica vazamento de dados pessoais de clientes, incluindo CPF (05/11/2026, 11h02)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/fgc-comunica-vazamento-de-dados-pessoais-de-clientes-incluindo-cpf/"
+    },
+    {
+      "titulo": "Foto: reprodução CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/fgc-comunica-vazamento-de-dados-pessoais-de-clientes-incluindo-cpf/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-fgc-dados-acessados/fgc-comunica-vazamento-de-dados-pessoais-de-clie.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Acessaram dados de investidores pagos pelo FGC: nome, CPF, e-mail e por onde a pessoa investiu. Golpista com isso na mão [[vermelho:liga parecendo o FGC]]. Pediu senha, código ou pagamento, não passa: [[verde:confere pelo app do FGC]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-fgc-dados-acessados/print-cnn-brasil-ecnologia-fgc-comunica-vazamento.png",
+          "h": 549,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

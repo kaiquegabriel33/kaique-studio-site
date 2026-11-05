@@ -1,0 +1,55 @@
+{
+  "id": "sug-story-imposto-seletivo-mp-2028",
+  "titulo": "Story: imposto do pecado saiu, em 2027 copia o IPI e a alíquota que mexe no preço fica pra 2028",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-05T12:02:00-03:00",
+  "atualizado": "2026-11-05T12:02:00-03:00",
+  "legenda": "",
+  "comentario": "O imposto do pecado saiu no Diário Oficial e começa em 2 de fevereiro de 2027. Só que no ano que vem a alíquota da cerveja, do cigarro, do refrigerante e do carro copia o IPI que a gente já paga hoje. O que mexe no preço é a alíquota de 2028, e o governo tem até 31 de maio pra mandar essa proposta pro Congresso.",
+  "repost_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — Governo publica MP das alíquotas do Imposto Seletivo para 2027 (05/11/2026, 09h37): incide a partir de 2 de fevereiro de 2027; no período de transição as alíquotas de veículos, fumígenos, bebidas alcoólicas e bebidas açucaradas correspondem às atuais do IPI, após fatores de conversão; alíquotas definitivas valem a partir de 1º de janeiro de 2028 e o governo manda o projeto de lei até 31 de maio de 2027",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027"
+    },
+    {
+      "titulo": "Planalto — Medida Provisória nº 1.399, de 4 de novembro de 2026: art. 19 (efeitos a partir de 2 de fevereiro de 2027), art. 6º (regime transitório até 31 de dezembro de 2027), art. 15 (projeto de lei até 31 de maio de 2027, alíquotas a partir de 1º de janeiro de 2028); anexos com cerveja, cigarro, bebida açucarada e veículos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1399.htm"
+    },
+    {
+      "titulo": "Estadão — Governo publica MP do ‘imposto do pecado’, que terá transição em 2027 (linha fina: após acordo com setores, as alíquotas do Imposto Seletivo corresponderão às atuais do IPI durante o ano que vem)",
+      "url": "https://www.estadao.com.br/economia/governo-lula-publica-mp-do-imposto-do-pecado-que-tera-transicao-em-2027-veja-produtos-atingidos/"
+    },
+    {
+      "titulo": "Foto: reprodução Estadão",
+      "url": "https://www.estadao.com.br/economia/governo-lula-publica-mp-do-imposto-do-pecado-que-tera-transicao-em-2027-veja-produtos-atingidos/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-imposto-seletivo-mp-2028/governo-publica-mp-do-imposto-do-pecado-que-tera.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O imposto do pecado saiu no Diário Oficial e começa em 2 de fevereiro de 2027. Só que no ano que vem a alíquota da cerveja, do cigarro, do refrigerante e do carro [[verde:copia o IPI que a gente já paga hoje]]. O que mexe no preço é [[vermelho:a alíquota de 2028]], e o governo tem até 31 de maio pra mandar essa proposta pro Congresso."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-imposto-seletivo-mp-2028/print-agencia-brasil-governo-publica-mp-das-aliquotas.png",
+          "h": 471,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

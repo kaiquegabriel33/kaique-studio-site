@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-selic-10-mil-poupanca-tesouro",
+  "titulo": "Story: R$ 10 mil com a Selic em 13,75%, poupança × Tesouro Selic",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T22:20:00-03:00",
+  "atualizado": "2026-11-04T22:20:00-03:00",
+  "legenda": "",
+  "comentario": "Com a Selic parada em 13,75%, R$ 10 mil na poupança viram R$ 10.755 em um ano. No Tesouro Selic, R$ 11.116. São uns R$ 360 a mais, com o mesmo dinheiro e o mesmo prazo. Em cinco anos, a diferença passa de R$ 3 mil.",
+  "repost_url": "https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Selic fica em 13,75%: veja quanto rendem R$ 10 mil em CDB, Tesouro Selic e poupança (04/11/2026, 18h45), simulação do Research da XP com Selic fixa em 13,75%: em 1 ano, poupança R$ 10.755,58 e Tesouro Selic 2031 R$ 11.116,24 (líquido de IR e da custódia de 0,2%); em 5 anos, R$ 14.393,57 e R$ 17.607,27",
+      "url": "https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/"
+    },
+    {
+      "titulo": "Conta nossa: 11.116,24 − 10.755,58 = R$ 360,66 em 1 ano; 17.607,27 − 14.393,57 = R$ 3.213,70 em 5 anos",
+      "url": "https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/"
+    },
+    {
+      "titulo": "Foto: reprodução InfoMoney",
+      "url": "https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-selic-10-mil-poupanca-tesouro/selic-fica-em-13-75-veja-quanto-rendem-r-10-mil.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Com a Selic parada em 13,75%, R$ 10 mil na poupança viram [[vermelho:R$ 10.755]] em um ano. No Tesouro Selic, [[verde:R$ 11.116]]. São uns R$ 360 a mais, com o mesmo dinheiro e o mesmo prazo. Em cinco anos, a diferença passa de R$ 3 mil."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-selic-10-mil-poupanca-tesouro/print-infomoney-selic-fica-em-13-75-veja-quanto.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

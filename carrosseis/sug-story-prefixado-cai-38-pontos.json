@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-prefixado-cai-38-pontos",
+  "titulo": "Story: Tesouro Prefixado 2032 caiu de 15,61% para 15,23% em um dia",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T22:20:00-03:00",
+  "atualizado": "2026-11-04T22:20:00-03:00",
+  "legenda": "",
+  "comentario": "Na terça, o Tesouro Prefixado 2032 pagava 15,61% ao ano. Na quarta, fechou em 15,23%. Mesmo com a queda, ainda dá pra travar mais de 15% ao ano até 2032. Só serve pra dinheiro que você não vai precisar antes, porque no meio do caminho o preço do título balança bastante.",
+  "repost_url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/",
+  "fontes": [
+    {
+      "titulo": "InfoMoney — Taxas do Tesouro Direto despencam até 38 pontos-base em dia de pausa na Selic (04/11/2026, 18h30): \"O Tesouro Prefixado 2032 recuou 38 pontos-base, de 15,61% ao ano no fechamento de terça-feira (3) para 15,23%\"; menor nível desde a abertura de 28 de outubro",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/"
+    },
+    {
+      "titulo": "Tesouro Direto, preços e taxas (fonte primária das taxas; página não aberta nesta rodada)",
+      "url": "https://www.tesourodireto.com.br/titulos/precos-e-taxas.htm"
+    },
+    {
+      "titulo": "Foto: reprodução InfoMoney (sede do Banco Central, Brasília)",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-prefixado-cai-38-pontos/taxas-do-tesouro-direto-despencam-ate-38-pontos.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Na terça, o Tesouro Prefixado 2032 pagava 15,61% ao ano. Na quarta, fechou em 15,23%. Mesmo com a queda, ainda dá pra travar [[verde:mais de 15% ao ano]] até 2032. Só serve pra dinheiro que você não vai precisar antes, porque no meio do caminho [[vermelho:o preço do título balança bastante]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-prefixado-cai-38-pontos/print-infomoney-taxas-do-tesouro-direto-despenca.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}
