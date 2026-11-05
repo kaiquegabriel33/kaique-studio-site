@@ -55,7 +55,7 @@
       "tema": "escuro"
     }
   ],
-  "status": "pronto",
+  "status": "publicado",
   "teste_reel": true,
   "titulo": "Zambelli: R$ 50 por mês, \"Moraes destruiu a minha vida\" e nenhum banco abre conta (corte puro)",
   "trecho": {
@@ -99,5 +99,16 @@
     "braco": "importa",
     "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
   },
-  "atualizado": "2026-11-05T16:00"
+  "atualizado": "2026-11-05T16:00",
+  "agendado_metricool": {
+    "id": 418131003,
+    "uuid": "-7070580305727503274",
+    "para": "2026-11-05T17:40:00-03:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-05T16:10:00-03:00"
+  },
+  "nota_lote": "AGENDADO Reel de teste 05/11 17:40 (corte puro, ordem dele de hoje: hora morta liberada), não poste à mão. Sem TikTok: a vaga das 22:10 já estava com o Efraim.",
+  "video_final_id": "c71e80007b5b1f99ccfd5001a3fdb800",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-05T16:13"
 }

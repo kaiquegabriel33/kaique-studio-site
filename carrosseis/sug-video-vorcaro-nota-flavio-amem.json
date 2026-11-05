@@ -2,7 +2,7 @@
   "id": "sug-video-vorcaro-nota-flavio-amem",
   "carrossel_id": "sug-video-vorcaro-nota-flavio-amem",
   "titulo": "Na véspera de ser preso, Vorcaro escreve ao Flávio: “tá muito difícil”. A resposta: “amém” (corte puro)",
-  "status": "pronto",
+  "status": "publicado",
   "formato": "video",
   "criado": "2026-11-03T22:40:00-03:00",
   "atualizado": "2026-11-05T16:00",
@@ -104,5 +104,22 @@
   "teste_cta": {
     "braco": "importa",
     "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
-  }
+  },
+  "agendado_metricool": {
+    "id": 418131138,
+    "uuid": "7097814583544073466",
+    "para": "2026-11-05T18:20:00-03:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-05T16:11:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 418131587,
+    "uuid": "-1511227889028347919",
+    "para": "2026-11-05T23:30:00-03:00",
+    "em": "2026-11-05T16:11:00-03:00"
+  },
+  "nota_lote": "AGENDADO Reel de teste 05/11 18:20 e TikTok 23:30 (corte puro, sem voz clonada), não poste à mão.",
+  "video_final_id": "5c07a1057b6047a6b10aa81a5e6ab928",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-05T16:13"
 }
