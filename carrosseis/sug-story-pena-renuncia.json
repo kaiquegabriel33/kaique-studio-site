@@ -1,15 +1,15 @@
 {
   "id": "sug-story-pena-renuncia",
   "titulo": "Story: Peña apresenta a renúncia dois dias depois de o Paraguai fechar o Ueno",
-  "status": "pronto",
+  "status": "publicado",
   "formato": "story",
   "criado": "2026-11-05T15:12:00-03:00",
-  "atualizado": "2026-11-05T15:12:00-03:00",
+  "atualizado": "2026-11-05T16:03:00-03:00",
   "fato_em": "2026-11-05T13:17:00-03:00",
   "legenda": "",
   "comentario": "Terça o Paraguai fechou o Ueno, banco de uns 3 milhões de clientes. Quinta o presidente Santiago Peña apresentou a renúncia. Ele declarou ações na holding do banco e se desfez delas em 2025; o Ueno diz que ele nunca foi acionista do banco. Quem pesou foi o partido dele: apoiou o juízo político, e a Câmara aprovou por unanimidade. Aqui o FGC cobre R$ 250 mil, mas não paga o boleto de amanhã: deixa a reserva num banco e o dinheiro do mês em outro.",
   "repost_url": "https://cnnespanol.cnn.com/2026/11/05/latinoamerica/santiago-pena-renuncia-paraguay-orix",
-  "nota_lote": "Texto aprovado por ele na conversa em 05/11 (\"pode postar o story do peña às 18h\"). Opinião sugerida por nós: o conselho das duas contas.",
+  "nota_lote": "Texto aprovado por ele na conversa em 05/11 (\"pode postar o story do peña às 18h\"). Opinião sugerida por nós: o conselho das duas contas. Agendado 18:00 (Metricool 418122244); substitui o story do Ueno, que segue em rascunho.",
   "fontes": [
     {
       "titulo": "ABC Color — Renunció Santiago Peña: resolução do Ueno em 3/11, cerca de três milhões de clientes, renúncia em 5/11",
@@ -65,5 +65,12 @@
         }
       ]
     }
-  ]
+  ],
+  "agendado_metricool": {
+    "id": 418122244,
+    "uuid": "4452590682987643760",
+    "quando": "2026-11-05T18:00:00-03:00",
+    "tipo": "STORY"
+  },
+  "midia_no_metricool": true
 }
