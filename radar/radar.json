@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T14:56-03:00",
+ "atualizado": "2026-11-05T15:07-03:00",
  "em_alta": [
   {
    "termo": "são luís",
@@ -7,7 +7,7 @@
    "temas": [
     "mercado"
    ],
-   "video": true,
+   "video": false,
    "noticias": [
     {
      "titulo": "Corpo de jovem que morreu em São Luís após queda de hotel é velado e sepultado na Grande Belém",
@@ -20,41 +20,55 @@
      "veiculo": "ICL Notícias"
     },
     {
-     "titulo": "Câmera de segurança flagra o momento em que mulher cai do 7º andar de hotel no Maranhão",
-     "url": "https://www.terra.com.br/noticias/videos/camera-de-seguranca-flagra-o-momento-em-que-mulher-cai-do-7-andar-de-hotel-no-maranhao,fbc20122779b6176b9e4bb49b46b75adjmuj94ga.html",
-     "veiculo": "Terra"
+     "titulo": "Namorado de jovem que caiu do 7º andar não será investigado por homicídio",
+     "url": "https://www.metropoles.com/brasil/namorado-de-jovem-que-caiu-do-7o-andar-escapa-de-investigacao-por-homicidio",
+     "veiculo": "Metrópoles"
     }
    ],
    "publicado": "2026-11-05T09:30:00-08:00"
-  },
-  {
-   "termo": "midtjylland x ajax",
-   "trafego": "500+",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "noticias": [
-    {
-     "titulo": "Ajax enfrenta na Conference League uma legião de estrangeiros com um treinador muito fanático",
-     "url": "https://www.goal.com/br/not%C3%ADcias/ajax-enfrenta-na-conference-league-uma-legiao-de-estrangeiros-com-um-treinador-muito-fanatico/blt744bfa965a1cb6b0",
-     "veiculo": "Goal.com"
-    },
-    {
-     "titulo": "Midtjylland vs Ajax: antevisão, ausências e onzes prováveis (UEFA Conference League 05/11)",
-     "url": "https://www.zerozero.pt/noticias/midtjylland-vs-ajax-antevisao-ausencias-e-onzes-provaveis-uefa-conference-league-05-11/1250937",
-     "veiculo": "zerozero.pt"
-    },
-    {
-     "titulo": "FC Midtjylland x Ajax palpite & odds | 05.11.2026",
-     "url": "https://www.futbol24.com/pt/apostas-palpites/previa/05-11-2026-fc-midtjylland-ajax-dica/",
-     "veiculo": "Futbol24"
-    }
-   ],
-   "publicado": "2026-11-05T08:50:00-08:00"
   }
  ],
  "pautas": [
+  {
+   "id": "221ff25c0d",
+   "titulo": "Lula se reúne com economistas para discutir ‘cenários e diagnósticos’; veja quem participa",
+   "url": "https://www.estadao.com.br/economia/lula-convoca-reuniao-economistas-discutir-cenarios-diagnosticos/",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-05T16:22:57+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+re%C3%BAne+com+economistas+para+discutir+cen%C3%A1rios+diagn%C3%B3sticos+veja",
+   "veiculos": 12,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Meio News",
+     "titulo": "Lula reúne ministros e ex-ministros da Fazenda para discutir rumos da política econômica",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaW5YNDUwdFA1Y1VwLUcycmtBMF91T2Q2UkJGR0hqZ3FrNEYzQWhvTHVZMnZ2Z3BlSGVsTUpHNThNYXVlWkNxX1o1OFNaeE44dTQ0LTdVdEstYVktZEZFSWtuRHdURzhjRFV1TEZYLWlPSkhjOGc3b3drSTJnUHJTc1JUTW9wZkNxaDdCazJZZzItc2ZQSm9wM21QdC11ak5UWnpfWjVwZWRjQXNHQ0YwRWNBNVNKcGt2cGxGV0w2Tl9mTmZ1VXVCSdIByAFBVV95cUxQaW5YNDUwdFA1Y1VwLUcycmtBMF91T2Q2UkJGR0hqZ3FrNEYzQWhvTHVZMnZ2Z3BlSGVsTUpHNThNYXVlWkNxX1o1OFNaeE44dTQ0LTdVdEstYVktZEZFSWtuRHdURzhjRFV1TEZYLWlPSkhjOGc3b3drSTJnUHJTc1JUTW9wZkNxaDdCazJZZzItc2ZQSm9wM21QdC11ak5UWnpfWjVwZWRjQXNHQ0YwRWNBNVNKcGt2cGxGV0w2Tl9mTmZ1VXVCSQ?oc=5"
+    },
+    {
+     "veiculo": "Imirante.com",
+     "titulo": "Lula reúne ministros e economistas do PT para discutir ajuste fiscal após decisão do BC",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGJlamY3Y3lLZG5zUF9RcHZ5ZmZyODRCVmZMZ1E0MlUzXzRHd0hCU1RLcElFTkNnLWZGWFhWeHFKdWZGUGxKTEx6cW1jZC10M0R3eEY0ZVZIbTV2dE1fWEp5S3kyMmlTTmN1YzFmdXJzTmxKRFgzRG9fZHhIaV9aVHNWdnVyVjdRbC1sOUJKdVBadFBPRjVucUNTQjZzOFZsLUhGS2xZVE9rRG5CMmYxbnQ1NDgydGN1VmE00gG7AUFVX3lxTE1IYmVqZjdjeUtkbnNQX1FwdnlmZnI4NEJWZkxnUTQyVTNfNEd3SEJTVEtwSUVOQ2ctZkZYWFZ4cUp1ZkZQbEpMTHpxbWNkLXQzRHd4RjRlVkhtNXZ0TV9YSnlLeTIyaVNOY3VjMWZ1cnNObEpEWDNEb19keEhpX1pUc1Z2dXJWN1FsLWw5Qkp1UFp0UE9GNW5xQ1NCNnM4VmwtSEZLbFlUT2tEbkIyZjFudDU0ODJ0Y3VWYTQ?oc=5"
+    },
+    {
+     "veiculo": "CBN",
+     "titulo": "Lula reúne equipe econômica para discutir medidas de ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRmZEVEJXdDl5Qk5HeVhwWmowOEsxMFd2RndyOVNmZ3luNDlEazFxOHhUYmNscTdiMzd2TVc2bENDOVc3bW10RF9kRHJmLTNoR0Z5OVZfRUV1SUZSUThNU1MtRGQyRXF1Y2NuMGhhLXpYODhuZ3AyMW5zZFBGczZvTUJIWmZKR1RlajdyMEdPRmJKVW1SaGgxTXFhUlY3UW90ai1BZTdwUVR2Mmx3S19tdFFfVVEySEhyLUFCaHFrTmd2Q01YQzE1dVQtbWdjd9IBzgFBVV95cUxNRmZEVEJXdDl5Qk5HeVhwWmowOEsxMFd2RndyOVNmZ3luNDlEazFxOHhUYmNscTdiMzd2TVc2bENDOVc3bW10RF9kRHJmLTNoR0Z5OVZfRUV1SUZSUThNU1MtRGQyRXF1Y2NuMGhhLXpYODhuZ3AyMW5zZFBGczZvTUJIWmZKR1RlajdyMEdPRmJKVW1SaGgxTXFhUlY3UW90ai1BZTdwUVR2Mmx3S19tdFFfVVEySEhyLUFCaHFrTmd2Q01YQzE1dVQtbWdjdw?oc=5"
+    },
+    {
+     "veiculo": "tmc.com.br",
+     "titulo": "Lula se reúne com ministros e economistas após Banco Central manter Taxa Selic",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjZ6TWZMdlVERzJ3TGM1UDJrNXNLZDA1SkVRX3VDTkNRM2RYZUZfZl9tZGtwRGNaYTFyelJFbjhTY2k5YWFvTDJHN2Q0ellwaEF0NHprV2syUms1bnhGdTh2OEtodlBvVmFWemZVWEFRcWUxeENVckxHNzRuMHpsMk5EdHlxZw?oc=5"
+    }
+   ],
+   "score": 57.3
+  },
   {
    "id": "135af017e2",
    "titulo": "Setor produtivo critica manutenção da Selic em 13,75% ao ano",
@@ -69,7 +83,7 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Setor+produtivo+critica+manuten%C3%A7%C3%A3o+Selic+13%2C75%25+ano",
-   "veiculos": 18,
+   "veiculos": 20,
    "rotina": false,
    "outras": [
     {
@@ -96,14 +110,14 @@
    "score": 56.5,
    "video_url": "https://www.youtube.com/watch?v=KlDUgkZtthI",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 383,
-   "video_acima_mediana": 0.5,
+   "video_por_hora": 400,
+   "video_acima_mediana": 0.6,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Banco Central interrompe ciclo de cortes e mantém Selic em 13,75%; Alan Ghani analisa",
      "url": "https://www.youtube.com/watch?v=KlDUgkZtthI",
-     "por_hora": 383
+     "por_hora": 400
     },
     {
      "canal": "SBT News",
@@ -114,10 +128,10 @@
    ]
   },
   {
-   "id": "aad009b62d",
-   "titulo": "Lula convoca reunião com Durigan, Alckmin e ex-ministros da Fazenda | BASTIDORES CNN",
-   "url": "https://www.youtube.com/watch?v=ZUB61XsRTL4",
-   "veiculo": "CNN Brasil",
+   "id": "2596cd1983",
+   "titulo": "Ativos locais têm melhora diante de reunião de Lula com economistas",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/05/ativos-locais-tem-melhora-diante-de-reuniao-de-lula-com-economistas.ghtml",
+   "veiculo": "Valor",
    "publicado": "2026-11-05T17:43:00+00:00",
    "temas": [
     "economia",
@@ -126,8 +140,8 @@
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+convoca+reuni%C3%A3o+com+Durigan%2C+Alckmin+ministros+Fazenda+BASTIDORES",
-   "veiculos": 16,
+   "busca_video": "https://www.youtube.com/results?search_query=Ativos+locais+t%C3%AAm+melhora+diante+reuni%C3%A3o+Lula+com+economistas",
+   "veiculos": 17,
    "rotina": false,
    "outras": [
     {
@@ -136,44 +150,38 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3c0SUJsaWlsTkZUZkQ4WVBLWWRPamUwUGVpTzU4NzB1dVNRbTZHcFdTMzhPMWNld0VobmJ3WVBHWlE5RklrWXRqaVZTYUV2cGJoNDVyVnZvaG5KZllvQ2hPMjc2QnBvYzdyNzdLbElGQ2h4QU1hTkozZzBIOWZEQWxvQXJvbEgxTWlNZkNyWmc1Q1dpTTZIZ0EtWkhWVV9tMWpjQmZXQkZVWVNzSEEwZFhULURhckQzQ0VWd1dJbzJMUQ?oc=5"
     },
     {
+     "veiculo": "CNN Brasil",
+     "titulo": "Lula convoca reunião com Durigan, Alckmin e ex-ministros da Fazenda | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=ZUB61XsRTL4"
+    },
+    {
      "veiculo": "Valor",
      "titulo": "Em reunião com Durigan, Haddad, Mantega, Luciano Coutinho e outros economistas, Lula discute medidas econômicas para o 4º mandato",
      "url": "https://valor.globo.com/brasil/noticia/2026/11/05/reuniao-de-lula-com-economistas-marca-inicio-da-discussao-sobre-agenda-fiscal-do-4o-mandato.ghtml"
     },
     {
-     "veiculo": "UOL",
-     "titulo": "Lula convoca reunião com economistas próximos ao PT e quer ampliar discussão sobre cenário econômico",
-     "url": "https://www.youtube.com/watch?v=8mEY1kap1h8"
-    },
-    {
-     "veiculo": "MundoBA",
-     "titulo": "Lula reúne Haddad, Durigan e Alckmin para discutir dívida pública",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalp2dnVRZ1YwelpIaUQ3LW1KNGZhTjFvTzNFeWZpblBXS0dHMFU4TmdHYnBicHhWbkNSR05DVWpiNVdlc3RvS2hPaHdGUGViVlEwSzk3NzNQWjlIWDdmQ05VZmEyYXJVVlYtZklYc2hJMUY0eWo4YWNjSTJiUzgyWV9hRDNSYVJmSUwwT3lmYkd1c1ZGb0R3bjNIMWtrZw?oc=5"
+     "veiculo": "Extra online",
+     "titulo": "Galípolo fica fora de reunião de Lula com economistas",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzc2aFhMbTlFdTVOYmRLazJzMnEwa1NzZzNpOXRHcVlYMUxJNFVlREZYVWJpcURzdk4xSmt6NUxZa1BQQWhNQmlHSm9ma2dfOGZmbS0tQzIwc01RQmdwRjJ3cjJTSThmUFJySjY0X0tRallIU1J6MDFra0dMQjZyUTNLT1hmUnR0YzNWcHVTSE9FdmluQVg4U1Q5X1lSQWlkakRtaU1aZ2RYNXVV0gG7AUFVX3lxTE4zZlNwcjBNYnF4YWt0bkw4V2dHNElSbGg4aGhoY3dLOE5iemRKYmc5UElKSGhBVkxTMFJjbTU5bkJOODRsNjRmbUJZUDdiZUFnZkdIb05EOG81RTRPRUlpOVlFNmNSS1VMbDBmVG96dF9TM2I2TzJaU1pTM3ltbEZRc2llT0lsMHVwRHNJMThDMmhmeXIyREFENnJXWnQ3ZEJOZHkzR19qT3JvQlJGOHQycUNDMExkUzRqVkE?oc=5"
     }
    ],
-   "score": 50.2,
+   "score": 50.4,
    "video_url": "https://www.youtube.com/watch?v=8mEY1kap1h8",
    "video_canal": "UOL",
-   "video_por_hora": 3300,
-   "video_acima_mediana": 2.6,
+   "video_por_hora": 3950,
+   "video_acima_mediana": 2.0,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Lula convoca reunião com economistas próximos ao PT e quer ampliar discussão sobre cenário econômico",
      "url": "https://www.youtube.com/watch?v=8mEY1kap1h8",
-     "por_hora": 3300
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Lula convoca reunião para discutir avanço da dívida pública | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=kZu6FrauKqA",
-     "por_hora": 3054
+     "por_hora": 3950
     },
     {
      "canal": "CNN Brasil",
      "titulo": "Lula convoca reunião com Durigan, Alckmin e ex-ministros da Fazenda | BASTIDORES CNN",
      "url": "https://www.youtube.com/watch?v=ZUB61XsRTL4",
-     "por_hora": 1436
+     "por_hora": 1167
     }
    ]
   },
@@ -212,20 +220,20 @@
     {
      "veiculo": "A Tribuna RJ",
      "titulo": "Banco Central mantém taxa de juros da Selic em 13,75%",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0Rod3kxVGtVWkxLRTlLbS1rMzc3aDEyMm5tTHNHUVpRZHd2Zk8ycWxDYzF5OGp3WVNqaWtKTXBLN3BkZUpTNkZtN0o1RlRrV1hnUFdFWHJsVWxvWDFBMWZtdW1fOUE5LVZ2VjdVYkxqOU5tVmtMMHZSU2FIbUlHd1RIUHVfc1poTkIxUmkwOUFfZVE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDMxaHBnVFYwS2k4ek1HLTI5SU1iSjVUVlVZc3NzWk1qTE1QVml3U2xGN0dKbExLMlpVbkdJejhHcXB6N29uQnl1azRWb1FPYnJmQ2FFRzNZVzJHZkwybVljY25zc2Z3bmRhRXozRmtnS1RSZmhzZEFBTVFJQkNRRHRiN1B1ZzlraVBSWkFn?oc=5"
     }
    ],
    "score": 47.1,
    "video_url": "https://www.youtube.com/watch?v=K7pM-m7G3ko",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 596,
-   "video_acima_mediana": 0.6,
+   "video_por_hora": 702,
+   "video_acima_mediana": 0.8,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Como o mercado está reagindo à decisão do Banco Central sobre os juros? | BASTIDORES CNN",
      "url": "https://www.youtube.com/watch?v=K7pM-m7G3ko",
-     "por_hora": 596
+     "por_hora": 702
     },
     {
      "canal": "InfoMoney",
@@ -240,9 +248,10 @@
    "titulo": "Em reunião com ministros, Lula avalia rumos da economia | TEMPO REAL",
    "url": "https://www.youtube.com/watch?v=5VrmoGT5JUs",
    "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-05T17:50:54.884295+00:00",
+   "publicado": "2026-11-05T17:50:13+00:00",
    "temas": [
     "economia",
+    "mercado",
     "politica"
    ],
    "video": true,
@@ -272,59 +281,19 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWk4zWl9yQmxkVXFDek1HcXVRVXZZcmo5eWFILUNZcEh6STdVZTVWanJXeUp6RnlFNk5vamNKVXFNb1pPeTkxOXlkSUwxUFhPcVpwYVY2aW01MXo4Zk9jU216Ymp2VWRjMlJYOEp0RlJmZ2JYd1lIWHJTcUN5NF80RERSYjJmMnhVQ29UMzhNVWs5c0ZmNGo0WmxEaHZIZXZySGQyNE9hUnBXWmRBMkRj?oc=5"
     }
    ],
-   "score": 46.0,
+   "score": 46.1,
    "video_url": "https://www.youtube.com/watch?v=5VrmoGT5JUs",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 92,
-   "video_acima_mediana": 0.1,
+   "video_por_hora": 446,
+   "video_acima_mediana": 0.6,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Em reunião com ministros, Lula avalia rumos da economia | TEMPO REAL",
      "url": "https://www.youtube.com/watch?v=5VrmoGT5JUs",
-     "por_hora": 92
+     "por_hora": 446
     }
    ]
-  },
-  {
-   "id": "c4001ca5e5",
-   "titulo": "PT e parte da equipe de Lula atacam BC após Copom interromper ciclo de corte de juros por dúvidas sobre ajuste fiscal",
-   "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-11-05T15:39:28+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=parte+equipe+Lula+atacam+ap%C3%B3s+Copom+interromper+ciclo+corte",
-   "veiculos": 6,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Claudio Dantas",
-     "titulo": "Lula convoca equipe para discutir dívida e ajuste fiscal",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2FZb3c3TUVDa0x1Ykd3NE8yYUdhcDduNl84SWdCRXRzejJfeVVGMGd0eGlISV9zNkwteU94UW5HVW9rcmhLSGhTZEdncWZ1YjVOd2piM0hUanpkbkU1VGRMdGpUbldLWG4zaTFleW1GUHphVTJNS2k2VFpmUThqWXBDbkFGdlVDalpRbGFYRQ?oc=5"
-    },
-    {
-     "veiculo": "A TARDE",
-     "titulo": "Lula reúne equipe econômica em meio a debate sobre ajuste fiscal",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGxBSDNHS0hwSVBlb2UzZWF4RTZVZDZ5czA3QnByT0JoemJfTnRvLXYzWjMzcXBKN0hZM20xQmQ1ek9oV2RwczJEMWZjazJFNkpEWmdqUmp0OVYzYmctQkxzaEE4V2ZGT1NZYm1Ib2JTdjd1b2tSR3Nqem5FNWduZHdKb05QMjIyMkR4b3BDRjVJbEFnVkxUQnU2UTNfb2tTd0dwY3B30gGuAUFVX3lxTE9heVVsbmM5eHE4blJYN0Z3WGFLUWVzU0ExMU1YWWpaOHhiWlVGV1MwS01YOHpjX2FoUFJ5T3VtTnlLNFBqakczUE9sRTJYWDlFcGdjYzlhakQ2ZzlSdW5rMGhiSnprTk9UYjBGWnVmSVZqd002WGc4cGloS1NZc0NnQVBVZkpRWXZLcjdBSkZ6UXozT3dMdXFEaHhCbWh6cGlla2twZW96VFEwTUhtdw?oc=5"
-    },
-    {
-     "veiculo": "A TARDE",
-     "titulo": "Lula reúne equipe econômica em meio a debate sobre ajuste fiscal",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYXlVbG5jOXhxOG5SWDdGd1hhS1Flc1NBMTFNWFlqWjh4YlpVRldTMEtNWDh6Y19haFBSeU91bU55SzRQampHM1BPbEUyWFg5RXBnY2M5YWpENmc5UnVuazBoYkp6a05PVGIwRlp1ZklWandNNlhnOHBpaEtTWXNDZ0FQVWZKUVl2S3I3QUpGelF6M093THVxRGh4Qm1oenBpZWtrcGVvelRRME1IbXfSAa4BQVVfeXFMT2F5VWxuYzl4cThuUlg3RndYYUtRZXNTQTExTVhZalo4eGJaVUZXUzBLTVg4emNfYWhQUnlPdW1OeUs0UGpqRzNQT2xFMlhYOUVwZ2NjOWFqRDZnOVJ1bmswaGJKemtOT1RiMEZadWZJVmp3TTZYZzhwaWhLU1lzQ2dBUFVmSlFZdktyN0FKRnpRejNPd0x1cURoeEJtaHpwaWVra3Blb3pUUTBNSG13?oc=5"
-    },
-    {
-     "veiculo": "O Anhanguera",
-     "titulo": "Dívida de R$ 11,1 trilhões coloca ajuste fiscal na mesa de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUZqamNkU0hVQUl6cVFwVEsxYjF6a2VOc0VTY2trYVpSLVEtZTlJX2RDZkpPR0NpaldSSkFXWGd2TjdSSVVWcWhOZWZ4Z0FQN3M4Uk5ZYmRjdGt2SGNlZ2lkeGs5ZzNPZHN5VnA3TW84U25Nc010ek52SzhETTVyYlQ5RUtYamx3c0txeDFsWFlxbUNuTWhmeF9NSWFEUW5pVzNR?oc=5"
-    }
-   ],
-   "score": 46.0
   },
   {
    "id": "6740e38f3d",
@@ -363,23 +332,23 @@
      "url": "https://www.youtube.com/watch?v=Abs3wdznJus"
     }
    ],
-   "score": 43.6,
+   "score": 43.0,
    "video_url": "https://www.youtube.com/watch?v=qXz2pW-yl9M",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 7250,
-   "video_acima_mediana": 7.5,
+   "video_por_hora": 6000,
+   "video_acima_mediana": 6.7,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Câmara do Paraguai deve votar sobre impeachment do presidente | LIVE CNN",
      "url": "https://www.youtube.com/watch?v=qXz2pW-yl9M",
-     "por_hora": 7250
+     "por_hora": 6000
     },
     {
      "canal": "SBT News",
      "titulo": "Presidente do Paraguai apresenta renúncia em meio a crise em banco no país | #RadarNews",
      "url": "https://www.youtube.com/watch?v=Abs3wdznJus",
-     "por_hora": 1932
+     "por_hora": 1764
     }
    ]
   },
@@ -397,7 +366,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Sa%C3%BAde+projeta+ganhar+espa%C3%A7o+mercado+rem%C3%A9dios+emagrecedores+at%C3%A9+2027",
-   "veiculos": 22,
+   "veiculos": 21,
    "rotina": false,
    "outras": [
     {
@@ -421,11 +390,11 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVm1kdUs1cHNROEliU1kzbGo4ZTRib29XVzJsVEVsQ2Fha3U1T2pqRm9SMEd2bHVUaFFiQlg2SE9HdVNOSnRmTGhRMHpqN3p0NTR2czB4bE42dW5JNHpSTDZWLWZ1X0lya0JLWWl5NmFvOW8zWlNrV2ttRHlMNW14bmpIeU9ycjB5RkZhSVBCQm1tRzk2WmowRTBHQ01COVdD?oc=5"
     }
    ],
-   "score": 41.7,
+   "score": 41.6,
    "video_url": "https://www.youtube.com/watch?v=GMLERxmNFyo",
    "video_canal": "Record News",
    "video_por_hora": 74,
-   "video_acima_mediana": 0.9,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
      "canal": "Record News",
@@ -440,7 +409,7 @@
    "titulo": "Democratas conquistam Senado e Câmara dos EUA",
    "url": "https://www.youtube.com/watch?v=-F0CU507tow",
    "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-05T11:56:54.884295+00:00",
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -477,7 +446,7 @@
    "video_url": "https://www.youtube.com/watch?v=-F0CU507tow",
    "video_canal": "Jovem Pan News",
    "video_por_hora": 7000,
-   "video_acima_mediana": 9.4,
+   "video_acima_mediana": 10.1,
    "videos": [
     {
      "canal": "Jovem Pan News",
@@ -495,7 +464,7 @@
      "canal": "SBT News",
      "titulo": "Democratas retomam controle da Câmara e do Senado nos Estados Unidos | #NewsNoite",
      "url": "https://www.youtube.com/watch?v=qm3lnrfHnkM",
-     "por_hora": 313
+     "por_hora": 294
     }
    ]
   },
@@ -537,23 +506,93 @@
      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/05/fim-da-escala-6x1-veja-como-denunciar-empresa-que-nao-respeitar-a-nova-jornada.ghtml"
     }
    ],
-   "score": 40.2,
+   "score": 40.4,
    "video_url": "https://www.youtube.com/watch?v=PszFYloDmCA",
    "video_canal": "SBT News",
-   "video_por_hora": 6333,
-   "video_acima_mediana": 6.9,
+   "video_por_hora": 7000,
+   "video_acima_mediana": 6.8,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Fim da escala 6x1 pode ser adiado? Advogado explica ação no STF | #NewsPrimeiraEdição",
      "url": "https://www.youtube.com/watch?v=PszFYloDmCA",
-     "por_hora": 6333
+     "por_hora": 7000
     },
     {
      "canal": "InfoMoney",
      "titulo": "CNC aciona STF para adiar fim da escala 6X1 | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=LuLLvNijhT0",
-     "por_hora": 382
+     "por_hora": 365
+    }
+   ]
+  },
+  {
+   "id": "03fcc47388",
+   "titulo": "Governo publica MP das alíquotas do Imposto Seletivo para 2027",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-05T15:24:38+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+publica+das+al%C3%ADquotas+Imposto+Seletivo+para+2027",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "GloboNews",
+     "titulo": "'Imposto do pecado' terá período de transição",
+     "url": "https://www.youtube.com/watch?v=LrRSz9e7YCA"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Pequenos produtores de bebidas terão transição no imposto do pecado",
+     "url": "https://www.cnnbrasil.com.br/agro/pequenos-produtores-de-bebidas-terao-transicao-no-imposto-do-pecado/"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=Gx-id8y0WE8"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y"
+    }
+   ],
+   "score": 38.8,
+   "video_url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 2400,
+   "video_acima_mediana": 16.0,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y",
+     "por_hora": 2400
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=Gx-id8y0WE8",
+     "por_hora": 789
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "'Imposto do pecado' terá período de transição",
+     "url": "https://www.youtube.com/watch?v=LrRSz9e7YCA",
+     "por_hora": 411
+    },
+    {
+     "canal": "TV Senado",
+     "titulo": "Edição da Manhã: Governo publica MP que fixa alíquotas do imposto seletivo",
+     "url": "https://www.youtube.com/watch?v=OV-dPhvkXXI",
+     "por_hora": 38
     }
    ]
   },
@@ -594,7 +633,7 @@
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVlNS1hqVTJpMjZlNVNPSXEta2ZBU1l2MUJVY09GdmxTWTFxTC1VTk9BaWs0d2llX3I0VTlpY3UzMEkzd0c3V0ZUc01pNlp5OHA0Qy02RjRJNElLRFFSb1lYZVlCRXM2UDRWU29UOXpSWE82bU0tc2czSE1jaVhRdXV1UzcxZzZYQ1I1am9rS190LXNFaEYwSnNkSkpsQUVBdHUxa0ozdWplRWVtWlUtS1FkQ191MHRBZjRvTGtuZGNHQm15ZmV2bXNyX2ZnWFplVm9lVDVUblc?oc=5"
     }
    ],
-   "score": 38.7
+   "score": 38.6
   },
   {
    "id": "0c5b0d972e",
@@ -632,57 +671,7 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2VSTnc3ZzRoTjVTdVlCSHNfUmFsS2VndjRXMzBtc0lLQmNjZHN6ZURVRW0tcTkteHZfMGRTQ3JtczRGNS1BUG5UU0xLNUd6bktHSHVrRVhpbVI4RzNNenFKRDE4TDRpY2hQUmowWmtfak1hM1JtT2lVbHozWDVlcE1MdnhZNHRyT3lVUmhZQmhiSnVPS21lbjZVcHdNUGlYWmxYWTJoNHF6bGxzNV9naFhzRU80ZU9jMS1QYUNpTE9YcnBsU0FVRDNOc2pYZXliT21Kc3JDNDNZMEk?oc=5"
     }
    ],
-   "score": 37.5
-  },
-  {
-   "id": "e4fa7cffe7",
-   "titulo": "Pena de prisão para uso de drones sobre presídios é aprovada na Câmara - 05/11/26",
-   "url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
-   "veiculo": "Câmara dos Deputados",
-   "publicado": "2026-11-05T16:58:39+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pena+pris%C3%A3o+para+uso+drones+sobre+pres%C3%ADdios+aprovada+C%C3%A2mara",
-   "veiculos": 9,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "RedeTV!",
-     "titulo": "Câmara aprova projeto que criminaliza voos de drones sobre presídios",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbm94bUVodHAyRHVWYmxxUVlxd1Y0VlRzZjlSLUtsTHFPSnp2WV9VMmlNRlZ0TjB2blNORXFlbkZiTmRGZHBnenlNVEI3Wk9UakVJNmlfaFJOSTJTY0UtTkJzaEdBd0h1VkF4dldFVVR5dVdWcmhURW5VeGtWUXVuS2c3TUJXWXRKT2NZSGZrcU9pbW53eEU5VUtLRzBGRVBNVU1NQ25LdkhNemtkbW9yNnA4ZVVVZ9IBzgFBVV95cUxOc0duQnNNOFZfdU1seEFJb25HdnVhaHJOY0Vsd0NUSjNzUHlzT0t5aDNKTXhBSWtxQU1nMTRjdnRNTlktM0czOWxPWVRtcFRrTGROUEdGdGVJUDV5dHZTT2ZBMTdLckIzNk1paDdwT1BteW5QLWhOYzB0bGdwdXZfZ3c2MFJMMFdwUzVRSlUzaGRsZjIxeXNhOWxGREtleWpmcGU5VWd5aDFXYW9ZUEdWb2JaNk5rRFJOOUJTdS1MTHBmV01zOWZ2dVRaU2x6UQ?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Câmara aprova pena de até 5 anos para uso não autorizado de drones perto de presídios",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0Q2RGIwVF94Z25MS0lwZWlXbkFSVDlqSVVYMGtyT3NtcHJVMFBBV0FpdVg4YzlWUWh1R1d5dUFXa0IxX1ppSVctVDRfNGcyVktHMTc3RnZqNUV1SjVRSWFtUk15OXpCUC0yT0YtRERzTll3eEhWTWp5a0p5TDBJdnVFTXlRM3FWdmdBM2hBQjVQY2dNZDRsSmo4ZmpxSmFnOGU4dVY3RmpSYnktMndCQkxTZEEySFQ3LTJmZEJpWE5qOGx2VVdBV0VCRFhNbm1rNWpRdkNMcHMwbEcxcmxXNlU3X3rSAeQBQVVfeXFMTWtENkRiMFRfeGduTEtJcGVpV25BUlQ5aklVWDBrck9zbXByVTBQQVdBaXVYOGM5VlFodUdXeXVBV2tCMV9aaUlXLVQ0XzRnMlZLRzE3N0Z2ajVFdUo1UUlhbVJNeTl6QlAtMk9GLUREc05Zd3hIVk1qeWtKeUwwSXZ1RU15UTNxVnZnQTNoQUI1UGNnTWQ0bEpqOGZqcUphZzhlOHVWN0ZqUmJ5LTJ3QkJMU2RBMkhUNy0yZmRCaVhOajhsdlVXQVdFQkRYTW5tazVqUXZDTHBzMGxHMXJsVzZVN196?oc=5"
-    },
-    {
-     "veiculo": "Jornal O PODER",
-     "titulo": "Convenção de Hong Kong: Comissão da Câmara aprova projeto sobre reciclagem segura e sustentável de navios",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0hWdGx2WlFhN0hQNzNvQ0Z6dU9FRFZLRmI3YWxEd21EbVJMeWlvd2pvTmcyMVoxa1lCbXFWeEVrZzBjeDhFZ1dKYWN0clJmcVpXckJrRGF6cFgzT3NvVS1fbnRTN0t4dnhnalZqMDM1bzlHU1NXT2dKeDdQeXlmTjB5UUZ2WU4xRmZNMXpfSEVScWJ6b0pqWXZxY3UzMWhwZ2ZYSHJ5MEZ2ZGtzbko0Q2JWOXEyWHYwenFyeEZoWTRNbWk0V0Q5djUyMmpibER1eXNfM0g0cGRpNVQ5M3c?oc=5"
-    },
-    {
-     "veiculo": "Portal VV8",
-     "titulo": "Câmara aprova projeto que estabelece pena de até 5 anos por sobrevoo de drones em presídios",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEFZbmdTNE9IemNzTUlEcVFBLUNmSVBMZVZkeDZvTjRFNWNnWkFoM1dpRjc1cDBLRDVNbERiX1N0eWp3dzNJNEhMdGRhMFh2SUZPRGtWX2k3M2hqVlNpMVpwZjktUm5ndmRhakNsVW1HMTdFcjdRMTlXMUlfRDZTZFVSNzRlQ1JnYm0xU3B3bm5aWEJlMXZCTnlsV1RjVGEybjl4VldHMHU4LXByUFUtaEJ2WWtxUXV2cndzRUNjTTZrU253c294TW9B?oc=5"
-    }
-   ],
-   "score": 35.7,
-   "video_url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
-   "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 153,
-   "video_acima_mediana": 10.1,
-   "videos": [
-    {
-     "canal": "Câmara dos Deputados",
-     "titulo": "Pena de prisão para uso de drones sobre presídios é aprovada na Câmara - 05/11/26",
-     "url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
-     "por_hora": 153
-    }
-   ]
+   "score": 37.4
   },
   {
    "id": "2b7ac28321",
@@ -721,7 +710,7 @@
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkVQZlZaZDdUY0lCa3B5MkFuRmRZYmxxYl9yMEdzOWxKelpjNXFzeGRsZi1jSFl6NnpYRFNDdnBFQy1sZUJZTURUeWo4UEdVU3VLVkJQWFRtN0hEeTk5bTM2aVlPanN3MGRNdGd3ZVdfbVdlTVRNMnBCNEw1NGs0MVRTNk1nSGl6UmV6QTFHU01NOXp3UnRjY1pHWDltQ3hCT3g1a1hnQ0QzY2JCWXBFcXNUc00yekFpRzhyTzlNVFc?oc=5"
     }
    ],
-   "score": 35.6
+   "score": 35.5
   },
   {
    "id": "a2d685e437",
@@ -761,67 +750,17 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3B0TkptMEJxWGdWTkJVZlY1RFpPdmQ0VkJ4NTRGdXY3LTBwV1lrTHNSNi1mazNBbTNEXzFMUXZBdUo1R1gyRm5qYjBPNWE3bS12YlVEdGFhT015RktCbGVrZV9FSTRXVV9PbjBYb2ZRclpiVHUyaHh5S1V2ZWhnV080UWdSZlJNczc2RTJ6ZzBHbXUtdlRBVjRUWnNkb0kwdTlWQWhnY9IBrAFBVV95cUxQN0NOMjBrY2d4SzZSVDA0X3p6aFgyckh2cGxNbHYwNlk2Z1NmSE9VSW5oM2lOaWhnUDhBNUMwU2tyU19HaFBIOE5NYy13bUNXQUJYaWl4amJoeHBFMWxrTzV1b2h2Zm45RHppOFVidlRQY0VkS1p0eWhiTlpOQWtqWGsxTHRoSlFwS05LSEI2NnRpTTNZRG5FeV9peW1ObWxFRm5XMEFOam8zX0Zs?oc=5"
     }
    ],
-   "score": 35.5,
+   "score": 35.4,
    "video_url": "https://www.youtube.com/watch?v=dz7vZa0_Y-I",
    "video_canal": "InfoMoney",
    "video_por_hora": 580,
-   "video_acima_mediana": 3.3,
+   "video_acima_mediana": 3.9,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Lula fará pronunciamento para anunciar medidas de ajuste e tentar acalmar mercado | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=dz7vZa0_Y-I",
      "por_hora": 580
-    }
-   ]
-  },
-  {
-   "id": "e237e8c74b",
-   "titulo": "Câmara rejeita impeachment de vice-presidente do Paraguai",
-   "url": "https://www.poder360.com.br/poder-internacional/camara-rejeita-impeachment-de-vice-presidente-do-paraguai/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-05T17:49:44+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=C%C3%A2mara+rejeita+impeachment+vice+presidente+Paraguai",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Após renúncia de Penã, Câmara do Paraguai rejeita impeachment do vice-presidente Pedro Alliana",
-     "url": "https://exame.com/mundo/apos-renuncia-de-pena-camara-do-paraguai-rejeita-impeachment-do-vice-presidente-pedro-alliana/"
-    },
-    {
-     "veiculo": "G1",
-     "titulo": "Congresso paraguaio aprova seguir com processo de impeachment do presidente do Paraguai, mesmo após renúncia",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeTllWklDYzF2WHNrMm90YVhqUHpHM1Vud1ZZQ0JITzBNWlNBSDdaOUZDQ3VkNnVKTlFwckdSNWZKWXQwdXRzYnlJaTV2NE02SWd0U1FLSkM3UWVlbXBaTUhucWd0cXNnanVXYmxnN0dqU2hDaGg0enh5cjZmZWg1NlRsVEtHQkdteW1YUnFKcE54bU12TzJNREltS3lwVjBFeXNVQWhFOHlIRUpwTzVlOVl1ZFFsczlVeDJnWURod212QXBWMDRWNEd4bmVOWFZtSjZ3SkVPa3NieGJoMzAyMm82VEg4N0t6dDMyZdIB-wFBVV95cUxOb0ZmNjA1YlpDcUVpaHdqTkRUMi1DT3Brc1BXMEhpTE0tR1cxWFhSQ0QzbjFLT1RQQnU4RUNWdFloamVvMkR3TU85RGJSZHY2bU1mNm9vOF9qUk5DMDNkaHNGN2FxSVRLd1QzUU96NzBSNHNwVWl1SXNlNGU1OWZxU2o5X01XYU5WWVljLWVuTWMzbVl2S25naXBuVzAtakJUY1htWE5WNE9wVXhxODdiSkdzZUFQTWRmWFFNWHN0MGp1LXlITmpsb0dCZWxlcTd5TlROaTZYeTF0TExFUGpiZXN0TUF6d1lLaUFKOFAtU3J1R25VVFdINmFFQQ?oc=5"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Câmara do Paraguai aprova impeachment do presidente Santiago Peña",
-     "url": "https://www.cnnbrasil.com.br/internacional/camara-do-paraguai-aprova-impeachment-do-presidente-santiago-pena/"
-    },
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Câmara aprova abertura de impeachment do presidente do Paraguai",
-     "url": "https://www.metropoles.com/mundo/camara-aprova-abertura-de-impeachment-do-presidente-do-paraguai"
-    }
-   ],
-   "score": 35.0,
-   "video_url": "https://www.youtube.com/watch?v=r4UF2Baid7s",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 42,
-   "video_acima_mediana": 0.2,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Oposição pede impeachment de presidente do Paraguai | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=r4UF2Baid7s",
-     "por_hora": 42
     }
    ]
   },
@@ -905,59 +844,47 @@
    "score": 34.7
   },
   {
-   "id": "cc4d56dd79",
-   "titulo": "Secretário do DF defende redução da maioridade penal: \"É justo\"",
-   "url": "https://www.metropoles.com/colunas/grande-angular/secretario-do-df-defende-reducao-da-maioridade-penal-e-justo",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-11-05T17:33:13+00:00",
+   "id": "1f570e9d5f",
+   "titulo": "Senado aprova, em 2º turno, PEC da Segurança por 75 a 0 | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=ft9UGxCZN1Y",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-05T17:34:43+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Secret%C3%A1rio+defende+redu%C3%A7%C3%A3o+maioridade+penal+justo",
-   "veiculos": 11,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Senado+aprova%2C+turno%2C+PEC+Seguran%C3%A7a+por+InfoMoney+News",
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
      "veiculo": "CNN Brasil",
-     "titulo": "Câmara deve analisar redução da maioridade penal ainda em novembro | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=ZbyyUSVxRKg"
-    },
-    {
-     "veiculo": "SBT News",
-     "titulo": "Davi Alcolumbre tira redução da maioridade penal da pauta | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=enB_hGJ_HZ0"
-    },
-    {
-     "veiculo": "Câmara dos Deputados",
-     "titulo": "Comissão Especial debate redução da maioridade penal para 16 anos - 04/11/2026",
-     "url": "https://www.youtube.com/watch?v=7R6ScmAxCdg"
+     "titulo": "Senado aprova PEC da Segurança Pública sem discutir redução da maioridade",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3dJZDZZUXlVMGpOY3Y5VVVPNHlaWFVMb01rMHpXXzR1RXZOV0pCSHl4UjljSWc3a2FWQ2l2TnNobEVaT01yenAzVmY5SGhDaVhrUkcwVGV5V3BCZjFHMEJfWDhMb1FLdFNXeVNHZEgwM2Z3WTVuY09vdFhyYmVUdG5YYw?oc=5"
     },
     {
      "veiculo": "Revista Soberana",
      "titulo": "Senado aprova PEC da Segurança Pública por unanimidade e deixa redução da maioridade penal para discussão separada",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcU5xQ1NNR2d2d2FDakZESmgzd3BEMHlKVVRnWTEySnpoMmJxUTBVNTFJM2NkM3Z0WExMaHNaYldiNFN2aUUyWVJWWFBzN2dqMlczOTUzSm1rczJoRmJSc1dwYUVJUlFrbV9jSGZCeDl3TnZNcjRHZ1hWYXpESm1pR2x5VU5hcUhCTUVSd2lIWS1XZUY3bGpORGlKVFc2a3ZUbEVFeUdmSVJUbHB4blE1bm5hU2ZNT280R0ZhQk82SE5fNTlHWUJuYVVwVElTdk44LWhkTzVDMTBvVFRpMVVBdEZ1clFyMno5OF9HeGZB?oc=5"
+    },
+    {
+     "veiculo": "Senado",
+     "titulo": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara — Senado Notícias",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjBhZmtET3I2RUh3V2dJZU9fczFpU3hyQ1E0RG4tWlFDdW1WU2t6dDhheXJOM3JMcEtkdnQ4SWFWWGVadTVmc2pfUXloTWFtcXM5dDhkRHAxR01XSHhDYW1GbEg2ZXludF81XzFUOWYwRXdYWG1pRlNIdGFScmwyY3kxd1BhU2cxdGpYUTNvbHdlYXdzWHM5Q0FHTUlVWGNsUW5mWEs5V1V2THhJbWZQZjBCdVdvZFpYQ3RMc2JHajNTTmpC?oc=5"
+    },
+    {
+     "veiculo": "Record News",
+     "titulo": "Redução da maioridade penal pode ser votada hoje no Senado",
+     "url": "https://www.youtube.com/watch?v=J5nNlO0PBeo"
     }
    ],
-   "score": 34.2,
-   "video_url": "https://www.youtube.com/watch?v=enB_hGJ_HZ0",
-   "video_canal": "SBT News",
-   "video_por_hora": 875,
-   "video_acima_mediana": 1.0,
+   "score": 33.9,
+   "video_url": "https://www.youtube.com/watch?v=8wVpNeYPWyw",
+   "video_canal": "GloboNews",
+   "video_por_hora": 258,
+   "video_acima_mediana": 0.3,
    "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Davi Alcolumbre tira redução da maioridade penal da pauta | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=enB_hGJ_HZ0",
-     "por_hora": 875
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Câmara deve analisar redução da maioridade penal ainda em novembro | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=ZbyyUSVxRKg",
-     "por_hora": 600
-    },
     {
      "canal": "GloboNews",
      "titulo": "Maioridade penal fica de fora na PEC da Segurança; Senado vota proposta",
@@ -968,7 +895,7 @@
      "canal": "InfoMoney",
      "titulo": "Senado aprova PEC da Segurança por unanimidade: O que muda? | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=NZqpY03NPVg",
-     "por_hora": 112
+     "por_hora": 117
     },
     {
      "canal": "Record News",
@@ -977,10 +904,16 @@
      "por_hora": 105
     },
     {
-     "canal": "Câmara dos Deputados",
-     "titulo": "Comissão Especial debate redução da maioridade penal para 16 anos - 04/11/2026",
-     "url": "https://www.youtube.com/watch?v=7R6ScmAxCdg",
-     "por_hora": 31
+     "canal": "MyNews",
+     "titulo": "PEC DA SEGURANÇA É APROVADA, MAS PT SE DIVIDE SOBRE MAIORIDADE PENAL",
+     "url": "https://www.youtube.com/watch?v=kHQtoFdpGyE",
+     "por_hora": 25
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Senado aprova, em 2º turno, PEC da Segurança por 75 a 0 | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=ft9UGxCZN1Y",
+     "por_hora": 0
     }
    ]
   },
@@ -1007,60 +940,19 @@
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzVtUVhzckhvZ2xlRzYtLUFoaVVndUMzdi1TLXhkYUFSblcwYm9zT1FoUmdyNDIwZ20yNlFQWElaQ09FUlRiY0JOUTloWnQ0RU9mZWJBUVJRelZBSGNWQXpiYXdwMGtfaDBSUTl3ZFV2SnloRHgzOVFGLVd3SG9sUjJPendNRWdSZlVlVFlkSTVyQVBERE5PMHRkaUEza1VDN2RtZ0gxbXAtX2F2aUM2cmQ0M1RaX0RGeG9qQU1Ca2VyS0ZrY3h3a3Bn?oc=5"
     }
    ],
-   "score": 32.9,
+   "score": 32.8,
    "video_url": "https://www.youtube.com/watch?v=Ega7edP3OU4",
    "video_canal": "UOL",
-   "video_por_hora": 455,
-   "video_acima_mediana": 0.4,
+   "video_por_hora": 439,
+   "video_acima_mediana": 0.2,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Banco Central está encurralado entre economia fraca e inflação em alta, avalia ex-diretor do BC",
      "url": "https://www.youtube.com/watch?v=Ega7edP3OU4",
-     "por_hora": 455
+     "por_hora": 439
     }
    ]
-  },
-  {
-   "id": "d169069204",
-   "titulo": "Dólar cai e fecha a R$ 5,45 após vitória democrata no Congresso dos EUA; Ibovespa sobe",
-   "url": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-11-05T17:35:00+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+cai+fecha+5%2C45+ap%C3%B3s+vit%C3%B3ria+democrata+Congresso+dos",
-   "veiculos": 17,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "CEAB3 sobe 8,1% e DXCO3 cai 7,2%; Ibovespa fica em -0,5% hoje",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlZkRVBTbC0xM2VqRVhCZXN3MGRJeWx1M0NEVk93OGozN3ZBR2VqWDJjQTd6TkhHV3BTVV8tOElKSHJSNnA5ZksyajJQeHdRX1E1TzdGbmRVWXBjb29Ic1lILUt0RWpzcnlGSEpudlhjekZuVkFzWDlORlp5Z1pRV2VZekU5cVFYanJwMU5OMjhYdndCbVE?oc=5"
-    },
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "Ibovespa recua 0,4% hoje; TEND3 cai 12,8% e ONCO3 sobe 9,1% na B3",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFRvM0MtY1l6SEVqaG83V0FqTDUzR282WkVPMEV0dlJ1NnoxU0QtQnhTUW1nb25zOUUyRmtmNjVvOVhicm5jQVoyWkVGVGNNOG1ZcGFOWC00SUZrQ3dqSGh4MVdyQ0JCaDltUHhzTTNDcHlfeTJWSzc0cmRNcXZ5M2Yzejlpbi1vUThLX0lOOFg1V1hiMFZUcE5nTWI?oc=5"
-    },
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "ONCO3 sobe 10,4% e TEND3 cai 11,2%; Ibovespa avança 0,8% hoje",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2NDeGZrOW9QbnpkSm5ZS3pXbTgxNXRwNzdpejhESXJHN1BsNUsyaDkzMGlLQ0NSOE5ELUt4aWxHLUo2VTlsb1lscEZFRm9RV3JuWWRULUowLTBhMl91bUc1LW4zNkhuQl96dTFyeVd3ZnBJbDl4ODVkdmVXNWJSelBKOVpLQlNEdWQzOUwyZHkyeFhZWWlv?oc=5"
-    },
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "BRKM3 sobe 2,8% e Ibovespa abre em alta de 0,17% na B3 hoje",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVm5mUFJEOEc4cTBvTUNZTDlKQXhpMXQ4UWxsR3lvbnIxZ1ZXV0RpWUdfNWwzSnlwZW1tNlo3RXN0cDAtWVpOUzZsa2RTemJpb0dDbnZaTmxrSDB4Y1VnY3BZWHpTZEdVZW4xX3J2cWhFMkhRVEhJSmhPT0NPWFpjYjMyVWlJdHJQUjVsclNhUkhnSU1KaWtBWA?oc=5"
-    }
-   ],
-   "score": 32.8
   },
   {
    "id": "f4735282de",
@@ -1076,7 +968,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+cai+5%2C45+ap%C3%B3s+elei%C3%A7%C3%B5es+nos+EUA+antes+Copom",
-   "veiculos": 17,
+   "veiculos": 18,
    "rotina": true,
    "outras": [
     {
@@ -1100,14 +992,114 @@
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeG9CNW1VbkRpRDhoT003OGpuNFNTUTd4VTV3Uk02c1ZTeVozNjhuNlB4bk1ta1dOV2duZy1rb09EWFlvczJ2dGZGNXRZaTRFQzdkY0x4WHl2eVNQNFBHS0Q2Y3RUc0h5aXhkTUFrXzdxVy1QNWZmWmtHeEhSRTJ3R1lKQjFic1NaTmsyMFk3TkIzZW04Ry1HOGtBd0RGWVpDR0NwZjY2UVdTT0dDX19vejhkamhEMGhxdkZCZ0E4OU0tRDRSaXdjbXVqZTVSY2dRT0FqUnZYSdIB5gFBVV95cUxPMmY3cjRMMlptdHN1a0pkaVRja1V5Sjhlc2hWNTIzVGlUSENGbFpONTZCRDlTU09JVGdROXJkQUpsYWdycGgzV0ltN0F5NjMtaFVjcW9hZWJhQmRqekNPenpoM1g2Z0FnNnlqYmI5R2d3MXFQX05qYlJBeE5BVG1acGxLYjU1aThxTGlVc05VUGQ3SkQ0bzVqa1ltY2RHNkljWlJpVEd1OHhSaGtSRkt5WkxzYkgzRjJzVTRqMzBDYUxEQ0VGNjRJRkRmcDZINUktVUFoNUl5QUZaVWZNNFJXMzRsb05wUQ?oc=5"
     }
    ],
-   "score": 32.7
+   "score": 32.6
   },
   {
-   "id": "9ade98791d",
-   "titulo": "Governo zera imposto sobre minerais para 2027",
-   "url": "https://www.poder360.com.br/reforma-tributaria-2027/governo-zera-imposto-sobre-minerais-para-2027/",
+   "id": "e237e8c74b",
+   "titulo": "Câmara rejeita impeachment de vice-presidente do Paraguai",
+   "url": "https://www.poder360.com.br/poder-internacional/camara-rejeita-impeachment-de-vice-presidente-do-paraguai/",
    "veiculo": "Poder360",
-   "publicado": "2026-11-05T16:58:12+00:00",
+   "publicado": "2026-11-05T17:49:44+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=C%C3%A2mara+rejeita+impeachment+vice+presidente+Paraguai",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Exame",
+     "titulo": "Após renúncia de Penã, Câmara do Paraguai rejeita impeachment do vice-presidente Pedro Alliana",
+     "url": "https://exame.com/mundo/apos-renuncia-de-pena-camara-do-paraguai-rejeita-impeachment-do-vice-presidente-pedro-alliana/"
+    },
+    {
+     "veiculo": "G1",
+     "titulo": "Congresso paraguaio aprova seguir com processo de impeachment do presidente do Paraguai, mesmo após renúncia",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeTllWklDYzF2WHNrMm90YVhqUHpHM1Vud1ZZQ0JITzBNWlNBSDdaOUZDQ3VkNnVKTlFwckdSNWZKWXQwdXRzYnlJaTV2NE02SWd0U1FLSkM3UWVlbXBaTUhucWd0cXNnanVXYmxnN0dqU2hDaGg0enh5cjZmZWg1NlRsVEtHQkdteW1YUnFKcE54bU12TzJNREltS3lwVjBFeXNVQWhFOHlIRUpwTzVlOVl1ZFFsczlVeDJnWURod212QXBWMDRWNEd4bmVOWFZtSjZ3SkVPa3NieGJoMzAyMm82VEg4N0t6dDMyZdIB-wFBVV95cUxOb0ZmNjA1YlpDcUVpaHdqTkRUMi1DT3Brc1BXMEhpTE0tR1cxWFhSQ0QzbjFLT1RQQnU4RUNWdFloamVvMkR3TU85RGJSZHY2bU1mNm9vOF9qUk5DMDNkaHNGN2FxSVRLd1QzUU96NzBSNHNwVWl1SXNlNGU1OWZxU2o5X01XYU5WWVljLWVuTWMzbVl2S25naXBuVzAtakJUY1htWE5WNE9wVXhxODdiSkdzZUFQTWRmWFFNWHN0MGp1LXlITmpsb0dCZWxlcTd5TlROaTZYeTF0TExFUGpiZXN0TUF6d1lLaUFKOFAtU3J1R25VVFdINmFFQQ?oc=5"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Câmara do Paraguai aprova impeachment do presidente Santiago Peña",
+     "url": "https://www.cnnbrasil.com.br/internacional/camara-do-paraguai-aprova-impeachment-do-presidente-santiago-pena/"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Oposição pede impeachment de presidente do Paraguai | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=r4UF2Baid7s"
+    }
+   ],
+   "score": 31.9,
+   "video_url": "https://www.youtube.com/watch?v=r4UF2Baid7s",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 40,
+   "video_acima_mediana": 0.3,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Oposição pede impeachment de presidente do Paraguai | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=r4UF2Baid7s",
+     "por_hora": 40
+    }
+   ]
+  },
+  {
+   "id": "e4fa7cffe7",
+   "titulo": "Pena de prisão para uso de drones sobre presídios é aprovada na Câmara - 05/11/26",
+   "url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
+   "veiculo": "Câmara dos Deputados",
+   "publicado": "2026-11-05T16:58:39+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Pena+pris%C3%A3o+para+uso+drones+sobre+pres%C3%ADdios+aprovada+C%C3%A2mara",
+   "veiculos": 9,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "RedeTV!",
+     "titulo": "Câmara aprova projeto que criminaliza voos de drones sobre presídios",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbm94bUVodHAyRHVWYmxxUVlxd1Y0VlRzZjlSLUtsTHFPSnp2WV9VMmlNRlZ0TjB2blNORXFlbkZiTmRGZHBnenlNVEI3Wk9UakVJNmlfaFJOSTJTY0UtTkJzaEdBd0h1VkF4dldFVVR5dVdWcmhURW5VeGtWUXVuS2c3TUJXWXRKT2NZSGZrcU9pbW53eEU5VUtLRzBGRVBNVU1NQ25LdkhNemtkbW9yNnA4ZVVVZ9IBzgFBVV95cUxOc0duQnNNOFZfdU1seEFJb25HdnVhaHJOY0Vsd0NUSjNzUHlzT0t5aDNKTXhBSWtxQU1nMTRjdnRNTlktM0czOWxPWVRtcFRrTGROUEdGdGVJUDV5dHZTT2ZBMTdLckIzNk1paDdwT1BteW5QLWhOYzB0bGdwdXZfZ3c2MFJMMFdwUzVRSlUzaGRsZjIxeXNhOWxGREtleWpmcGU5VWd5aDFXYW9ZUEdWb2JaNk5rRFJOOUJTdS1MTHBmV01zOWZ2dVRaU2x6UQ?oc=5"
+    },
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Câmara aprova pena de até 5 anos para uso não autorizado de drones perto de presídios",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0Q2RGIwVF94Z25MS0lwZWlXbkFSVDlqSVVYMGtyT3NtcHJVMFBBV0FpdVg4YzlWUWh1R1d5dUFXa0IxX1ppSVctVDRfNGcyVktHMTc3RnZqNUV1SjVRSWFtUk15OXpCUC0yT0YtRERzTll3eEhWTWp5a0p5TDBJdnVFTXlRM3FWdmdBM2hBQjVQY2dNZDRsSmo4ZmpxSmFnOGU4dVY3RmpSYnktMndCQkxTZEEySFQ3LTJmZEJpWE5qOGx2VVdBV0VCRFhNbm1rNWpRdkNMcHMwbEcxcmxXNlU3X3rSAeQBQVVfeXFMTWtENkRiMFRfeGduTEtJcGVpV25BUlQ5aklVWDBrck9zbXByVTBQQVdBaXVYOGM5VlFodUdXeXVBV2tCMV9aaUlXLVQ0XzRnMlZLRzE3N0Z2ajVFdUo1UUlhbVJNeTl6QlAtMk9GLUREc05Zd3hIVk1qeWtKeUwwSXZ1RU15UTNxVnZnQTNoQUI1UGNnTWQ0bEpqOGZqcUphZzhlOHVWN0ZqUmJ5LTJ3QkJMU2RBMkhUNy0yZmRCaVhOajhsdlVXQVdFQkRYTW5tazVqUXZDTHBzMGxHMXJsVzZVN196?oc=5"
+    },
+    {
+     "veiculo": "Jornal O PODER",
+     "titulo": "Convenção de Hong Kong: Comissão da Câmara aprova projeto sobre reciclagem segura e sustentável de navios",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0hWdGx2WlFhN0hQNzNvQ0Z6dU9FRFZLRmI3YWxEd21EbVJMeWlvd2pvTmcyMVoxa1lCbXFWeEVrZzBjeDhFZ1dKYWN0clJmcVpXckJrRGF6cFgzT3NvVS1fbnRTN0t4dnhnalZqMDM1bzlHU1NXT2dKeDdQeXlmTjB5UUZ2WU4xRmZNMXpfSEVScWJ6b0pqWXZxY3UzMWhwZ2ZYSHJ5MEZ2ZGtzbko0Q2JWOXEyWHYwenFyeEZoWTRNbWk0V0Q5djUyMmpibER1eXNfM0g0cGRpNVQ5M3c?oc=5"
+    },
+    {
+     "veiculo": "Portal VV8",
+     "titulo": "Câmara aprova projeto que estabelece pena de até 5 anos por sobrevoo de drones em presídios",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEFZbmdTNE9IemNzTUlEcVFBLUNmSVBMZVZkeDZvTjRFNWNnWkFoM1dpRjc1cDBLRDVNbERiX1N0eWp3dzNJNEhMdGRhMFh2SUZPRGtWX2k3M2hqVlNpMVpwZjktUm5ndmRhakNsVW1HMTdFcjdRMTlXMUlfRDZTZFVSNzRlQ1JnYm0xU3B3bm5aWEJlMXZCTnlsV1RjVGEybjl4VldHMHU4LXByUFUtaEJ2WWtxUXV2cndzRUNjTTZrU253c294TW9B?oc=5"
+    }
+   ],
+   "score": 31.6,
+   "video_url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
+   "video_canal": "Câmara dos Deputados",
+   "video_por_hora": 135,
+   "video_acima_mediana": 2.5,
+   "videos": [
+    {
+     "canal": "Câmara dos Deputados",
+     "titulo": "Pena de prisão para uso de drones sobre presídios é aprovada na Câmara - 05/11/26",
+     "url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
+     "por_hora": 135
+    }
+   ]
+  },
+  {
+   "id": "5f5c6d8030",
+   "titulo": "Lula convoca reunião para discutir avanço da dívida pública | #RadarNews",
+   "url": "https://www.youtube.com/watch?v=kZu6FrauKqA",
+   "veiculo": "SBT News",
+   "publicado": "2026-11-05T15:39:28+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -1115,43 +1107,32 @@
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+zera+imposto+sobre+minerais+para+2027",
-   "veiculos": 4,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+convoca+reuni%C3%A3o+para+discutir+avan%C3%A7o+d%C3%ADvida+p%C3%BAblica+RadarNews",
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "UOL",
-     "titulo": "Governo Lula tira imposto sobre indústria e taxa produtos que fazem mal a saúde",
-     "url": "https://www.youtube.com/watch?v=8PDYKC-WwZs"
+     "veiculo": "Claudio Dantas",
+     "titulo": "Lula convoca equipe para discutir dívida e ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2FZb3c3TUVDa0x1Ykd3NE8yYUdhcDduNl84SWdCRXRzejJfeVVGMGd0eGlISV9zNkwteU94UW5HVW9rcmhLSGhTZEdncWZ1YjVOd2piM0hUanpkbkU1VGRMdGpUbldLWG4zaTFleW1GUHphVTJNS2k2VFpmUThqWXBDbkFGdlVDalpRbGFYRQ?oc=5"
     },
     {
-     "veiculo": "Agência Brasil",
-     "titulo": "Governo publica MP das alíquotas do Imposto Seletivo para 2027",
-     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027"
-    },
-    {
-     "veiculo": "TV Senado",
-     "titulo": "Edição da Manhã: Governo publica MP que fixa alíquotas do imposto seletivo",
-     "url": "https://www.youtube.com/watch?v=OV-dPhvkXXI"
+     "veiculo": "O Anhanguera",
+     "titulo": "Dívida de R$ 11,1 trilhões coloca ajuste fiscal na mesa de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUZqamNkU0hVQUl6cVFwVEsxYjF6a2VOc0VTY2trYVpSLVEtZTlJX2RDZkpPR0NpaldSSkFXWGd2TjdSSVVWcWhOZWZ4Z0FQN3M4Uk5ZYmRjdGt2SGNlZ2lkeGs5ZzNPZHN5VnA3TW84U25Nc010ek52SzhETTVyYlQ5RUtYamx3c0txeDFsWFlxbUNuTWhmeF9NSWFEUW5pVzNR?oc=5"
     }
    ],
-   "score": 31.9,
-   "video_url": "https://www.youtube.com/watch?v=8PDYKC-WwZs",
-   "video_canal": "UOL",
-   "video_por_hora": 744,
-   "video_acima_mediana": 0.6,
+   "score": 31.3,
+   "video_url": "https://www.youtube.com/watch?v=kZu6FrauKqA",
+   "video_canal": "SBT News",
+   "video_por_hora": 3251,
+   "video_acima_mediana": 3.2,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Governo Lula tira imposto sobre indústria e taxa produtos que fazem mal a saúde",
-     "url": "https://www.youtube.com/watch?v=8PDYKC-WwZs",
-     "por_hora": 744
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "Edição da Manhã: Governo publica MP que fixa alíquotas do imposto seletivo",
-     "url": "https://www.youtube.com/watch?v=OV-dPhvkXXI",
-     "por_hora": 40
+     "canal": "SBT News",
+     "titulo": "Lula convoca reunião para discutir avanço da dívida pública | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=kZu6FrauKqA",
+     "por_hora": 3251
     }
    ]
   },
@@ -1192,7 +1173,47 @@
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtMmwxMldsTjBTOXZXUElQeTBxdDFTRzc4OE1MT0NsX05UYUVGVDF1czVac1dQcVlSNFpyYXJaeGtHcHl5ZVdXbHlXM1dySUVaOVo3ZDNyM1l1RmpTNU1YeFZGeDgwVTVnYlVfVjlDWkRmbnlPNWFR?oc=5"
     }
    ],
-   "score": 31.0
+   "score": 30.9
+  },
+  {
+   "id": "7313024b0d",
+   "titulo": "Dólar cai a R$ 5,45 e Ibovespa recupera os 167 mil pontos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2NLaFcxQlNkQVY3OUxkZkdPR25IX1BDb3FzRVVrTmFZd2Y0a1g0d0t5ZGszdUdNU2VnaWxxR2lEdGRjNW9ZSE0tWU9yY2pPYVhOZlR2V0NZYUNjenp2ODRQYm1QcnBORHNTQWVvd1BzV3FZdkgxdE1vSmZoeGJVSURHVXg3am9YaXJoSnJHQzY4VDhKYWxGbnhsUEhrUG5x?oc=5",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-05T17:35:00+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+cai+5%2C45+Ibovespa+recupera+167+mil+pontos",
+   "veiculos": 15,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "CEAB3 sobe 8,1% e DXCO3 cai 7,2%; Ibovespa fica em -0,5% hoje",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlZkRVBTbC0xM2VqRVhCZXN3MGRJeWx1M0NEVk93OGozN3ZBR2VqWDJjQTd6TkhHV3BTVV8tOElKSHJSNnA5ZksyajJQeHdRX1E1TzdGbmRVWXBjb29Ic1lILUt0RWpzcnlGSEpudlhjekZuVkFzWDlORlp5Z1pRV2VZekU5cVFYanJwMU5OMjhYdndCbVE?oc=5"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "Ibovespa recua 0,4% hoje; TEND3 cai 12,8% e ONCO3 sobe 9,1% na B3",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFRvM0MtY1l6SEVqaG83V0FqTDUzR282WkVPMEV0dlJ1NnoxU0QtQnhTUW1nb25zOUUyRmtmNjVvOVhicm5jQVoyWkVGVGNNOG1ZcGFOWC00SUZrQ3dqSGh4MVdyQ0JCaDltUHhzTTNDcHlfeTJWSzc0cmRNcXZ5M2Yzejlpbi1vUThLX0lOOFg1V1hiMFZUcE5nTWI?oc=5"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "ONCO3 sobe 10,4% e TEND3 cai 11,2%; Ibovespa avança 0,8% hoje",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2NDeGZrOW9QbnpkSm5ZS3pXbTgxNXRwNzdpejhESXJHN1BsNUsyaDkzMGlLQ0NSOE5ELUt4aWxHLUo2VTlsb1lscEZFRm9RV3JuWWRULUowLTBhMl91bUc1LW4zNkhuQl96dTFyeVd3ZnBJbDl4ODVkdmVXNWJSelBKOVpLQlNEdWQzOUwyZHkyeFhZWWlv?oc=5"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "BRKM3 sobe 2,8% e Ibovespa abre em alta de 0,17% na B3 hoje",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVm5mUFJEOEc4cTBvTUNZTDlKQXhpMXQ4UWxsR3lvbnIxZ1ZXV0RpWUdfNWwzSnlwZW1tNlo3RXN0cDAtWVpOUzZsa2RTemJpb0dDbnZaTmxrSDB4Y1VnY3BZWHpTZEdVZW4xX3J2cWhFMkhRVEhJSmhPT0NPWFpjYjMyVWlJdHJQUjVsclNhUkhnSU1KaWtBWA?oc=5"
+    }
+   ],
+   "score": 30.8
   },
   {
    "id": "73a339cd5d",
@@ -1230,46 +1251,7 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHBhbmZrZzBmamVjTVJITDJiWWN5UmdUekllT21MZDg1NHFGTHk1WURzalpnLWV4QWg0TkpkSmZHOHExWjdFR0F0MVRFd0VUMVdIdzAtajVzRkdjWUh2OF9rRm4yTkFQdThlMHFUVi0wWnFrQlhGSlZQcUV2cFF5aVU2aURKUGF1eTRrVlZ0ZFVoMnhKaVpfNnpiZ0dYekVPakpObW4tRFk2ekF1aFRrSTE2cjhlTHhaUWfSAb8BQVVfeXFMTXlST2FQWHVmQVk2MnR0RzctbTEySlpRRmpyTmlkeVdiMG8yeVEwV1ZkeldyNlVzR1ZTWk9jZ05LV09xSGdfc1otdlo1d0VFbzhRXzBmOXJDMnRUWUthaUFLLUNXdnlnY2pkLVFhUUJDRlpWWFB4YTBaeDhFYXVHaUFXVXZLVmd0cjBZUkNIbVdITFFZaVpfd2VFSk95VDRuNUdPVlVpZG1PU2MwTlc0ZW9iYk92SW9mbnFlNEliMFk?oc=5"
     }
    ],
-   "score": 30.9
-  },
-  {
-   "id": "763e5f811f",
-   "titulo": "Dólar opera em alta nesta quinta (5/11) após manutenção da Selic",
-   "url": "https://www.metropoles.com/brasil/dolar-nesta-quinta-5-11",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-11-05T17:15:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+opera+alta+nesta+quinta+ap%C3%B3s+manuten%C3%A7%C3%A3o+Selic",
-   "veiculos": 11,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Dólar hoje recua com repercussão da manutenção da Selic",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDc0NV9GLUp0QzVnbWJ5VjJWX25rcFhSMWVrMEc0eEdhbUJuVHR4bjRpYVdESGhCQkgzQUNHUmdobTlDSHJiZ05LRVFZYmtVRE9keUlTXzBOWk5wZmdoYXZ0WVR5dXBBYTVCcFVnbGFUU3ZrZmJOSzVoNWtBZ1NIb3dZWk9MVmd2ekI5cXZUbXNPQ2VReUFxel9zTHHSAaIBQVVfeXFMUEY4WnJwZW82U0lQVXNEaEswRjU2RDBHdW9udWZZbXFfdk5TZEloRVVId1ltdjdpbGJkWnpVS29SYkVMWTNkeDdKNGNWTWZjZThKdUxkWUhZeDh5S21hek9KY2N3Y2RiOTNOdUU5QW9PaTlERDVvb2wyTHBtT05EcW1QOFRpYVRMa094Q2lUUFVXRDRCdWpTb3FDS19uS0NGQWln?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Dólar hoje recua com repercussão da manutenção da Selic",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDc0NV9GLUp0QzVnbWJ5VjJWX25rcFhSMWVrMEc0eEdhbUJuVHR4bjRpYVdESGhCQkgzQUNHUmdobTlDSHJiZ05LRVFZYmtVRE9keUlTXzBOWk5wZmdoYXZ0WVR5dXBBYTVCcFVnbGFUU3ZrZmJOSzVoNWtBZ1NIb3dZWk9MVmd2ekI5cXZUbXNPQ2VReUFxel9zTHHSAaIBQVVfeXFMUEY4WnJwZW82U0lQVXNEaEswRjU2RDBHdW9udWZZbXFfdk5TZEloRVVId1ltdjdpbGJkWnpVS29SYkVMWTNkeDdKNGNWTWZjZThKdUxkWUhZeDh5S21hek9KY2N3Y2RiOTNOdUU5QW9PaTlERDVvb2wyTHBtT05EcW1QOFRpYVRMa094Q2lUUFVXRDRCdWpTb3FDS19uS0NGQWln?oc=5"
-    },
-    {
-     "veiculo": "Portal do Agronegócio",
-     "titulo": "Dólar hoje oscila perto de R$ 5,45 após Copom manter Selic em 13,75%",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmhPdEdrVGp0bmF1ZmhteGlnLTlZd3ptV295QTB6NXJUakhzTWxXMHEzc0JKWHByOThPV0VNS3Ewa3g4M2dMS2FSYmkyQU8wTUdRWTZ6TGRXN3JXenB2dkhZZE5reVoydzhiUXpLSlhuVlhkOC1zWWk3RzVHdnBXVDQ1aUl6bk9YbkllUS1aSFRvZnd4Y25nR1ZBcDN3eVQzUUJuVDVqcFBwN3BDRkJ6a3lzMzEwZ2VVMW5MeWpCZm9IZi1rcmRuRVZDSjJGbDVlQWM4cUdlb1dSdw?oc=5"
-    },
-    {
-     "veiculo": "Portal do Agronegócio",
-     "titulo": "Dólar hoje oscila perto de R$ 5,45 após Copom manter Selic em 13,75%",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmhPdEdrVGp0bmF1ZmhteGlnLTlZd3ptV295QTB6NXJUakhzTWxXMHEzc0JKWHByOThPV0VNS3Ewa3g4M2dMS2FSYmkyQU8wTUdRWTZ6TGRXN3JXenB2dkhZZE5reVoydzhiUXpLSlhuVlhkOC1zWWk3RzVHdnBXVDQ1aUl6bk9YbkllUS1aSFRvZnd4Y25nR1ZBcDN3eVQzUUJuVDVqcFBwN3BDRkJ6a3lzMzEwZ2VVMW5MeWpCZm9IZi1rcmRuRVZDSjJGbDVlQWM4cUdlb1dSdw?oc=5"
-    }
-   ],
-   "score": 30.7
+   "score": 30.8
   },
   {
    "id": "9d3f384d03",
@@ -1349,35 +1331,35 @@
    "score": 30.1,
    "video_url": "https://www.youtube.com/watch?v=BiKtXcENqZk",
    "video_canal": "SBT News",
-   "video_por_hora": 1417,
-   "video_acima_mediana": 1.5,
+   "video_por_hora": 1415,
+   "video_acima_mediana": 1.4,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Brasileira reeleita nos EUA diz que ações do ICE influenciaram eleições | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=BiKtXcENqZk",
-     "por_hora": 1417
+     "por_hora": 1415
     },
     {
      "canal": "SBT News",
      "titulo": "Brasileira reeleita nos EUA diz ver “muita esperança” na vitória dos democratas | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=0ImqG5LqGGQ",
-     "por_hora": 836
+     "por_hora": 833
     },
     {
      "canal": "SBT News",
      "titulo": "Brasileira reeleita nos EUA diz que ações do ICE influenciaram eleições | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=nRzUMITjQ5I",
-     "por_hora": 572
+     "por_hora": 562
     }
    ]
   },
   {
-   "id": "27729d02f5",
-   "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=Gx-id8y0WE8",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-05T15:24:38+00:00",
+   "id": "17c1796bce",
+   "titulo": "Produção da indústria recua 0,8% em setembro; 4ª queda em cinco meses",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/producao-da-industria-recua-08-em-setembro-4a-queda-em-cinco-meses",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-05T15:04:00-03:00",
    "temas": [
     "economia",
     "mercado",
@@ -1385,44 +1367,37 @@
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Imposto+pecado+Governo+define+al%C3%ADquotas+prepara+transi%C3%A7%C3%A3o+InfoMoney+News",
-   "veiculos": 2,
+   "busca_video": "https://www.youtube.com/results?search_query=Produ%C3%A7%C3%A3o+ind%C3%BAstria+recua+0%2C8%25+setembro+queda+cinco+meses",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "GloboNews",
-     "titulo": "'Imposto do pecado' terá período de transição",
-     "url": "https://www.youtube.com/watch?v=LrRSz9e7YCA"
+     "veiculo": "Folha",
+     "titulo": "Produção industrial no Brasil recua mais do que o esperado em setembro",
+     "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468030"
     },
     {
-     "veiculo": "InfoMoney",
-     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y"
+     "veiculo": "Record News",
+     "titulo": "Produção industrial tem queda de 0,8% em setembro",
+     "url": "https://www.youtube.com/watch?v=APOC8pmyuTM"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Indústrias extrativas sobem 1,7% em setembro e evitam queda maior da produção industrial",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/05/industrias-extrativas-sobem-17percent-em-setembro-e-evitam-queda-maior-da-producao-industrial.ghtml"
     }
    ],
-   "score": 29.9,
-   "video_url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 2295,
-   "video_acima_mediana": 12.9,
+   "score": 30.0,
+   "video_url": "https://www.youtube.com/watch?v=APOC8pmyuTM",
+   "video_canal": "Record News",
+   "video_por_hora": 31,
+   "video_acima_mediana": 0.4,
    "videos": [
     {
-     "canal": "InfoMoney",
-     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y",
-     "por_hora": 2295
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=Gx-id8y0WE8",
-     "por_hora": 815
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "'Imposto do pecado' terá período de transição",
-     "url": "https://www.youtube.com/watch?v=LrRSz9e7YCA",
-     "por_hora": 365
+     "canal": "Record News",
+     "titulo": "Produção industrial tem queda de 0,8% em setembro",
+     "url": "https://www.youtube.com/watch?v=APOC8pmyuTM",
+     "por_hora": 31
     }
    ]
   },
@@ -1442,76 +1417,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 29.9
-  },
-  {
-   "id": "cfee101345",
-   "titulo": "Durigan diz que é preciso dar condições para a queda dos juros",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-diz-que-e-preciso-dar-condicoes-para-queda-dos-juros",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-11-05T17:34:00+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Durigan+diz+que+preciso+dar+condi%C3%A7%C3%B5es+para+queda+dos",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha PE",
-     "titulo": "Durigan diz que é preciso dar condições para a queda dos juros",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObExyOWlUbW1VMHY2QV9KTzJmN1RlNzlOdnNVSzFSclN2dnBGbEtpeXRWVVExeTJxR0oxTWNOUUJMXzBBY0lkZ2YtMjJ3Q3U3VGgyN3Y1Vm9CTFlnbWltVGN5Q05jc3JtWHhsbFNQdURGT1VmTlo3dXM5RDZxZkZGMWtiUHZ0LXVnVUpVa25TQ2VXWnlqZlFvMkVpNDVuS0htdU1iMjVIZ190d9IBrgFBVV95cUxPSW5PXzdvT0NLNmthVmloT1BjQ1d2VkVXd1hrUUp4U0xkUVNmYTE4UXRleGNGWkdzeGhvZ21vRkdxWFc3bHE4MWxCYzRlMm9aRXQ0X3QtYjNSRVVEWDJMQ1hzLU1WM1JSV0M1WFJUUkoxVzVIUDdNR0JQYldoSUxDTkhHWmxTMTFiSjRkNGF6LVBQTm1EXzZpa3lqaEwydnA2a0owRjVfcnJYelpMeEE?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Durigan diz que governo federal dará condições ‘estruturais’ para reduzir taxa de juros",
-     "url": "https://valor.globo.com/financas/noticia/2026/11/05/durigan-diz-que-o-governo-federal-dar-condies-estruturais-para-reduzir-a-taxa-de-juros.ghtml"
-    }
-   ],
    "score": 29.8
-  },
-  {
-   "id": "1f037c5bde",
-   "titulo": "Reunião do Copom após eleições testa Galípolo e independência do BC",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzE4WG9Ub0MzTUE0TFViVUlpaVIyVUJINkJ6MDBYTVNRSHZ6aHBxMzYyZUh6T1JNRGlOWndxMHdYNHFUa1E2NzdiZnBva0JIV0FYdUhJb0ZacVppcjAwZm1relJrSGpsUjVtZjViU1A0ZHZGREQybmlmVEFQUko1N3R2b3pxQ0tVU1ZMczlWcVlWQ21HRzZVbmZNdzBMZ0ZRUVkxbW1DUUZBSUF0VVdSOW9IYXZlek5vTzJXRVRTdUFNamdCaW1rWmcteFZZdUxD0gHWAUFVX3lxTE5uQnJNWlduWi1EazVHYWV5dzFXRm9EX1R3ZXFOcURmSDQ1RUhrb3AwMWI4eEY4MkVxdldHY3ZOSENBMDd2bTB3eVRvY1pGYVV5cDd5dXJ3Mm9scl9FSGVjLXpmaHFkM05aazUxZnRIMjladnY0eFFCRXhWSENleVpURW5ONXJyRUNfRUhScFZnNHk3Q0t2bllvSzZnaDVQWTlsUjQ2ZnpNSmNCRmZsbXJ1MTRMWEhKMndwZ1VOaHFWRDR5cDBYbDhHNm1LZU5vQkRiTFU5dXc?oc=5",
-   "veiculo": "Correio Braziliense",
-   "publicado": "2026-11-05T17:14:25+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Reuni%C3%A3o+Copom+ap%C3%B3s+elei%C3%A7%C3%B5es+testa+Gal%C3%ADpolo+independ%C3%AAncia",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Folha PE",
-     "titulo": "Galípolo fica fora de reunião de Lula com economistas; silêncio do Copom seria motivo",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWZzNmpHWVcyQUdfMkVXdndGMnNuWTl3NVFheXE4YXZKWC1BUnBvYnpQTWVwLTIzMFlHZlNpRUZhZTZoc1poUTV2ZWZGQXJHblAxRTI5aVg0ZFI0U1ZnclgxS1cya2Zvb3M2a25CdElXbmljSHdVWW5DY05UM3JkaUM0b2VnTmVtellmdWJvcEFGa3N1bTVCdXlGODhUQ2JFcjVadk1ZMWJzdG5RbnfSAbIBQVVfeXFMT1NqN2lCYm0xZWE2dEVyTlJ5X0tCelF5RjRsUGtYRE5HNzJGb3Q5UjJ4LUt2UzQ4LWxJRWx5V0htX2FZcWFnNkszV0x1T0NtSVpiTjJ0Y085UjNxclhyX0J4bnZwdUFjODFVdlR2X2tjRkptZHZ4eHQtOTRTNkNFUGNBRXBMOVdsX1BrdHhUY0hoUExPdjNQclZuZjY1S2RTdGlubHJPbWw1RWRKamdsWnhJQQ?oc=5"
-    },
-    {
-     "veiculo": "SpaceMoney",
-     "titulo": "Silêncio do Copom afasta Galípolo de reunião com Lula",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU5ybENBcHJ6WVFKY2VPR0VTS1ZBN2x2R0tRSTY3a3dGVmpYT09aMXdEVXA0aXFnN1YyYzBScFgyalB3bGNibDhFb0xvTlUzUGlGUW5hcFVNem9ySXlNT2JSODhxRmJ3YnJUQ2dJa0UydHpsN1RCakVwMkNyZmhYTWhHVGdXNllhdElJS3hn?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Auxiliares atribuem ausência de Galípolo em reunião com Lula a silêncio do Copom",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjN1UjZlTjZ0cE9wWDN0eDJtMEtzTVY3Z2NZV2dIblhaQ2UtUm8xd09wdi1IY0tGekVNTW04M2RSM3FRcktDSV9rWDlpVHNPT0FjUW1sYmEyWkxCa0pidHF2Nm9hbXZtTklrZXItQlNXeGNBb1pqYXRHdHNTQlVhTVJMc0ctdURjbE9ZTllwSjRHYjZFQktHbzQyU2ZqRFJ2WFEtaHE4QVlMVUZEMW1lVFpodUpnTVdUQ3FR0gHAAUFVX3lxTE5JLWlUc1VmZlJnZkh4d0cwR1lGZVFpNUJ1VmxkNTJlUlNJUG9TaFctYV92MVVaVm1ZYVl2QUFsanZxYTFEOTM5OV83NURlZ21Lc19xcWhZRk1xSThvS0wzMWRwUng2cVpiY0x1UkI3Q280OG9WcWRFOGktT0lHbzliaTJsNGFXT0xjSkxxU0tJcHJSejhFbWs2SENONjQyOGszaUp3Q1I4WTRqNTRaQXMtWXY1bU5DR1lQOXZ4S1ltZg?oc=5"
-    },
-    {
-     "veiculo": "O GLOBO",
-     "titulo": "Galípolo fica fora de reunião de Lula com economistas; auxiliares dizem que motivo foi período de silêncio do Copom",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUWFFU0ZJVGZON3Z2RDlnRGJBOFJZSlVSUjZkOW5HTzV2SDlRVG5ITHpEcDFhQmQ4OEdFa2h3SU5feEtUb05mWlJLaW5jcUlvM0xmYWZnTmFtZjRUYjhqZHQwTkJiSEhrTVRyRXNHN1RIRDNfZzVoU1BRSHVXYW9SVDh3cnJwZlRxWWVCTEtLUHN4cGlLNkpVdTBCeUJWTnE5NGZaWi1FMmNET1hGR3RjMnc0QWdrVkJ6UTluaXlHN0lQZVR4dE5FSVJLM2JfLXZSVzAyb0h4Z3VMWDBnbUZ5cDRpZ2p3dmtFRHNIR1QwUkdubzZMQ2JESnZYSDI5OVFTMEJV0gGSAkFVX3lxTE1BNkU0ZTJCdllqRWgxWkR0b0VGcUV4TF9zclNfQzUwUUk0RHNucF8wclU1Tzk5WEd3VHozbnhlc1VITFdIMDladDl4OXhNYWtDc2Q3WU9DZnlaay1ySnJBMDhEWVlzdzlNMnZBT3FjelZGQnMwOG5Oa3VtRGIzSjVDemFqbDh5RndrcE5OSk5oLVRsWXcydFVkeGlnZ0F3OFk1eDRtV1pNSVZMRmlkOExqbkJ6VGlhVWpzQ052TW9sVHVkSmFQQ3d1ZEUyM09wWDRsYWJ2SHc3OHJKZVlvWFBibVNMb01HV2ZvT2Q1V0tEN2c2TlR6LUJMUTRiMTM4SnBHTzBBLURMT084M0RQYTR6NXc?oc=5"
-    }
-   ],
-   "score": 29.7
   },
   {
    "id": "d2d86e6568",
@@ -1530,17 +1436,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 29.5,
+   "score": 29.3,
    "video_url": "https://www.youtube.com/watch?v=vxkWPK2Nv6Q",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 7822,
-   "video_acima_mediana": 24.1,
+   "video_por_hora": 7500,
+   "video_acima_mediana": 21.4,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Lula fará pronunciamento com foco na estabilidade fiscal | BORA BRASIL - 05/11/2026",
      "url": "https://www.youtube.com/watch?v=vxkWPK2Nv6Q",
-     "por_hora": 7822
+     "por_hora": 7500
     }
    ]
   },
@@ -1583,17 +1489,17 @@
      "url": "https://g1.globo.com/economia/noticia/2026/11/04/governo-edita-medida-provisoria-que-define-aliquotas-do-imposto-do-pecado.ghtml"
     }
    ],
-   "score": 29.2,
+   "score": 29.1,
    "video_url": "https://www.youtube.com/watch?v=V4r0dpwhuMM",
    "video_canal": "SBT News",
-   "video_por_hora": 971,
-   "video_acima_mediana": 1.1,
+   "video_por_hora": 1029,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Governo define regras do \"imposto do pecado\"; veja o que muda | #NewsPrimeiraEdição",
      "url": "https://www.youtube.com/watch?v=V4r0dpwhuMM",
-     "por_hora": 971
+     "por_hora": 1029
     },
     {
      "canal": "SBT News",
@@ -1626,83 +1532,60 @@
      "url": "https://www.youtube.com/watch?v=iHgc53DT63g"
     }
    ],
-   "score": 29.0,
+   "score": 28.9,
    "video_url": "https://www.youtube.com/watch?v=iHgc53DT63g",
    "video_canal": "MyNews",
-   "video_por_hora": 1903,
-   "video_acima_mediana": 13.9,
+   "video_por_hora": 1994,
+   "video_acima_mediana": 14.7,
    "videos": [
     {
      "canal": "MyNews",
      "titulo": "QUEM COMANDA A FAZENDA? O DESAFIO DOS JUROS E DAS CONTAS PÚBLICAS NO GOVERNO LULA 4",
      "url": "https://www.youtube.com/watch?v=iHgc53DT63g",
-     "por_hora": 1903
+     "por_hora": 1994
     },
     {
      "canal": "GloboNews",
      "titulo": "Novo governo Lula terá desafio para equilibrar contas públicas | Em Ponto",
      "url": "https://www.youtube.com/watch?v=GTykmzxQhIc",
-     "por_hora": 606
+     "por_hora": 712
     }
    ]
   },
   {
-   "id": "77a55f7bc1",
-   "titulo": "Lula convoca economistas para discutir crise econômica após disparada do dólar e queda da Bolsa",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM3VaekVndV9WX2ZXZ09UbjR2MnFHU2pTajVvSEVhUzZPa2FSX1hxT28yN1d2dE01TXRscHdBcFpNSnhZVVlHYmdjbWphM0F1VWJOSTloTGJScjYzeXJoNFZEQ2NzcDZ3UVdpMmR4d01iV01XVWw5bGlTbXgzVkg2VnZYV2szYWFDOTBpZWtDcDlSaGl0U1ZsVVJ5bXFLdzJ2MjlwU0VjNVFaTHRBY1pZYWYtU1pJMlRQeThaY25R?oc=5",
-   "veiculo": "MZ Notícia",
-   "publicado": "2026-11-05T16:58:08+00:00",
+   "id": "cf6b3e848c",
+   "titulo": "Eleição nos EUA tem celebração de apoiadores de Lula e críticas de Nikolas a Janja",
+   "url": "https://www.youtube.com/watch?v=5WicE6qyA9Y",
+   "veiculo": "UOL",
+   "publicado": "2026-11-05T15:07:58.441536+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+convoca+economistas+para+discutir+crise+econ%C3%B4mica+ap%C3%B3s+disparada",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Elei%C3%A7%C3%A3o+nos+EUA+tem+celebra%C3%A7%C3%A3o+apoiadores+Lula+cr%C3%ADticas+Nikolas",
+   "veiculos": 2,
    "rotina": false,
-   "outras": [],
-   "score": 28.6
-  },
-  {
-   "id": "593ddf7ac7",
-   "titulo": "Ibovespa tem leve alta com pausa na Selic; 5 coisas para saber antes de investir hoje (5)",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GRlp1SlN6b2xiOGd4X2dyNW5EdnByYjBqN21tVlM2UGgwSHhnLWpuR0xfc2RsbHZ0V090MnFFTUpzbExhZy1UZ2xUZnNRWG11ellDSF9rc0JyTmFZdU93WGZOMElfcUg5TUNwZFR3?oc=5",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-05T14:30:41+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+tem+leve+alta+com+pausa+Selic+coisas+para",
-   "veiculos": 8,
-   "rotina": true,
    "outras": [
     {
-     "veiculo": "Revista Oeste",
-     "titulo": "Dólar cai depois de BC manter juros inalterados; Ibovespa opera em alta",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFd4NExpSHpKenFNbzJrUVlycEdnS19fRUJETGxjV1YzdUdvbWNZTEluZVp1Z3lTWUR3V0ctSzZiazNQekFoZWVQQjZqeUllTXpqWXVQeGc4SlFxM0pzQmIwUXoyYTFkWjVTeDloWTh3UVdtZDZxNTNLOGlUOHZ2bHZ5VHJObmwtOG9tQjh6UnBfZUFEQmc1YTU2RFlhN1ZkX09TdHRZSk0?oc=5"
-    },
-    {
-     "veiculo": "Vero Notícias",
-     "titulo": "Ibovespa abre em alta após BC manter Selic em 13,75%",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWTUwRVlTMjZrdXBkVTFoc2kwNTJPZzM3ZVI4QlpkM0JzMDdOaC1CcEZSXzU4QXREMWlRRDZOTDlQVG5EZnFwaGxpaGlBc1JkSmc0b084cDhnSGdYc05MbnU3RUV5NF8tbUF0VHNqaUxuSGhWSTlfMTB4WjBRZ2ZTNk1SZGsxYjZUaExsR3ZR?oc=5"
-    },
-    {
-     "veiculo": "Portal VV8",
-     "titulo": "Ibovespa abre em leve alta nesta quinta-feira após decisão do Copom sobre taxa de juros",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE5UVnRZQ2dycExvZEtZcVlTeW1lNnlFUTE2SE43MnllbGhwT0VabUdnQmVNMVU0N0dDTUtESTVnYy1uVlZzYTNvMHFuaHVkQ0ZISE01WXd6S3BST0lkd1c5U0VzMzF0RUNwUmRCckoyaGhPLUVfTl9ITTBnR0lOVEVpekdIOGFzVFBWVExiemMyQmZqdU82WEQ2dE9WSHRTQVNoRFZxYXFqNW5XWklWRTlHQzVmVEZSMnRyeXVsb1V5ZWJq?oc=5"
-    },
-    {
-     "veiculo": "Notícias Agrícolas",
-     "titulo": "Ibovespa tem alta modesta na abertura em meio a balanços após manutenção da Selic",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ0VuX2Z6UVF3NWhlY2pSOHpxVXdRN2RXVFJVTkRjUm5za1NnYXFSMDJnNW50OS1DWFZGMVZGVzZBUXFGQ1dsX3VuQmJIU1Y5UTZMOW5ZRUozZ3JkRXZFdVBRZk5DUEtWNUdoSTB5MHEwMlBtU3MzbXUtQVJTSlRVczA0RkxnRWVyUEREQWZvT1ZfLVNudmZpNXpIT01ZSm1xVDNWdHZoXzZpWDFES2xVZUVHNE1ZUDNPUHZwQURjWVYyck9uVU9zN3VwSkd5MXNWcC1NbXBrTkl6MnVmbkpXaEpuTDNWMThENXgxcTNjSERCcTTSAfMBQVVfeXFMUENFbl9melFRdzVoZWNqUjh6cVV3UTdkV1RSVU5EY1Juc2tTZ2FxUjAyZzVudDktQ1hWRjFWRlc2QVFxRkNXbF91bkJiSFNWOVE2TDluWUVKM2dyZEV2RXVQUWZOQ1BLVjVHaEkweTBxMDJQbVNzM211LUFSU0pUVXMwNEZMZ0VlclBEREFmb09WXy1TbnZmaTV6SE9NWUptcVQzVnR2aF82aVgxREtsVWVFRzRNWVAzT1B2cEFEY1lWMnJPblVPczd1cEpHeTFzVnAtTW1wa05JejJ1Zm5KV2hKbkwzVjE4RDV4MXEzY0hEQnE0?oc=5"
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Eleição nos EUA com revés de Trump tem celebração de lulistas e crítica de Nikolas a Janja",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXUyelFhbHJDMTNYUzhoSnlycVlrTFN4eml1T29KTElodXZ4WUkxbFVOTXotNERWN3V4WlV0akVaRVY2WG9WU0FjUlVSY0xTV2JtcS1seFlUN0w2Z3JiaWxFM2IzWi01bHlGRzhXNTQxOVVwbmptQ0hqd1ppRlQ2dHVSZ1QxVmRWb3EyallxdHVuWFlBQV9nbDYzMGVYZWpaR0IyZHVCWF81dDdzcml3RGFrbFF4SHRRM1pNdHJmd0l2d2NJbFNxTDdQb1ZrVW5nTU9TSkdGUQ?oc=5"
     }
    ],
-   "score": 28.6
+   "score": 28.4,
+   "video_url": "https://www.youtube.com/watch?v=5WicE6qyA9Y",
+   "video_canal": "UOL",
+   "video_por_hora": 16667,
+   "video_acima_mediana": 8.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Eleição nos EUA tem celebração de apoiadores de Lula e críticas de Nikolas a Janja",
+     "url": "https://www.youtube.com/watch?v=5WicE6qyA9Y",
+     "por_hora": 16667
+    }
+   ]
   },
   {
    "id": "fab687a0ba",
@@ -1736,7 +1619,7 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmZmQWFCeHVxd0ljWmF6XzJ4cUdaZWZ3blZzTGVKdVV4UnJKR05MeWxLbXliY1FNSTItdEhzWW9PTXlGMGIwUTd4Y3ZBN0JlTURIdzdSZzhPdWVuVXkyQk03MVg5dDlWWGJUXzJFUjF0UXBWN0RLV1pYZE8zZ2VULVdzZk5DT0l10gGXAUFVX3lxTE55X0NMclp6YTM4NzBKYzZiSkgxRUUwQjRSdHZIS2hSQVltRTdkRncwRnVqTHVhQU1LZ0RWZFZwcURQQ2dqMWNITkRlSHpqR1EwekN2cWJyYV90NTdGTjRaU0xtNVBnWDhzdW4xcEZoc0podng1VklwbEItY0hpcFBJRU4tWE8tbWtlcklRQml4MmMwcnJUOUE?oc=5"
     }
    ],
-   "score": 28.5
+   "score": 28.4
   },
   {
    "id": "e00582fe1b",
@@ -1758,14 +1641,14 @@
    "score": 28.2,
    "video_url": "https://www.youtube.com/watch?v=JYQqwMgoQXI",
    "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 862,
-   "video_acima_mediana": 56.9,
+   "video_por_hora": 882,
+   "video_acima_mediana": 16.5,
    "videos": [
     {
      "canal": "Câmara dos Deputados",
      "titulo": "Plano Nacional Soberano - Comissão Mista da Medida Provisória n° 1379 - 05/11/26",
      "url": "https://www.youtube.com/watch?v=JYQqwMgoQXI",
-     "por_hora": 862
+     "por_hora": 882
     }
    ]
   },
@@ -1795,44 +1678,129 @@
    "score": 27.9
   },
   {
-   "id": "f09e8242f3",
-   "titulo": "Ibovespa avança mais de 1% com melhora global após eleições nos EUA",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHNrZFVpdGczV1NUdm9SZ2djZS1VTzFRaWx1Wlg3WlVPanJpUnJlaVJ1YlFNcnpJSWNhaFA4UmZLV0VxcXM0N1p4bWZFdGtLZGdGcUkwYmljYXZOSFJVV1FhQTJLQXhyVlhkMlpZaVJ0R1R1ejM1TTNnVzJEU1V4UkdZUTRZaF9qUnJlT25UMlU4ekFfa095a05CMnZhSHlKSXdwMWpLQnpJN3djQmhtUm4wMWk4QVRTZE5JQjFsc2V1TUtfaTladVVkRTlwQ3dQ?oc=5",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-11-05T14:58:23+00:00",
+   "id": "af8665e2eb",
+   "titulo": "Mercado olha Copom, fiscal, fala de Flávio e rotação no exterior | MINUTO TOURO DE OURO - 05/11/26",
+   "url": "https://www.youtube.com/watch?v=2oS5fcUkvRA",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+olha+Copom%2C+fiscal%2C+fala+Fl%C3%A1vio+rota%C3%A7%C3%A3o+exterior+MINUTO",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 27.5,
+   "video_url": "https://www.youtube.com/watch?v=2oS5fcUkvRA",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 5000,
+   "video_acima_mediana": 7.2,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Mercado olha Copom, fiscal, fala de Flávio e rotação no exterior | MINUTO TOURO DE OURO - 05/11/26",
+     "url": "https://www.youtube.com/watch?v=2oS5fcUkvRA",
+     "por_hora": 5000
+    }
+   ]
+  },
+  {
+   "id": "6f00666ad2",
+   "titulo": "Ação do Mercado Livre desaba 13% em NY após lucro abaixo do esperado",
+   "url": "https://www.moneytimes.com.br/acao-do-mercado-livre-desaba-13-em-ny-apos-lucro-abaixo-do-esperado-no-3o-tri/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-05T16:42:34+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+avan%C3%A7a+mais+com+melhora+global+ap%C3%B3s+elei%C3%A7%C3%B5es+nos",
-   "veiculos": 6,
-   "rotina": true,
+   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%A3o+Mercado+Livre+desaba+13%25+ap%C3%B3s+lucro+abaixo+esperado",
+   "veiculos": 2,
+   "rotina": false,
    "outras": [
     {
-     "veiculo": "Folha de Campo Grande -",
-     "titulo": "Ibovespa avança aos 168,7 mil pontos e dólar é cotado a R$ 5,43 -",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkxYZzQ2WFprZEtOQTlELUMwa2dfdUNiWnVPdlJkTDlxSk5tNzdLazY1cFJRZkVaMEJ2YndXMjFMM29xNk9TeXJsYkU3MnloYzVaMUZMX3dwQ3NXdGdEajk3MEY0eU53aWt4NWpTUnUxTy1vYUJkczNFdjdLOVp1aEFsZFA2NVZmcjJUS1J3UDcwRjJLeXd6T3RMX1JQLTMyNkx6dTBB?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Ibovespa vira para alta aos 167,7 mil pontos com Petrobras; dólar sobe",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEtaME85VHgyLTJHMDF2cS1kZWlweE40dW1aMEF5NFhDWWVjdUdpWlRGeXMxa2xOLVctdVBOZ1loeGdGeDNFYm9DSXZCeWpCUjZiV1FCSDlnQXM3eWI1eWdOSkhYQjBCdnNSeFh2bTB1ZU1mTnVoLUY1STBlZXpqRUJ6R0FQWk9xSC1UTkR5QnRpaVZaR1NGc1RqYWFySm5XZXJB?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Ibovespa vira para alta aos 167,7 mil pontos com Petrobras; dólar sobe",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEtaME85VHgyLTJHMDF2cS1kZWlweE40dW1aMEF5NFhDWWVjdUdpWlRGeXMxa2xOLVctdVBOZ1loeGdGeDNFYm9DSXZCeWpCUjZiV1FCSDlnQXM3eWI1eWdOSkhYQjBCdnNSeFh2bTB1ZU1mTnVoLUY1STBlZXpqRUJ6R0FQWk9xSC1UTkR5QnRpaVZaR1NGc1RqYWFySm5XZXJB?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "Ibovespa vira para alta aos 167,7 mil pontos com Petrobras; dólar sobe",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEtaME85VHgyLTJHMDF2cS1kZWlweE40dW1aMEF5NFhDWWVjdUdpWlRGeXMxa2xOLVctdVBOZ1loeGdGeDNFYm9DSXZCeWpCUjZiV1FCSDlnQXM3eWI1eWdOSkhYQjBCdnNSeFh2bTB1ZU1mTnVoLUY1STBlZXpqRUJ6R0FQWk9xSC1UTkR5QnRpaVZaR1NGc1RqYWFySm5XZXJB?oc=5"
+     "veiculo": "CNN Brasil",
+     "titulo": "Mercado Livre desaba 13% em NY após lucro abaixo do esperado no 3º tri",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-livre-desaba-13-em-ny-apos-lucro-abaixo-do-esperado-no-3o-tri/"
     }
    ],
-   "score": 27.8
+   "score": 27.4
+  },
+  {
+   "id": "368f90dd2a",
+   "titulo": "Wall Street em queda livre? Nasdaq tomba 5% com temor de regulação de IA após vitória dos democratas",
+   "url": "https://www.moneytimes.com.br/wall-street-em-queda-livre-nasdaq-tomba-5-com-regulacao-de-ia-em-foco/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-05T16:38:25+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Wall+Street+queda+livre+Nasdaq+tomba+com+temor+regula%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 27.4
+  },
+  {
+   "id": "b7de1e7f0b",
+   "titulo": "Especialista explica o que muda com a PEC da segurança",
+   "url": "https://www.youtube.com/watch?v=if7rlu5ODpM",
+   "veiculo": "Record News",
+   "publicado": "2026-11-05T15:00:31+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Especialista+explica+que+muda+com+PEC+seguran%C3%A7a",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Instagram",
+     "titulo": "A PEC da Segurança Pública, aprovada pelo Senado na terça-feira (3/11), prevê que o Congresso Nacional poderá suspender atos normativos do Conselho Nacional de Justiça (CNJ) e do Conselho Nacional do Ministério Público (CNMP) que ultrapassem o",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLNm9RdmI4QlJoNEhGZm5WWFpjUEFCM2lkenctSk4zeUJCN05YZ3VZa05yb1pSYWlVZnU4eTJ2cWN6ODRDMjJ3MDRpN1Z6V3Y0SEE?oc=5"
+    },
+    {
+     "veiculo": "GloboNews",
+     "titulo": "PEC da Segurança: veja o que muda com a proposta aprovada pelo Senado | Em Ponto",
+     "url": "https://www.youtube.com/watch?v=IO-zMyiPuBk"
+    },
+    {
+     "veiculo": "Correio dos Municípios",
+     "titulo": "PEC da Segurança Pública é aprovada no Senado após articulação e trabalho coordenado do Governo Federal",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdWc0VC1kUkdLZlNDc1dvNk1PMy1GdHByWmxVWlRxWW1lZGlxMHR6a0FlQnNQa3RKXzR4TDNRLWFEVkt0c1ZBb2tMNW4zVkJjT3JuYU1kOUswVnM5d0Z3ZW4wdHo5SzdjSUdrLUhSOW9WQUlIYlhNQXk1ci0yS3ZaWjZiY2dpaV91aVFZWTZzR0hsQTQ4SngzdmZVWnRySnhQb3htRUZXRldtSWpwZ1pwbEVoNjhVOFRNVnJlcUVOcjhNek10MklCTE9TY0w1Z3FZQTVPUVdkb0dTWUNQQ1pkbTRrZEVVWjRzTWlUOVY0SThRelY2c2xPb2ZLMm1Xdw?oc=5"
+    }
+   ],
+   "score": 27.1,
+   "video_url": "https://www.youtube.com/watch?v=IO-zMyiPuBk",
+   "video_canal": "GloboNews",
+   "video_por_hora": 1081,
+   "video_acima_mediana": 1.2,
+   "videos": [
+    {
+     "canal": "GloboNews",
+     "titulo": "PEC da Segurança: veja o que muda com a proposta aprovada pelo Senado | Em Ponto",
+     "url": "https://www.youtube.com/watch?v=IO-zMyiPuBk",
+     "por_hora": 1081
+    },
+    {
+     "canal": "Record News",
+     "titulo": "Especialista explica o que muda com a PEC da segurança",
+     "url": "https://www.youtube.com/watch?v=if7rlu5ODpM",
+     "por_hora": 40
+    }
+   ]
   }
  ],
  "falas_e_videos": [
@@ -1850,7 +1818,7 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Setor+produtivo+critica+manuten%C3%A7%C3%A3o+Selic+13%2C75%25+ano",
-   "veiculos": 18,
+   "veiculos": 20,
    "rotina": false,
    "outras": [
     {
@@ -1877,14 +1845,14 @@
    "score": 56.5,
    "video_url": "https://www.youtube.com/watch?v=KlDUgkZtthI",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 383,
-   "video_acima_mediana": 0.5,
+   "video_por_hora": 400,
+   "video_acima_mediana": 0.6,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Banco Central interrompe ciclo de cortes e mantém Selic em 13,75%; Alan Ghani analisa",
      "url": "https://www.youtube.com/watch?v=KlDUgkZtthI",
-     "por_hora": 383
+     "por_hora": 400
     },
     {
      "canal": "SBT News",
@@ -1895,10 +1863,10 @@
    ]
   },
   {
-   "id": "aad009b62d",
-   "titulo": "Lula convoca reunião com Durigan, Alckmin e ex-ministros da Fazenda | BASTIDORES CNN",
-   "url": "https://www.youtube.com/watch?v=ZUB61XsRTL4",
-   "veiculo": "CNN Brasil",
+   "id": "2596cd1983",
+   "titulo": "Ativos locais têm melhora diante de reunião de Lula com economistas",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/05/ativos-locais-tem-melhora-diante-de-reuniao-de-lula-com-economistas.ghtml",
+   "veiculo": "Valor",
    "publicado": "2026-11-05T17:43:00+00:00",
    "temas": [
     "economia",
@@ -1907,8 +1875,8 @@
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+convoca+reuni%C3%A3o+com+Durigan%2C+Alckmin+ministros+Fazenda+BASTIDORES",
-   "veiculos": 16,
+   "busca_video": "https://www.youtube.com/results?search_query=Ativos+locais+t%C3%AAm+melhora+diante+reuni%C3%A3o+Lula+com+economistas",
+   "veiculos": 17,
    "rotina": false,
    "outras": [
     {
@@ -1917,44 +1885,38 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3c0SUJsaWlsTkZUZkQ4WVBLWWRPamUwUGVpTzU4NzB1dVNRbTZHcFdTMzhPMWNld0VobmJ3WVBHWlE5RklrWXRqaVZTYUV2cGJoNDVyVnZvaG5KZllvQ2hPMjc2QnBvYzdyNzdLbElGQ2h4QU1hTkozZzBIOWZEQWxvQXJvbEgxTWlNZkNyWmc1Q1dpTTZIZ0EtWkhWVV9tMWpjQmZXQkZVWVNzSEEwZFhULURhckQzQ0VWd1dJbzJMUQ?oc=5"
     },
     {
+     "veiculo": "CNN Brasil",
+     "titulo": "Lula convoca reunião com Durigan, Alckmin e ex-ministros da Fazenda | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=ZUB61XsRTL4"
+    },
+    {
      "veiculo": "Valor",
      "titulo": "Em reunião com Durigan, Haddad, Mantega, Luciano Coutinho e outros economistas, Lula discute medidas econômicas para o 4º mandato",
      "url": "https://valor.globo.com/brasil/noticia/2026/11/05/reuniao-de-lula-com-economistas-marca-inicio-da-discussao-sobre-agenda-fiscal-do-4o-mandato.ghtml"
     },
     {
-     "veiculo": "UOL",
-     "titulo": "Lula convoca reunião com economistas próximos ao PT e quer ampliar discussão sobre cenário econômico",
-     "url": "https://www.youtube.com/watch?v=8mEY1kap1h8"
-    },
-    {
-     "veiculo": "MundoBA",
-     "titulo": "Lula reúne Haddad, Durigan e Alckmin para discutir dívida pública",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalp2dnVRZ1YwelpIaUQ3LW1KNGZhTjFvTzNFeWZpblBXS0dHMFU4TmdHYnBicHhWbkNSR05DVWpiNVdlc3RvS2hPaHdGUGViVlEwSzk3NzNQWjlIWDdmQ05VZmEyYXJVVlYtZklYc2hJMUY0eWo4YWNjSTJiUzgyWV9hRDNSYVJmSUwwT3lmYkd1c1ZGb0R3bjNIMWtrZw?oc=5"
+     "veiculo": "Extra online",
+     "titulo": "Galípolo fica fora de reunião de Lula com economistas",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzc2aFhMbTlFdTVOYmRLazJzMnEwa1NzZzNpOXRHcVlYMUxJNFVlREZYVWJpcURzdk4xSmt6NUxZa1BQQWhNQmlHSm9ma2dfOGZmbS0tQzIwc01RQmdwRjJ3cjJTSThmUFJySjY0X0tRallIU1J6MDFra0dMQjZyUTNLT1hmUnR0YzNWcHVTSE9FdmluQVg4U1Q5X1lSQWlkakRtaU1aZ2RYNXVV0gG7AUFVX3lxTE4zZlNwcjBNYnF4YWt0bkw4V2dHNElSbGg4aGhoY3dLOE5iemRKYmc5UElKSGhBVkxTMFJjbTU5bkJOODRsNjRmbUJZUDdiZUFnZkdIb05EOG81RTRPRUlpOVlFNmNSS1VMbDBmVG96dF9TM2I2TzJaU1pTM3ltbEZRc2llT0lsMHVwRHNJMThDMmhmeXIyREFENnJXWnQ3ZEJOZHkzR19qT3JvQlJGOHQycUNDMExkUzRqVkE?oc=5"
     }
    ],
-   "score": 50.2,
+   "score": 50.4,
    "video_url": "https://www.youtube.com/watch?v=8mEY1kap1h8",
    "video_canal": "UOL",
-   "video_por_hora": 3300,
-   "video_acima_mediana": 2.6,
+   "video_por_hora": 3950,
+   "video_acima_mediana": 2.0,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Lula convoca reunião com economistas próximos ao PT e quer ampliar discussão sobre cenário econômico",
      "url": "https://www.youtube.com/watch?v=8mEY1kap1h8",
-     "por_hora": 3300
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Lula convoca reunião para discutir avanço da dívida pública | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=kZu6FrauKqA",
-     "por_hora": 3054
+     "por_hora": 3950
     },
     {
      "canal": "CNN Brasil",
      "titulo": "Lula convoca reunião com Durigan, Alckmin e ex-ministros da Fazenda | BASTIDORES CNN",
      "url": "https://www.youtube.com/watch?v=ZUB61XsRTL4",
-     "por_hora": 1436
+     "por_hora": 1167
     }
    ]
   },
@@ -1993,20 +1955,20 @@
     {
      "veiculo": "A Tribuna RJ",
      "titulo": "Banco Central mantém taxa de juros da Selic em 13,75%",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0Rod3kxVGtVWkxLRTlLbS1rMzc3aDEyMm5tTHNHUVpRZHd2Zk8ycWxDYzF5OGp3WVNqaWtKTXBLN3BkZUpTNkZtN0o1RlRrV1hnUFdFWHJsVWxvWDFBMWZtdW1fOUE5LVZ2VjdVYkxqOU5tVmtMMHZSU2FIbUlHd1RIUHVfc1poTkIxUmkwOUFfZVE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDMxaHBnVFYwS2k4ek1HLTI5SU1iSjVUVlVZc3NzWk1qTE1QVml3U2xGN0dKbExLMlpVbkdJejhHcXB6N29uQnl1azRWb1FPYnJmQ2FFRzNZVzJHZkwybVljY25zc2Z3bmRhRXozRmtnS1RSZmhzZEFBTVFJQkNRRHRiN1B1ZzlraVBSWkFn?oc=5"
     }
    ],
    "score": 47.1,
    "video_url": "https://www.youtube.com/watch?v=K7pM-m7G3ko",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 596,
-   "video_acima_mediana": 0.6,
+   "video_por_hora": 702,
+   "video_acima_mediana": 0.8,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Como o mercado está reagindo à decisão do Banco Central sobre os juros? | BASTIDORES CNN",
      "url": "https://www.youtube.com/watch?v=K7pM-m7G3ko",
-     "por_hora": 596
+     "por_hora": 702
     },
     {
      "canal": "InfoMoney",
@@ -2021,9 +1983,10 @@
    "titulo": "Em reunião com ministros, Lula avalia rumos da economia | TEMPO REAL",
    "url": "https://www.youtube.com/watch?v=5VrmoGT5JUs",
    "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-05T17:50:54.884295+00:00",
+   "publicado": "2026-11-05T17:50:13+00:00",
    "temas": [
     "economia",
+    "mercado",
     "politica"
    ],
    "video": true,
@@ -2053,17 +2016,17 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWk4zWl9yQmxkVXFDek1HcXVRVXZZcmo5eWFILUNZcEh6STdVZTVWanJXeUp6RnlFNk5vamNKVXFNb1pPeTkxOXlkSUwxUFhPcVpwYVY2aW01MXo4Zk9jU216Ymp2VWRjMlJYOEp0RlJmZ2JYd1lIWHJTcUN5NF80RERSYjJmMnhVQ29UMzhNVWs5c0ZmNGo0WmxEaHZIZXZySGQyNE9hUnBXWmRBMkRj?oc=5"
     }
    ],
-   "score": 46.0,
+   "score": 46.1,
    "video_url": "https://www.youtube.com/watch?v=5VrmoGT5JUs",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 92,
-   "video_acima_mediana": 0.1,
+   "video_por_hora": 446,
+   "video_acima_mediana": 0.6,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Em reunião com ministros, Lula avalia rumos da economia | TEMPO REAL",
      "url": "https://www.youtube.com/watch?v=5VrmoGT5JUs",
-     "por_hora": 92
+     "por_hora": 446
     }
    ]
   },
@@ -2104,23 +2067,23 @@
      "url": "https://www.youtube.com/watch?v=Abs3wdznJus"
     }
    ],
-   "score": 43.6,
+   "score": 43.0,
    "video_url": "https://www.youtube.com/watch?v=qXz2pW-yl9M",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 7250,
-   "video_acima_mediana": 7.5,
+   "video_por_hora": 6000,
+   "video_acima_mediana": 6.7,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Câmara do Paraguai deve votar sobre impeachment do presidente | LIVE CNN",
      "url": "https://www.youtube.com/watch?v=qXz2pW-yl9M",
-     "por_hora": 7250
+     "por_hora": 6000
     },
     {
      "canal": "SBT News",
      "titulo": "Presidente do Paraguai apresenta renúncia em meio a crise em banco no país | #RadarNews",
      "url": "https://www.youtube.com/watch?v=Abs3wdznJus",
-     "por_hora": 1932
+     "por_hora": 1764
     }
    ]
   },
@@ -2138,7 +2101,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Sa%C3%BAde+projeta+ganhar+espa%C3%A7o+mercado+rem%C3%A9dios+emagrecedores+at%C3%A9+2027",
-   "veiculos": 22,
+   "veiculos": 21,
    "rotina": false,
    "outras": [
     {
@@ -2162,11 +2125,11 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVm1kdUs1cHNROEliU1kzbGo4ZTRib29XVzJsVEVsQ2Fha3U1T2pqRm9SMEd2bHVUaFFiQlg2SE9HdVNOSnRmTGhRMHpqN3p0NTR2czB4bE42dW5JNHpSTDZWLWZ1X0lya0JLWWl5NmFvOW8zWlNrV2ttRHlMNW14bmpIeU9ycjB5RkZhSVBCQm1tRzk2WmowRTBHQ01COVdD?oc=5"
     }
    ],
-   "score": 41.7,
+   "score": 41.6,
    "video_url": "https://www.youtube.com/watch?v=GMLERxmNFyo",
    "video_canal": "Record News",
    "video_por_hora": 74,
-   "video_acima_mediana": 0.9,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
      "canal": "Record News",
@@ -2181,7 +2144,7 @@
    "titulo": "Democratas conquistam Senado e Câmara dos EUA",
    "url": "https://www.youtube.com/watch?v=-F0CU507tow",
    "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-05T11:56:54.884295+00:00",
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -2218,7 +2181,7 @@
    "video_url": "https://www.youtube.com/watch?v=-F0CU507tow",
    "video_canal": "Jovem Pan News",
    "video_por_hora": 7000,
-   "video_acima_mediana": 9.4,
+   "video_acima_mediana": 10.1,
    "videos": [
     {
      "canal": "Jovem Pan News",
@@ -2236,7 +2199,7 @@
      "canal": "SBT News",
      "titulo": "Democratas retomam controle da Câmara e do Senado nos Estados Unidos | #NewsNoite",
      "url": "https://www.youtube.com/watch?v=qm3lnrfHnkM",
-     "por_hora": 313
+     "por_hora": 294
     }
    ]
   },
@@ -2278,73 +2241,93 @@
      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/05/fim-da-escala-6x1-veja-como-denunciar-empresa-que-nao-respeitar-a-nova-jornada.ghtml"
     }
    ],
-   "score": 40.2,
+   "score": 40.4,
    "video_url": "https://www.youtube.com/watch?v=PszFYloDmCA",
    "video_canal": "SBT News",
-   "video_por_hora": 6333,
-   "video_acima_mediana": 6.9,
+   "video_por_hora": 7000,
+   "video_acima_mediana": 6.8,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Fim da escala 6x1 pode ser adiado? Advogado explica ação no STF | #NewsPrimeiraEdição",
      "url": "https://www.youtube.com/watch?v=PszFYloDmCA",
-     "por_hora": 6333
+     "por_hora": 7000
     },
     {
      "canal": "InfoMoney",
      "titulo": "CNC aciona STF para adiar fim da escala 6X1 | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=LuLLvNijhT0",
-     "por_hora": 382
+     "por_hora": 365
     }
    ]
   },
   {
-   "id": "e4fa7cffe7",
-   "titulo": "Pena de prisão para uso de drones sobre presídios é aprovada na Câmara - 05/11/26",
-   "url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
-   "veiculo": "Câmara dos Deputados",
-   "publicado": "2026-11-05T16:58:39+00:00",
+   "id": "03fcc47388",
+   "titulo": "Governo publica MP das alíquotas do Imposto Seletivo para 2027",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-05T15:24:38+00:00",
    "temas": [
+    "economia",
+    "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pena+pris%C3%A3o+para+uso+drones+sobre+pres%C3%ADdios+aprovada+C%C3%A2mara",
-   "veiculos": 9,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+publica+das+al%C3%ADquotas+Imposto+Seletivo+para+2027",
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "RedeTV!",
-     "titulo": "Câmara aprova projeto que criminaliza voos de drones sobre presídios",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbm94bUVodHAyRHVWYmxxUVlxd1Y0VlRzZjlSLUtsTHFPSnp2WV9VMmlNRlZ0TjB2blNORXFlbkZiTmRGZHBnenlNVEI3Wk9UakVJNmlfaFJOSTJTY0UtTkJzaEdBd0h1VkF4dldFVVR5dVdWcmhURW5VeGtWUXVuS2c3TUJXWXRKT2NZSGZrcU9pbW53eEU5VUtLRzBGRVBNVU1NQ25LdkhNemtkbW9yNnA4ZVVVZ9IBzgFBVV95cUxOc0duQnNNOFZfdU1seEFJb25HdnVhaHJOY0Vsd0NUSjNzUHlzT0t5aDNKTXhBSWtxQU1nMTRjdnRNTlktM0czOWxPWVRtcFRrTGROUEdGdGVJUDV5dHZTT2ZBMTdLckIzNk1paDdwT1BteW5QLWhOYzB0bGdwdXZfZ3c2MFJMMFdwUzVRSlUzaGRsZjIxeXNhOWxGREtleWpmcGU5VWd5aDFXYW9ZUEdWb2JaNk5rRFJOOUJTdS1MTHBmV01zOWZ2dVRaU2x6UQ?oc=5"
+     "veiculo": "GloboNews",
+     "titulo": "'Imposto do pecado' terá período de transição",
+     "url": "https://www.youtube.com/watch?v=LrRSz9e7YCA"
     },
     {
-     "veiculo": "Valor Econômico",
-     "titulo": "Câmara aprova pena de até 5 anos para uso não autorizado de drones perto de presídios",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0Q2RGIwVF94Z25MS0lwZWlXbkFSVDlqSVVYMGtyT3NtcHJVMFBBV0FpdVg4YzlWUWh1R1d5dUFXa0IxX1ppSVctVDRfNGcyVktHMTc3RnZqNUV1SjVRSWFtUk15OXpCUC0yT0YtRERzTll3eEhWTWp5a0p5TDBJdnVFTXlRM3FWdmdBM2hBQjVQY2dNZDRsSmo4ZmpxSmFnOGU4dVY3RmpSYnktMndCQkxTZEEySFQ3LTJmZEJpWE5qOGx2VVdBV0VCRFhNbm1rNWpRdkNMcHMwbEcxcmxXNlU3X3rSAeQBQVVfeXFMTWtENkRiMFRfeGduTEtJcGVpV25BUlQ5aklVWDBrck9zbXByVTBQQVdBaXVYOGM5VlFodUdXeXVBV2tCMV9aaUlXLVQ0XzRnMlZLRzE3N0Z2ajVFdUo1UUlhbVJNeTl6QlAtMk9GLUREc05Zd3hIVk1qeWtKeUwwSXZ1RU15UTNxVnZnQTNoQUI1UGNnTWQ0bEpqOGZqcUphZzhlOHVWN0ZqUmJ5LTJ3QkJMU2RBMkhUNy0yZmRCaVhOajhsdlVXQVdFQkRYTW5tazVqUXZDTHBzMGxHMXJsVzZVN196?oc=5"
+     "veiculo": "CNN Brasil",
+     "titulo": "Pequenos produtores de bebidas terão transição no imposto do pecado",
+     "url": "https://www.cnnbrasil.com.br/agro/pequenos-produtores-de-bebidas-terao-transicao-no-imposto-do-pecado/"
     },
     {
-     "veiculo": "Jornal O PODER",
-     "titulo": "Convenção de Hong Kong: Comissão da Câmara aprova projeto sobre reciclagem segura e sustentável de navios",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0hWdGx2WlFhN0hQNzNvQ0Z6dU9FRFZLRmI3YWxEd21EbVJMeWlvd2pvTmcyMVoxa1lCbXFWeEVrZzBjeDhFZ1dKYWN0clJmcVpXckJrRGF6cFgzT3NvVS1fbnRTN0t4dnhnalZqMDM1bzlHU1NXT2dKeDdQeXlmTjB5UUZ2WU4xRmZNMXpfSEVScWJ6b0pqWXZxY3UzMWhwZ2ZYSHJ5MEZ2ZGtzbko0Q2JWOXEyWHYwenFyeEZoWTRNbWk0V0Q5djUyMmpibER1eXNfM0g0cGRpNVQ5M3c?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=Gx-id8y0WE8"
     },
     {
-     "veiculo": "Portal VV8",
-     "titulo": "Câmara aprova projeto que estabelece pena de até 5 anos por sobrevoo de drones em presídios",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEFZbmdTNE9IemNzTUlEcVFBLUNmSVBMZVZkeDZvTjRFNWNnWkFoM1dpRjc1cDBLRDVNbERiX1N0eWp3dzNJNEhMdGRhMFh2SUZPRGtWX2k3M2hqVlNpMVpwZjktUm5ndmRhakNsVW1HMTdFcjdRMTlXMUlfRDZTZFVSNzRlQ1JnYm0xU3B3bm5aWEJlMXZCTnlsV1RjVGEybjl4VldHMHU4LXByUFUtaEJ2WWtxUXV2cndzRUNjTTZrU253c294TW9B?oc=5"
+     "veiculo": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y"
     }
    ],
-   "score": 35.7,
-   "video_url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
-   "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 153,
-   "video_acima_mediana": 10.1,
+   "score": 38.8,
+   "video_url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 2400,
+   "video_acima_mediana": 16.0,
    "videos": [
     {
-     "canal": "Câmara dos Deputados",
-     "titulo": "Pena de prisão para uso de drones sobre presídios é aprovada na Câmara - 05/11/26",
-     "url": "https://www.youtube.com/watch?v=oLCUj48aIfg",
-     "por_hora": 153
+     "canal": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=sZS1DMQVq1Y",
+     "por_hora": 2400
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Imposto do pecado: Governo define alíquotas e prepara transição | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=Gx-id8y0WE8",
+     "por_hora": 789
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "'Imposto do pecado' terá período de transição",
+     "url": "https://www.youtube.com/watch?v=LrRSz9e7YCA",
+     "por_hora": 411
+    },
+    {
+     "canal": "TV Senado",
+     "titulo": "Edição da Manhã: Governo publica MP que fixa alíquotas do imposto seletivo",
+     "url": "https://www.youtube.com/watch?v=OV-dPhvkXXI",
+     "por_hora": 38
     }
    ]
   },
@@ -2386,11 +2369,11 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3B0TkptMEJxWGdWTkJVZlY1RFpPdmQ0VkJ4NTRGdXY3LTBwV1lrTHNSNi1mazNBbTNEXzFMUXZBdUo1R1gyRm5qYjBPNWE3bS12YlVEdGFhT015RktCbGVrZV9FSTRXVV9PbjBYb2ZRclpiVHUyaHh5S1V2ZWhnV080UWdSZlJNczc2RTJ6ZzBHbXUtdlRBVjRUWnNkb0kwdTlWQWhnY9IBrAFBVV95cUxQN0NOMjBrY2d4SzZSVDA0X3p6aFgyckh2cGxNbHYwNlk2Z1NmSE9VSW5oM2lOaWhnUDhBNUMwU2tyU19HaFBIOE5NYy13bUNXQUJYaWl4amJoeHBFMWxrTzV1b2h2Zm45RHppOFVidlRQY0VkS1p0eWhiTlpOQWtqWGsxTHRoSlFwS05LSEI2NnRpTTNZRG5FeV9peW1ObWxFRm5XMEFOam8zX0Zs?oc=5"
     }
    ],
-   "score": 35.5,
+   "score": 35.4,
    "video_url": "https://www.youtube.com/watch?v=dz7vZa0_Y-I",
    "video_canal": "InfoMoney",
    "video_por_hora": 580,
-   "video_acima_mediana": 3.3,
+   "video_acima_mediana": 3.9,
    "videos": [
     {
      "canal": "InfoMoney",
@@ -2401,109 +2384,47 @@
    ]
   },
   {
-   "id": "e237e8c74b",
-   "titulo": "Câmara rejeita impeachment de vice-presidente do Paraguai",
-   "url": "https://www.poder360.com.br/poder-internacional/camara-rejeita-impeachment-de-vice-presidente-do-paraguai/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-05T17:49:44+00:00",
+   "id": "1f570e9d5f",
+   "titulo": "Senado aprova, em 2º turno, PEC da Segurança por 75 a 0 | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=ft9UGxCZN1Y",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-05T17:34:43+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=C%C3%A2mara+rejeita+impeachment+vice+presidente+Paraguai",
+   "busca_video": "https://www.youtube.com/results?search_query=Senado+aprova%2C+turno%2C+PEC+Seguran%C3%A7a+por+InfoMoney+News",
    "veiculos": 7,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Exame",
-     "titulo": "Após renúncia de Penã, Câmara do Paraguai rejeita impeachment do vice-presidente Pedro Alliana",
-     "url": "https://exame.com/mundo/apos-renuncia-de-pena-camara-do-paraguai-rejeita-impeachment-do-vice-presidente-pedro-alliana/"
-    },
-    {
-     "veiculo": "G1",
-     "titulo": "Congresso paraguaio aprova seguir com processo de impeachment do presidente do Paraguai, mesmo após renúncia",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeTllWklDYzF2WHNrMm90YVhqUHpHM1Vud1ZZQ0JITzBNWlNBSDdaOUZDQ3VkNnVKTlFwckdSNWZKWXQwdXRzYnlJaTV2NE02SWd0U1FLSkM3UWVlbXBaTUhucWd0cXNnanVXYmxnN0dqU2hDaGg0enh5cjZmZWg1NlRsVEtHQkdteW1YUnFKcE54bU12TzJNREltS3lwVjBFeXNVQWhFOHlIRUpwTzVlOVl1ZFFsczlVeDJnWURod212QXBWMDRWNEd4bmVOWFZtSjZ3SkVPa3NieGJoMzAyMm82VEg4N0t6dDMyZdIB-wFBVV95cUxOb0ZmNjA1YlpDcUVpaHdqTkRUMi1DT3Brc1BXMEhpTE0tR1cxWFhSQ0QzbjFLT1RQQnU4RUNWdFloamVvMkR3TU85RGJSZHY2bU1mNm9vOF9qUk5DMDNkaHNGN2FxSVRLd1QzUU96NzBSNHNwVWl1SXNlNGU1OWZxU2o5X01XYU5WWVljLWVuTWMzbVl2S25naXBuVzAtakJUY1htWE5WNE9wVXhxODdiSkdzZUFQTWRmWFFNWHN0MGp1LXlITmpsb0dCZWxlcTd5TlROaTZYeTF0TExFUGpiZXN0TUF6d1lLaUFKOFAtU3J1R25VVFdINmFFQQ?oc=5"
-    },
-    {
      "veiculo": "CNN Brasil",
-     "titulo": "Câmara do Paraguai aprova impeachment do presidente Santiago Peña",
-     "url": "https://www.cnnbrasil.com.br/internacional/camara-do-paraguai-aprova-impeachment-do-presidente-santiago-pena/"
-    },
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Câmara aprova abertura de impeachment do presidente do Paraguai",
-     "url": "https://www.metropoles.com/mundo/camara-aprova-abertura-de-impeachment-do-presidente-do-paraguai"
-    }
-   ],
-   "score": 35.0,
-   "video_url": "https://www.youtube.com/watch?v=r4UF2Baid7s",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 42,
-   "video_acima_mediana": 0.2,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Oposição pede impeachment de presidente do Paraguai | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=r4UF2Baid7s",
-     "por_hora": 42
-    }
-   ]
-  },
-  {
-   "id": "cc4d56dd79",
-   "titulo": "Secretário do DF defende redução da maioridade penal: \"É justo\"",
-   "url": "https://www.metropoles.com/colunas/grande-angular/secretario-do-df-defende-reducao-da-maioridade-penal-e-justo",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-11-05T17:33:13+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Secret%C3%A1rio+defende+redu%C3%A7%C3%A3o+maioridade+penal+justo",
-   "veiculos": 11,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Câmara deve analisar redução da maioridade penal ainda em novembro | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=ZbyyUSVxRKg"
-    },
-    {
-     "veiculo": "SBT News",
-     "titulo": "Davi Alcolumbre tira redução da maioridade penal da pauta | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=enB_hGJ_HZ0"
-    },
-    {
-     "veiculo": "Câmara dos Deputados",
-     "titulo": "Comissão Especial debate redução da maioridade penal para 16 anos - 04/11/2026",
-     "url": "https://www.youtube.com/watch?v=7R6ScmAxCdg"
+     "titulo": "Senado aprova PEC da Segurança Pública sem discutir redução da maioridade",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3dJZDZZUXlVMGpOY3Y5VVVPNHlaWFVMb01rMHpXXzR1RXZOV0pCSHl4UjljSWc3a2FWQ2l2TnNobEVaT01yenAzVmY5SGhDaVhrUkcwVGV5V3BCZjFHMEJfWDhMb1FLdFNXeVNHZEgwM2Z3WTVuY09vdFhyYmVUdG5YYw?oc=5"
     },
     {
      "veiculo": "Revista Soberana",
      "titulo": "Senado aprova PEC da Segurança Pública por unanimidade e deixa redução da maioridade penal para discussão separada",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcU5xQ1NNR2d2d2FDakZESmgzd3BEMHlKVVRnWTEySnpoMmJxUTBVNTFJM2NkM3Z0WExMaHNaYldiNFN2aUUyWVJWWFBzN2dqMlczOTUzSm1rczJoRmJSc1dwYUVJUlFrbV9jSGZCeDl3TnZNcjRHZ1hWYXpESm1pR2x5VU5hcUhCTUVSd2lIWS1XZUY3bGpORGlKVFc2a3ZUbEVFeUdmSVJUbHB4blE1bm5hU2ZNT280R0ZhQk82SE5fNTlHWUJuYVVwVElTdk44LWhkTzVDMTBvVFRpMVVBdEZ1clFyMno5OF9HeGZB?oc=5"
+    },
+    {
+     "veiculo": "Senado",
+     "titulo": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara — Senado Notícias",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjBhZmtET3I2RUh3V2dJZU9fczFpU3hyQ1E0RG4tWlFDdW1WU2t6dDhheXJOM3JMcEtkdnQ4SWFWWGVadTVmc2pfUXloTWFtcXM5dDhkRHAxR01XSHhDYW1GbEg2ZXludF81XzFUOWYwRXdYWG1pRlNIdGFScmwyY3kxd1BhU2cxdGpYUTNvbHdlYXdzWHM5Q0FHTUlVWGNsUW5mWEs5V1V2THhJbWZQZjBCdVdvZFpYQ3RMc2JHajNTTmpC?oc=5"
+    },
+    {
+     "veiculo": "Record News",
+     "titulo": "Redução da maioridade penal pode ser votada hoje no Senado",
+     "url": "https://www.youtube.com/watch?v=J5nNlO0PBeo"
     }
    ],
-   "score": 34.2,
-   "video_url": "https://www.youtube.com/watch?v=enB_hGJ_HZ0",
-   "video_canal": "SBT News",
-   "video_por_hora": 875,
-   "video_acima_mediana": 1.0,
+   "score": 33.9,
+   "video_url": "https://www.youtube.com/watch?v=8wVpNeYPWyw",
+   "video_canal": "GloboNews",
+   "video_por_hora": 258,
+   "video_acima_mediana": 0.3,
    "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Davi Alcolumbre tira redução da maioridade penal da pauta | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=enB_hGJ_HZ0",
-     "por_hora": 875
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Câmara deve analisar redução da maioridade penal ainda em novembro | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=ZbyyUSVxRKg",
-     "por_hora": 600
-    },
     {
      "canal": "GloboNews",
      "titulo": "Maioridade penal fica de fora na PEC da Segurança; Senado vota proposta",
@@ -2514,7 +2435,7 @@
      "canal": "InfoMoney",
      "titulo": "Senado aprova PEC da Segurança por unanimidade: O que muda? | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=NZqpY03NPVg",
-     "por_hora": 112
+     "por_hora": 117
     },
     {
      "canal": "Record News",
@@ -2523,10 +2444,53 @@
      "por_hora": 105
     },
     {
-     "canal": "Câmara dos Deputados",
-     "titulo": "Comissão Especial debate redução da maioridade penal para 16 anos - 04/11/2026",
-     "url": "https://www.youtube.com/watch?v=7R6ScmAxCdg",
-     "por_hora": 31
+     "canal": "MyNews",
+     "titulo": "PEC DA SEGURANÇA É APROVADA, MAS PT SE DIVIDE SOBRE MAIORIDADE PENAL",
+     "url": "https://www.youtube.com/watch?v=kHQtoFdpGyE",
+     "por_hora": 25
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Senado aprova, em 2º turno, PEC da Segurança por 75 a 0 | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=ft9UGxCZN1Y",
+     "por_hora": 0
+    }
+   ]
+  },
+  {
+   "id": "62354d6b91",
+   "titulo": "Banco Central está encurralado entre economia fraca e inflação em alta, avalia ex-diretor do BC",
+   "url": "https://www.youtube.com/watch?v=Ega7edP3OU4",
+   "veiculo": "UOL",
+   "publicado": "2026-11-05T17:19:38+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Banco+Central+est%C3%A1+encurralado+entre+economia+fraca+infla%C3%A7%C3%A3o+alta%2C",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "BC está encurralado entre economia fraca e inflação em alta, diz Volpon",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzVtUVhzckhvZ2xlRzYtLUFoaVVndUMzdi1TLXhkYUFSblcwYm9zT1FoUmdyNDIwZ20yNlFQWElaQ09FUlRiY0JOUTloWnQ0RU9mZWJBUVJRelZBSGNWQXpiYXdwMGtfaDBSUTl3ZFV2SnloRHgzOVFGLVd3SG9sUjJPendNRWdSZlVlVFlkSTVyQVBERE5PMHRkaUEza1VDN2RtZ0gxbXAtX2F2aUM2cmQ0M1RaX0RGeG9qQU1Ca2VyS0ZrY3h3a3Bn?oc=5"
+    }
+   ],
+   "score": 32.8,
+   "video_url": "https://www.youtube.com/watch?v=Ega7edP3OU4",
+   "video_canal": "UOL",
+   "video_por_hora": 439,
+   "video_acima_mediana": 0.2,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Banco Central está encurralado entre economia fraca e inflação em alta, avalia ex-diretor do BC",
+     "url": "https://www.youtube.com/watch?v=Ega7edP3OU4",
+     "por_hora": 439
     }
    ]
   }
@@ -2536,10 +2500,10 @@
    "titulo": "Democratas ampliam vantagem no Congresso dos EUA; veja a apuração | #NewsPrimeiraEdição",
    "url": "https://www.youtube.com/watch?v=E6-DIBtGiho",
    "canal": "SBT News",
-   "publicado": "2026-11-05T11:56:54.884295+00:00",
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
    "views": 129000,
    "por_hora": 21500,
-   "acima_mediana": 23.5,
+   "acima_mediana": 20.9,
    "temas": [
     "politica"
    ]
@@ -2548,22 +2512,10 @@
    "titulo": "Eleição nos EUA tem celebração de apoiadores de Lula e críticas de Nikolas a Janja",
    "url": "https://www.youtube.com/watch?v=5WicE6qyA9Y",
    "canal": "UOL",
-   "publicado": "2026-11-05T14:56:54.884295+00:00",
-   "views": 45000,
-   "por_hora": 15000,
-   "acima_mediana": 11.8,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Brasileiro reeleito nos EUA critica Trump e comenta caso Flávio Bolsonaro | #NewsPrimeiraEdição",
-   "url": "https://www.youtube.com/watch?v=TiKTSuB2_0k",
-   "canal": "SBT News",
-   "publicado": "2026-11-05T11:56:54.884295+00:00",
-   "views": 80000,
-   "por_hora": 13333,
-   "acima_mediana": 14.5,
+   "publicado": "2026-11-05T15:07:58.441536+00:00",
+   "views": 50000,
+   "por_hora": 16667,
+   "acima_mediana": 8.3,
    "temas": [
     "politica"
    ]
@@ -2573,9 +2525,21 @@
    "url": "https://www.youtube.com/watch?v=1t-hOdBGYrA",
    "canal": "GloboNews",
    "publicado": "2026-11-05T16:56:31+00:00",
-   "views": 9088,
-   "por_hora": 9028,
-   "acima_mediana": 12.0,
+   "views": 16374,
+   "por_hora": 13749,
+   "acima_mediana": 14.9,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Brasileiro reeleito nos EUA critica Trump e comenta caso Flávio Bolsonaro | #NewsPrimeiraEdição",
+   "url": "https://www.youtube.com/watch?v=TiKTSuB2_0k",
+   "canal": "SBT News",
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
+   "views": 81000,
+   "por_hora": 13500,
+   "acima_mediana": 13.1,
    "temas": [
     "politica"
    ]
@@ -2585,36 +2549,12 @@
    "url": "https://www.youtube.com/watch?v=vxkWPK2Nv6Q",
    "canal": "Band Jornalismo",
    "publicado": "2026-11-05T14:08:22+00:00",
-   "views": 29796,
-   "por_hora": 7822,
-   "acima_mediana": 24.1,
+   "views": 29951,
+   "por_hora": 7500,
+   "acima_mediana": 21.4,
    "temas": [
     "mercado",
     "economia",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Câmara do Paraguai deve votar sobre impeachment do presidente | LIVE CNN",
-   "url": "https://www.youtube.com/watch?v=qXz2pW-yl9M",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-05T13:56:54.884295+00:00",
-   "views": 29000,
-   "por_hora": 7250,
-   "acima_mediana": 7.5,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Democratas conquistam Senado e Câmara dos EUA",
-   "url": "https://www.youtube.com/watch?v=-F0CU507tow",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-05T11:56:54.884295+00:00",
-   "views": 42000,
-   "por_hora": 7000,
-   "acima_mediana": 9.4,
-   "temas": [
     "politica"
    ]
   },
@@ -2622,10 +2562,10 @@
    "titulo": "Redução de juros: quais medidas o governo pode adotar para ajudar o Banco Central nessa missão?",
    "url": "https://www.youtube.com/watch?v=4oEAXyxhCmA",
    "canal": "UOL",
-   "publicado": "2026-11-05T16:56:54.884295+00:00",
-   "views": 6500,
-   "por_hora": 6500,
-   "acima_mediana": 5.1,
+   "publicado": "2026-11-05T17:07:58.441536+00:00",
+   "views": 7300,
+   "por_hora": 7300,
+   "acima_mediana": 3.6,
    "temas": [
     "mercado",
     "economia",
@@ -2633,27 +2573,51 @@
    ]
   },
   {
-   "titulo": "Malu Gaspar: O 'troco' de Lula em Kassio Nunes Marques depois das eleições",
-   "url": "https://www.youtube.com/watch?v=z8Q8NlJncVc",
-   "canal": "GloboNews",
-   "publicado": "2026-11-04T17:56:54.884295+00:00",
-   "views": 155000,
-   "por_hora": 6458,
-   "acima_mediana": 8.6,
+   "titulo": "Fim da escala 6x1 pode ser adiado? Advogado explica ação no STF | #NewsPrimeiraEdição",
+   "url": "https://www.youtube.com/watch?v=PszFYloDmCA",
+   "canal": "SBT News",
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
+   "views": 42000,
+   "por_hora": 7000,
+   "acima_mediana": 6.8,
+   "temas": [
+    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Democratas conquistam Senado e Câmara dos EUA",
+   "url": "https://www.youtube.com/watch?v=-F0CU507tow",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
+   "views": 42000,
+   "por_hora": 7000,
+   "acima_mediana": 10.1,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Fim da escala 6x1 pode ser adiado? Advogado explica ação no STF | #NewsPrimeiraEdição",
-   "url": "https://www.youtube.com/watch?v=PszFYloDmCA",
-   "canal": "SBT News",
-   "publicado": "2026-11-05T11:56:54.884295+00:00",
-   "views": 38000,
-   "por_hora": 6333,
-   "acima_mediana": 6.9,
+   "titulo": "Malu Gaspar: O 'troco' de Lula em Kassio Nunes Marques depois das eleições",
+   "url": "https://www.youtube.com/watch?v=z8Q8NlJncVc",
+   "canal": "GloboNews",
+   "publicado": "2026-11-04T18:07:58.441536+00:00",
+   "views": 155000,
+   "por_hora": 6458,
+   "acima_mediana": 7.0,
    "temas": [
-    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Câmara do Paraguai deve votar sobre impeachment do presidente | LIVE CNN",
+   "url": "https://www.youtube.com/watch?v=qXz2pW-yl9M",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-05T13:07:58.441536+00:00",
+   "views": 30000,
+   "por_hora": 6000,
+   "acima_mediana": 6.7,
+   "temas": [
     "politica"
    ]
   },
@@ -2662,9 +2626,21 @@
    "url": "https://www.youtube.com/watch?v=tXnjjhV82pk",
    "canal": "UOL",
    "publicado": "2026-11-05T16:59:40+00:00",
-   "views": 5536,
-   "por_hora": 5802,
-   "acima_mediana": 4.6,
+   "views": 6464,
+   "por_hora": 5678,
+   "acima_mediana": 2.8,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula diz a interlocutores que chegou a hora de Trump levar o Brasil a sério",
+   "url": "https://www.youtube.com/watch?v=FXx80ZLTsTw",
+   "canal": "UOL",
+   "publicado": "2026-11-05T16:07:58.441536+00:00",
+   "views": 11000,
+   "por_hora": 5500,
+   "acima_mediana": 2.8,
    "temas": [
     "politica"
    ]
@@ -2673,10 +2649,10 @@
    "titulo": "Mercado olha Copom, fiscal, fala de Flávio e rotação no exterior | MINUTO TOURO DE OURO - 05/11/26",
    "url": "https://www.youtube.com/watch?v=2oS5fcUkvRA",
    "canal": "Jovem Pan News",
-   "publicado": "2026-11-05T11:56:54.884295+00:00",
-   "views": 28000,
-   "por_hora": 4667,
-   "acima_mediana": 6.3,
+   "publicado": "2026-11-05T12:07:58.441536+00:00",
+   "views": 30000,
+   "por_hora": 5000,
+   "acima_mediana": 7.2,
    "temas": [
     "mercado",
     "economia",
@@ -2684,13 +2660,13 @@
    ]
   },
   {
-   "titulo": "Lula diz a interlocutores que chegou a hora de Trump levar o Brasil a sério",
-   "url": "https://www.youtube.com/watch?v=FXx80ZLTsTw",
-   "canal": "UOL",
-   "publicado": "2026-11-05T15:56:54.884295+00:00",
-   "views": 9200,
-   "por_hora": 4600,
-   "acima_mediana": 3.6,
+   "titulo": "EUA se “levantaram contra Trump\" em midterms, diz NYTimes | #RadarNews",
+   "url": "https://www.youtube.com/watch?v=ERFJk_GKRts",
+   "canal": "SBT News",
+   "publicado": "2026-11-05T15:47:05+00:00",
+   "views": 9275,
+   "por_hora": 3950,
+   "acima_mediana": 3.8,
    "temas": [
     "politica"
    ]
@@ -2699,22 +2675,10 @@
    "titulo": "Trump reconhece derrota nas eleições e diz que está pronto para trabalhar com democratas | Em Ponto",
    "url": "https://www.youtube.com/watch?v=cwUWTaGTLE4",
    "canal": "GloboNews",
-   "publicado": "2026-11-04T17:56:54.884295+00:00",
+   "publicado": "2026-11-04T18:07:58.441536+00:00",
    "views": 93000,
    "por_hora": 3875,
-   "acima_mediana": 5.2,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Presidente da Câmara dos EUA deve deixar liderança após derrota republicana | LIVE CNN",
-   "url": "https://www.youtube.com/watch?v=uZvQcCG9xVw",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-05T12:56:54.884295+00:00",
-   "views": 17000,
-   "por_hora": 3400,
-   "acima_mediana": 3.5,
+   "acima_mediana": 4.2,
    "temas": [
     "politica"
    ]
@@ -2722,37 +2686,21 @@
  ],
  "faro": [
   {
-   "tipo": "pauta",
-   "titulo": "Lula convoca economistas para discutir crise econômica após disparada do dólar e queda da Bolsa",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM3VaekVndV9WX2ZXZ09UbjR2MnFHU2pTajVvSEVhUzZPa2FSX1hxT28yN1d2dE01TXRscHdBcFpNSnhZVVlHYmdjbWphM0F1VWJOSTloTGJScjYzeXJoNFZEQ2NzcDZ3UVdpMmR4d01iV01XVWw5bGlTbXgzVkg2VnZYV2szYWFDOTBpZWtDcDlSaGl0U1ZsVVJ5bXFLdzJ2MjlwU0VjNVFaTHRBY1pZYWYtU1pJMlRQeThaY25R?oc=5",
-   "veiculos": [
-    "MZ Notícia"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-05T13:58-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 36.6,
-   "porque": "só 1 veículo (MZ Notícia); apareceu às 13h58"
-  },
-  {
    "tipo": "video",
    "titulo": "Democratas ampliam vantagem no Congresso dos EUA; veja a apuração | #NewsPrimeiraEdição",
    "url": "https://www.youtube.com/watch?v=E6-DIBtGiho",
    "video_url": "https://www.youtube.com/watch?v=E6-DIBtGiho",
    "canal": "SBT News",
    "views_h": 21500,
-   "acima_mediana": 23.5,
-   "publicado": "2026-11-05T08:56-03:00",
+   "acima_mediana": 20.9,
+   "publicado": "2026-11-05T09:07-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
    "forca": 34.8,
-   "porque": "vídeo do SBT News com 21.500 views/h (23.5x o normal do canal); nenhum veículo deu ainda"
+   "porque": "vídeo do SBT News com 21.500 views/h (20.9x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "pauta",
@@ -2774,6 +2722,22 @@
   },
   {
    "tipo": "pauta",
+   "titulo": "O que, afinal, significa ‘ueno’ — o nome do banco no centro do escândalo que derrubou o presidente do Paraguai",
+   "url": "https://valor.globo.com/mundo/noticia/2026/11/05/o-que-afinal-significa-ueno-o-nome-do-banco-no-centro-do-escndalo-que-derrubou-o-presidente-do-paraguai.ghtml",
+   "veiculos": [
+    "Valor"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-05T14:36-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 33.3,
+   "porque": "só 1 veículo (Valor); apareceu às 14h36"
+  },
+  {
+   "tipo": "pauta",
    "titulo": "Ministro de Lula pede \"corretos estímulos\" após colegas acusarem mercado financeiro de terrorismo",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcENZMVpqT3l3dHFtUDZxc2NweE9QQ3A1WFEtZ2xqb3NkWUtpLW9Xc2VISEZsMjdZWXBGd2RiWE5fQTdxaENWdTU3SUtGdlhxNGt0Y0ZKVHB3R000MGhvdmdGTUFDZ3lPZl9qMzhsVmFSU0kwQ01xQ2tKOVNEMS1tdTVsd1J3ZmhxbF92Y29aVGJpbW9MNU1abjFEMnpYanlvU3ZNSFFSV25nbjRmN28tTTRqM21DblhjV3NmeGdVTzVPclBreWc2T0NEa08yQlFsQmdESDJNQjZ2TDk2Qm5jTkxtTDBCRVRMU0E?oc=5",
    "veiculos": [
@@ -2785,7 +2749,7 @@
     "mercado",
     "politica"
    ],
-   "forca": 32.8,
+   "forca": 32.7,
    "porque": "só 1 veículo (Blog do Gustavo Negreiros); apareceu às 14h25"
   },
   {
@@ -2816,24 +2780,8 @@
    "temas": [
     "politica"
    ],
-   "forca": 31.9,
+   "forca": 31.8,
    "porque": "só 1 veículo (Diário da Manhã); apareceu às 14h37"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "O que, afinal, significa ‘ueno’ — o nome do banco no centro do escândalo que derrubou o presidente do Paraguai",
-   "url": "https://valor.globo.com/mundo/noticia/2026/11/05/o-que-afinal-significa-ueno-o-nome-do-banco-no-centro-do-escndalo-que-derrubou-o-presidente-do-paraguai.ghtml",
-   "veiculos": [
-    "Valor"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-05T14:36-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 31.5,
-   "porque": "só 1 veículo (Valor); apareceu às 14h36"
   },
   {
    "tipo": "pauta",
@@ -2848,24 +2796,38 @@
     "economia",
     "politica"
    ],
-   "forca": 30.8,
+   "forca": 30.7,
    "porque": "só 1 veículo (Valor Econômico); apareceu às 14h21"
   },
   {
    "tipo": "pauta",
-   "titulo": "Vitória democrata nas “midterms” traz de volta debate sobre teto da dívida nos EUA",
-   "url": "https://www.infomoney.com.br/economia/vitoria-democrata-nas-midterms-traz-de-volta-debate-sobre-teto-da-divida-nos-eua/",
+   "titulo": "Secretário do DF defende redução da maioridade penal: \"É justo\"",
+   "url": "https://www.metropoles.com/colunas/grande-angular/secretario-do-df-defende-reducao-da-maioridade-penal-e-justo",
    "veiculos": [
-    "InfoMoney"
+    "Metrópoles"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-05T14:03-03:00",
+   "primeira_vez": "2026-11-05T14:33-03:00",
    "temas": [
-    "economia",
     "politica"
    ],
-   "forca": 30.6,
-   "porque": "só 1 veículo (InfoMoney); apareceu às 14h03"
+   "forca": 30.2,
+   "porque": "só 1 veículo (Metrópoles); apareceu às 14h33"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Flávio nega ter tido ajuda na fuga e diz que prisão será \"desfecho final\"",
+   "url": "https://www.metropoles.com/mundo/flavio-nega-ter-tido-ajuda-na-fuga-e-diz-que-prisao-sera-desfecho-final",
+   "veiculos": [
+    "Metrópoles"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-05T14:55-03:00",
+   "temas": [
+    "politica"
+   ],
+   "forca": 29.9,
+   "porque": "só 1 veículo (Metrópoles); apareceu às 14h55"
   },
   {
    "tipo": "pauta",
