@@ -1,0 +1,80 @@
+{
+  "id": "sug-video-durigan-corretos-estimulos-juros",
+  "titulo": "Durigan, ministro da Fazenda, um dia depois do Copom: “a taxa de juros no Brasil é muito alta” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-05T12:22",
+  "atualizado": "2026-11-05T12:48",
+  "video_url": "https://www.youtube.com/watch?v=T1i_TRRcz28",
+  "trecho": {
+    "inicio": "O Brasil com a taxa de juros nesse patamar",
+    "fim": "corretos estímulos para que a gente diminua a taxa de juros",
+    "aspa_manchete": "a taxa de juros no Brasil é muito alta",
+    "girar": "nao",
+    "texto": "O Brasil com a taxa de juros nesse patamar é uma taxa de juros bastante alta e muito ruim para a economia e para todos os setores, mesmo o setor financeiro, o setor produtivo. Então nós precisamos fazer, adotar as medidas necessárias para que a gente vença, dê as condições para que de maneira sustentável e estrutural a taxa de juros diminua no Brasil. Eu não vou fazer esse tipo de comentário valorativo, mas mais uma vez, a taxa de juros no Brasil é muito alta. O esforço que nós temos que fazer no governo Lula 4 é dar as condições corretas, estruturais, os corretos estímulos para que a gente diminua a taxa de juros.",
+    "contexto": [
+      {
+        "desde": "O Brasil com a taxa de juros",
+        "texto": "04/11: Banco Central manteve o juro básico em 13,75% ao ano",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Eu não vou",
+        "texto": "Perguntado sobre a decisão do Banco Central, não quis comentar",
+        "cor": "vermelho"
+      }
+    ],
+    "crop": [
+      938,
+      994,
+      60,
+      300
+    ],
+    "enquadrar": false,
+    "preencher": false
+  },
+  "trecho_txt": "CNN Brasil Money (YouTube), publicado em 05/11/2026; o vídeo inteiro, de 0:00 a 0:37",
+  "legenda": "O ministro da Fazenda diz que o juro no Brasil é muito alto. Na véspera, o Banco Central deixou ele parado em 13,75%.\n\nO Dario Durigan falou isso a jornalistas em 05/11/2026. Um dia antes, o Copom, o comitê do Banco Central que decide o juro básico, manteve a taxa por unanimidade.\n\nPerguntado sobre a decisão, ele não quis comentar. Disse que o governo precisa dar as condições pro juro cair de um jeito que dure.\n\nRepara que ele não jogou a culpa no Banco Central. Em agosto, o próprio Durigan disse que um dos caminhos pro juro cair é o lado fiscal, que é a conta do governo: quanto ele gasta e quanto deve.\n\nOu seja, quem tá esperando a parcela do financiamento baixar tem que olhar pro corte de gasto do governo antes de olhar pra próxima reunião do Banco Central.\n\nVocê acha que esse corte de gasto sai?\n\nVídeo: reprodução CNN Brasil Money (05/11/2026). Fontes: CNN Brasil (05/11/2026 e 17/08/2026) e Agência Brasil (04/11/2026).\n\n#juros #Selic #Durigan",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil Money (YouTube) — Lula 4 deve dar “corretos estímulos” para reduzir juros, diz Durigan (publicado em 05/11/2026; o vídeo inteiro, 37 s)",
+      "url": "https://www.youtube.com/watch?v=T1i_TRRcz28"
+    },
+    {
+      "titulo": "CNN Brasil — Lula 4 deve dar “corretos estímulos” para reduzir juros, diz Durigan (05/11/2026): fala a jornalistas; não faria “comentários valorativos” sobre a decisão do Copom",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/lula-4-deve-dar-corretos-estimulos-para-reduzir-juros-diz-durigan/"
+    },
+    {
+      "titulo": "Agência Brasil — Banco Central surpreende e mantém juros básicos em 13,75% ao ano (04/11/2026): decisão por unanimidade",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bc-surpreende-e-mantem-juros-basicos-em-1375-ao-ano"
+    },
+    {
+      "titulo": "CNN Brasil — Durigan: juros precisam ser endereçados; um dos caminhos é pelo lado fiscal (17/08/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-juros-precisam-ser-enderecados-um-dos-caminhos-e-pelo-lado-fiscal/"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Juro parado em 13,75%. No dia seguinte, o ministro da Fazenda: ==“A taxa de juros no Brasil é muito alta”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}

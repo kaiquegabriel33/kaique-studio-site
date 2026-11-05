@@ -17,6 +17,7 @@
     let versao = cfg.versao || '';   // versão do arquivo que esta aba leu (o servidor recusa se o disco mudou)
     const CHAVE_RASCUNHO = `ks-rascunho-${d.id}`;
     let tRascunho = 0;
+    let rascunhoNaTela = false;  // oferta sem resposta: nada grava nem apaga o rascunho velho, e a edição espera a resposta
 
     const camada = el('canvas', { class: 'camada-editor' });
     cfg.palco.append(camada);
@@ -33,9 +34,10 @@
     }
     function gravarRascunho() {
       clearTimeout(tRascunho);
+      if (rascunhoNaTela) return;
       try { localStorage.setItem(CHAVE_RASCUNHO, JSON.stringify({ slides: d.slides, legenda: d.legenda, em: Date.now(), versao }, (k, v) => (k.startsWith('_') ? undefined : v))); } catch { /* sem armazenamento: segue */ }
     }
-    function apagarRascunho() { clearTimeout(tRascunho); try { localStorage.removeItem(CHAVE_RASCUNHO); } catch { /* segue */ } }
+    function apagarRascunho() { clearTimeout(tRascunho); if (rascunhoNaTela) return; try { localStorage.removeItem(CHAVE_RASCUNHO); } catch { /* segue */ } }
     function slideAtual() { return d.slides[cfg.paginaAtual()]; }
     // selecionado só vale na página que está na tela (trocar de página pelos pontos não apaga o elemento errado)
     function elAtual() { return sel && sel.pagina === cfg.paginaAtual() && d.slides[sel.pagina] ? d.slides[sel.pagina].elementos[sel.idx] : null; }
@@ -76,6 +78,7 @@
 
     let arrasto = null;
     camada.addEventListener('pointerdown', (ev) => {
+      if (rascunhoNaTela) return;
       const i = cfg.paginaAtual(), p = pontoPagina(ev);
       const els = (lays[i] || { elementos: [] }).elementos;
       // alça de largura do selecionado?
@@ -127,6 +130,7 @@
     // ---------- painel ----------
     const btnSalvar = el('button', { text: 'Salvar alterações', onclick: () => salvar() });
     const caixaEscolha = el('div', { class: 'acoes' });
+    const caixaRascunho = el('div');     // separada do status: Salvar e Publicar escrevem lá sem apagar a pergunta
     const btnPublicar = el('button', { class: 'sec', text: 'Publicar no site', onclick: publicar });
     const btnDesfazer = el('button', { class: 'sec', text: 'Desfazer', onclick: () => {
       if (!desfazer.length) return;
@@ -243,20 +247,27 @@
       const limpo = (x) => JSON.stringify(x, (k, v) => (k.startsWith('_') ? undefined : v));
       if (limpo(r.slides) === limpo(d.slides) && (r.legenda || '') === (d.legenda || '')) { apagarRascunho(); return; }
       const hora = new Date(r.em).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
-      perguntar(`Há alterações não salvas de ${hora} neste navegador${r.versao && r.versao !== versao ? ' (o arquivo mudou depois delas)' : ''}.`,
-        ['Recuperar', () => { if (r.versao) versao = r.versao; snapshot(); d.slides = r.slides; d.legenda = r.legenda; if (cfg.aoMudarLegenda) cfg.aoMudarLegenda(); sel = null; cfg.aoMudarPaginas(); redesenharTudo(); montarPainel(); marcarSujo(); estado.textContent = 'Recuperado. Confira e salve.'; }],
-        ['Descartar', () => { apagarRascunho(); estado.textContent = ''; }]);
+      // 05/11: Salvar sem responder apagava o rascunho, e digitar sem responder regravava por cima dele. Até a resposta, o painel de edição some.
+      rascunhoNaTela = true; campos.hidden = true;
+      const responder = () => { rascunhoNaTela = false; campos.hidden = false; caixaRascunho.innerHTML = ''; };
+      caixaRascunho.append(el('p', { class: 'status', role: 'status', text: `Há alterações não salvas de ${hora} neste navegador${r.versao && r.versao !== versao ? ' (o arquivo mudou depois delas)' : ''}. Recupere ou descarte para continuar editando.` }),
+        el('div', { class: 'acoes' },
+          el('button', { class: 'sec', text: 'Recuperar', onclick: () => { responder(); if (r.versao) versao = r.versao; snapshot(); d.slides = r.slides; d.legenda = r.legenda; if (cfg.aoMudarLegenda) cfg.aoMudarLegenda(); sel = null; cfg.aoMudarPaginas(); redesenharTudo(); montarPainel(); marcarSujo(); estado.textContent = 'Recuperado. Confira e salve.'; } }),
+          el('button', { class: 'sec', text: 'Descartar', onclick: () => { responder(); apagarRascunho(); if (sujo) gravarRascunho(); } })));
     }
     let salvando = null;
+    let publicando = false;
+    let avisosDoSalvar = [];             // o Publicar repete: quem publica precisa ver que as imagens de postar/ estão velhas
     function salvar(forcar) {
       if (salvando) return salvando;     // duplo clique: o 2º PUT levava a versão antiga e dava conflito falso; quem chega no meio espera o mesmo salvar
+      if (publicando) { estado.textContent = 'Espere a publicação terminar para salvar: o que entrasse agora podia ficar fora do site.'; return Promise.resolve(false); }
       btnSalvar.disabled = true;
       salvando = salvarAgora(forcar).finally(() => { salvando = null; btnSalvar.disabled = false; });
       return salvando;
     }
     async function salvarAgora(forcar) {
       estado.textContent = 'Salvando…'; caixaEscolha.innerHTML = '';
-      const revEnviada = rev;
+      const revEnviada = rev, versaoEnviada = versao;
       const limpo = JSON.parse(JSON.stringify(d, (k, v) => (k.startsWith('_') ? undefined : v)));
       const cab = { 'Content-Type': 'application/json', 'X-KS': '1' };
       if (versao) cab['X-KS-Base'] = versao;
@@ -267,37 +278,44 @@
       const j = await r.json().catch(() => ({ ok: false, erro: `resposta inesperada do servidor (${r.status})` }));
       if (r.status === 409 && j.conflito) {
         perguntar(j.erro,
-          ['Ver o que está no arquivo (minhas alterações ficam no rascunho)', () => { gravarRascunho(); sujo = false; location.reload(); }],
+          [rascunhoNaTela && sujo ? 'Ver o que está no arquivo (o ajuste em aberto se perde)' : 'Ver o que está no arquivo (minhas alterações ficam no rascunho)',
+           () => { if (sujo) gravarRascunho(); if (!rascunhoNaTela) sujo = false; location.reload(); }],
           ['Salvar por cima mesmo assim', () => salvar(true)]);
         return false;
       }
       if (!j.ok) { estado.textContent = 'Não salvou: ' + j.erro; return false; }
-      if (j.versao) versao = j.versao;
-      if (rev === revEnviada) { sujo = false; btnSalvar.textContent = 'Salvar alterações'; apagarRascunho(); }
+      if (j.versao && versao === versaoEnviada) versao = j.versao;   // Recuperar durante o salvar trocou a versão: a resposta não pode apagar o conflito
+      if (rev === revEnviada) { sujo = false; btnSalvar.textContent = 'Salvar alterações'; apagarRascunho(); } else gravarRascunho();   // regrava com a versão nova: o rascunho gravado durante o salvar dava conflito falso ao recuperar
       const avisos = [rev === revEnviada ? 'Salvo no computador.' : 'Salvo, mas você mudou algo enquanto salvava: salve de novo.'];
-      if (j.sem_mudanca) avisos[0] = 'Nada mudou desde o último salvar.';
+      if (j.sem_mudanca && rev === revEnviada) avisos[0] = 'Nada mudou desde o último salvar.';
       else {
         avisos.push('A Central não recebe esta edição sozinha.');
         if (j.postar_velho) avisos.push('As imagens de postar/ são de antes desta edição: rode exportar_post e confira a agenda antes de postar.');
       }
       if (j.aviso) avisos.push(j.aviso);
       estado.textContent = avisos.join(' ');
+      if (!j.sem_mudanca) avisosDoSalvar = avisos.slice(1);   // 2º Salvar sem mudança não apaga o aviso de postar/ do 1º
       return true;
     }
     async function publicar() {
-      if (sujo && !(await salvar())) return;
-      estado.textContent = 'Publicando… (testes, GitHub e site, uns 20 segundos)';
-      btnPublicar.disabled = true;
+      let aviso = '';
+      const sobrou = () => (sujo ? ' O que você mudou durante a publicação ainda não foi salvo nem publicado.' : '');
+      btnPublicar.disabled = true;       // já no 1º clique: dois cliques com alteração esperavam o mesmo salvar e publicavam 2x
       try {
+        if ((sujo || salvando) && !(await salvar())) return;    // salvando: um Salvar sem alteração ou por cima ainda em voo; o POST saía antes do disco
+        if (sujo) { estado.textContent = 'Não publiquei: você mudou algo enquanto salvava. Clique em Publicar de novo.'; return; }    // sem publicar o texto velho
+        publicando = true; btnSalvar.disabled = true;    // salvar agora ficava fora do commit ou do ar, e a tela dizia Publicado
+        aviso = avisosDoSalvar.length ? ' ' + avisosDoSalvar.join(' ') : '';
+        estado.textContent = 'Publicando… (testes, GitHub e site, leva uns minutos)' + aviso;
         const resp = await fetch('/api/publicar', { method: 'POST', headers: { 'X-KS': '1' } });
         const j = await resp.json().catch(() => ({ ok: false, erro: `resposta inesperada do servidor (${resp.status}); confira o site antes de tentar de novo` }));
-        estado.textContent = j.ok ? 'Publicado. Em cerca de 1 minuto aparece no site.' : `Não publicou: ${j.erro}`;
+        estado.textContent = (j.ok ? 'Publicado. Em cerca de 1 minuto aparece no site.' : `Não publicou: ${j.erro}`) + aviso + sobrou();
         global.__ksPublicacao = j;
-      } catch { estado.textContent = 'Servidor local não respondeu.'; }
-      btnPublicar.disabled = false;
+      } catch { estado.textContent = 'Servidor local não respondeu: confira o site antes de tentar de novo.' + aviso + sobrou(); }
+      finally { publicando = false; btnPublicar.disabled = false; btnSalvar.disabled = false; }
     }
 
-    painel.append(el('h2', { text: 'Editor' }), el('div', { class: 'acoes' }, btnSalvar, btnPublicar, btnDesfazer), estado, caixaEscolha, campos);
+    painel.append(el('h2', { text: 'Editor' }), el('div', { class: 'acoes' }, btnSalvar, btnPublicar, btnDesfazer), estado, caixaEscolha, caixaRascunho, campos);
     cfg.trilho.addEventListener('scroll', () => { requestAnimationFrame(() => { desenharCamada(); montarPainel(); }); }, { passive: true });
     global.addEventListener('resize', desenharCamada);
     redesenharTudo();
