@@ -1,0 +1,77 @@
+{
+  "id": "sug-video-efraim-taxa-faccao-tregua",
+  "titulo": "Efraim Filho, senador, sobre taxa paga a facção: “isso é trégua com o crime organizado” (TV Senado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-05T14:30",
+  "atualizado": "2026-11-05T14:37",
+  "trecho": {
+    "inicio": "A mãe de família está com medo",
+    "fim": "que se ache que faz parte da paisagem",
+    "aspa_manchete": "Isso não é segurança, isso é trégua com o crime organizado",
+    "texto": "A mãe de família está com medo, o estudante está com medo, o trabalhador está com medo, o Uber está com medo. Sabe quem não está com medo? O bandido. O bandido não está com medo, não! O bandido anda aí às soltas, com domínio territorial. O bandido anda fazendo as regras dentro dos bairros, lugar onde nem polícia pode entrar, se, muitas vezes, não tiver o aval de quem comanda a boca. Isso é um absurdo. Comerciantes que, para abrirem o seu negócio, têm que pagar uma taxa à facção. Isso não é segurança, isso é trégua com o crime organizado, e trégua com o crime organizado não pode ser a realidade com a qual se conviva, que se normaliza e que se ache que faz parte da paisagem.",
+    "cta": true,
+    "girar": "nao",
+    "crop": [
+      932,
+      700,
+      308,
+      0
+    ],
+    "enquadrar": false,
+    "encher": true,
+    "legenda_lugar": "baixo",
+    "contexto": [
+      {
+        "desde": "O bandido anda fazendo as regras",
+        "texto": "Fala de 03/11/2026, no plenário do Senado",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Comerciantes que, para abrirem",
+        "texto": "Código Penal, art. 158: extorsão dá de 4 a 10 anos de prisão",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "TV Senado, 139ª Sessão Deliberativa Ordinária (03/11/2026), fala 43 do senador Efraim Filho (PL-PB)",
+  "legenda": "Efraim Filho, senador, chamou de “trégua com o crime organizado” o comerciante pagar taxa a facção pra abrir negócio.\n\nEssa taxa tem nome na lei. Cobrar dinheiro de alguém com ameaça é extorsão, e o Código Penal prevê de 4 a 10 anos de prisão.\n\nNuma pesquisa do Datafolha pro Fórum Brasileiro de Segurança Pública, de maio de 2026, 41% disseram perceber facção ou milícia no bairro onde moram. Quantos comerciantes pagam taxa, a pesquisa não mede.\n\nE a conta não fica só com o dono da loja. Custo pra abrir a porta vai pro preço, e quem compra no bairro paga junto.\n\nA fala foi no plenário do Senado. Na sessão, ele defendia a PEC da segurança pública e cobrava que a redução da maioridade penal fosse votada junto.\n\nVídeo: TV Senado (03/11/2026). Fontes: notas taquigráficas do Senado, Código Penal (art. 158) e Agência Brasil (12/05/2026).\n\n#segurancapublica #crimeorganizado #Senado",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — 139ª Sessão Deliberativa Ordinária (03/11/2026), fala 43 (Efraim Filho, PL-PB): vídeo oficial e notas taquigráficas",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159713"
+    },
+    {
+      "titulo": "Planalto — Código Penal (Decreto-Lei 2.848/1940), art. 158: extorsão, reclusão de quatro a dez anos e multa",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+      "titulo": "Agência Brasil (Radioagência Nacional) — 4 em cada 10 brasileiros convivem com facções no bairro, diz pesquisa (12/05/2026): Datafolha para o Fórum Brasileiro de Segurança Pública, 2.000 pessoas em 137 municípios, 41% percebem organização criminosa ou milícia no bairro",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-05/4-em-cada-10-brasileiros-convivem-com-faccoes-no-bairro-diz-pesquisa"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Senador sobre taxa paga a facção: ==“Isso não é segurança, isso é trégua com o crime organizado”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}

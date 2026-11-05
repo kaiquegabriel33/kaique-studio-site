@@ -1,0 +1,63 @@
+{
+  "id": "sug-video-boulos-sistema-apodreceu",
+  "titulo": "Boulos, ministro do Lula: “o nosso sistema político apodreceu” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T18:40",
+  "atualizado": "2026-11-05T14:47",
+  "video_url": "https://www.youtube.com/watch?v=tEK3iUf4bJ8&t=1377s",
+  "trecho": {
+    "inicio": "nós precisamos de uma reforma no sistema político e judicial",
+    "fim": "com familiares. Isso é inadmissível",
+    "aspa_manchete": "o nosso sistema político apodreceu",
+    "texto": "nós precisamos de uma reforma no sistema político e judicial no nosso país. Está apodrecido. É preciso dizer com todas as letras, né? A insatisfação e a indignação das pessoas com a política tem razão de ser, porque o nosso sistema político apodreceu. Uma parte expressiva dos parlamentares, né, generalização sempre é falsa, não são todos, é preciso dizer, mas uma parte expressiva está lá para fazer gerência das suas emendas, muitas vezes sem nenhuma transparência. Uma parte do Supremo Tribunal Federal, isso vem a público, não é só o Supremo, é o STJ, são outros tribunais estaduais, mas com super salários gigantescos, que é o que nós temos que enfrentar, é inadmissível, né? Mas também está ali e fez seus negócios, utilizou da sua posição de poder, com familiares. Isso é inadmissível.",
+    "contexto": [
+      {
+        "desde": "nós precisamos de uma reforma",
+        "texto": "Boulos chefia a Secretaria-Geral da Presidência do Lula",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Uma parte expressiva",
+        "texto": "Na mesma entrevista: quem faz essa reforma é o Congresso",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Rede TVT (YouTube), programa Conversa Sem Curva, transmitido em 30/10/2026; de 23:04 a 23:56",
+  "legenda": "Um ministro do Lula disse que o sistema político do Brasil apodreceu, e pôs os supersalários dos tribunais na mesma fala.\n\nO Guilherme Boulos, da Secretaria-Geral da Presidência, falou isso no programa Conversa Sem Curva, da Rede TVT, em 30/10/2026. Ele avisa que não são todos, mas que uma parte expressiva dos parlamentares está lá “para fazer gerência das suas emendas”, e cita “super salários gigantescos” nos tribunais. Na fala não vem nenhum número nem nome.\n\nSó que, na mesma entrevista, ele mesmo conta quem vota essa reforma: o Congresso. Ou seja, quem aprova é quem acabou de levar a bronca. Por isso ele fala em rua e rede pra pressionar.\n\nEmenda e supersalário saem do mesmo lugar, que é o imposto que você paga.\n\nFalar que vai enfrentar é a parte fácil. A parte difícil é o texto da reforma passar por quem ela corta.\n\nVídeo: reprodução Rede TVT (30/10/2026).\n\n#Boulos #Congresso #supersalarios",
+  "fontes": [
+    {
+      "titulo": "Rede TVT (YouTube) — Conversa Sem Curva com Don Ernesto, com o ministro Guilherme Boulos e Alexandre Frota (transmitido em 30/10/2026; o trecho vai de 23:04 a 23:56, e a parte do Congresso de 24:14 a 24:40)",
+      "url": "https://www.youtube.com/watch?v=tEK3iUf4bJ8"
+    },
+    {
+      "titulo": "DCM TV (YouTube) — Boulos: Lula tem um plano ousado para o Brasil (03/11/2026): reedição da mesma entrevista, onde a fala foi achada",
+      "url": "https://www.youtube.com/watch?v=Mmw4cmDAL9o"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Ministro do Lula diz que ==“o nosso sistema político apodreceu”==. E quem vota a reforma é o Congresso.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
