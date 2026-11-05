@@ -1,0 +1,74 @@
+{
+  "id": "sug-video-zema-por-que-nao-ficou",
+  "titulo": "Zema sobre Flávio: “O pai dele ficou aqui. Por que ele não poderia ter ficado?” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-03T18:40",
+  "atualizado": "2026-11-05T12:56",
+  "video_url": "https://www.youtube.com/watch?v=w-DsrkbtAVc&t=112s",
+  "trecho": {
+    "inicio": "O pai dele ficou aqui",
+    "fim": "não em outro lugar",
+    "aspa_manchete": "Por que ele não poderia ter ficado?",
+    "texto": "O pai dele ficou aqui. Por que ele não poderia ter ficado? Eu falo que quem não deve não teme. Talvez ele tenha algo que poderia prejudicá-lo. Então eu também não concordo com essa posição. Acho que quem está liderando um movimento tem de estar próximo, tem de estar participando e não em outro lugar.",
+    "contexto": [
+      {
+        "desde": "O pai dele ficou aqui",
+        "texto": "Poder360: Flávio saiu em 27/10; PF sem registro de saída",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "quem não deve não teme",
+        "texto": "03/11: advogado dele diz que foi viagem e não há processo",
+        "cor": "vermelho"
+      }
+    ],
+    "crop": [
+      1080,
+      810,
+      490,
+      20
+    ],
+    "enquadrar": false
+  },
+  "trecho_txt": "O POVO (YouTube), publicado em 02/11/2026; de 1:57 a 2:27",
+  "legenda": "O Zema apoiou o Flávio no 2º turno. Agora pergunta: “por que ele não poderia ter ficado?”\n\nNo mesmo vídeo, publicado pelo O Povo em 02/11/2026, ele bate no Moraes e chama o caso de perseguição política. Mesmo assim, solta “quem não deve não teme”, a frase que o título do O Povo diz ter sido do Lula sobre o Flávio.\n\nE vai além: “talvez ele tenha algo que poderia prejudicá-lo”. Ele não diz o quê.\n\nO outro lado saiu em 03/11/2026, no Pânico: o advogado Frederick Wassef diz que foi viagem com a família e que não existe processo criminal contra o Flávio.\n\nCobrança de adversário a gente já espera. Essa vem de quem apoiou ele no 2º turno, e por isso pesa mais.\n\nO Flávio devia ter ficado pra responder aqui?\n\nVídeo: reprodução O Povo (02/11/2026). Fontes: Poder360 (28/10/2026) e Pânico Jovem Pan (03/11/2026).\n\n#Zema #FlavioBolsonaro #Tarcisio",
+  "fontes": [
+    {
+      "titulo": "O POVO (YouTube) — Romeu Zema defende Tarcísio e repete Lula sobre Flávio: “Quem não deve, não teme” (publicado em 02/11/2026; o trecho vai de 1:57 a 2:27)",
+      "url": "https://www.youtube.com/watch?v=w-DsrkbtAVc"
+    },
+    {
+      "titulo": "Poder360 — Decisão de Moraes não autorizava prisão de Flávio, diz PF (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-justica/decisao-de-moraes-nao-autorizava-prisao-de-flavio-diz-pf/"
+    },
+    {
+      "titulo": "Pânico Jovem Pan (YouTube) — Frederick Wassef no Pânico, na íntegra (publicado em 03/11/2026)",
+      "url": "https://www.youtube.com/watch?v=t8EHFTf4_BY"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Zema apoiou o Flávio no 2º turno. Agora: ==“O pai dele ficou aqui. Por que ele não poderia ter ficado?”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
