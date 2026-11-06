@@ -1,0 +1,72 @@
+{
+  "id": "sug-video-marinho-robin-hood-as-avessas",
+  "titulo": "Marinho, do PL, sobre o governo Lula: “Robin Hood às avessas, que dá com a mão e tira com as duas” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-06T09:42:00-03:00",
+  "atualizado": "2026-11-06T10:35:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=MoqDBKackkM&t=919s",
+  "trecho": {
+    "inicio": "estamos vendo um governo que há 5 anos",
+    "fim": "destrói o futuro da população brasileira",
+    "aspa_manchete": "Robin Hood às avessas, que dá com a mão e tira com as duas",
+    "girar": "nao",
+    "janela": [
+      2,
+      46
+    ],
+    "texto": "Nós estamos vendo um governo que há 5 anos apresenta orçamentos em que ele subestima as despesas e superestima as receitas. E qual é o resultado na apresentação do resultado do primeiro bimestre? Novos impostos, novas taxas que sobrecarregam a sociedade brasileira. Um ajuste fiscal talvez não seja possível, mas pelo menos frear o crescimento das despesas, termos a responsabilidade de entendermos que nós não podemos ser Robin Hood às avessas, que dá com a mão e tira com as duas e fragiliza o poder de compra da população, destrói o futuro da população brasileira.",
+    "contexto": [
+      {
+        "desde": "subestima as despesas",
+        "texto": "Marinho (PL) é candidato a presidir o Senado em 2027",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "frear o crescimento das despesas",
+        "texto": "Contas no vermelho: R$ 70,1 bi em 12 meses, sem contar juros",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "g1 (YouTube), entrevista ao Jornal da Globo publicada em 06/11/2026; de 15:34 a 16:08 (é a última resposta da entrevista)",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "==“Robin Hood às avessas, que dá com a mão e tira com as duas”==: Marinho, do PL, sobre o governo Lula. Ele fala em imposto novo e não diz qual.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Marinho, do PL, diz que o governo Lula é “Robin Hood às avessas”: dá com uma mão e tira com as duas.\n\nRogério Marinho é senador pelo Rio Grande do Norte, coordenou a campanha de Flávio Bolsonaro e é candidato a presidir o Senado. A votação é no começo de fevereiro. A entrevista é do Jornal da Globo e foi publicada pelo g1 em 06/11/2026.\n\nA acusação dele: o governo manda o Orçamento com gasto previsto baixo demais e arrecadação alta demais, e depois cobre a diferença com imposto novo. Ele fala em 5 anos, mas este governo começou em 2023. E não diz quais impostos.\n\nO que tem dado: as contas do setor público fecharam os 12 meses até setembro com R$ 70,1 bilhões no vermelho, sem contar os juros da dívida, segundo o Banco Central. A dívida tá em 82,9% do PIB.\n\nO outro lado: em 05/11/2026, Lula disse que o país precisa de responsabilidade fiscal e que ninguém investe “numa economia totalmente desordenada”. No mesmo dia, o ministro da Fazenda, Dario Durigan, disse que as medidas de ajuste ainda não foram definidas.\n\nVídeo: reprodução g1/Jornal da Globo (06/11/2026). Fontes: g1, Poder360 (05/11/2026 e 29/10/2026) e Banco Central.\n\n#senado #economia #impostos",
+  "fontes": [
+    {
+      "titulo": "g1 (YouTube) — Rogério Marinho fala sobre candidatura à presidência do Senado e oposição ao governo Lula (06/11/2026; o trecho vai de 15:34 a 16:08)",
+      "url": "https://www.youtube.com/watch?v=MoqDBKackkM"
+    },
+    {
+      "titulo": "Poder360 — Dívida bruta fica em 82,9% do PIB, diz Banco Central (29/10/2026): déficit primário do setor público de R$ 70,1 bilhões em 12 meses até setembro (0,52% do PIB)",
+      "url": "https://www.poder360.com.br/poder-economia/divida-bruta-fica-em-829-do-pib-diz-banco-central/"
+    },
+    {
+      "titulo": "Poder360 — Lula cobra responsabilidade fiscal para atrair investimentos (05/11/2026, 19h01): “Ninguém vai querer vir fazer investimento numa economia totalmente desordenada”; Durigan diz que não houve definição de medidas de ajuste",
+      "url": "https://www.poder360.com.br/poder-governo/lula-cobra-responsabilidade-fiscal-para-atrair-investimentos/"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "sug-video-lula-bets-preco-supermercado",
+  "titulo": "Lula sobre as bets: “já caiu o preço de muita coisa no supermercado” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-06T10:05:00-03:00",
+  "atualizado": "2026-11-06T10:35:00-03:00",
+  "noticia_grande": true,
+  "video_url": "https://www.youtube.com/watch?v=It90qdPs3yY&t=1304s",
+  "trecho": {
+    "inicio": "a gente não vai permitir que ninguém minta",
+    "fim": "a economia começa a funcionar melhor",
+    "aspa_manchete": "Já caiu o preço de muita coisa no supermercado",
+    "girar": "nao",
+    "janela": [
+      2,
+      76
+    ],
+    "texto": "A gente não vai permitir que ninguém minta pra sociedade brasileira e, mais grave ainda, alguém querer justificar ganhar dinheiro para um clube às custas da exploração do miserável, do pobre. Sabe? Então eu acho que nós vamos conseguir derrubar isso. Eu acho. A gente já tá vendo sinais claros aí de melhorias depois que houve a proibição. Ah, os sinais são extraordinários. Já caiu o preço de muita coisa no supermercado e aumentou a compra das pessoas, aumentou o consumo da família. Quando o consumo da família aumenta, o que que acontece? A loja vende mais, o supermercado vende mais, a agricultura produz mais, a indústria produz mais e a economia começa a funcionar melhor.",
+    "contexto": [
+      {
+        "desde": "a gente não vai permitir que ninguém minta",
+        "texto": "Bets estão fora do ar desde 06/10, por medida provisória",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Já caiu o preço de muita coisa",
+        "texto": "IBGE, prévia de outubro: comida em casa subiu 1,01%",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Canal do Lula no YouTube, “Live da Vitória” com André Janones, de 05/11/2026; de 21:48 a 22:32",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Lula sobre as bets: ==“Já caiu o preço de muita coisa no supermercado”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "O Lula disse que, sem as bets, “já caiu o preço de muita coisa no supermercado”. Número, ele não deu.\n\nA fala é de 05/11/2026, na live com o André Janones. As bets estão fora do ar desde 06/10, por medida provisória, e o STF fez audiência sobre a proibição em 03/11. É disso que ele fala quando diz “nós vamos conseguir derrubar isso”. A voz que entra no meio, falando em “sinais claros”, é do Janones.\n\nDe venda tem dado. A Abras, a associação dos supermercados, mediu venda 6,5% maior na semana de 5 a 11 de outubro e 6,3% maior na seguinte, contra as mesmas semanas de 2025. É conta do próprio setor e são só duas semanas.\n\nDe preço, o número que existe aponta pro outro lado. Na prévia da inflação de outubro, do IBGE, a comida em casa ficou 1,01% mais cara. Essa prévia fecha no meio do mês, então pega pouco do período sem bets.\n\nOu seja, dá pra dizer que o supermercado vendeu mais. Que a comida ficou mais barata, ainda não dá.\n\nVídeo: reprodução canal do Lula no YouTube (05/11/2026). Fontes: Agência Brasil, via Brasil de Fato (28/10/2026), IBGE (IPCA-15 de outubro de 2026) e O Povo (06/10/2026).\n\n#bets #Lula #supermercado",
+  "fontes": [
+    {
+      "titulo": "Canal do Lula (YouTube) — Presidente Lula e Janones participam da Live da Vitória (05/11/2026; fala de 21:48 a 22:32)",
+      "url": "https://www.youtube.com/watch?v=It90qdPs3yY"
+    },
+    {
+      "titulo": "Brasil de Fato, com texto da Agência Brasil — Consumo de alimentos cresce após proibição das bets no país, diz Abras (28/10/2026): alta de 6,5% de 5 a 11/10 e de 6,3% de 12 a 18/10, contra as mesmas semanas de 2025",
+      "url": "https://www.brasildefato.com.br/2026/10/28/consumo-de-alimentos-cresce-apos-proibicao-das-bets-no-pais-diz-abras/"
+    },
+    {
+      "titulo": "IBGE — IPCA-15 de outubro de 2026 (publicação oficial, cópia no Poder360): índice 0,32%; alimentação no domicílio 1,01%",
+      "url": "https://static.poder360.com.br/uploads/2026/10/ipca_15_2026_out.pdf"
+    },
+    {
+      "titulo": "O Povo — Bets começam a sair do ar nesta terça-feira (06/10/2026): MP 1.394/2026",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/10/06/bets-comecam-a-sair-do-ar-nesta-terca-feira.html"
+    },
+    {
+      "titulo": "STF — STF realizará audiência pública sobre MP das bets (27/10/2026): audiência em 03/11, ADI 8027",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/"
+    }
+  ]
+}
