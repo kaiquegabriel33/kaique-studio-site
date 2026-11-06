@@ -1,0 +1,74 @@
+{
+  "id": "sug-video-durigan-imposto-pecado-nao-arrecadar",
+  "titulo": "Durigan sobre o imposto do pecado: “não tem finalidade arrecadatória” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-06T11:30:00-03:00",
+  "atualizado": "2026-11-06T11:30:00-03:00",
+  "noticia_grande": true,
+  "video_url": "https://www.youtube.com/watch?v=fMU1P37zRQQ&t=105s",
+  "trecho": {
+    "inicio": "nós estamos acabando com o IPI",
+    "fim": "são alguns poucos itens",
+    "aspa_manchete": "não tem finalidade arrecadatória",
+    "girar": "nao",
+    "trilha_lufs": -30,
+    "janela": [
+      2,
+      55
+    ],
+    "texto": "Primeiro, nós estamos acabando com o IPI. O IPI é o imposto sobre produto industrializado que atinge tudo que sai da indústria brasileira. Então o IPI deixa de existir a partir do ano que vem. Nós vamos ter esse imposto seletivo, que ele não tem finalidade arrecadatória. Ele tem uma finalidade de evitar o consumo ou diminuir o consumo de alguns produtos. Portanto, ele vai incidir exclusivamente sobre bebida alcoólica, refrigerante, bebida açucarada, tabaco, carro, embarcação. Então são alguns poucos itens, inclusive a parte de mineral com alíquota zero na nossa proposta.",
+    "contexto": [
+      {
+        "desde": "deixa de existir a partir do ano que vem",
+        "texto": "O imposto do pecado começa em 2 de fevereiro de 2027",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "vai incidir exclusivamente",
+        "texto": "Cigarro: 66,7% mais R$ 3,50. Refrigerante: 2,6%",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Itatiaia (YouTube), coletiva do ministro da Fazenda em 05/11/2026; de 1:45 a 2:27",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "==“Não tem finalidade arrecadatória”==: Durigan sobre o imposto do pecado. Cerveja, refrigerante, cigarro e carro estão na lista.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Não tem finalidade arrecadatória”, diz o ministro da Fazenda sobre o imposto do pecado. A ideia seria você consumir menos.\n\nNo cigarro, a alíquota saiu em 66,7% mais R$ 3,50 fixos. No refrigerante, 2,6%. Na cerveja, 4,2%. Carro e barco também entram.\n\nEle começa em 2 de fevereiro de 2027, no lugar do IPI, o imposto que hoje pega o que sai da indústria. Pela medida provisória, em 2027 a alíquota corresponde ao IPI que esses produtos já pagam, depois de um fator de conversão.\n\nEntão, no ano que vem, a fala do Dario Durigan fecha com o texto: sai um imposto e entra outro. O teste é 2028. A alíquota definitiva ainda vai pro Congresso, e o governo tem até 31 de maio de 2027 pra mandar a proposta. Se ela vier maior, a cerveja sobe e o governo arrecada mais, com ou sem essa finalidade.\n\nA medida provisória também precisa ser votada pelo Congresso.\n\nVídeo: reprodução Itatiaia (05/11/2026). Fontes: Agência Brasil e Poder360 (05/11/2026) e Medida Provisória 1.399/2026.\n\n#impostodopecado #cerveja #impostos",
+  "fontes": [
+    {
+      "titulo": "Itatiaia (YouTube) — Dário Durigan fala sobre o “imposto do pecado” e projeta permanência do projeto após fim da MP (05/11/2026; o trecho vai de 1:45 a 2:27)",
+      "url": "https://www.youtube.com/watch?v=fMU1P37zRQQ"
+    },
+    {
+      "titulo": "Agência Brasil — Governo publica MP das alíquotas do Imposto Seletivo para 2027 (05/11/2026, 09h37): incide a partir de 2 de fevereiro de 2027; até 31/12/2027 as alíquotas “corresponderão às atuais alíquotas do IPI”, após fatores de conversão; definitivas a partir de 1º de janeiro de 2028, projeto de lei até 31 de maio de 2027",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027"
+    },
+    {
+      "titulo": "Poder360 — Imposto do pecado será de 4,2% sobre cerveja e 20% sobre cachaça (05/11/2026, 8h54): cerveja 4,2%, refrigerantes 2,6%, cigarros 66,7% mais R$ 3,50 por produto; MP nº 1.399/2026",
+      "url": "https://www.poder360.com.br/poder-economia/imposto-do-pecado-sera-de-42-sobre-cerveja-e-20-sobre-cachaca/"
+    }
+  ]
+}

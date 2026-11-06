@@ -4,7 +4,7 @@
  "status": "pronto",
  "formato": "video",
  "criado": "2026-11-06T11:28:53",
- "atualizado": "2026-11-06T11:28:53",
+ "atualizado": "2026-11-06T11:35:00-03:00",
  "slides": [
   {
    "papel": "vídeo",
@@ -19,7 +19,7 @@
    ]
   }
  ],
- "legenda": "Quem paga o diesel?\n\nCarlos Andreazza, comentarista do Estadão, falou do diesel com o preço “represado” e de “uma conta insustentável” que em algum momento chega na população.\n\nOs números de hoje: o governo paga R$ 2,12 por litro de diesel a quem produz e importa, renovado em 27/10 por mais 30 dias. Na gasolina, o PIS/Cofins e a Cide estão zerados desde 10/10, R$ 0,89 por litro de gasolina pura, pelo Decreto 13.134, que vale até 09/11. Até a manhã de 06/11 eu não achei decreto novo renovando.\n\nO outro lado: o governo diz que quem banca é o dinheiro extra do petróleo caro. O Tesouro prevê R$ 64,5 bilhões em royalties e tributos do petróleo em 2026, contra R$ 39 bilhões em descontos e subvenções nos combustíveis. Por isso o imposto de 12% sobre o petróleo exportado foi esticado até 31/12.\n\nNa bomba, a volta dos 89 centavos pesa menos que isso, porque a gasolina sai misturada com etanol.\n\nConteúdo educativo, não é recomendação de investimento.\n\nVídeo: reprodução Estadão (05/11/2026).\nFontes: Agência Brasil (09/10 e 27/10/2026), Decreto 13.134/2026 (Planalto), Ministério da Fazenda (09/10/2026), g1 (06/11/2026). Prints com grifo nosso.\n\n#combustivel #diesel #gasolina #inflacao",
+ "legenda": "Quem paga o diesel?\n\nCarlos Andreazza, comentarista do Estadão, falou do diesel com o preço “represado” e de “uma conta insustentável” que em algum momento chega na população.\n\nOs números de hoje: o governo paga R$ 2,12 por litro de diesel a quem produz e importa, renovado em 27/10 por mais 30 dias. Na gasolina, o PIS/Cofins e a Cide estão zerados desde 10/10, R$ 0,89 por litro de gasolina pura, pelo Decreto 13.134, que vale até 09/11. Até a manhã de 06/11 eu não achei decreto novo renovando.\n\nO outro lado: o governo diz que quem banca é o dinheiro extra do petróleo caro. O Tesouro prevê R$ 64,5 bilhões em royalties e tributos do petróleo em 2026, contra R$ 39 bilhões em descontos e subvenções nos combustíveis. E o imposto de 12% sobre o petróleo exportado, que entra nessa receita, foi esticado até 31/12.\n\nNa bomba, a volta dos 89 centavos pesa menos que isso, porque a gasolina sai misturada com etanol.\n\nConteúdo educativo, não é recomendação de investimento.\n\nVídeo: reprodução Estadão (05/11/2026).\nFontes: Agência Brasil (09/10 e 27/10/2026), Decreto 13.134/2026 (Planalto), Ministério da Fazenda (09/10/2026), g1 (06/11/2026). Prints com grifo nosso.\n\n#combustivel #diesel #gasolina #inflacao",
  "fontes": [
   {
    "titulo": "Agência Brasil (09/10 e 27/10/2026)"
@@ -37,5 +37,13 @@
  "teste_reel": true,
  "atomo": true,
  "voz_clonada": true,
- "duracao_s": 57.1
+ "duracao_s": 57.1,
+ "agendado_metricool": {
+  "em": "2026-11-06T11:32:00-03:00",
+  "id": 419002509,
+  "uuid": "-1891339489575156009",
+  "para": "2026-11-06T14:00:00-03:00",
+  "tipo": "TRIAL_REEL"
+ },
+ "midia_no_metricool": true
 }
