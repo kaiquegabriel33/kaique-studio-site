@@ -1,0 +1,84 @@
+{
+  "id": "sug-video-flavio-folha-nao-tenho-provas",
+  "titulo": "Flávio, à Folha, sobre fraude na eleição: “Não tenho provas e nem terei” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "noticia_grande": true,
+  "criado": "2026-11-06T20:10:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=RjE5H05O9KA&t=2110s",
+  "trecho": {
+    "inicio": "Aí você soma os votos de todos os outros",
+    "fim": "já entendi que isso não funciona",
+    "aspa_manchete": "Não tenho provas e nem terei",
+    "girar": "nao",
+    "janela": [
+      3,
+      67
+    ],
+    "texto": "Aí você soma os votos de todos os outros candidatos do primeiro turno, dá 9 milhões de votos. Do primeiro para o segundo turno, o Lula aumentou em 10 milhões e 300 mil votos a sua votação. Por quê? O que aconteceu? O Lula perdeu os dois debates. Eu posso te dar teorias: que o povo estava querendo que o governo não seja totalmente dominado pela direita, seu partido ganhou tudo, essa campanha das redes sociais foi muito forte, as pessoas foram na rua, que dá energia para muitas pessoas, tinha uma melhor campanha. Eu entendo as suas dúvidas, todo mundo tem, sobretudo sem essa confirmação, só com máquinas, mas você não tem provas de que houve essa fraude? Não, não tenho provas, não tenho provas, só tenho suspeitas. É por isso que eu não vou questionar isso na Justiça brasileira, porque eu não tenho provas e nem terei, porque é proibido investigar esse assunto. Então eu já entendi que isso não funciona.",
+    "contexto": [
+      {
+        "desde": "dá 9 milhões de votos",
+        "texto": "2º turno: 3 mi a menos de abstenção e 1,8 mi a menos de nulos",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "não tenho provas e nem terei",
+        "texto": "Reel dele de 05/11 chama a eleição de “impossível”: 14 mi de views",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Folha de S.Paulo (YouTube), entrevista exclusiva gravada em Miami e publicada em 06/11/2026 às 19h25; de 35:15 a 36:15",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "==“Não tenho provas e nem terei”==: Flávio, à Folha, sobre fraude na eleição. Um dia antes, o Reel dele chamava a eleição de matematicamente impossível.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Não tenho provas e nem terei.” Flávio Bolsonaro, à Folha, sobre a fraude que ele mesmo denuncia.\n\nA entrevista foi em Miami e saiu em 06/11/2026. Um dia antes, o Reel dele “Uma eleição matematicamente impossível” passou de 14 milhões de views.\n\nA conta que ele faz: os outros candidatos do 1º turno somaram 9,3 milhões de votos, e o Lula cresceu 10,4 milhões do 1º pro 2º turno. Esses dois números batem com o TSE.\n\nO que ele não conta: no 2º turno, 3 milhões de pessoas a menos faltaram, e 1,8 milhão a menos votaram em branco ou nulo. São 4,8 milhões de votos novos que não estavam na soma dos outros candidatos. Lula fechou com 64,3 milhões, Flávio com 59,8 milhões.\n\nEle diz que não vai à Justiça por fraude. O caminho da defesa dele é abuso de poder. O TSE já tem uma ação desse tipo contra a chapa Lula-Alckmin, do partido Novo, admitida em agosto, pelo desfile de carnaval que homenageou o Lula. Admitir não é condenar: a chapa ainda se defende.\n\nRogério Marinho, que coordenou a campanha dele, já tinha dito em 28/10 que não há provas de fraude.\n\nVídeo: reprodução Folha de S.Paulo (06/11/2026). Fontes: Folha, BBC News Brasil (03/11/2026) com dados do TSE, A Tarde (06/11/2026), Diário do Nordeste (28/10/2026).\n\n#FlavioBolsonaro #eleicoes #TSE",
+  "fontes": [
+    {
+      "titulo": "Folha de S.Paulo (YouTube) — Flávio Bolsonaro concede entrevista exclusiva à Folha e admite não ter prova de fraude nas eleições (06/11/2026; o trecho vai de 35:15 a 36:15)",
+      "url": "https://www.youtube.com/watch?v=RjE5H05O9KA"
+    },
+    {
+      "titulo": "A Tarde — Flávio admite que não tem provas de fraude eleitoral: “Nem terei” (06/11/2026, 19h25): “Não tenho provas e nem terei, porque é proibido investigar esse assunto”; a defesa vai alegar uso da máquina pública",
+      "url": "https://atarde.com.br/politica/flavio-admite-que-nao-tem-provas-de-fraude-eleitoral-nem-terei-1408636"
+    },
+    {
+      "titulo": "BBC News Brasil, em A Gazeta — A vitória de Lula explicada matematicamente (03/11/2026): 1º turno Flávio 56,104 mi (47,03%), Lula 53,879 mi (45,16%), outros 9,316 mi; 2º turno Lula 64,256 mi (51,79%), Flávio 59,8 mi (48,21%); abstenção de 33,5 mi para 30,5 mi; brancos e nulos caíram 1,8 mi, para 4,1 mi; 34.393 votos depois das 17h",
+      "url": "https://www.agazeta.com.br/mundo/a-vitoria-de-lula-explicada-matematicamente-1126"
+    },
+    {
+      "titulo": "Jornal Opção — TSE abre ação contra Lula e Alckmin por suposto abuso de poder em desfile de Carnaval (agosto de 2026): ação do Novo, corregedor Antonio Carlos Ferreira; admitir não é condenar",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/tse-abre-acao-contra-lula-e-alckmin-por-suposto-abuso-de-poder-em-desfile-de-carnaval-858541/"
+    },
+    {
+      "titulo": "Diário do Nordeste — Coordenador da campanha de Flávio, Marinho diz que não há provas de fraude eleitoral (28/10/2026)",
+      "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/coordenador-da-campanha-de-flavio-marinho-diz-que-nao-ha-provas-de-fraude-eleitoral-1.3802143"
+    },
+    {
+      "titulo": "Instagram @flaviobolsonaro — Reel “UMA ELEIÇÃO MATEMATICAMENTE IMPOSSÍVEL!” (05/11/2026, 21h12): 14,5 mi de views, 1 mi de curtidas e 96 mil comentários às 19h50 de 06/11",
+      "url": "https://www.instagram.com/reel/DfYSliYJ28X/"
+    }
+  ]
+}
