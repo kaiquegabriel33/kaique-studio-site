@@ -40,5 +40,13 @@
  "teste_reel": true,
  "atomo": true,
  "voz_clonada": true,
- "duracao_s": 68.3
+ "duracao_s": 68.3,
+ "midia_no_metricool": true,
+ "agendado_metricool": {
+  "em": "2026-11-06T11:55:00-03:00",
+  "id": 419027392,
+  "uuid": "6471789138960534458",
+  "para": "2026-11-06T19:40:00-03:00",
+  "tipo": "TRIAL_REEL"
+ }
 }
