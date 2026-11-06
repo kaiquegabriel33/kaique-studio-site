@@ -40,5 +40,27 @@
  "teste_reel": true,
  "atomo": true,
  "voz_clonada": true,
- "duracao_s": 59.6
+ "duracao_s": 59.6,
+ "formato_corte": "corte_comentario_ricco",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "fato_em": "2026-11-05T15:00:00-03:00",
+ "agendado_metricool": {
+  "em": "2026-11-06T10:52:00-03:00",
+  "id": 418958645,
+  "para": "2026-11-06T19:20:00-03:00",
+  "tipo": "TRIAL_REEL",
+  "uuid": "-1335096946926337359",
+  "isAiGenerated": true
+ },
+ "agendado_tiktok": {
+  "em": "2026-11-06T10:52:00-03:00",
+  "id": 418959069,
+  "para": "2026-11-06T22:20:00-03:00",
+  "uuid": "4667657938927372473",
+  "isAigc": true
+ },
+ "nota_lote": "AGENDADO 06/11: Reel de teste 19:20 (TRIAL_REEL, rótulo de IA, sem compartilhar sozinho) e TikTok 22:20 (isAigc). Saiu da tarde (14:20) porque a regra do rodízio de 06/11 pede no máximo 2 Reels de juros por dia com outro assunto no meio: o Renan (juros) sai 13:40. Sem o seu ok (Reel de teste, regra de 05/11); opinião nossa marcada em opiniao_sugerida.",
+ "midia_no_metricool": true,
+ "documento_central": "sug-video-wellington-dias-nao-me-conformo"
 }
