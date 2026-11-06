@@ -1,0 +1,77 @@
+{
+  "id": "sug-video-lula-belos-cabelos-seriedade",
+  "titulo": "Lula: “ninguém vai colocar dinheiro aqui por causa dos belos cabelos do Lula e do Alckmin” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-06T10:05",
+  "atualizado": "2026-11-06T09:37",
+  "noticia_grande": true,
+  "video_url": "https://www.youtube.com/watch?v=_pbeeL46AGA",
+  "trecho": {
+    "inicio": "Aqui também tá dito que se a gente quiser atrair capital",
+    "fim": "nós temos que ter responsabilidade fiscal",
+    "aspa_manchete": "Ninguém vai colocar dinheiro aqui por causa dos belos cabelos do Lula e do Alckmin",
+    "girar": "nao",
+    "janela": [
+      2,
+      56
+    ],
+    "texto": "Aqui também tá dito que se a gente quiser atrair capital, nós temos que ter seriedade. Ninguém vai colocar dinheiro aqui por causa dos belos cabelos do Lula e do Alckmin. Ninguém. Ninguém vai colocar pelo cabelo da Miriam ou pelos olhos do Dario, não. As pessoas vão colocar dinheiro aqui se eles perceberem que o investimento deles vai criar o benefício para os objetivos deles e ao mesmo tempo gerar retorno financeiro para os seus investimentos. É por isso que nós temos que ter responsabilidade jurídica. É por isso que nós temos que ter responsabilidade fiscal.",
+    "contexto": [
+      {
+        "desde": "Aqui também tá dito que se a gente quiser",
+        "texto": "05/11: reunião do conselho de minerais críticos, no Planalto",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "É por isso que nós temos que ter responsabilidade jurídica",
+        "texto": "Na véspera, o Banco Central segurou o juro em 13,75% ao ano",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Canal do Lula no YouTube, transmissão de 05/11/2026 da 1ª reunião do Conselho para Industrialização de Minerais Críticos; de 53:25 a 54:09",
+  "legenda": "O Lula disse que ninguém põe dinheiro no Brasil por causa dos “belos cabelos do Lula e do Alckmin”.\n\nEle falou isso em 05/11/2026, no Palácio do Planalto, na primeira reunião do conselho de minerais críticos. Pra atrair capital de fora, disse que o país precisa de seriedade, de responsabilidade jurídica e de responsabilidade fiscal, que é o governo cuidar da própria conta: quanto gasta e quanto deve. A Miriam da fala é a ministra da Casa Civil, Miriam Belchior.\n\nNa véspera, o Banco Central tinha segurado o juro em 13,75% ao ano. E, segundo o Money Times, o Lula faz um pronunciamento no domingo, 08/11, e a expectativa é que fale das regras de gasto do governo.\n\nCom a frase é fácil concordar: quem investe quer retorno e regra que não muda no meio do caminho. O que vai pesar é o que vier no domingo, quanto o governo pretende gastar e de onde vai sair o dinheiro. Em agosto, o próprio ministro da Fazenda disse que um dos caminhos pro juro cair é a conta do governo. E é o juro que mexe na parcela do seu financiamento.\n\nVídeo: reprodução canal do Lula no YouTube (05/11/2026). Fontes: Money Times (06/11/2026), Agência Brasil (04/11/2026) e CNN Brasil (17/08/2026).\n\n#Lula #juros #economia",
+  "fontes": [
+    {
+      "titulo": "Canal do Lula (YouTube) — Presidente Lula participa da 1ª reunião do Conselho para Industrialização de Minerais Críticos (05/11/2026; fala de 53:25 a 54:09)",
+      "url": "https://www.youtube.com/watch?v=_pbeeL46AGA"
+    },
+    {
+      "titulo": "Money Times — Payroll fecha semana antes de pronunciamento de Lula ao mercado (06/11/2026, 7h15): pronunciamento no domingo (8); expectativa de que comente o arcabouço fiscal",
+      "url": "https://www.moneytimes.com.br/payroll-fecha-semana-antes-de-pronunciamento-de-lula-ao-mercado-ibovespa-em-dolar-cai-nesta-sexta-feira-6-rens/"
+    },
+    {
+      "titulo": "Agência Brasil — Banco Central surpreende e mantém juros básicos em 13,75% ao ano (04/11/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bc-surpreende-e-mantem-juros-basicos-em-1375-ao-ano"
+    },
+    {
+      "titulo": "CNN Brasil — Durigan: juros precisam ser endereçados; um dos caminhos é pelo lado fiscal (17/08/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-juros-precisam-ser-enderecados-um-dos-caminhos-e-pelo-lado-fiscal/"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Lula: ==“Ninguém vai colocar dinheiro aqui por causa dos belos cabelos do Lula e do Alckmin”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
