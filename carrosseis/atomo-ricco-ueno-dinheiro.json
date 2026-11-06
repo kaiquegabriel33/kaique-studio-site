@@ -46,5 +46,21 @@
  "teste_reel": true,
  "atomo": true,
  "voz_clonada": true,
- "duracao_s": 70.9
+ "duracao_s": 70.9,
+ "formato_corte": "corte_comentario_ricco",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "fato_em": "2026-11-05T20:00:00-03:00",
+ "agendado_metricool": {
+  "em": "2026-11-06T11:43:00-03:00",
+  "id": 419013702,
+  "para": "2026-11-06T14:40:00-03:00",
+  "tipo": "TRIAL_REEL",
+  "uuid": "5331530973866706206",
+  "isAiGenerated": true
+ },
+ "nota_lote": "AGENDADO 06/11: Reel de teste 14:40 (TRIAL_REEL, rótulo de IA, sem compartilhar sozinho). 14:20 já estava com o Lula das bets e 13:20/14:00 foram ocupados por outras rodadas; 14:40 é a última vaga da janela, 20 min depois. Sem TikTok: o único horário que cabia era 23:40, e até lá o Senado do Paraguai pode ter votado o impeachment (a peça diz que ele está sendo julgado). Sem o seu ok (Reel de teste, regra de 05/11).",
+ "midia_no_metricool": true,
+ "tiktok_pendente": "Não agendado: a fala diz que o Peña está sendo julgado; o voto do Senado pode sair hoje à noite.",
+ "documento_central": "sug-video-bcp-paraguai-720-mil-contas"
 }
