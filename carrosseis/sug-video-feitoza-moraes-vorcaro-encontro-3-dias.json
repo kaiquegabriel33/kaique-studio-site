@@ -1,0 +1,75 @@
+{
+  "id": "sug-video-feitoza-moraes-vorcaro-encontro-3-dias",
+  "titulo": "Repórter do UOL: Moraes e Vorcaro “efetivamente se encontraram” 3 dias antes da prisão (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-06T14:05",
+  "atualizado": "2026-11-06T14:05",
+  "noticia_grande": true,
+  "video_url": "https://www.youtube.com/watch?v=Azh4MnL-P0M",
+  "trecho": {
+    "inicio": "No dia 14, Daniel Vorcaro pega um jato particular",
+    "fim": "três dias antes da prisão de Daniel Vorcaro",
+    "aspa_manchete": "os dois efetivamente se encontraram no dia 14 de novembro",
+    "girar": "nao",
+    "legenda_y": 940,
+    "placa_y": 800,
+    "janela": [
+      2,
+      36
+    ],
+    "texto": "No dia 14, Daniel Vorcaro pega um jato particular por volta de meio-dia em São Paulo, vem até Brasília e se encontra com o ministro Alexandre de Moraes. Essas trocas de mensagem mostram pela primeira vez o ministro Alexandre de Moraes respondendo, dizendo que estava indo ao caminho de Daniel Vorcaro e mostrando que os dois efetivamente se encontraram no dia 14 de novembro, três dias antes da prisão de Daniel Vorcaro.",
+    "contexto": [
+      {
+        "desde": "No dia 14, Daniel Vorcaro pega um jato",
+        "texto": "Reportagem do UOL de 06/11, com dados do celular de Vorcaro",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Essas trocas de mensagem mostram",
+        "texto": "Moraes não respondeu ao UOL; antes, negou ter enviado mensagens",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "UOL News no YouTube, 06/11/2026, “Moraes e Vorcaro: celular do banqueiro registra 316 interações entre eles antes da prisão | Feitoza”; de 9:53 a 10:19",
+  "legenda": "Moraes e Vorcaro se encontraram 3 dias antes da prisão do banqueiro, diz o repórter do UOL que leu o celular dele.\n\nQuem fala é o Cézar Feitoza. A reportagem, dele com a Natália Portinari e o Fabio Serapião, saiu no UOL em 06/11/2026. Eles recuperaram dados apagados do WhatsApp no celular do Daniel Vorcaro, dono do Banco Master, apreendido pela Polícia Federal.\n\nO número que rodou o dia inteiro é 316. São 316 interações com o ministro Alexandre de Moraes, do Supremo, entre 17/09 e 17/11/2025, e não 316 mensagens: na conta entram foto, chamada perdida e aviso do aplicativo. O que tem de novo são 17 mensagens que ninguém conhecia, e entre elas as primeiras atribuídas ao ministro.\n\nUma delas, de 14/11/2025, diz “Me avise quando pousar”. Nesse dia o Vorcaro voou de São Paulo pra Brasília. No dia 17 ele foi preso. O repórter afirma que o encontro aconteceu. O Times Brasil, lendo a mesma reportagem, escreveu que os registros não comprovam isso. E parte das mensagens veio com palavras fora de ordem e foi remontada.\n\nO outro lado: o ministro não respondeu ao UOL. Antes, ele negou ter enviado mensagem ao banqueiro e chamou o relatório da Polícia Federal de vingança. A defesa do Vorcaro também não comentou e questiona se os dados do celular são confiáveis.\n\nFalta saber se a Polícia Federal vai pôr isso no relatório que o presidente do Supremo pediu. O próprio repórter diz que essa é a grande dúvida.\n\nVídeo: reprodução UOL (06/11/2026). Fontes: UOL e Times Brasil (06/11/2026).\n\n#STF #BancoMaster #política",
+  "fontes": [
+    {
+      "titulo": "UOL News (YouTube) — Moraes e Vorcaro: celular do banqueiro registra 316 interações entre eles antes da prisão | Feitoza (06/11/2026; fala de 9:53 a 10:19; o outro lado aos 11:09; a dúvida do relatório aos 19:57)",
+      "url": "https://www.youtube.com/watch?v=Azh4MnL-P0M"
+    },
+    {
+      "titulo": "Times Brasil — Vorcaro e Moraes: celular tem 316 interações e 17 mensagens (06/11/2026, 8h12): o que conta como interação, as 17 mensagens inéditas, “Me avise quando pousar” às 13h24 de 14/11/2025, “os registros não comprovam que o encontro aconteceu”, o outro lado",
+      "url": "https://timesbrasil.com.br/brasil/celular-de-vorcaro-tem-316-registros-com-moraes-e-indica-possivel-encontro-antes-da-prisao/"
+    },
+    {
+      "titulo": "Metrópoles (Mario Sabino) — Vorcaro e Moraes: 316 mensagens e encontro 3 dias antes da prisão (06/11/2026, 10h44): credita o levantamento a Cézar Feitoza, Natália Portinari e Fabio Serapião",
+      "url": "https://www.metropoles.com/colunas/mario-sabino/vorcaro-e-moraes-316-mensagens-e-encontro-3-dias-antes-da-prisao"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Repórter do UOL: Moraes e Vorcaro ==“efetivamente se encontraram”== 3 dias antes da prisão",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
