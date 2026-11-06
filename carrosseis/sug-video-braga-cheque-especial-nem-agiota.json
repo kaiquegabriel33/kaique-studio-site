@@ -1,0 +1,90 @@
+{
+  "id": "sug-video-braga-cheque-especial-nem-agiota",
+  "titulo": "Eduardo Braga, senador, sobre cartão e cheque especial: “Nem agiota cobra uma taxa de juros como esses bancos” (TV Senado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-05T18:15",
+  "atualizado": "2026-11-05T22:29",
+  "video_url": "https://www12.senado.leg.br/multimidia/evento/159752",
+  "trecho": {
+    "inicio": "Os mais humildes que usam o cheque especial",
+    "fim": "operadoras de cartão de crédito cobram",
+    "crop": [
+      666,
+      500,
+      250,
+      44
+    ],
+    "encher": true,
+    "enquadrar": false,
+    "girar": "nao",
+    "legenda_lugar": "baixo",
+    "cta": true,
+    "aspa_manchete": "Nem agiota cobra uma taxa de juros como esses bancos",
+    "texto": "Os mais humildes que usam o cheque especial para comprar leite para o filho, comprar remédio para o filho. E acham que é parte da renda e pagam boa parcela dela em juros. E pagam boa parcela dela em juros. Então, eu creio que, para além da questão da taxa Selic, que tem uma âncora, como diz o nosso eminente senador Alessandro Vieira, na questão do déficit fiscal, na questão do déficit público, a questão do cartão de crédito e a questão do cheque especial é uma vergonha nacional. Nem agiota, nem agiota cobra uma taxa de juros como esses bancos e essas operadoras de cartão de crédito cobram.",
+    "contexto": [
+      {
+        "desde": "E acham que é parte da renda",
+        "texto": "Cheque especial tem teto de 8% ao mês desde 2020",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "uma vergonha nacional",
+        "texto": "BC, set/2026: rotativo 15,29% e cheque especial 7,53% ao mês",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "TV Senado, Comissão de Assuntos Econômicos (04/11/2026), fala 16 do senador Eduardo Braga (MDB-AM)",
+  "legenda": "Senador chamou cartão e cheque especial de “vergonha nacional” e disse que nem agiota cobra igual.\n\nFoi o Eduardo Braga, em 04/11/2026, na Comissão de Assuntos Econômicos do Senado.\n\nO dado do Banco Central de setembro de 2026: o rotativo do cartão cobrou 15,29% ao mês, e o cheque especial, 7,53% ao mês.\n\nNa mesma fala, antes desse trecho, ele citou 500% ao ano no cartão e 350% no cheque especial. Pela taxa mensal do Banco Central, a conta dá perto de 451% e 139% ao ano (conta nossa, juro sobre juro em 12 meses). O número do cartão passa perto. O do cheque especial, não.\n\nDuas travas que já existem: o cheque especial tem teto de 8% ao mês desde 2020, e no rotativo os juros não podem passar do valor da dívida desde 2024.\n\nVídeo: TV Senado (04/11/2026). Fontes: notas taquigráficas do Senado, Banco Central, Resolução CMN 4.765/2019 e Lei 14.690/2023.\n\n#chequeespecial #cartaodecredito #juros",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — Comissão de Assuntos Econômicos, continuação da 24ª Reunião Ordinária (04/11/2026), fala 16 (Eduardo Braga, MDB-AM, às 11h58): vídeo oficial e notas taquigráficas",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159752"
+    },
+    {
+      "titulo": "Banco Central, SGS 25477 (rotativo do cartão, pessoas físicas, % ao mês): set/2026 15,29; ago 15,18; jul 15,02 (aberto em 05/11/2026 às 18h)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.25477/dados/ultimos/3?formato=json"
+    },
+    {
+      "titulo": "Banco Central, SGS 25463 (cheque especial, pessoas físicas, % ao mês): set/2026 7,53; ago 7,43; jul 7,48 (aberto em 05/11/2026 às 18h)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.25463/dados/ultimos/3?formato=json"
+    },
+    {
+      "titulo": "Resolução CMN nº 4.765, de 27/11/2019, art. 3º: juros do cheque especial de pessoas físicas e MEI limitados a 8% ao mês, a partir de 06/01/2020",
+      "url": "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50875/Res_4765_v2_P.pdf"
+    },
+    {
+      "titulo": "Lei nº 14.690, de 03/10/2023, art. 28, § 1º: juros e encargos do rotativo e do parcelamento da fatura não podem exceder o valor original da dívida (vale desde janeiro de 2024)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14690.htm"
+    },
+    {
+      "titulo": "Agência Brasil — Limite de juros para cheque especial começa a valer no dia 6 (dezembro de 2019)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-12/limite-de-juros-para-cheque-especial-comeca-valer-no-dia-6"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Senador sobre cartão e cheque especial: ==“Nem agiota cobra uma taxa de juros como esses bancos”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "sug-story-ueno-tamanho-brasil",
+  "titulo": "Story: o Ueno em régua brasileira (um Nubank travando) e por que a renúncia do Peña antes do impeachment importa",
+  "status": "publicado",
+  "formato": "story",
+  "criado": "2026-11-05T18:56:00-03:00",
+  "atualizado": "2026-11-05T22:26:00-03:00",
+  "fato_em": "2026-11-05T13:17:00-03:00",
+  "legenda": "",
+  "comentario": "O Ueno, banco digital do Paraguai, tinha 2,9 milhões de clientes num país de 6,1 milhões. Em clientes, seria um Nubank travando aqui. Em três dias caiu o presidente do Banco Central, e o presidente Santiago Peña renunciou enquanto a Câmara votava o impeachment. Pela Constituição de lá, ex-presidente vira senador vitalício, menos quem é condenado no impeachment. Hoje o partido dele saiu da sessão, faltou quórum e a renúncia nem foi votada.",
+  "repost_url": "https://www.bloomberglinea.com/latinoamerica/cierre-de-ueno-bank-en-paraguay-congela-depositos-y-afecta-pagos-pensiones-y-operaciones-comerciales/",
+  "nota_lote": "Pedido dele em 05/11 depois de apagar o story do Peña das 18:00: analogia de tamanho com o Brasil e desdobramento; ele sugeriu Inter, mas em clientes o Ueno tem quase metade do país (2,9/6,1 = 47,5%, uns 100 milhões aqui), e o Inter tem 45,3 milhões (21%): ficou Nubank (112 milhões), conta nossa. Ele: renunciando mantém privilégios; conferido o art. 189 (senador vitalício, salvo condenado em juízo político). Foro não afirmado: fonte não confirmou. Agendado 22:32 (Metricool 418424490); o das 21:00 passou porque a sessão demorou.",
+  "fontes": [
+    {
+      "titulo": "Bloomberg Línea (04/11/2026): 2,9 milhões de clientes num país de 6,1 milhões; dois terços das transações eletrônicas nas grandes lojas passavam por contas do Ueno (associação de importadores e varejistas)",
+      "url": "https://www.bloomberglinea.com/latinoamerica/cierre-de-ueno-bank-en-paraguay-congela-depositos-y-afecta-pagos-pensiones-y-operaciones-comerciales/"
+    },
+    {
+      "titulo": "Forbes Brasil (01/2026): Nubank com mais de 112 milhões de clientes, dados do Banco Central",
+      "url": "https://forbes.com.br/forbes-money/2026/01/nubank-ultrapassa-112-milhoes-de-clientes-e-se-torna-a-segunda-maior-instituicao-financeira-do-brasil/"
+    },
+    {
+      "titulo": "Money Times: cerca de 800 mil credores do Master no FGC",
+      "url": "https://www.moneytimes.com.br/fgc-dos-800-mil-credores-do-master-569-mil-pedidos-de-ressarcimento-ja-foram-registrados-2-mabe/"
+    },
+    {
+      "titulo": "ABC Color (05/11/2026): resolução do Ueno em 3/11, renúncia do presidente do BCP no mesmo dia, renúncia de Peña em 5/11",
+      "url": "https://www.abc.com.py/politica/2026/11/05/renuncio-santiago-pena-la-caida-del-presidente-por-el-caso-ueno-bank/"
+    },
+    {
+      "titulo": "Infobae/EFE (04/11/2026): lei que adianta recursos em até 5 dias úteis",
+      "url": "https://www.infobae.com/america/agencias/2026/11/04/pena-promulga-ley-que-agiliza-entrega-de-recursos-a-clientes-del-intervenido-ueno-bank/"
+    },
+    {
+      "titulo": "Foto: reprodução Infobae; print: Bloomberg Línea",
+      "url": "https://www.infobae.com/economia/2026/11/05/el-caso-ueno-bank-por-que-cayo-y-cual-es-su-impacto-sobre-la-economia-de-paraguay/"
+    },
+    {
+      "titulo": "Constituição do Paraguai, art. 189: ex-presidentes são senadores vitalícios, salvo se condenados em juízo político (via eju.tv)",
+      "url": "https://eju.tv/?p=1153208"
+    },
+    {
+      "titulo": "Infobae ao vivo (05/11/2026): sessão caiu por falta de quórum, deputados colorados deixaram o plenário; renúncia não foi votada",
+      "url": "https://www.infobae.com/america/america-latina/2026/11/05/crisis-politica-en-paraguay-en-vivo-el-partido-colorado-le-pidio-la-renuncia-al-presidente-santiago-pena/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-ueno-tamanho-brasil/ueno-fundo.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Ueno, banco digital do Paraguai, tinha 2,9 milhões de clientes num país de 6,1 milhões. Em clientes, seria [[vermelho:um Nubank travando aqui]]. Em três dias caiu o presidente do Banco Central, e o presidente Santiago Peña renunciou enquanto a Câmara votava o impeachment. Pela Constituição de lá, ex-presidente vira senador vitalício, [[vermelho:menos quem é condenado no impeachment]]. Hoje o partido dele saiu da sessão, faltou quórum e a renúncia nem foi votada."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-ueno-tamanho-brasil/print-www-bloomberglinea-com-cierre-de-ueno-bank-en-paraguay.png",
+          "h": 200,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "agendado_metricool": {
+    "id": 418424490,
+    "uuid": "9170073076947959998",
+    "quando": "2026-11-05T22:32:00-03:00",
+    "tipo": "STORY"
+  },
+  "midia_no_metricool": true
+}

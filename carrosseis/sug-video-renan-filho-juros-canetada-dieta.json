@@ -1,0 +1,78 @@
+{
+  "id": "sug-video-renan-filho-juros-canetada-dieta",
+  "titulo": "Renan Filho, senador, sobre os juros: “Ninguém baixa juros por canetada. Como ninguém faz dieta por canetada” (TV Senado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-05T18:15",
+  "atualizado": "2026-11-05T22:29",
+  "video_url": "https://www12.senado.leg.br/multimidia/evento/159752",
+  "trecho": {
+    "inicio": "O que o Brasil não pode mais é ter essa taxa de juros",
+    "fim": "Eu tenho que comer menos e caminhar um pouquinho mais",
+    "crop": [
+      866,
+      650,
+      299,
+      0
+    ],
+    "encher": true,
+    "enquadrar": false,
+    "girar": "nao",
+    "legenda_lugar": "baixo",
+    "cta": true,
+    "aspa_manchete": "Ninguém baixa juros por canetada. Como ninguém faz dieta por canetada",
+    "texto": "O que o Brasil não pode mais é ter essa taxa de juros. Não dá mais – não dá mais! Entretanto, como na natureza tudo exige equilíbrio, também não pode ser por canetada. Ninguém baixa juros por canetada. Como ninguém faz dieta por canetada. Imagine se eu pudesse perder quatro quilos sem ter que comer menos calorias do que meu corpo gasta?! Numa canetada singela, o Senador Renan Filho, por um projeto relatado por ele próprio na CAE, agora há pouco, emagreceu quatro quilos. Felizmente não dá. Eu tenho que comer menos e caminhar um pouquinho mais.",
+    "contexto": [
+      {
+        "desde": "também não pode ser por canetada",
+        "texto": "04/11/2026: horas depois, o BC segurou os juros em 13,75%",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Imagine se eu pudesse perder",
+        "texto": "Juros do BC: 15% até março, 13,75% desde setembro",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "TV Senado, Comissão de Assuntos Econômicos (04/11/2026), fala 15 do senador Renan Filho (MDB-AL)",
+  "legenda": "“Ninguém baixa juros por canetada. Como ninguém faz dieta por canetada.” A frase é de um senador.\n\nO Renan Filho falou isso em 04/11/2026, de manhã, na Comissão de Assuntos Econômicos do Senado. Os senadores combinavam um debate sobre juros. Na mesma fala, ele disse que o Brasil não aguenta mais essa taxa.\n\nHoras depois, o Banco Central decidiu segurar a taxa básica em 13,75% ao ano. Em 2026 foram 5 cortes seguidos, de 15% até aí, e agora parou.\n\nA comparação é dele: pra perder quatro quilos, tem que comer menos e caminhar mais. Com os juros, diz ele, também precisa de equilíbrio.\n\nE o juro que pesa no dia a dia é bem maior que o do Banco Central. O rotativo do cartão cobrou 15,29% ao mês em setembro.\n\nVídeo: TV Senado (04/11/2026). Fontes: notas taquigráficas do Senado e Banco Central.\n\n#juros #Senado #cartaodecredito",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — Comissão de Assuntos Econômicos, continuação da 24ª Reunião Ordinária (04/11/2026), fala 15 (Renan Filho, MDB-AL, às 11h53): vídeo oficial e notas taquigráficas; falas 12 e 13 (debate sobre juros e debatedores)",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159752"
+    },
+    {
+      "titulo": "Banco Central, comunicados do Copom: 277ª reunião (18/03/2026) 14,75%; 278ª 14,50%; 279ª 14,25%; 280ª 14,00%; 281ª (16/09/2026) 13,75%; 282ª (04/11/2026) mantém 13,75% (conferido em 05/11 pelo roteiro do YouTube, não reabri)",
+      "url": "https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados?quantidade=14"
+    },
+    {
+      "titulo": "Banco Central, SGS 25477 (rotativo do cartão, pessoas físicas, % ao mês): set/2026 15,29; ago 15,18; jul 15,02 (aberto em 05/11/2026 às 18h)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.25477/dados/ultimos/3?formato=json"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Senador sobre os juros: ==“Ninguém baixa juros por canetada. Como ninguém faz dieta por canetada”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}

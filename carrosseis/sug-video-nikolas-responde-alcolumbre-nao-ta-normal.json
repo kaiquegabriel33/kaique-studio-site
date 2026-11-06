@@ -1,0 +1,87 @@
+{
+  "id": "sug-video-nikolas-responde-alcolumbre-nao-ta-normal",
+  "noticia_grande": true,
+  "titulo": "Nikolas responde ao presidente do Senado: “Sabe o que não tá normal, Alcolumbre?” (vídeo, par do corte da urna)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-05T18:15",
+  "atualizado": "2026-11-05T22:38",
+  "video_url": "https://www.youtube.com/watch?v=BaKNWteTTf4&t=27s",
+  "trecho": {
+    "inicio": "Sabe o que não tá normal, Alcolumbre",
+    "fim": "ficam indignados com a manifestação",
+    "crop": [
+      608,
+      1080,
+      656,
+      0
+    ],
+    "enquadrar": false,
+    "preencher": false,
+    "legenda": false,
+    "girar": "nao",
+    "cta": true,
+    "aspa_manchete": "Sabe o que não tá normal, Alcolumbre?",
+    "texto": "Sabe o que não tá normal, Alcolumbre? Eu vou te contar. O que não tá normal é um deputado sair de Minas Gerais, ir ao Amapá, fazer uma cobrança pública e o presidente do Senado tratar isso como se fosse uma agressão, ofensa ou ameaça. Eu fui sim ao teu estado, participei de um evento lindo, pacífico, com pessoas de verde e amarelo, um sol de rachar, mas todos ali sedentos por uma mudança e cobrando o andamento dos pedidos de impeachment dos ministros do STF que você sentou em cima. Você pode discordar de mim, pode me criticar também, mas se fazer de vítima nessa altura do campeonato? É impressionante como os poderosos se transformam em um lírio do campo quando estão sendo expostos e ficam indignados com a manifestação.",
+    "contexto": [
+      {
+        "desde": "Eu fui sim ao teu estado",
+        "texto": "Ato em Macapá em 13/09/2026, organizado por gente do PL",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "cobrando o andamento dos pedidos",
+        "texto": "Constituição: quem julga ministro do STF é o Senado",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Vídeo do perfil de Nikolas Ferreira, reproduzido pelo Poder360 no YouTube (05/11/2026), de 0:27 a 1:02",
+  "legenda": "“Sabe o que não tá normal, Alcolumbre?” O Nikolas respondeu em vídeo ao presidente do Senado.\n\nNa véspera, 04/11/2026, o Davi Alcolumbre disse no plenário que “as coisas estão impossíveis no Brasil”. Reclamou de “ofensas, agressões e ameaças” e de liderança política que sai de um estado pra ofender o presidente do Senado no estado dele. Não citou nome.\n\nO ato foi em Macapá, em 13/09/2026, organizado por gente do PL. A cobrança era pra andar com pedido de impeachment de ministro do Supremo. Pela Constituição, quem julga ministro do Supremo é o Senado.\n\nO Nikolas diz que foi “um evento lindo, pacífico” e que cobrança pública não é agressão.\n\nA briga tem data: em fevereiro de 2027 o Senado elege quem preside a Casa nos dois anos seguintes.\n\nVídeo: perfil de Nikolas Ferreira, reproduzido pelo Poder360 (05/11/2026). Fontes: Poder360, Metrópoles, notas taquigráficas do Senado (04/11/2026) e Constituição, art. 52.\n\n#Nikolas #Alcolumbre #Senado",
+  "fontes": [
+    {
+      "titulo": "Poder360 (YouTube) — Nikolas rebate Alcolumbre após senador criticar protesto no Amapá (05/11/2026; o trecho vai de 0:27 a 1:02)",
+      "url": "https://www.youtube.com/watch?v=BaKNWteTTf4"
+    },
+    {
+      "titulo": "Poder360 — Nikolas rebate Alcolumbre após senador criticar protesto no Amapá (05/11/2026, 17h25): ato em 13/09 em Macapá, organizado por integrantes do PL; vídeo publicado no Instagram",
+      "url": "https://www.poder360.com.br/poder-congresso/nikolas-rebate-alcolumbre-apos-senador-criticar-protesto-no-amapa/"
+    },
+    {
+      "titulo": "Metrópoles — Nikolas rebate críticas de Alcolumbre: “Cobrança pública não é agressão” (05/11/2026, 13h36)",
+      "url": "https://www.metropoles.com/minas-gerais/nikolas-rebate-alcolumbre-cobranca-publica-nao-e-agressao"
+    },
+    {
+      "titulo": "Senado Multimídia — 140ª Sessão Deliberativa Ordinária (04/11/2026), fala 21 (Davi Alcolumbre): “as coisas estão impossíveis no Brasil”, “ofensas, agressões e ameaças”; o nome do Nikolas não aparece nas notas da sessão",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159754"
+    },
+    {
+      "titulo": "Constituição Federal, art. 52, II: compete ao Senado processar e julgar os ministros do Supremo Tribunal Federal nos crimes de responsabilidade",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Nikolas responde ao presidente do Senado: ==“Sabe o que não tá normal, Alcolumbre?”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
