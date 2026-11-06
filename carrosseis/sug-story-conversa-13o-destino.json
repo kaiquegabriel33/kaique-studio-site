@@ -1,0 +1,34 @@
+{
+  "id": "sug-story-conversa-13o-destino",
+  "titulo": "Story (21h, conversa): o 13º vai para onde?",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T08:20",
+  "atualizado": "2026-10-28T08:20",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O seu 13º deste ano já tem destino? Dívida, investir ou gastar?",
+          "tam": 56
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-conversa-13o-destino/restaurante-jantar.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": []
+}

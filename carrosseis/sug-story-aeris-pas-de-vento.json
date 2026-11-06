@@ -1,0 +1,43 @@
+{
+  "id": "sug-story-aeris-pas-de-vento",
+  "titulo": "Story: a fábrica de pás de vento que deve R$ 1,94 bi e vendeu R$ 129 milhões no trimestre",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T13:15",
+  "atualizado": "2026-11-04T13:15",
+  "legenda": "",
+  "comentario": "A fábrica de pás eólicas foi renegociar R$ 1,52 bi fora do tribunal. Dívida líquida de R$ 1,94 bi, venda de R$ 129 milhões no trimestre. Vento tem, faltou contrato.",
+  "repost_url": "https://www.seudinheiro.com/2026/empresas/aeris-aeri3-recuperacao-extrajudicial-divida-lmrs/",
+  "fontes": [
+    {
+      "titulo": "Seu Dinheiro: Aeris (AERI3) recorre à recuperação extrajudicial para lidar com dívida de R$ 1,52 bilhão (04/11/2026); números do 2T26",
+      "url": "https://www.seudinheiro.com/2026/empresas/aeris-aeri3-recuperacao-extrajudicial-divida-lmrs/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-aeris-pas-de-vento/aeris-aeri3-recorre-a-recuperacao-extrajudicial.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A fábrica de pás eólicas foi renegociar [[vermelho:R$ 1,52 bi]] fora do tribunal. Dívida líquida de R$ 1,94 bi, venda de R$ 129 milhões no trimestre. Vento tem, faltou contrato."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-aeris-pas-de-vento/print-seu-dinheiro-ris-aeri3-recuperacao-extrajudic.png",
+          "h": 371,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

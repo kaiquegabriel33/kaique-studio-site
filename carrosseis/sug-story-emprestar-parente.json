@@ -1,0 +1,33 @@
+{
+  "id": "sug-story-emprestar-parente",
+  "titulo": "Story: antes de emprestar grana pra parente, a conta de uma pergunta só",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-02T13:50",
+  "atualizado": "2026-11-02T13:50",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-emprestar-parente/praia-placas-coloridas.jpg",
+        "foco": {
+          "x": 0.5,
+          "y": 0.42
+        },
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Antes de emprestar grana pra parente, eu faria uma pergunta só: [[vermelho:se esse dinheiro nunca voltar, o seu mês fecha?]] Se não fecha, a resposta é não, mesmo sendo seu irmão. Porque aí você vai perder a grana e o almoço de domingo junto."
+        }
+      ]
+    }
+  ],
+  "legenda": "",
+  "fontes": []
+}

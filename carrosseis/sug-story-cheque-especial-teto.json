@@ -1,0 +1,38 @@
+{
+  "id": "sug-story-cheque-especial-teto",
+  "titulo": "Story: o cheque especial tem teto de 8% ao mês (e mesmo assim dobra a dívida)",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T10:10",
+  "atualizado": "2026-10-28T10:10",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O cheque especial tem teto: 8% ao mês, regra do Banco Central desde 2020. Parece pouco? R$ 1.000 esquecidos lá por um ano, no teto, viram [[vermelho:R$ 2.518]]. Usou? [[verde:Sai dele primeiro]], antes de qualquer outra dívida."
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-cheque-especial-teto/trabalhando-noite-luminaria.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.4
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Resolução CMN nº 4.765, de 27/11/2019 (Banco Central), art. 3º: juros do cheque especial de pessoas físicas e MEI limitados a 8% ao mês (aplicado a partir de 06/01/2020; o art. 2º, da tarifa, foi derrubado pelo STF na ADI 6.407). R$ 2.518 é conta nossa: 1.000 × 1,08^12, sem IOF",
+      "url": "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50875/Res_4765_v2_P.pdf"
+    }
+  ]
+}

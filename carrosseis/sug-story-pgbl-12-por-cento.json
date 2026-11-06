@@ -1,0 +1,42 @@
+{
+  "id": "sug-story-pgbl-12-por-cento",
+  "titulo": "Story: PGBL abate até 12% da renda no IR, mas só até 31/12",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-30T09:00",
+  "atualizado": "2026-10-30T09:00",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Faz a declaração completa? Aporte em PGBL abate [[verde:até 12% da renda tributável do ano]], só pra quem também contribui pro INSS. No IR de 2027 conta o que entrar até 31/12. Quem paga 27,5% recebe de volta até R$ 2.750 a cada R$ 10 mil aportados (conta minha)."
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-pgbl-12-por-cento/sobremesa-restaurante.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Lei 9.532/1997, art. 11 (redação da Lei 10.887/2004): dedução das contribuições a previdência privada limitada a 12% do total dos rendimentos computados na base de cálculo da declaração anual, condicionada ao recolhimento também ao regime geral de previdência social (ou regime próprio)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9532.htm"
+    },
+    {
+      "titulo": "Lei 9.250/1995, art. 11 — tabela progressiva do IRPF (alíquota máxima de 27,5%); a devolução de R$ 2.750 a cada R$ 10 mil é conta nossa: 27,5% × R$ 10.000, para quem está na última faixa e dentro do limite de 12%",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9250.htm"
+    }
+  ]
+}

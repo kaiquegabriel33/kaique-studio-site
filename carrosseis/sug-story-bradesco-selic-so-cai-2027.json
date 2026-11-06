@@ -1,0 +1,42 @@
+{
+  "id": "sug-story-bradesco-selic-so-cai-2027",
+  "titulo": "Story: Bradesco só vê juro caindo no 2º semestre de 2027, fechando o ano em 12,75%",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-06T09:42:00-03:00",
+  "atualizado": "2026-11-06T09:42:00-03:00",
+  "legenda": "",
+  "comentario": "O Bradesco só vê juro caindo no segundo semestre de 2027. Bom pra quem tem dinheiro rendendo juros, ruim pra quem deve. E a queda prevista é pequena: fecha 2027 em 12,75%.",
+  "repost_url": "https://valor.globo.com/financas/noticia/2026/11/06/bradesco-reduz-pib-de-2027-a-04-pontos-percentuais-eleva-inflao-e-adia-cortes-na-selic-para-2027.ghtml",
+  "fontes": [
+    {
+      "titulo": "Valor — Bradesco reduz PIB de 2027 a 0,4%, eleva inflação e adia cortes na Selic para 2027 (06/11/2026, 08h55; texto lido inteiro): Selic estável durante todo o primeiro semestre de 2027, quatro cortes de 0,25 ponto no segundo semestre, 12,75% no fim de 2027; PIB de 2027 de 1,0% para 0,4%; IPCA de 2027 de 4,1% para 5,3%; dólar a R$ 5,50 no fim de 2026 e de 2027",
+      "url": "https://valor.globo.com/financas/noticia/2026/11/06/bradesco-reduz-pib-de-2027-a-04-pontos-percentuais-eleva-inflao-e-adia-cortes-na-selic-para-2027.ghtml"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-bradesco-selic-so-cai-2027/fundo-grafite.png"
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Bradesco só vê juro caindo no segundo semestre de 2027. [[verde:Bom pra quem tem dinheiro rendendo juros]], [[vermelho:ruim pra quem deve]]. E a queda prevista é pequena: fecha 2027 em 12,75%."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bradesco-selic-so-cai-2027/print-valor-bradesco-reduz-pib-de-2027-a-0-4.png",
+          "h": 540,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

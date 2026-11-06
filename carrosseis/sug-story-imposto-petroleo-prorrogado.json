@@ -1,0 +1,47 @@
+{
+  "id": "sug-story-imposto-petroleo-prorrogado",
+  "titulo": "Story: imposto de 12% sobre petróleo exportado foi prorrogado até 31 de dezembro e já rendeu R$ 12,86 bilhões no ano",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-06T09:42:00-03:00",
+  "atualizado": "2026-11-06T09:42:00-03:00",
+  "legenda": "",
+  "comentario": "O governo prorrogou até 31 de dezembro o imposto de 12% sobre petróleo exportado. Nasceu provisório, pra segurar o diesel. Virou receita pra fechar o ano: R$ 12,86 bilhões até aqui.",
+  "repost_url": "https://g1.globo.com/economia/noticia/2026/11/06/governo-prorroga-ate-31-de-dezembro-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml",
+  "fontes": [
+    {
+      "titulo": "g1 — Governo prorroga até 31 de dezembro cobrança de imposto de 12% sobre exportação de petróleo (06/11/2026, 09h00; texto lido inteiro): decisão da Camex, vale a partir de 07/11; criado em março de 2026 num pacote contra a alta do petróleo e do diesel; R$ 2,94 bilhões só em setembro e R$ 12,86 bilhões na parcial do ano (Receita Federal); receitas com petróleo de R$ 64,5 bilhões no ano contra R$ 39 bilhões de desonerações e subvenções de combustíveis (Tesouro)",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/governo-prorroga-ate-31-de-dezembro-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml"
+    },
+    {
+      "titulo": "Foto: reprodução g1/TV Globo",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/06/governo-prorroga-ate-31-de-dezembro-cobranca-de-imposto-de-12percent-sobre-exportacao-de-petroleo.ghtml"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-imposto-petroleo-prorrogado/governo-prorroga-ate-31-de-dezembro-cobranca-de.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O governo prorrogou até 31 de dezembro o imposto de 12% sobre petróleo exportado. Nasceu provisório, pra segurar o diesel. Virou receita pra fechar o ano: [[vermelho:R$ 12,86 bilhões até aqui]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-imposto-petroleo-prorrogado/print-g1-governo-prorroga-ate-31-de-dezem.png",
+          "h": 561,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

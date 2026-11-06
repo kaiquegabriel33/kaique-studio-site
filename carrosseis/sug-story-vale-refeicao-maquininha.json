@@ -1,0 +1,40 @@
+{
+  "id": "sug-story-vale-refeicao-maquininha",
+  "titulo": "Story: até 07/11 as operadoras de VR e VA têm que dividir a mesma rede de lojas",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-02T13:30",
+  "atualizado": "2026-11-02T13:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Sabe a padaria que aceita um vale e recusa o outro? O decreto de novembro de 2025 deu até [[vermelho:07/11]] pras operadoras de VR e VA dividirem a mesma rede de lojas. Na prática, teu cartão tende a passar em mais lugar. O valor não muda, esse é a empresa e o sindicato que definem, e o saldo continua só pra comida."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-vale-refeicao-maquininha/print-tribunadejundiai-com-br-vale-alimentacao-e-vale-refeicao.png",
+          "h": 360,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-vale-refeicao-maquininha/vale-alimentacao-e-vale-refeicao-mudam-em-novemb.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.35
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": []
+}

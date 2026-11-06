@@ -1,0 +1,33 @@
+{
+  "id": "sug-story-reserva-onde-resgata",
+  "titulo": "Story: reserva boa é a que você resgata rápido",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-28T08:20",
+  "atualizado": "2026-10-28T15:30",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Reserva de emergência não é para render mais. É para estar lá quando o susto vier: [[verde:resgate rápido]], sem perder dinheiro na hora de sacar. Rendimento vem depois."
+        }
+      ],
+      "fundo": {
+        "src": "midia/sug-story-reserva-onde-resgata/mesa-janela-flor.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "legenda": "",
+  "fontes": []
+}

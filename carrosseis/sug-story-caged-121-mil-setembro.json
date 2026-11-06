@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-caged-121-mil-setembro",
+  "titulo": "Story: o Brasil criou 121 mil empregos em setembro, 43% a menos que um ano atrás",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-04T18:30:00-03:00",
+  "atualizado": "2026-11-04T18:30:00-03:00",
+  "legenda": "",
+  "comentario": "O Brasil criou 121 mil empregos com carteira em setembro. Um ano atrás foram 214 mil: caiu 43%. No ano, 1,25 milhão de vagas contra 1,73 milhão em 2025. Juro acima de 13% trava o crédito, e a empresa trava a contratação. Não é hora de largar emprego sem a reserva pronta.",
+  "repost_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-cria-1213-mil-postos-de-trabalho-em-setembro-aponta-caged",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — Brasil cria 121,3 mil postos de trabalho em setembro, aponta Caged (04/11/2026, 16h33): 121.3 mil em setembro de 2026, 214,6 mil em setembro de 2025 (queda de 43,5%); janeiro a setembro 1.248.914 contra 1.731.398 em 2025 (queda de 27,9%); salário médio de admissão R$ 2.429,41",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-cria-1213-mil-postos-de-trabalho-em-setembro-aponta-caged"
+    },
+    {
+      "titulo": "Novo Caged, Ministério do Trabalho e Emprego (fonte dos números; painel não aberto nesta rodada)",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged"
+    },
+    {
+      "titulo": "Foto: Carteira de trabalho de 2003, Governo do Brasil, domínio público (Wikimedia Commons)",
+      "url": "https://commons.wikimedia.org/wiki/File:Carteira_de_trabalho_de_2003.jpg"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-caged-121-mil-setembro/carteira-trabalho.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Brasil criou 121 mil empregos com carteira em setembro. Um ano atrás foram 214 mil: [[vermelho:caiu 43%]]. No ano, 1,25 milhão de vagas contra 1,73 milhão em 2025. Juro acima de 13% trava o crédito, e a empresa trava a contratação. Não é hora de largar emprego [[verde:sem a reserva pronta]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-caged-121-mil-setembro/print-agencia-brasil-brasil-cria-121-3-mil-postos-de.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}
