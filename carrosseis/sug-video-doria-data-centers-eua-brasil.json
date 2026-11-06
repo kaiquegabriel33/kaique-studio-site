@@ -1,0 +1,108 @@
+{
+ "id": "sug-video-doria-data-centers-eua-brasil",
+ "carrossel_id": "sug-video-doria-data-centers-eua-brasil",
+ "titulo": "Data center que os EUA não querem pode vir pro Brasil, e a energia sai de onde? (Pedro Doria na CBN + comentário, Reel de teste)",
+ "status": "publicado",
+ "formato": "video",
+ "formato_corte": "corte_comentario_ricco",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "fato_em": "2026-11-05T19:41:00-03:00",
+ "teste_reel": true,
+ "corte_ia": true,
+ "voz_clonada": true,
+ "atomo": "atomo-ricco-doria-data-centers",
+ "arquivo": "atomo-ricco-doria-data-centers.mp4",
+ "pasta_local": "C:/KaiqueStudioDados/projetos/explicador/ricco-doria-data-centers",
+ "para_quem": "quem viu a manchete do tombo da Nasdaq e da Nvidia, quem usa IA no dia a dia e quem paga conta de luz no Sudeste e no Sul",
+ "video_url": "https://www.youtube.com/watch?v=gxN_sC-6JL8&t=94s",
+ "trecho_txt": "Rádio CBN (YouTube, Viva Voz de 05/11/2026, “Pedro Doria: Resistência a data centers nos EUA pode beneficiar o Brasil”), de 1:34 a 1:50",
+ "trecho": {
+  "aspa_manchete": "isso pode beneficiar o Brasil",
+  "texto": "E isso pode beneficiar o Brasil. Por quê? Porque a gente tem energia descarbonizada numa quantidade imensa, a gente tem água como nenhum outro país do mundo tem, quer dizer, a infraestrutura necessária para instalar data centers no Brasil existe."
+ },
+ "ideia": "O tombo da Nasdaq veio do medo de o americano frear data center. O que lá virou problema pode vir pra cá, com a promessa de IA mais barata, mas aqui ele entra numa fila que já aperta a rede: 212 pedidos só na área de São Paulo, mais potência que uma Itaipu, e o ONS avisa que isso pode limitar a energia que vai pro Sul. Data center é bom se vier com usina junto.",
+ "promessa": "Se lá não querem, vão ter que construir em outro lugar.",
+ "paga_em": "Trazer centro de dados é bom se vier com usina junto. Se só puxar da mesma rede, a conta chega na sua tomada.",
+ "opiniao_sugerida": "“Trazer centro de dados é bom se vier com usina junto. Se só puxar da mesma rede, a conta chega na sua tomada.” (última frase da voz; opinião nossa tirada da pauta, ele não disse; quem paga o reforço da rede a matéria da CNN não diz)",
+ "confira_na_previa": "a última frase da voz é opinião sugerida (ele não disse); “a conta chega na sua tomada” é leitura nossa, sem fonte de quem paga o reforço da rede; ninguém ouviu",
+ "revisar_antes_da_voz": "se a Nasdaq devolver a queda até a postagem, o gancho continua certo (fala da quinta), mas o clima muda",
+ "inspiracao": {
+  "perfil": "@papaifinanceiro (notícia de fora com print da CNN colado no alto e a régua do bolso brasileiro; Ueno 296 mil, eleição dos EUA 1,4 mi) e @raulsenacortes (corte de comentarista de rádio/podcast com análise fria)",
+  "copiado": "notícia de fora (Nasdaq) contada em régua brasileira (Itaipu como medida, a rede de São Paulo e do Sul), print real colado no alto, corte curto de comentarista e legenda fechando com o link da Avenue (conteúdo internacional)"
+ },
+ "imagens_reais": [
+  "vídeo do Pedro Doria no Viva Voz da Rádio CBN (05/11/2026), trecho de 1:34 a 1:50",
+  "print grifado InfoMoney/Reuters “Nasdaq tem maior queda diária em 19 meses com temor sobre regulamentações de IA” (05/11/2026 18h34)",
+  "print grifado CNN Brasil “Data centers em SP podem limitar envio de energia ao Sul, aponta ONS” (05/11/2026 09h23)",
+  "print grifado do parágrafo da mesma matéria da CNN: 212 projetos de data centers na área São Paulo, cerca de 17,8 GW",
+  "foto aérea de Itaipu, acediscovery, Wikimedia Commons (CC BY 4.0)"
+ ],
+ "desenho": "rack de data center desenhado por nós (traço próprio, PNG na pasta) em partículas, que volta no fecho e vira uma tomada brasileira de 3 pinos (também desenho nosso); torre de transmissão em partículas no “essa fila pode apertar”; mapa EUA → Brasil (Natural Earth) com os EUA em vermelho, o Brasil em verde e o rack viajando entre os dois; celular e disjuntor do motor; bonequinho surpreso no “E como que isso chega em você?”",
+ "diferenciacao": "fala de ontem à noite com 376 views, de comentarista otimista, posta contra o dado do ONS (o outro lado com print), com régua brasileira (mais potência pedida que uma Itaipu inteira, pedidos negados de mais de meia Itaipu) e desenho próprio (rack que vira tomada)",
+ "contas_nossas": "17,8 GW pedidos > 14 GW instalados em Itaipu (“mais potência que uma Itaipu inteira”); 8 GW negados ÷ 14 GW = 57% (“mais da metade de uma Itaipu”); “um ano e meio” = os 19 meses do InfoMoney; “cinco e meio” = 5,52%",
+ "fontes": [
+  {
+   "titulo": "Rádio CBN (YouTube) — Pedro Doria: Resistência a data centers nos EUA pode beneficiar o Brasil (05/11/2026; trecho 1:34 a 1:50)",
+   "url": "https://www.youtube.com/watch?v=gxN_sC-6JL8"
+  },
+  {
+   "titulo": "InfoMoney/Reuters — Nasdaq tem maior queda diária em 19 meses com temor sobre regulamentações de IA (05/11/2026 18h34)",
+   "url": "https://www.infomoney.com.br/mercados/nasdaq-cai-com-queda-de-acoes-de-chips-e-data-centers/"
+  },
+  {
+   "titulo": "CNN Brasil — Data centers em SP podem limitar envio de energia ao Sul, aponta ONS (05/11/2026 09h23)",
+   "url": "https://www.cnnbrasil.com.br/infra/data-centers-em-sp-podem-limitar-envio-de-energia-ao-sul-aponta-ons/"
+  },
+  {
+   "titulo": "Itaipu Binacional — potência instalada de 14.000 MW (20 unidades de 700 MW)",
+   "url": "https://www.itaipu.gov.br/sites/default/files/af_df/1702_022_atualizacao_revista_IB_2017_digital_b.pdf"
+  },
+  {
+   "titulo": "Wikimedia Commons — Itaipu Dam, aerial photograph (acediscovery, CC BY 4.0)",
+   "url": "https://commons.wikimedia.org/wiki/File:Itaipu_Dam,_aerial_photograph.jpg"
+  }
+ ],
+ "a_conferir": "Ninguém ouviu (voz clonada nem o corte). A fala do Doria veio da legenda automática do YouTube e do Whisper, que batem. O “vitória democrata maior onde há data center” é palavra do Doria (está antes do trecho cortado, só na legenda, com a ressalva); não achei o dado. O CEO da CPFL negando ~8 GW vem da CNN (fala de outubro), não abri a fonte original. “Quem paga o reforço da rede” a CNN não diz: a última frase da voz é opinião sugerida. Os 14 GW de Itaipu são a potência instalada (metade é do Paraguai). O Whisper ouviu “usina Jun.” no lugar de “usina junto”: conferir no ouvido. Há story em áudio de hoje sobre a Nasdaq (story-audio-2026-11-06-1): por isso o Reel sai em 07/11.",
+ "vence_em": "2026-11-07T23:59:00-03:00",
+ "versao": 1,
+ "fala": "Na quinta, a bolsa das empresas de tecnologia dos Estados Unidos caiu cinco e meio por cento, a maior queda num dia em um ano e meio.\nO medo do mercado é que quem ganhou a eleição de lá segure os centros de dados, aqueles galpões cheios de computador que fazem a inteligência artificial funcionar.\nSe lá não querem, vão ter que construir em outro lugar. E o Brasil tem energia limpa e muita água.\nA promessa é inteligência artificial mais barata e mais rápida pra quem mora aqui.\nE como que isso chega em você? Só na região de São Paulo, já são duzentos e doze pedidos pra ligar centro de dados na rede elétrica. Somados, eles pedem mais potência que uma Itaipu inteira.\nE o operador da rede do país avisou que, numa simulação pra dois mil e trinta e um, essa fila pode apertar a energia que sai do Sudeste pro Sul.\nUma distribuidora de São Paulo já recusou pedidos de mais da metade de uma Itaipu, porque falta linha de transmissão.\nTrazer centro de dados é bom se vier com usina junto. Se só puxar da mesma rede, a conta chega na sua tomada.",
+ "legenda": "O data center que o americano não quer pode vir pro Brasil. Falta dizer de onde sai a energia.\n\nA Nasdaq caiu 5,52% na quinta, a maior queda num dia em 19 meses. O medo do mercado é que os democratas, que ganharam o Congresso, freiem a expansão da inteligência artificial, inclusive em estados onde a oposição a novos data centers cresceu. A Nvidia caiu mais de 9%.\n\nPedro Doria, colunista da CBN, vê nisso uma chance pro Brasil: energia limpa, água, engenheiros vindo junto e \"tokens baratos pros brasileiros\" (token é a unidade que se paga pra usar IA). Ele diz também que a vitória democrata foi maior nas regiões com data center; esse dado nós não achamos publicado.\n\nDo lado da tomada, quem fala é o ONS, o operador da rede elétrica. Até setembro, 212 projetos de data center pediam ligação na área de São Paulo, cerca de 17,8 GW. Itaipu tem 14 GW instalados (comparação nossa). Numa simulação do verão de 2031, a rede paulista fica com tensão abaixo do limite em Campinas e Fernão Dias mesmo sem falha, e isso pode limitar a energia mandada pro Sul. Em outubro, o presidente da CPFL disse que a empresa negou pedidos de cerca de 8 GW, principalmente por falta de transmissão.\n\nQuem paga o reforço da rede, a matéria não diz. Você trocaria IA mais barata por mais disputa na rede?\n\nConteúdo educativo, não é recomendação de investimento.\n\nPra abrir sua conta na Avenue: https://pit.avenue.us/onboarding/foreign-finder/AVE600894 (ou use o código AVE600894 no cadastro). Já tem Avenue? Dá pra trocar a assessoria pra mim.\n\nVídeo: reprodução Rádio CBN, Viva Voz (05/11/2026).\nFontes: InfoMoney/Reuters (05/11/2026), CNN Brasil (05/11/2026), Itaipu Binacional (potência instalada). Prints com grifo nosso. Foto de Itaipu: acediscovery, Wikimedia Commons (CC BY 4.0).\n\n#datacenter #inteligenciaartificial #energia #nasdaq",
+ "criado": "2026-11-06T12:40:00-03:00",
+ "prioridade": 2,
+ "motivo": "Confirmar antes: ninguém ouviu a voz nem o corte\n\nReel de teste da rodada “ultracode” (ordem dele 06/11: Reel de teste sem aprovação). Corte + comentário Tio Ricco: fala real do Pedro Doria na CBN (05/11, “isso pode beneficiar o Brasil”) e a voz clonada pondo o otimismo dele contra o dado do ONS (212 pedidos de data center em SP, mais potência que uma Itaipu, aperto na energia que vai pro Sul). A última frase da voz é opinião sugerida, não dele.",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "==Data center vem pra cá?== Os EUA não querem. E a energia sai de onde?"
+    }
+   ]
+  }
+ ],
+ "agendado_metricool": {
+  "em": "2026-11-06T13:17:00-03:00",
+  "id": 419122476,
+  "uuid": "-1727675694844067629",
+  "para": "2026-11-07T09:20:00-03:00",
+  "tipo": "TRIAL_REEL"
+ },
+ "atualizado": "2026-11-06T13:17:00-03:00",
+ "publicado_em": "2026-11-06T13:17:00-03:00",
+ "nota_lote": "AGENDADO 06/11 13:17: Reel de teste 07/11 09:20 (TRIAL_REEL, isAiGenerated true, sem compartilhar automático), 20 min depois do Appy (09:00) e 1 h antes do Braga (10:20). Hoje não: as janelas boas de 06/11 já estavam cheias e há story em áudio de hoje sobre a Nasdaq. Corte + comentário Tio Ricco (77,4 s: 13,9 s da fala real do Pedro Doria a 1,1x + 54,6 s de voz clonada + fecho). Content-Length no static.metricool.com bate (22.603.961 vídeo, 260.113 capa). TikTok NÃO agendado: no TikTok é aberto e espera o ok dele.",
+ "tiktok_pendente": "Só o Reel de teste foi agendado. TikTok (aberto) espera vaga e o seu ok; com isAigc true. Vence 07/11.",
+ "midia_no_metricool": true,
+ "midia_metricool": {
+  "video": "https://static.metricool.com/planner/202611/7314013-file-2443310728346921142.mp4",
+  "video_bytes": 22603961,
+  "capa": "https://static.metricool.com/planner/202611/7314013-file-2830668255482545016.jpeg",
+  "capa_bytes": 260113
+ }
+}
