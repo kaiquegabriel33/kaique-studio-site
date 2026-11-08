@@ -1,0 +1,51 @@
+{
+ "id": "atomo-avatar-luz-nordeste-datas",
+ "titulo": "Átomo avatar-luz-nordeste-datas",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-07T21:05:38",
+ "atualizado": "2026-11-07T21:05:38",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Quando muda a conta de luz no seu estado?"
+    }
+   ]
+  }
+ ],
+ "legenda": "Quando muda a conta de luz no seu estado?\n\nMuita gente perguntou depois do vídeo da conta de luz. A tarifa não muda no mesmo dia pro país inteiro: cada distribuidora tem a sua data de reajuste, todo ano.\n\nNo Nordeste, pelo calendário deste ano: Bahia (Coelba), Ceará (Enel), Rio Grande do Norte (Cosern) e Sergipe (Energisa) em 22 de abril. Pernambuco (Neoenergia) em 29 de abril. Alagoas em 3 de maio. Maranhão (Equatorial) e Paraíba (Energisa) em 28 de agosto. Piauí tem data própria: vale olhar na sua conta ou no site da distribuidora.\n\nEm maio, a Aneel aprovou até R$ 5,5 bilhões, pagos adiantado pelas hidrelétricas antigas (Lei 15.235/2025), para baixar a conta de 22 distribuidoras no Norte, no Nordeste, em Mato Grosso e em partes de MG e do ES. Esse dinheiro entra uma vez só.\n\nPor isso a consultoria Thymos Energia projeta alta de 9,58% no Nordeste em 2027, enquanto a média do país cai 2% e Sul e Sudeste têm queda. É projeção, não reajuste aprovado: cada distribuidora ainda passa pela Aneel, e a chuva do ano que vem também mexe nesse número.\n\nManda pra quem mora no Nordeste anotar a data.\n\nConteúdo educativo, não é recomendação de investimento.\n\nVídeo: reprodução Jovem Pan News, repórter Camila Yunes (20/05/2026).\nFontes: Movimento Econômico (09/04/2026 e 24/08/2026), Agência Brasil (19/05/2026), Thymos Energia via CNN Brasil (05/11/2026), Lei 15.235/2025. Prints de tela.\n\n#contadeluz #energia #nordeste #aneel",
+ "fontes": [
+  {
+   "titulo": "Movimento Econômico (09/04/2026 e 24/08/2026)"
+  },
+  {
+   "titulo": "Agência Brasil (19/05/2026)"
+  },
+  {
+   "titulo": "Thymos Energia via CNN Brasil (05/11/2026)"
+  },
+  {
+   "titulo": "Lei 15.235/2025. Prints de tela."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 51.3,
+ "formato_corte": "corte_comentario_ricco_avatar",
+ "ab_formato": "avatar-x-voz",
+ "avatar_ia": {
+  "ferramenta": "HeyGen Creator (Photo Avatar, polo azul no escritório)",
+  "boca_em": "narracao-1.1x.wav (voz clonada dele, upload de áudio)",
+  "duracao_s": 27.84,
+  "janelas_no_comentario": "abre (0–5,7 s) e fecha (26,1–28,8 s) do comentário; meio = telas Tio Ricco"
+ },
+ "nota_lote": "Pedido dele 07/11 ~20h50 (\"bora soltar 1 vídeo hj\"): parte 2 da conta de luz com o avatar HeyGen dele. Saiu em hora morta (depois das 20h), exceção pedida por ele: NÃO entra na comparação justa avatar × voz (A/B de 5 × 5 nas janelas boas).",
+ "pasta_local": "C:/KaiqueStudioDados/projetos/explicador/avatar-luz-nordeste-datas"
+}
