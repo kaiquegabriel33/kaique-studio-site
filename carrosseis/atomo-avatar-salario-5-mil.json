@@ -37,5 +37,22 @@
  "teste_reel": true,
  "atomo": true,
  "voz_clonada": true,
- "duracao_s": 30.5
+ "duracao_s": 30.5,
+ "formato_corte": "avatar_fechamento",
+ "ab_formato": "avatar-x-ricco",
+ "avatar_ia": {
+  "ferramenta": "HeyGen Creator (Photo Avatar, polo azul no escritório)",
+  "boca_em": "narracao-1.1x.wav (voz clonada, upload de áudio)",
+  "molde": "fechamento de mercado: fala real em tela cheia, depois avatar embaixo e faixa de cima com vídeo, prints e números"
+ },
+ "heygen_creditos": 16,
+ "pasta_local": "C:/KaiqueStudioDados/projetos/explicador/avatar-salario-5-mil",
+ "nota_lote": "Domingo 08/11, pedido dele (\"alterne entre tioricco e eu mesmo\", \"quero estilo fechamento do mercado quando eu aparecer\", \"manda bala esse domingo nos reels teste sem precisar de aprovação minha\"). Janela boa: entra no A/B avatar × Tio Ricco.",
+ "agendado_metricool": {
+  "em": "2026-11-08T00:56:00-03:00",
+  "id": 420454375,
+  "uuid": "-7709838980475043351",
+  "para": "2026-11-08T10:20:00-03:00",
+  "tipo": "TRIAL_REEL"
+ }
 }
