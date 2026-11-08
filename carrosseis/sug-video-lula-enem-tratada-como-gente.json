@@ -1,0 +1,65 @@
+{
+  "id": "sug-video-lula-enem-tratada-como-gente",
+  "titulo": "Lula no Enem: “A que tem formação é tratada como se fosse gente” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-08T13:40:00-03:00",
+  "atualizado": "2026-11-08T13:40:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=CB-RYrBtquc&t=1370s",
+  "trecho": {
+    "inicio": "não é verdade que não vale a pena",
+    "fim": "Eu já vivi isso na pele muitas vezes",
+    "aspa_manchete": "A que tem formação é tratada como se fosse gente",
+    "girar": "nao",
+    "abertura": "importa",
+    "texto": "Olhe, não é verdade que não vale a pena ter diploma universitário. Você vê a experiência de uma pessoa que vai procurar uma vaga num local qualquer para trabalhar, uma que tem uma formação, outra que não tem formação. A que tem formação é tratada como se fosse gente, de forma respeitosa. As pessoas fazem até um currículo. Uma pessoa que não tem formação, sabe, não é tratada com respeito. Eu já vivi isso na pele muitas vezes.",
+    "contexto": [
+      {
+        "desde": "uma que tem uma formação",
+        "texto": "Desemprego: 3% com faculdade, 9% sem ensino médio (IBGE, 2º tri)",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "vivi isso na pele",
+        "texto": "Lula não tem diploma universitário: é torneiro mecânico pelo Senai",
+        "cor": "vermelho"
+      }
+    ]
+  },
+  "trecho_txt": "Canal do Lula (YouTube), visita à sala de situação do Enem no Inep, 08/11/2026; de 22:55 a 23:35",
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Lula, no Enem: ==“A que tem formação é tratada como se fosse gente”==. E diz que já viveu isso na pele.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“A que tem formação é tratada como se fosse gente.” Lula, no Enem, sobre quem procura emprego sem diploma.\n\nFoi neste domingo (08/11), na sala de situação do Enem, em Brasília, com mais de 5 milhões de inscritos fazendo a prova. Quem fala isso não tem diploma universitário: o Lula é torneiro mecânico formado pelo Senai. E ele contou que já sentiu a diferença na pele, procurando emprego.\n\nO número bate com a fala dele. No 2º trimestre de 2026, o desemprego de quem tem ensino superior completo ficou em 3%. De quem não terminou o ensino médio, 9%. A média do país foi 5,4%, segundo o IBGE.\n\nNa mesma visita, o ministro da Educação disse que quem tem ensino superior ganha duas vezes e meia mais.\n\nVocê já foi tratado diferente numa vaga por ter ou não ter diploma?\n\nVídeo: reprodução do canal do Lula no YouTube, visita à sala de situação do Enem (08/11/2026).\nFontes: IBGE, PNAD Contínua do 2º trimestre de 2026, via Correio da Manhã (14/08/2026).\n\n#enem #lula #educacao #diploma",
+  "fontes": [
+    {
+      "titulo": "Canal do Lula (YouTube) — Presidente Lula acompanha monitoramento do Enem (08/11/2026; a fala vai de 22:55 a 23:35, pela legenda automática; o ministro fala do salário 2,5 vezes maior em 18:45)",
+      "url": "https://www.youtube.com/watch?v=CB-RYrBtquc"
+    },
+    {
+      "titulo": "Correio da Manhã — Desemprego cai a 5,4% no 2º trimestre de 2026, aponta IBGE (14/08/2026): superior completo 3,0%, médio incompleto 9,0%",
+      "url": "https://www.correiodamanha.com.br/economia/2026/08/311031-desemprego-cai-a-54-no-2-trimestre-de-2026-aponta-ibge.html"
+    }
+  ]
+}
