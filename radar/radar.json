@@ -1,13 +1,66 @@
 {
- "atualizado": "2026-11-08T15:07-03:00",
- "em_alta": [],
+ "atualizado": "2026-11-08T17:07-03:00",
+ "em_alta": [
+  {
+   "termo": "polícia federal",
+   "trafego": "500+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Policial federal aposentado é morto em assalto no bairro do Marco, em Belém",
+     "url": "https://g1.globo.com/pa/para/noticia/2026/11/07/policial-federal-aposentado-e-morto-durante-assalto-no-bairro-do-marco-em-belem.ghtml",
+     "veiculo": "G1"
+    },
+    {
+     "titulo": "Policial federal aposentado é morto a tiros ao reagir a assalto",
+     "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/policial-federal-aposentado-e-morto-a-tiros-ao-reagir-a-assalto",
+     "veiculo": "Metrópoles"
+    },
+    {
+     "titulo": "Homem morre em tentativa de assalto no bairro do Marco, em Belém",
+     "url": "https://dol.com.br/noticias/policia/967677/homem-morre-em-tentativa-de-assalto-no-bairro-do-marco-em-belem",
+     "veiculo": "DOL"
+    }
+   ],
+   "publicado": "2026-11-08T11:50:00-08:00"
+  },
+  {
+   "termo": "paulo autuori",
+   "trafego": "100+",
+   "temas": [
+    "economia"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Diretoria do Fortaleza discute demissão de Autuori mesmo com playoffs da Série B",
+     "url": "https://ge.globo.com/ce/futebol/times/fortaleza/noticia/2026/11/08/diretoria-do-fortaleza-discute-demissao-de-autuori-mesmo-com-playoffs-da-serie-b.ghtml",
+     "veiculo": "ge"
+    },
+    {
+     "titulo": "Paulo Autuori é demitido do Fortaleza; Vojvoda foi contatado para assumir",
+     "url": "https://diariodonordeste.verdesmares.com.br/jogada/paulo-autuori-e-demitido-do-fortaleza-vojvoda-foi-contatado-para-assumir-1.3804267",
+     "veiculo": "Diário do Nordeste"
+    },
+    {
+     "titulo": "Paulo Autuori não é mais técnico do Fortaleza",
+     "url": "https://www.espn.com.br/futebol/serie-b/artigo/_/id/17494716/paulo-autuori-nao-e-mais-tecnico-do-fortaleza",
+     "veiculo": "ESPN Brasil"
+    }
+   ],
+   "publicado": "2026-11-08T11:40:00-08:00"
+  }
+ ],
  "pautas": [
   {
    "id": "05dba42304",
    "titulo": "Quaest: 48% aprovam governo Lula; desaprovação é de 44%",
    "url": "https://www.cnnbrasil.com.br/politica/quaest-48-aprovam-governo-lula-desaprovacao-e-de-44/",
    "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T18:01:40+00:00",
+   "publicado": "2026-11-08T19:12:38+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -16,13 +69,18 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Quaest+48%25+aprovam+governo+Lula+desaprova%C3%A7%C3%A3o+44%25",
-   "veiculos": 11,
+   "veiculos": 9,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CBN Recife",
-     "titulo": "Quaest: governo Lula é aprovado por 48% dos brasileiros; economia é a principal preocupação",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHFGTzhpR2ZsdkFqTFdqNlc0YjlrX0JhX3JiTVVDVDJhOEZfbGRzUzg5V0NLd3gzM2hkUW9oRm5ZQ2dVLUFHLVdfNlh1MjVMYWlzYnVzZjd1a091QUVnUnZCemJhbkgwU3ptZUJtV3hoNC1qZ0U3SFJJN2dXbG9uZExaMU9ERHRVTWRBYkJQUlRxb3MxN2NjVnFYanFNRFY5aTBYemxMbWE5d0QwVHNCYlMyWjczV2FsTE42eHE2aEpCNWpL?oc=5"
+     "veiculo": "UOL",
+     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+     "url": "https://www.youtube.com/watch?v=xZkaE5JeMYM"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
+     "url": "https://www.youtube.com/watch?v=TSfmKZjpK78"
     },
     {
      "veiculo": "UOL",
@@ -33,98 +91,37 @@
      "veiculo": "UOL",
      "titulo": "Governo Lula: Após eleição, 48% aprovam e 44% desaprovam; economia é principal preocupação",
      "url": "https://www.youtube.com/watch?v=P9mncTC-4Pc"
-    },
-    {
-     "veiculo": "Blog do Ricardo Antunes",
-     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFhJZW1Id0NwY1hmZTh0Y1Z1VDk4MDFqVGwwTGlCcGU1THo2bXEwa1FuNnltVDQ0WTJrVzhyZmZuRVVNbnJ6aGc2cWpJY2ZYbmd2RnlsbGtYdDAwNVlBcWswZjU5ZDhQeGRzS0pCS0ttS1JEdVh4SW9wUEgxOGt1NkpzY1J1a1B0UW1vMktFaTIxYkJsRk11MXhKZGdGdFI5MV9CcnI5b2xmQUlwTUpF?oc=5"
     }
    ],
-   "score": 48.2,
-   "video_url": "https://www.youtube.com/watch?v=32z6etSIyM0",
+   "score": 59.5,
+   "video_url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
    "video_canal": "UOL",
-   "video_por_hora": 697,
-   "video_acima_mediana": 0.2,
+   "video_por_hora": 12129,
+   "video_acima_mediana": 4.0,
    "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
+     "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
+     "por_hora": 12129
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+     "url": "https://www.youtube.com/watch?v=xZkaE5JeMYM",
+     "por_hora": 5486
+    },
     {
      "canal": "UOL",
      "titulo": "Pesquisa Quaest: Eleitores temem piora na economia e cobram fim da escala 6x1 no governo Lula",
      "url": "https://www.youtube.com/watch?v=32z6etSIyM0",
-     "por_hora": 697
+     "por_hora": 1466
     },
     {
      "canal": "UOL",
      "titulo": "Governo Lula: Após eleição, 48% aprovam e 44% desaprovam; economia é principal preocupação",
      "url": "https://www.youtube.com/watch?v=P9mncTC-4Pc",
-     "por_hora": 562
-    }
-   ]
-  },
-  {
-   "id": "4616f431d9",
-   "titulo": "Estamos fazendo uma “guerra pela educação”, diz Lula sobre Enem",
-   "url": "https://www.poder360.com.br/poder-educacao/estamos-fazendo-uma-guerra-pela-educacao-diz-lula-sobre-enem/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-08T17:33:54+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Estamos+fazendo+uma+guerra+pela+educa%C3%A7%C3%A3o+diz+Lula+sobre",
-   "veiculos": 6,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "GloboNews",
-     "titulo": "Lula acompanha Enem e enaltece participação feminina: ‘Fato extraordinário’",
-     "url": "https://www.youtube.com/watch?v=M541pXBIJrk"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula vê Enem como \"guerra contra retrocesso\" e exalta participação feminina",
-     "url": "https://www.youtube.com/watch?v=8ZfEkibbyzw"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "‘Estamos fazendo uma guerra contra o retrocesso e pela educação’, diz Lula sobre o Enem",
-     "url": "https://valor.globo.com/brasil/noticia/2026/11/08/estamos-fazendo-uma-guerra-contra-o-retrocesso-e-pela-educacao-diz-lula-sobre-o-enem.ghtml"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso' e defende valor do diploma; vídeo",
-     "url": "https://www.youtube.com/watch?v=CcANbSYzWKk"
-    }
-   ],
-   "score": 44.8,
-   "video_url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
-   "video_canal": "Lula",
-   "video_por_hora": 56474,
-   "video_acima_mediana": 19.0,
-   "videos": [
-    {
-     "canal": "Lula",
-     "titulo": "Presidente Lula acompanha monitoramento do Enem",
-     "url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
-     "por_hora": 56474
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso' e defende valor do diploma; vídeo",
-     "url": "https://www.youtube.com/watch?v=CcANbSYzWKk",
-     "por_hora": 5737
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula vê Enem como \"guerra contra retrocesso\" e exalta participação feminina",
-     "url": "https://www.youtube.com/watch?v=8ZfEkibbyzw",
-     "por_hora": 3584
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Lula acompanha Enem e enaltece participação feminina: ‘Fato extraordinário’",
-     "url": "https://www.youtube.com/watch?v=M541pXBIJrk",
-     "por_hora": 419
+     "por_hora": 1451
     }
    ]
   },
@@ -133,7 +130,7 @@
    "titulo": "Ata da reunião do Copom é destaque da semana da agenda do BC",
    "url": "https://valor.globo.com/financas/noticia/2026/11/08/ata-da-reuniao-do-copom-e-destaque-da-semana-da-agenda-do-bc.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-08T14:50:00+00:00",
+   "publicado": "2026-11-08T20:00:00+00:00",
    "temas": [
     "comportamento",
     "economia",
@@ -143,31 +140,111 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Ata+reuni%C3%A3o+Copom+destaque+semana+agenda",
-   "veiculos": 6,
+   "veiculos": 9,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Money Times",
-     "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-     "url": "https://www.moneytimes.com.br/inflacao-ata-do-copom-os-indicadores-que-movimentam-os-mercados-na-proxima-semana/"
+     "veiculo": "BPMoney",
+     "titulo": "Agenda da semana traz ata do Copom, IPCA de outubro e inflação dos EUA no radar",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjRlNDVWX0V1andKZkkxQ2RMVlV5RVpIWkNXSWRVbDlBUE9CU19sQUw4a2EzbHVWYTJleVpISE1kU0ZpTGhWdlVVWGVVa255YVlWYm1xTWlzSEtjeUNiN1BWeEFsa1JnNE8tUnp1TEl3Q09xQVhQRVhiWVl1Z3Frc0hVVlZzVEVaNkZNWQ?oc=5"
     },
     {
-     "veiculo": "Money Times",
-     "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5"
+     "veiculo": "Investidor10",
+     "titulo": "Agenda da semana traz IPCA, ata do Copom, CPI americano e PIB da Europa",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0M3Y0pyUjFqYXVJNmg1VkdobHBMZ1JVMzd6UllXdXUzSUloU1l2NGZaZVU3a2tiOThKWDgzTEhWR08wOW9wNTRRVjdlM1NMdG9USFN5c0w2SVVLU0NtX0JPTzEtbXFGdUN0Q1B3THlkb2JWczhnNEk3MTFyNzB3Z21Ub19sZVN4TTQwazV3aUF5aEpmUG5kSUJ0MTdRa2s1dmxzNjQtUmxXVGhEM0Z2UThmNW8xMC1lelHSAboBQVVfeXFMTldDN2NKclIxamF1STZoNVZHaGxwTGdSVTM3elJZV3V1M0lJaFNZdjRmWmVVN2trYjk4Slg4M0xIVkdPMDlvcDU0UVY3ZTNTTHRvVEhTeXNMNklVS1NDbV9CT08xLW1xRnVDdENQd0x5ZG9iVnM4ZzRJNzExcjcwd2dtVG9fbGVTeE00MGs1d2lBeWhKZlBuZElCdDE3UWtrNXZsczY0LVJsV1RoRDNGdlE4ZjVvMTAtZXpR?oc=5"
     },
     {
-     "veiculo": "Money Times",
-     "titulo": "Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnJXZjZza3Q0bjBXLVo4d2VhSkdZYlYwN21GY1RaNU5wZmgtNW9IdXdfYlVVdDY2S2kxc3NGUFNRTzNQS1ZfVFloSTRfS3NqS2JSb05QRVZpcHRUVFo5dmNMbzRvbXBkVlZxOUNmdngyWTlSblJIUEZlQnAtbDBtY1d5eU9xbjdzYTc3bllWaG9wSUpYR2pIY3A4MWF4SXVXUVB0UDRaU3Y3cnF1a1hGaTFB?oc=5"
+     "veiculo": "ativovirtual.com.br",
+     "titulo": "IPCA e ata do Copom na mesma semana: o que testa a curva de juros",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVlqNGNaUEcwdmUtV2FQbmdIYklzNEc1UHNiS3JqN0tSSzhtZWNOVTBDMmJvNnRPeUk4Q1ZIVXJ3ejFxWjJzNF9WN1BGLU1RRGY5ZVF4YlhlWjlJRXZjTm1rVi02UWI4ME9JbklTXzBVaE5rb2Y1djNUblAtc0NmZnFuMzNBUDhDaW16UlNvMG4zTS1sa0NZS1lKSVpTdVFYTGlZUEUyUEwzUkhVbl9Qbw?oc=5"
     },
     {
-     "veiculo": "Kinvo",
-     "titulo": "Notícia Inflação, ata do Copom: os indicadores que movimentam os mercados na próxima semana",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzNaNDF4RVhHUjdOVGZfd2p5ZE8wZEdQRVE4a1N6bE56NWR2MEJzZE1ndFhTWm1vcW1KMlZVN0p6SGNLX3VTZ1Bfd1hzTnQwdXVodmRUTHc1c1NWc1BKZmQ3ajNMc1d0Vl9rOV94NUlWWWVtRmZLTFlIMzJSeVVVMlV5eElDbm02S2xsd01YaFFEaEZpOEdIa1Rxdm9iSVduUVphc0JUZGhGbzYzWldJ?oc=5"
+     "veiculo": "ativovirtual.com.br",
+     "titulo": "IPCA e ata do Copom na mesma semana: o que testa a curva de juros",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVlqNGNaUEcwdmUtV2FQbmdIYklzNEc1UHNiS3JqN0tSSzhtZWNOVTBDMmJvNnRPeUk4Q1ZIVXJ3ejFxWjJzNF9WN1BGLU1RRGY5ZVF4YlhlWjlJRXZjTm1rVi02UWI4ME9JbklTXzBVaE5rb2Y1djNUblAtc0NmZnFuMzNBUDhDaW16UlNvMG4zTS1sa0NZS1lKSVpTdVFYTGlZUEUyUEwzUkhVbl9Qbw?oc=5"
     }
    ],
-   "score": 40.6
+   "score": 44.9
+  },
+  {
+   "id": "be6dfd1342",
+   "titulo": "CSN assina contrato para vender unidade de cimentos à chinesa Huaxin por R$ 12,7 bi",
+   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/csn-assina-contrato-para-vender-unidade-de-cimentos-a-chinesa-huaxin-por-r-127-bi.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-08T19:30:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=CSN+assina+contrato+para+vender+unidade+cimentos+chinesa+Huaxin",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BPMoney",
+     "titulo": "CSN fecha venda da CSN Cimentos à chinesa Huaxin por R$ 12,7 bilhões para cortar dívida",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUxGSDQ1T1BUQnp6ZklISldocXVjNzE2NWNhYVNhc29vaWJ4S2FkS0JHb1hsZnRtamhOZE8ySjROQl9jSjNqZmRTSFdGdDBjbC1KN1RQQUdIZ2NXSVd3dW5QVDcxNjNPWlcxQTVRZ3lwUnRITVNJMWRMbUtaT2dLbkNRLWJIUThwcHBDU3BOUUxUeFF0UEE?oc=5"
+    },
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "Mônica Scaramuzzo: Chinesa Huaxin compra CSN Cimentos por R$ 12,7 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGpNYjZ1Q1VFRVJQbXJqX0N5Ym1ldHVwd0JWcUUwYUhFY1lZVjF3bkQwUGo0UU1vRGsxVnl3Q3EtcDZVTXc2YW5JTWFiN21MN2RBS21RZ2xDUFpBT0MzTmR5N3pUdnV0SEI2RE9ILVVqaE43VHQtX0NSd1hYQW1XT1hkbElsVDJFNE4xLS1jQ1dfbWhqYWdXSVJVUnhDak9NeUMtUDZ1QU1wRm9CV29RVEpTQzJESmdRM2R1WFFR?oc=5"
+    },
+    {
+     "veiculo": "Investidor10",
+     "titulo": "CSN fecha venda da CSN Cimentos à chinesa Huaxin por R$ 12,7 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHJnTUh5ajVGZnJLaEc5SnlnNmgyX19XSDRGdnFFVmRFdHhQdVVWcWhuM2duVnlCWUh2OWl1V21oVzNHZlV6bTdwc09vOFpxcjk0N2hnQ0RsdFFuVjc1N1ZsV0wtbUg4UU1CNmN4RnQ3Y29sQlVQNWVXWi1GU1VhcmEzT2t3bndLSTVuVVg4NV9mNVJfVnlXTk9MZGVoRHFwN3ZLaHYtYTJhRTZaUU1DeHljNGljQ1HSAbcBQVVfeXFMTmxyZ01IeWo1RmZyS2hHOUp5ZzZoMl9fV0g0RnZxRVZkRXR4UHVVVnFobjNnblZ5QllIdjlpdVdtaFczR2ZVem03cHNPbzhacXI5NDdoZ0NEbHRRblY3NTdWbFdMLW1IOFFNQjZjeEZ0N2NvbEJVUDVlV1otRlNVYXJhM09rd253S0k1blVYODVfZjVSX1Z5V05PTGRlaERxcDd2S2h2LWEyYUU2WlFNQ3h5YzRpY0NR?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Para reduzir dívida, CSN (CSNA3) acerta venda da CSN Cimentos à chinesa Huaxin por R$ 12,7 bilhões",
+     "url": "https://www.moneytimes.com.br/para-reduzir-divida-csn-csna3-acerta-venda-da-csn-cimentos-a-chinesa-huaxin-por-r-127-bilhoes-igdl/"
+    }
+   ],
+   "score": 33.7
+  },
+  {
+   "id": "c9df5428bb",
+   "titulo": "Presidente Lula acompanha monitoramento do Enem",
+   "url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
+   "veiculo": "Lula",
+   "publicado": "2026-11-08T17:33:54+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Presidente+Lula+acompanha+monitoramento+Enem",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Lula acompanha Enem e enaltece participação feminina: ‘Fato extraordinário’",
+     "url": "https://www.youtube.com/watch?v=M541pXBIJrk"
+    }
+   ],
+   "score": 31.9,
+   "video_url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
+   "video_canal": "Lula",
+   "video_por_hora": 37415,
+   "video_acima_mediana": 13.1,
+   "videos": [
+    {
+     "canal": "Lula",
+     "titulo": "Presidente Lula acompanha monitoramento do Enem",
+     "url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
+     "por_hora": 37415
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Lula acompanha Enem e enaltece participação feminina: ‘Fato extraordinário’",
+     "url": "https://www.youtube.com/watch?v=M541pXBIJrk",
+     "por_hora": 274
+    }
+   ]
   },
   {
    "id": "833ea5c1e0",
@@ -205,70 +282,31 @@
      "url": "https://www.youtube.com/watch?v=kOl_knIZkUQ"
     }
    ],
-   "score": 31.7,
+   "score": 30.8,
    "video_url": "https://www.youtube.com/watch?v=kOl_knIZkUQ",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 3188,
-   "video_acima_mediana": 1.5,
+   "video_por_hora": 3000,
+   "video_acima_mediana": 1.2,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Fuga de Flávio Bolsonaro aos EUA: postura de Trump frustrou aliados | DESTAQUES DA SEMANA",
      "url": "https://www.youtube.com/watch?v=kOl_knIZkUQ",
-     "por_hora": 3188
+     "por_hora": 3000
     },
     {
      "canal": "UOL",
      "titulo": "Fuga de Flávio Bolsonaro aos EUA é condenada por 6 em cada 10 brasileiros, diz pesquisa Quaest",
      "url": "https://www.youtube.com/watch?v=jGcphU5q6rA",
-     "por_hora": 1164
+     "por_hora": 2058
     },
     {
      "canal": "InfoMoney",
      "titulo": "Quaest: direita se divide sobre Flávio Bolsonaro; 62% reprovam viagem aos EUA | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=dREhye9fZ0Q",
-     "por_hora": 287
+     "por_hora": 554
     }
    ]
-  },
-  {
-   "id": "be6dfd1342",
-   "titulo": "CSN assina contrato para vender unidade de cimentos à chinesa Huaxin por R$ 12,7 bi",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/csn-assina-contrato-para-vender-unidade-de-cimentos-a-chinesa-huaxin-por-r-127-bi.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-08T17:28:27+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=CSN+assina+contrato+para+vender+unidade+cimentos+chinesa+Huaxin",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Mônica Scaramuzzo: Chinesa Huaxin compra CSN Cimentos por R$ 12,7 bilhões",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGpNYjZ1Q1VFRVJQbXJqX0N5Ym1ldHVwd0JWcUUwYUhFY1lZVjF3bkQwUGo0UU1vRGsxVnl3Q3EtcDZVTXc2YW5JTWFiN21MN2RBS21RZ2xDUFpBT0MzTmR5N3pUdnV0SEI2RE9ILVVqaE43VHQtX0NSd1hYQW1XT1hkbElsVDJFNE4xLS1jQ1dfbWhqYWdXSVJVUnhDak9NeUMtUDZ1QU1wRm9CV29RVEpTQzJESmdRM2R1WFFR?oc=5"
-    },
-    {
-     "veiculo": "Investidor10",
-     "titulo": "CSN fecha venda da CSN Cimentos à chinesa Huaxin por R$ 12,7 bilhões",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHJnTUh5ajVGZnJLaEc5SnlnNmgyX19XSDRGdnFFVmRFdHhQdVVWcWhuM2duVnlCWUh2OWl1V21oVzNHZlV6bTdwc09vOFpxcjk0N2hnQ0RsdFFuVjc1N1ZsV0wtbUg4UU1CNmN4RnQ3Y29sQlVQNWVXWi1GU1VhcmEzT2t3bndLSTVuVVg4NV9mNVJfVnlXTk9MZGVoRHFwN3ZLaHYtYTJhRTZaUU1DeHljNGljQ1HSAbcBQVVfeXFMTmxyZ01IeWo1RmZyS2hHOUp5ZzZoMl9fV0g0RnZxRVZkRXR4UHVVVnFobjNnblZ5QllIdjlpdVdtaFczR2ZVem03cHNPbzhacXI5NDdoZ0NEbHRRblY3NTdWbFdMLW1IOFFNQjZjeEZ0N2NvbEJVUDVlV1otRlNVYXJhM09rd253S0k1blVYODVfZjVSX1Z5V05PTGRlaERxcDd2S2h2LWEyYUU2WlFNQ3h5YzRpY0NR?oc=5"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Para reduzir dívida, CSN (CSNA3) acerta venda da CSN Cimentos à chinesa Huaxin por R$ 12,7 bilhões",
-     "url": "https://www.moneytimes.com.br/para-reduzir-divida-csn-csna3-acerta-venda-da-csn-cimentos-a-chinesa-huaxin-por-r-127-bilhoes-igdl/"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Para reduzir dívida, CSN (CSNA3) acerta venda da CSN Cimentos à chinesa Huaxin por R$ 12,7 bilhões",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNF8xTWh5R1N2WDg1c3NpR1F6VXpGY0NQbUxXbWxnZjMweVRmZTZBTktEM3JVUk1ZcEt1clBOaVZidW95WHlpWDU0Q2xLV2NDenVjSzFQaU9qQlY0Wi1xNTBfdktpRmZkM1FpR0hXekhmMlRLbldqQy0taDZybEFYUGZsN2tpdHoxZmtpanduYUlFeE4yR3g1dDQyUEVKUV9ZejJVNC1FckxkZl9OVnlCN0poQnBUdkkxQ3RqUGJpRzM3Q2xlRmhRSQ?oc=5"
-    }
-   ],
-   "score": 30.7
   },
   {
    "id": "ec6dec1bd2",
@@ -303,46 +341,38 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVQ2M1ZkdktHaUdmT2I0Vzd0ZGU0RE5WQ1Nnd2ltUHVjR2o2anpJTElhcW5qeHVKeGFIWTkxdmFveEtWRHdrMlA0eUlkMVdPb29yV290UVZwYUpYNnpLR2d3SW11dndIZFlEQ2llczdyLU5VV3NOQ0NCOE9hVzM5bzl2NUEzNFdZRHdnN0JWYzdCc0huREQxajJkckpxUllHdnljYmhLWVhuQ2FWT1Q1U1l4TjZYaGlpZkdEOEh2ZWw1M2dkTjFXVDgtMGxBOGl4S3FneU9xUlZzQk3SAdsBQVVfeXFMTWFUNjNWZHZLR2lHZk9iNFc3dGRlNEROVkNTZ3dpbVB1Y0dqNmp6SUxJYXFuanh1SnhhSFk5MXZhb3hLVkR3azJQNHlJZDFXT29vcldvdFFWcGFKWDZ6S0dnd0ltdXZ3SGRZRENpZXM3ci1OVVdzTkNDQjhPYVczOW85djVBMzRXWUR3ZzdCVmM3QnNIbkREMWoyZHJKcVJZR3Z5Y2JoS1lYbkNhVk9UNVNZeE42WGhpaWZHRDhIdmVsNTNnZE4xV1Q4LTBsQThpeEtxZ3lPcVJWc0JN?oc=5"
     }
    ],
-   "score": 29.6
+   "score": 28.7
   },
   {
-   "id": "0e5dd3f82b",
-   "titulo": "Casas Bahia adia para dezembro divulgação de balanço do 3º trimestre",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/casas-bahia-adia-para-dezembro-divulgacao-de-balanco-do-3o-trimestre.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-07T23:38:48+00:00",
+   "id": "599252237c",
+   "titulo": "Quem vai fazer investimentos em uma economia desordenada?",
+   "url": "https://www.youtube.com/watch?v=ycOwdYwBBkg",
+   "veiculo": "PL",
+   "publicado": "2026-11-08T20:01:02+00:00",
    "temas": [
     "economia",
-    "mercado"
+    "mercado",
+    "politica"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Casas+Bahia+adia+para+dezembro+divulga%C3%A7%C3%A3o+balan%C3%A7o+trimestre",
-   "veiculos": 8,
+   "busca_video": "https://www.youtube.com/results?search_query=Quem+vai+fazer+investimentos+uma+economia+desordenada",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
+   "outras": [],
+   "score": 27.0,
+   "video_url": "https://www.youtube.com/watch?v=ycOwdYwBBkg",
+   "video_canal": "PL",
+   "video_por_hora": 36,
+   "video_acima_mediana": 1.2,
+   "videos": [
     {
-     "veiculo": "Fato Amazônico",
-     "titulo": "Casas Bahia adia divulgação de balanço do terceiro trimestre para dezembro",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNNMVpET29XZkoxNV9PUFBxM25BWWJCTC10X1M4cy1pY1VYeWpTcjlqV1FQLXlvQnp5SU5GMXcwanJ3dmNMZkhScWpodUR3aXFQNlhMQ2M0OHFpM0xsenJQOV9OSzNhRFVKZjEyZS0tZzNZaDVCTURQcUtEdHVHZUw2bjBPMWdwQWlPTnZnRU5CdUhidE1fMUduYjNYbnFVdkNKNVdENA?oc=5"
-    },
-    {
-     "veiculo": "Economic News Brasil",
-     "titulo": "Casas Bahia adia balanço de resultados, enquanto Justiça mantém cobrança mensal de contas",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMWhQUGJMZWIzVUdDcjJPdjFVdUxIdzdLMm9JbGxfRzRoZG1DbUthbGVpNnc1SGp3eXlSZHNhUW82Q1E0LWpucS1ONXR4aG54Njh6TTN5OUMtY3c3YjRGZDBxc2FUYjZmTlRJRzdKWWRQampSdXFJWXNWVUVtWTdTTnN3?oc=5"
-    },
-    {
-     "veiculo": "Ubiratã Online Notícias - A realidade ao seu alcance!",
-     "titulo": "Casas Bahia adia divulgação do balanço do 3º trimestre para 10 de dezembro",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnlFLWVmWTVlT3BsbnhKVGdsWTBfN2ZpWU9Ha2RwUEtzOExSbHJMMlZKbFhDV0tKS2VPNkJTbTBSMy0zbEI1eXJFWWNpVDdFRXZLRWh2RGFramtoeDE3dFFOQzZGWGhyZEJiaXZKR3l2aWpnU1ZsckEwN1JpMy10VHhTNmJTbkpwTm5NWEpSbHZNNGR0TEhTOW5VdTZYMGNwdHpSUU12TjlfNmRYT3R0WkU3M0oyZ9IBtgFBVV95cUxNMnlFLWVmWTVlT3BsbnhKVGdsWTBfN2ZpWU9Ha2RwUEtzOExSbHJMMlZKbFhDV0tKS2VPNkJTbTBSMy0zbEI1eXJFWWNpVDdFRXZLRWh2RGFramtoeDE3dFFOQzZGWGhyZEJiaXZKR3l2aWpnU1ZsckEwN1JpMy10VHhTNmJTbkpwTm5NWEpSbHZNNGR0TEhTOW5VdTZYMGNwdHpSUU12TjlfNmRYT3R0WkU3M0oyZw?oc=5"
-    },
-    {
-     "veiculo": "Mercado&Consumo",
-     "titulo": "Casas Bahia adia divulgação do balanço do 3º trimestre para 10/12",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnRCci1sNnFoTG15QnF3UkljdUh1RmNWQldwWEI5Tnc1UGV3YWx4QjVmQ0xvakROS09KaS04OXR0ZjZaY0YxbG50RHhGYWhSdjZPQzFzdm9rMkVEVm5fOS1tR25GYlJIVG4xazJqMi1QeURTNEluZ2QxdmsweTh1eFAwcWxWZEpLNUV0UkI5MW1RNWp1djVOeExRTkJ1SUlQc1lnRXUzR1ZiRzdZelFvSHYtUlNjRGxq0gG-AUFVX3lxTE5xUXBfazhpaXhnLVJ5QWEyUDRzaGx3d0h1VE9SMnE5RUJ3N3ROc2Z2dGdmVF9yVVdOanlROVNQMGllSGp5NWtqeFQ4cW5lNDRyWHlURi1BNy1mWUhSM1BNN2hLVThHd3g3QldNaUJzbFF3Vy0yWTZ2S3Y0aVU4aUw0YlRxaUVEdC1pVTBNRUV1aUt3ekpaSFcySWtBYzVpcmN5R292TVhGUU40SDN4VFFpNmtrallNNHJMaGF1ekE?oc=5"
+     "canal": "PL",
+     "titulo": "Quem vai fazer investimentos em uma economia desordenada?",
+     "url": "https://www.youtube.com/watch?v=ycOwdYwBBkg",
+     "por_hora": 36
     }
-   ],
-   "score": 29.3
+   ]
   },
   {
    "id": "4f53194edd",
@@ -360,17 +390,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 27.0,
+   "score": 26.2,
    "video_url": "https://www.youtube.com/watch?v=Bq5bCUG8v3c",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 567,
+   "video_por_hora": 522,
    "video_acima_mediana": 0.4,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Juros elevados afetam o mercado de loteamentos? Presidente da AELO explica",
      "url": "https://www.youtube.com/watch?v=Bq5bCUG8v3c",
-     "por_hora": 567
+     "por_hora": 522
     }
    ]
   },
@@ -410,66 +440,7 @@
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1Nwdzg1RnRhM0RpcFZlVHo0V3VQVWhsdTJSUm1aVUZkUE1EREVEbWM3X3RUa3hpZTJocFZNM2kzeHluekk3aHN6ZktxemtkMHZUZ3M4Z0JrZlZudUxmWExmNTNxRkRUdjJoM2tabnV1S0xIZ1RKaVBRMWVOWTBaYVlPSW1GU3AxaGt1RkxDLTZkbzI2RzJqaURXVkZFVzAwV1l5SEVYT2R4SzNzSFFpVDktWENPcVd4dGFranE3YktVT3ZLMUN0VTkxUkNlcUdXUjRqV0p5VU5qQllySFNOTlJoVjBQU1Nqd1FnQUpMUWE3c1FoakN5YkVIV0LSAYICQVVfeXFMTlQwcl9HeWdhWHN4MnR1S3ozdnQtVUptRmR5VEVpSVZiSVZldzVLdm1qSnNmdzNrQVA1c0V3T0o1dk5URGtYS0pBMGRSdHBPejVEMTRlRndiWk1IcmdjVmZlYlZENXBtN1l3WTFPQ3psblFNV0hKeVFiNXp3a0lHTXl1cU9YWndnLVQ0aXN5aVduS3p1ZERicDNzQl9HaFlWQ20yWlVSOWZlNmMzOTRNUUFzbW11S0liMXVJcXU2aThtTl9xVDBjYnlzNmFQdUhoU2ZQT3BFTlN3TmxTOXRDUTNjclQ5WXJpeFpjUE9vSzZWZE10Q1lDWnhwMjhkYm9ZaDdB?oc=5"
     }
    ],
-   "score": 26.9
-  },
-  {
-   "id": "ec30066efc",
-   "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
-   "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
-   "veiculo": "UOL",
-   "publicado": "2026-11-08T17:03:20+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+Enem+guerra+contra+retrocesso+Quaest+48%25",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 26.7,
-   "video_url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
-   "video_canal": "UOL",
-   "video_por_hora": 10405,
-   "video_acima_mediana": 3.7,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
-     "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
-     "por_hora": 10405
-    }
-   ]
-  },
-  {
-   "id": "3efc1e5057",
-   "titulo": "Ministro explica ajuste fiscal e redesenho da Esplanada para quarto mandato de Lula | #Podnews",
-   "url": "https://www.youtube.com/watch?v=dWeTPVCHykU",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-08T16:50:22+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ministro+explica+ajuste+fiscal+redesenho+Esplanada+para+quarto+mandato",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 26.5,
-   "video_url": "https://www.youtube.com/watch?v=dWeTPVCHykU",
-   "video_canal": "SBT News",
-   "video_por_hora": 82,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Ministro explica ajuste fiscal e redesenho da Esplanada para quarto mandato de Lula | #Podnews",
-     "url": "https://www.youtube.com/watch?v=dWeTPVCHykU",
-     "por_hora": 82
-    }
-   ]
+   "score": 26.0
   },
   {
    "id": "8f9ba5952e",
@@ -488,101 +459,49 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 26.4,
+   "score": 25.5,
    "video_url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
    "video_canal": "InfoMoney",
-   "video_por_hora": 943,
-   "video_acima_mediana": 4.0,
+   "video_por_hora": 763,
+   "video_acima_mediana": 3.4,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Lula enfrenta pressão por ajuste fiscal e avança com PEC da Segurança | Mapa de Risco",
      "url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
-     "por_hora": 943
+     "por_hora": 763
     }
    ]
   },
   {
-   "id": "8239d5c27d",
-   "titulo": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/gonet-pede-ao-stf-que-suspenda-todas-as-acoes-sobre-bets-no-brasil.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-08T00:07:05.523367+00:00",
+   "id": "4e01299371",
+   "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
+   "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-08T15:40:18+00:00",
    "temas": [
-    "comportamento",
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Gonet+pede+STF+que+suspenda+todas+a%C3%A7%C3%B5es+sobre+bets",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=Abuso+poder+pol%C3%ADtico+Especialista+explica+a%C3%A7%C3%A3o+contra+Lula+Alckmin",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "PGR pede ao STF suspensão de ações contra proibição das bets | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=xR1uJI2vHqI"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Gonet pede ao STF para suspender ações sobre MP que acabou com as Bets",
-     "url": "https://www.estadao.com.br/economia/gonet-pedido-stf-suspensao-acoes-bets-npr/"
-    }
-   ],
-   "score": 25.7,
-   "video_url": "https://www.youtube.com/watch?v=xR1uJI2vHqI",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 3000,
+   "outras": [],
+   "score": 24.1,
+   "video_url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 7431,
    "video_acima_mediana": 6.1,
    "videos": [
     {
-     "canal": "Band Jornalismo",
-     "titulo": "PGR pede ao STF suspensão de ações contra proibição das bets | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=xR1uJI2vHqI",
-     "por_hora": 3000
+     "canal": "Jovem Pan News",
+     "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
+     "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
+     "por_hora": 7431
     }
    ]
-  },
-  {
-   "id": "b545b51502",
-   "titulo": "Lula escanteia Boulos e Hoffmann após ataques ao mercado financeiro",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVN6RjlHenVybHQtaFNFanRJWS1yczFkWWNkM2xwLTJrUVlOSXpUZ2haX2N6RGRBMlhlWGhScy1jOHZCOU92akF6N183aUVMZTdNTXlIcDhkVWpfUGdSMzVURTVNeU5GUE0wR3JxNHF4ZkRrMkVXTFlJSHpGTnhGYUpfdGNacjJrck5ET3d4ME5tdUJVVjlYemVuMFlBdDJFdzhLTlF1LVNYVmRhbjNzM18zUHlBUms?oc=5",
-   "veiculo": "Blog do Gustavo Negreiros",
-   "publicado": "2026-11-08T13:46:21+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+escanteia+Boulos+Hoffmann+ap%C3%B3s+ataques+mercado+financeiro",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Diário do Estado",
-     "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5"
-    },
-    {
-     "veiculo": "Diário do Estado",
-     "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5"
-    },
-    {
-     "veiculo": "Diário do Estado",
-     "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5"
-    },
-    {
-     "veiculo": "VEJA",
-     "titulo": "Por que o mercado financeiro duvida do discurso de responsabilidade fiscal de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHNOUHRhWkhudTM0Z3RtNzRIM0xJZlhRZ1duWkZ5SW1FX0Etcl85ZVM2dnZqSk1ZTnQyd182MGpLaFk3U29NSjRjOUtuZ0dSQU5yUWlUTGNPdEF2Z0ZrdjlrRG11bGpXXzlxNUN2T0Zwc1JYanNqMmM3N0d6Mmh3VVpoaHE2Ry1rQ1dCSVZXNWlJSG95NzZWS1FCWkk5UDBFeENmM09TVkxnUEo0U0xYRWpvYzctUG9LdVE?oc=5"
-    }
-   ],
-   "score": 25.2
   },
   {
    "id": "28da78e4c1",
@@ -600,82 +519,43 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.0,
+   "score": 23.3,
    "video_url": "https://www.youtube.com/watch?v=eEbzCYjSFjA",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 359,
-   "video_acima_mediana": 0.2,
+   "video_por_hora": 538,
+   "video_acima_mediana": 0.4,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Mercado de máquinas agrícolas sente redução dos investimentos no campo | HORA H DO AGRO",
      "url": "https://www.youtube.com/watch?v=eEbzCYjSFjA",
-     "por_hora": 359
+     "por_hora": 538
     }
    ]
   },
   {
-   "id": "60f4b1b598",
-   "titulo": "Juros futuros registram alta em dia com IPCA e ata do Copom",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0ZVZnFNWHFUdGpGYkQzY3d5cHlaNko5SVFZWDdMY3FNMlRmbnFfVC1tY3VXemEySzFEZE4zb0RMVW81SFZDSzd5Q2k4QW5CWlUtdGtYdk5sWm5lOUFvZndxX19OeGVCV28tZ2h1eDhkRGhVS3hVbGh2U3U2cjVSUUtQWGdia0NqS1cwaFFPTGZ3UDVIVm1lalRFTGhHZ2JsT1JPeDVQSnByR1I2U1pHYV9R?oc=5",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T15:21:28+00:00",
+   "id": "e8f09adea6",
+   "titulo": "Mudança de estratégia do Itaú, alerta sobre o Banco do Brasil e encontro de Lula com Lara Resende; veja as mais lidas da semana",
+   "url": "https://www.seudinheiro.com/2026/economia/mudanca-de-estrategia-do-itau-alerta-sobre-o-banco-do-brasil-e-encontro-de-lula-com-lara-resende-veja-as-mais-lidas-da-semana-julw/",
+   "veiculo": "Seu Dinheiro",
+   "publicado": "2026-11-08T19:45:00+00:00",
    "temas": [
-    "economia",
-    "mercado"
+    "mercado",
+    "politica"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Juros+futuros+registram+alta+dia+com+IPCA+ata+Copom",
-   "veiculos": 2,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Mudan%C3%A7a+estrat%C3%A9gia+Ita%C3%BA%2C+alerta+sobre+Banco+Brasil+encontro+Lula",
+   "veiculos": 1,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Juros futuros registram alta em dia com IPCA e ata do Copom",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0ZVZnFNWHFUdGpGYkQzY3d5cHlaNko5SVFZWDdMY3FNMlRmbnFfVC1tY3VXemEySzFEZE4zb0RMVW81SFZDSzd5Q2k4QW5CWlUtdGtYdk5sWm5lOUFvZndxX19OeGVCV28tZ2h1eDhkRGhVS3hVbGh2U3U2cjVSUUtQWGdia0NqS1cwaFFPTGZ3UDVIVm1lalRFTGhHZ2JsT1JPeDVQSnByR1I2U1pHYV9R?oc=5"
-    },
-    {
-     "veiculo": "ativovirtual.com.br",
-     "titulo": "IPCA e ata do Copom na mesma semana: o que testa a curva de juros",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVlqNGNaUEcwdmUtV2FQbmdIYklzNEc1UHNiS3JqN0tSSzhtZWNOVTBDMmJvNnRPeUk4Q1ZIVXJ3ejFxWjJzNF9WN1BGLU1RRGY5ZVF4YlhlWjlJRXZjTm1rVi02UWI4ME9JbklTXzBVaE5rb2Y1djNUblAtc0NmZnFuMzNBUDhDaW16UlNvMG4zTS1sa0NZS1lKSVpTdVFYTGlZUEUyUEwzUkhVbl9Qbw?oc=5"
-    },
-    {
-     "veiculo": "ativovirtual.com.br",
-     "titulo": "IPCA e ata do Copom na mesma semana: o que testa a curva de juros",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVlqNGNaUEcwdmUtV2FQbmdIYklzNEc1UHNiS3JqN0tSSzhtZWNOVTBDMmJvNnRPeUk4Q1ZIVXJ3ejFxWjJzNF9WN1BGLU1RRGY5ZVF4YlhlWjlJRXZjTm1rVi02UWI4ME9JbklTXzBVaE5rb2Y1djNUblAtc0NmZnFuMzNBUDhDaW16UlNvMG4zTS1sa0NZS1lKSVpTdVFYTGlZUEUyUEwzUkhVbl9Qbw?oc=5"
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Mudança de estratégia do Itaú, alerta sobre o Banco do Brasil e encontro de Lula com Lara Resende; veja as mais lidas da semana",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTVZxTGo2M3p1N25oMjloVmtOUC1Dbm9lYXQzTEV5ZVpHZnd2bk05T0ltZTltTGZLaTNucEM4SUxlWW5uQmhIZDFWcm1MY21pbC0tampGM1d2VjloVnc2U2NKT0huSG5FblRHNl80X2hkSU5ua3RDd1llMEtuNkhBWkpvR2Z1dm5yRllqQ01mUFNXNFRhWE5QRUNmLVgzTXNYN1dFWXk4ZEZoc1FsVHN0M1V2N1ZnM2ZMRlRINEtYb0pYT0RHXzZoWmsyUFkzVTE0UGRZMjY0dlE2bkhDZmNuQmRiYkNJcVZqSzdTSkt4Z2RKc3d2b2RsLWUyVlRROHprT284?oc=5"
     }
    ],
-   "score": 23.8
-  },
-  {
-   "id": "6387457856",
-   "titulo": "Quando Lula define novos ministérios? Wellington Dias detalha transição |#Podnews",
-   "url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-08T16:55:24+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Quando+Lula+define+novos+minist%C3%A9rios+Wellington+Dias+detalha+transi%C3%A7%C3%A3o",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.7,
-   "video_url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
-   "video_canal": "SBT News",
-   "video_por_hora": 10488,
-   "video_acima_mediana": 9.9,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Quando Lula define novos ministérios? Wellington Dias detalha transição |#Podnews",
-     "url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
-     "por_hora": 10488
-    }
-   ]
+   "score": 22.8
   },
   {
    "id": "2802ffa26a",
@@ -694,88 +574,76 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.6
+   "score": 22.8
   },
   {
-   "id": "3a620cb86d",
-   "titulo": "Lula vê Brasil com \"força\" na COP31 e diz que cobrará ação de outros países | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=t3Y4bU-9ePs",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T17:37:13+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+Brasil+com+for%C3%A7a+COP31+diz+que+cobrar%C3%A1+a%C3%A7%C3%A3o",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.2,
-   "video_url": "https://www.youtube.com/watch?v=t3Y4bU-9ePs",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 930,
-   "video_acima_mediana": 0.4,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula vê Brasil com \"força\" na COP31 e diz que cobrará ação de outros países | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=t3Y4bU-9ePs",
-     "por_hora": 930
-    }
-   ]
-  },
-  {
-   "id": "b7a2ecbac3",
-   "titulo": "Fim da escala 6x1 vira disputa no STF sob pressão do comércio e indústria | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=ouSMwbJQAhM",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T15:58:24+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fim+escala+6x1+vira+disputa+STF+sob+press%C3%A3o+com%C3%A9rcio",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.8,
-   "video_url": "https://www.youtube.com/watch?v=ouSMwbJQAhM",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 1729,
-   "video_acima_mediana": 0.8,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Fim da escala 6x1 vira disputa no STF sob pressão do comércio e indústria | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=ouSMwbJQAhM",
-     "por_hora": 1729
-    }
-   ]
-  },
-  {
-   "id": "6c4196ad72",
-   "titulo": "Redação do Enem 2026 aborda valorização do SUS como direito universal",
-   "url": "https://www.poder360.com.br/poder-educacao/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sus-como-direito-universal/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-08T17:09:05+00:00",
+   "id": "06890b60a2",
+   "titulo": "Governo Lula é aprovado por 48% dos brasileiros após presidente ser reeleito",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3FYS1MzRFlXemEtUl9LTnoxT1poQW1pWlBZUHVHSThLbnN6UE8xaGE4aDBVRmFYZkFxeTB4RURqV1Exa1cyc2U2ZnFmTHZ1enNkZ1Y5ZC1Mb0JmTkVUN0lLYmVxM05nbkRwSWJjQXRZaWY3RTA0YUp1TG1uWW1Qc0RWdm1rZTEzbDV1aERfQ1VLN1JOZzhCcFZoOE50bnFSRzhkN0o5SGY?oc=5",
+   "veiculo": "amazonas atual",
+   "publicado": "2026-11-08T18:01:40+00:00",
    "temas": [
     "economia",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Reda%C3%A7%C3%A3o+Enem+2026+aborda+valoriza%C3%A7%C3%A3o+SUS+como+direito+universal",
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+aprovado+por+48%25+dos+brasileiros+ap%C3%B3s+presidente",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CBN Recife",
+     "titulo": "Quaest: governo Lula é aprovado por 48% dos brasileiros; economia é a principal preocupação",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHFGTzhpR2ZsdkFqTFdqNlc0YjlrX0JhX3JiTVVDVDJhOEZfbGRzUzg5V0NLd3gzM2hkUW9oRm5ZQ2dVLUFHLVdfNlh1MjVMYWlzYnVzZjd1a091QUVnUnZCemJhbkgwU3ptZUJtV3hoNC1qZ0U3SFJJN2dXbG9uZExaMU9ERHRVTWRBYkJQUlRxb3MxN2NjVnFYanFNRFY5aTBYemxMbWE5d0QwVHNCYlMyWjczV2FsTE42eHE2aEpCNWpL?oc=5"
+    }
+   ],
+   "score": 22.1
+  },
+  {
+   "id": "d9412bb66a",
+   "titulo": "Gasolina custa R$ 6,53 no Pará; estado tem 12º maior preço entre as unidades da Federação",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXl2M3Mzb2lvUDBZeFg1ZFpObUZmVlVhMWFDVjZ6RWVKQTAwWklwZFVEOEtJbU01ZW0yNE52TERWY0prdzRUbVQ1S2JNZ2I3cFpqWXZCODMwYmNXQ1d3YVlPeVh3NDFGZUNlN3pFNG85YkFmeXNZanJEWDY4QXZ0Vm12QzlRTVo2YkswRFdhNXVyUzA3NEpqY3FCc3lLVlNLa3FKQnVrYktnQlF3clk3eF9FcVhjWjRTQVdF?oc=5",
+   "veiculo": "Portal Canaã",
+   "publicado": "2026-11-08T19:45:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Gasolina+custa+6%2C53+Par%C3%A1+estado+tem+12%C2%BA+maior+pre%C3%A7o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.8
+  },
+  {
+   "id": "8c83b42d4b",
+   "titulo": "Lula se manifesta sobre o tema da redação do Enem: \"Viva o SUS\"",
+   "url": "https://www.metropoles.com/brasil/lula-se-manifesta-sobre-o-tema-da-redacao-do-enem-viva-o-sus",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-11-08T18:43:18+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+manifesta+sobre+tema+reda%C3%A7%C3%A3o+Enem+Viva+SUS",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "InfoMoney",
-     "titulo": "Enem 2026: “A valorização do SUS como direito universal” é tema da redação",
-     "url": "https://www.infomoney.com.br/brasil/enem-2026-a-valorizacao-do-sus-como-direito-universal-e-tema-da-redacao/"
+     "veiculo": "UOL",
+     "titulo": "Redação do Enem sobre o SUS: professores explicam tema e argumentos para prova com nota alta",
+     "url": "https://www.youtube.com/watch?v=nsLHlXFOt7U"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Tema do Enem e no centro das discussões sobre ajuste fiscal, SUS movimentou R$ 504 bi em 2025",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/08/tema-do-enem-e-no-centro-das-discusses-sobre-ajuste-fiscal-sus-movimentou-r-504-bi-em-2025.ghtml"
     },
     {
      "veiculo": "Valor",
@@ -783,7 +651,241 @@
      "url": "https://valor.globo.com/brasil/noticia/2026/11/08/tema-da-redacao-do-enem-deste-ano-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal.ghtml"
     }
    ],
-   "score": 21.6
+   "score": 21.8,
+   "video_url": "https://www.youtube.com/watch?v=nsLHlXFOt7U",
+   "video_canal": "UOL",
+   "video_por_hora": 934,
+   "video_acima_mediana": 0.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Redação do Enem sobre o SUS: professores explicam tema e argumentos para prova com nota alta",
+     "url": "https://www.youtube.com/watch?v=nsLHlXFOt7U",
+     "por_hora": 934
+    }
+   ]
+  },
+  {
+   "id": "9014f84827",
+   "titulo": "Vitória democrata no EUA derruba ações do setor de IA",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN0FtbjJPdGRkc3VIcTBoMmllNkk1NzFDSFB3VXdRZVBnUTF4dHZpWUE1cHBDendpMVF2ajVCZTV2UGpZVnJqZ3J0eFJHQzhsazhpZGRSTjRJUWNfUnRCX2ZYa3ZaRW85RXE2OXlGLWxpbl9QQk41d0x3Q1ZNRmhQdUx0ZWZTUE16TG9nZzcwMllERkxsbU05dWRRWlRfWU0wQmE0WXh4NGIxd29XaHE3ZkNJVEd1QjQ5enNZeGpR0gHDAUFVX3lxTFBVUUFtUzYxdVU2ZGo0S3U5WVNBd3dMeFZvRy0tSTJRbHZuSk9XNGVGM2t0Ulo4QU9sUGxGc0lnNzhUSzQ0bmU4Tk9LamRIY0s4TllCbnR5R1otSFR4dlNvQlMydGhGRnhhVE51WHJlT01EaWV3dDBCMXVaa3NRUHdDUGFmMDlhX3QydzNPVW5UZGhDcHgyazhLRWJoZUNFdGhRRlVYOW9JODVCTkJsSnBGQk5jMUFlM25ab3daMWNIUzByZw?oc=5",
+   "veiculo": "Correio Braziliense",
+   "publicado": "2026-11-08T18:41:44+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Vit%C3%B3ria+democrata+EUA+derruba+a%C3%A7%C3%B5es+setor",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Estadão",
+     "titulo": "Dow Jones salta 3% e Bolsas de NY disparam com vitória democrata nos EUA e novo tombo do petróleo",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMjlaejl2YkpIMzFzVVBieWRYY0t2RHcxVzdSZTZFSEVqTTYxRmZpQUU2LWZ1RlVaMUdGcXJCZWJZbUxYRVhQRk5fd1JQS0VIbkpzckhtelp6aGQ3bHRCdmgtWm9PcDYySjNuV2RRa3VDOTZpaVRia19aOER3ajZ1ZVZCczdlYjJkc3NLb21SSmJqQnpnWko0UVl3XzJGMUphTUVjUkY0U1hLS0lzNnI4VnZrdGpQXzB3MmFITEt1cHVud1JFeDVhMjRSVEZBRy0tbTNKQmluTHdxbTNCbjhLYURaUlo4dElqN3FMWVpRUUNuQQ?oc=5"
+    }
+   ],
+   "score": 21.4
+  },
+  {
+   "id": "6467210053",
+   "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5",
+   "veiculo": "Diário do Estado",
+   "publicado": "2026-11-08T13:46:21+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Por+que+ceticismo+predomina+mercado+financeiro+ap%C3%B3s+discurso+Lula",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Diário do Estado",
+     "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5"
+    },
+    {
+     "veiculo": "Diário do Estado",
+     "titulo": "Por que o ceticismo predomina no mercado financeiro após discurso de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaC0zanBkczc4X2RGbVRkdWQzQjlJeU5xOTR3WThKX1pJWk1iOTZrWE5KaFI0OU1hYTNQVXJCR3BGR0lHZ0VHUWN1OGd2Ulg2MHpoNjlGT09QcUJ3YkJVSWc0SHBDeGJLUVNpVi00SU5Fa1lERW5vclZjNEFXOW5jZzlNMGhYakxpekV0Vm9zMmRxbjhCVS1rM1NDcE1LZzA1cE9xZXhIWElSUQ?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "Por que o mercado financeiro duvida do discurso de responsabilidade fiscal de Lula",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHNOUHRhWkhudTM0Z3RtNzRIM0xJZlhRZ1duWkZ5SW1FX0Etcl85ZVM2dnZqSk1ZTnQyd182MGpLaFk3U29NSjRjOUtuZ0dSQU5yUWlUTGNPdEF2Z0ZrdjlrRG11bGpXXzlxNUN2T0Zwc1JYanNqMmM3N0d6Mmh3VVpoaHE2Ry1rQ1dCSVZXNWlJSG95NzZWS1FCWkk5UDBFeENmM09TVkxnUEo0U0xYRWpvYzctUG9LdVE?oc=5"
+    },
+    {
+     "veiculo": "Vero Notícias",
+     "titulo": "Gleisi Hoffmann acusa mercado financeiro de autoritarismo e critica reação a Lula",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMl9zSFpYS1BfeEM5WXMyUUlsNE95NUpZWVE3N1puODVFYTRLaFNlWDRvZlVJWW9VdTAyaVNQVXNuQjJVRlB4S3d3TlE0eU1EZ0VlSUtEb3NsTHR2SmZha2ZRZTVycmtlUmREaE5HazV0V3NPZkloY003Szg4SHNQUXo2MTFSX2MzLTBCWHh4dXo4U1JGYWVVcnVYSzBXbVVtTFA1NUhmV3ozTGRNOWNtUWRxVldLSjg?oc=5"
+    }
+   ],
+   "score": 21.4
+  },
+  {
+   "id": "81d32ce12a",
+   "titulo": "Argentina prende suspeito de ameaçar matar o papa Leão XIV",
+   "url": "https://www.cnnbrasil.com.br/internacional/argentina-prende-suspeito-de-ameacar-matar-o-papa-leao-xiv/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-08T19:22:06+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Argentina+prende+suspeito+amea%C3%A7ar+matar+papa+Le%C3%A3o+XIV",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Papa Leão XIV visita Argentina em meio a tensões com Milei",
+     "url": "https://www.youtube.com/watch?v=ZKJ06W_BP2w"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "'Argentina espera visita tensa de Papa Leão XIV', diz Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=b6C-OHN9Ouc"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Papa na América Latina: Visita a Argentina é a mais política e tensa da turnê | Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=Qv_s3fNUff0"
+    }
+   ],
+   "score": 21.3,
+   "video_url": "https://www.youtube.com/watch?v=b6C-OHN9Ouc",
+   "video_canal": "UOL",
+   "video_por_hora": 1415,
+   "video_acima_mediana": 0.5,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "'Argentina espera visita tensa de Papa Leão XIV', diz Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=b6C-OHN9Ouc",
+     "por_hora": 1415
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Papa na América Latina: Visita a Argentina é a mais política e tensa da turnê | Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=Qv_s3fNUff0",
+     "por_hora": 1364
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Papa Leão XIV visita Argentina em meio a tensões com Milei",
+     "url": "https://www.youtube.com/watch?v=ZKJ06W_BP2w",
+     "por_hora": 1183
+    }
+   ]
+  },
+  {
+   "id": "962f091603",
+   "titulo": "Ana Elisa relata ameaças de morte e estupro: 'Ganhei a eleição e perdi minha liberdade'; veja vídeo",
+   "url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+   "veiculo": "UOL",
+   "publicado": "2026-11-08T17:07:19.557266+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ana+Elisa+relata+amea%C3%A7as+morte+estupro+Ganhei+elei%C3%A7%C3%A3o+perdi",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.1,
+   "video_url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+   "video_canal": "UOL",
+   "video_por_hora": 16000,
+   "video_acima_mediana": 5.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Ana Elisa relata ameaças de morte e estupro: 'Ganhei a eleição e perdi minha liberdade'; veja vídeo",
+     "url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+     "por_hora": 16000
+    }
+   ]
+  },
+  {
+   "id": "7d0fbbf7ed",
+   "titulo": "IBOVESPA fecha hoje com queda de 2,5%",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXQ3aWhKcWdzbktpTmhjQlNkZlE1NHRkc1hHSk1yVWJKNDFENVJERWgtOHNlNVl0cW1KVl9NUzMtQ2VrLUV6eW9Va2VaRGJzUXFQRFQ4R0N3ODFqY0FZLWY1UV9sV0ZjODF0ZE1SZTRMa0JmRnVPWEU0em5NbldJU0plYWx4QQ?oc=5",
+   "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "publicado": "2026-11-08T17:32:19+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=IBOVESPA+fecha+hoje+com+queda+2%2C5%25",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.9
+  },
+  {
+   "id": "6387457856",
+   "titulo": "Quando Lula define novos ministérios? Wellington Dias detalha transição |#Podnews",
+   "url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
+   "veiculo": "SBT News",
+   "publicado": "2026-11-08T16:55:24+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Quando+Lula+define+novos+minist%C3%A9rios+Wellington+Dias+detalha+transi%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.8,
+   "video_url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
+   "video_canal": "SBT News",
+   "video_por_hora": 5265,
+   "video_acima_mediana": 5.3,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Quando Lula define novos ministérios? Wellington Dias detalha transição |#Podnews",
+     "url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
+     "por_hora": 5265
+    }
+   ]
+  },
+  {
+   "id": "1e2a182afe",
+   "titulo": "Selic: Eleição estressou a curva de juros, diz economista do Daycoval",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/selic-eleicao-estressou-a-curva-de-juros-diz-economista-do-daycoval/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-08T19:08:48+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Selic+Elei%C3%A7%C3%A3o+estressou+curva+juros%2C+diz+economista+Daycoval",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Selic: Eleição estressou a curva de juros, diz economista do Daycoval",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlVCXy1aWmZkaHVzVE90LVVhS3paZ2dadzViclh5S21fOXYyaEd3VWNVenkzWWdFSmlpUXI2d1ZFMmkwXzV6VVlOYVJSbDlTZWZRc0c0c2xXbGtRNWxmZy0wWnlNeXBRR0RmNXozQ2pUYmNRZG1qZ3lpN0h6akxzbWFPekkxTXR5bEF3bWpNejNrX0ZRaWUzLWpsZ0F1dzIxVTVCWE5QbWd5MXF2bllVeXM3NTY2TDNMNkxnVkhyc0czRUoz?oc=5"
+    }
+   ],
+   "score": 20.6
   },
   {
    "id": "8f9493cfb0",
@@ -801,42 +903,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.4
-  },
-  {
-   "id": "1aff683866",
-   "titulo": "Quaest: 62% dizem que Flávio errou ao fugir para os Estados Unidos | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=ULx5QuMnxsw",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T14:09:35+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Quaest+62%25+dizem+que+Fl%C3%A1vio+errou+fugir+para+Estados",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Blog do BG",
-     "titulo": "PESQUISA QUAEST: 62% dizem que Flávio Bolsonaro errou ao fugir para os Estados Unidos",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb09ENXNsaUJrUENxOUNwX0ZCa25lbGhwU2hNS2E3V0FmVmxHS1VOaDVzQkYyeGlsLW1BSk1DUUgzMldYSkk5Y0ZnSGZqUkp5UGJQalpFRzFFdDl0clkxbkRjbGRzaEhoVW5UWkd6TzRyMV9odFYwUTlpVWwyUTRpRU5oeXRxeGRhT0JlU1BhcHpDU0dTVFFjNFlNYlVsZkRjaEtXTmM4R0hVMGJXMHhWVnZB?oc=5"
-    }
-   ],
-   "score": 21.2,
-   "video_url": "https://www.youtube.com/watch?v=ULx5QuMnxsw",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 2150,
-   "video_acima_mediana": 1.0,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Quaest: 62% dizem que Flávio errou ao fugir para os Estados Unidos | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=ULx5QuMnxsw",
-     "por_hora": 2150
-    }
-   ]
+   "score": 20.5
   },
   {
    "id": "32e62bed6b",
@@ -853,25 +920,76 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.0
+   "score": 20.2
   },
   {
-   "id": "6181c54195",
-   "titulo": "Janones diz que perdeu 10 kg durante 2º turno",
-   "url": "https://www.poder360.com.br/poder-gente/janones-diz-que-perdeu-10-kg-durante-2o-turno/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-08T15:40:33+00:00",
+   "id": "cc2b994a98",
+   "titulo": "Rival de Netanyahu recebe mandato para formar governo em Israel; entenda",
+   "url": "https://exame.com/mundo/rival-de-netanyahu-recebe-mandato-para-formar-governo-em-israel-entenda/",
+   "veiculo": "Exame",
+   "publicado": "2026-11-08T19:38:54+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Rival+Netanyahu+recebe+mandato+para+formar+governo+Israel+entenda",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Rival de Netanyahu recebe missão para formar governo em Israel ⁠| InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=VDI8Zup7sgU"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Rival de Netanyahu recebe mandato e busca formar governo “amplo” em Israel; entenda",
+     "url": "https://www.infomoney.com.br/mundo/rival-de-netanyahu-recebe-mandato-e-busca-formar-governo-amplo-em-israel-entenda/"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Presidente de Israel escolhe rival de Netanyahu para tentar formar governo",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/07/presidente-de-israel-escolhe-rival-de-netanyahu-para-tentar-formar-governo.ghtml"
+    }
+   ],
+   "score": 20.0,
+   "video_url": "https://www.youtube.com/watch?v=VDI8Zup7sgU",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 552,
+   "video_acima_mediana": 2.5,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Rival de Netanyahu recebe missão para formar governo em Israel ⁠| InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=VDI8Zup7sgU",
+     "por_hora": 552
+    }
+   ]
+  },
+  {
+   "id": "60f4b1b598",
+   "titulo": "Juros futuros registram alta em dia com IPCA e ata do Copom",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0ZVZnFNWHFUdGpGYkQzY3d5cHlaNko5SVFZWDdMY3FNMlRmbnFfVC1tY3VXemEySzFEZE4zb0RMVW81SFZDSzd5Q2k4QW5CWlUtdGtYdk5sWm5lOUFvZndxX19OeGVCV28tZ2h1eDhkRGhVS3hVbGh2U3U2cjVSUUtQWGdia0NqS1cwaFFPTGZ3UDVIVm1lalRFTGhHZ2JsT1JPeDVQSnByR1I2U1pHYV9R?oc=5",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-08T15:21:28+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
    "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Janones+diz+que+perdeu+durante+turno",
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Juros+futuros+registram+alta+dia+com+IPCA+ata+Copom",
    "veiculos": 1,
    "rotina": false,
-   "outras": [],
-   "score": 21.0
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Juros futuros registram alta em dia com IPCA e ata do Copom",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0ZVZnFNWHFUdGpGYkQzY3d5cHlaNko5SVFZWDdMY3FNMlRmbnFfVC1tY3VXemEySzFEZE4zb0RMVW81SFZDSzd5Q2k4QW5CWlUtdGtYdk5sWm5lOUFvZndxX19OeGVCV28tZ2h1eDhkRGhVS3hVbGh2U3U2cjVSUUtQWGdia0NqS1cwaFFPTGZ3UDVIVm1lalRFTGhHZ2JsT1JPeDVQSnByR1I2U1pHYV9R?oc=5"
+    }
+   ],
+   "score": 20.0
   },
   {
    "id": "9dac8ec33c",
@@ -894,7 +1012,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnd6cGtCVXR2MWxoWWk4U28wbDVVV1RfSUZsUDVxajlGUGhNdTZCbDNFdU5LWmM0RkozTEF2STVrVUk1LVNIZnItVlM2SW9WRjdQLW55d2k5TE1NeHFSMGtRWXNqWW5jR0JJbFpfaUpLNk1vaTlIeFVkMTBFMDVQdDA4ejc2WWxHTlNNeDBBek1lRE9kamhJa3BZQzR0RlpFbUQ4Wm8ybC1hdUtNcXN1N2FYZw?oc=5"
     }
    ],
-   "score": 20.7
+   "score": 19.9
   },
   {
    "id": "31287fbdb3",
@@ -917,54 +1035,71 @@
      "url": "https://www.moneytimes.com.br/enquanto-wall-street-se-divide-sobre-o-futuro-da-inteligencia-artificial-investidores-comecam-a-mirar-na-proxima-onda-de-valorizacao-do-setor-lbrdgm105/"
     }
    ],
-   "score": 20.7
+   "score": 19.9
   },
   {
-   "id": "ebd92dc319",
-   "titulo": "3T26: Petrobras, Banco do Brasil e mais de 100 empresas divulgam resultados nesta semana; veja",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY1RBS0xOX1Vnamg4alVXZ1Z2Q2pGNHhYUlNkZDdXV0Jlc0Q5SDJFVEc2VkpZakgwaXQ5a09uVE1VeWd1bzFnRFF5ZkNoblN1djdsS2RQVnZHQ1hueThKYUFtZ2dXT2Q3TndVMVhmdDFmT3hraHJPOGN0cWY2eHlNYlQwUExyMWNrSTMzNFpoZ1Uya0dyNmU5Zm1OQnRHZjNlZ2NwWThpZFNXTmgzdlItLXNzdkxCNGlPNDY1WURtUXdEcWQ5V09lRWVmZk8xbE01dHBmZy15bGdHNWh2a2puQi1yR2F0SG_SAecBQVVfeXFMTmNUQUtMTl9VZ2poOGpVV2dWdkNqRjR4WFJTZGQ3V1dCZXNEOUgyRVRHNlZKWWpIMGl0OWtPblRNVXlndW8xZ0RReWZDaG5TdXY3bEtkUFZ2R0NYbnk4SmFBbWdnV09kN053VTFYZnQxZk94a2hyTzhjdHFmNnh5TWJUMFBMcjFja0kzMzRaaGdVMmtHcjZlOWZtTkJ0R2YzZWdjcFk4aWRTV05oM3ZSLS1zc3ZMQjRpTzQ2NVlEbVF3RHFkOVdPZUVlZmZPMWxNNXRwZmcteWxnRzVodmtqbkItckdhdEhv?oc=5",
-   "veiculo": "Investidor10",
-   "publicado": "2026-11-08T14:52:00+00:00",
+   "id": "45df90834e",
+   "titulo": "Temporais deixam cidades de SP em alerta e mobilizam equipes da Defesa Civil",
+   "url": "https://www.youtube.com/watch?v=geDx-yZSMbM",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-08T14:33:42+00:00",
    "temas": [
     "mercado"
    ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=3T26+Petrobras%2C+Banco+Brasil+mais+100+empresas+divulgam+resultados",
-   "veiculos": 2,
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Temporais+deixam+cidades+alerta+mobilizam+equipes+Defesa+Civil",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
+   "outras": [],
+   "score": 19.9,
+   "video_url": "https://www.youtube.com/watch?v=geDx-yZSMbM",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 12976,
+   "video_acima_mediana": 10.7,
+   "videos": [
     {
-     "veiculo": "Finance News",
-     "titulo": "Itaúsa, Caixa Seguridade, BB, Petrobras divulgam resultado do 3T26 nesta semana. Veja a agenda e outros destaques corporativos",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZFRtOHZpNVNvVlFfNm5VZDNhdzg0WWU4Sk1nY1ZTclNycjVNd3E0SFRjUnAtcnNsbzZqaHB0NWlKZml0WVRVa3c0VlhuYVluaVFrVEd5Q3NzMGpEOWhJZFc0cHdmRjA4a2pvaWVaM25HMXFEMGJaTEU4VVgweVBCUlhTOTgzc0gtMHZnRmxxQ1FTVlZmM24tTzBlcG1KVGtOdG5WLWtTc3JtWlh0M3NoaUZKeElFQURSU3ByS2NvV2thRGQxdllHYlBDTEVvVGFXUDBxR0ZHblVSeE8tZXBHTTA2ZVZ5ZDE3Ri1uWWl6RQ?oc=5"
+     "canal": "Jovem Pan News",
+     "titulo": "Temporais deixam cidades de SP em alerta e mobilizam equipes da Defesa Civil",
+     "url": "https://www.youtube.com/watch?v=geDx-yZSMbM",
+     "por_hora": 12976
     }
-   ],
-   "score": 20.6
+   ]
   },
   {
-   "id": "9014f84827",
-   "titulo": "Vitória democrata no EUA derruba ações do setor de IA",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN0FtbjJPdGRkc3VIcTBoMmllNkk1NzFDSFB3VXdRZVBnUTF4dHZpWUE1cHBDendpMVF2ajVCZTV2UGpZVnJqZ3J0eFJHQzhsazhpZGRSTjRJUWNfUnRCX2ZYa3ZaRW85RXE2OXlGLWxpbl9QQk41d0x3Q1ZNRmhQdUx0ZWZTUE16TG9nZzcwMllERkxsbU05dWRRWlRfWU0wQmE0WXh4NGIxd29XaHE3ZkNJVEd1QjQ5enNZeGpR0gHDAUFVX3lxTFBVUUFtUzYxdVU2ZGo0S3U5WVNBd3dMeFZvRy0tSTJRbHZuSk9XNGVGM2t0Ulo4QU9sUGxGc0lnNzhUSzQ0bmU4Tk9LamRIY0s4TllCbnR5R1otSFR4dlNvQlMydGhGRnhhVE51WHJlT01EaWV3dDBCMXVaa3NRUHdDUGFmMDlhX3QydzNPVW5UZGhDcHgyazhLRWJoZUNFdGhRRlVYOW9JODVCTkJsSnBGQk5jMUFlM25ab3daMWNIUzByZw?oc=5",
-   "veiculo": "Correio Braziliense",
-   "publicado": "2026-11-08T09:56:48+00:00",
+   "id": "2ad1c4dc1e",
+   "titulo": "Lula pode ter um 'anzol' para fisgar o centrão no Congresso | A Hora",
+   "url": "https://www.youtube.com/watch?v=SRks5SLAlZw",
+   "veiculo": "UOL",
+   "publicado": "2026-11-08T19:32:52+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Vit%C3%B3ria+democrata+EUA+derruba+a%C3%A7%C3%B5es+setor",
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+pode+ter+anzol+para+fisgar+centr%C3%A3o+Congresso+Hora",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Estadão",
-     "titulo": "Trump atribui queda das ações na bolsa americana à vitória democrata nas eleições nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTk1PbWZTUTR1Rmh6VVlYdWNqVzBFOVdlM1RqYlJydGhTT1ktQlVaRFE1alJpOU50cEVSdUpMZzlWYjJnWExJMGlqajM4SjBxN2EzYjFJNzdIbTVPamRNX1ZNZ2pESmxJQzhXX0tDWkcwc003b3RwcEJpQUhhMGIzMlJGQmc2eUJic3A1bzhpMWJUenVLOUVkVVktb2xwc2xnNVZqcm92RXhOX19HbXBOU3BoZ1c2RjFvd0JsOHB2b0Y4MDk3Y2h3QnZMSEVzVUdyLXZFZmJn?oc=5"
+     "veiculo": "UOL Notícias",
+     "titulo": "A Hora: O anzol de Lula para fisgar o Arenão",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTJzLVJySzgzWktGd3BWSlZtNk5JMHJCaWhqRjF3RFAwZzFBLVZnQ0pWRmxIc0Vpd29xUUc2X1Vobnc4VzFrdktua0sydUVudzlSQXVRbld1d2o0RzBDUnNDck1Sa2hvR0h6dEkyWGRNM1VTd2c4QkRwaFlob1o0aU1MRjlNU2c3dnoycGxRZERxdXpIYVdyLVhR?oc=5"
     }
    ],
-   "score": 20.6
+   "score": 19.8,
+   "video_url": "https://www.youtube.com/watch?v=SRks5SLAlZw",
+   "video_canal": "UOL",
+   "video_por_hora": 7625,
+   "video_acima_mediana": 2.5,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Lula pode ter um 'anzol' para fisgar o centrão no Congresso | A Hora",
+     "url": "https://www.youtube.com/watch?v=SRks5SLAlZw",
+     "por_hora": 7625
+    }
+   ]
   },
   {
    "id": "626e7fb41d",
@@ -982,17 +1117,47 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.5,
+   "score": 19.7,
    "video_url": "https://www.youtube.com/watch?v=-52FTPgQ8tQ",
    "video_canal": "InfoMoney",
-   "video_por_hora": 97,
-   "video_acima_mediana": 0.4,
+   "video_por_hora": 190,
+   "video_acima_mediana": 0.9,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Quaest: Lula tem 48% de aprovação e 44% de reprovação | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=-52FTPgQ8tQ",
-     "por_hora": 97
+     "por_hora": 190
+    }
+   ]
+  },
+  {
+   "id": "fda4f24b1c",
+   "titulo": "Lula: “Brasil só vai garantir futuro digno com educação”",
+   "url": "https://www.youtube.com/watch?v=VeEXnBwiud4",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-08T18:26:24+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+Brasil+vai+garantir+futuro+digno+com+educa%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 19.4,
+   "video_url": "https://www.youtube.com/watch?v=VeEXnBwiud4",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 240,
+   "video_acima_mediana": 0.2,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lula: “Brasil só vai garantir futuro digno com educação”",
+     "url": "https://www.youtube.com/watch?v=VeEXnBwiud4",
+     "por_hora": 240
     }
    ]
   },
@@ -1013,7 +1178,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.2
+   "score": 19.3
   },
   {
    "id": "50deb8d3ca",
@@ -1031,26 +1196,36 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.0
+   "score": 19.2
   },
   {
-   "id": "e8de2bb3da",
-   "titulo": "Democratas dos EUA miram investigações sobre Musk e Miller após vitória eleitoral",
-   "url": "https://www.infomoney.com.br/mundo/democratas-dos-eua-miram-investigacoes-sobre-musk-e-miller-apos-vitoria-eleitoral/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-08T17:59:26+00:00",
+   "id": "9e4290aef6",
+   "titulo": "Câmeras com IA disparam número de multas em rodovias de São Paulo | Aconteceu na Semana",
+   "url": "https://www.youtube.com/watch?v=ObvGgJQDpYc",
+   "veiculo": "Band Jornalismo",
+   "publicado": "2026-11-08T20:00:07+00:00",
    "temas": [
-    "economia",
-    "mercado",
-    "politica"
+    "mercado"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Democratas+dos+EUA+miram+investiga%C3%A7%C3%B5es+sobre+Musk+Miller+ap%C3%B3s",
+   "busca_video": "https://www.youtube.com/results?search_query=C%C3%A2meras+com+disparam+n%C3%BAmero+multas+rodovias+S%C3%A3o+Paulo+Aconteceu",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.9
+   "score": 19.0,
+   "video_url": "https://www.youtube.com/watch?v=ObvGgJQDpYc",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 86,
+   "video_acima_mediana": 0.2,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Câmeras com IA disparam número de multas em rodovias de São Paulo | Aconteceu na Semana",
+     "url": "https://www.youtube.com/watch?v=ObvGgJQDpYc",
+     "por_hora": 86
+    }
+   ]
   },
   {
    "id": "a65f9d8e7a",
@@ -1078,150 +1253,54 @@
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOEZpZ055ZG8xSm1NV1lKQlV4UzJWRThkQWY3ZGVKSjlDXzlfZzFJUUNSbG1FUzA1QjM3aEhPbGpLN1Z5OGlwckFxNEFiMTU0VF9pY01CUUs4bG5xQjlLdUU5MUlZM0wwRVZaTFhHeHBhc1NKZ1VuSk91aGlBMlJrbHdfa1liQ3lHcWo0azVhQ1laOVZzbVNMWnFVcHBMT21PeEJlUW9zTTBXb0lBWDRESkhDMWxGaUhrSkhrNTdRa2w3RHhzU3hIczM0eUlEUW9NMWQ0WHZQTXNObmtJOXhEYw?oc=5"
     }
    ],
-   "score": 19.9
+   "score": 19.0
   },
   {
-   "id": "8c7922d2bd",
-   "titulo": "Boatos sobre fim do Bolsa Família e BPC provocam pânico; entenda investigação | #Podnews",
-   "url": "https://www.youtube.com/watch?v=X1uuLKn5jtY",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-08T16:15:13+00:00",
+   "id": "9c39938a4a",
+   "titulo": "Kit de emergência de 72 horas é preventivo, reforça MIDR",
+   "url": "https://exame.com/brasil/kit-de-emergencia-de-72-horas-e-preventivo-reforca-midr/",
+   "veiculo": "Exame",
+   "publicado": "2026-11-08T19:43:57+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Boatos+sobre+fim+Bolsa+Fam%C3%ADlia+BPC+provocam+p%C3%A2nico+entenda",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Kit+emerg%C3%AAncia+horas+preventivo%2C+refor%C3%A7a+MIDR",
+   "veiculos": 3,
    "rotina": false,
-   "outras": [],
-   "score": 19.7,
-   "video_url": "https://www.youtube.com/watch?v=X1uuLKn5jtY",
-   "video_canal": "SBT News",
-   "video_por_hora": 3699,
-   "video_acima_mediana": 3.5,
-   "videos": [
+   "outras": [
     {
-     "canal": "SBT News",
-     "titulo": "Boatos sobre fim do Bolsa Família e BPC provocam pânico; entenda investigação | #Podnews",
-     "url": "https://www.youtube.com/watch?v=X1uuLKn5jtY",
-     "por_hora": 3699
-    }
-   ]
-  },
-  {
-   "id": "f190a54227",
-   "titulo": "Banco do Brasil (BBAS3) sobe quase 4%, mas dividendos de 2027 ainda geram dúvidas",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFRGQ0lfMUFncnRRdXJCTE43MTNwM2RCSU0tdEdLamZabVp2MlJIUDVjNWwwc1hLb096eHNJenYxbUszT1FJVmhXWkFISE43dE00LTRNREJtMWFfXy15MjhVaF9aaVp1TnJjb1A0ZnhlYXFZdjBtOU1RX1Z5Y3o2NFdSSXFNRE9QWTJYc2hmSTJ1Qmk1WGlFbmVtc0w5dmVmanhhekdR?oc=5",
-   "veiculo": "O Petróleo",
-   "publicado": "2026-11-08T12:17:29+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Banco+Brasil+BBAS3+sobe+quase+4%25%2C+mas+dividendos+2027",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.6
-  },
-  {
-   "id": "569ebe989f",
-   "titulo": "Governo errou ao barrar as bets? Wellington Dias avalia disputa no STF | #Podnews",
-   "url": "https://www.youtube.com/watch?v=4Zq3OHJdCEM",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-08T16:30:25+00:00",
-   "temas": [
-    "comportamento",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+errou+barrar+bets+Wellington+Dias+avalia+disputa+STF",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.5,
-   "video_url": "https://www.youtube.com/watch?v=4Zq3OHJdCEM",
-   "video_canal": "SBT News",
-   "video_por_hora": 457,
-   "video_acima_mediana": 0.4,
-   "videos": [
+     "veiculo": "InfoMoney",
+     "titulo": "Kit de emergência para 72 horas viraliza e Defesa Civil nega alerta nacional; entenda",
+     "url": "https://www.infomoney.com.br/brasil/kit-de-emergencia-para-72-horas-viraliza-e-defesa-civil-nega-alerta-nacional-entenda/"
+    },
     {
-     "canal": "SBT News",
-     "titulo": "Governo errou ao barrar as bets? Wellington Dias avalia disputa no STF | #Podnews",
-     "url": "https://www.youtube.com/watch?v=4Zq3OHJdCEM",
-     "por_hora": 457
+     "veiculo": "ac24horas",
+     "titulo": "Defesa Civil pede \"calma\" após alerta sobre kit de emergência viralizar",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVoyWG51LTJ4cWhiWGVRZGpyVk5KbV9MbmlJa2w0UG1mU0gzb3R0QWQ1bEhlNTNnSFZVdlZkUjRmaFZEeFFaYUs0ak5nUG9ia19pR1BrS0ZVOURadWxRUHdBRDVRRlFqT0x4LWpQaWlwRDh5enUxUktzWFMwV0U4eWtwZkg4NmtqZmx4elhsYUsyMFVGYWs2V015TXRqanpkRmxPdHhROVlsQWPSAasBQVVfeXFMTTlaMlhudS0yeHFoYlhlUWRqclZOSm1fTG5pSWtsNFBtZlNIM290dEFkNWxIZTUzZ0hWVXZWZFI0ZmhWRHhRWmFLNGpOZ1BvYmtfaUdQa0tGVTlEWnVsUVB3QUQ1UUZRak9MeC1qUGlpcEQ4eXp1MVJLc1hTMFdFOHlrcGZIODZramZseHpYbGFLMjBVRmFrNldNeU10amp6ZEZsT3R4UTlZbEFj?oc=5"
     }
-   ]
+   ],
+   "score": 18.8
   },
   {
-   "id": "4e01299371",
-   "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
-   "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-08T15:40:18+00:00",
+   "id": "ceae5a36e6",
+   "titulo": "Governo Lula mantém estabilidade e alta expectativa popular após eleições",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1hPQVNxSWwwcWh0X2xMclZxdlFvQ3VwZlRwQU9jNDZubC1SMm8yOFhhdDlHeERXZHlWa2szRGFybC1ZLXVxcDNBT25yWnpVY2tiancxTFJHb0lsS3JMekRoMEE1dUxfeEgzcmxBQUxVaEZWNzNzcnRGbmo0ZXhaQ2R0dldOZWxaRE5RRGM4bExVX181R3FaRGZwaUVsZ25DNnd0Rkc4WEpWd0M0U3hVZHdDQjZ1N1FjMi1R?oc=5",
+   "veiculo": "Plantão Brasil",
+   "publicado": "2026-11-08T19:32:44+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Abuso+poder+pol%C3%ADtico+Especialista+explica+a%C3%A7%C3%A3o+contra+Lula+Alckmin",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.5,
-   "video_url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 3923,
-   "video_acima_mediana": 2.6,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
-     "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
-     "por_hora": 3923
-    }
-   ]
-  },
-  {
-   "id": "079fb34195",
-   "titulo": "Dividendos em novembro: 3 ações têm data-com nesta semana e Petrobras prepara balanço",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODhGdnZnbFdWVnV2VU90cDRFazVNRXRsRGxwTzNKSUJxV0lxYXo0aE1nYm1laF83UTFiN2V5R3h1RGhFVVkzMTlreE5rX1NGVlhUbUV2TlFxdE8taFQ3R3Nqel9ia0QwRFJUQ2hFd3VTNWtjWGZndlRfZnpIOW1aWkViSFZtbldvckg1QXdtQWtGZnBNR25hOVo0U1lFZVQtXy1WVkZVVElVLVdWNFhJ?oc=5",
-   "veiculo": "O Petróleo",
-   "publicado": "2026-11-08T12:13:03+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Dividendos+novembro+a%C3%A7%C3%B5es+t%C3%AAm+data+com+nesta+semana+Petrobras",
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+mant%C3%A9m+estabilidade+alta+expectativa+popular+ap%C3%B3s+elei%C3%A7%C3%B5es",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.5
-  },
-  {
-   "id": "0a4eda3cb5",
-   "titulo": "Endividamento recorde deve limitar vendas da Black Friday",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/08/endividamento-recorde-deve-limitar-vendas-da-black-friday.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-08T11:18:48+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Endividamento+recorde+deve+limitar+vendas+Black+Friday",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.2
+   "score": 18.8
   }
  ],
  "falas_e_videos": [
@@ -1230,7 +1309,7 @@
    "titulo": "Quaest: 48% aprovam governo Lula; desaprovação é de 44%",
    "url": "https://www.cnnbrasil.com.br/politica/quaest-48-aprovam-governo-lula-desaprovacao-e-de-44/",
    "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T18:01:40+00:00",
+   "publicado": "2026-11-08T19:12:38+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -1239,13 +1318,18 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Quaest+48%25+aprovam+governo+Lula+desaprova%C3%A7%C3%A3o+44%25",
-   "veiculos": 11,
+   "veiculos": 9,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CBN Recife",
-     "titulo": "Quaest: governo Lula é aprovado por 48% dos brasileiros; economia é a principal preocupação",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHFGTzhpR2ZsdkFqTFdqNlc0YjlrX0JhX3JiTVVDVDJhOEZfbGRzUzg5V0NLd3gzM2hkUW9oRm5ZQ2dVLUFHLVdfNlh1MjVMYWlzYnVzZjd1a091QUVnUnZCemJhbkgwU3ptZUJtV3hoNC1qZ0U3SFJJN2dXbG9uZExaMU9ERHRVTWRBYkJQUlRxb3MxN2NjVnFYanFNRFY5aTBYemxMbWE5d0QwVHNCYlMyWjczV2FsTE42eHE2aEpCNWpL?oc=5"
+     "veiculo": "UOL",
+     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+     "url": "https://www.youtube.com/watch?v=xZkaE5JeMYM"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
+     "url": "https://www.youtube.com/watch?v=TSfmKZjpK78"
     },
     {
      "veiculo": "UOL",
@@ -1256,98 +1340,78 @@
      "veiculo": "UOL",
      "titulo": "Governo Lula: Após eleição, 48% aprovam e 44% desaprovam; economia é principal preocupação",
      "url": "https://www.youtube.com/watch?v=P9mncTC-4Pc"
-    },
-    {
-     "veiculo": "Blog do Ricardo Antunes",
-     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFhJZW1Id0NwY1hmZTh0Y1Z1VDk4MDFqVGwwTGlCcGU1THo2bXEwa1FuNnltVDQ0WTJrVzhyZmZuRVVNbnJ6aGc2cWpJY2ZYbmd2RnlsbGtYdDAwNVlBcWswZjU5ZDhQeGRzS0pCS0ttS1JEdVh4SW9wUEgxOGt1NkpzY1J1a1B0UW1vMktFaTIxYkJsRk11MXhKZGdGdFI5MV9CcnI5b2xmQUlwTUpF?oc=5"
     }
    ],
-   "score": 48.2,
-   "video_url": "https://www.youtube.com/watch?v=32z6etSIyM0",
+   "score": 59.5,
+   "video_url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
    "video_canal": "UOL",
-   "video_por_hora": 697,
-   "video_acima_mediana": 0.2,
+   "video_por_hora": 12129,
+   "video_acima_mediana": 4.0,
    "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
+     "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
+     "por_hora": 12129
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+     "url": "https://www.youtube.com/watch?v=xZkaE5JeMYM",
+     "por_hora": 5486
+    },
     {
      "canal": "UOL",
      "titulo": "Pesquisa Quaest: Eleitores temem piora na economia e cobram fim da escala 6x1 no governo Lula",
      "url": "https://www.youtube.com/watch?v=32z6etSIyM0",
-     "por_hora": 697
+     "por_hora": 1466
     },
     {
      "canal": "UOL",
      "titulo": "Governo Lula: Após eleição, 48% aprovam e 44% desaprovam; economia é principal preocupação",
      "url": "https://www.youtube.com/watch?v=P9mncTC-4Pc",
-     "por_hora": 562
+     "por_hora": 1451
     }
    ]
   },
   {
-   "id": "4616f431d9",
-   "titulo": "Estamos fazendo uma “guerra pela educação”, diz Lula sobre Enem",
-   "url": "https://www.poder360.com.br/poder-educacao/estamos-fazendo-uma-guerra-pela-educacao-diz-lula-sobre-enem/",
-   "veiculo": "Poder360",
+   "id": "c9df5428bb",
+   "titulo": "Presidente Lula acompanha monitoramento do Enem",
+   "url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
+   "veiculo": "Lula",
    "publicado": "2026-11-08T17:33:54+00:00",
    "temas": [
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Estamos+fazendo+uma+guerra+pela+educa%C3%A7%C3%A3o+diz+Lula+sobre",
-   "veiculos": 6,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Presidente+Lula+acompanha+monitoramento+Enem",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
      "veiculo": "GloboNews",
      "titulo": "Lula acompanha Enem e enaltece participação feminina: ‘Fato extraordinário’",
      "url": "https://www.youtube.com/watch?v=M541pXBIJrk"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula vê Enem como \"guerra contra retrocesso\" e exalta participação feminina",
-     "url": "https://www.youtube.com/watch?v=8ZfEkibbyzw"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "‘Estamos fazendo uma guerra contra o retrocesso e pela educação’, diz Lula sobre o Enem",
-     "url": "https://valor.globo.com/brasil/noticia/2026/11/08/estamos-fazendo-uma-guerra-contra-o-retrocesso-e-pela-educacao-diz-lula-sobre-o-enem.ghtml"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso' e defende valor do diploma; vídeo",
-     "url": "https://www.youtube.com/watch?v=CcANbSYzWKk"
     }
    ],
-   "score": 44.8,
+   "score": 31.9,
    "video_url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
    "video_canal": "Lula",
-   "video_por_hora": 56474,
-   "video_acima_mediana": 19.0,
+   "video_por_hora": 37415,
+   "video_acima_mediana": 13.1,
    "videos": [
     {
      "canal": "Lula",
      "titulo": "Presidente Lula acompanha monitoramento do Enem",
      "url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
-     "por_hora": 56474
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso' e defende valor do diploma; vídeo",
-     "url": "https://www.youtube.com/watch?v=CcANbSYzWKk",
-     "por_hora": 5737
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula vê Enem como \"guerra contra retrocesso\" e exalta participação feminina",
-     "url": "https://www.youtube.com/watch?v=8ZfEkibbyzw",
-     "por_hora": 3584
+     "por_hora": 37415
     },
     {
      "canal": "GloboNews",
      "titulo": "Lula acompanha Enem e enaltece participação feminina: ‘Fato extraordinário’",
      "url": "https://www.youtube.com/watch?v=M541pXBIJrk",
-     "por_hora": 419
+     "por_hora": 274
     }
    ]
   },
@@ -1387,29 +1451,60 @@
      "url": "https://www.youtube.com/watch?v=kOl_knIZkUQ"
     }
    ],
-   "score": 31.7,
+   "score": 30.8,
    "video_url": "https://www.youtube.com/watch?v=kOl_knIZkUQ",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 3188,
-   "video_acima_mediana": 1.5,
+   "video_por_hora": 3000,
+   "video_acima_mediana": 1.2,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Fuga de Flávio Bolsonaro aos EUA: postura de Trump frustrou aliados | DESTAQUES DA SEMANA",
      "url": "https://www.youtube.com/watch?v=kOl_knIZkUQ",
-     "por_hora": 3188
+     "por_hora": 3000
     },
     {
      "canal": "UOL",
      "titulo": "Fuga de Flávio Bolsonaro aos EUA é condenada por 6 em cada 10 brasileiros, diz pesquisa Quaest",
      "url": "https://www.youtube.com/watch?v=jGcphU5q6rA",
-     "por_hora": 1164
+     "por_hora": 2058
     },
     {
      "canal": "InfoMoney",
      "titulo": "Quaest: direita se divide sobre Flávio Bolsonaro; 62% reprovam viagem aos EUA | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=dREhye9fZ0Q",
-     "por_hora": 287
+     "por_hora": 554
+    }
+   ]
+  },
+  {
+   "id": "599252237c",
+   "titulo": "Quem vai fazer investimentos em uma economia desordenada?",
+   "url": "https://www.youtube.com/watch?v=ycOwdYwBBkg",
+   "veiculo": "PL",
+   "publicado": "2026-11-08T20:01:02+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Quem+vai+fazer+investimentos+uma+economia+desordenada",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 27.0,
+   "video_url": "https://www.youtube.com/watch?v=ycOwdYwBBkg",
+   "video_canal": "PL",
+   "video_por_hora": 36,
+   "video_acima_mediana": 1.2,
+   "videos": [
+    {
+     "canal": "PL",
+     "titulo": "Quem vai fazer investimentos em uma economia desordenada?",
+     "url": "https://www.youtube.com/watch?v=ycOwdYwBBkg",
+     "por_hora": 36
     }
    ]
   },
@@ -1429,76 +1524,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 27.0,
+   "score": 26.2,
    "video_url": "https://www.youtube.com/watch?v=Bq5bCUG8v3c",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 567,
+   "video_por_hora": 522,
    "video_acima_mediana": 0.4,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Juros elevados afetam o mercado de loteamentos? Presidente da AELO explica",
      "url": "https://www.youtube.com/watch?v=Bq5bCUG8v3c",
-     "por_hora": 567
-    }
-   ]
-  },
-  {
-   "id": "ec30066efc",
-   "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
-   "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
-   "veiculo": "UOL",
-   "publicado": "2026-11-08T17:03:20+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+Enem+guerra+contra+retrocesso+Quaest+48%25",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 26.7,
-   "video_url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
-   "video_canal": "UOL",
-   "video_por_hora": 10405,
-   "video_acima_mediana": 3.7,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
-     "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
-     "por_hora": 10405
-    }
-   ]
-  },
-  {
-   "id": "3efc1e5057",
-   "titulo": "Ministro explica ajuste fiscal e redesenho da Esplanada para quarto mandato de Lula | #Podnews",
-   "url": "https://www.youtube.com/watch?v=dWeTPVCHykU",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-08T16:50:22+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ministro+explica+ajuste+fiscal+redesenho+Esplanada+para+quarto+mandato",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 26.5,
-   "video_url": "https://www.youtube.com/watch?v=dWeTPVCHykU",
-   "video_canal": "SBT News",
-   "video_por_hora": 82,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Ministro explica ajuste fiscal e redesenho da Esplanada para quarto mandato de Lula | #Podnews",
-     "url": "https://www.youtube.com/watch?v=dWeTPVCHykU",
-     "por_hora": 82
+     "por_hora": 522
     }
    ]
   },
@@ -1519,59 +1555,47 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 26.4,
+   "score": 25.5,
    "video_url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
    "video_canal": "InfoMoney",
-   "video_por_hora": 943,
-   "video_acima_mediana": 4.0,
+   "video_por_hora": 763,
+   "video_acima_mediana": 3.4,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Lula enfrenta pressão por ajuste fiscal e avança com PEC da Segurança | Mapa de Risco",
      "url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
-     "por_hora": 943
+     "por_hora": 763
     }
    ]
   },
   {
-   "id": "8239d5c27d",
-   "titulo": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/gonet-pede-ao-stf-que-suspenda-todas-as-acoes-sobre-bets-no-brasil.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-08T00:07:05.523367+00:00",
+   "id": "4e01299371",
+   "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
+   "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-08T15:40:18+00:00",
    "temas": [
-    "comportamento",
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Gonet+pede+STF+que+suspenda+todas+a%C3%A7%C3%B5es+sobre+bets",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=Abuso+poder+pol%C3%ADtico+Especialista+explica+a%C3%A7%C3%A3o+contra+Lula+Alckmin",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "PGR pede ao STF suspensão de ações contra proibição das bets | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=xR1uJI2vHqI"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Gonet pede ao STF para suspender ações sobre MP que acabou com as Bets",
-     "url": "https://www.estadao.com.br/economia/gonet-pedido-stf-suspensao-acoes-bets-npr/"
-    }
-   ],
-   "score": 25.7,
-   "video_url": "https://www.youtube.com/watch?v=xR1uJI2vHqI",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 3000,
+   "outras": [],
+   "score": 24.1,
+   "video_url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 7431,
    "video_acima_mediana": 6.1,
    "videos": [
     {
-     "canal": "Band Jornalismo",
-     "titulo": "PGR pede ao STF suspensão de ações contra proibição das bets | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=xR1uJI2vHqI",
-     "por_hora": 3000
+     "canal": "Jovem Pan News",
+     "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
+     "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
+     "por_hora": 7431
     }
    ]
   },
@@ -1591,17 +1615,152 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.0,
+   "score": 23.3,
    "video_url": "https://www.youtube.com/watch?v=eEbzCYjSFjA",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 359,
-   "video_acima_mediana": 0.2,
+   "video_por_hora": 538,
+   "video_acima_mediana": 0.4,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Mercado de máquinas agrícolas sente redução dos investimentos no campo | HORA H DO AGRO",
      "url": "https://www.youtube.com/watch?v=eEbzCYjSFjA",
-     "por_hora": 359
+     "por_hora": 538
+    }
+   ]
+  },
+  {
+   "id": "8c83b42d4b",
+   "titulo": "Lula se manifesta sobre o tema da redação do Enem: \"Viva o SUS\"",
+   "url": "https://www.metropoles.com/brasil/lula-se-manifesta-sobre-o-tema-da-redacao-do-enem-viva-o-sus",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-11-08T18:43:18+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+manifesta+sobre+tema+reda%C3%A7%C3%A3o+Enem+Viva+SUS",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Redação do Enem sobre o SUS: professores explicam tema e argumentos para prova com nota alta",
+     "url": "https://www.youtube.com/watch?v=nsLHlXFOt7U"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Tema do Enem e no centro das discussões sobre ajuste fiscal, SUS movimentou R$ 504 bi em 2025",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/08/tema-do-enem-e-no-centro-das-discusses-sobre-ajuste-fiscal-sus-movimentou-r-504-bi-em-2025.ghtml"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Tema da redação do Enem deste ano é 'A valorização do Sistema Único de Saúde (SUS) como direito universal'",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/08/tema-da-redacao-do-enem-deste-ano-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal.ghtml"
+    }
+   ],
+   "score": 21.8,
+   "video_url": "https://www.youtube.com/watch?v=nsLHlXFOt7U",
+   "video_canal": "UOL",
+   "video_por_hora": 934,
+   "video_acima_mediana": 0.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Redação do Enem sobre o SUS: professores explicam tema e argumentos para prova com nota alta",
+     "url": "https://www.youtube.com/watch?v=nsLHlXFOt7U",
+     "por_hora": 934
+    }
+   ]
+  },
+  {
+   "id": "81d32ce12a",
+   "titulo": "Argentina prende suspeito de ameaçar matar o papa Leão XIV",
+   "url": "https://www.cnnbrasil.com.br/internacional/argentina-prende-suspeito-de-ameacar-matar-o-papa-leao-xiv/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-08T19:22:06+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Argentina+prende+suspeito+amea%C3%A7ar+matar+papa+Le%C3%A3o+XIV",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Papa Leão XIV visita Argentina em meio a tensões com Milei",
+     "url": "https://www.youtube.com/watch?v=ZKJ06W_BP2w"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "'Argentina espera visita tensa de Papa Leão XIV', diz Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=b6C-OHN9Ouc"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Papa na América Latina: Visita a Argentina é a mais política e tensa da turnê | Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=Qv_s3fNUff0"
+    }
+   ],
+   "score": 21.3,
+   "video_url": "https://www.youtube.com/watch?v=b6C-OHN9Ouc",
+   "video_canal": "UOL",
+   "video_por_hora": 1415,
+   "video_acima_mediana": 0.5,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "'Argentina espera visita tensa de Papa Leão XIV', diz Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=b6C-OHN9Ouc",
+     "por_hora": 1415
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Papa na América Latina: Visita a Argentina é a mais política e tensa da turnê | Janaína Figueiredo",
+     "url": "https://www.youtube.com/watch?v=Qv_s3fNUff0",
+     "por_hora": 1364
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Papa Leão XIV visita Argentina em meio a tensões com Milei",
+     "url": "https://www.youtube.com/watch?v=ZKJ06W_BP2w",
+     "por_hora": 1183
+    }
+   ]
+  },
+  {
+   "id": "962f091603",
+   "titulo": "Ana Elisa relata ameaças de morte e estupro: 'Ganhei a eleição e perdi minha liberdade'; veja vídeo",
+   "url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+   "veiculo": "UOL",
+   "publicado": "2026-11-08T17:07:19.557266+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ana+Elisa+relata+amea%C3%A7as+morte+estupro+Ganhei+elei%C3%A7%C3%A3o+perdi",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.1,
+   "video_url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+   "video_canal": "UOL",
+   "video_por_hora": 16000,
+   "video_acima_mediana": 5.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Ana Elisa relata ameaças de morte e estupro: 'Ganhei a eleição e perdi minha liberdade'; veja vídeo",
+     "url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+     "por_hora": 16000
     }
    ]
   },
@@ -1620,77 +1779,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.7,
+   "score": 20.8,
    "video_url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
    "video_canal": "SBT News",
-   "video_por_hora": 10488,
-   "video_acima_mediana": 9.9,
+   "video_por_hora": 5265,
+   "video_acima_mediana": 5.3,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Quando Lula define novos ministérios? Wellington Dias detalha transição |#Podnews",
      "url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
-     "por_hora": 10488
-    }
-   ]
-  },
-  {
-   "id": "3a620cb86d",
-   "titulo": "Lula vê Brasil com \"força\" na COP31 e diz que cobrará ação de outros países | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=t3Y4bU-9ePs",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T17:37:13+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+Brasil+com+for%C3%A7a+COP31+diz+que+cobrar%C3%A1+a%C3%A7%C3%A3o",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.2,
-   "video_url": "https://www.youtube.com/watch?v=t3Y4bU-9ePs",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 930,
-   "video_acima_mediana": 0.4,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula vê Brasil com \"força\" na COP31 e diz que cobrará ação de outros países | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=t3Y4bU-9ePs",
-     "por_hora": 930
-    }
-   ]
-  },
-  {
-   "id": "b7a2ecbac3",
-   "titulo": "Fim da escala 6x1 vira disputa no STF sob pressão do comércio e indústria | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=ouSMwbJQAhM",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-08T15:58:24+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fim+escala+6x1+vira+disputa+STF+sob+press%C3%A3o+com%C3%A9rcio",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.8,
-   "video_url": "https://www.youtube.com/watch?v=ouSMwbJQAhM",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 1729,
-   "video_acima_mediana": 0.8,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Fim da escala 6x1 vira disputa no STF sob pressão do comércio e indústria | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=ouSMwbJQAhM",
-     "por_hora": 1729
+     "por_hora": 5265
     }
    ]
   }
@@ -1701,10 +1800,85 @@
    "url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
    "canal": "Lula",
    "publicado": "2026-11-08T14:48:05+00:00",
-   "views": 187315,
-   "por_hora": 56474,
-   "acima_mediana": 19.0,
+   "views": 199077,
+   "por_hora": 37415,
+   "acima_mediana": 13.1,
    "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Ana Elisa relata ameaças de morte e estupro: 'Ganhei a eleição e perdi minha liberdade'; veja vídeo",
+   "url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+   "canal": "UOL",
+   "publicado": "2026-11-08T17:07:19.557266+00:00",
+   "views": 48000,
+   "por_hora": 16000,
+   "acima_mediana": 5.3,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Temporais deixam cidades de SP em alerta e mobilizam equipes da Defesa Civil",
+   "url": "https://www.youtube.com/watch?v=geDx-yZSMbM",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-08T14:33:42+00:00",
+   "views": 72152,
+   "por_hora": 12976,
+   "acima_mediana": 10.7,
+   "temas": [
+    "mercado"
+   ]
+  },
+  {
+   "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
+   "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
+   "canal": "UOL",
+   "publicado": "2026-11-08T17:03:20+00:00",
+   "views": 37195,
+   "por_hora": 12129,
+   "acima_mediana": 4.0,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula pode ter um 'anzol' para fisgar o centrão no Congresso | A Hora",
+   "url": "https://www.youtube.com/watch?v=SRks5SLAlZw",
+   "canal": "UOL",
+   "publicado": "2026-11-08T12:07:19.557266+00:00",
+   "views": 61000,
+   "por_hora": 7625,
+   "acima_mediana": 2.5,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
+   "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-08T15:40:18+00:00",
+   "views": 33069,
+   "por_hora": 7431,
+   "acima_mediana": 6.1,
+   "temas": [
+    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+   "url": "https://www.youtube.com/watch?v=xZkaE5JeMYM",
+   "canal": "UOL",
+   "publicado": "2026-11-08T19:12:38+00:00",
+   "views": 5001,
+   "por_hora": 5486,
+   "acima_mediana": 1.8,
+   "temas": [
+    "mercado",
+    "economia",
     "politica"
    ]
   },
@@ -1713,81 +1887,9 @@
    "url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
    "canal": "SBT News",
    "publicado": "2026-11-08T16:55:24+00:00",
-   "views": 12532,
-   "por_hora": 10488,
-   "acima_mediana": 9.9,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Lula diz que Enem é 'guerra contra o retrocesso'; Quaest: 48% aprovam governo; Papa na Argentina e +",
-   "url": "https://www.youtube.com/watch?v=TSfmKZjpK78",
-   "canal": "UOL",
-   "publicado": "2026-11-08T17:03:20+00:00",
-   "views": 11057,
-   "por_hora": 10405,
-   "acima_mediana": 3.7,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Tempestade em Curitiba: chuva e ventos provocam estragos e quedas de árvores; veja vídeos",
-   "url": "https://www.youtube.com/watch?v=YMYy2TSOjlw",
-   "canal": "UOL",
-   "publicado": "2026-11-07T22:07:05.523367+00:00",
-   "views": 184000,
-   "por_hora": 9200,
-   "acima_mediana": 3.3,
-   "temas": [
-    "mercado"
-   ]
-  },
-  {
-   "titulo": "Temporais deixam cidades de SP em alerta e mobilizam equipes da Defesa Civil",
-   "url": "https://www.youtube.com/watch?v=geDx-yZSMbM",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-08T14:33:42+00:00",
-   "views": 27967,
-   "por_hora": 7864,
-   "acima_mediana": 5.2,
-   "temas": [
-    "mercado"
-   ]
-  },
-  {
-   "titulo": "Lula pode ter um 'anzol' para fisgar o centrão no Congresso | A Hora",
-   "url": "https://www.youtube.com/watch?v=SRks5SLAlZw",
-   "canal": "UOL",
-   "publicado": "2026-11-08T12:07:05.523367+00:00",
-   "views": 47000,
-   "por_hora": 7833,
-   "acima_mediana": 2.8,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Lula diz que Enem é 'guerra contra o retrocesso' e defende valor do diploma; vídeo",
-   "url": "https://www.youtube.com/watch?v=CcANbSYzWKk",
-   "canal": "UOL",
-   "publicado": "2026-11-08T14:55:44+00:00",
-   "views": 18298,
-   "por_hora": 5737,
-   "acima_mediana": 2.0,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Ao vivo: Lula acompanha aplicação do Enem 2026 no Inep",
-   "url": "https://www.youtube.com/watch?v=4B3zAWch3rQ",
-   "canal": "Poder360",
-   "publicado": "2026-11-08T15:02:54+00:00",
-   "views": 15056,
-   "por_hora": 4904,
-   "acima_mediana": 12.1,
+   "views": 16841,
+   "por_hora": 5265,
+   "acima_mediana": 5.3,
    "temas": [
     "politica"
    ]
@@ -1797,9 +1899,9 @@
    "url": "https://www.youtube.com/watch?v=3iG_S7z2nds",
    "canal": "Lula",
    "publicado": "2026-11-08T16:33:53+00:00",
-   "views": 7503,
-   "por_hora": 4830,
-   "acima_mediana": 1.6,
+   "views": 18592,
+   "por_hora": 5226,
+   "acima_mediana": 1.8,
    "temas": [
     "mercado"
    ]
@@ -1808,26 +1910,25 @@
    "titulo": "Lula tenta acalmar o mercado em primeiro pronunciamento",
    "url": "https://www.youtube.com/watch?v=XG2KRwKGPS0",
    "canal": "Jovem Pan News",
-   "publicado": "2026-11-08T12:07:05.523367+00:00",
-   "views": 24000,
-   "por_hora": 4000,
-   "acima_mediana": 2.7,
+   "publicado": "2026-11-08T12:07:19.557266+00:00",
+   "views": 37000,
+   "por_hora": 4625,
+   "acima_mediana": 3.8,
    "temas": [
     "mercado",
     "politica"
    ]
   },
   {
-   "titulo": "Abuso de poder político? Especialista explica ação contra Lula e Alckmin",
-   "url": "https://www.youtube.com/watch?v=Tg21ydFgUcw",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-08T15:40:18+00:00",
-   "views": 9598,
-   "por_hora": 3923,
-   "acima_mediana": 2.6,
+   "titulo": "AO VIVO: RESENHA DO DINHEIRO - 08/11/2026",
+   "url": "https://www.youtube.com/watch?v=EP222pNqiwk",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-08T18:49:13+00:00",
+   "views": 4992,
+   "por_hora": 3835,
+   "acima_mediana": 1.6,
    "temas": [
-    "mercado",
-    "politica"
+    "mercado"
    ]
   },
   {
@@ -1835,23 +1936,11 @@
    "url": "https://www.youtube.com/watch?v=X1uuLKn5jtY",
    "canal": "SBT News",
    "publicado": "2026-11-08T16:15:13+00:00",
-   "views": 6897,
-   "por_hora": 3699,
+   "views": 13544,
+   "por_hora": 3501,
    "acima_mediana": 3.5,
    "temas": [
     "mercado",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Lula vê Enem como \"guerra contra retrocesso\" e exalta participação feminina",
-   "url": "https://www.youtube.com/watch?v=8ZfEkibbyzw",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-08T15:43:43+00:00",
-   "views": 8564,
-   "por_hora": 3584,
-   "acima_mediana": 1.7,
-   "temas": [
     "politica"
    ]
   },
@@ -1860,11 +1949,23 @@
    "url": "https://www.youtube.com/watch?v=0H7gDV0dLSQ",
    "canal": "Lula",
    "publicado": "2026-11-08T13:49:16+00:00",
-   "views": 15067,
-   "por_hora": 3506,
-   "acima_mediana": 1.2,
+   "views": 20383,
+   "por_hora": 3235,
+   "acima_mediana": 1.1,
    "temas": [
     "comportamento"
+   ]
+  },
+  {
+   "titulo": "Ao vivo: Lula acompanha aplicação do Enem 2026 no Inep",
+   "url": "https://www.youtube.com/watch?v=4B3zAWch3rQ",
+   "canal": "Poder360",
+   "publicado": "2026-11-08T15:02:54+00:00",
+   "views": 16334,
+   "por_hora": 3219,
+   "acima_mediana": 5.6,
+   "temas": [
+    "politica"
    ]
   },
   {
@@ -1872,8 +1973,8 @@
    "url": "https://www.youtube.com/watch?v=AJNZwMUrOt4",
    "canal": "SBT News",
    "publicado": "2026-11-08T00:10:59+00:00",
-   "views": 61451,
-   "por_hora": 3426,
+   "views": 63594,
+   "por_hora": 3189,
    "acima_mediana": 3.2,
    "temas": [
     "economia"
@@ -1887,160 +1988,164 @@
    "url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
    "video_url": "https://www.youtube.com/watch?v=CB-RYrBtquc",
    "canal": "Lula",
-   "views_h": 56474,
-   "acima_mediana": 19.0,
+   "views_h": 37415,
+   "acima_mediana": 13.1,
    "publicado": "2026-11-08T11:48-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
-   "forca": 44,
-   "porque": "vídeo do Lula com 56.474 views/h (19.0x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Quando Lula define novos ministérios? Wellington Dias detalha transição |#Podnews",
-   "url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
-   "video_url": "https://www.youtube.com/watch?v=0-PTV5EQ8Bo",
-   "canal": "SBT News",
-   "views_h": 10488,
-   "acima_mediana": 9.9,
-   "publicado": "2026-11-08T13:55-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "politica"
-   ],
-   "forca": 29.2,
-   "porque": "vídeo do SBT News com 10.488 views/h (9.9x o normal do canal); nenhum veículo deu ainda"
+   "forca": 42.7,
+   "porque": "vídeo do Lula com 37.415 views/h (13.1x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "pauta",
-   "titulo": "Democratas dos EUA miram investigações sobre Musk e Miller após vitória eleitoral",
-   "url": "https://www.infomoney.com.br/mundo/democratas-dos-eua-miram-investigacoes-sobre-musk-e-miller-apos-vitoria-eleitoral/",
+   "titulo": "Mudança de estratégia do Itaú, alerta sobre o Banco do Brasil e encontro de Lula com Lara Resende; veja as mais lidas da semana",
+   "url": "https://www.seudinheiro.com/2026/economia/mudanca-de-estrategia-do-itau-alerta-sobre-o-banco-do-brasil-e-encontro-de-lula-com-lara-resende-veja-as-mais-lidas-da-semana-julw/",
    "veiculos": [
-    "InfoMoney"
+    "Seu Dinheiro"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-08T14:59-03:00",
+   "primeira_vez": "2026-11-08T16:45-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 30.8,
+   "porque": "só 1 veículo (Seu Dinheiro); apareceu às 16h45"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Gasolina custa R$ 6,53 no Pará; estado tem 12º maior preço entre as unidades da Federação",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXl2M3Mzb2lvUDBZeFg1ZFpObUZmVlVhMWFDVjZ6RWVKQTAwWklwZFVEOEtJbU01ZW0yNE52TERWY0prdzRUbVQ1S2JNZ2I3cFpqWXZCODMwYmNXQ1d3YVlPeVh3NDFGZUNlN3pFNG85YkFmeXNZanJEWDY4QXZ0Vm12QzlRTVo2YkswRFdhNXVyUzA3NEpqY3FCc3lLVlNLa3FKQnVrYktnQlF3clk3eF9FcVhjWjRTQVdF?oc=5",
+   "veiculos": [
+    "Portal Canaã"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-08T16:45-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 29.8,
+   "porque": "só 1 veículo (Portal Canaã); apareceu às 16h45"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Selic: Eleição estressou a curva de juros, diz economista do Daycoval",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/selic-eleicao-estressou-a-curva-de-juros-diz-economista-do-daycoval/",
+   "veiculos": [
+    "CNN Brasil"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-08T16:08-03:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
-   "forca": 27.9,
-   "porque": "só 1 veículo (InfoMoney); apareceu às 14h59"
+   "forca": 28.6,
+   "porque": "só 1 veículo (CNN Brasil); apareceu às 16h08"
   },
   {
    "tipo": "pauta",
-   "titulo": "Quaest: 70% acham que governo Lula terá mais conflitos com o Congresso",
-   "url": "https://www.cnnbrasil.com.br/politica/quaest-70-acham-que-governo-lula-tera-mais-conflitos-com-o-congresso/",
+   "titulo": "Lula pode ter um 'anzol' para fisgar o centrão no Congresso | A Hora",
+   "url": "https://www.youtube.com/watch?v=SRks5SLAlZw",
    "veiculos": [
-    "CNN Brasil"
+    "UOL Notícias"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-08T14:15-03:00",
+   "primeira_vez": "2026-11-08T16:32-03:00",
+   "temas": [
+    "politica"
+   ],
+   "forca": 27.8,
+   "porque": "só 1 veículo (UOL Notícias); apareceu às 16h32"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Governo Lula mantém estabilidade e alta expectativa popular após eleições",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1hPQVNxSWwwcWh0X2xMclZxdlFvQ3VwZlRwQU9jNDZubC1SMm8yOFhhdDlHeERXZHlWa2szRGFybC1ZLXVxcDNBT25yWnpVY2tiancxTFJHb0lsS3JMekRoMEE1dUxfeEgzcmxBQUxVaEZWNzNzcnRGbmo0ZXhaQ2R0dldOZWxaRE5RRGM4bExVX181R3FaRGZwaUVsZ25DNnd0Rkc4WEpWd0M0U3hVZHdDQjZ1N1FjMi1R?oc=5",
+   "veiculos": [
+    "Plantão Brasil"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-08T16:32-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 26.8,
+   "porque": "só 1 veículo (Plantão Brasil); apareceu às 16h32"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Ana Elisa relata ameaças de morte e estupro: 'Ganhei a eleição e perdi minha liberdade'; veja vídeo",
+   "url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+   "video_url": "https://www.youtube.com/watch?v=nnQYqJBxNmg",
+   "canal": "UOL",
+   "views_h": 16000,
+   "acima_mediana": 5.3,
+   "publicado": "2026-11-08T14:07-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
    "forca": 26.6,
-   "porque": "só 1 veículo (CNN Brasil); apareceu às 14h15"
+   "porque": "vídeo do UOL com 16.000 views/h (5.3x o normal do canal); nenhum veículo deu ainda"
   },
   {
-   "tipo": "pauta",
-   "titulo": "Governo deve prorrogar subsídio ao diesel para conter inflação e greve",
-   "url": "https://www.metropoles.com/colunas/andreza-matais/governo-deve-prorrogar-subsidio-ao-diesel-para-conter-inflacao-e-greve",
-   "veiculos": [
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-08T14:19-03:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "forca": 25.7,
-   "porque": "só 1 veículo (Metrópoles); apareceu às 14h19"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Redação do Enem 2026 aborda valorização do SUS como direito universal",
-   "url": "https://www.poder360.com.br/poder-educacao/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sus-como-direito-universal/",
+   "tipo": "video",
+   "titulo": "Temporais deixam cidades de SP em alerta e mobilizam equipes da Defesa Civil",
+   "url": "https://www.youtube.com/watch?v=geDx-yZSMbM",
+   "video_url": "https://www.youtube.com/watch?v=geDx-yZSMbM",
+   "canal": "Jovem Pan News",
+   "views_h": 12976,
+   "acima_mediana": 10.7,
+   "publicado": "2026-11-08T11:33-03:00",
    "veiculos": [
     "InfoMoney",
-    "Poder360",
-    "Valor"
+    "ac24horas"
    ],
-   "qtd_veiculos": 3,
-   "primeira_vez": "2026-11-08T13:55-03:00",
+   "qtd_veiculos": 2,
    "temas": [
-    "economia",
-    "politica"
+    "mercado"
    ],
-   "forca": 25.6,
-   "porque": "só 3 veículos (InfoMoney, Poder360, Valor); apareceu às 13h55"
+   "forca": 26.5,
+   "porque": "vídeo do Jovem Pan News com 12.976 views/h (10.7x o normal do canal); só 2 veículos deram"
   },
   {
    "tipo": "pauta",
-   "titulo": "Gauff x Pegula: duelo explosivo entre americanas abre o WTA Finals 2026; retrospecto está empatado e vale largar na frente",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOajZvZTJnaTZMRlRkWk1oR2g1MlVrUjlzY2VNdFcwYW9XYmZYVWtRUUUxWHBlcVRWWmM5TGlzSzZKdFF4Z3JXajN5UnF4NmNuSW1nYTZUSG0tUnpHSXpuVXRTamtnbTVKY0xLZENNNUJtLVpJNUNSV2s1SU5YRm1lQWJMdjk2LU9hcFZSUDhJMGcxZ1R6bEt0WnhDMV9XTnRPYXBFZHlLRHRERmRZOURhcnJCVDZpS29YZnpkXzhIODFqUVVDMWN6a1ZHTDNYdXAyckpJb2ctMEhETTR2eVVmbEprbGNSOEJWNGdYWElVd2x0OVRyYXZIYlI5ckFMMV9KUGsyaks0UQ?oc=5",
+   "titulo": "Pesquisa Quaest mostra aprovação de Lula para 48%, mesmo número de brasileiros preocupados com o futuro",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMlhNQlZSM2c3anQ1NDRBS2JiNVE1ZFczbUZEZjkxR243RmVPZVJlN0FjaXJMdnN6Q0hodDRoQXlqR2N3MzlHZk9OTTk0TTNZeEtFeVRqSVRNSVZET1liRFVUamlJU1NPVTZ3bi1iYURkVGM5X3lJR0VBYUJVNy01VDhNVnJoZDlOc1VvOUN5cC0yQUVqYUV5LVZUTDJrTlJTdGE4TlpyWC02OGZSZzlDN0lJcXh3SVI5VkFlNHZoRjdmOVBrYVlQYXhOQzBOSk55MGFlUnlVNk53ZThMMHJkYjNpYjI2NkZWTmx4eUJkVjJmLVlNRTJZOWY0Ty16aHV1?oc=5",
    "veiculos": [
-    "Portal de Camaquã"
+    "www.correiodamanha.com.br"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-08T15:04-03:00",
+   "primeira_vez": "2026-11-08T16:55-03:00",
+   "temas": [
+    "politica"
+   ],
+   "forca": 24.9,
+   "porque": "só 1 veículo (www.correiodamanha.com.br); apareceu às 16h55"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Calendário econômico da semana: inflação é destaque no Brasil e nos Estados Unidos",
+   "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-e-destaque-no-brasil-e-nos-estados-unidos/",
+   "veiculos": [
+    "InfoMoney"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-08T17:00-03:00",
    "temas": [
     "economia",
     "mercado"
    ],
-   "forca": 24.0,
-   "porque": "só 1 veículo (Portal de Camaquã); apareceu às 15h04"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Integração de sistemas como o Pix aumenta em 4% comércio bilateral, diz Banco Central europeu",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/integracao-de-sistemas-como-o-pix-aumenta-em-4-comercio-bilateral-diz-banco-central-europeu.shtml",
-   "veiculos": [
-    "Folha"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-08T15:00-03:00",
-   "temas": [
-    "economia"
-   ],
-   "forca": 24.0,
-   "porque": "só 1 veículo (Folha); apareceu às 15h00"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Tema do Enem e no centro das discussões sobre ajuste fiscal, SUS movimentou R$ 504 bi em 2025",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/08/tema-do-enem-e-no-centro-das-discusses-sobre-ajuste-fiscal-sus-movimentou-r-504-bi-em-2025.ghtml",
-   "veiculos": [
-    "Valor"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-08T14:30-03:00",
-   "temas": [
-    "economia"
-   ],
-   "forca": 23.7,
-   "porque": "só 1 veículo (Valor); apareceu às 14h30"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Brasil entre a inflação que sobe e a PIB que cai",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTGVVMnZWdFZGNzhxZ1dPalFmSEh5bDJEZk9zSHFlVWtyNkpyZ0JFTW5sOXpCZjduMzBVMjdhSGFmb0VWY25BQzJZNWpxYXFsTjd1dDRpcGF3Qm5CdEtYc29haGE2QU9YQ0puS3ZCSV8?oc=5",
-   "veiculos": [
-    "TradeNews"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-08T14:19-03:00",
-   "temas": [
-    "economia"
-   ],
-   "forca": 23.7,
-   "porque": "só 1 veículo (TradeNews); apareceu às 14h19"
+   "forca": 23.9,
+   "porque": "só 1 veículo (InfoMoney); apareceu às 17h00"
   }
  ],
  "fontes_ok": 64,
