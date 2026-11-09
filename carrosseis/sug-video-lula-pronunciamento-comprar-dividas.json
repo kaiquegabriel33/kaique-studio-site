@@ -1,0 +1,85 @@
+{
+  "id": "sug-video-lula-pronunciamento-comprar-dividas",
+  "carrossel_id": "sug-video-lula-pronunciamento-comprar-dividas",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tweet_escuro",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "alta",
+  "prioridade": 2,
+  "criado": "2026-11-08T22:20:00-03:00",
+  "atualizado": "2026-11-09T10:30:00-03:00",
+  "fato_em": "2026-11-08T20:30:00-03:00",
+  "a_partir_de": "2026-11-09T00:00:00-03:00",
+  "vence_em": "2026-11-10T23:59:00-03:00",
+  "titulo": "Lula no pronunciamento: dívida e juros “me preocupam” e o governo vai “comprar as dívidas das famílias junto aos bancos” (vídeo)",
+  "para_quem": "quem está com nome sujo ou dívida no cartão, MEI com débito no governo e quem quer saber de onde sai o dinheiro",
+  "promessa": "A trajetória da dívida pública e os juros altos me preocupam.",
+  "paga_em": "vamos comprar as dívidas das famílias junto aos bancos",
+  "diferenciacao": "os dois números que o Lula não disse (dívida de 82,9% do PIB e Selic de 13,75%) nos cartões, em cima da promessa de comprar dívida",
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "Lula em rede nacional: ==“vamos comprar as dívidas das famílias junto aos bancos”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=91kIna3CvP4&t=349s",
+  "trecho": {
+    "aspa_manchete": "vamos comprar as dívidas das famílias junto aos bancos",
+    "inicio": "A trajetória da dívida pública",
+    "fim": "junto ao governo federal",
+    "texto": "A trajetória da dívida pública e os juros altos me preocupam. Por isso, reafirmo meu compromisso com a responsabilidade fiscal para viabilizar políticas sociais sustentáveis e a ampliação tão necessária do investimento. Todo este esforço será feito preservando as regras fiscais. Um dos principais objetivos do nosso governo é levar o investimento do país para mais de 20% do PIB em parceria com o setor privado. Para tanto, vamos criar as condições para reduzir a taxa de juros. Além de acreditar na economia popular, vamos comprar as dívidas das famílias junto aos bancos e perdoar a dívida dos microempreendedores individuais junto ao governo federal.",
+    "contexto": [
+      {
+        "cor": "vermelho",
+        "desde": "A trajetória da dívida pública",
+        "texto": "Dívida bruta: 82,9% do PIB em setembro (Banco Central)"
+      },
+      {
+        "cor": "amarelo",
+        "desde": "reduzir a taxa de juros",
+        "texto": "Selic em 13,75% ao ano, mantida em 04/11 (BC)"
+      }
+    ],
+    "cta": true,
+    "encher": true
+  },
+  "trecho_txt": "Canal do Lula (YouTube), pronunciamento em rede nacional, 08/11/2026; de 5:49 a 6:34 (45 s), pela legenda automática.",
+  "legenda": "No mesmo minuto, o Lula disse que a dívida preocupa e prometeu comprar a dívida das famílias nos bancos.\n\nDois planos anunciados: comprar dívidas das famílias junto aos bancos e perdoar a dívida dos MEIs com o governo federal. Logo antes, o presidente reeleito disse que a trajetória da dívida pública e os juros altos o preocupam e prometeu manter as regras fiscais.\n\nOs números que ele não citou: a dívida bruta estava em 82,9% do PIB em setembro, segundo o Banco Central, e a Selic segue em 13,75% ao ano, mantida pelo Copom em 04/11. Quanto vai custar a compra das dívidas e quem entra ainda não foi dito.\n\nAlívio pra quem deve ou mais conta pra dívida pública? As duas coisas podem ser verdade ao mesmo tempo.\n\nVídeo: reprodução do canal do Lula no YouTube (08/11/2026).\nFontes: pronunciamento do presidente Lula (08/11/2026), Banco Central (dívida bruta, 29/10/2026) e Agência Brasil (04/11/2026).\n\n#lula #dividas #juros #economia",
+  "fontes": [
+    {
+      "titulo": "Canal do Lula (YouTube) — Presidente Lula faz pronunciamento ao Brasil (08/11/2026; a fala vai de 5:49 a 6:34, pela legenda automática)",
+      "url": "https://www.youtube.com/watch?v=91kIna3CvP4"
+    },
+    {
+      "titulo": "Poder360 — Dívida bruta fica em 82,9% do PIB, diz Banco Central (29/10/2026)",
+      "url": "https://www.poder360.com.br/poder-economia/divida-bruta-fica-em-829-do-pib-diz-banco-central/"
+    },
+    {
+      "titulo": "Agência Brasil — Banco Central surpreende e mantém juros básicos em 13,75% ao ano (04/11/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bc-surpreende-e-mantem-juros-basicos-em-1375-ao-ano"
+    }
+  ],
+  "opiniao_sugerida": "“Alívio pra quem deve ou mais conta pra dívida pública? As duas coisas podem ser verdade ao mesmo tempo.” é leitura nossa, ele não disse.",
+  "nota_lote": "Gravar a tela do pronunciamento (canal do Lula, 08/11/2026) de 5:49 a 6:34 (45 s). Corte puro tweet escuro, Reel de teste em janela boa de 09/11 (sai sem aprovação, com o crivo de sempre) + TikTok.",
+  "motivo": "Confirmar antes: quanto custa e quem entra na compra\n\nPrateleira vídeo (1 de 10), força alta, corte puro. Quente e pouco visto: pronunciamento em rede nacional de hoje (08/11, 300 mil views no canal do Lula em 1 h); os veículos vão dar o pronunciamento inteiro, quase ninguém vai cortar este minuto. Lição do resumo vivo: palavra forte no bolso (dívida, perdoar, juros) + quem compartilha usa o fato neutro para dizer o que pensa: quem deve manda “vão comprar minha dívida”, oposição manda “ele mesmo disse que a dívida preocupa”. Diferenciação: os dois números que ele não citou (82,9% e 13,75%) nos cartões.\n\nA CONFERIR: (1) fala lida pela legenda automática, ninguém ouviu; (2) 82,9% (Poder360/BC, 29/10) e 13,75% (Agência Brasil, 04/11) foram conferidos por outras rodadas, não reabri; (3) o “comprar as dívidas” ainda não tem valor nem regra: não afirmar nada além da fala. FILA: no dia 09/11 este corte fura a fila (fresco na frente) e o sug-video-lula-divida-dobro-dos-outros (mesmo canal) passa para 10/11; nada de dois cortes do canal do Lula no mesmo dia no Instagram."
+}
