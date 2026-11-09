@@ -1,6 +1,32 @@
 {
- "atualizado": "2026-11-09T17:08-03:00",
+ "atualizado": "2026-11-09T17:36-03:00",
  "em_alta": [
+  {
+   "termo": "caixa econômica federal",
+   "trafego": "2000+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Caixa lança nova marca após 30 anos de olho no público jovem",
+     "url": "https://oglobo.globo.com/economia/noticia/2026/11/09/caixa-lanca-nova-marca-apos-30-anos-de-olho-no-publico-jovem.ghtml",
+     "veiculo": "O GLOBO"
+    },
+    {
+     "titulo": "Caixa apresenta nova identidade visual após quase 30 anos",
+     "url": "https://www.meioemensagem.com.br/comunicacao/caixa-apresenta-nova-identidade-visual-apos-quase-30-anos",
+     "veiculo": "Meio e Mensagem"
+    },
+    {
+     "titulo": "Vem realizar",
+     "url": "https://clubedecriacao.com.br/ultimas/vem-realizar/",
+     "veiculo": "Clube de Criação"
+    }
+   ],
+   "publicado": "2026-11-09T12:10:00-08:00"
+  },
   {
    "termo": "juíza gabriela hardt",
    "trafego": "1000+",
@@ -26,261 +52,15 @@
     }
    ],
    "publicado": "2026-11-09T11:50:00-08:00"
-  },
-  {
-   "termo": "fipe",
-   "trafego": "1000+",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "noticias": [
-    {
-     "titulo": "Carros elétricos desvalorizam mais? Entre os mais vendidos, a Fipe mostra o contrário",
-     "url": "https://autopapo.com.br/noticia/carros-eletricos-desvalorizam-mais-entre-os-mais-vendidos-a-fipe-mostra-o-contrario/",
-     "veiculo": "AutoPapo"
-    },
-    {
-     "titulo": "10 carros elétricos mais baratos do Brasil em novembro de 2026",
-     "url": "https://www.webmotors.com.br/wm1/seu-bolso/carros-eletricos-mais-baratos-do-brasil-novembro-2026",
-     "veiculo": "Webmotors"
-    },
-    {
-     "titulo": "Fipe: elétricos mais vendidos têm queda de até 1,8%",
-     "url": "https://www.spacemoney.com.br/economia/fipe-eletricos-desvalorizacao-menor/",
-     "veiculo": "SpaceMoney"
-    }
-   ],
-   "publicado": "2026-11-09T11:10:00-08:00"
   }
  ],
  "pautas": [
-  {
-   "id": "a52051d660",
-   "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-09T17:32:33+00:00",
-   "temas": [
-    "comportamento",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fux+suspende+todos+processos+sobre+bets+InfoMoney+News",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
-     "url": "https://www.youtube.com/watch?v=MnN3yxepurM"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
-     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
-     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Supremo suspende processos sobre fim das bets em todo o país | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=LErhrvwyL3s"
-    }
-   ],
-   "score": 46.4,
-   "video_url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
-   "video_canal": "Record News",
-   "video_por_hora": 3672,
-   "video_acima_mediana": 43.1,
-   "videos": [
-    {
-     "canal": "Record News",
-     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
-     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
-     "por_hora": 3672
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
-     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A",
-     "por_hora": 1077
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
-     "url": "https://www.youtube.com/watch?v=MnN3yxepurM",
-     "por_hora": 934
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
-     "por_hora": 353
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Supremo suspende processos sobre fim das bets em todo o país | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=LErhrvwyL3s",
-     "por_hora": 350
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Fux suspende todos os processos sobre bets até decisão definitiva do STF | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=5M-DRRUik5o",
-     "por_hora": 228
-    }
-   ]
-  },
-  {
-   "id": "768c927020",
-   "titulo": "Lula embarca para COP31 com comitiva de ministros e Janones",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/lula-embarca-para-cop31-com-comitiva-de-ministros-e-janones.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T18:04:26+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+embarca+para+COP31+com+comitiva+ministros+Janones",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Lula leva Janones, Mercadante e mais quatro ministros em viagem à COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=QafFsYhOZDw"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula fará da COP31 vitrine da política externa; veja análise | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=dGbnhdmiCF0"
-    }
-   ],
-   "score": 43.1,
-   "video_url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 70133,
-   "video_acima_mediana": 53.6,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
-     "por_hora": 70133
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Lula leva Janones, Mercadante e mais quatro ministros em viagem à COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=QafFsYhOZDw",
-     "por_hora": 9000
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ",
-     "por_hora": 1577
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula fará da COP31 vitrine da política externa; veja análise | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=dGbnhdmiCF0",
-     "por_hora": 1400
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "COP31: veja o que Lula pretende apresentar na Turquia | #NewsPrimeiraEdição",
-     "url": "https://www.youtube.com/watch?v=Tlqf33CA51g",
-     "por_hora": 729
-    }
-   ]
-  },
-  {
-   "id": "c8f1fa1aee",
-   "titulo": "Decreto que regulamenta fim da escala 6x1 é adiado",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/decreto-que-regulamenta-fim-da-escala-6x1-adiado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T16:49:00-03:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Decreto+que+regulamenta+fim+escala+6x1+adiado",
-   "veiculos": 8,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Fim da escala 6x1: governo Lula adia assinatura de decreto para a próxima semana",
-     "url": "https://exame.com/brasil/fim-da-escala-6x1-governo-lula-adia-assinatura-de-decreto-para-a-proxima-semana/"
-    },
-    {
-     "veiculo": "Poder360",
-     "titulo": "Lula adia decreto da escala 6 X 1 para depois de viagem à Ásia",
-     "url": "https://www.poder360.com.br/poder-governo/lula-adia-decreto-da-escala-6-x-1-para-depois-de-viagem-a-asia/"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Governo Lula adia publicação de decreto que regulamenta fim da escala 6×1",
-     "url": "https://www.cnnbrasil.com.br/politica/governo-lula-adia-publicacao-de-decreto-que-regulamenta-fim-da-escala-6x1/"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Decreto do fim da escala 6x1 fica para depois de viagem de Lula",
-     "url": "https://economia.uol.com.br/colunas/jessica-sant-ana/2026/11/09/decreto-do-fim-da-escala-6x1-fica-para-depois-de-viagem-de-lula.htm"
-    }
-   ],
-   "score": 40.1,
-   "video_url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 3100,
-   "video_acima_mediana": 5.2,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Lula adia decreto com regras do fim da escala 6x1 | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
-     "por_hora": 3100
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Fim da escala 6x1: governo deve publicar decreto hoje | #NewsManhã",
-     "url": "https://www.youtube.com/watch?v=UWUq9Ctt4Uw",
-     "por_hora": 2667
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Governo adia decreto que regulamenta fim da escala 6x1 | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=kuh3O3jjNy0",
-     "por_hora": 1016
-    }
-   ]
-  },
   {
    "id": "57c50cb99d",
    "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026",
    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-da-selic-para-1375-em-2026",
    "veiculo": "Agência Brasil",
-   "publicado": "2026-11-09T18:56:48+00:00",
+   "publicado": "2026-11-09T20:30:00+00:00",
    "temas": [
     "economia",
     "mercado"
@@ -288,25 +68,35 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Mercado+eleva+proje%C3%A7%C3%A3o+Selic+para+13%2C75%25+2026",
-   "veiculos": 2,
+   "veiculos": 56,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026; Denise Campos de Toledo comenta | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=tqKKWTlxz48"
+     "veiculo": "URB News",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026, diz Focus",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSllJSk5RUXNFVFJaeUdCb0w0VGlKckhNblkwd0lfREJfT1lOWDNuYl8zM0c2eS13dnl4LTctQVJ1SUdzSDhkZUFNUHM3WjR2OTkxbjN3bHBUZXllUGgtU3dxQ1FFN0RTQm4xZmpaTmFBcWdBUWt0U2wzclg5MmVwRENWQ2QzVU10bWk0d2ptb0hkaTg5MFVZT2xB?oc=5"
     },
     {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Mercado eleva projeção da Selic para 13,75% ao ano em 2026; Alan Ghani analisa",
-     "url": "https://www.youtube.com/watch?v=mcp0yTmsIIc"
+     "veiculo": "URB News",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026, diz Focus",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSllJSk5RUXNFVFJaeUdCb0w0VGlKckhNblkwd0lfREJfT1lOWDNuYl8zM0c2eS13dnl4LTctQVJ1SUdzSDhkZUFNUHM3WjR2OTkxbjN3bHBUZXllUGgtU3dxQ1FFN0RTQm4xZmpaTmFBcWdBUWt0U2wzclg5MmVwRENWQ2QzVU10bWk0d2ptb0hkaTg5MFVZT2xB?oc=5"
+    },
+    {
+     "veiculo": "Portal do Lobão",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2JHQmJhYVQ5SklXX1I5SjJnQ3hHOVdPLS1jaE41NGloaXBlejNHWXM0a0dtYzVIZGx0YzhuY3BQcUtTeUgyX2hGd0FObVRmRHcyOHIyUWdLejlNRklaZGhhVHNfcWFpVEkxVHBXeGV4cDFIWDU5czIxX05FQ1lFcW5BZXZaZw?oc=5"
+    },
+    {
+     "veiculo": "REDE BRASIL DE TELEVISÃO",
+     "titulo": "Mercado eleva previsão de inflação para 2027 e adia expectativa de corte da Selic",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxheUk3LWdwSmRFOXRfd2ctWEpmRjZsWVpZSkcwcXFaODJQa2N6cGxXNDFBY25pbGdROVFiclhFaHhmWUJPV3k0cnM5NUJLWHNyWnVqX3Bxa1JUcUJZVVVPR1YyT2tXRy0yWktOV3RRQmxiUmdOUFJEVkM0WnhuaXVwVndqdjhmVWJLTjBJS2RVWTZad0ZVQW8zcFNPVFU5OGN3VFJlckVqUkdxcnNkbVJqQm8zUQ?oc=5"
     }
    ],
-   "score": 38.4,
+   "score": 53.8,
    "video_url": "https://www.youtube.com/watch?v=mcp0yTmsIIc",
    "video_canal": "Jovem Pan News",
    "video_por_hora": 2143,
-   "video_acima_mediana": 3.6,
+   "video_acima_mediana": 3.2,
    "videos": [
     {
      "canal": "Jovem Pan News",
@@ -318,16 +108,56 @@
      "canal": "Jovem Pan News",
      "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026; Denise Campos de Toledo comenta | TEMPO REAL",
      "url": "https://www.youtube.com/watch?v=tqKKWTlxz48",
-     "por_hora": 237
+     "por_hora": 198
     }
    ]
+  },
+  {
+   "id": "4e27f8ebe3",
+   "titulo": "D�lar fecha est�vel, a R$ 5,50; Ibovespa sobe com Vale e bancos",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/09/dolar-fecha-estavel-a-r-550-ibovespa-sobe-com-vale-e-bancos.ghtm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-11-09T17:18:53-03:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=lar+fecha+est+vel%2C+5%2C50+Ibovespa+sobe+com+Vale",
+   "veiculos": 12,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "Dólar fecha estável, a R$ 5,50; Ibovespa sobe com Vale e bancos",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd19lX2xMMEw2N2U5Z09NYU5XakM0YjBMcFZycExlR1I2ckp6LVBiRjZjU1g3MUZEejJqX0ZsdGZEbmNZS1pRbEdTRW5NaTRzcHRYcFF2dUNQQk5sOXRQT04tM0ducllKeEtVNWxxdlJJRVJjSG9XOHM1Ri0xakJfZDNkSmJMblVaTDhWdjNqalFhTnVPQ1lTMXEtQ0JnaWRMNFVMRnFNSEs0eWRrR0ZadWdEVndteDdMUjJBZUdaQ0N4MzhUMUxyWQ?oc=5"
+    },
+    {
+     "veiculo": "Finance News",
+     "titulo": "Atualização: Ibovespa em alta, dólar sobe, Vale no positivo e outros destaques corporativos",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFdkQWpUd3hhMGRMREtBbVo2ZUdhakFmcTZwVFJ4dURTQ2o2OXJOVl9ILXBoLW5hbUJQWmVybEdjTFZ5ejVqTEFUd2Z6dTd4RmZsMUFGaUpMUG5Xb2RwcUJFNlh1VDNUQmlhUmRzOU5pQlZQUElBTDUyWTNKUzNmZkxpeGszajZ3Ukg1ejNzQ1V2QVJOX1dKbl9PcWhKTlVqVlktWWN2YXNNZUJMSTdmY0FmQXZOYnRUa3g2MFVGTFlJdw?oc=5"
+    },
+    {
+     "veiculo": "Finance News",
+     "titulo": "Atualização: Ibovespa em alta, dólar sobe, Vale no positivo e outros destaques corporativos",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFdkQWpUd3hhMGRMREtBbVo2ZUdhakFmcTZwVFJ4dURTQ2o2OXJOVl9ILXBoLW5hbUJQWmVybEdjTFZ5ejVqTEFUd2Z6dTd4RmZsMUFGaUpMUG5Xb2RwcUJFNlh1VDNUQmlhUmRzOU5pQlZQUElBTDUyWTNKUzNmZkxpeGszajZ3Ukg1ejNzQ1V2QVJOX1dKbl9PcWhKTlVqVlktWWN2YXNNZUJMSTdmY0FmQXZOYnRUa3g2MFVGTFlJdw?oc=5"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Vale e bancos puxam Ibovespa; dólar fica estável enquanto mercado cobra Lula no fiscal",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHBkRjUtX1ZoUDVNRVVubmNOTmd2TWJOOF9aUGtoeVg1RnlILVViUzJuaDI4cFhxbG5Bd2ZBTjVNLUtJTWx3WGJNWFlraFVsckFrdXhaOHdqT29xWENzcGN2Yk5DeTFqM2NEb1d5OUZSTWx4STBjZHppdU5XSHo3NFRtcDJ4OFpLZGVpTnB2b0lzWWJIVnVDWW9XV2xIUk01N0lsSGlrVzRZMDRWS0ttVzJlTnNEU0xiLUU4Sg?oc=5"
+    }
+   ],
+   "score": 50.9
   },
   {
    "id": "ba08457a4e",
    "titulo": "Ao vivo: Lula faz pronunciamento em rede nacional",
    "url": "https://www.youtube.com/watch?v=pPt443XklHo",
    "veiculo": "Poder360",
-   "publicado": "2026-11-09T19:08:03.267333+00:00",
+   "publicado": "2026-11-09T19:36:56.997947+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -336,7 +166,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=vivo+Lula+faz+pronunciamento+rede+nacional",
-   "veiculos": 6,
+   "veiculos": 7,
    "rotina": true,
    "outras": [
     {
@@ -355,132 +185,387 @@
      "url": "https://www.youtube.com/watch?v=ZdMbfUGZp2M"
     },
     {
-     "veiculo": "PT",
-     "titulo": "Pronunciamento do presidente Lula à nação",
-     "url": "https://www.youtube.com/watch?v=PnhZReC7R4w"
+     "veiculo": "Instagram",
+     "titulo": "O presidente Luiz Inácio Lula da Silva fez na noite deste domingo, 8, seu primeiro pronunciamento ao país desde sua reeleição em 25 de outubro. Em meio à preocupação do mercado financeiro com os fundamentos da economia para o quarto mandato do p",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HTjNlTWtwY3VHbERzNzNNakJ5dXNJNVBlcWk1S0NoMi1RazVDMHluVDUzdWl0QkcwclpTWVc5dXQzc3owb0xkNzNxM1Z5QlU5a2c?oc=5"
     }
    ],
-   "score": 36.6,
+   "score": 49.6,
    "video_url": "https://www.youtube.com/watch?v=91kIna3CvP4",
    "video_canal": "Lula",
-   "video_por_hora": 54904,
-   "video_acima_mediana": 44.1,
+   "video_por_hora": 53886,
+   "video_acima_mediana": 44.9,
    "videos": [
     {
      "canal": "Lula",
      "titulo": "Presidente Lula faz pronunciamento ao Brasil",
      "url": "https://www.youtube.com/watch?v=91kIna3CvP4",
-     "por_hora": 54904
+     "por_hora": 53886
     },
     {
      "canal": "UOL",
      "titulo": "Lula faz 1º pronunciamento após reeleição: Como mercado financeiro reagiu a fala do presidente",
      "url": "https://www.youtube.com/watch?v=9Qg16P2ewEA",
-     "por_hora": 4600
+     "por_hora": 6200
     },
     {
      "canal": "Poder360",
      "titulo": "Ao vivo: Lula faz pronunciamento em rede nacional",
      "url": "https://www.youtube.com/watch?v=pPt443XklHo",
-     "por_hora": 4479
+     "por_hora": 4382
     },
     {
      "canal": "PT",
      "titulo": "Pronunciamento do presidente Lula à nação",
      "url": "https://www.youtube.com/watch?v=PnhZReC7R4w",
-     "por_hora": 2009
+     "por_hora": 1967
     },
     {
      "canal": "SBT News",
      "titulo": "Lula faz primeiro pronunciamento após reeleição; veja destaques | #NewsPrimeiraEdição",
      "url": "https://www.youtube.com/watch?v=ZdMbfUGZp2M",
-     "por_hora": 1375
+     "por_hora": 1500
     }
    ]
   },
   {
-   "id": "885ab7c1ec",
-   "titulo": "Governo eleva imposto sobre pneus importados de 16% para 30%",
-   "url": "https://economia.uol.com.br/noticias/redacao/2026/11/09/governo-eleva-imposto-sobre-pneus-importados-de-16-para-30.ghtm",
+   "id": "a52051d660",
+   "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-09T17:32:33+00:00",
+   "temas": [
+    "comportamento",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fux+suspende+todos+processos+sobre+bets+InfoMoney+News",
+   "veiculos": 8,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
+     "url": "https://www.youtube.com/watch?v=MnN3yxepurM"
+    },
+    {
+     "veiculo": "Record News",
+     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
+     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Fux suspende todos os processos sobre bets até decisão definitiva do STF | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=5M-DRRUik5o"
+    },
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
+     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A"
+    }
+   ],
+   "score": 46.1,
+   "video_url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
+   "video_canal": "Record News",
+   "video_por_hora": 3493,
+   "video_acima_mediana": 18.9,
+   "videos": [
+    {
+     "canal": "Record News",
+     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
+     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
+     "por_hora": 3493
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
+     "url": "https://www.youtube.com/watch?v=MnN3yxepurM",
+     "por_hora": 1367
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
+     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A",
+     "por_hora": 1083
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
+     "por_hora": 338
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Supremo suspende processos sobre fim das bets em todo o país | Bora Brasil",
+     "url": "https://www.youtube.com/watch?v=LErhrvwyL3s",
+     "por_hora": 314
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Fux suspende todos os processos sobre bets até decisão definitiva do STF | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=5M-DRRUik5o",
+     "por_hora": 233
+    }
+   ]
+  },
+  {
+   "id": "c979a77fda",
+   "titulo": "Ata do Copom, inflação e balanços de Petrobras e BB movimentam a semana",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS1J2MTcyMnl4REtvWi1tSy1SWjFXYjBQZFpqRU1ib0E1Rm9EN0hJWVdGTDdlNjNDRXdUU1lXbXJCVmZwR1BfUnRybkZRTTBsLWhNLXlrM05FM1dybWttTnFySEdiU2tLaTFDOVQyZndrWWdDMWpFYzJtTnhMSTRPN1owUkdJN01pSUVXTkRuRDE1Q2hTcVFCaGd1X1cxSjQyTEpaR0FEaVJSYVl0Rnl6OW13MjEwVjFJeW95ZWVCaFlMdmVicFg0QWpfMGhMN0d5eENqaEZ6a3FIS2pyVzVxT1JWY1dWOHNfMms2bzJLWjZFdGp3?oc=5",
    "veiculo": "UOL Economia",
-   "publicado": "2026-11-09T19:24:06+00:00",
+   "publicado": "2026-11-09T20:34:40+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ata+Copom%2C+infla%C3%A7%C3%A3o+balan%C3%A7os+Petrobras+movimentam+semana",
+   "veiculos": 8,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "IstoÉ",
+     "titulo": "Inflação e ata do Copom movimentam economia nesta semana",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLVHZ1ZWUzeTFFRFIxdktmSHdnUUE0cnR4OXZ5eUsyeDJGUFg5bkI1bkREdWtFR2JTNGlqeHJqU3R2TndVaW9TLU9ITnpwczEtOFViRXhxeDNQd0NnNmlmb3d5a3JTQnE0cTExWWIyTGVrYVNJSnR2aWNR?oc=5"
+    },
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "Ata do Copom, inflação e balanços de Petrobras e BB movimentam a semana",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS1J2MTcyMnl4REtvWi1tSy1SWjFXYjBQZFpqRU1ib0E1Rm9EN0hJWVdGTDdlNjNDRXdUU1lXbXJCVmZwR1BfUnRybkZRTTBsLWhNLXlrM05FM1dybWttTnFySEdiU2tLaTFDOVQyZndrWWdDMWpFYzJtTnhMSTRPN1owUkdJN01pSUVXTkRuRDE1Q2hTcVFCaGd1X1cxSjQyTEpaR0FEaVJSYVl0Rnl6OW13MjEwVjFJeW95ZWVCaFlMdmVicFg0QWpfMGhMN0d5eENqaEZ6a3FIS2pyVzVxT1JWY1dWOHNfMms2bzJLWjZFdGp3?oc=5"
+    },
+    {
+     "veiculo": "Acia Araçatuba",
+     "titulo": "Eventos da semana na bolsa: IPCA, ata do Copom e balanços",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkdMQk82WVd6SXlhbDVXaW5FYmNiMG5KTnk2SnU4SElTbGZKdjZBUWFuMm9KTk93X3ZpSndkME5uNElldTc5XzVqRkhNdXNRenFjWWtCbW9iMGlCZThkaU1oNG95TEhCQzQxVC1FRjU1ZVE0Sy0wN21LQWFrc2NzQk1B?oc=5"
+    },
+    {
+     "veiculo": "Acia Araçatuba",
+     "titulo": "Eventos da semana na bolsa: IPCA, ata do Copom e balanços",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkdMQk82WVd6SXlhbDVXaW5FYmNiMG5KTnk2SnU4SElTbGZKdjZBUWFuMm9KTk93X3ZpSndkME5uNElldTc5XzVqRkhNdXNRenFjWWtCbW9iMGlCZThkaU1oNG95TEhCQzQxVC1FRjU1ZVE0Sy0wN21LQWFrc2NzQk1B?oc=5"
+    }
+   ],
+   "score": 43.0
+  },
+  {
+   "id": "31d7e385fb",
+   "titulo": "Mercado digere discurso de Lula enquanto espera inflação; Ibovespa em dólar sobe nesta segunda-feira (9)",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd3BSMGg2X2R1LTN0X0xQcVhieEZKTktsR2QyZWNJN1hGeUFSZzdMSk12a1ZvNExMNzdvdi1vRWlzVjN6WW0zVDJQcHRNbU5BQThxZjB5MWYtb2U1RVlISjZOTEZacmdPelgzM3ZFNmNzNUFCSG9sdUpvMWdnc0ZVLWpwUU5oVkhBR09DVEFpSHFhaUY3Y1JQN2ViT2k1NkhJQjFCVjVocThFcFYzSTVCc1YtZXZuWHpRU3hISk9rdzBIRVlCaWNtWGhSdld2YmgyX2hV?oc=5",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-09T20:08:26+00:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+eleva+imposto+sobre+pneus+importados+16%25+para+30%25",
-   "veiculos": 4,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+digere+discurso+Lula+enquanto+espera+infla%C3%A7%C3%A3o+Ibovespa+d%C3%B3lar",
+   "veiculos": 11,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "g1",
-     "titulo": "Governo eleva tarifa de importação de pneus de carros de 16% para 30%",
-     "url": "https://g1.globo.com/carros/noticia/2026/11/09/governo-eleva-tarifa-de-importacao-de-pneus-de-carros.ghtml"
+     "veiculo": "tmc.com.br",
+     "titulo": "Dólar hoje: moeda fecha a R$ 5,51 nesta segunda-feira (9)",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yNDlWMjU3OGplNU5BNTZHZ05vbGl2X0RMNVdyWkJuNkltWVVtZFg3LUd2aWhWOV9fNkwzSUU5VElEamd6cW84b0xJSlpUMXQ2bnJ2OHhKdlI3QmEtdk94SC0xVGJvMWdySFE?oc=5"
     },
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Governo eleva alíquota de importação de pneus de 25% para 30% por um ano",
-     "url": "https://www.cnnbrasil.com.br/economia/governo-eleva-aliquota-de-importacao-de-pneus-de-25-para-30-por-um-ano/"
+     "veiculo": "CenárioMT",
+     "titulo": "Dólar hoje: moeda começa segunda-feira a R$ 5,50",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWtvbU40cHo5X3dzUnY3QjEyMlpVRHd1WWd3QlFYTXBwaHlOSHE3T0FGTFloMXZzVS1KSVFjbVo4YkNxV3Q5bW1FbUFKQ0JSV3VaRmpsYWUxUFR0NUdvdVJ0N2l0dWhCaGE4aFRsUEJDeGxRWFRuVnRRcjRDNDFxMlp2eFZsSDg?oc=5"
     },
     {
-     "veiculo": "Estadão",
-     "titulo": "Governo eleva alíquota de importação de pneus de 25% para 30% por 12 meses",
-     "url": "https://www.estadao.com.br/economia/governo-eleva-aliquota-importacao-pneus-por-12-meses/"
+     "veiculo": "CenárioMT",
+     "titulo": "Dólar hoje: moeda começa segunda-feira a R$ 5,50",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWtvbU40cHo5X3dzUnY3QjEyMlpVRHd1WWd3QlFYTXBwaHlOSHE3T0FGTFloMXZzVS1KSVFjbVo4YkNxV3Q5bW1FbUFKQ0JSV3VaRmpsYWUxUFR0NUdvdVJ0N2l0dWhCaGE4aFRsUEJDeGxRWFRuVnRRcjRDNDFxMlp2eFZsSDg?oc=5"
+    },
+    {
+     "veiculo": "Prensa Mercosur",
+     "titulo": "Brasil — Mercado digere discurso de Lula enquanto espera inflação; Ibovespa em dólar sobe nesta segunda-feira (9)",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFhPQllVWGdzWWVCaWRvT3UtQWJuYjU3NUsxQ3BZSVFDQlNyWlRiSjlfZkJweHBUUDZtUGlvNXlnUnlpWEpOajY0RWJnVmJUeVdGLUlsenozcTNWWnBuN2pzWFM3YlhpeFlnMjhGblUyaEh6N1c5U3dyendGd2ZSWTZqc1hqRllFTlV4M3hnYlhrYVdXTXlJYTBLVzI4M3pDMDhDYmlZY21xcV9pVTZtMExhazZzRDVTZWFwZEpZYmdhcGtpNG5DOFFCVTVxdmJJS1ItWFlkalN1bWJpWFFNcQ?oc=5"
     }
    ],
-   "score": 29.7
+   "score": 41.8
   },
   {
-   "id": "25197c217e",
-   "titulo": "Governo Lula prorroga vigência do Gás do Povo até 2031",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-prorroga-vigencia-do-gas-do-povo-ate-2031.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-09T18:34:09+00:00",
+   "id": "c8f1fa1aee",
+   "titulo": "Decreto que regulamenta fim da escala 6x1 é adiado",
+   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/decreto-que-regulamenta-fim-da-escala-6x1-adiado.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T20:22:46+00:00",
    "temas": [
+    "economia",
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+prorroga+vig%C3%AAncia+G%C3%A1s+Povo+at%C3%A9+2031",
-   "veiculos": 5,
+   "busca_video": "https://www.youtube.com/results?search_query=Decreto+que+regulamenta+fim+escala+6x1+adiado",
+   "veiculos": 12,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4"
+     "veiculo": "InfoMoney",
+     "titulo": "Fim da 6×1: governo adia decreto de regulamentação para depois da viagem de Lula",
+     "url": "https://www.infomoney.com.br/politica/fim-da-6x1-governo-adia-decreto-de-regulamentacao-para-depois-da-viagem-de-lula/"
     },
     {
-     "veiculo": "Agência Brasil",
-     "titulo": "Gás do Povo: governo prorroga vigência do auxílio até 2031",
-     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/gas-do-povo-governo-prorroga-vigencia-do-programa-ate-2031"
+     "veiculo": "Metrópoles",
+     "titulo": "Decreto que regulamenta fim da 6x1 fica para depois da viagem de Lula",
+     "url": "https://www.metropoles.com/brasil/decreto-que-regulamenta-fim-da-6x1-fica-para-depois-da-viagem-de-lula"
     },
     {
-     "veiculo": "Valor",
-     "titulo": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
-     "url": "https://valor.globo.com/brasil/noticia/2026/11/09/governo-prorroga-gs-do-povo-para-at-19-de-novembro-de-2031.ghtml"
+     "veiculo": "CNN Brasil",
+     "titulo": "Governo adia publicação de decreto que regulamenta fim da escala 6x1; entenda | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=EEWji-r7XOs"
     },
     {
-     "veiculo": "g1",
-     "titulo": "Gás do Povo: governo prorroga até 2031 programa que prevê recargas grátis para famílias de baixa renda",
-     "url": "https://g1.globo.com/economia/noticia/2026/11/09/governo-federal-prorroga-ate-2031-programa-gas-do-povo.ghtml"
+     "veiculo": "Exame",
+     "titulo": "Fim da escala 6x1: governo Lula adia assinatura de decreto para a próxima semana",
+     "url": "https://exame.com/brasil/fim-da-escala-6x1-governo-lula-adia-assinatura-de-decreto-para-a-proxima-semana/"
     }
    ],
-   "score": 28.4,
-   "video_url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
+   "score": 40.7,
+   "video_url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 155,
-   "video_acima_mediana": 0.3,
+   "video_por_hora": 4600,
+   "video_acima_mediana": 6.9,
    "videos": [
     {
      "canal": "Jovem Pan News",
-     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
-     "por_hora": 155
+     "titulo": "Lula adia decreto com regras do fim da escala 6x1 | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
+     "por_hora": 4600
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Fim da escala 6x1: governo deve publicar decreto hoje | #NewsManhã",
+     "url": "https://www.youtube.com/watch?v=UWUq9Ctt4Uw",
+     "por_hora": 2833
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Governo adia decreto que regulamenta fim da escala 6x1 | BandNews TV",
+     "url": "https://www.youtube.com/watch?v=kuh3O3jjNy0",
+     "por_hora": 1325
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Governo adia publicação de decreto que regulamenta fim da escala 6x1; entenda | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=EEWji-r7XOs",
+     "por_hora": 574
+    }
+   ]
+  },
+  {
+   "id": "33d749157c",
+   "titulo": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
+   "url": "https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-09T20:20:15+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fala+Lula+tem+99%25+discurso+focado+gastos+responsabilidade+fiscal%2C",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Record News",
+     "titulo": "Lula diz estar comprometido com a responsabilidade fiscal",
+     "url": "https://www.youtube.com/watch?v=BO4wlIalqis"
+    },
+    {
+     "veiculo": "Diário de São Paulo",
+     "titulo": "Lula promete responsabilidade fiscal, mas mercado vê risco de inflação maior e juros altos em 2027",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1JBNUVrdHpHX2h3S0NwU3RvOWw5MkR3NEQzWmZTNHdqZnRwck9KQVp4MFNuYkFxaFNFdG8wYjNBM2I2LTVsWk9nUzJmbFcteXFhamFCVWxyMWNXaDc3X3IzcVZ3LVhWa2k2YXJtaG42Nm8ySXJuOTd5VkhzS19QUWxjTEVBMjFaYnIyTDJB0gGTAUFVX3lxTE9VSGxSNE9yZDNwbW53NmQtN251VEpFbERrbTR1akZaMktpeXZZa1VkZ1BTdXBCZzVEdDBSS01HT01VeTV3dlhiSzRpeHJWZHhjc0lIdjlKNmxXSGJ6Y0xkSGlHRnZDMVNZdnh5Nm9aWlhjSXgzSUphZ3Flb2FWSVNCVmVQNUVCNV9SVDFqaC1FWmhwQQ?oc=5"
+    },
+    {
+     "veiculo": "TC Online",
+     "titulo": "Lula se compromete com responsabilidade fiscal e busca conciliação",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWdqUWxkV3Y3cjJZcV96MHFzUlFNMlZkWTFlM0hZdm12OHFWZFU2NFpzRzZ0RjZfOTkzZ2QyZkRrLVVMRXg2ZzA0RXBrVmdLaTVJVEJCU2dJeVBhSmxqZmM3YW5VX09HVTl1Q01HNlgzeUhHNzhLOFlLeXJuWmQzN1ZWWkp2V2wwWWEtMG1LUTY4N0Vta2c?oc=5"
+    },
+    {
+     "veiculo": "politiza brasil",
+     "titulo": "Ibovespa abre em alta após compromisso de Lula com responsabilidade fiscal",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0oySENKdVZfeUhBOV9fRWd4NzdSdllIUENiQ3RXLXA2UFJfRU02eTB4MmtBYW5fN2gyNEdTSnpib2lsdXpPWUFCU0trMjRwT2dUQlI2R2p3SGczd1hENmUyMHZvYnlHZFoxTVliS3FCZVdCc1RZZVNGazRmRTFaUGVjRVZheWxUUW02WHNMNHRrcDlLOVBnTHMwVQ?oc=5"
+    }
+   ],
+   "score": 39.0,
+   "video_url": "https://www.youtube.com/watch?v=BO4wlIalqis",
+   "video_canal": "Record News",
+   "video_por_hora": 360,
+   "video_acima_mediana": 1.9,
+   "videos": [
+    {
+     "canal": "Record News",
+     "titulo": "Lula diz estar comprometido com a responsabilidade fiscal",
+     "url": "https://www.youtube.com/watch?v=BO4wlIalqis",
+     "por_hora": 360
+    }
+   ]
+  },
+  {
+   "id": "518f387ce7",
+   "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-09T18:04:26+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=LULA+VAI+TURQUIA+PARA+PARTICIPAR+COP31+BASTIDORES+CNN",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Record News",
+     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
+     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ"
+    },
+    {
+     "veiculo": "Muita Informação",
+     "titulo": "Lula viaja à Turquia sem Rui Costa e outros aliados e adia decisões sobre equipe e ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOEVKT1ZTRzNmWTA2N0RNSlZEVnN5ajlwS3ZXa185TW1lcVJqZXdpeTBrNWNNOW9XVEdkc1otbHFfODlfRmc3RnY4QnE2MHZpLW9yUzJZc0QzSHpUMTB1TGVLTDNVTmVpeS1Sdy1zVkVDNzFZbFVtbzFPUWVidG9CcUFndno1d2o0VGJVeTVQZklDMlNzTl85S1NZQkVJZmYweUxJckNvRUdES0NKR0tWLTVCQ012VGxiTUNPenpjb1l3UkVvbjFBMzIyLXp5Ujh1SG9v?oc=5"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "COP31: veja o que Lula pretende apresentar na Turquia | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=Tlqf33CA51g"
+    }
+   ],
+   "score": 38.9,
+   "video_url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 58529,
+   "video_acima_mediana": 67.3,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
+     "por_hora": 58529
+    },
+    {
+     "canal": "Record News",
+     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
+     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ",
+     "por_hora": 2287
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "COP31: veja o que Lula pretende apresentar na Turquia | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=Tlqf33CA51g",
+     "por_hora": 662
     }
    ]
   },
@@ -497,13 +582,18 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Entenda+investiga%C3%A7%C3%A3o+sobre+CEO+Nvidia+alega%C3%A7%C3%B5es+espionagem",
-   "veiculos": 3,
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
      "veiculo": "Valor",
      "titulo": "Com investigação sobre CEO da Nvidia, ações da empresa têm queda de 14% desde eleições nos EUA",
      "url": "https://valor.globo.com/empresas/noticia/2026/11/09/com-investigacao-sobre-ceo-da-nvidia-acoes-da-empresa-tem-queda-de-14percent-desde-eleicoes-nos-eua.ghtml"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Ações da Nvidia despencam após investigação de espionagem contra CEO | CNN MERCADO",
+     "url": "https://www.youtube.com/watch?v=lBdBx_mD-qg"
     },
     {
      "veiculo": "Valor",
@@ -514,19 +604,20 @@
      "veiculo": "InfoMoney",
      "titulo": "Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=SUsiRhR1kjw"
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Ações da Nvidia despencam após investigação sobre suspeita de espionagem envolvendo CEO",
-     "url": "https://g1.globo.com/economia/noticia/2026/11/09/acoes-da-nvidia-despencam-apos-investigacao-sobre-suspeita-de-espionagem-envolvendo-ceo.ghtml"
     }
    ],
-   "score": 27.3,
-   "video_url": "https://www.youtube.com/watch?v=SUsiRhR1kjw",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 94,
-   "video_acima_mediana": 0.6,
+   "score": 33.8,
+   "video_url": "https://www.youtube.com/watch?v=lBdBx_mD-qg",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1980,
+   "video_acima_mediana": 2.3,
    "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Ações da Nvidia despencam após investigação de espionagem contra CEO | CNN MERCADO",
+     "url": "https://www.youtube.com/watch?v=lBdBx_mD-qg",
+     "por_hora": 1980
+    },
     {
      "canal": "InfoMoney",
      "titulo": "Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem | InfoMoney News",
@@ -534,6 +625,418 @@
      "por_hora": 94
     }
    ]
+  },
+  {
+   "id": "27c038d540",
+   "titulo": "Análise: Fim de inquérito das fake news empodera PGR | CNN 360°",
+   "url": "https://www.youtube.com/watch?v=vJeUx6e-GRE",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-09T20:29:25+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=An%C3%A1lise+Fim+inqu%C3%A9rito+das+fake+news+empodera+PGR+CNN",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "PGR defende arquivar o inquérito das fake news",
+     "url": "https://www.youtube.com/watch?v=1Jj-78bJNqc"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Inquérito das fake news: O erro de origem está em quem criou a apuração no STF",
+     "url": "https://www.youtube.com/watch?v=PmaCMsdL-s8"
+    },
+    {
+     "veiculo": "MyNews",
+     "titulo": "SAIBA OS EFEITOS DO FIM DO INQUÉRITO DAS FAKE NEWS E COMO FICA ALEXANDRE DE MORAES",
+     "url": "https://www.youtube.com/watch?v=Yyeql8N8k5g"
+    },
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "PGR pede fim definitivo do Inquérito das Fake News ao STF | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=_UxJZTc2fqg"
+    }
+   ],
+   "score": 32.9,
+   "video_url": "https://www.youtube.com/watch?v=S-WtaVj-4HA",
+   "video_canal": "UOL",
+   "video_por_hora": 2400,
+   "video_acima_mediana": 2.6,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "PGR defende encerramento definitivo do inquérito das fake news, que estava sob direção de Moraes",
+     "url": "https://www.youtube.com/watch?v=S-WtaVj-4HA",
+     "por_hora": 2400
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Análise: Fim de inquérito das fake news empodera PGR | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=vJeUx6e-GRE",
+     "por_hora": 1017
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "PGR pede fim definitivo do Inquérito das Fake News ao STF | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=_UxJZTc2fqg",
+     "por_hora": 864
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "PGR defende arquivamento do inquérito das fake news",
+     "url": "https://www.youtube.com/watch?v=roCHDF1wxYg",
+     "por_hora": 328
+    },
+    {
+     "canal": "MyNews",
+     "titulo": "SAIBA OS EFEITOS DO FIM DO INQUÉRITO DAS FAKE NEWS E COMO FICA ALEXANDRE DE MORAES",
+     "url": "https://www.youtube.com/watch?v=Yyeql8N8k5g",
+     "por_hora": 327
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Inquérito das fake news: O erro de origem está em quem criou a apuração no STF",
+     "url": "https://www.youtube.com/watch?v=PmaCMsdL-s8",
+     "por_hora": 4
+    }
+   ]
+  },
+  {
+   "id": "e031066a4a",
+   "titulo": "CPI: Inflação ao consumidor nos EUA sobe 0,4% em agosto",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDRyV1hKLXM3LTVseTRlTXhyWE9CX2lYbW9rSWpoZGlMa1hCOTJuR1VkYXZQdmZlUWZCVWE0MWNyclk1Z2ZvLTNKWW85d2ctbHRyUnI5UEUwd3FzWU8yQzctUVpQQkIyUDgxSTREalc1aTNyd2RwT2RlaEJTUlhqQ0ROeDNQNHlWWGpXSldKMFZVcy1LR2NkXzlTNkNOSUYzM2c4VVFIOWZtck1ub1l1eg?oc=5",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-09T17:45:29+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=CPI+Infla%C3%A7%C3%A3o+consumidor+nos+EUA+sobe+0%2C4%25+agosto",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "CPI: Inflação ao consumidor nos EUA sobe 0,4% em agosto",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDRyV1hKLXM3LTVseTRlTXhyWE9CX2lYbW9rSWpoZGlMa1hCOTJuR1VkYXZQdmZlUWZCVWE0MWNyclk1Z2ZvLTNKWW85d2ctbHRyUnI5UEUwd3FzWU8yQzctUVpQQkIyUDgxSTREalc1aTNyd2RwT2RlaEJTUlhqQ0ROeDNQNHlWWGpXSldKMFZVcy1LR2NkXzlTNkNOSUYzM2c4VVFIOWZtck1ub1l1eg?oc=5"
+    },
+    {
+     "veiculo": "Nord Investimentos",
+     "titulo": "CPI: núcleo da inflação dos EUA vem acima do esperado e pressiona juros",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYVJUQnhmUVZTYzY0YVFSUHd3eWt3SDhhXzloUDM0ZDJNeXNTY1h3QTJpWFo0TElKS2E1UU9iajBfTEZBMDdBanFtbndaV2VReUxBZW1qdkJ6c1FtWUZ1ZdIBZkFVX3lxTE45NG5TUkNBUjMtZGc3cUZOQmVzWmxzMGIwS2t0TDBqQTVtLV9Pd0JEWThBMEpVWjJxVEFkOVBWN0M4d3c2MThIZ0xHQU5Gd05SUzlFU0hzSmVzWUNWczVQSjAxdlV0dw?oc=5"
+    },
+    {
+     "veiculo": "Nord Investimentos",
+     "titulo": "CPI: núcleo da inflação dos EUA vem acima do esperado e pressiona juros",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYVJUQnhmUVZTYzY0YVFSUHd3eWt3SDhhXzloUDM0ZDJNeXNTY1h3QTJpWFo0TElKS2E1UU9iajBfTEZBMDdBanFtbndaV2VReUxBZW1qdkJ6c1FtWUZ1ZdIBZkFVX3lxTE45NG5TUkNBUjMtZGc3cUZOQmVzWmxzMGIwS2t0TDBqQTVtLV9Pd0JEWThBMEpVWjJxVEFkOVBWN0M4d3c2MThIZ0xHQU5Gd05SUzlFU0hzSmVzWUNWczVQSjAxdlV0dw?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "Inflação preocupa: Focus eleva projeções e investidores aguardam IPCA e CPI dos EUA",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWS1nZnlvRUpRQzU5Smh4aFN1NEY5YjRXNGdNVmk3UTVzS3d5c0RkSDlMRHB4T0wyNHhZMWxVbjc1ZTZUMnhBMXhTLXExRFdQX201amkwMFZhbzc4ZW44QTVUYnpOQU5RSVJacWl6TkhneUpUMGx6eGNUVnRNMDQ5WDkteTdTQi1XZTVCSlpYYlpHNmRqRGNYUXdiT3IwX0RKX2Q4aW95WlVuTUhIZDJtUm11Qm5TSnRZQWtOdy10RmxZLWVCYTlOMzFWOXVxaWJ6?oc=5"
+    }
+   ],
+   "score": 32.8
+  },
+  {
+   "id": "25197c217e",
+   "titulo": "Governo Lula prorroga vigência do Gás do Povo até 2031",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-prorroga-vigencia-do-gas-do-povo-ate-2031.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-09T18:34:09+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+prorroga+vig%C3%AAncia+G%C3%A1s+Povo+at%C3%A9+2031",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4"
+    },
+    {
+     "veiculo": "Agência Brasil",
+     "titulo": "Gás do Povo: governo prorroga vigência do auxílio até 2031",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/gas-do-povo-governo-prorroga-vigencia-do-programa-ate-2031"
+    },
+    {
+     "veiculo": "atlaspublico.com.br",
+     "titulo": "Governo edita MP que prorroga o Auxílio Gás do Povo até 19 de novembro de 2031",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSUg4OWZmOUcwWjhndG5PODhUQ2FtWHBMbWJJRnZkSENsNTVqVkFHQUozVnJaU1dtNm5RWVZJR2lTQnEwdVVkeW9GSlFnVnVfN2tkN3NHQ3ZEQVkxY0wybk9kUWlaWm5YUkRER0Ewc2lDWW5nMFhLX3BXVHBVMkhrZlh3aVJqQXI4d2czel9Ha2pqNm1WQTQwUXNabThVZkhGVGh0VmctWmJXMjlr?oc=5"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/09/governo-prorroga-gs-do-povo-para-at-19-de-novembro-de-2031.ghtml"
+    }
+   ],
+   "score": 31.2,
+   "video_url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 245,
+   "video_acima_mediana": 0.4,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
+     "por_hora": 245
+    }
+   ]
+  },
+  {
+   "id": "885ab7c1ec",
+   "titulo": "Governo eleva imposto sobre pneus importados de 16% para 30%",
+   "url": "https://economia.uol.com.br/noticias/redacao/2026/11/09/governo-eleva-imposto-sobre-pneus-importados-de-16-para-30.ghtm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-11-09T16:58:57-03:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+eleva+imposto+sobre+pneus+importados+16%25+para+30%25",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "g1",
+     "titulo": "Governo aumenta imposto para pneus importados; tarifa vai de 16% para 30%",
+     "url": "https://g1.globo.com/carros/noticia/2026/11/09/governo-eleva-tarifa-de-importacao-de-pneus-de-carros.ghtml"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Governo eleva alíquota de importação de pneus de 25% para 30% por um ano",
+     "url": "https://www.cnnbrasil.com.br/economia/governo-eleva-aliquota-de-importacao-de-pneus-de-25-para-30-por-um-ano/"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Governo eleva alíquota de importação de pneus de 25% para 30% por 12 meses",
+     "url": "https://www.estadao.com.br/economia/governo-eleva-aliquota-importacao-pneus-por-12-meses/"
+    }
+   ],
+   "score": 29.7
+  },
+  {
+   "id": "d7ed3cebe7",
+   "titulo": "Lula acena ao mercado ao reconhecer que precisa criar ambiente para queda dos juros | #RadarNews",
+   "url": "https://www.youtube.com/watch?v=_LZzcNpPAx4",
+   "veiculo": "SBT News",
+   "publicado": "2026-11-09T20:10:28+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+acena+mercado+reconhecer+que+precisa+criar+ambiente+para",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 29.0,
+   "video_url": "https://www.youtube.com/watch?v=_LZzcNpPAx4",
+   "video_canal": "SBT News",
+   "video_por_hora": 398,
+   "video_acima_mediana": 0.6,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Lula acena ao mercado ao reconhecer que precisa criar ambiente para queda dos juros | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=_LZzcNpPAx4",
+     "por_hora": 398
+    }
+   ]
+  },
+  {
+   "id": "69d2fe6759",
+   "titulo": "Ajuste fiscal: o diagnóstico de organismos internacionais e o desafio de Lula 4",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/09/ajuste-fiscal-o-diagnostico-de-organismos-internacionais-e-o-desafio-de-lula-4.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-09T17:52:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+diagn%C3%B3stico+organismos+internacionais+desafio+Lula",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Repórter PB",
+     "titulo": "Abacaxis de Lula 4: combate ao crime e ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDNsUGhGeEVUUHRXd0xNb2JYQTVoWC10SC1FNGJTTjdIeGhDbFFMTzNvX3ZZbENKdV9WM1R3VU5NWW9NU3diZFQyNUxGVkxNbFlXRzB4VTgyQWNJallMal9mTVFBOUg1V3F4MzRQNmVHUjM0WGVxXzFxcFh2MXZTRW9Jb0N2NWNYWnpCOFhDaXpLNFJEREtSZ0VJWlRRWmUyX2JTcDZRYS1CRXpaYzlXWHZDM0lkTUlZRWc?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Discurso de Lula deixa dúvidas sobre ajuste fiscal; veja como o mercado financeiro pode reagir",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEVzaGY0Y0NFRHJxUlhEcWNFZzRmZWM3X3hDSnJuRk1jUzlrbnB0NFI5NW9WUldDdHYwQjlNS3NqVkJTX1lESF9mcjVqd0xEVUpvekh0bTBDcGg3YUNERVl2ZEU5eTZiendNSU53MDVhZTJFZ2hOMnduQm9qRkFiWnhkRFFYc1N6SzA4eDZKNFg3WWRtOTlsTnpUR1FFUkNOSWxaY2t6UVE0SGotSEJMbGNnZ1RLQlE5YzU1RHRfVGx3V0VUb3NwQ2NWYi1YNlRyQ01pTXB6NE94MzN0X05qSC04WW5DeXpnMjZmRktOUnFTZw?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Discurso de Lula deixa dúvidas sobre ajuste fiscal; veja como o mercado financeiro pode reagir",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU0xpQk5RU0c1UmswM3Zrc2YxRFdXQzk1U3RhT0Vzdl9TcTNjYVBNczd4TnE4RXFkeEJ0bHNFQXVRN1hnWVU0WUFKNU1GM1piWFVWeXVIRzAtVklka25oVmRCYlhKaXcya0ZuaE1LTElfVWZrNUFscTJmajVLOFJvRjA3OUIyV3EyYlFUMlY5TGx3S0lEcVR2TF9iREYzWTItRUNZa3l2NUZUeFR2eUt5NkZRRU1iX3dGUzYzdDMzZUJpTS1KVk5xek05VTVOZWZWbFhiWG1Md0lzOHlZRHpHaWs1eFdIUlHSAewBQVVfeXFMTWd2VWV1cnQ4VE12UnNjRm51dW04a0h6c1JtT1Y1OEt3bnd3ZEFnXzZEQlZSTlZELXFma3FTaUIwamNQOVZYMG1yeDhwa0xsXzl4M3NSOTVBN1VoVzRsYW9uR3ZuX1lubmlHeGZjcGhSbURVVW5Ya18wQmMyQ2pCVlNoMnE4em1fQVlRa19BUTA1OC1GbG82ejNnd1FZcnk3SUdVTGw0VkI5aXRldHViN0R0T2FPNGo5Ym1kR2dseUlPTzVpb2p2c0UxQTRKdVYwV3FZek9ob3pXQkxVZ0NTT2MzXzR4LVF1cV9sNHQ?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Alguém tem de dizer a Lula que, sem ajuste fiscal, o pobre pagará a conta com inflação e recessão",
+     "url": "https://www.estadao.com.br/economia/alvaro-gribel/alguem-tem-de-dizer-a-lula-que-sem-ajuste-fiscal-o-pobre-pagara-a-conta-com-inflacao-e-recessao/"
+    }
+   ],
+   "score": 29.0,
+   "video_url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 312,
+   "video_acima_mediana": 1.5,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Lula enfrenta pressão por ajuste fiscal e avança com PEC da Segurança | Mapa de Risco",
+     "url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
+     "por_hora": 312
+    }
+   ]
+  },
+  {
+   "id": "323c92d61a",
+   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe e chega a beliscar os 171 mil pontos",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORk1LbFBrS2JwZlFGZzNobE9jQWdlWTVtbWp0djl2TGFpeHFSY2JJRTNKdTlwSjd4UllabFJoU1hVWEQ0SEVOMENyaUZEZk9OemROcUJRb1RsYk5PcWU5MlhHVUQzdy1kZmNZR2l0a2VCT0JsQkhrQkQ5bDdBZF92QWRuVWJHcVZ2TXg1RG5vVQ?oc=5",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-09T20:20:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+Hoje+Vivo+Bolsa+sobe+chega+beliscar+171+mil",
+   "veiculos": 7,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "Ibovespa fecha a 171.786,56 pts (+1,95%); HBOR3 cai 17,2% hoje",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHRRQTd0cjVvT1pWUnBHNGhLUklDVWgwMHN5MGhHeWJqLTZ2SXU4cW1nZFR2QTE3Wnl0UjFLTFZQaXhOU2JvWE9qelpkbDJURV9PZGN4TXF2clg1Rkc4RzNJNWFrdUpodkFkRnJucjBKZXB2YTc0MHZKWVFjX1R5a3NEakRwS182WHBlVlFuUVBGRmdIalE?oc=5"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "Ibovespa fecha a 171.786,56 pts (+1,95%); HBOR3 cai 17,2% hoje",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHRRQTd0cjVvT1pWUnBHNGhLUklDVWgwMHN5MGhHeWJqLTZ2SXU4cW1nZFR2QTE3Wnl0UjFLTFZQaXhOU2JvWE9qelpkbDJURV9PZGN4TXF2clg1Rkc4RzNJNWFrdUpodkFkRnJucjBKZXB2YTc0MHZKWVFjX1R5a3NEakRwS182WHBlVlFuUVBGRmdIalE?oc=5"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "Ibovespa a 171.790 pts (+1,95%); MBRF3 sobe 10,9% na B3 hoje",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDRFdFJ6RWRwNW82RHZ0NUpXdmRXb1NIMTZzZ0ZDVVZBQm5uUUtOV1ZfbmxWTklHNUF3ZjNpSThOdFQ3MEJyNUYxSVd5LUFGNERqZFhydEtMNldKcm9zNnU0V3FTYWVZd2M0ZHJ0SVlUQThYM3MtNHpzV2p3Z24yZHoyb0dwX1l6Q01PeHR2OG9STXls?oc=5"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "HBOR3 cai 22,8% e MBRF3 sobe 11,0% nas ações da B3 hoje",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnc1SnA4eWQ5UU1wSVA1REhxeVJNblpva1M4cUhXckNDVEI2VFNWM21mVXVhRWdrSjZMWnRjTDNsQVg3cXoyYXlEZFhsS3ZYM3g2cGIzVGZhSnZ0cFV3b0FwVlZPRXlLRndNV1diY250VU1DbVUycERyS19FRXJsMkU4ODRXOGRRTUhRQ3hVc3FRb3M?oc=5"
+    }
+   ],
+   "score": 27.9
+  },
+  {
+   "id": "1343594a16",
+   "titulo": "Novo presidente do Paraguai pede renúncia de todos os seus ministros",
+   "url": "https://valor.globo.com/mundo/noticia/2026/11/09/novo-presidente-do-paraguai-pede-renncia-de-todos-os-seus-ministros.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T19:51:45+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Novo+presidente+Paraguai+pede+ren%C3%BAncia+todos+seus+ministros",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
+     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Novo presidente do Paraguai pede renúncia de todos os ministros e de autoridades do alto escalão",
+     "url": "https://www.moneytimes.com.br/novo-presidente-do-paraguai-pede-renuncia-de-todos-os-ministros-e-de-autoridades-do-alto-escalao-mlem/"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Novo presidente do Paraguai pede renúncia de ministros e autoridades de alto escalão",
+     "url": "https://exame.com/mundo/novo-presidente-do-paraguai-pede-renuncia-de-ministros-e-autoridades-de-alto-escalao/"
+    }
+   ],
+   "score": 27.9,
+   "video_url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
+   "video_canal": "UOL",
+   "video_por_hora": 2980,
+   "video_acima_mediana": 3.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
+     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
+     "por_hora": 2980
+    }
+   ]
+  },
+  {
+   "id": "f845a70474",
+   "titulo": "A5X e MSCI firmam parceria de olho na expans�o do mercado de derivativos",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/09/a5x-e-msci-firmam-parceria-de-olho-na-expansao-do-mercado-de-derivativos.ghtm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-11-09T19:07:17+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=A5X+MSCI+firmam+parceria+olho+expans+mercado+derivativos",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "A5X e MSCI firmam parceria de olho na expansão do mercado de derivativos",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON3Q3X01iS2tPcXczLUp3TG96RTRwVzdkZElnR0t0MmJlRURLWTg4SlYtNUNKNjVhdTRtUGlud1lwVkQ0dW9hM0FCVHZmeE94RHI4S2d2SjNKUk9LMlRtd2RkbFBkRmdOT1NRbWNxaExUU2dYT0xkSEFEbUxrTWVIbEZQaTZXc2JyZTVxaXJzYU1lbVdKRTNUYUtIaVQ3MF9Jc0hjb2llTXN2NTJzbW9wUlFSMWVKd0NkT04yNU5GRnFHRDlGTzJDaEhfRlM4Mm1QNmVzSWotbkdRdw?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "A5X se alia à MSCI para desafiar a B3 no mercado de derivativos",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdkVIODFUU3FKSXh4ZE1zSDdNRVh2VWUxanU4dWhBelBCY3NDNC1tMmxycEI2U0NmX1dxX09USFVKLXBjM3F3SHBFZVJOakw0WXRHZ1diOFZWN2NVbmYwc3E4dVB1WndCb1pIdzZHdkVWUmM3bVcyLXI4SW0tQzVzNzVlYXZPZHIzUExXWHZsMG9nWERud19yUEE3aEp3Tjkz?oc=5"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "A5X fecha parceria com MSCI para lançar derivativos de índices internacionais no Brasil",
+     "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468043"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "A5X fecha parceria com MSCI para lançar derivativos de índices internacionais no Brasil",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/09/a5x-fecha-parceria-com-msci-para-lanar-derivativos-de-ndices-internacionais-no-brasil.ghtml"
+    }
+   ],
+   "score": 27.4
   },
   {
    "id": "081cf0cf30",
@@ -567,64 +1070,14 @@
      "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-de-sp-divulga-datas-do-ipva-2027-veja-calendario-do-pagamento-a-vista.shtml"
     }
    ],
-   "score": 26.9
+   "score": 26.7
   },
   {
-   "id": "1343594a16",
-   "titulo": "Novo presidente do Paraguai pede renúncia de todos os seus ministros",
-   "url": "https://valor.globo.com/mundo/noticia/2026/11/09/novo-presidente-do-paraguai-pede-renncia-de-todos-os-seus-ministros.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T19:51:45+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Novo+presidente+Paraguai+pede+ren%C3%BAncia+todos+seus+ministros",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
-     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Paraguai: novo presidente pede renúncia de todos os ministros e de autoridades",
-     "url": "https://www.infomoney.com.br/mundo/paraguai-novo-presidente-pede-renuncia-de-todos-os-ministros-e-de-autoridades/"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Novo presidente do Paraguai pede renúncia de todos os ministros e de autoridades do alto escalão",
-     "url": "https://www.moneytimes.com.br/novo-presidente-do-paraguai-pede-renuncia-de-todos-os-ministros-e-de-autoridades-do-alto-escalao-mlem/"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Novo presidente do Paraguai pede renúncia de ministros e autoridades de alto escalão",
-     "url": "https://exame.com/mundo/novo-presidente-do-paraguai-pede-renuncia-de-ministros-e-autoridades-de-alto-escalao/"
-    }
-   ],
-   "score": 26.7,
-   "video_url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
-   "video_canal": "UOL",
-   "video_por_hora": 2000,
-   "video_acima_mediana": 1.3,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
-     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
-     "por_hora": 2000
-    }
-   ]
-  },
-  {
-   "id": "4edc0e4288",
-   "titulo": "\"Principal gargalo do governo hoje é o pagamento da dívida pública\", diz Jesualdo #shorts",
-   "url": "https://www.youtube.com/watch?v=gLrfFJru96M",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-09T18:03:33+00:00",
+   "id": "7bdf54cf51",
+   "titulo": "Análise: Lula muda discurso sobre dívida pública? | #NewsManhã",
+   "url": "https://www.youtube.com/watch?v=lgeGUlI547Q",
+   "veiculo": "SBT News",
+   "publicado": "2026-11-09T19:52:17+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -632,41 +1085,110 @@
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Principal+gargalo+governo+hoje+pagamento+d%C3%ADvida+p%C3%BAblica+diz+Jesualdo",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=An%C3%A1lise+Lula+muda+discurso+sobre+d%C3%ADvida+p%C3%BAblica+NewsManh%C3%A3",
+   "veiculos": 2,
    "rotina": false,
-   "outras": [],
-   "score": 25.2,
-   "video_url": "https://www.youtube.com/watch?v=gLrfFJru96M",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 227,
-   "video_acima_mediana": 0.4,
+   "outras": [
+    {
+     "veiculo": "SBT News",
+     "titulo": "Análise: Lula demonstra preocupação com a dívida pública e os juros elevados | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=LSHnzUFU7BE"
+    },
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Sem detalhar medidas, Lula se diz 'preocupado' com dívida pública e juros",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEVKVFkzZUNTSnBpa2g0NDlUaW5zQzRRZ28zc3I4MktjR294cmlRMlVxUlhFS1ZKc3B1QjRRU3hzNzdQMC1rTVp0VTQ2N0dQWDdXem8tcVVyQTZrd0QwNWxLUlV2TTM4N2U5eDJvTExUamhLQ2RqY3p5QXdyUWxiU1BHcndNUi1PNDRUZ3pqTlRtaThoNE5TRkRUdXItN2lIaVF1eEV0MmJRU3BzaW0tRVF3NjU5Zw?oc=5"
+    }
+   ],
+   "score": 26.0,
+   "video_url": "https://www.youtube.com/watch?v=lgeGUlI547Q",
+   "video_canal": "SBT News",
+   "video_por_hora": 686,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
-     "canal": "Jovem Pan News",
-     "titulo": "\"Principal gargalo do governo hoje é o pagamento da dívida pública\", diz Jesualdo #shorts",
-     "url": "https://www.youtube.com/watch?v=gLrfFJru96M",
-     "por_hora": 227
+     "canal": "SBT News",
+     "titulo": "Análise: Lula muda discurso sobre dívida pública? | #NewsManhã",
+     "url": "https://www.youtube.com/watch?v=lgeGUlI547Q",
+     "por_hora": 686
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Análise: Lula demonstra preocupação com a dívida pública e os juros elevados | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=LSHnzUFU7BE",
+     "por_hora": 639
     }
    ]
   },
   {
-   "id": "9b47627c6a",
-   "titulo": "Tesouro terá de refinanciar R$ 1,8 trilhão em 12 meses",
-   "url": "https://www.poder360.com.br/poder-economia/tesouro-tera-de-refinanciar-r-18-trilhao-em-12-meses/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-09T20:05:07+00:00",
+   "id": "626e7fb41d",
+   "titulo": "Quaest: Lula tem 48% de aprovação e 44% de reprovação | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=-52FTPgQ8tQ",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-09T14:42:38+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Quaest+Lula+tem+48%25+aprova%C3%A7%C3%A3o+44%25+reprova%C3%A7%C3%A3o+InfoMoney+News",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Quaest: Governo Lula tem 48% de aprovação e 44% de desaprovação pós-eleição",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT1ZXLVVPUnhfYXRjZl9Ca1RLQmhhV3U0TVJaSEliZ3RQUE5zNm1ZZE13ZXZZa1ZjbGljNzBjWXVOSjNMNDhUeWM3cWFWM0xyS2syRFE3QlNIY05PMFdzM3BPTmNaNXVFN1VyMHlKQjJ1T0NjZGhNUmk4V1BVMFdxZnhMUlZKWnNaQlUxWWhXS2h5Z0ZBOEpsT2dqb2hvdGE5d0dOWlRUNlF2cVJIZWxyOEhKSEgyS0RoeHJpSUNVdWdtX0RyVkpSUVlXVkNuVXZrRGw1aTBn?oc=5"
+    },
+    {
+     "veiculo": "JOTA Info",
+     "titulo": "Globo/Quaest: 48% aprovam e 44% desaprovam governo Lula após eleição",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEQxYnJoN0RKN00taE9lUHhtODhQRzZpRHZ6YXJra21yWVk1Z2hmc3ROc1BNOHFrVFdfeW9Hb29LbzhhVWFoQ19PWmdiZS0xcExTbUZVWVh0NXpZanZzNmJvTWlXLTdJTWJ5WmU0WUZ3M1JwVk5SdE5oczVxeDZLV0FUUlpnTERZZFVYXzhrdWd6dGdhenJkTEtkdUJiQQ?oc=5"
+    },
+    {
+     "veiculo": "NOVO Notícias",
+     "titulo": "APROVAÇÃO Após eleição, aprovação de Lula chega a 48% e supera rejeição, aponta Quaest",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlNhdXFMYmpCMTcxZ2t0LVJxYzNHSWFBaC1meUJOTHlpNlJFaGdJajJjU0VSc1VKYU9NX2xhc01melFVR3pXX3p6bmVEOUpFZ3VpMmtxY0pZM19uTUNCbDlSZFBQVnJPV0M4ZUVGWE9odmJvN1ZxWGJ0X29DbzhCTFZ4Ymx0S29CM29FdEt2ZUtyZlhJOW0ydGdzNGhJZVBUazNhMg?oc=5"
+    }
+   ],
+   "score": 25.8,
+   "video_url": "https://www.youtube.com/watch?v=-52FTPgQ8tQ",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 583,
+   "video_acima_mediana": 2.9,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Quaest: Lula tem 48% de aprovação e 44% de reprovação | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=-52FTPgQ8tQ",
+     "por_hora": 583
+    }
+   ]
+  },
+  {
+   "id": "be413ab8d9",
+   "titulo": "O Banco Central é refém do mercado financeiro?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckZGREJvODhwcjJuV1NDM0hhVVZqbkdySExQYUtGTzQtMldhQ3FHQl9vLTRxdVBWVG1qUkRpTGk0dVAzM3dpNnFDRkV3NkREU29taHdsS2VTSkpnMnkxaXJET0RSOUIzbUpXM3hIbENQUTZVN3N2OF85bHdBUVJwdml3WnN5bEVa?oc=5",
+   "veiculo": "egnews.com.br",
+   "publicado": "2026-11-09T17:30:00+00:00",
    "temas": [
     "economia",
-    "mercado"
+    "mercado",
+    "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Tesouro+ter%C3%A1+refinanciar+1%2C8+trilh%C3%A3o+meses",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Banco+Central+ref%C3%A9m+mercado+financeiro",
+   "veiculos": 2,
    "rotina": false,
-   "outras": [],
-   "score": 25.0
+   "outras": [
+    {
+     "veiculo": "atlaspublico.com.br",
+     "titulo": "Mediana do mercado para o IPCA de 2027 sobe a 4,90% na pesquisa Focus do Banco Central",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMml6YmNMbjgtRml6UzZMLWJiUS04UEFSNHJIbzctajdJd3Q4aWU3YmsyYVcxRHBWQldaZjVtNm9qWm5sMXA3T21PNGJGVDhCY0RBZmwtRGd3dTQ3aUpoX2FqLWJIV281RnZiemtPVUJzTlRoTkFIeU85aS1pa01QTkV0Ti0xSnNJVENxVElvck82XzVZdGFNbEI0cFlYVEc5UEdtUi1R?oc=5"
+    }
+   ],
+   "score": 25.7
   },
   {
    "id": "a79c5ef37f",
@@ -691,87 +1213,208 @@
      "url": "https://www.youtube.com/watch?v=Kl1KrmxrGLk"
     }
    ],
-   "score": 25.0,
+   "score": 25.2,
    "video_url": "https://www.youtube.com/watch?v=Kl1KrmxrGLk",
    "video_canal": "UOL",
-   "video_por_hora": 230,
-   "video_acima_mediana": 0.1,
+   "video_por_hora": 1222,
+   "video_acima_mediana": 1.3,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Decisão de Luiz Fux bloqueou ações de 29 bets, incluindo Blaze, Stake e EstrelaBet",
      "url": "https://www.youtube.com/watch?v=Kl1KrmxrGLk",
-     "por_hora": 230
+     "por_hora": 1222
     }
    ]
   },
   {
-   "id": "435d97ff4e",
-   "titulo": "Fux suspende afastamento de juíza punida por atos na Lava-Jato",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/09/fux-suspende-afastamento-de-juiza-punida-por-atos-na-lava-jato.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T19:38:26+00:00",
+   "id": "cb0b7aaf84",
+   "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/vitoria-de-lula-muda-perspectivas-para-small-caps-pressionadas-por-juros-e-risco-fiscal.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-08T23:00:00-03:00",
    "temas": [
+    "comportamento",
     "economia",
     "mercado",
     "politica"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fux+suspende+afastamento+ju%C3%ADza+punida+por+atos+Lava+Jato",
+   "busca_video": "https://www.youtube.com/results?search_query=Vit%C3%B3ria+Lula+muda+perspectivas+para+small+caps%2C+pressionadas+por",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Record News",
-     "titulo": "Fux suspende afastamento de juíza que atuou na Lava Jato",
-     "url": "https://www.youtube.com/watch?v=OTOINfh3c7Q"
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDZUNTAxSUhZZTR6NVJCM09xRzhpMjNkUTRuakhiOGY4Z25rY0lmNmlHM2lCZ0JSOUZ5RkdLeU9vWGdXRW9keUYtV29EZTc2LTQtV0FEcU15Wml1cXZkQzlpMTJYZXdSUzdJUkNyeXdWV21KajVFTUlTY3REdXBYNWFNQy1JdFY0amRuakkwTGdVOWFTU1hTcmYwV2RNZnppdkQxSWJPVXlncFJodUVDSTZRUzJpZEtpOG9jZjdnWlFjLUhwenUwSVo3a0M5a2hHZ2FBOWp3?oc=5"
+    },
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDZUNTAxSUhZZTR6NVJCM09xRzhpMjNkUTRuakhiOGY4Z25rY0lmNmlHM2lCZ0JSOUZ5RkdLeU9vWGdXRW9keUYtV29EZTc2LTQtV0FEcU15Wml1cXZkQzlpMTJYZXdSUzdJUkNyeXdWV21KajVFTUlTY3REdXBYNWFNQy1JdFY0amRuakkwTGdVOWFTU1hTcmYwV2RNZnppdkQxSWJPVXlncFJodUVDSTZRUzJpZEtpOG9jZjdnWlFjLUhwenUwSVo3a0M5a2hHZ2FBOWp3?oc=5"
     }
    ],
-   "score": 24.9,
-   "video_url": "https://www.youtube.com/watch?v=OTOINfh3c7Q",
-   "video_canal": "Record News",
-   "video_por_hora": 362,
-   "video_acima_mediana": 4.2,
-   "videos": [
-    {
-     "canal": "Record News",
-     "titulo": "Fux suspende afastamento de juíza que atuou na Lava Jato",
-     "url": "https://www.youtube.com/watch?v=OTOINfh3c7Q",
-     "por_hora": 362
-    }
-   ]
+   "score": 25.2
   },
   {
-   "id": "296d5fb03f",
-   "titulo": "Dedo de Prosa | Plano Cruzado 2 completa 40 anos | Conexão Senado 09/11/26",
-   "url": "https://www.youtube.com/watch?v=YMGBaJW5QJI",
-   "veiculo": "TV Senado",
-   "publicado": "2026-11-09T14:38:05+00:00",
+   "id": "d82e674abb",
+   "titulo": "Volume diário de transações com Pix bate novo recorde",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/09/volume-diario-de-transacoes-com-pix-bate-novo-recorde.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T17:09:00-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Volume+di%C3%A1rio+transa%C3%A7%C3%B5es+com+Pix+bate+novo+recorde",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Agência Brasil",
+     "titulo": "Pix bate recorde e supera 319 milhões de transações em um dia",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-bate-recorde-e-supera-319-milhoes-de-transacoes-em-um-dia"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Pix bate novo recorde com 319,7 milhões de transações em um dia",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pix-bate-novo-recorde-com-3197-milhoes-de-transacoes-em-um-dia/"
+    }
+   ],
+   "score": 24.8
+  },
+  {
+   "id": "29213964bf",
+   "titulo": "Copom mantém Selic em 13,75% ao ano; veja como o mercado avalia a decisão",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3Utek94M0FFSldLcDVrZ0Mzdm5EQnhOYzk0VUwxWmRYSUdRZi16TFZBX3F3T3JlZ0hrZEJZdmxIN0V1TGU1MVlCc1AwUW00RVpOZl9OSk1RS0cyQzBXYW4wb2ZJVkU3QnVEVTk3c2s3ZmtZdWt1dmdUek9KYmc2MUs4QjZZRkE5MjFBZWVSYmxKSVVGTFoxWDN0R01vUmVuRnZLWGNadnNCcFl1V2RoQW5wRmhvT2czMFpzcWk1ZWNjNmVmc1Nuakpn?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-09T20:05:40+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Copom+mant%C3%A9m+Selic+13%2C75%25+ano+veja+como+mercado+avalia",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Acia Araçatuba",
+     "titulo": "Mercado prevê Selic de 13,75% em 2027 o ano todo",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GZ2JTMkREN3czaUp2YkNnbUJxU3JXRTdXcnZfNTFvMjcwU2ttMXhCSWJIVlFVVzIzVHkyelo5d2Uzc3phQS1hWENhd3pCTUx3QmpkTVQxeHVNM3NTeGI0RXdRSlAyNElqbXRtNGZvOA?oc=5"
+    }
+   ],
+   "score": 24.8
+  },
+  {
+   "id": "9b47627c6a",
+   "titulo": "Tesouro terá de refinanciar R$ 1,8 trilhão em 12 meses",
+   "url": "https://www.poder360.com.br/poder-economia/tesouro-tera-de-refinanciar-r-18-trilhao-em-12-meses/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-09T20:05:07+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Tesouro+ter%C3%A1+refinanciar+1%2C8+trilh%C3%A3o+meses",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 24.8
+  },
+  {
+   "id": "c4de455544",
+   "titulo": "Commodities em queda ajudaram a frear inflação no IGP-DI, diz FGV",
+   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/commodities-em-queda-ajudaram-a-frear-inflao-no-igp-di-diz-fgv.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T19:34:11+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Commodities+queda+ajudaram+frear+infla%C3%A7%C3%A3o+IGP+DI%2C+diz+FGV",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Commodities em queda ajudaram a frear inflação no IGP-DI, diz FGV",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXpMcF83Z05Nb2RGRVJSMXRxWjVSTEJnSndkSDNiZEZBWmQyaGlNUFRwRE1TUUV4UjRKNjdRelJYN1lYbmNhYkI0Z3pDVGJZQ1FuMk9yZXgzY04wUkhZWDVWTElKSEJLdDdXU2M0MVBmeGg4ZVdrZmZOSzRibk92QkRTZDh2T3ZlSW9TTGFVQ3NhcU5wenhmaVF4a0ZJWWRNdnViVUxZYmE3aWdIVXlPc0F6bGJ2ZUFEcFHSAcgBQVVfeXFMTVdtMVgyM0JpUGd0YnZWSDNyOEljLXRrOENtMGFiRFVic2E3OVpzRlBvYkppdXAzSHMwcW9XeHJJcVVYbTcxTzNBS2ZVQWp2TjNKUUUtRVFQdndFUDVLNmRpS0MxaG1UN19KbzlKaXR1N0EyMUdMZ2l6bjVVRWRVUVFfOG1XbWJMYkVUUmo4cEh3WVoybDJmUlZVR0xwbXF5V09qeUh2bXlQNjNEOHYxaFYxNk83b2VQZDJQZ1ZzMUFSUS1OSGcxekY?oc=5"
+    }
+   ],
+   "score": 24.6
+  },
+  {
+   "id": "16e4a41bb0",
+   "titulo": "Dólar recua a R$ 5,50, com projeção de inflação e discurso de Lula no radar; Ibovespa avança",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/09/dolar-ibovespa.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-09T14:15:22+00:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Dedo+Prosa+Plano+Cruzado+completa+anos+Conex%C3%A3o+Senado",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 24.7,
-   "video_url": "https://www.youtube.com/watch?v=YMGBaJW5QJI",
-   "video_canal": "TV Senado",
-   "video_por_hora": 58,
-   "video_acima_mediana": 4.3,
-   "videos": [
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+recua+5%2C50%2C+com+proje%C3%A7%C3%A3o+infla%C3%A7%C3%A3o+discurso+Lula+radar",
+   "veiculos": 4,
+   "rotina": true,
+   "outras": [
     {
-     "canal": "TV Senado",
-     "titulo": "Dedo de Prosa | Plano Cruzado 2 completa 40 anos | Conexão Senado 09/11/26",
-     "url": "https://www.youtube.com/watch?v=YMGBaJW5QJI",
-     "por_hora": 58
+     "veiculo": "Claudio Dantas",
+     "titulo": "Dólar hoje recua com pronunciamento de Lula no radar",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1QxajlqNFAwTFdDRVlwTWVXdEF4Ump3Q1VmbDhHNGdTWjl5X3djZ3FMZ181SS1QR1hFY0w0Zy1VNk5kamtpTVZnR295LWNoZG9RR0dwYjlMNDdCT2dmT2xUcXZVY1BRZ2dpRFk0RS0tamVsTjNwNEZITl90NFVhT2J4NjUyNW9Ib0E?oc=5"
+    },
+    {
+     "veiculo": "Portal do Agronegócio",
+     "titulo": "Dólar hoje reverte queda e chega a R$ 5,52; mercado avalia fala de Lula e juros",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWZPOXJVSzhhQ3FYZGNQV0dsamVmaEEwTXpiaEJCR0xoNEhjeF9WMGJ5dElNUjM0Z1BsR3BBX2xqX25YRVlMMVhDRzlYaDNwRmh5NEstMjhIZFlyajlRaDhINTV1cmRzTzJRQTRubUVRZG5CTE5LcDhNSEdSUWpfdTJCY0V1ZFVhdFJaajJIdGNzVm1mYUQwR1Q0S2tXdmZMSkxrcnVKb3VaeGhxcUFaT0V2SWlnVVBBX2NJcndZZjhPWUFfT0N0VnVfU3lQWjNCYnk4eHpLakJhOFpHcE5DRzh5dnV1enpR?oc=5"
+    },
+    {
+     "veiculo": "Portal do Agronegócio",
+     "titulo": "Dólar hoje reverte queda e chega a R$ 5,52; mercado avalia fala de Lula e juros",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWZPOXJVSzhhQ3FYZGNQV0dsamVmaEEwTXpiaEJCR0xoNEhjeF9WMGJ5dElNUjM0Z1BsR3BBX2xqX25YRVlMMVhDRzlYaDNwRmh5NEstMjhIZFlyajlRaDhINTV1cmRzTzJRQTRubUVRZG5CTE5LcDhNSEdSUWpfdTJCY0V1ZFVhdFJaajJIdGNzVm1mYUQwR1Q0S2tXdmZMSkxrcnVKb3VaeGhxcUFaT0V2SWlnVVBBX2NJcndZZjhPWUFfT0N0VnVfU3lQWjNCYnk4eHpLakJhOFpHcE5DRzh5dnV1enpR?oc=5"
+    },
+    {
+     "veiculo": "Portal do Agronegócio",
+     "titulo": "Dólar hoje reverte queda e chega a R$ 5,52; mercado avalia fala de Lula e juros",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWZPOXJVSzhhQ3FYZGNQV0dsamVmaEEwTXpiaEJCR0xoNEhjeF9WMGJ5dElNUjM0Z1BsR3BBX2xqX25YRVlMMVhDRzlYaDNwRmh5NEstMjhIZFlyajlRaDhINTV1cmRzTzJRQTRubUVRZG5CTE5LcDhNSEdSUWpfdTJCY0V1ZFVhdFJaajJIdGNzVm1mYUQwR1Q0S2tXdmZMSkxrcnVKb3VaeGhxcUFaT0V2SWlnVVBBX2NJcndZZjhPWUFfT0N0VnVfU3lQWjNCYnk4eHpLakJhOFpHcE5DRzh5dnV1enpR?oc=5"
     }
-   ]
+   ],
+   "score": 24.4
+  },
+  {
+   "id": "e5cf25edce",
+   "titulo": "Economistas creem que juros serão mantidos em 13,75% neste ano, aponta Focus",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/economistas-creem-que-juros-serao-mantidos-em-1375-neste-ano-aponta-focus.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-09T08:55:00-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Economistas+creem+que+juros+ser%C3%A3o+mantidos+13%2C75%25+neste+ano%2C",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Folha de S.Paulo",
+     "titulo": "Economistas creem que juros serão mantidos em 13,75% neste ano, aponta Focus",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRS1QX00xY1loWFllMUpibFRmOFdkMmdGMXJvYm9QWjdndEVUbE9KVEdOd3g0UDc2c1BrWUgtQTJsZnVEZ1RiVE9IUEk5aTU3bzBoQzJZSzVOOVQyTmtjY3hMRlVSbnZKcE8tUlJ1MFd0MVdqM1gtN1Z2ZEhselRXQXAtTWdNZWlTZmRaWmFwY3RJMUNOdkdtS1RqM2FoRGQ2YmY0Zk1NbnpiVDhXb3pKazlnX2p2TzFEVWhreEw2WmJGeDg?oc=5"
+    }
+   ],
+   "score": 24.4
   },
   {
    "id": "9618f7785d",
@@ -789,118 +1432,52 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.4,
+   "score": 24.3,
    "video_url": "https://www.youtube.com/watch?v=uRj9mAYY4fg",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 714,
-   "video_acima_mediana": 0.5,
+   "video_por_hora": 869,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Risco de estagnação faz CEOs do Itaú e Bradesco cobrarem ajuste fiscal | CNN MERCADO",
      "url": "https://www.youtube.com/watch?v=uRj9mAYY4fg",
-     "por_hora": 714
+     "por_hora": 869
     }
    ]
   },
   {
-   "id": "f845a70474",
-   "titulo": "A5X e MSCI firmam parceria de olho na expans�o do mercado de derivativos",
-   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/09/a5x-e-msci-firmam-parceria-de-olho-na-expansao-do-mercado-de-derivativos.ghtm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-11-09T16:04:24-02:00",
+   "id": "fe9a131b9d",
+   "titulo": "Ibovespa estende recuperação com Vale e bancos, apesar de queda da Petrobras",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXpNeVF6dHl5R0JwSUVPdHVsNHhFMzV5WEJuMV9TcGFlZWh3VGJ4UXJXZ2RpTXVEQnduT0hxb2k0TThycE1Td2YwWFBucEgyY2VxaEJEY1pMOFR4SmxvaXVTcUdDSUNMcGZRckpKb0VoRHRPcVFLWV91Z1BYaHFXUWd3NXROYlE3UDMzdmNmeFhxX3h4U1FNaUliRlZmUE1oMDRQY2dQYXNLdEdpaVdoQ3dtMzZuVVpQeXpQeGhqYzRVWDVyWHJOTGJEY0dBUdIB3AFBVV95cUxPOGhHWjRCTjROZlRFNXphV0d3Y0JCeFdCTTdyd3AwU2JkejBrWE1fZUpTSGNoam9CZnhwZ192aW4tZzNQVlpTb3hVelJlQ3gyWHh5REkzb2h5eHNIc195a2ctT1AtRTFWUVVRZ2JmczVXWEk5Q3ZvQWJfdkxtWGpTTEdYcGZwVHQ0ZlpQWXBhWHB2dGpTc2hXay1wVFkyUWpxcWFTTldLSzVQNWRzUmwzUk1yRzZuZFlRVFBvd2Z2dDZtZnNEbEc3MHdzckpvaU9uVnNTUXhFNVZZb0px?oc=5",
+   "veiculo": "Valor Econômico",
+   "publicado": "2026-11-09T17:33:47+00:00",
    "temas": [
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=A5X+MSCI+firmam+parceria+olho+expans+mercado+derivativos",
+   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+estende+recupera%C3%A7%C3%A3o+com+Vale+bancos%2C+apesar+queda+Petrobras",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Folha",
-     "titulo": "A5X fecha parceria com MSCI para lançar derivativos de índices internacionais no Brasil",
-     "url": "https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468043"
+     "veiculo": "SpaceMoney",
+     "titulo": "EasyBZ15 supera Ibovespa apesar de queda de 10,99%",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdnBuNXE0QjJCRFB1RVJKblRyZXNiN1RvdUZjY0hrbWx1UGMyV2F3ek83MTNEYVQ3SDhHSUFIUGd2ODJvUUp3eFFyRGRsbExMcTVBOFIwOUFPeEFiaGlORkpwSmRHTnNuRUYyLWlqTnRtaThfX3FlM2VSRmFZOW05M3lCMkZlakNjcVFJ?oc=5"
     },
     {
-     "veiculo": "Valor",
-     "titulo": "A5X fecha parceria com MSCI para lançar derivativos de índices internacionais no Brasil",
-     "url": "https://valor.globo.com/financas/noticia/2026/11/09/a5x-fecha-parceria-com-msci-para-lanar-derivativos-de-ndices-internacionais-no-brasil.ghtml"
+     "veiculo": "Valor Econômico",
+     "titulo": "Ibovespa estende recuperação com Vale e bancos, apesar de queda da Petrobras",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXpNeVF6dHl5R0JwSUVPdHVsNHhFMzV5WEJuMV9TcGFlZWh3VGJ4UXJXZ2RpTXVEQnduT0hxb2k0TThycE1Td2YwWFBucEgyY2VxaEJEY1pMOFR4SmxvaXVTcUdDSUNMcGZRckpKb0VoRHRPcVFLWV91Z1BYaHFXUWd3NXROYlE3UDMzdmNmeFhxX3h4U1FNaUliRlZmUE1oMDRQY2dQYXNLdEdpaVdoQ3dtMzZuVVpQeXpQeGhqYzRVWDVyWHJOTGJEY0dBUdIB3AFBVV95cUxPOGhHWjRCTjROZlRFNXphV0d3Y0JCeFdCTTdyd3AwU2JkejBrWE1fZUpTSGNoam9CZnhwZ192aW4tZzNQVlpTb3hVelJlQ3gyWHh5REkzb2h5eHNIc195a2ctT1AtRTFWUVVRZ2JmczVXWEk5Q3ZvQWJfdkxtWGpTTEdYcGZwVHQ0ZlpQWXBhWHB2dGpTc2hXay1wVFkyUWpxcWFTTldLSzVQNWRzUmwzUk1yRzZuZFlRVFBvd2Z2dDZtZnNEbEc3MHdzckpvaU9uVnNTUXhFNVZZb0px?oc=5"
+    },
+    {
+     "veiculo": "Bom Dia Mercado",
+     "titulo": "Giro das 12h: Vale e bancos puxam Ibovespa, enquanto Petrobras cai com Brent após Trump descartar ataque ao Irã",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMGJNWUthMUpjQTRUU05fS1FCZVBKYzh2SDNnbUIzaXRSSThSYnpoeXZSNHlTVmZnNTBFSWVhckhQLVFyY0VGdjJzMEJwazdqZ0tSeS1WZWh2REoxVENOLXltQktaWW5tVDBxMkdGTy12SFJHc1NuZUtwVG5TTjktYVRtR1NxSlZxTkw4WlAydmpHRXlNSGNVWWk4aWUtQUlmMFFkLVJLWmJ5UEJrRHJ1T0pQWkw2d0UyMnVrOWNQVmFFTnpqNWpYR3ItdlZZNHFxSm5HXzctVFljUTFIS1dqbmExUGtSOVVSWnRFM2VDZWNhdXhabnByekNTdXl0ZU5HQkV4aWM0QzEtM0Nl?oc=5"
     }
    ],
-   "score": 24.1
-  },
-  {
-   "id": "ca2d148b57",
-   "titulo": "Mercado financeiro e Lula: Sakamoto aponta press�o por estelionato eleitoral",
-   "url": "https://mais.uol.com.br/v/17424473",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-11-09T19:19:11+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+financeiro+Lula+Sakamoto+aponta+press+por+estelionato+eleitoral",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Mercado financeiro e Lula: Sakamoto aponta pressão por estelionato eleitoral",
-     "url": "https://www.youtube.com/watch?v=hjE35ami7Og"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Mercado financeiro quer de Lula o estelionato eleitoral que esperava do derrotado | Sakamoto",
-     "url": "https://www.youtube.com/watch?v=Sy_mAilnMcA"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Mercado financeiro quer de Lula o estelionato eleitoral que esperava do derrotado | Sakamoto",
-     "url": "https://mais.uol.com.br/v/17424451"
-    }
-   ],
-   "score": 23.7,
-   "video_url": "https://www.youtube.com/watch?v=Sy_mAilnMcA",
-   "video_canal": "UOL",
-   "video_por_hora": 2600,
-   "video_acima_mediana": 1.6,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Mercado financeiro quer de Lula o estelionato eleitoral que esperava do derrotado | Sakamoto",
-     "url": "https://www.youtube.com/watch?v=Sy_mAilnMcA",
-     "por_hora": 2600
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Mercado financeiro e Lula: Sakamoto aponta pressão por estelionato eleitoral",
-     "url": "https://www.youtube.com/watch?v=hjE35ami7Og",
-     "por_hora": 1578
-    }
-   ]
-  },
-  {
-   "id": "9bf448a7eb",
-   "titulo": "Na contramão do Brasil, rede UFit quer dobrar em 2027",
-   "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/09/na-contramao-do-brasil-rede-ufit-quer-dobrar-em-2027-1.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T16:44:34+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=contrama+Brasil%2C+rede+UFit+quer+dobrar+2027",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.6
+   "score": 23.7
   },
   {
    "id": "fd0ed0e0b6",
@@ -931,28 +1508,151 @@
    "score": 23.4,
    "video_url": "https://www.youtube.com/watch?v=miYmGirHbAY",
    "video_canal": "GloboNews",
-   "video_por_hora": 1179,
-   "video_acima_mediana": 3.3,
+   "video_por_hora": 1675,
+   "video_acima_mediana": 3.0,
    "videos": [
     {
      "canal": "GloboNews",
      "titulo": "PF diz que investiga ameaças contra deputada eleita Ana Elisa",
      "url": "https://www.youtube.com/watch?v=miYmGirHbAY",
-     "por_hora": 1179
+     "por_hora": 1675
     },
     {
      "canal": "SBT News",
      "titulo": "Polícia Federal investiga ameaça de morte contra a deputada Ana Elisa | #RadarNews",
      "url": "https://www.youtube.com/watch?v=gjcm2H3ExYE",
-     "por_hora": 1031
+     "por_hora": 1100
     },
     {
      "canal": "Record News",
      "titulo": "Polícia Federal vai investigar ameaças contra Ana Elisa",
      "url": "https://www.youtube.com/watch?v=SqC6R7IKqs0",
-     "por_hora": 16
+     "por_hora": 59
     }
    ]
+  },
+  {
+   "id": "f17c9a04bb",
+   "titulo": "Gringo saca R$ 8 bi da B3 após eleição: o gatilho fiscal que falta",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVVYZmFVMk13bW9wZzlPd0RsWUZobW1kMDVwbjRmc094eHo3ZVliMGR5ckpCOVFXeDNjLThkWFNsY1RCVmNfeU9wM0F2VHFqd3RYcFZGd2tJSy1oVXZuZVFQYlVweEtKdHdCYTZfSGNOa2daV0lGODRJSzRWU2dxZUY0ZmxabllkVDlfTjNYeEpRUjdJeTlmYVo5ZFRieDhiWTBQUW9ubXJHRXVLenBKXw?oc=5",
+   "veiculo": "www.ativovirtual.com.br",
+   "publicado": "2026-11-09T19:05:34+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Gringo+saca+ap%C3%B3s+elei%C3%A7%C3%A3o+gatilho+fiscal+que+falta",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 23.4
+  },
+  {
+   "id": "9bf448a7eb",
+   "titulo": "Na contramão do Brasil, rede UFit quer dobrar em 2027",
+   "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/09/na-contramao-do-brasil-rede-ufit-quer-dobrar-em-2027-1.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T16:44:34+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=contrama+Brasil%2C+rede+UFit+quer+dobrar+2027",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 23.4
+  },
+  {
+   "id": "283171280e",
+   "titulo": "Gabriel Galípolo, presidente do Banco Central",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX29NUG1KeDJOM0laekUtMGtQQ0F2aUo3OE94S1NEaGUzVF9IcFlISmN1Nkk5by1zcVRaV0tRaHZFVDdYVFZIcDNHd3NUYVBWQVM0clQwalpmS2padkhrSEJLd1h5OXFKdTBsZFF0ZGoxdUFwenRPVWJhTUtOWVR6bkNLZlJ6aF9hWDhlcnFVOVd2dktmRk02aU9GNVFqTkpzTzN0eXp3?oc=5",
+   "veiculo": "Folha de S.Paulo",
+   "publicado": "2026-11-09T18:50:33+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Gabriel+Gal%C3%ADpolo%2C+presidente+Banco+Central",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jornal Impresso Brasil",
+     "titulo": "Indicações de Lula ao Banco Central geram termo de \"presidente paralelo\" ao Galípolo - Times Brasil",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGJWN21wTFNUcW11aW5wR0RhTXFPUk5TWEM3SUZnc0tkUzB3UzdUWTB0WFYxYXVGenk4eHdlU1RndFdySHk3bERSV0l2VnAyaklyMlhMOHd1QzROYnBQb2JCUm9YN3doTDU3WUZfT1dndURmS3NVRlRydG44OGdNeG9OSmJrVXg0bWZDaGRpZ3Y5ZGw4aGhrclJVZGVFZlZNSnhkRmg5SGNpZVhPY21zdXBNNmotRHlBVGJ2b25HczBLRXpZY3FjYkdCQnk?oc=5"
+    },
+    {
+     "veiculo": "Times Brasil | CNBC",
+     "titulo": "Indicações de Lula ao Banco Central geram temor de “presidente paralelo” a Galípolo",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnA0cnUyaklkcktkX0dxSFJaZmFDUVhhdnNwWWxJMUtoNVNmNXQweG5XRUJmbjF1cTNYQy1hR1JWRFUtWGlJU29SVjBFTWktRTdKS1BRckFTUmdueF9lWWU1Y0RjN29rMnpvcHZEVm9uY1VmNnd2N2RrcFZGSnBTMnE5R0hUall5WFJ4UDlidUZCR0JadFY3eEcyTF9nQ2pPWmtUaV93RTJZSXk2MVA1b1pFOUR0WkE?oc=5"
+    }
+   ],
+   "score": 23.3
+  },
+  {
+   "id": "ca3e947709",
+   "titulo": "Casas Bahia (BHIA3) adia divulgação das demonstrações do 3T26",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Q19MbHFmZXVHX2stN0dpdVQxQTdWYzlISXg1NkwzQVpJMEtnYktmSDFuYnR3Q1lnTkNxSWZORWVPcTZIc1phbWxLcWc5bTRCVDdCaHJzTmRGekNNd3ktdy0tck1Vb0MxcnFLUXc4WUE5RW1pbThUaWJzdEPSAYIBQVVfeXFMUFBkd2x3Ny15MVFtZ0NMaUtOVG5YbVB3UXdKOUlSQmhfWHhnNzRwU3Nkdk51b1AtODBWZVBEX2VDRmZpWmNvYk9vWGo2d1ZIVkFBc0Z5NEY5ZzQ4NDdBVENQR1RwbGZCakVrVm44NjhjUnNxY1FtYk1adkpsRmxZYi1kdw?oc=5",
+   "veiculo": "Suno - Investimentos Inteligentes",
+   "publicado": "2026-11-09T16:30:15+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Casas+Bahia+BHIA3+adia+divulga%C3%A7%C3%A3o+das+demonstra%C3%A7%C3%B5es+3T26",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "melhorinvestimento.net",
+     "titulo": "Casas Bahia (BHIA3) adia balanço do terceiro trimestre para dezembro",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEVibk9BM1lWTGptbHVwZUhPR3ByT0lPS0VGSFR6VmVXdE42MjZ0N0lobGlqZnRzRHNBMTlDLS15aE1qanJrVGxhQ2xmNEQ0bG9iR1FYVzN4Ukh0Wl80WVdmeFpFYWlHbGZHUnUwZkFWMmlZQmVCbE1xR04yS0RnbC1tV2NZR0NHTDFaRWticHZ3dw?oc=5"
+    },
+    {
+     "veiculo": "Giro News",
+     "titulo": "Em recuperação judicial, Casas Bahia adia balanço do terceiro trimestre para dezembro",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcE0ydHQ0UzhkY0NqMTJWaDVUZ0xOWVhPNzNtMTNaVWlQVWJUR3JlY2xjaVEwSHM2bk51RmFRUDlhaHp0WWVxeDllVHFYSE1Tb0o5Y3J0eGlwTVBqVWtLNkRPcUwwYnVyUFREUHVMZnlvU09LaFhBckpDNEkyemRmZjcxU2l0ZEJ1RDFSZU9rUi1hN3N5dHdBTGRLOGJZTEJCNnM4QmFWaURxSGo0V1lvQkxYSlpOX2VndkNaYTNR?oc=5"
+    }
+   ],
+   "score": 23.3
+  },
+  {
+   "id": "16e3d6fa9f",
+   "titulo": "Copom interrompe ciclo de corte de juros e mantém Selic em 13,75% ao ano",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sQl83QnpGeW1iN0R2T3BtTzY4cm5TZk9OazdCczJhcy1ELWdQS2MyemtDMVp6dnV1V19sV0hfTmEzVFlYZUNrQXpBc2hBVTFPMXczWG4wVzNQd2c1SXpqTHFjeXF6bmpuREZxYVdCazJ0R2hNMXpXa2d3?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-09T16:12:00+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Copom+interrompe+ciclo+corte+juros+mant%C3%A9m+Selic+13%2C75%25+ano",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Rede 98",
+     "titulo": "COPOM mantém Selic e eleva cautela sobre os juros",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa0ZkTkJLcEg3LTRjTldtVGdubGlfOHlvTE9OOFBlS3NpMkR6Z05QbWNtLUtiZEp4cy1tYkMwaVlYa3lWY1d6WEhhYmRfME1wNDI2TV9BdDFfNmt0ZkxWV0lEZFBZLU1tMVhyV2x1bk1lbHl6WTZMSnhMNVRpaHNmNVVUZTRfWHM?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Copom: mercado vê interrupção no ciclo de corte da Selic, mas afasta chance de alta da taxa",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhPRXZXSld0NkJrWi1DaHNHWkxkaGtuYzdUSFpRYlRQZV9xR01qNlZmLXlNdmFYaC1iRWFvNkVUbXNRWkw2amlrN1I4WWg2cEZhR2FSa2hhSE9xWEVwdzdxd1JfczdzbFZTZTROaTlGRDN6YjdNT3Q4c1RtVGVjSFJ6b0tTWW44dDBSZ1prbmFVdEl1M2ZzekJISWxucjFtQ3NYWUM1QXRGUQ?oc=5"
+    }
+   ],
+   "score": 23.2
   },
   {
    "id": "7f55ea2ad7",
@@ -977,23 +1677,661 @@
      "url": "https://www.youtube.com/watch?v=8IIM2INx298"
     }
    ],
-   "score": 23.3,
+   "score": 23.1,
    "video_url": "https://www.youtube.com/watch?v=fNoZP8BUuIw",
    "video_canal": "Estadão",
-   "video_por_hora": 2288,
-   "video_acima_mediana": 25.9,
+   "video_por_hora": 2320,
+   "video_acima_mediana": 29.4,
    "videos": [
     {
      "canal": "Estadão",
      "titulo": "Andreazza: Lula diz que se preocupa com a questão fiscal e com os juros, mas não é urgente",
      "url": "https://www.youtube.com/watch?v=fNoZP8BUuIw",
-     "por_hora": 2288
+     "por_hora": 2320
     },
     {
      "canal": "InfoMoney",
      "titulo": "Lula reafirma compromisso fiscal, mas não detalha medidas para reduzir juros | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=8IIM2INx298",
-     "por_hora": 629
+     "por_hora": 550
+    }
+   ]
+  }
+ ],
+ "falas_e_videos": [
+  {
+   "id": "57c50cb99d",
+   "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-da-selic-para-1375-em-2026",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-09T20:30:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+eleva+proje%C3%A7%C3%A3o+Selic+para+13%2C75%25+2026",
+   "veiculos": 56,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "URB News",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026, diz Focus",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSllJSk5RUXNFVFJaeUdCb0w0VGlKckhNblkwd0lfREJfT1lOWDNuYl8zM0c2eS13dnl4LTctQVJ1SUdzSDhkZUFNUHM3WjR2OTkxbjN3bHBUZXllUGgtU3dxQ1FFN0RTQm4xZmpaTmFBcWdBUWt0U2wzclg5MmVwRENWQ2QzVU10bWk0d2ptb0hkaTg5MFVZT2xB?oc=5"
+    },
+    {
+     "veiculo": "URB News",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026, diz Focus",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSllJSk5RUXNFVFJaeUdCb0w0VGlKckhNblkwd0lfREJfT1lOWDNuYl8zM0c2eS13dnl4LTctQVJ1SUdzSDhkZUFNUHM3WjR2OTkxbjN3bHBUZXllUGgtU3dxQ1FFN0RTQm4xZmpaTmFBcWdBUWt0U2wzclg5MmVwRENWQ2QzVU10bWk0d2ptb0hkaTg5MFVZT2xB?oc=5"
+    },
+    {
+     "veiculo": "Portal do Lobão",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2JHQmJhYVQ5SklXX1I5SjJnQ3hHOVdPLS1jaE41NGloaXBlejNHWXM0a0dtYzVIZGx0YzhuY3BQcUtTeUgyX2hGd0FObVRmRHcyOHIyUWdLejlNRklaZGhhVHNfcWFpVEkxVHBXeGV4cDFIWDU5czIxX05FQ1lFcW5BZXZaZw?oc=5"
+    },
+    {
+     "veiculo": "REDE BRASIL DE TELEVISÃO",
+     "titulo": "Mercado eleva previsão de inflação para 2027 e adia expectativa de corte da Selic",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxheUk3LWdwSmRFOXRfd2ctWEpmRjZsWVpZSkcwcXFaODJQa2N6cGxXNDFBY25pbGdROVFiclhFaHhmWUJPV3k0cnM5NUJLWHNyWnVqX3Bxa1JUcUJZVVVPR1YyT2tXRy0yWktOV3RRQmxiUmdOUFJEVkM0WnhuaXVwVndqdjhmVWJLTjBJS2RVWTZad0ZVQW8zcFNPVFU5OGN3VFJlckVqUkdxcnNkbVJqQm8zUQ?oc=5"
+    }
+   ],
+   "score": 53.8,
+   "video_url": "https://www.youtube.com/watch?v=mcp0yTmsIIc",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 2143,
+   "video_acima_mediana": 3.2,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% ao ano em 2026; Alan Ghani analisa",
+     "url": "https://www.youtube.com/watch?v=mcp0yTmsIIc",
+     "por_hora": 2143
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026; Denise Campos de Toledo comenta | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=tqKKWTlxz48",
+     "por_hora": 198
+    }
+   ]
+  },
+  {
+   "id": "a52051d660",
+   "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-09T17:32:33+00:00",
+   "temas": [
+    "comportamento",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fux+suspende+todos+processos+sobre+bets+InfoMoney+News",
+   "veiculos": 8,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
+     "url": "https://www.youtube.com/watch?v=MnN3yxepurM"
+    },
+    {
+     "veiculo": "Record News",
+     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
+     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Fux suspende todos os processos sobre bets até decisão definitiva do STF | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=5M-DRRUik5o"
+    },
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
+     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A"
+    }
+   ],
+   "score": 46.1,
+   "video_url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
+   "video_canal": "Record News",
+   "video_por_hora": 3493,
+   "video_acima_mediana": 18.9,
+   "videos": [
+    {
+     "canal": "Record News",
+     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
+     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
+     "por_hora": 3493
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
+     "url": "https://www.youtube.com/watch?v=MnN3yxepurM",
+     "por_hora": 1367
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
+     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A",
+     "por_hora": 1083
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
+     "por_hora": 338
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Supremo suspende processos sobre fim das bets em todo o país | Bora Brasil",
+     "url": "https://www.youtube.com/watch?v=LErhrvwyL3s",
+     "por_hora": 314
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Fux suspende todos os processos sobre bets até decisão definitiva do STF | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=5M-DRRUik5o",
+     "por_hora": 233
+    }
+   ]
+  },
+  {
+   "id": "c8f1fa1aee",
+   "titulo": "Decreto que regulamenta fim da escala 6x1 é adiado",
+   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/decreto-que-regulamenta-fim-da-escala-6x1-adiado.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T20:22:46+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Decreto+que+regulamenta+fim+escala+6x1+adiado",
+   "veiculos": 12,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Fim da 6×1: governo adia decreto de regulamentação para depois da viagem de Lula",
+     "url": "https://www.infomoney.com.br/politica/fim-da-6x1-governo-adia-decreto-de-regulamentacao-para-depois-da-viagem-de-lula/"
+    },
+    {
+     "veiculo": "Metrópoles",
+     "titulo": "Decreto que regulamenta fim da 6x1 fica para depois da viagem de Lula",
+     "url": "https://www.metropoles.com/brasil/decreto-que-regulamenta-fim-da-6x1-fica-para-depois-da-viagem-de-lula"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Governo adia publicação de decreto que regulamenta fim da escala 6x1; entenda | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=EEWji-r7XOs"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Fim da escala 6x1: governo Lula adia assinatura de decreto para a próxima semana",
+     "url": "https://exame.com/brasil/fim-da-escala-6x1-governo-lula-adia-assinatura-de-decreto-para-a-proxima-semana/"
+    }
+   ],
+   "score": 40.7,
+   "video_url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 4600,
+   "video_acima_mediana": 6.9,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lula adia decreto com regras do fim da escala 6x1 | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
+     "por_hora": 4600
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Fim da escala 6x1: governo deve publicar decreto hoje | #NewsManhã",
+     "url": "https://www.youtube.com/watch?v=UWUq9Ctt4Uw",
+     "por_hora": 2833
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Governo adia decreto que regulamenta fim da escala 6x1 | BandNews TV",
+     "url": "https://www.youtube.com/watch?v=kuh3O3jjNy0",
+     "por_hora": 1325
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Governo adia publicação de decreto que regulamenta fim da escala 6x1; entenda | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=EEWji-r7XOs",
+     "por_hora": 574
+    }
+   ]
+  },
+  {
+   "id": "33d749157c",
+   "titulo": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
+   "url": "https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-09T20:20:15+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Fala+Lula+tem+99%25+discurso+focado+gastos+responsabilidade+fiscal%2C",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Record News",
+     "titulo": "Lula diz estar comprometido com a responsabilidade fiscal",
+     "url": "https://www.youtube.com/watch?v=BO4wlIalqis"
+    },
+    {
+     "veiculo": "Diário de São Paulo",
+     "titulo": "Lula promete responsabilidade fiscal, mas mercado vê risco de inflação maior e juros altos em 2027",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1JBNUVrdHpHX2h3S0NwU3RvOWw5MkR3NEQzWmZTNHdqZnRwck9KQVp4MFNuYkFxaFNFdG8wYjNBM2I2LTVsWk9nUzJmbFcteXFhamFCVWxyMWNXaDc3X3IzcVZ3LVhWa2k2YXJtaG42Nm8ySXJuOTd5VkhzS19QUWxjTEVBMjFaYnIyTDJB0gGTAUFVX3lxTE9VSGxSNE9yZDNwbW53NmQtN251VEpFbERrbTR1akZaMktpeXZZa1VkZ1BTdXBCZzVEdDBSS01HT01VeTV3dlhiSzRpeHJWZHhjc0lIdjlKNmxXSGJ6Y0xkSGlHRnZDMVNZdnh5Nm9aWlhjSXgzSUphZ3Flb2FWSVNCVmVQNUVCNV9SVDFqaC1FWmhwQQ?oc=5"
+    },
+    {
+     "veiculo": "TC Online",
+     "titulo": "Lula se compromete com responsabilidade fiscal e busca conciliação",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWdqUWxkV3Y3cjJZcV96MHFzUlFNMlZkWTFlM0hZdm12OHFWZFU2NFpzRzZ0RjZfOTkzZ2QyZkRrLVVMRXg2ZzA0RXBrVmdLaTVJVEJCU2dJeVBhSmxqZmM3YW5VX09HVTl1Q01HNlgzeUhHNzhLOFlLeXJuWmQzN1ZWWkp2V2wwWWEtMG1LUTY4N0Vta2c?oc=5"
+    },
+    {
+     "veiculo": "politiza brasil",
+     "titulo": "Ibovespa abre em alta após compromisso de Lula com responsabilidade fiscal",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0oySENKdVZfeUhBOV9fRWd4NzdSdllIUENiQ3RXLXA2UFJfRU02eTB4MmtBYW5fN2gyNEdTSnpib2lsdXpPWUFCU0trMjRwT2dUQlI2R2p3SGczd1hENmUyMHZvYnlHZFoxTVliS3FCZVdCc1RZZVNGazRmRTFaUGVjRVZheWxUUW02WHNMNHRrcDlLOVBnTHMwVQ?oc=5"
+    }
+   ],
+   "score": 39.0,
+   "video_url": "https://www.youtube.com/watch?v=BO4wlIalqis",
+   "video_canal": "Record News",
+   "video_por_hora": 360,
+   "video_acima_mediana": 1.9,
+   "videos": [
+    {
+     "canal": "Record News",
+     "titulo": "Lula diz estar comprometido com a responsabilidade fiscal",
+     "url": "https://www.youtube.com/watch?v=BO4wlIalqis",
+     "por_hora": 360
+    }
+   ]
+  },
+  {
+   "id": "518f387ce7",
+   "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-09T18:04:26+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=LULA+VAI+TURQUIA+PARA+PARTICIPAR+COP31+BASTIDORES+CNN",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Record News",
+     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
+     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ"
+    },
+    {
+     "veiculo": "Muita Informação",
+     "titulo": "Lula viaja à Turquia sem Rui Costa e outros aliados e adia decisões sobre equipe e ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOEVKT1ZTRzNmWTA2N0RNSlZEVnN5ajlwS3ZXa185TW1lcVJqZXdpeTBrNWNNOW9XVEdkc1otbHFfODlfRmc3RnY4QnE2MHZpLW9yUzJZc0QzSHpUMTB1TGVLTDNVTmVpeS1Sdy1zVkVDNzFZbFVtbzFPUWVidG9CcUFndno1d2o0VGJVeTVQZklDMlNzTl85S1NZQkVJZmYweUxJckNvRUdES0NKR0tWLTVCQ012VGxiTUNPenpjb1l3UkVvbjFBMzIyLXp5Ujh1SG9v?oc=5"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "COP31: veja o que Lula pretende apresentar na Turquia | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=Tlqf33CA51g"
+    }
+   ],
+   "score": 38.9,
+   "video_url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 58529,
+   "video_acima_mediana": 67.3,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
+     "por_hora": 58529
+    },
+    {
+     "canal": "Record News",
+     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
+     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ",
+     "por_hora": 2287
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "COP31: veja o que Lula pretende apresentar na Turquia | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=Tlqf33CA51g",
+     "por_hora": 662
+    }
+   ]
+  },
+  {
+   "id": "1ed5e5febe",
+   "titulo": "Entenda a investigação sobre o CEO da Nvidia e alegações de espionagem",
+   "url": "https://valor.globo.com/publicacoes/especiais/inteligencia-artificial/noticia/2026/11/09/entenda-a-investigacao-sobre-o-ceo-da-nvidia-e-alegacoes-de-espionagem.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T18:21:11+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Entenda+investiga%C3%A7%C3%A3o+sobre+CEO+Nvidia+alega%C3%A7%C3%B5es+espionagem",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Com investigação sobre CEO da Nvidia, ações da empresa têm queda de 14% desde eleições nos EUA",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/09/com-investigacao-sobre-ceo-da-nvidia-acoes-da-empresa-tem-queda-de-14percent-desde-eleicoes-nos-eua.ghtml"
+    },
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Ações da Nvidia despencam após investigação de espionagem contra CEO | CNN MERCADO",
+     "url": "https://www.youtube.com/watch?v=lBdBx_mD-qg"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "FT: Ações da Nvidia despencam em meio a investigação sobre suposto escândalo de espionagem chinesa",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/09/ft-aes-da-nvidia-despencam-em-meio-a-investigao-sobre-suposto-escndalo-de-espionagem-chinesa.ghtml"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=SUsiRhR1kjw"
+    }
+   ],
+   "score": 33.8,
+   "video_url": "https://www.youtube.com/watch?v=lBdBx_mD-qg",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1980,
+   "video_acima_mediana": 2.3,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Ações da Nvidia despencam após investigação de espionagem contra CEO | CNN MERCADO",
+     "url": "https://www.youtube.com/watch?v=lBdBx_mD-qg",
+     "por_hora": 1980
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=SUsiRhR1kjw",
+     "por_hora": 94
+    }
+   ]
+  },
+  {
+   "id": "27c038d540",
+   "titulo": "Análise: Fim de inquérito das fake news empodera PGR | CNN 360°",
+   "url": "https://www.youtube.com/watch?v=vJeUx6e-GRE",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-09T20:29:25+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=An%C3%A1lise+Fim+inqu%C3%A9rito+das+fake+news+empodera+PGR+CNN",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "PGR defende arquivar o inquérito das fake news",
+     "url": "https://www.youtube.com/watch?v=1Jj-78bJNqc"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Inquérito das fake news: O erro de origem está em quem criou a apuração no STF",
+     "url": "https://www.youtube.com/watch?v=PmaCMsdL-s8"
+    },
+    {
+     "veiculo": "MyNews",
+     "titulo": "SAIBA OS EFEITOS DO FIM DO INQUÉRITO DAS FAKE NEWS E COMO FICA ALEXANDRE DE MORAES",
+     "url": "https://www.youtube.com/watch?v=Yyeql8N8k5g"
+    },
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "PGR pede fim definitivo do Inquérito das Fake News ao STF | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=_UxJZTc2fqg"
+    }
+   ],
+   "score": 32.9,
+   "video_url": "https://www.youtube.com/watch?v=S-WtaVj-4HA",
+   "video_canal": "UOL",
+   "video_por_hora": 2400,
+   "video_acima_mediana": 2.6,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "PGR defende encerramento definitivo do inquérito das fake news, que estava sob direção de Moraes",
+     "url": "https://www.youtube.com/watch?v=S-WtaVj-4HA",
+     "por_hora": 2400
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Análise: Fim de inquérito das fake news empodera PGR | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=vJeUx6e-GRE",
+     "por_hora": 1017
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "PGR pede fim definitivo do Inquérito das Fake News ao STF | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=_UxJZTc2fqg",
+     "por_hora": 864
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "PGR defende arquivamento do inquérito das fake news",
+     "url": "https://www.youtube.com/watch?v=roCHDF1wxYg",
+     "por_hora": 328
+    },
+    {
+     "canal": "MyNews",
+     "titulo": "SAIBA OS EFEITOS DO FIM DO INQUÉRITO DAS FAKE NEWS E COMO FICA ALEXANDRE DE MORAES",
+     "url": "https://www.youtube.com/watch?v=Yyeql8N8k5g",
+     "por_hora": 327
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Inquérito das fake news: O erro de origem está em quem criou a apuração no STF",
+     "url": "https://www.youtube.com/watch?v=PmaCMsdL-s8",
+     "por_hora": 4
+    }
+   ]
+  },
+  {
+   "id": "25197c217e",
+   "titulo": "Governo Lula prorroga vigência do Gás do Povo até 2031",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-prorroga-vigencia-do-gas-do-povo-ate-2031.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-09T18:34:09+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+prorroga+vig%C3%AAncia+G%C3%A1s+Povo+at%C3%A9+2031",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4"
+    },
+    {
+     "veiculo": "Agência Brasil",
+     "titulo": "Gás do Povo: governo prorroga vigência do auxílio até 2031",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/gas-do-povo-governo-prorroga-vigencia-do-programa-ate-2031"
+    },
+    {
+     "veiculo": "atlaspublico.com.br",
+     "titulo": "Governo edita MP que prorroga o Auxílio Gás do Povo até 19 de novembro de 2031",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSUg4OWZmOUcwWjhndG5PODhUQ2FtWHBMbWJJRnZkSENsNTVqVkFHQUozVnJaU1dtNm5RWVZJR2lTQnEwdVVkeW9GSlFnVnVfN2tkN3NHQ3ZEQVkxY0wybk9kUWlaWm5YUkRER0Ewc2lDWW5nMFhLX3BXVHBVMkhrZlh3aVJqQXI4d2czel9Ha2pqNm1WQTQwUXNabThVZkhGVGh0VmctWmJXMjlr?oc=5"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
+     "url": "https://valor.globo.com/brasil/noticia/2026/11/09/governo-prorroga-gs-do-povo-para-at-19-de-novembro-de-2031.ghtml"
+    }
+   ],
+   "score": 31.2,
+   "video_url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 245,
+   "video_acima_mediana": 0.4,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
+     "por_hora": 245
+    }
+   ]
+  },
+  {
+   "id": "d7ed3cebe7",
+   "titulo": "Lula acena ao mercado ao reconhecer que precisa criar ambiente para queda dos juros | #RadarNews",
+   "url": "https://www.youtube.com/watch?v=_LZzcNpPAx4",
+   "veiculo": "SBT News",
+   "publicado": "2026-11-09T20:10:28+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+acena+mercado+reconhecer+que+precisa+criar+ambiente+para",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 29.0,
+   "video_url": "https://www.youtube.com/watch?v=_LZzcNpPAx4",
+   "video_canal": "SBT News",
+   "video_por_hora": 398,
+   "video_acima_mediana": 0.6,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Lula acena ao mercado ao reconhecer que precisa criar ambiente para queda dos juros | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=_LZzcNpPAx4",
+     "por_hora": 398
+    }
+   ]
+  },
+  {
+   "id": "69d2fe6759",
+   "titulo": "Ajuste fiscal: o diagnóstico de organismos internacionais e o desafio de Lula 4",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/09/ajuste-fiscal-o-diagnostico-de-organismos-internacionais-e-o-desafio-de-lula-4.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-09T17:52:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+diagn%C3%B3stico+organismos+internacionais+desafio+Lula",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Repórter PB",
+     "titulo": "Abacaxis de Lula 4: combate ao crime e ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDNsUGhGeEVUUHRXd0xNb2JYQTVoWC10SC1FNGJTTjdIeGhDbFFMTzNvX3ZZbENKdV9WM1R3VU5NWW9NU3diZFQyNUxGVkxNbFlXRzB4VTgyQWNJallMal9mTVFBOUg1V3F4MzRQNmVHUjM0WGVxXzFxcFh2MXZTRW9Jb0N2NWNYWnpCOFhDaXpLNFJEREtSZ0VJWlRRWmUyX2JTcDZRYS1CRXpaYzlXWHZDM0lkTUlZRWc?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Discurso de Lula deixa dúvidas sobre ajuste fiscal; veja como o mercado financeiro pode reagir",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEVzaGY0Y0NFRHJxUlhEcWNFZzRmZWM3X3hDSnJuRk1jUzlrbnB0NFI5NW9WUldDdHYwQjlNS3NqVkJTX1lESF9mcjVqd0xEVUpvekh0bTBDcGg3YUNERVl2ZEU5eTZiendNSU53MDVhZTJFZ2hOMnduQm9qRkFiWnhkRFFYc1N6SzA4eDZKNFg3WWRtOTlsTnpUR1FFUkNOSWxaY2t6UVE0SGotSEJMbGNnZ1RLQlE5YzU1RHRfVGx3V0VUb3NwQ2NWYi1YNlRyQ01pTXB6NE94MzN0X05qSC04WW5DeXpnMjZmRktOUnFTZw?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Discurso de Lula deixa dúvidas sobre ajuste fiscal; veja como o mercado financeiro pode reagir",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU0xpQk5RU0c1UmswM3Zrc2YxRFdXQzk1U3RhT0Vzdl9TcTNjYVBNczd4TnE4RXFkeEJ0bHNFQXVRN1hnWVU0WUFKNU1GM1piWFVWeXVIRzAtVklka25oVmRCYlhKaXcya0ZuaE1LTElfVWZrNUFscTJmajVLOFJvRjA3OUIyV3EyYlFUMlY5TGx3S0lEcVR2TF9iREYzWTItRUNZa3l2NUZUeFR2eUt5NkZRRU1iX3dGUzYzdDMzZUJpTS1KVk5xek05VTVOZWZWbFhiWG1Md0lzOHlZRHpHaWs1eFdIUlHSAewBQVVfeXFMTWd2VWV1cnQ4VE12UnNjRm51dW04a0h6c1JtT1Y1OEt3bnd3ZEFnXzZEQlZSTlZELXFma3FTaUIwamNQOVZYMG1yeDhwa0xsXzl4M3NSOTVBN1VoVzRsYW9uR3ZuX1lubmlHeGZjcGhSbURVVW5Ya18wQmMyQ2pCVlNoMnE4em1fQVlRa19BUTA1OC1GbG82ejNnd1FZcnk3SUdVTGw0VkI5aXRldHViN0R0T2FPNGo5Ym1kR2dseUlPTzVpb2p2c0UxQTRKdVYwV3FZek9ob3pXQkxVZ0NTT2MzXzR4LVF1cV9sNHQ?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Alguém tem de dizer a Lula que, sem ajuste fiscal, o pobre pagará a conta com inflação e recessão",
+     "url": "https://www.estadao.com.br/economia/alvaro-gribel/alguem-tem-de-dizer-a-lula-que-sem-ajuste-fiscal-o-pobre-pagara-a-conta-com-inflacao-e-recessao/"
+    }
+   ],
+   "score": 29.0,
+   "video_url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 312,
+   "video_acima_mediana": 1.5,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Lula enfrenta pressão por ajuste fiscal e avança com PEC da Segurança | Mapa de Risco",
+     "url": "https://www.youtube.com/watch?v=yPChn8zOXJc",
+     "por_hora": 312
+    }
+   ]
+  },
+  {
+   "id": "1343594a16",
+   "titulo": "Novo presidente do Paraguai pede renúncia de todos os seus ministros",
+   "url": "https://valor.globo.com/mundo/noticia/2026/11/09/novo-presidente-do-paraguai-pede-renncia-de-todos-os-seus-ministros.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-09T19:51:45+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Novo+presidente+Paraguai+pede+ren%C3%BAncia+todos+seus+ministros",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
+     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Novo presidente do Paraguai pede renúncia de todos os ministros e de autoridades do alto escalão",
+     "url": "https://www.moneytimes.com.br/novo-presidente-do-paraguai-pede-renuncia-de-todos-os-ministros-e-de-autoridades-do-alto-escalao-mlem/"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Novo presidente do Paraguai pede renúncia de ministros e autoridades de alto escalão",
+     "url": "https://exame.com/mundo/novo-presidente-do-paraguai-pede-renuncia-de-ministros-e-autoridades-de-alto-escalao/"
+    }
+   ],
+   "score": 27.9,
+   "video_url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
+   "video_canal": "UOL",
+   "video_por_hora": 2980,
+   "video_acima_mediana": 3.3,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
+     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
+     "por_hora": 2980
     }
    ]
   },
@@ -1011,1069 +2349,37 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=An%C3%A1lise+Lula+muda+discurso+sobre+d%C3%ADvida+p%C3%BAblica+NewsManh%C3%A3",
-   "veiculos": 1,
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
      "veiculo": "SBT News",
      "titulo": "Análise: Lula demonstra preocupação com a dívida pública e os juros elevados | #RadarNews",
      "url": "https://www.youtube.com/watch?v=LSHnzUFU7BE"
+    },
+    {
+     "veiculo": "UOL Notícias",
+     "titulo": "Sem detalhar medidas, Lula se diz 'preocupado' com dívida pública e juros",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEVKVFkzZUNTSnBpa2g0NDlUaW5zQzRRZ28zc3I4MktjR294cmlRMlVxUlhFS1ZKc3B1QjRRU3hzNzdQMC1rTVp0VTQ2N0dQWDdXem8tcVVyQTZrd0QwNWxLUlV2TTM4N2U5eDJvTExUamhLQ2RqY3p5QXdyUWxiU1BHcndNUi1PNDRUZ3pqTlRtaThoNE5TRkRUdXItN2lIaVF1eEV0MmJRU3BzaW0tRVF3NjU5Zw?oc=5"
     }
    ],
-   "score": 23.2,
+   "score": 26.0,
    "video_url": "https://www.youtube.com/watch?v=lgeGUlI547Q",
    "video_canal": "SBT News",
-   "video_por_hora": 783,
+   "video_por_hora": 686,
    "video_acima_mediana": 1.0,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Análise: Lula muda discurso sobre dívida pública? | #NewsManhã",
      "url": "https://www.youtube.com/watch?v=lgeGUlI547Q",
-     "por_hora": 783
+     "por_hora": 686
     },
     {
      "canal": "SBT News",
      "titulo": "Análise: Lula demonstra preocupação com a dívida pública e os juros elevados | #RadarNews",
      "url": "https://www.youtube.com/watch?v=LSHnzUFU7BE",
-     "por_hora": 214
-    }
-   ]
-  },
-  {
-   "id": "27c038d540",
-   "titulo": "Análise: Fim de inquérito das fake news empodera PGR | CNN 360°",
-   "url": "https://www.youtube.com/watch?v=vJeUx6e-GRE",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-09T18:55:55+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=An%C3%A1lise+Fim+inqu%C3%A9rito+das+fake+news+empodera+PGR+CNN",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "PGR pede fim definitivo do Inquérito das Fake News ao STF | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=_UxJZTc2fqg"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "PGR defende encerramento definitivo do inquérito das fake news, que estava sob direção de Moraes",
-     "url": "https://www.youtube.com/watch?v=S-WtaVj-4HA"
-    }
-   ],
-   "score": 23.2,
-   "video_url": "https://www.youtube.com/watch?v=S-WtaVj-4HA",
-   "video_canal": "UOL",
-   "video_por_hora": 1833,
-   "video_acima_mediana": 1.2,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "PGR defende encerramento definitivo do inquérito das fake news, que estava sob direção de Moraes",
-     "url": "https://www.youtube.com/watch?v=S-WtaVj-4HA",
-     "por_hora": 1833
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Análise: Fim de inquérito das fake news empodera PGR | CNN 360°",
-     "url": "https://www.youtube.com/watch?v=vJeUx6e-GRE",
-     "por_hora": 1318
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "PGR pede fim definitivo do Inquérito das Fake News ao STF | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=_UxJZTc2fqg",
-     "por_hora": 919
-    }
-   ]
-  },
-  {
-   "id": "8d04c417bd",
-   "titulo": "Crédito privado ainda não recuperou perdas em relação ao CDI após turbulência de abril, mostra estudo",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/09/crdito-privado-ainda-no-recuperou-perdas-em-relao-ao-cdi-aps-turbulncia-de-abril-mostra-estudo.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T15:47:34+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Cr%C3%A9dito+privado+ainda+n%C3%A3o+recuperou+perdas+rela%C3%A7%C3%A3o+CDI+ap%C3%B3s",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.2
-  },
-  {
-   "id": "eb13581a19",
-   "titulo": "Estrangeiros retiram R$ 1,7 bilhão de ações da B3 em 5 de novembro",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/09/estrangeiros-retiram-r-17-bilho-de-aes-da-b3-em-5-de-novembro.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T14:24:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Estrangeiros+retiram+1%2C7+bilh%C3%A3o+a%C3%A7%C3%B5es+novembro",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.6
-  },
-  {
-   "id": "07f2bbf00f",
-   "titulo": "Ibovespa: o gatilho que pode fazer o gringo voltar a comprar Brasil, segundo André Moor, do Bradesco BBI",
-   "url": "https://www.moneytimes.com.br/ibovespa-o-gatilho-que-pode-fazer-o-gringo-voltar-a-comprar-brasil-segundo-andre-moor-do-bradesco-bbi-rnda/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-09T18:54:00+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+gatilho+que+pode+fazer+gringo+voltar+comprar+Brasil%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.5
-  },
-  {
-   "id": "cb0b7aaf84",
-   "titulo": "Vitória de Lula muda perspectivas para small caps, pressionadas por juros e risco fiscal",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/vitoria-de-lula-muda-perspectivas-para-small-caps-pressionadas-por-juros-e-risco-fiscal.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-08T23:00:00-03:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Vit%C3%B3ria+Lula+muda+perspectivas+para+small+caps%2C+pressionadas+por",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.4
-  },
-  {
-   "id": "0cc57127d4",
-   "titulo": "Lula diz que verdade venceu a mentira e faz crítica indireta a Flávio",
-   "url": "https://www.youtube.com/watch?v=M31LmqfvEr8",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-09T19:57:15+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+verdade+venceu+mentira+faz+cr%C3%ADtica+indireta",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.0,
-   "video_url": "https://www.youtube.com/watch?v=M31LmqfvEr8",
-   "video_canal": "Poder360",
-   "video_por_hora": 232,
-   "video_acima_mediana": 1.8,
-   "videos": [
-    {
-     "canal": "Poder360",
-     "titulo": "Lula diz que verdade venceu a mentira e faz crítica indireta a Flávio",
-     "url": "https://www.youtube.com/watch?v=M31LmqfvEr8",
-     "por_hora": 232
-    }
-   ]
-  },
-  {
-   "id": "936781df61",
-   "titulo": "Lula defende reforma; OAB-SP propõe mandatos para ministros | BandNews TV",
-   "url": "https://www.youtube.com/watch?v=Taa9Hwm0Tcg",
-   "veiculo": "Band Jornalismo",
-   "publicado": "2026-11-09T19:52:47+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+defende+reforma+OAB+prop%C3%B5e+mandatos+para+ministros+BandNews",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.9,
-   "video_url": "https://www.youtube.com/watch?v=Taa9Hwm0Tcg",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 136,
-   "video_acima_mediana": 0.4,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Lula defende reforma; OAB-SP propõe mandatos para ministros | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=Taa9Hwm0Tcg",
-     "por_hora": 136
-    }
-   ]
-  },
-  {
-   "id": "c4de455544",
-   "titulo": "Commodities em queda ajudaram a frear inflação no IGP-DI, diz FGV",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/commodities-em-queda-ajudaram-a-frear-inflao-no-igp-di-diz-fgv.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T19:34:11+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Commodities+queda+ajudaram+frear+infla%C3%A7%C3%A3o+IGP+DI%2C+diz+FGV",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.8
-  },
-  {
-   "id": "f054c420ae",
-   "titulo": "Mercado eleva estimativa de inflação para 2027 e passa a prever corte de juros só em março do ano que vem",
-   "url": "https://g1.globo.com/economia/noticia/2026/11/09/mercado-eleva-estimativa-de-inflacao-para-2027-e-passa-a-prever-corte-de-juros-so-em-marco-do-ano-que-vem.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-11-09T12:06:33+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+eleva+estimativa+infla%C3%A7%C3%A3o+para+2027+passa+prever+corte",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.7
-  },
-  {
-   "id": "e5cf25edce",
-   "titulo": "Economistas creem que juros serão mantidos em 13,75% neste ano, aponta Focus",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/economistas-creem-que-juros-serao-mantidos-em-1375-neste-ano-aponta-focus.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-09T08:55:00-03:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Economistas+creem+que+juros+ser%C3%A3o+mantidos+13%2C75%25+neste+ano%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.6
-  },
-  {
-   "id": "18a655fd82",
-   "titulo": "FIDCs podem concentrar riscos mesmo com centenas de devedores, alerta Sparta",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/09/fidcs-podem-concentrar-riscos-mesmo-com-centenas-de-devedores-alerta-sparta.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T18:46:49+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=FIDCs+podem+concentrar+riscos+mesmo+com+centenas+devedores%2C+alerta",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.4
-  },
-  {
-   "id": "f2ce087171",
-   "titulo": "Escritórios voltam a acender as luzes em SP, mas FIIs ainda amargam desconto de 22%. Chegou a hora de comprar?",
-   "url": "https://www.seudinheiro.com/2026/bolsa-dolar/fundos-imobiliarios-escritorios-voltam-acender-luzes-sp-mas-fiis-ainda-amargam-desconto-22-hora-de-comprar-igdl/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-11-09T18:46:00+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Escrit%C3%B3rios+voltam+acender+luzes+SP%2C+mas+FIIs+ainda+amargam",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.4
-  },
-  {
-   "id": "67ae54ac8a",
-   "titulo": "Trump diz que “grande aversão a Israel” cooperou para derrota nas Midterms | CNN 360°",
-   "url": "https://www.youtube.com/watch?v=JXuPZxwthxg",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-09T19:16:22+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Trump+diz+que+grande+avers%C3%A3o+Israel+cooperou+para+derrota",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.3,
-   "video_url": "https://www.youtube.com/watch?v=JXuPZxwthxg",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 1751,
-   "video_acima_mediana": 1.3,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Trump diz que “grande aversão a Israel” cooperou para derrota nas Midterms | CNN 360°",
-     "url": "https://www.youtube.com/watch?v=JXuPZxwthxg",
-     "por_hora": 1751
-    }
-   ]
-  },
-  {
-   "id": "dc3e4e1d6b",
-   "titulo": "Orçamento Aberto #7: Número de obras paradas no Brasil cai para 6 mil  - 09/11/2026",
-   "url": "https://www.youtube.com/watch?v=s1Lu11dKn7w",
-   "veiculo": "Câmara dos Deputados",
-   "publicado": "2026-11-09T18:22:12+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Or%C3%A7amento+Aberto+N%C3%BAmero+obras+paradas+Brasil+cai+para+mil",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.3,
-   "video_url": "https://www.youtube.com/watch?v=s1Lu11dKn7w",
-   "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 12,
-   "video_acima_mediana": 1.5,
-   "videos": [
-    {
-     "canal": "Câmara dos Deputados",
-     "titulo": "Orçamento Aberto #7: Número de obras paradas no Brasil cai para 6 mil  - 09/11/2026",
-     "url": "https://www.youtube.com/watch?v=s1Lu11dKn7w",
-     "por_hora": 12
-    }
-   ]
-  },
-  {
-   "id": "973cdcea6b",
-   "titulo": "STF limita multa a empresa com dívida tributária que distribui lucros",
-   "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/11/09/stf-limita-multa-a-empresa-com-divida-tributaria-que-distribui-lucros-1.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T13:13:39+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=STF+limita+multa+empresa+com+vida+tributa+ria+que",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.1
-  },
-  {
-   "id": "26116dea89",
-   "titulo": "PGR defende arquivamento do inquérito das fake news, aberto desde 2019 pelo STF",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/09/pgr-defende-arquivamento-do-inqurito-das-fake-news-aberto-desde-2019-pelo-stf.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T19:36:23+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=PGR+defende+arquivamento+inqu%C3%A9rito+das+fake+news%2C+aberto+desde",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Inquérito das fake news: Problema não é a investigação, mas quem a criou | João Paulo Charleaux",
-     "url": "https://www.youtube.com/watch?v=ZnVAIVLJjcw"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "PGR defende arquivamento do inquérito das fake news",
-     "url": "https://www.youtube.com/watch?v=roCHDF1wxYg"
-    }
-   ],
-   "score": 21.0,
-   "video_url": "https://www.youtube.com/watch?v=ZnVAIVLJjcw",
-   "video_canal": "UOL",
-   "video_por_hora": 673,
-   "video_acima_mediana": 0.4,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Inquérito das fake news: Problema não é a investigação, mas quem a criou | João Paulo Charleaux",
-     "url": "https://www.youtube.com/watch?v=ZnVAIVLJjcw",
-     "por_hora": 673
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "PGR defende arquivamento do inquérito das fake news",
-     "url": "https://www.youtube.com/watch?v=roCHDF1wxYg",
-     "por_hora": 324
-    }
-   ]
-  },
-  {
-   "id": "10b8bdb103",
-   "titulo": "Começamos a ver pressão inflacionária em componentes sem relação com petróleo, diz Goolsbee, do Fed",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/09/comecamos-a-ver-pressao-inflacionaria-em-componentes-sem-relacao-com-petroleo-diz-goolsbee-do-fed.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T16:26:52+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Come%C3%A7amos+ver+press%C3%A3o+inflacion%C3%A1ria+componentes+sem+rela%C3%A7%C3%A3o+com+petr%C3%B3leo%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.5
-  },
-  {
-   "id": "5a7d5fdd8a",
-   "titulo": "LULA FAZ PRIMEIRA VIAGEM INTERNACIONAL APÓS REELEIÇÃO E RECONHECE QUE DÍVIDA E JUROS SÃO PROBLEMAS",
-   "url": "https://www.youtube.com/watch?v=H7wCaILj4bA",
-   "veiculo": "MyNews",
-   "publicado": "2026-11-09T11:10:55+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=LULA+FAZ+PRIMEIRA+VIAGEM+INTERNACIONAL+AP%C3%93S+REELEI%C3%87%C3%83O+RECONHECE+QUE",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.5,
-   "video_url": "https://www.youtube.com/watch?v=H7wCaILj4bA",
-   "video_canal": "MyNews",
-   "video_por_hora": 697,
-   "video_acima_mediana": 7.9,
-   "videos": [
-    {
-     "canal": "MyNews",
-     "titulo": "LULA FAZ PRIMEIRA VIAGEM INTERNACIONAL APÓS REELEIÇÃO E RECONHECE QUE DÍVIDA E JUROS SÃO PROBLEMAS",
-     "url": "https://www.youtube.com/watch?v=H7wCaILj4bA",
-     "por_hora": 697
-    }
-   ]
-  }
- ],
- "falas_e_videos": [
-  {
-   "id": "a52051d660",
-   "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-09T17:32:33+00:00",
-   "temas": [
-    "comportamento",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fux+suspende+todos+processos+sobre+bets+InfoMoney+News",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
-     "url": "https://www.youtube.com/watch?v=MnN3yxepurM"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
-     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
-     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Supremo suspende processos sobre fim das bets em todo o país | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=LErhrvwyL3s"
-    }
-   ],
-   "score": 46.4,
-   "video_url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
-   "video_canal": "Record News",
-   "video_por_hora": 3672,
-   "video_acima_mediana": 43.1,
-   "videos": [
-    {
-     "canal": "Record News",
-     "titulo": "Fux suspende todos os processos sobre as bets no Brasil",
-     "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
-     "por_hora": 3672
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Luiz Fux suspende processos sobre proibição das bets em todo o país | Radar",
-     "url": "https://www.youtube.com/watch?v=d2n3MwBxe8A",
-     "por_hora": 1077
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Luiz Fux suspende processos sobre bets no Brasil - BandNews em Dois Minutos - (09/11/2026) - Tarde",
-     "url": "https://www.youtube.com/watch?v=MnN3yxepurM",
-     "por_hora": 934
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Fux suspende todos os processos sobre bets | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=b8bePB_anIE",
-     "por_hora": 353
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Supremo suspende processos sobre fim das bets em todo o país | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=LErhrvwyL3s",
-     "por_hora": 350
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Fux suspende todos os processos sobre bets até decisão definitiva do STF | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=5M-DRRUik5o",
-     "por_hora": 228
-    }
-   ]
-  },
-  {
-   "id": "768c927020",
-   "titulo": "Lula embarca para COP31 com comitiva de ministros e Janones",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/lula-embarca-para-cop31-com-comitiva-de-ministros-e-janones.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T18:04:26+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+embarca+para+COP31+com+comitiva+ministros+Janones",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Lula leva Janones, Mercadante e mais quatro ministros em viagem à COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=QafFsYhOZDw"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula fará da COP31 vitrine da política externa; veja análise | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=dGbnhdmiCF0"
-    }
-   ],
-   "score": 43.1,
-   "video_url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 70133,
-   "video_acima_mediana": 53.6,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "LULA VAI À TURQUIA PARA PARTICIPAR DA COP31 - BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
-     "por_hora": 70133
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Lula leva Janones, Mercadante e mais quatro ministros em viagem à COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=QafFsYhOZDw",
-     "por_hora": 9000
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Lula viaja hoje para participar da COP31 na Turquia",
-     "url": "https://www.youtube.com/watch?v=bfrrs9WH2GQ",
-     "por_hora": 1577
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula fará da COP31 vitrine da política externa; veja análise | BASTIDORES CNN",
-     "url": "https://www.youtube.com/watch?v=dGbnhdmiCF0",
-     "por_hora": 1400
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "COP31: veja o que Lula pretende apresentar na Turquia | #NewsPrimeiraEdição",
-     "url": "https://www.youtube.com/watch?v=Tlqf33CA51g",
-     "por_hora": 729
-    }
-   ]
-  },
-  {
-   "id": "c8f1fa1aee",
-   "titulo": "Decreto que regulamenta fim da escala 6x1 é adiado",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/decreto-que-regulamenta-fim-da-escala-6x1-adiado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T16:49:00-03:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Decreto+que+regulamenta+fim+escala+6x1+adiado",
-   "veiculos": 8,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Exame",
-     "titulo": "Fim da escala 6x1: governo Lula adia assinatura de decreto para a próxima semana",
-     "url": "https://exame.com/brasil/fim-da-escala-6x1-governo-lula-adia-assinatura-de-decreto-para-a-proxima-semana/"
-    },
-    {
-     "veiculo": "Poder360",
-     "titulo": "Lula adia decreto da escala 6 X 1 para depois de viagem à Ásia",
-     "url": "https://www.poder360.com.br/poder-governo/lula-adia-decreto-da-escala-6-x-1-para-depois-de-viagem-a-asia/"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Governo Lula adia publicação de decreto que regulamenta fim da escala 6×1",
-     "url": "https://www.cnnbrasil.com.br/politica/governo-lula-adia-publicacao-de-decreto-que-regulamenta-fim-da-escala-6x1/"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "Decreto do fim da escala 6x1 fica para depois de viagem de Lula",
-     "url": "https://economia.uol.com.br/colunas/jessica-sant-ana/2026/11/09/decreto-do-fim-da-escala-6x1-fica-para-depois-de-viagem-de-lula.htm"
-    }
-   ],
-   "score": 40.1,
-   "video_url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 3100,
-   "video_acima_mediana": 5.2,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Lula adia decreto com regras do fim da escala 6x1 | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
-     "por_hora": 3100
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Fim da escala 6x1: governo deve publicar decreto hoje | #NewsManhã",
-     "url": "https://www.youtube.com/watch?v=UWUq9Ctt4Uw",
-     "por_hora": 2667
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Governo adia decreto que regulamenta fim da escala 6x1 | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=kuh3O3jjNy0",
-     "por_hora": 1016
-    }
-   ]
-  },
-  {
-   "id": "57c50cb99d",
-   "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-da-selic-para-1375-em-2026",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-11-09T18:56:48+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+eleva+proje%C3%A7%C3%A3o+Selic+para+13%2C75%25+2026",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026; Denise Campos de Toledo comenta | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=tqKKWTlxz48"
-    },
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Mercado eleva projeção da Selic para 13,75% ao ano em 2026; Alan Ghani analisa",
-     "url": "https://www.youtube.com/watch?v=mcp0yTmsIIc"
-    }
-   ],
-   "score": 38.4,
-   "video_url": "https://www.youtube.com/watch?v=mcp0yTmsIIc",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 2143,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Mercado eleva projeção da Selic para 13,75% ao ano em 2026; Alan Ghani analisa",
-     "url": "https://www.youtube.com/watch?v=mcp0yTmsIIc",
-     "por_hora": 2143
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Mercado eleva projeção da Selic para 13,75% em 2026; Denise Campos de Toledo comenta | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=tqKKWTlxz48",
-     "por_hora": 237
-    }
-   ]
-  },
-  {
-   "id": "25197c217e",
-   "titulo": "Governo Lula prorroga vigência do Gás do Povo até 2031",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-prorroga-vigencia-do-gas-do-povo-ate-2031.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-09T18:34:09+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Lula+prorroga+vig%C3%AAncia+G%C3%A1s+Povo+at%C3%A9+2031",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4"
-    },
-    {
-     "veiculo": "Agência Brasil",
-     "titulo": "Gás do Povo: governo prorroga vigência do auxílio até 2031",
-     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/gas-do-povo-governo-prorroga-vigencia-do-programa-ate-2031"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Governo prorroga Gás do Povo para até 19 de novembro de 2031",
-     "url": "https://valor.globo.com/brasil/noticia/2026/11/09/governo-prorroga-gs-do-povo-para-at-19-de-novembro-de-2031.ghtml"
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Gás do Povo: governo prorroga até 2031 programa que prevê recargas grátis para famílias de baixa renda",
-     "url": "https://g1.globo.com/economia/noticia/2026/11/09/governo-federal-prorroga-ate-2031-programa-gas-do-povo.ghtml"
-    }
-   ],
-   "score": 28.4,
-   "video_url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 155,
-   "video_acima_mediana": 0.3,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Governo estende Auxílio Gás até 2031 para 15 milhões de famílias | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=KUaZnAVa9p4",
-     "por_hora": 155
-    }
-   ]
-  },
-  {
-   "id": "1ed5e5febe",
-   "titulo": "Entenda a investigação sobre o CEO da Nvidia e alegações de espionagem",
-   "url": "https://valor.globo.com/publicacoes/especiais/inteligencia-artificial/noticia/2026/11/09/entenda-a-investigacao-sobre-o-ceo-da-nvidia-e-alegacoes-de-espionagem.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T18:21:11+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Entenda+investiga%C3%A7%C3%A3o+sobre+CEO+Nvidia+alega%C3%A7%C3%B5es+espionagem",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "Com investigação sobre CEO da Nvidia, ações da empresa têm queda de 14% desde eleições nos EUA",
-     "url": "https://valor.globo.com/empresas/noticia/2026/11/09/com-investigacao-sobre-ceo-da-nvidia-acoes-da-empresa-tem-queda-de-14percent-desde-eleicoes-nos-eua.ghtml"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "FT: Ações da Nvidia despencam em meio a investigação sobre suposto escândalo de espionagem chinesa",
-     "url": "https://valor.globo.com/empresas/noticia/2026/11/09/ft-aes-da-nvidia-despencam-em-meio-a-investigao-sobre-suposto-escndalo-de-espionagem-chinesa.ghtml"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=SUsiRhR1kjw"
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Ações da Nvidia despencam após investigação sobre suspeita de espionagem envolvendo CEO",
-     "url": "https://g1.globo.com/economia/noticia/2026/11/09/acoes-da-nvidia-despencam-apos-investigacao-sobre-suspeita-de-espionagem-envolvendo-ceo.ghtml"
-    }
-   ],
-   "score": 27.3,
-   "video_url": "https://www.youtube.com/watch?v=SUsiRhR1kjw",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 94,
-   "video_acima_mediana": 0.6,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=SUsiRhR1kjw",
-     "por_hora": 94
-    }
-   ]
-  },
-  {
-   "id": "1343594a16",
-   "titulo": "Novo presidente do Paraguai pede renúncia de todos os seus ministros",
-   "url": "https://valor.globo.com/mundo/noticia/2026/11/09/novo-presidente-do-paraguai-pede-renncia-de-todos-os-seus-ministros.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T19:51:45+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Novo+presidente+Paraguai+pede+ren%C3%BAncia+todos+seus+ministros",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
-     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Paraguai: novo presidente pede renúncia de todos os ministros e de autoridades",
-     "url": "https://www.infomoney.com.br/mundo/paraguai-novo-presidente-pede-renuncia-de-todos-os-ministros-e-de-autoridades/"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Novo presidente do Paraguai pede renúncia de todos os ministros e de autoridades do alto escalão",
-     "url": "https://www.moneytimes.com.br/novo-presidente-do-paraguai-pede-renuncia-de-todos-os-ministros-e-de-autoridades-do-alto-escalao-mlem/"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Novo presidente do Paraguai pede renúncia de ministros e autoridades de alto escalão",
-     "url": "https://exame.com/mundo/novo-presidente-do-paraguai-pede-renuncia-de-ministros-e-autoridades-de-alto-escalao/"
-    }
-   ],
-   "score": 26.7,
-   "video_url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
-   "video_canal": "UOL",
-   "video_por_hora": 2000,
-   "video_acima_mediana": 1.3,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
-     "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
-     "por_hora": 2000
-    }
-   ]
-  },
-  {
-   "id": "4edc0e4288",
-   "titulo": "\"Principal gargalo do governo hoje é o pagamento da dívida pública\", diz Jesualdo #shorts",
-   "url": "https://www.youtube.com/watch?v=gLrfFJru96M",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-09T18:03:33+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Principal+gargalo+governo+hoje+pagamento+d%C3%ADvida+p%C3%BAblica+diz+Jesualdo",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 25.2,
-   "video_url": "https://www.youtube.com/watch?v=gLrfFJru96M",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 227,
-   "video_acima_mediana": 0.4,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "\"Principal gargalo do governo hoje é o pagamento da dívida pública\", diz Jesualdo #shorts",
-     "url": "https://www.youtube.com/watch?v=gLrfFJru96M",
-     "por_hora": 227
-    }
-   ]
-  },
-  {
-   "id": "a79c5ef37f",
-   "titulo": "Decisão de Fux bloqueou ações de 29 bets, incluindo Blaze, Stake e EstrelaBet",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/decisao-de-fux-bloqueou-acoes-de-29-bets-incluindo-blaze-stake-e-estrelabet.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-09T20:00:58+00:00",
-   "temas": [
-    "comportamento",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Decis%C3%A3o+Fux+bloqueou+a%C3%A7%C3%B5es+bets%2C+incluindo+Blaze%2C+Stake+EstrelaBet",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Decisão de Luiz Fux bloqueou ações de 29 bets, incluindo Blaze, Stake e EstrelaBet",
-     "url": "https://www.youtube.com/watch?v=Kl1KrmxrGLk"
-    }
-   ],
-   "score": 25.0,
-   "video_url": "https://www.youtube.com/watch?v=Kl1KrmxrGLk",
-   "video_canal": "UOL",
-   "video_por_hora": 230,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Decisão de Luiz Fux bloqueou ações de 29 bets, incluindo Blaze, Stake e EstrelaBet",
-     "url": "https://www.youtube.com/watch?v=Kl1KrmxrGLk",
-     "por_hora": 230
-    }
-   ]
-  },
-  {
-   "id": "435d97ff4e",
-   "titulo": "Fux suspende afastamento de juíza punida por atos na Lava-Jato",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/09/fux-suspende-afastamento-de-juiza-punida-por-atos-na-lava-jato.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-09T19:38:26+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fux+suspende+afastamento+ju%C3%ADza+punida+por+atos+Lava+Jato",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Record News",
-     "titulo": "Fux suspende afastamento de juíza que atuou na Lava Jato",
-     "url": "https://www.youtube.com/watch?v=OTOINfh3c7Q"
-    }
-   ],
-   "score": 24.9,
-   "video_url": "https://www.youtube.com/watch?v=OTOINfh3c7Q",
-   "video_canal": "Record News",
-   "video_por_hora": 362,
-   "video_acima_mediana": 4.2,
-   "videos": [
-    {
-     "canal": "Record News",
-     "titulo": "Fux suspende afastamento de juíza que atuou na Lava Jato",
-     "url": "https://www.youtube.com/watch?v=OTOINfh3c7Q",
-     "por_hora": 362
-    }
-   ]
-  },
-  {
-   "id": "296d5fb03f",
-   "titulo": "Dedo de Prosa | Plano Cruzado 2 completa 40 anos | Conexão Senado 09/11/26",
-   "url": "https://www.youtube.com/watch?v=YMGBaJW5QJI",
-   "veiculo": "TV Senado",
-   "publicado": "2026-11-09T14:38:05+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Dedo+Prosa+Plano+Cruzado+completa+anos+Conex%C3%A3o+Senado",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 24.7,
-   "video_url": "https://www.youtube.com/watch?v=YMGBaJW5QJI",
-   "video_canal": "TV Senado",
-   "video_por_hora": 58,
-   "video_acima_mediana": 4.3,
-   "videos": [
-    {
-     "canal": "TV Senado",
-     "titulo": "Dedo de Prosa | Plano Cruzado 2 completa 40 anos | Conexão Senado 09/11/26",
-     "url": "https://www.youtube.com/watch?v=YMGBaJW5QJI",
-     "por_hora": 58
-    }
-   ]
-  },
-  {
-   "id": "9618f7785d",
-   "titulo": "Risco de estagnação faz CEOs do Itaú e Bradesco cobrarem ajuste fiscal | CNN MERCADO",
-   "url": "https://www.youtube.com/watch?v=uRj9mAYY4fg",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-09T18:05:08+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Risco+estagna%C3%A7%C3%A3o+faz+CEOs+Ita%C3%BA+Bradesco+cobrarem+ajuste+fiscal",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 24.4,
-   "video_url": "https://www.youtube.com/watch?v=uRj9mAYY4fg",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 714,
-   "video_acima_mediana": 0.5,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Risco de estagnação faz CEOs do Itaú e Bradesco cobrarem ajuste fiscal | CNN MERCADO",
-     "url": "https://www.youtube.com/watch?v=uRj9mAYY4fg",
-     "por_hora": 714
+     "por_hora": 639
     }
    ]
   }
@@ -2084,9 +2390,9 @@
    "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
    "canal": "CNN Brasil",
    "publicado": "2026-11-09T18:04:26+00:00",
-   "views": 144499,
-   "por_hora": 70133,
-   "acima_mediana": 53.6,
+   "views": 148777,
+   "por_hora": 58529,
+   "acima_mediana": 67.3,
    "temas": [
     "politica"
    ]
@@ -2096,21 +2402,9 @@
    "url": "https://www.youtube.com/watch?v=91kIna3CvP4",
    "canal": "Lula",
    "publicado": "2026-11-08T23:30:11+00:00",
-   "views": 1132735,
-   "por_hora": 54904,
-   "acima_mediana": 44.1,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Lula leva Janones, Mercadante e mais quatro ministros em viagem à COP31 na Turquia",
-   "url": "https://www.youtube.com/watch?v=QafFsYhOZDw",
-   "canal": "UOL",
-   "publicado": "2026-11-09T16:08:03.267333+00:00",
-   "views": 36000,
-   "por_hora": 9000,
-   "acima_mediana": 5.7,
+   "views": 1137685,
+   "por_hora": 53886,
+   "acima_mediana": 44.9,
    "temas": [
     "politica"
    ]
@@ -2119,23 +2413,23 @@
    "titulo": "Lula faz 1º pronunciamento após reeleição: Como mercado financeiro reagiu a fala do presidente",
    "url": "https://www.youtube.com/watch?v=9Qg16P2ewEA",
    "canal": "UOL",
-   "publicado": "2026-11-09T19:08:03.267333+00:00",
-   "views": 4600,
-   "por_hora": 4600,
-   "acima_mediana": 2.9,
+   "publicado": "2026-11-09T19:36:56.997947+00:00",
+   "views": 6200,
+   "por_hora": 6200,
+   "acima_mediana": 6.8,
    "temas": [
     "mercado",
     "politica"
    ]
   },
   {
-   "titulo": "Ao vivo: Lula faz pronunciamento em rede nacional",
-   "url": "https://www.youtube.com/watch?v=pPt443XklHo",
-   "canal": "Poder360",
-   "publicado": "2026-11-08T23:42:11+00:00",
-   "views": 91519,
-   "por_hora": 4479,
-   "acima_mediana": 34.5,
+   "titulo": "Lula adia decreto com regras do fim da escala 6x1 | TEMPO REAL",
+   "url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-09T18:36:56.997947+00:00",
+   "views": 9200,
+   "por_hora": 4600,
+   "acima_mediana": 6.9,
    "temas": [
     "politica"
    ]
@@ -2144,10 +2438,22 @@
    "titulo": "Alcolumbre e Tereza acenam ao PL em busca de apoio para o comando do Senado | LIVE CNN",
    "url": "https://www.youtube.com/watch?v=-9V7LxuOmjU",
    "canal": "CNN Brasil",
-   "publicado": "2026-11-09T15:08:03.267333+00:00",
-   "views": 21000,
-   "por_hora": 4200,
-   "acima_mediana": 3.2,
+   "publicado": "2026-11-09T15:36:56.997947+00:00",
+   "views": 22000,
+   "por_hora": 4400,
+   "acima_mediana": 5.1,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Ao vivo: Lula faz pronunciamento em rede nacional",
+   "url": "https://www.youtube.com/watch?v=pPt443XklHo",
+   "canal": "Poder360",
+   "publicado": "2026-11-08T23:42:11+00:00",
+   "views": 91633,
+   "por_hora": 4382,
+   "acima_mediana": 32.2,
    "temas": [
     "politica"
    ]
@@ -2157,9 +2463,9 @@
    "url": "https://www.youtube.com/watch?v=mT03Izbbx3Q",
    "canal": "Record News",
    "publicado": "2026-11-09T14:45:18+00:00",
-   "views": 19751,
-   "por_hora": 3672,
-   "acima_mediana": 43.1,
+   "views": 20474,
+   "por_hora": 3493,
+   "acima_mediana": 18.9,
    "temas": [
     "mercado",
     "politica",
@@ -2167,39 +2473,49 @@
    ]
   },
   {
-   "titulo": "Lula fala sobre juros, dívida pública e STF; veja os principais pontos do pronunciamento",
-   "url": "https://www.youtube.com/watch?v=OJB32LqhDCE",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-09T15:08:03.267333+00:00",
-   "views": 18000,
-   "por_hora": 3600,
-   "acima_mediana": 2.7,
+   "titulo": "Paraguai: Novo presidente do país pede a renúncia de todos os seus ministros",
+   "url": "https://www.youtube.com/watch?v=Pp2u8qEdDqI",
+   "canal": "UOL",
+   "publicado": "2026-11-09T19:51:45+00:00",
+   "views": 2245,
+   "por_hora": 2980,
+   "acima_mediana": 3.3,
    "temas": [
-    "mercado",
-    "economia",
     "politica"
    ]
   },
   {
-   "titulo": "PF deve enviar relatórios sobre ministros do STF ainda em novembro | LIVE CNN",
-   "url": "https://www.youtube.com/watch?v=9K0qL--gz8A",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-09T15:08:03.267333+00:00",
+   "titulo": "Remoção de conteúdo na internet - Conselho de Comunicação Social - 09/11/2026",
+   "url": "https://www.youtube.com/watch?v=LFZe0-rqvFQ",
+   "canal": "Câmara dos Deputados",
+   "publicado": "2026-11-09T20:02:02+00:00",
+   "views": 1718,
+   "por_hora": 2952,
+   "acima_mediana": 290.4,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Fim da escala 6x1: governo deve publicar decreto hoje | #NewsManhã",
+   "url": "https://www.youtube.com/watch?v=UWUq9Ctt4Uw",
+   "canal": "SBT News",
+   "publicado": "2026-11-09T14:36:56.997947+00:00",
    "views": 17000,
-   "por_hora": 3400,
-   "acima_mediana": 2.6,
+   "por_hora": 2833,
+   "acima_mediana": 4.3,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Lula adia decreto com regras do fim da escala 6x1 | TEMPO REAL",
-   "url": "https://www.youtube.com/watch?v=e8Q6_dciGvY",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-09T18:08:03.267333+00:00",
-   "views": 6200,
-   "por_hora": 3100,
-   "acima_mediana": 5.2,
+   "titulo": "Hugo e Alcolumbre priorizam votações no Congresso à viagem com Lula | BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=RAHYsZzXxig",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-09T18:36:56.997947+00:00",
+   "views": 5600,
+   "por_hora": 2800,
+   "acima_mediana": 3.2,
    "temas": [
     "politica"
    ]
@@ -2209,11 +2525,24 @@
    "url": "https://www.youtube.com/watch?v=VlMdMCPMC48",
    "canal": "Estadão",
    "publicado": "2026-11-09T11:16:39+00:00",
-   "views": 25533,
-   "por_hora": 2883,
-   "acima_mediana": 32.6,
+   "views": 25722,
+   "por_hora": 2754,
+   "acima_mediana": 34.8,
    "temas": [
     "economia",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Fachin arquiva notícia-crime de Flávio Dino contra Dallagnol | TEMPO REAL",
+   "url": "https://www.youtube.com/watch?v=IpKNRiOS50c",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-09T18:10:43+00:00",
+   "views": 6352,
+   "por_hora": 2606,
+   "acima_mediana": 3.9,
+   "temas": [
+    "mercado",
     "politica"
    ]
   },
@@ -2222,48 +2551,25 @@
    "url": "https://www.youtube.com/watch?v=VTwlkR_JKUk",
    "canal": "Band Jornalismo",
    "publicado": "2026-11-09T14:25:37+00:00",
-   "views": 15974,
-   "por_hora": 2799,
-   "acima_mediana": 7.5,
+   "views": 16085,
+   "por_hora": 2599,
+   "acima_mediana": 6.2,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Fim da escala 6x1: governo deve publicar decreto hoje | #NewsManhã",
-   "url": "https://www.youtube.com/watch?v=UWUq9Ctt4Uw",
+   "titulo": "Luiz Fux suspende ações contra MP que proibiu as bets enquanto o STF não decidir sobre | #RadarNews",
+   "url": "https://www.youtube.com/watch?v=v3znXry6ecw",
    "canal": "SBT News",
-   "publicado": "2026-11-09T14:08:03.267333+00:00",
-   "views": 16000,
-   "por_hora": 2667,
-   "acima_mediana": 3.5,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Mercado financeiro quer de Lula o estelionato eleitoral que esperava do derrotado | Sakamoto",
-   "url": "https://www.youtube.com/watch?v=Sy_mAilnMcA",
-   "canal": "UOL",
-   "publicado": "2026-11-09T19:08:03.267333+00:00",
-   "views": 2600,
-   "por_hora": 2600,
-   "acima_mediana": 1.6,
+   "publicado": "2026-11-09T16:36:56.997947+00:00",
+   "views": 10000,
+   "por_hora": 2500,
+   "acima_mediana": 3.8,
    "temas": [
     "mercado",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Remoção de conteúdo na internet - Conselho de Comunicação Social - 09/11/2026",
-   "url": "https://www.youtube.com/watch?v=LFZe0-rqvFQ",
-   "canal": "Câmara dos Deputados",
-   "publicado": "2026-11-09T20:02:02+00:00",
-   "views": 1254,
-   "por_hora": 2508,
-   "acima_mediana": 321.3,
-   "temas": [
-    "politica"
+    "politica",
+    "comportamento"
    ]
   }
  ],
@@ -2274,8 +2580,8 @@
    "url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
    "video_url": "https://www.youtube.com/watch?v=3D_uG_L8jBE",
    "canal": "CNN Brasil",
-   "views_h": 70133,
-   "acima_mediana": 53.6,
+   "views_h": 58529,
+   "acima_mediana": 67.3,
    "publicado": "2026-11-09T15:04-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
@@ -2283,7 +2589,7 @@
     "politica"
    ],
    "forca": 44,
-   "porque": "vídeo do CNN Brasil com 70.133 views/h (53.6x o normal do canal); nenhum veículo deu ainda"
+   "porque": "vídeo do CNN Brasil com 58.529 views/h (67.3x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "pauta",
@@ -2298,168 +2604,139 @@
     "economia",
     "mercado"
    ],
-   "forca": 33.0,
+   "forca": 32.8,
    "porque": "só 1 veículo (Poder360); apareceu às 17h05"
   },
   {
    "tipo": "pauta",
-   "titulo": "Commodities em queda ajudaram a frear inflação no IGP-DI, diz FGV",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/09/commodities-em-queda-ajudaram-a-frear-inflao-no-igp-di-diz-fgv.ghtml",
+   "titulo": "Dólar termina perto de estabilidade com preços do petróleo e políticas econômicas no radar",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/09/dolar-termina-perto-de-estabilidade-com-precos-do-petroleo-e-politicas-economicas-no-radar.ghtml",
    "veiculos": [
     "Valor"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-09T16:34-03:00",
+   "primeira_vez": "2026-11-09T17:22-03:00",
    "temas": [
     "economia",
     "mercado"
    ],
-   "forca": 29.8,
-   "porque": "só 1 veículo (Valor); apareceu às 16h34"
+   "forca": 29.9,
+   "porque": "só 1 veículo (Valor); apareceu às 17h22"
   },
   {
    "tipo": "pauta",
-   "titulo": "COP31: agro pede subvenção pública ao seguro rural quatro vezes maior que a atual",
-   "url": "https://www.moneytimes.com.br/cop31-agro-pede-subvencao-publica-ao-seguro-rural-quatro-vezes-maior-que-a-atual-pads/",
+   "titulo": "Selic fecha Lula 3 onde começou, e dívida sobe 11,2 pontos do PIB",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdk9WTUp0MEdXdkhkXzNZU2FSV2p4TmVMalR5X25jZDQwSnZHaWFzMC00a0RfRGlkUWw3U0VKcFlNUXdqTGw4UUJTdW1DOEk4anFqSHBqamJqUTNrQUtsX01LSFNRQzY0QU5mSzZiQm1JSUItVmtHcFBGV21LQ1lOeVUweHJlSXJUNGs0SFNsNVFhdTJqSTgzZFlwZHJISlFhWmJPTWg2UHhNQ185M1lyU0ttb1BWcTRUd09McdIBwgFBVV95cUxNOXJfWVFpb2dEak9nT1diWGtrdjV6X3JhRThjT0tPVkRBakdnbEt4aUQxb3JkWm41Z2w2MjllaGp5YjVfb3lXbnAzekkzaS1Cd01fVVFzWUJ2bkxBTm1YVUJ4N1FIelhucV96VFA2d3pMcFZXNjhLR184V2d3V0UtQ3FTbHdNT3ZHaE56RnAyWGFBOUlzeFJpcllIcFU3dEdRdmZDTC1icnNYdkthRUVhaDk3aGE3TGVNRkFIV3hBR3FKQQ?oc=5",
    "veiculos": [
-    "Money Times"
+    "Diário do Poder"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-09T16:27-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 27.8,
-   "porque": "só 1 veículo (Money Times); apareceu às 16h27"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Análise: Lula busca tranquilizar o país, mas adia medidas",
-   "url": "https://www.cnnbrasil.com.br/politica/analise-lula-busca-tranquilizar-o-pais-mas-adia-medidas/",
-   "veiculos": [
-    "CNN Brasil"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-09T16:10-03:00",
+   "primeira_vez": "2026-11-09T17:30-03:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
-   "forca": 27.6,
-   "porque": "só 1 veículo (CNN Brasil); apareceu às 16h10"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "O que acontece com o bolsonarismo com Flávio nos EUA?",
-   "url": "https://www.bbc.com/portuguese/watch/c83vqv960zzyo?at_medium=RSS&at_campaign=rss",
-   "veiculos": [
-    "BBC News Brasil"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-09T16:28-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 26.7,
-   "porque": "só 1 veículo (BBC News Brasil); apareceu às 16h28"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "MEC e iFood lançam parceria para participantes do Enem 2026",
-   "url": "https://www.poder360.com.br/poder-educacao/mec-e-ifood-lancam-parceria-para-participantes-do-enem-2026/",
-   "veiculos": [
-    "Poder360"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-09T16:18-03:00",
-   "temas": [
-    "mercado"
-   ],
-   "forca": 26.7,
-   "porque": "só 1 veículo (Poder360); apareceu às 16h18"
+   "forca": 29.0,
+   "porque": "só 1 veículo (Diário do Poder); apareceu às 17h30"
   },
   {
    "tipo": "pauta",
    "titulo": "Volume diário de transações com Pix bate novo recorde",
    "url": "https://valor.globo.com/financas/noticia/2026/11/09/volume-diario-de-transacoes-com-pix-bate-novo-recorde.ghtml",
    "veiculos": [
+    "Agência Brasil",
+    "CNN Brasil",
     "Valor"
    ],
-   "qtd_veiculos": 1,
+   "qtd_veiculos": 3,
    "primeira_vez": "2026-11-09T16:09-03:00",
    "temas": [
     "economia",
     "mercado"
    ],
-   "forca": 26.6,
-   "porque": "só 1 veículo (Valor); apareceu às 16h09"
+   "forca": 28.8,
+   "porque": "só 3 veículos (Agência Brasil, CNN Brasil, Valor); apareceu às 16h09"
   },
   {
    "tipo": "pauta",
-   "titulo": "Em meio à aproximação, Cleitinho pretende ir à posse de Lula",
-   "url": "https://www.metropoles.com/minas-gerais/em-meio-a-aproximacao-cleitinho-pretende-ir-a-posse-de-lula",
+   "titulo": "Vazamento de dados do FGC amplia risco de golpes e Copom mantém Selic em 13,75%",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTFoYnhMTFV6S1pDcllBX3NnVmJEdENqeVRFbW5Td1ozbFVhZFRnSVhoQ0VzLUZnU2ZlSlQ4MHpPaWgtcUJzbG1NYXIyNGFWYVloZklSbE5kc2ZWLXlBLWt4a21tMnd0NllEZHlqdWV5VmcxY2pGVDdRUkFPMll4NHVpVzFjaGJyQ3JpbHFIU1FtQ0ZuV2k2a1NkbXlITWRmM25rRVU4N1V6NzJwU2h0RDl3YXFsREtnQ2VJM0thclZmRUVlaHN3Tzk3dmdtaFBneE5sN2ZfMHc?oc=5",
    "veiculos": [
-    "Metrópoles"
+    "CBN Goiânia"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-09T17:00-03:00",
+   "primeira_vez": "2026-11-09T17:01-03:00",
    "temas": [
-    "economia",
-    "politica"
+    "comportamento",
+    "mercado"
    ],
-   "forca": 25.9,
-   "porque": "só 1 veículo (Metrópoles); apareceu às 17h00"
+   "forca": 28.8,
+   "porque": "só 1 veículo (CBN Goiânia); apareceu às 17h01"
   },
   {
    "tipo": "pauta",
-   "titulo": "Proporção de católicos na América Latina caiu de 80% em 1995 para atuais 55%",
-   "url": "https://www.infomoney.com.br/mundo/proporcao-de-catolicos-na-america-latina-caiu-de-80-em-1995-para-atuais-55/",
+   "titulo": "Globo é detonada por retratar o Nordeste cheio de esteriótipos: \"direção de Nikolas Ferreira\"",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUlDQlp4X3czZzhOSW96SWF6WFBwbzBYb05Eem02aGtjUkc0RXpaZTI5bTBXdlFyVlhFR1kybEZnUHV4c3hKWmg1cVMtRG43T1R4dVJaeEFPbGUzNXlIcENUbm5TbE1adDFJeU14Z1IydWIyak1ESnhDbkxYeG1LTU1tS1JqSUllcERZcjJBS19JWUlNaUxmQWxPb0t0c1dlSjl5SVRVdk8wb29EUmdYd2hCZ3N6dw?oc=5",
+   "veiculos": [
+    "Pará Web News"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-09T17:34-03:00",
+   "temas": [
+    "politica"
+   ],
+   "forca": 28.0,
+   "porque": "só 1 veículo (Pará Web News); apareceu às 17h34"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Braskem quer concluir negociações com credores até 4ª-feira, dizem fontes",
+   "url": "https://www.infomoney.com.br/mercados/braskem-quer-concluir-negociacoes-com-credores-ate-4a-feira-dizem-fontes/",
    "veiculos": [
     "InfoMoney"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-09T16:19-03:00",
+   "primeira_vez": "2026-11-09T17:34-03:00",
    "temas": [
-    "mercado",
-    "politica"
+    "economia"
    ],
-   "forca": 25.7,
-   "porque": "só 1 veículo (InfoMoney); apareceu às 16h19"
+   "forca": 27.0,
+   "porque": "só 1 veículo (InfoMoney); apareceu às 17h34"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "MBRF (MBRF3) dispara mais de 10% na B3 antes do balanço do 3º trimestre",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1RkUldna0ZoTmRzQm01RGdWY0xEbG1iekJ5azlYNWFkaU9XdVo2ejN4R1BLblBzWkFvRTFzMEN3T0FNMGM1c1lZVGZkUThpMU0xMWo5enZoREQ0NlFQb2lBRm51emc2MXBfbjU5UmJQZjhyUUM1Wm0xYXl4R2hUVmRhVW1ELS1kVVhLNjkyUFFObkZNS2Yw?oc=5",
+   "veiculos": [
+    "BPMoney"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-09T17:16-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 26.9,
+   "porque": "só 1 veículo (BPMoney); apareceu às 17h16"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Entenda como a Selic alta está impactando a dívida pública",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2E0eW94UzdWaTRKb0wtX1dveTk4THk3bmN6bzkxdi1hX0xZV1UxdzhXNlBGWGJOQWhBV1FjQ1REaGk1eTRyd1JWckI1cFM3UkJZbHB0RjRKNkp6S0gxYXBMUTVUTlNtbm9paXdXZks2SU83dnowU3RFRDdMU19Jbi1VOUI2ZldqcWpZN1h4UDlmRGZzWkhfMlF0Qm8xSEFhYm1R?oc=5",
+   "veiculos": [
+    "R7"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-09T17:06-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 26.8,
+   "porque": "só 1 veículo (R7); apareceu às 17h06"
   }
  ],
- "fontes_ok": 35,
- "falhas": [
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError"
- ]
+ "fontes_ok": 64,
+ "falhas": []
 }
