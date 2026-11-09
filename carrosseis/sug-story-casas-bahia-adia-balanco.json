@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-casas-bahia-adia-balanco",
+  "titulo": "Story: Casas Bahia empurra o balanço do trimestre para 10 de dezembro",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-11-08T13:50:00-03:00",
+  "atualizado": "2026-11-08T13:50:00-03:00",
+  "legenda": "",
+  "comentario": "A Casas Bahia ia mostrar o balanço do trimestre na quarta (11) e empurrou pra 10 de dezembro, pedindo mais tempo pra revisar os números. É uma empresa em recuperação judicial desde agosto, devendo R$ 17,3 bilhões. Na prática, quem tem a ação vai passar um mês sem saber como foi o trimestre, e atraso de balanço em empresa nessa situação nunca é boa notícia.",
+  "repost_url": "https://c-level.folha.uol.com.br/negocios/2026/11/casas-bahia-adia-para-dezembro-divulgacao-de-balanco-do-3o-trimestre.shtml",
+  "fontes": [
+    {
+      "titulo": "Folha (C-Level) — Casas Bahia adia para dezembro divulgação de balanço do 3º trimestre (07/11/2026): comunicado ao mercado de sexta (6) adia para 10 de dezembro a publicação prevista para quarta (11); recuperação judicial desde agosto, dívida declarada de R$ 17,3 bilhões; motivo citado: \"necessidade de prazo adicional para a conclusão dos trabalhos de elaboração, consolidação e revisão das informações contábeis\"",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/11/casas-bahia-adia-para-dezembro-divulgacao-de-balanco-do-3o-trimestre.shtml"
+    },
+    {
+      "titulo": "Radar 08/11 13h06: a mesma notícia em 10 veículos (Fato Amazônico e outros)",
+      "url": "https://kaiquegabriel33.github.io/kaique-studio-site/radar/radar.json"
+    },
+    {
+      "titulo": "Foto: reprodução Folha (fachada da Casas Bahia)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/11/casas-bahia-adia-para-dezembro-divulgacao-de-balanco-do-3o-trimestre.shtml"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro",
+      "fundo": {
+        "src": "midia/sug-story-casas-bahia-adia-balanco/casas-bahia-adia-para-dezembro-divulgacao-de-bal.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Casas Bahia ia mostrar o balanço do trimestre na quarta (11) e empurrou pra 10 de dezembro, pedindo mais tempo pra revisar os números. É uma empresa em recuperação judicial desde agosto, devendo [[vermelho:R$ 17,3 bilhões]]. Na prática, quem tem a ação vai passar [[vermelho:um mês sem saber]] como foi o trimestre, e atraso de balanço em empresa nessa situação nunca é boa notícia."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-casas-bahia-adia-balanco/print-folha-casas-bahia-adia-para-dezembro-d.png",
+          "h": 340,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}

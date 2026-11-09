@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-garantia-90-dias",
+  "titulo": "Story: veio com defeito, a loja tem 30 dias pra consertar",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Comprou na Black Friday e veio com defeito? A loja tem [[verde:30 dias pra consertar]]. Passou disso, você escolhe: produto novo, dinheiro de volta ou desconto. Geladeira ou fogão não esperam esses 30 dias."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-garantia-90-dias/print-idec-org-br-black-friday-teve-algum-problem.png",
+          "h": 517,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-08T10:50:00-03:00",
+  "atualizado": "2026-11-08T10:50:00-03:00"
+}

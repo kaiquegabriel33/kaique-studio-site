@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-conta-luz-21-mil-aposentada",
+  "titulo": "Story: aposentada que pagava R$ 250 de luz recebe conta de R$ 21 mil",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Aposentada que pagava R$ 250 de luz recebeu cobrança de [[vermelho:R$ 21 mil]]. Conta absurda se contesta na distribuidora e, sem solução, na ANEEL pelo 167. [[verde:Guarda o protocolo]]: é ele que a ANEEL pede."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-conta-luz-21-mil-aposentada/print-www-campograndenews-com-br-quero-pagar-o-que-eu-usei-diz-ap.png",
+          "h": 550,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-09T10:40:00-03:00",
+  "atualizado": "2026-11-09T10:40:00-03:00"
+}

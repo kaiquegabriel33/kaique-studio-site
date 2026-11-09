@@ -1,0 +1,23 @@
+{
+  "id": "sug-story-compra-online-7-dias",
+  "titulo": "Story: comprou pela internet, tem 7 dias para desistir",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Comprou pela internet e bateu arrependimento? Você tem [[verde:7 dias depois de receber]] pra desistir, sem explicar nada. A loja devolve tudo que você pagou, frete junto. Na loja física, esse direito não existe."
+        }
+      ]
+    }
+  ],
+  "atualizado": "2026-11-07T22:40:00-03:00"
+}

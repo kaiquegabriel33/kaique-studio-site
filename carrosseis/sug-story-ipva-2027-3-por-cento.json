@@ -1,0 +1,36 @@
+{
+  "id": "sug-story-ipva-2027-3-por-cento",
+  "titulo": "Story: IPVA 2027 de SP, 3% à vista ganha de parcelar",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-ipva-2027-3-por-cento/fundo-23-de-maio.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Saiu o calendário do IPVA 2027 em SP: [[verde:3% de desconto]] pagando à vista em janeiro. Parcelar e deixar o resto rendendo não chega nisso, nem com o juro alto. Tem o dinheiro? Paga à vista."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-ipva-2027-3-por-cento/print-metropoles-governo-de-sp-divulga-calendario.png",
+          "h": 487,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-09T10:40:00-03:00",
+  "atualizado": "2026-11-09T10:40:00-03:00"
+}
