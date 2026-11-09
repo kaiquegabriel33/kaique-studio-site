@@ -1,0 +1,89 @@
+{
+  "id": "sug-video-pt-meta-inflacao-chuchu",
+  "carrossel_id": "sug-video-pt-meta-inflacao-chuchu",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "media",
+  "prioridade": 4,
+  "criado": "2026-11-08T22:20:00-03:00",
+  "atualizado": "2026-11-09T10:58:00-03:00",
+  "fato_em": "2026-11-08T21:00:00-03:00",
+  "a_partir_de": "2026-11-09T00:00:00-03:00",
+  "vence_em": "2026-11-11T23:59:00-03:00",
+  "titulo": "Presidente do PT sobre a meta de inflação do BC: “nenhum país do mundo faz isso” (vídeo)",
+  "para_quem": "quem paga juro de cartão e financiamento e ouviu que a Selic não cai por causa do preço do arroz e do chuchu",
+  "promessa": "por que que o preço sazonal tem que ir pra meta?",
+  "paga_em": "a gente aperta o torniquete da sociedade inteira por uma coisa que a gente sabe que daqui seis meses vai passar",
+  "diferenciacao": "o cartão com o que o Fed e o Banco Central Europeu fazem, que responde ao “nenhum país do mundo faz isso” com fato",
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "Presidente do PT sobre a meta do Banco Central: ==“nenhum país do mundo faz isso”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=nIKQ5TB2l0A&t=68s",
+  "trecho": {
+    "aspa_manchete": "Nenhum país do mundo faz isso",
+    "inicio": "A questão da meta da inflação",
+    "fim": "vai passar",
+    "texto": "A questão da meta da inflação, o controle de inflação é um patrimônio do povo brasileiro. A gente tem que lutar por esse patrimônio todos os dias. O que eu às vezes falo: Galípolo, mas por que que o preço sazonal tem que ir pra meta? Nenhum país do mundo faz isso. Subiu por 15 dias o preço do arroz porque deu uma enchente num estado que produz arroz. Isso não significa problema estrutural da economia. Já tivemos a inflação do chuchu, inflação da abóbora. E aí a gente aperta o torniquete da sociedade inteira por uma coisa que a gente sabe que daqui seis meses vai passar.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "por que que o preço sazonal",
+        "texto": "Meta do BC: 3% pelo IPCA cheio, com comida e energia"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "Nenhum país do mundo faz isso",
+        "texto": "Fed (EUA) e BCE (Europa) também miram a inflação cheia"
+      }
+    ],
+    "cta": true,
+    "encher": true
+  },
+  "trecho_txt": "Band Jornalismo (YouTube), entrevista com o presidente do PT, 08/11/2026; de 1:08 a 1:50 (42 s), pela legenda automática.",
+  "legenda": "O presidente do PT quer tirar o arroz e o chuchu da conta da meta de inflação. A conta de quem tem razão está nos cartões.\n\nArroz depois de enchente, chuchu, abóbora: pra ele, alta que passa em meses não deveria pesar na meta. Ele diz que debate isso com o Galípolo e que “nenhum país do mundo faz isso”. A crítica: o Banco Central aperta o juro de todo mundo por uma alta passageira.\n\nO que vale hoje: a meta é de 3% medida pelo IPCA cheio, que inclui comida e energia. O Fed, nos Estados Unidos, e o Banco Central Europeu também usam a inflação cheia como alvo. Os bancos centrais olham os núcleos, que tiram o que é sazonal, pra decidir o juro, mas a meta é a cheia.\n\nMexer na régua pode baixar o juro mais cedo. Também pode fazer o mercado cobrar mais caro pra emprestar ao governo, e aí o juro do seu financiamento sobe junto.\n\nVídeo: reprodução da Band Jornalismo no YouTube (08/11/2026).\nFontes: Band Jornalismo (08/11/2026), Banco Central (meta para a inflação), Federal Reserve e Banco Central Europeu.\n\n#bancocentral #inflacao #juros #galipolo",
+  "fontes": [
+    {
+      "titulo": "Band Jornalismo (YouTube) — Presidente do PT explica divergências com Galípolo: ‘Nenhum país do mundo faz isso’ (08/11/2026; a fala vai de 1:08 a 1:50, pela legenda automática)",
+      "url": "https://www.youtube.com/watch?v=nIKQ5TB2l0A"
+    },
+    {
+      "titulo": "Banco Central do Brasil — Meta para a inflação (meta contínua de 3% pelo IPCA)",
+      "url": "https://www.bcb.gov.br/controleinflacao/metainflacao"
+    },
+    {
+      "titulo": "Federal Reserve — Why does the Federal Reserve aim for inflation of 2 percent over the longer run? (PCE cheio)",
+      "url": "https://www.federalreserve.gov/faqs/economy_14400.htm"
+    },
+    {
+      "titulo": "Banco Central Europeu — Monetary policy strategy (HICP, 2%)",
+      "url": "https://www.ecb.europa.eu/mopo/strategy/html/index.en.html"
+    }
+  ],
+  "opiniao_sugerida": "Último parágrafo da legenda (“Mexer na régua pode baixar o juro mais cedo. Também pode fazer o mercado cobrar mais caro…”) é leitura nossa, ele não disse.",
+  "nota_lote": "Gravar a tela da entrevista (Band Jornalismo, 08/11/2026) de 1:08 a 1:50 (42 s). Corte puro tela cheia escura, Reel de teste em janela boa + TikTok. Também é o candidato natural à ideia 1 da revisão de 05/11 (“Fulano acusa o Banco Central. Ele tem razão?”) como corte + comentário, que aí passa pelo ok dele.",
+  "motivo": "Confirmar antes: nome do presidente do PT na legenda\n\nPrateleira vídeo, força média (nome forte com pauta de juro; palavra forte “torniquete” e “inflação do chuchu”). Quente e pouco visto: vídeo da Band de hoje com 432 views; só 1 canal deu. Lição do resumo vivo: formador de ideia, dois lados no cartão (a fala diz “nenhum país faz isso”, o cartão mostra Fed e BCE com inflação cheia) e o bolso no fim (juro do cartão). Por que alguém manda: governista manda “o BC aperta todo mundo por causa do chuchu”, quem defende o BC manda o cartão do Fed e do BCE.\n\nA CONFERIR: (1) fala lida pela legenda automática, ninguém ouviu (a legenda trocou “Galípolo” por “Galípuro”, corrigido); (2) o vídeo não diz o nome do entrevistado na legenda automática: confirmar na tela antes de pôr o nome na legenda (deixei “presidente do PT”); (3) meta 3% pelo IPCA e alvo cheio do Fed (PCE) e do BCE (HICP) são da política de cada banco, não reabri as páginas nesta rodada."
+}
