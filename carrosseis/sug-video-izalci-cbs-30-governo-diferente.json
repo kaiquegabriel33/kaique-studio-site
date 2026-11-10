@@ -1,0 +1,81 @@
+{
+  "id": "sug-video-izalci-cbs-30-governo-diferente",
+  "titulo": "Izalci Lucas, senador, sobre a reforma tributária: “Por que o Governo tem que ser diferente?” (TV Senado)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-10T10:40",
+  "atualizado": "2026-11-10T10:43",
+  "sempre_verde": true,
+  "video_url": "https://www12.senado.leg.br/multimidia/evento/159713",
+  "trecho": {
+    "inicio": "Quando os dois estiverem totalmente implantados",
+    "fim": "pagar cada vez mais impostos",
+    "janela": [
+      190,
+      380
+    ],
+    "encher": true,
+    "enquadrar": false,
+    "girar": "nao",
+    "legenda_lugar": "baixo",
+    "cta": true,
+    "aspa_manchete": "Por que o Governo tem que ser diferente?",
+    "texto": "Quando os dois estiverem totalmente implantados, as estimativas indicam que a alíquota padrão somada poderá ficar próxima de 30% – 30%! Isso não significa que todos os produtos e serviços terão essa carga efetiva; existem exceções, reduções e regras de créditos, mas estamos falando de um percentual muito alto, que precisa ser discutido com responsabilidade. Eu pergunto: será que o Brasil precisa de uma tributação sobre o consumo neste patamar? Será que não está na hora de discutirmos também os custos e os gastos do Governo, o desperdício de dinheiro público e a necessidade de fazer o Estado funcionar melhor? Quem tem uma empresa sabe disto: quando o dinheiro fica curto, o empresário precisa rever as despesas, cortar desperdícios e melhorar a gestão. Por que o Governo tem que ser diferente? Não podemos continuar tratando o contribuinte brasileiro como se ele tivesse dinheiro sobrando para pagar cada vez mais impostos.",
+    "contexto": [
+      {
+        "desde": "poderá ficar próxima de 30%",
+        "texto": "CBS 11,3% (TCU, 2027) + IBS 18,7% (estimativa) = 30%",
+        "cor": "amarelo"
+      },
+      {
+        "desde": "Quem tem uma empresa sabe disto",
+        "texto": "CBS e IBS substituem os impostos do consumo (EC 132/2023)",
+        "cor": "verde"
+      }
+    ]
+  },
+  "trecho_txt": "TV Senado, Plenário (03/11/2026), fala 9 do senador Izalci Lucas (PL-DF)",
+  "legenda": "Senador perguntou por que o governo não corta gasto antes de cobrar 30% de imposto no consumo.\n\nFoi o Izalci Lucas (PL-DF), no plenário do Senado em 03/11/2026, falando da reforma tributária.\n\nA conta que ele cita: o TCU calculou a CBS, a parte federal, em 11,3% para 2027. O IBS, de estados e municípios, está estimado em 18,7%. Somados, dá 30% (conta nossa).\n\nEle mesmo faz a ressalva: nem tudo vai pagar 30%. Cesta básica, saúde e educação têm redução, e o imposto pago numa etapa vira crédito na seguinte.\n\nSó que a alíquota cheia sobe justamente por causa disso. Cada setor que ganha desconto empurra a conta pra quem ficou na regra cheia, e o governo não aceita arrecadar menos do que arrecadava com os impostos de consumo que a reforma substitui.\n\nVídeo: TV Senado (03/11/2026). Fontes: notas taquigráficas do Senado, TCU (via CNN Brasil e Poder360) e Resolução CGIBS 14/2026 (via IOB).\n\n#reformatributaria #impostos #CBS",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — Plenário, 139ª Sessão Deliberativa Ordinária (03/11/2026), fala 9 (Izalci Lucas, PL-DF): vídeo oficial e notas taquigráficas",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159713"
+    },
+    {
+      "titulo": "CNN Brasil — Reforma tributária: TCU propõe alíquota de 11,3% para CBS em 2027 (28/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/reforma-tributaria-tcu-propoe-aliquota-de-113-para-cbs-em-2027/"
+    },
+    {
+      "titulo": "Poder360 — TCU fixa alíquota da CBS em 11,3% para 2027 (28/10/2026)",
+      "url": "https://www.poder360.com.br/poder-economia/tcu-fixa-aliquota-da-cbs-em-113-para-2027/"
+    },
+    {
+      "titulo": "IOB — Resolução CGIBS 14/2026: estimativa de 18,7% do IBS",
+      "url": "https://noticias.iob.com.br/reforma-tributaria-aliquota-padrao/"
+    }
+  ],
+  "slides": [
+    {
+      "papel": "vídeo",
+      "tema": "escuro",
+      "altura": 1920,
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Senador sobre imposto de 30% no consumo: ==“Por que o Governo tem que ser diferente?”==",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
