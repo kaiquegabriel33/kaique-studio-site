@@ -1,0 +1,85 @@
+{
+  "id": "sug-video-falcao-minas-divida-200-bi",
+  "carrossel_id": "sug-video-falcao-minas-divida-200-bi",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "alta",
+  "prioridade": 4,
+  "criado": "2026-11-09T14:30:00-03:00",
+  "atualizado": "2026-11-10T08:45:00-03:00",
+  "fato_em": "2026-11-09T14:05:00-03:00",
+  "a_partir_de": "2026-11-09T00:00:00-03:00",
+  "vence_em": "2026-11-11T23:59:00-03:00",
+  "titulo": "Vice eleito de MG: a dívida de Minas passou de 200 bilhões (vídeo)",
+  "para_quem": "mineiro que paga ICMS e servidor estadual de Minas, quem votou no Cleitinho e quem votou no Zema para presidente",
+  "promessa": "Vamos fazer aqui um comparativo",
+  "paga_em": "já tá a mais de 200 bilhões de reais",
+  "diferenciacao": "os cartões com o número oficial da Fazenda de MG (rombo de R$ 10,51 bi previsto para 2027, o dobro de 2026, e a dívida de R$ 208,87 bi), que a fala não traz",
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "Minas: dívida passou de ==200 bilhões==, diz o vice eleito ao lado do Cleitinho",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "A dívida, que era de menos de",
+    "inicio": "O ex-governador Fernando Pimentel entregou",
+    "fim": "e o governo já começou",
+    "texto": "O ex-governador Fernando Pimentel entregou a gestão pro governador Zema, de 2018 para 2019, com um déficit orçamentário de 11 bilhões para aquele ano de 2019. Estão entregando agora pro novo governo do governador Cleitinho com déficit de 10 bi e meio pro ano que vem. E a dívida, que era de menos de 100 bi, né, já tá a mais de 200 bilhões de reais. Então nós temos um desafio muito grande, e o governo já começou.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "com um déficit de R$ 10,5 bilhões",
+        "texto": "Fazenda de MG prevê rombo de R$ 10,51 bi em 2027, o dobro de 2026"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "já está a mais de R$ 200 bilhões",
+        "texto": "Dívida: R$ 208,87 bi, R$ 188 bi só com a União (SEF-MG, 31/08)"
+      }
+    ],
+    "cta": true,
+    "encher": true
+  },
+  "trecho_txt": "Metrópoles (YouTube), vídeo de 09/11/2026; de 0:08 a 0:41 (33 s), pela legenda automática.",
+  "video_url": "https://www.youtube.com/watch?v=e6FDiw6txd8&t=8s",
+  "legenda": "Minas vai trocar de governo com um rombo previsto de R$ 10,5 bilhões e uma dívida acima de R$ 200 bilhões.\n\nQuem fala é o vice eleito ao lado do Cleitinho. Ele compara a herança: o Pimentel passou o estado pro Zema com déficit de 11 bi em 2019, e agora o novo governo recebe com 10 bi e meio.\n\nO número oficial: o orçamento de 2027 que o governo Mateus Simões mandou pra Assembleia prevê R$ 144,99 bi de receita e R$ 155,50 bi de despesa. Dá R$ 10,51 bi de déficit, o dobro dos R$ 5,22 bi previstos pra 2026. A dívida soma R$ 208,87 bi, e R$ 188,19 bi disso é com a União.\n\nO outro lado da conta: o governo Zema começou com uma liminar do STF que suspendeu o pagamento da dívida com a União. Depois da adesão ao Propag, Minas voltou a pagar. E a regra do Propag pode ser rescindida se o estado não cumprir as contrapartidas.\n\nRombo de 10 bi alguém paga, e quase sempre é quem mora no estado: no serviço que piora ou no imposto que sobe.\n\nVídeo: reprodução do Metrópoles no YouTube (09/11/2026).\nFontes: Metrópoles (09/11/2026) e Diário do Comércio, com dados da Secretaria de Fazenda de MG (Ploa 2027 e Portal da Dívida, 31/08/2026).\n\n#minasgerais #dividapublica #cleitinho #zema",
+  "fontes": [
+    {
+      "titulo": "Metrópoles (YouTube) — Vice de Cleitinho compara herança de Zema à de Pimentel (09/11/2026; trecho 0:08 a 0:41, pela legenda automática)",
+      "url": "https://www.youtube.com/watch?v=e6FDiw6txd8"
+    },
+    {
+      "titulo": "Diário do Comércio — Equipe econômica de Cleitinho ganha forma em meio a rombo de R$ 10,5 bilhões de déficit no Estado (29/10/2026): Ploa 2027 com receita de R$ 144,99 bi e despesa de R$ 155,50 bi; déficit de R$ 10,51 bi (2027) e R$ 5,22 bi (2026); dívida de R$ 208,87 bi, R$ 188,19 bi com a União (SEF-MG, até 31/08)",
+      "url": "https://diariodocomercio.com.br/politica/desafio-fiscal-governo-cleitinho/"
+    },
+    {
+      "titulo": "Diário do Comércio — Cleitinho herdará déficit de R$ 10,5 bilhões em Minas e enfrentará risco de crise fiscal: liminar do STF herdada pela gestão Zema, volta do pagamento após o Propag, risco de rescisão do Propag",
+      "url": "https://diariodocomercio.com.br/politica/especialistas-deficit-fiscal-minas/"
+    }
+  ],
+  "motivo": "Confirmar antes: o nome de quem fala no vídeo\n\nPrateleira vídeo, força alta (palavra forte no bolso: dívida de 200 bi, rombo de 10 bi, com nome de Zema e Cleitinho). Quente e pouco visto: vídeo do Metrópoles postado às ~14h05, 93 views quando achei, só o Metrópoles e um canal pequeno deram. Lição do resumo vivo: fato que um grupo quer compartilhar como voz dele (quem é contra o Zema manda o 'olha a herança'; quem defende manda o cartão da liminar do STF), com o número oficial nos cartões. Corte puro, braço tela cheia escura (o Boulos das 14:20 foi tweet). Por que alguém manda: mineiro manda pro grupo da família 'olha a bomba que vem aí'.\n\nA CONFERIR: (1) fala lida pela legenda automática, ninguém ouviu; o título do Metrópoles diz 'vice de Cleitinho' (vice eleito: Luís Eduardo Falcão, Republicanos, segundo O Fator), confira se é ele mesmo antes de citar o nome; (2) 'déficit de 11 bi em 2019' e 'menos de 100 bi' são números dele, não conferidos (ficam só na fala, nunca nos cartões nem na legenda como fato nosso); (3) R$ 10,51 bi, R$ 5,22 bi, R$ 144,99 bi, R$ 155,50 bi, R$ 208,87 bi e R$ 188,19 bi lidos no Diário do Comércio de 29/10, que cita a Secretaria de Fazenda de MG.",
+  "opiniao_sugerida": "Penúltimo parágrafo da legenda ('Rombo de 10 bi alguém paga, e quase sempre é quem mora no estado...') é leitura nossa, ninguém disse.",
+  "versao": 1
+}

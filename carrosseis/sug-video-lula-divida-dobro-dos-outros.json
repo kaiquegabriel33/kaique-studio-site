@@ -1,0 +1,75 @@
+{
+  "id": "sug-video-lula-divida-dobro-dos-outros",
+  "titulo": "Lula: “quantos países do mundo têm a seriedade fiscal que nós temos?” e a dívida dos outros “é o dobro” (vídeo)",
+  "status": "pronto",
+  "formato": "video",
+  "criado": "2026-11-08T14:40:00-03:00",
+  "atualizado": "2026-11-10T08:45:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=MWEsWz1Cm08&t=1994s",
+  "trecho": {
+    "inicio": "Quantos países do mundo",
+    "fim": "o que não é",
+    "aspa_manchete": "Quantos países do mundo tem a seriedade fiscal que nós temos?",
+    "texto": "Quantos países do mundo tem a seriedade fiscal que nós temos? Quantos? Qual é a dívida interna dos Estados Unidos? Qual é a dívida da França? Qual é a dívida do Japão? Qual é a dívida da Itália? Ou seja, perto da nossa, é o dobro em relação ao PIB. E para a gente for analisar a nossa dívida de verdade, ela nem é tudo o que aparece. E tem importante daí uma hora você mostrar para a imprensa. Porque se coloca como dívida pública brasileira o que não é.",
+    "contexto": [
+      {
+        "desde": "Qual é a dívida da França",
+        "texto": "Dívida do Brasil: 82,9% do PIB em setembro (Banco Central)",
+        "cor": "vermelho"
+      },
+      {
+        "desde": "nem é tudo o que aparece",
+        "texto": "Selic em 13,75% ao ano, mantida em 04/11 (BC)",
+        "cor": "amarelo"
+      }
+    ],
+    "cta": true,
+    "encher": true
+  },
+  "trecho_txt": "Canal do Lula (YouTube), reunião extraordinária do Conselho Nacional de Política Energética, 06/11/2026; de 33:14 a 34:03 (49 s), pela legenda automática.",
+  "slides": [
+    {
+      "altura": 1920,
+      "tema": "escuro",
+      "papel": "vídeo",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "==“Quantos países do mundo têm a seriedade fiscal que nós temos?”== Lula diz que a dívida de EUA, França, Japão e Itália é o dobro da nossa.",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "“Quantos países do mundo têm a seriedade fiscal que nós temos?” A resposta do Lula: a dívida dos ricos é o dobro da nossa.\n\n82,9% do PIB: é a dívida bruta do governo em setembro, segundo o Banco Central. Em dezembro de 2022 era 71,7%. Na conta do Lula, Estados Unidos, França, Japão e Itália devem o dobro disso, e parte do que se conta como dívida brasileira “não é”.\n\nComparar só o tamanho da dívida engana. O que pesa é o juro pra rolar essa conta: com a Selic em 13,75%, cada real de dívida custa caro, e esse juro chega no cartão e no financiamento de todo mundo.\n\nVídeo: reprodução do canal do Lula no YouTube (06/11/2026).\nFontes: canal do Lula (06/11/2026), Banco Central (série 13762), Poder360 (29/10/2026) e Agência Brasil (04/11/2026).\n\n#lula #dividapublica #juros #economia",
+  "fontes": [
+    {
+      "titulo": "Canal do Lula (YouTube) — Presidente Lula participa de reunião extraordinária do Conselho Nacional de Política Energética (06/11/2026; a fala vai de 33:14 a 34:03, pela legenda automática)",
+      "url": "https://www.youtube.com/watch?v=MWEsWz1Cm08"
+    },
+    {
+      "titulo": "Poder360 — Dívida bruta fica em 82,9% do PIB, diz Banco Central (29/10/2026)",
+      "url": "https://www.poder360.com.br/poder-economia/divida-bruta-fica-em-829-do-pib-diz-banco-central/"
+    },
+    {
+      "titulo": "Banco Central, SGS série 13762 — dívida bruta do governo geral: dez/2022 71,68% do PIB",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json&dataInicial=01/12/2022&dataFinal=31/12/2022"
+    },
+    {
+      "titulo": "Agência Brasil — Banco Central surpreende e mantém juros básicos em 13,75% ao ano (04/11/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bc-surpreende-e-mantem-juros-basicos-em-1375-ao-ano"
+    }
+  ],
+  "teste_reel": true,
+  "formato_corte": "tweet_escuro"
+}
