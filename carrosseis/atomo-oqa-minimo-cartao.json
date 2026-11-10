@@ -3,8 +3,8 @@
  "titulo": "O que acontece quando você paga só o mínimo do cartão",
  "status": "pronto",
  "formato": "video",
- "criado": "2026-11-10T12:36:49",
- "atualizado": "2026-11-10T12:36:49",
+ "criado": "2026-11-10T15:08:46",
+ "atualizado": "2026-11-10T15:08:46",
  "slides": [
   {
    "papel": "vídeo",
@@ -19,10 +19,10 @@
    ]
   }
  ],
- "legenda": "Pagar só o mínimo do cartão joga o resto da fatura no rotativo, que cobrou em média 15,29% ao mês em setembro, segundo o Banco Central.\n\nR$ 1.000 que ficam pra trás viram R$ 1.153 um mês depois. Se esse juro rodasse 12 meses, daria uns 450% (conta nossa, juro composto).\n\nDesde janeiro de 2024 tem teto: pela Lei 14.690/2023, juros e encargos do rotativo e do parcelamento da fatura não podem passar de 100% do valor original da dívida. Os R$ 1.000 viram no máximo R$ 2.000. E desde 2017 o rotativo só vale até o vencimento da fatura seguinte; depois, o banco tem que oferecer um parcelamento em condição melhor.\n\nSe não dá pra pagar a fatura inteira, compara antes: consignado e crédito pessoal costumam sair bem mais baratos que o rotativo. Cada caso é um caso.\n\nConteúdo educativo, não é recomendação de investimento.\n\nImagens: cartões: Lotus Head (CC BY-SA 2.5); sede do Banco Central: Banco Central do Brasil (CC BY 2.0); cédula de R$ 100: Banco Central (domínio público); reprodução Sul21, B3 Bora Investir e Congresso em Foco.\nFontes: Banco Central (juros de setembro de 2026), Lei 14.690/2023, Resoluções CMN 4.549/2017 e 5.112/2023, Sul21 (02/01/2024), B3 Bora Investir, Congresso em Foco (02/04/2017). Prints de tela.\n\n#cartaodecredito #rotativo #juros #dividas",
+ "legenda": "Pagar só o mínimo do cartão joga o resto da fatura no rotativo, que cobrou em média 15,29% ao mês em setembro, segundo o Banco Central.\n\nR$ 1.000 que ficam pra trás viram R$ 1.153 um mês depois. Se esse juro rodasse 12 meses, daria uns 450% (conta nossa, juro composto); em agosto, o Banco Central mediu 444,9% ao ano.\n\nDesde janeiro de 2024 tem teto: pela Lei 14.690/2023, juros e encargos do rotativo e do parcelamento da fatura não podem passar de 100% do valor original da dívida. Os R$ 1.000 viram no máximo R$ 2.000. E desde 2017 o rotativo só vale até o vencimento da fatura seguinte; depois, o banco tem que oferecer um parcelamento em condição melhor.\n\nSe não dá pra pagar a fatura inteira, compara antes: consignado e crédito pessoal costumam sair bem mais baratos que o rotativo. Cada caso é um caso.\n\nConteúdo educativo, não é recomendação de investimento.\n\nImagens: cartões: Lotus Head (CC BY-SA 2.5); sede do Banco Central: Banco Central do Brasil (CC BY 2.0); cédula de R$ 100: Banco Central (domínio público); reprodução Acessa.com, Sul21, B3 Bora Investir e Congresso em Foco.\nFontes: Banco Central (juros de agosto e setembro de 2026), Lei 14.690/2023, Resoluções CMN 4.549/2017 e 5.112/2023, Sul21 (02/01/2024), B3 Bora Investir, Congresso em Foco (02/04/2017). Prints de tela.\n\n#cartaodecredito #rotativo #juros #dividas",
  "fontes": [
   {
-   "titulo": "Banco Central (juros de setembro de 2026)"
+   "titulo": "Banco Central (juros de agosto e setembro de 2026)"
   },
   {
    "titulo": "Lei 14.690/2023"
@@ -43,6 +43,18 @@
  "teste_reel": true,
  "atomo": true,
  "voz_clonada": true,
- "duracao_s": 45.1,
- "nota": "10/11: 1º do molde novo (explicação com imagens + voz clonada; avatar só no gancho, na resposta e no fecho, tirado do banco de falas, 0 crédito); série \"O que acontece quando você…\" pedida por ele"
+ "duracao_s": 44.6,
+ "nota": "10/11: 1º do molde novo (explicação com imagens + voz clonada; avatar só no gancho, na resposta e no fecho, tirado do banco de falas, 0 crédito); série \"O que acontece quando você…\" pedida por ele; v2 13h30: pausa do gancho aparada, boca do fecho sem repetir (rosto e som do mesmo arquivo), pergunta da série falada, itens no meio da tela",
+ "agendado_metricool": {
+  "id": 423318122,
+  "para": "2026-11-10T19:00:00-03:00",
+  "tipo": "TRIAL_REEL",
+  "isAiGenerated": true,
+  "tiktok": {
+   "id": 423318227,
+   "para": "2026-11-10T19:40:00-03:00",
+   "isAigc": true
+  },
+  "sha": "78ed15692d5060de25db99f70f280507c70318d3"
+ }
 }
