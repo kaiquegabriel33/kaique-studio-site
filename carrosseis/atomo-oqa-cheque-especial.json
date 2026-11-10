@@ -1,0 +1,45 @@
+{
+ "id": "atomo-oqa-cheque-especial",
+ "titulo": "O que acontece quando você entra no cheque especial",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-10T17:32:44",
+ "atualizado": "2026-11-10T17:32:44",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Cheque especial é o empréstimo mais fácil de pegar e um dos mais caros de manter."
+    }
+   ]
+  }
+ ],
+ "legenda": "Cheque especial é o empréstimo mais fácil de pegar e um dos mais caros de manter.\n\nEm setembro, o juro médio foi de 7,53% ao mês, segundo o Banco Central. R$ 1.000 no vermelho por um mês custam cerca de R$ 75 de juro; em 12 meses, viram uns R$ 2.390 (conta nossa, juro composto, sem IOF).\n\nDesde 6 de janeiro de 2020, o juro do cheque especial de pessoas físicas e MEIs tem teto de 8% ao mês (Resolução CMN 4.765/2019). Nos maiores bancos, a pesquisa do Procon-SP de maio mostrava a taxa parada nesse teto.\n\nNo mesmo mês de setembro, o consignado custou em média 2,11% ao mês, menos de um terço. Crédito pessoal sem consignação varia muito de banco pra banco: vale pedir a taxa antes de trocar.\n\nConteúdo educativo, não é recomendação de investimento.\n\nImagens: saguão de caixas eletrônicos: Rachmaninoff (CC BY-SA 4.0); sede do Banco Central: Banco Central do Brasil (CC BY 2.0); cédula de R$ 100: Banco Central (domínio público); cartões: Lotus Head (CC BY-SA 2.5); reprodução Seu Dinheiro e Correio da Manhã.\nFontes: Banco Central (séries 25463 e 25469, setembro de 2026), Resolução CMN 4.765/2019, Seu Dinheiro (27/11/2019), Procon-SP via Correio da Manhã (maio de 2026). Prints de tela.\n\n#chequeespecial #juros #dividas #consignado",
+ "fontes": [
+  {
+   "titulo": "Banco Central (séries 25463 e 25469"
+  },
+  {
+   "titulo": "setembro de 2026)"
+  },
+  {
+   "titulo": "Resolução CMN 4.765/2019"
+  },
+  {
+   "titulo": "Seu Dinheiro (27/11/2019)"
+  },
+  {
+   "titulo": "Procon-SP via Correio da Manhã (maio de 2026). Prints de tela."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 45.9,
+ "nota": "10/11: série \"O que acontece quando você…\", molde avatar nas pontas (falas do banco, 0 crédito), voz --jeito reel 1,2x"
+}
