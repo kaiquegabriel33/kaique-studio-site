@@ -1,0 +1,39 @@
+{
+ "id": "atomo-oqa-golpe-pix",
+ "titulo": "O que acontece quando você cai num golpe no Pix",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-10T19:47:28",
+ "atualizado": "2026-11-10T19:47:28",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Caiu num golpe no Pix? Existe um caminho oficial pra tentar recuperar: o Mecanismo Especial de Devolução (MED), do Banco"
+    }
+   ]
+  }
+ ],
+ "legenda": "Caiu num golpe no Pix? Existe um caminho oficial pra tentar recuperar: o Mecanismo Especial de Devolução (MED), do Banco Central.\n\nComo funciona: a vítima avisa o próprio banco, que aciona a instituição de quem recebeu; o valor que ainda estiver na conta é bloqueado e, confirmada a fraude, devolvido. O pedido pode ser feito em até 80 dias depois do Pix, mas o dinheiro costuma sair da conta do golpista em minutos: quanto antes, maior a chance.\n\nO MED vale pra golpe e fraude. Pix enviado por engano, arrependimento ou desacordo com o vendedor não entram: a devolução depende de quem recebeu.\n\nConteúdo educativo e informativo.\n\nImagens: mesas à noite: Unsplash; sede do Banco Central: Banco Central do Brasil (CC BY 2.0); cédula de R$ 100: Banco Central (domínio público); reprodução Jornal Opção.\nFontes: Banco Central (regras do MED), Jornal Opção e Mercado & Consumo (01/09/2026), Canaltech. Prints de tela.\n\n#pix #golpe #med #bancocentral",
+ "fontes": [
+  {
+   "titulo": "Banco Central (regras do MED)"
+  },
+  {
+   "titulo": "Jornal Opção e Mercado & Consumo (01/09/2026)"
+  },
+  {
+   "titulo": "Canaltech. Prints de tela."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 33.9,
+ "nota": "10/11 noite, para 11/11 (COTA CHEIA): série \"O que acontece quando você…\", molde avatar nas pontas (falas do banco, 0 crédito), voz --jeito reel 1,2x, trilha techno melódico. MED do Banco Central: 80 dias, bloqueio do saldo, não vale para Pix por engano. Diferenciação: print real + comparativo 80 dias × 1ª hora + o avatar dele respondendo \"A resposta curta é sim\"."
+}
