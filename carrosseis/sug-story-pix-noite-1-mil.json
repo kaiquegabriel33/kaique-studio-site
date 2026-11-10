@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-pix-noite-1-mil",
+  "titulo": "Story: Pix bate recorde, e à noite o teto padrão é R$ 1 mil (deixa baixo)",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Pix bateu recorde: 319,7 milhões num dia. Das 20h às 6h, o teto padrão é [[verde:R$ 1 mil]]. Deixa baixo: subir leva de 24 a 48 horas, e isso trava quem rouba teu celular."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-pix-noite-1-mil/print-valor-volume-diario-de-transacoes-com.png",
+          "h": 530,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-09T18:45:00-03:00",
+  "atualizado": "2026-11-09T18:45:00-03:00"
+}

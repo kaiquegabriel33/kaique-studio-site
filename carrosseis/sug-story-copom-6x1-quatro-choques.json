@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-copom-6x1-quatro-choques",
+  "titulo": "Story: ata do Copom põe o fim da 6x1 entre os 4 choques da inflação",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Banco Central pôs o [[verde:fim da escala 6x1]] na lista dos 4 choques que empurram a inflação, junto com o petróleo, o El Niño e o dólar. Na ata de hoje, o motivo é o custo do trabalho. E o recado vem colado: juros altos por mais tempo. Quem esperava crédito mais barato no começo de 2027 vai ter que esperar mais um pouco."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-copom-6x1-quatro-choques/print-agencia-brasil-ata-do-copom-indica-que-desacele.png",
+          "h": 471,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-10T13:25:00-03:00",
+  "atualizado": "2026-11-10T13:25:00-03:00"
+}

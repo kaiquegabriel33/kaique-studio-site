@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-gasolina-089-ate-9-dezembro",
+  "titulo": "Story: gasolina segue R$ 0,89 sem imposto federal até 9 de dezembro",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O litro da gasolina segue sem [[verde:R$ 0,89]] de imposto federal até 9 de dezembro. No tanque de 50 litros, são uns R$ 44. É a segunda renovação de 30 em 30 dias desde setembro: no orçamento de dezembro, eu não contaria com esse desconto."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-gasolina-089-ate-9-dezembro/print-infomoney-governo-prorroga-por-mais-30-dia.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-10T08:10:00-03:00",
+  "atualizado": "2026-11-10T08:10:00-03:00"
+}
