@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-dolar-558-juro-eua-dezembro",
+  "titulo": "Story: dólar sobe 1,47% num dia e 86% do mercado aposta em juro mais alto nos EUA em dezembro",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O dólar subiu [[vermelho:1,47%]] ontem e fechou em R$ 5,586. No mesmo dia, a inflação dos Estados Unidos saiu mais alta que o esperado, e 86% do mercado já aposta que o juro de lá sobe em 9 de dezembro. Eu não vou mudar todo meu plano por causa de um dia."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-dolar-558-juro-eua-dezembro/grafico-usd-brl-5d.png",
+          "h": 470,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-11T09:45:00-03:00",
+  "atualizado": "2026-11-11T09:45:00-03:00"
+}

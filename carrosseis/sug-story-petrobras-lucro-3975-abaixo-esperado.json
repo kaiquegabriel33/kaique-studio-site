@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-petrobras-lucro-3975-abaixo-esperado",
+  "titulo": "Story: Petrobras lucra R$ 39,8 bi no trimestre, mas o mercado esperava R$ 47 bi",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Petrobras lucrou [[verde:R$ 39,8 bilhões]] em três meses, 21,5% a mais que um ano atrás. Só que os analistas esperavam R$ 47 bilhões. Na bolsa, lucro alto que vem abaixo do esperado pode derrubar a ação no dia. Quem tem o papel recebe parte dos R$ 15,3 bilhões que a empresa vai distribuir em fevereiro e março."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-petrobras-lucro-3975-abaixo-esperado/print-agencia-brasil-petrobras-tem-lucro-de-r-39-8-bi.png",
+          "h": 380,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-11T09:45:00-03:00",
+  "atualizado": "2026-11-11T09:45:00-03:00"
+}

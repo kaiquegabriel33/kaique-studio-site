@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-petrobras-lucro-39-bi-dividendo-15-bi",
+  "titulo": "Story: Petrobras lucra R$ 39,8 bi no 3º trimestre e vai pagar R$ 15,3 bi aos acionistas",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A Petrobras lucrou [[verde:R$ 39,8 bilhões]] no 3º trimestre, 21,5% a mais que um ano atrás. Vai pagar R$ 15,3 bilhões aos acionistas, em fevereiro e março de 2027. O maior acionista é o governo, então uma fatia desse dinheiro cai no caixa da União."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-petrobras-lucro-39-bi-dividendo-15-bi/print-agencia-brasil-petrobras-tem-lucro-de-r-39-8-bi.png",
+          "h": 511,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-11T09:40:00-03:00",
+  "atualizado": "2026-11-11T09:40:00-03:00"
+}

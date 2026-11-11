@@ -1,0 +1,40 @@
+{
+  "id": "sug-story-dolar-5-58-maior-em-15-meses",
+  "titulo": "Story: dólar fecha a R$ 5,58, maior valor em 15 meses",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-dolar-5-58-maior-em-15-meses/parede-historia-do-dolar-jpg.png",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O dólar fechou a [[vermelho:R$ 5,58]] na terça (10/11), o maior valor desde julho de 2025. Subiu 5,2% em outubro e mais 2,6% só neste começo de novembro. Viagem, eletrônico e pãozinho sentem primeiro. Quem ganha e guarda tudo em real fica mais pobre lá fora sem fazer nada."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-dolar-5-58-maior-em-15-meses/print-agencia-brasil-dolar-sobe-1-46-e-fecha-no-maior.png",
+          "h": 471,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-11T09:50:00-03:00",
+  "atualizado": "2026-11-11T09:50:00-03:00"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "sug-video-alcolumbre-numero-sem-saber-o-texto",
+  "carrossel_id": "sug-video-alcolumbre-numero-sem-saber-o-texto",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "media",
+  "teste_reel": true,
+  "noticia_grande": true,
+  "criado": "2026-11-11T13:38:00-03:00",
+  "atualizado": "2026-11-11T13:38",
+  "fato_em": "2026-11-10T00:00:00-03:00",
+  "vence_em": "2026-11-12T23:59:00-03:00",
+  "titulo": "Alcolumbre sobre os números do ajuste fiscal: \"ninguém sabe o texto\" (vídeo)",
+  "para_quem": "quem viu a manchete do ajuste de R$ 80 bilhões e quer saber se já tem alguma coisa decidida",
+  "promessa": "a imprensa tá colocando vários números",
+  "paga_em": "ninguém sabe o texto",
+  "diferenciacao": "os dois cartões com o que a fala não diz (os números que saíram na imprensa, de R$ 50 bi a R$ 80 bi, e a previsão dele mesmo de o projeto chegar na semana que vem) e a legenda que separa o que foi anunciado do que é bastidor",
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "Presidente do Senado sobre os números do ajuste fiscal: ==\"ninguém sabe o texto\"==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "ninguém sabe o texto",
+    "inicio": "a imprensa tá colocando vários números",
+    "fim": "Esse é meu compromisso",
+    "texto": "Eu tô vendo que a imprensa tá colocando vários números. Mas eu não sei. Ninguém sabe o texto. Não sei como coloca número sem saber o texto. É incrível. Tem um compromisso do senhor de pautar assim que possível? Tem o compromisso de nós analisarmos no Congresso, porque todos nós, independente de sermos base do governo ou oposição, o parlamento precisa ter responsabilidade com o Brasil. Esse é meu compromisso.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "vários números",
+        "texto": "Na imprensa: de R$ 50 bi a R$ 80 bi em 2027"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "Tem o compromisso",
+        "texto": "Ele prevê o projeto no Senado na semana que vem"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "foco_x": 0.46
+  },
+  "trecho_txt": "UOL (YouTube), vídeo KlFdMs7hvls, fala de 10/11/2026 à noite; de 1:52 a 2:20 (28 s), transcrita no Whisper (bateu 93%; a legenda automática diz 'coloca número', o Whisper 'coloca números', por isso a aspa da manchete é 'ninguém sabe o texto', igual nas duas).",
+  "video_url": "https://www.youtube.com/watch?v=KlFdMs7hvls&t=107s",
+  "legenda": "O presidente do Senado disse que ninguém conhece o texto do ajuste fiscal. E os números já estão em todo lugar.\n\nO Davi Alcolumbre recebeu o ministro da Fazenda, Dario Durigan, em casa. Na saída, falou que só está sendo informado da negociação, que não sabe o que vai estar escrito no projeto e que não entende como já tem número sem ter texto.\n\nO que saiu na imprensa até agora: um aperto de 0,5% do PIB nas contas de 2027, algo entre R$ 50 bilhões e R$ 80 bilhões, dependendo de quem conta. O governo ainda não anunciou nada disso.\n\nO próprio Alcolumbre disse que o projeto deve chegar ao Senado na semana que vem e que o Congresso vai analisar.\n\nSem texto, o que existe por enquanto é promessa de ajuste. Vale o que estiver escrito quando o projeto chegar.\n\nVídeo: reprodução do UOL no YouTube (fala de 10/11/2026).\nFontes: UOL (11/11/2026); Agência Senado (10/11/2026); InfoMoney (11/11/2026).\n\n#ajustefiscal #senado #contaspublicas #economia",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Alcolumbre afirma compromisso de analisar projeto de lei de ajuste fiscal do governo (fala de 10/11/2026; trecho 1:50 a 2:20)",
+      "url": "https://www.youtube.com/watch?v=KlFdMs7hvls"
+    },
+    {
+      "titulo": "Agência Senado — Senadores negociam projeto de ajuste fiscal com Poder Executivo, diz Davi (10/11/2026)",
+      "url": "https://www12.senado.leg.br/noticias"
+    },
+    {
+      "titulo": "InfoMoney — Ibovespa Hoje Ao Vivo (11/11/2026): segundo a imprensa, pacote entre R$ 50 bilhões e R$ 80 bilhões; Reuters cita 0,5% do PIB para 2027, de fonte do governo; nada anunciado oficialmente",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11112026/"
+    }
+  ],
+  "motivo": "Confirmar antes: nada (fala ouvida no Whisper, números de 3 veículos)\n\nQuente do dia 13h15, força média. O ajuste fiscal de 2027 é a notícia de economia do dia (g1, Estadão, Folha, Reuters; a bolsa abriu reagindo a ela) e até as 10h20 só havia repórter falando. A fala apareceu: o presidente do Senado, que vai receber o projeto, dizendo que ninguém sabe o texto e que não entende de onde saem os números. Quente e pouco visto: 5,6 mil views no UOL e 7 mil no O Povo. Lição do resumo vivo: contradição no ar (manchete com R$ 80 bi × quem vai votar dizendo que não viu texto). Por que alguém manda: quem desconfia de pacote manda 'nem o presidente do Senado viu'; quem torce pelo ajuste manda pelo compromisso de analisar. Corte puro, Reel de teste, sem aprovação (regra de 05/11).",
+  "opiniao_sugerida": "Penúltimo parágrafo da legenda ('Sem texto, o que existe por enquanto é promessa de ajuste. Vale o que estiver escrito quando o projeto chegar.') é leitura nossa, ninguém disse.",
+  "versao": 1
+}
