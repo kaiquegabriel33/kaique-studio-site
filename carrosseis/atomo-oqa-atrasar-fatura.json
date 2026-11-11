@@ -1,0 +1,48 @@
+{
+ "id": "atomo-oqa-atrasar-fatura",
+ "titulo": "O que acontece quando você atrasa a fatura do cartão",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-11T10:17:17",
+ "atualizado": "2026-11-11T10:17:17",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Atrasou a fatura do cartão? A multa por atraso não pode passar de 2% do valor (Código de Defesa do Consumidor, art. 52, "
+    }
+   ]
+  }
+ ],
+ "legenda": "Atrasou a fatura do cartão? A multa por atraso não pode passar de 2% do valor (Código de Defesa do Consumidor, art. 52, § 1º). O peso vem dos juros: o rotativo cobrou em média 15,29% ao mês em setembro, segundo o Banco Central.\n\nO nome pode ser negativado, mas o registro tem que ser comunicado por escrito antes (CDC, art. 43). E desde 2024 há um teto: juros e encargos do rotativo e do parcelamento da fatura não podem passar de 100% da dívida original (Lei 14.690/2023). Quem devia R$ 1.000 paga no máximo R$ 2.000.\n\nO rotativo só vale até a fatura seguinte. Depois, o banco tem que oferecer o parcelamento em condições mais vantajosas (Resolução CMN 4.549/2017).\n\nConteúdo educativo e informativo.\n\nImagens: mesas à noite: Unsplash; cédula de R$ 100: Banco Central (domínio público); cartões: Lotus Head (CC BY-SA 2.5); sede do Banco Central: Banco Central do Brasil (CC BY 2.0).\nFontes: Lei 8.078/1990 (arts. 43 e 52), Banco Central (série do rotativo, SGS 25477, setembro de 2026), Lei 14.690/2023, Resolução CMN 4.549/2017.\n\n#cartaodecredito #fatura #juros #dividas",
+ "fontes": [
+  {
+   "titulo": "Lei 8.078/1990 (arts. 43 e 52)"
+  },
+  {
+   "titulo": "Banco Central (série do rotativo"
+  },
+  {
+   "titulo": "SGS 25477"
+  },
+  {
+   "titulo": "setembro de 2026)"
+  },
+  {
+   "titulo": "Lei 14.690/2023"
+  },
+  {
+   "titulo": "Resolução CMN 4.549/2017."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 31.8,
+ "nota": "11/11 manhã, para 12/11 (o PC vai para a assistência; COTA CHEIA): série \"O que acontece quando você…\", molde avatar nas pontas (falas do banco, 0 crédito), voz --jeito reel 1,2x. CDC arts. 43 e 52, rotativo 15,29% a.m. (BC, set/2026), Lei 14.690/2023, Res. CMN 4.549. Diferenciação: comparativo multa × juros + o teto em reais + o avatar dele respondendo \"A resposta curta é sim\"."
+}
