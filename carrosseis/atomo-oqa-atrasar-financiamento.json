@@ -1,0 +1,39 @@
+{
+ "id": "atomo-oqa-atrasar-financiamento",
+ "titulo": "O que acontece quando você atrasa a parcela do financiamento da casa",
+ "nota": "11/11, rodada Reels de teste das 11h20 (COTA CHEIA): série \"O que acontece quando você…\", molde avatar nas pontas (falas do banco, 0 crédito), voz --jeito reel 1,2x. Lei 9.514/1997 arts. 26, 26-A e 27 lidos no Planalto hoje. Diferenciação: os três prazos reais da lei na tela (15, 60 e +30 dias) + o avatar dele respondendo \"A resposta curta é sim\".",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-11T11:49:53",
+ "atualizado": "2026-11-11T11:49:53",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Atrasou a parcela do financiamento da casa? Quando o imóvel é a garantia do contrato (alienação fiduciária), a cobrança "
+    }
+   ]
+  }
+ ],
+ "legenda": "Atrasou a parcela do financiamento da casa? Quando o imóvel é a garantia do contrato (alienação fiduciária), a cobrança corre no cartório, sem processo na Justiça (Lei 9.514/1997).\n\nPassado o prazo de carência do contrato (15 dias, se ele não disser outro), o cartório de imóveis intima o devedor, que tem 15 dias pra pagar as parcelas vencidas e os encargos (art. 26). Sem pagamento, a propriedade passa pro nome do banco, que tem até 60 dias pra levar o imóvel a leilão (art. 27).\n\nNo financiamento da casa própria, a lei dá mais 30 dias depois do prazo da intimação: até lá, quem paga as parcelas vencidas e as despesas retoma o contrato (art. 26-A). Depois, o devedor ainda tem preferência pra recomprar o imóvel até o segundo leilão, pagando a dívida, as despesas e os impostos (art. 27, § 2º-B).\n\nConteúdo educativo e informativo.\n\nImagens: mesas à noite: Unsplash; cédula de R$ 100: Banco Central (domínio público); sede do Banco Central: Banco Central do Brasil (CC BY 2.0).\nFontes: Lei 9.514/1997 (arts. 26, 26-A e 27), com as mudanças da Lei 14.711/2023.\n\n#financiamento #casapropria #imovel #dividas",
+ "fontes": [
+  {
+   "titulo": "Lei 9.514/1997 (arts. 26"
+  },
+  {
+   "titulo": "26-A e 27)"
+  },
+  {
+   "titulo": "com as mudanças da Lei 14.711/2023."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 35.6
+}
