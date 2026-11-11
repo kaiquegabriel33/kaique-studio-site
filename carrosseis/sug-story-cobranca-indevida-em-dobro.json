@@ -1,0 +1,55 @@
+{
+  "id": "sug-story-cobranca-indevida-em-dobro",
+  "carrossel_id": "sug-story-cobranca-indevida-em-dobro",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: pagou cobrança que não devia? A lei manda devolver em dobro",
+  "criado": "2026-11-11T14:55:00-03:00",
+  "atualizado": "2026-11-11T14:55:00-03:00",
+  "vence_em": "2026-12-11T23:59:00-03:00",
+  "reserva": true,
+  "sempre_verde": true,
+  "forca": "media",
+  "papel_story": "educa",
+  "para_quem": "quem paga fatura de cartão, conta de celular ou tarifa de banco sem conferir linha por linha",
+  "comentario": "Abre a fatura ali e procura tarifa que você nem contratou. Se você pagou cobrança que não devia, o Código do Consumidor manda devolver em dobro o que foi pago a mais, com correção, a não ser que tenha sido engano justificável da empresa.",
+  "repost_url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-cobranca-indevida-em-dobro/fundo-mesa-cafe-caderno-jpg.png",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Abre a fatura ali e procura tarifa que você nem contratou. Se você pagou cobrança que não devia, o Código do Consumidor manda devolver [[verde:em dobro]] o que foi pago a mais, com correção, a não ser que tenha sido engano justificável da empresa."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Código de Defesa do Consumidor (Lei 8.078/1990), art. 42, parágrafo único, lido no texto compilado do Planalto em 11/11/2026: o consumidor cobrado em quantia indevida tem direito à devolução por valor igual ao dobro do que pagou em excesso, com correção monetária e juros legais, salvo hipótese de engano justificável",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    },
+    {
+      "titulo": "Foto de fundo: mesa de reunião dele, com café e caderno (biblioteca projetos/fotos-kaique, mesa-cafe-caderno-reuniao.jpg)",
+      "url": ""
+    }
+  ],
+  "motivo": "Prateleira story (4 de 12, abaixo da metade), reserva sempre-verde de direito do consumidor. Ideia da peça: quem paga sem conferir deixa dinheiro na mesa, e a lei devolve em dobro. Por que alguém manda: pra quem vive reclamando de tarifa do banco ou da operadora. Diferenciação: foto real da mesa de reunião dele e o fecho no jeito que ele já falou no vídeo da assinatura esquecida ('abre a fatura ali... procura'). Lição do resumo vivo: um número só (o dobro) e a ação prática.",
+  "confira_na_previa": [
+    "A lei fala em dobro do que foi PAGO a mais; cobrança indevida que você não pagou não gera o dobro.",
+    "'Engano justificável' é a exceção do próprio artigo; na prática quem decide é o Procon ou o juiz. O story não promete que todo caso devolve em dobro.",
+    "A foto mostra um caderno com a marca J.P. Morgan; se não quiser marca de terceiro no story, troca na prévia."
+  ],
+  "revisar_antes_da_voz": [],
+  "versao": 1
+}
