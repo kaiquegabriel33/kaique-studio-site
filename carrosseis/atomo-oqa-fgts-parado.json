@@ -1,0 +1,36 @@
+{
+ "id": "atomo-oqa-fgts-parado",
+ "titulo": "O que acontece quando o seu FGTS fica parado",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-11T10:22:48",
+ "atualizado": "2026-11-11T10:22:48",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "O FGTS rende, por lei, 3% ao ano mais a correção pela Taxa Referencial, a TR (Lei 8.036/1990, art. 13). De outubro de 20"
+    }
+   ]
+  }
+ ],
+ "legenda": "O FGTS rende, por lei, 3% ao ano mais a correção pela Taxa Referencial, a TR (Lei 8.036/1990, art. 13). De outubro de 2025 a setembro de 2026, isso deu perto de 5% (conta nossa: 3% mais a TR do período, de cerca de 2%, tirada da série da poupança do Banco Central). No mesmo período o CDI rendeu 14,47%, antes do imposto de renda.\n\nUma vez por ano o fundo distribui parte do resultado a quem tinha saldo em 31 de dezembro, o que melhora o rendimento. O saldo é garantido pelo governo federal.\n\nO saque só sai nas situações do art. 20 da lei, como demissão sem justa causa, compra da casa própria, aposentadoria, doença grave e saque-aniversário. Por isso o FGTS não substitui a reserva de emergência.\n\nConteúdo educativo, não é recomendação de investimento.\n\nImagens: mesas à noite: Unsplash; cédula de R$ 100: Banco Central (domínio público); sede do Banco Central: Banco Central do Brasil (CC BY 2.0).\nFontes: Lei 8.036/1990 (arts. 13 e 20), Banco Central (séries da poupança e do CDI).\n\n#fgts #rendafixa #reservadeemergencia #financaspessoais",
+ "fontes": [
+  {
+   "titulo": "Lei 8.036/1990 (arts. 13 e 20)"
+  },
+  {
+   "titulo": "Banco Central (séries da poupança e do CDI)."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 35.0,
+ "nota": "11/11 manhã, para 12/11 (o PC vai para a assistência; COTA CHEIA): série \"O que acontece quando você…\", molde avatar nas pontas (falas do banco, 0 crédito), voz --jeito reel 1,2x. Lei 8.036 arts. 13 e 20 lidos no Planalto; \"perto de 5%\" é conta nossa (3% + TR tirada da série da poupança). Diferenciação: comparativo FGTS × CDI com número do Banco Central + o avatar dele dizendo \"Percebe a ironia?\"."
+}
