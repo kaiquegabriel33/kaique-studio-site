@@ -1,0 +1,37 @@
+{
+  "id": "sug-story-poupanca-saques-8-88-bi-outubro",
+  "titulo": "Story: saiu R$ 8,88 bi a mais do que entrou na poupança em outubro; R$ 75,31 bi no ano",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil — Saques da poupança superam depósitos em R$ 8,88 bilhões em outubro (11/11/2026, 10h20; dados do Banco Central)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/saques-da-poupanca-superam-depositos-em-r-888-bilhoes-em-outubro"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Em outubro saiu mais dinheiro da poupança do que entrou: [[vermelho:R$ 8,88 bilhões]] a menos. No ano já são R$ 75,31 bilhões, e só maio fechou no positivo. Com a Selic em 13,75% ao ano, quem faz a conta leva o dinheiro pra outro lugar."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-poupanca-saques-8-88-bi-outubro/print-agencia-brasil-saques-da-poupanca-superam-depos.png",
+          "h": 511,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-11T13:50:00-03:00",
+  "atualizado": "2026-11-11T13:50:00-03:00"
+}
