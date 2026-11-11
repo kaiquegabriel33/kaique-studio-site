@@ -1,0 +1,33 @@
+{
+ "id": "atomo-oqa-vender-acoes-lucro",
+ "titulo": "O que acontece quando você vende ações com lucro",
+ "status": "pronto",
+ "formato": "video",
+ "criado": "2026-11-11T10:40:04",
+ "atualizado": "2026-11-11T10:40:04",
+ "slides": [
+  {
+   "papel": "vídeo",
+   "tema": "escuro",
+   "altura": 1920,
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "texto": "Vendeu ações com lucro? Para a pessoa física, no mercado à vista, o ganho é isento de imposto de renda quando o total da"
+    }
+   ]
+  }
+ ],
+ "legenda": "Vendeu ações com lucro? Para a pessoa física, no mercado à vista, o ganho é isento de imposto de renda quando o total das vendas no mês fica em até R$ 20.000 (Lei 11.033/2004, art. 3º, I).\n\nO limite é sobre o valor vendido, não sobre o lucro. Passou de R$ 20.000 em vendas no mês, o imposto é de 15% sobre todo o ganho do mês (art. 2º, II). No day trade, compra e venda no mesmo dia, a alíquota é de 20% (art. 2º, I).\n\nPor isso vale somar o que já foi vendido no mês antes de uma venda grande.\n\nConteúdo educativo, não é recomendação de investimento.\n\nImagens: mesas à noite: Unsplash; cédula de R$ 100: Banco Central (domínio público); sede do Banco Central: Banco Central do Brasil (CC BY 2.0).\nFontes: Lei 11.033/2004 (arts. 2º e 3º).\n\n#acoes #bolsa #impostoderenda #investimentos",
+ "fontes": [
+  {
+   "titulo": "Lei 11.033/2004 (arts. 2º e 3º)."
+  }
+ ],
+ "teste_reel": true,
+ "atomo": true,
+ "voz_clonada": true,
+ "duracao_s": 28.8,
+ "nota": "11/11 manhã, para a manhã de 13/11 (o PC vai para a assistência; COTA CHEIA): série \"O que acontece quando você…\", molde avatar nas pontas (falas do banco, 0 crédito), voz --jeito reel 1,2x. Lei 11.033/2004 arts. 2º e 3º (conferida pela rotina em 06/11). Diferenciação: comparativo isento × 15% + o avatar dele dizendo \"Presta atenção nisso\"."
+}
