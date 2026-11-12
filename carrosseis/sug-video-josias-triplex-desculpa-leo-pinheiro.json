@@ -1,16 +1,14 @@
 {
   "id": "sug-video-josias-triplex-desculpa-leo-pinheiro",
   "carrossel_id": "sug-video-josias-triplex-desculpa-leo-pinheiro",
-  "status": "pronto",
+  "status": "publicado",
   "formato": "video",
   "formato_corte": "tela_cheia_escura",
   "ab_formato": "puro-x-comentario",
   "forca": "media",
   "teste_reel": true,
-  "em_producao": true,
-  "trabalhando_desde": "2026-11-12T14:50:00-03:00",
   "criado": "2026-11-12T14:50:00-03:00",
-  "atualizado": "2026-11-12T14:56",
+  "atualizado": "2026-11-12T15:00:00-03:00",
   "fato_em": "2026-11-12T12:20:00-03:00",
   "vence_em": "2026-11-14T23:59:00-03:00",
   "a_partir_de": "2026-11-13T00:00:00-03:00",
@@ -98,5 +96,19 @@
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
   },
-  "noticia_grande": true
+  "noticia_grande": true,
+  "publicado_em": "2026-11-12T14:59:00-03:00",
+  "arquivo": "sug-video-josias-triplex-desculpa-leo-pinheiro-tela-cheia.mp4",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-josias-triplex-desculpa-leo-pinheiro",
+  "agendado_metricool": {
+    "id": 426030529,
+    "uuid": "-1782286631332264656",
+    "para": "2026-11-13T10:20:00-03:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-12T14:59:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-12T15:00:00-03:00",
+  "nota_corte": "PRONTO às 14:58 pela rodada Reels de teste (14h20): gravei o vídeo inteiro do UOL (506 s, anúncio em 401 s, antes do trecho), Whisper só na janela, fala bateu 93%, tela cheia escura 48,2 s. conferir_video: rosto inteiro em 90 de 90; 'não era o foro' repetido é da própria fala; 4 estalos de agudo. Termina em 'nesse caso, Sakamoto' (ele passa a palavra). auditar_cortes 0; sem_cara_de_ia 0. NÃO regravar nem remontar.",
+  "nota_lote": "AGENDADO no Metricool: Reel de teste 10:20 de 13/11 (id 426030529). Corte puro, sai sem aprovação (regra de 05/11). TikTok: não agendado (13/11 já tem TikTok às 10:20 e 11:40; sem 1h20 de folga na manhã). Não poste à mão nem agende de novo."
 }
