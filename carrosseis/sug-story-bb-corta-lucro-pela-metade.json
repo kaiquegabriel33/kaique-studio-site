@@ -1,0 +1,52 @@
+{
+  "id": "sug-story-bb-corta-lucro-pela-metade",
+  "titulo": "Story: Banco do Brasil corta a previsão de lucro de 2026 pela metade",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": false,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Banco do Brasil cortou a previsão de lucro de 2026 [[vermelho:pela metade]]: de 18 a 22 bi pra 9 a 11 bi. Em 2024 foram 37,9 bi. O banco do agro tá pagando a conta do agro que não paga."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bb-corta-lucro-pela-metade/print-seu-dinheiro-nco-do-brasil-bbas3-corta-guidan.png",
+          "h": 270,
+          "ajuste": "conter",
+          "raio": 18
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras",
+          "rotulos": [
+            "2024",
+            "2025",
+            "2026 (no máximo)"
+          ],
+          "valores": [
+            37.9,
+            20.7,
+            11
+          ],
+          "sufixo": " bi",
+          "casas": 1,
+          "destaques": [
+            2
+          ],
+          "h": 330
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-12T09:20:00-03:00",
+  "atualizado": "2026-11-12T09:20:00-03:00"
+}
