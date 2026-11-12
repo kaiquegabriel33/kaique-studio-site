@@ -1,0 +1,91 @@
+{
+  "ab_formato": "puro-x-comentario",
+  "carrossel_id": "sug-video-lindbergh-taxar-lci-lca-goela-abaixo",
+  "criado": "2026-11-12T09:50:00-03:00",
+  "cta": true,
+  "diferenciacao": "os dois cartões com o que a fala não diz (LCI e LCA hoje não pagam IR para pessoa física; o Senado pode votar o ajuste hoje) e a legenda que leva a briga para a carteira de quem tem LCI/LCA",
+  "fato_em": "2026-11-11T00:00:00-03:00",
+  "fontes": [
+    {
+      "titulo": "MyNews (YouTube) — Deputado petista diz a ministro de Lula que projeto fiscal pode \"rachar a base\" do governo (fala de 11/11/2026 na CMO; trecho 0:00 a 0:54, pela legenda automática)",
+      "url": "https://www.youtube.com/watch?v=vX-VnkSD2uk"
+    },
+    {
+      "titulo": "Jornal de Brasília (Folhapress, 11/11/2026, 18h34) — Deputado do PT diz a ministro que ajuste fiscal não pode ser 'goela abaixo': Lindbergh Farias (PT-RJ), líder do PT na Câmara, na Comissão Mista de Orçamento, ao ministro do Planejamento, Bruno Moretti; defendeu taxar LCI e LCA e subir a CSLL",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/deputado-do-pt-diz-a-ministro-que-ajuste-fiscal-nao-pode-ser-goela-abaixo/"
+    },
+    {
+      "titulo": "Lei 11.033/2004, art. 3º (isenção de IR de pessoa física em LCI, LCA, CRI e CRA)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11033.htm"
+    }
+  ],
+  "forca": "alta",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "id": "sug-video-lindbergh-taxar-lci-lca-goela-abaixo",
+  "legenda": "O líder do PT na Câmara quer taxar LCI e LCA. E avisou o governo: se o ajuste passar goela abaixo, a base racha.\n\nO Lindbergh Farias falou isso ontem na Comissão de Orçamento, na frente do ministro do Planejamento, Bruno Moretti. No lugar do corte de gastos, ele quer cobrar imposto de LCI, LCA, CRI e CRA e subir a CSLL dos bancos. Na conta dele, só os títulos dariam R$ 32 bilhões.\n\nHoje esses títulos não pagam imposto de renda pra pessoa física. Por isso o banco paga uma taxa menor que a do CDB e, muitas vezes, eles ainda rendem mais no fim.\n\nO Senado pode votar o ajuste ainda hoje. Quem tem LCI ou LCA na carteira tem motivo pra acompanhar essa conversa.\n\nVídeo: reprodução do MyNews no YouTube (fala de 11/11/2026).\nFontes: Folhapress via Jornal de Brasília (11/11/2026); Lei 11.033/2004 (art. 3º).\n\n#lci #lca #ajustefiscal #impostoderenda",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lindbergh-taxar-lci-lca-goela-abaixo",
+  "motivo": "Confirmar antes: LCI/LCA seguem isentas de IR (Lei 11.033)\n\nQuente do dia (9h15), corte puro, força alta: o líder do PT pedindo imposto em LCI/LCA no meio do ajuste fiscal que o Senado pode votar hoje. Vídeo do MyNews com 465 views/hora (4,3x a mediana do canal); a fala da LCI/LCA quase não aparece nas manchetes, que deram só o 'rachar a base'. Quem manda: quem tem LCI/LCA ('olha o que querem taxar') e quem é contra o governo ('até o PT reclama'). Lado fica com quem compartilha: nada de opinião nossa sobre o PT.\n\nA CONFERIR: (1) o R$ 32 bi é conta dele, dita na fala, sem fonte aberta; (2) a isenção de LCI/LCA/CRI/CRA para pessoa física vem da Lei 11.033/2004 (art. 3º); a MP de 2025 que taxava em 5% caducou; (3) a fala dele diz 'ministro' sem nome: a matéria da Folhapress diz que era o Moretti (Planejamento).",
+  "noticia_grande": true,
+  "opiniao_sugerida": "Último parágrafo da legenda ('Quem tem LCI ou LCA na carteira tem motivo pra acompanhar essa conversa.') é leitura nossa, ninguém disse.",
+  "paga_em": "os senhores vão rachar a nossa base parlamentar",
+  "para_quem": "quem tem LCI, LCA, CRI ou CRA e quem acompanha o ajuste fiscal",
+  "prioridade": 5,
+  "promessa": "Por que não taxar LCA, LCI, CRA, CRI?",
+  "publicado": false,
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "Líder do PT cobra o governo: por que não ==\"taxar LCA, LCI\"==? E avisa que a base racha",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "status": "publicado",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "teste_reel": true,
+  "titulo": "Líder do PT quer taxar LCI e LCA e avisa: ajuste goela abaixo racha a base (vídeo)",
+  "trecho": {
+    "aspa_manchete": "taxar LCA, LCI",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "LCA, LCI",
+        "texto": "Hoje LCI e LCA não pagam IR na pessoa física"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "goela abaixo",
+        "texto": "Senado pode votar o ajuste hoje (12/11)"
+      }
+    ],
+    "cta": true,
+    "encher": true,
+    "fim": "É esse apelo que eu faço aqui no dia de hoje",
+    "inicio": "Por que não em cima dos bilionários",
+    "texto": "Por que não em cima dos bilionários? Por que não taxar LCA, LCI, CRA, CRI? Sabe quanto dá isso, ministro? 32 bilhões. E é uma distorção no mercado de títulos da dívida pública, no mercado de renda fixa. Eu espero que os senhores tenham respeito com a base parlamentar que também elegeu o Lula. Se os senhores quiserem votar isso goela abaixo no Senado e na Câmara, os senhores vão rachar a nossa base parlamentar. Porque não queremos fazer sem discutir. Aqui não tem gado, não. Aqui tem gente que tem preocupação. Tem preocupação que o governo Lula dê certo. É esse apelo que eu faço aqui no dia de hoje."
+  },
+  "trecho_txt": "MyNews (YouTube), vídeo vX-VnkSD2uk, fala de 11/11/2026 na CMO; de 0:00 a ~0:54.",
+  "vence_em": "2026-11-13T23:59:00-03:00",
+  "versao": 1,
+  "video_url": "https://www.youtube.com/watch?v=vX-VnkSD2uk"
+}

@@ -8,10 +8,8 @@
   "forca": "media",
   "teste_reel": true,
   "noticia_grande": true,
-  "trabalhando_desde": "2026-11-12T09:20:00-03:00",
-  "em_producao": "Reels de teste 12/11 (rodada das 8h20)",
   "criado": "2026-11-12T09:20:00-03:00",
-  "atualizado": "2026-11-12T09:20",
+  "atualizado": "2026-11-12T09:28",
   "fato_em": "2026-11-11T17:26:00-03:00",
   "vence_em": "2026-11-13T23:59:00-03:00",
   "titulo": "Repórter do UOL: delegados do caso Master caíram depois de lançar relatório sobre ministros do STF sem aval da cúpula (vídeo)",
@@ -88,5 +86,20 @@
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
-  }
+  },
+  "agendado_metricool": {
+    "id": 425622223,
+    "uuid": "-4698338360158761670",
+    "para": "2026-11-12T10:20:00-03:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-12T09:27:00-03:00",
+    "tiktok": {
+      "id": 425622714,
+      "uuid": "711905768428359160",
+      "para": "2026-11-12T17:20:00-03:00"
+    }
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-12T09:28:00-03:00",
+  "nota_lote": "AGENDADO no Metricool: Reel de teste 10:20 de 12/11 e TikTok 17:20 de 12/11. Corte puro, sai sem aprovação (regra de 05/11). Não poste à mão."
 }
