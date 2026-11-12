@@ -1,0 +1,102 @@
+{
+  "id": "sug-video-josias-triplex-desculpa-leo-pinheiro",
+  "carrossel_id": "sug-video-josias-triplex-desculpa-leo-pinheiro",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "media",
+  "teste_reel": true,
+  "em_producao": true,
+  "trabalhando_desde": "2026-11-12T14:50:00-03:00",
+  "criado": "2026-11-12T14:50:00-03:00",
+  "atualizado": "2026-11-12T14:56",
+  "fato_em": "2026-11-12T12:20:00-03:00",
+  "vence_em": "2026-11-14T23:59:00-03:00",
+  "a_partir_de": "2026-11-13T00:00:00-03:00",
+  "titulo": "Josias de Souza (UOL) sobre Lula cobrar desculpa pelo tríplex: 'se alguém deve se desculpar é o Léo Pinheiro' (vídeo)",
+  "para_quem": "quem viu o Lula cobrando da imprensa pedido de desculpa pelo tríplex",
+  "promessa": "isso não representa uma sentença absolutória",
+  "paga_em": "se alguém deve se desculpar é o Léo Pinheiro",
+  "diferenciacao": "a resposta de um colunista ao pedido de desculpa do Lula, no dia seguinte ao corte do próprio Lula, com o que a Justiça decidiu de fato (prescrição em 2022, dinheiro do leilão para a OAS) e o outro lado na legenda",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Lula cobra desculpa pelo tríplex. Colunista: ==quem deve se desculpar é o Léo Pinheiro=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "se alguém deve se desculpar é o Léo Pinheiro",
+    "inicio": "E o que a Justiça decidiu",
+    "fim": "pedido de desculpas nesse caso",
+    "janela": [
+      444,
+      498
+    ],
+    "texto": "E o que a Justiça decidiu? Olha, não tem mais processo, a coisa prescreveu, então não faz sentido que esse dinheiro continue aqui bloqueado numa conta judicial. E aí devolveu o dinheiro para a OAS. Isso não representa uma sentença absolutória para o Lula, está do mesmo jeito que sempre esteve. O caso foi anulado, o Supremo concluiu que a 13ª Vara de Curitiba não era o foro adequado. O caso não foi julgado novamente porque prescreveu, então não me parece que o Lula acerta ao dizer que a imprensa deve um pedido de desculpas. Se alguém deve se desculpar é o Léo Pinheiro, amigo dele, que delatou, diz que reformou para ele o imóvel, então não cabe pedido de desculpas nesse caso.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "a coisa prescreveu",
+        "texto": "Em 2022 a Justiça do DF arquivou o caso por prescrição"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "Léo Pinheiro",
+        "texto": "Léo Pinheiro, ex-presidente da OAS, delatou a reforma do tríplex"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www.youtube.com/watch?v=ZnDRkq0w5Ws",
+  "cta": true,
+  "legenda": "Lula cobrou desculpa da imprensa pelo tríplex. O colunista Josias de Souza respondeu: quem deve é o Léo Pinheiro.\n\nO argumento dele: a Justiça mandou o dinheiro do leilão para a OAS porque não existe mais processo, e não porque Lula foi absolvido. O STF anulou a condenação em 2021 por entender que Curitiba não era o foro certo e que Moro foi parcial. Em janeiro de 2022 a Justiça do DF arquivou o caso por prescrição, a pedido do MPF.\n\nO outro lado: Lula sempre disse que o apartamento não era dele, e o imóvel nunca esteve no nome dele. Para o PT, a decisão desta semana confirma isso.\n\nVídeo: reprodução do UOL News no YouTube (12/11/2026).\nFontes: UOL (12/11/2026); Folha de S.Paulo, JOTA e Consultor Jurídico (28/01/2022); CNN Brasil e O Globo (07/12/2021); Folha de S.Paulo (10/11/2026).\n\n#lula #triplex #lavajato #imprensa",
+  "fontes": [
+    {
+      "titulo": "UOL News (YouTube) — Moro: 'Justiça não disse que triplex do Guarujá não era de Lula' (12/11/2026; fala de Josias de Souza de 7:24 a 8:14)",
+      "url": "https://www.youtube.com/watch?v=ZnDRkq0w5Ws"
+    },
+    {
+      "titulo": "Folha de S.Paulo (28/01/2022) — Justiça arquiva caso de tríplex de Guarujá atribuído a Lula",
+      "url": "https://news.google.com/rss/search?q=Justi%C3%A7a+arquiva+caso+de+tr%C3%ADplex+de+Guaruj%C3%A1+atribu%C3%ADdo+a+Lula"
+    },
+    {
+      "titulo": "Consultor Jurídico (28/01/2022) — Justiça do DF declara prescrição e arquiva ação do tríplex do Guarujá",
+      "url": "https://www.conjur.com.br/"
+    },
+    {
+      "titulo": "CNN Brasil (07/12/2021) — MPF cita prescrição de caso do tríplex contra Lula e pede arquivamento",
+      "url": "https://www.cnnbrasil.com.br/"
+    },
+    {
+      "titulo": "Folha de S.Paulo (10/11/2026) — Justiça manda entregar ao grupo OAS R$ 2,4 mi do leilão de tríplex atribuído a Lula pela Lava Jato",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbFU4eDF6blpsSmVDLVZFbFBGdnJIaDlGdFIzM2c5WUZ4eEhxeFVMa09La0xCSWVMUU50TmZ2RVFPalRuTXd3bzZiMERaUW05ZEF4b0dER1Joa1UzaUt2aldYdjBydG84Zjk5WTNoZkVSV3FDVTctRjZvMWJmSmsySnMtMXU5eXp2Tnlac1V4ZVZkVm1oWHVlUjFyaUtDZUlSa1ZaZDBOYXkxVWF4OFZTdE5yekc4anlvQ0t5dVVuRmF1ejVyc3N0UnkyeFQzMndEY21iVE1B?oc=5"
+    }
+  ],
+  "trecho_txt": "UOL News (YouTube), vídeo ZnDRkq0w5Ws, 12/11/2026; Josias de Souza de ~7:24 a ~8:14. Gravação inteira (506 s), troca de página por anúncio em 401 s, antes do trecho.",
+  "motivo": "Reels de teste 12/11 (rodada das 14h20), força média, para 13/11 10:20 (2ª versão da notícia do tríplex: só no dia seguinte ao corte do Lula das 14:20). Fonte 1/4: a resposta do colunista Josias de Souza (UOL) ao pedido de desculpa do Lula, em vídeo de hoje com 29 mil views em 2 h e quase sem corte. O Moro do título do vídeo não fala: a âncora só lê o post dele no X, por isso o corte é do Josias. Quem compartilha: quem acha que o Lula não foi inocentado (\"não foi absolvido, prescreveu\"); o outro lado (Lula e PT) na legenda. Opinião nenhuma atribuída ao Kaique.",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "noticia_grande": true
+}
