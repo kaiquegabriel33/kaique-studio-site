@@ -1,0 +1,92 @@
+{
+  "id": "sug-video-pf-relatorio-stf-sem-aval",
+  "carrossel_id": "sug-video-pf-relatorio-stf-sem-aval",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "media",
+  "teste_reel": true,
+  "noticia_grande": true,
+  "trabalhando_desde": "2026-11-12T09:20:00-03:00",
+  "em_producao": "Reels de teste 12/11 (rodada das 8h20)",
+  "criado": "2026-11-12T09:20:00-03:00",
+  "atualizado": "2026-11-12T09:20",
+  "fato_em": "2026-11-11T17:26:00-03:00",
+  "vence_em": "2026-11-13T23:59:00-03:00",
+  "titulo": "Repórter do UOL: delegados do caso Master caíram depois de lançar relatório sobre ministros do STF sem aval da cúpula (vídeo)",
+  "para_quem": "quem viu que a PF afastou os delegados do caso Master e não entendeu o porquê",
+  "promessa": "a gente apurou",
+  "paga_em": "sem o aval da chefia direta",
+  "diferenciacao": "o bastidor que pouca gente postou (apuração do UOL, 20 mil views) com os dois cartões do que já está confirmado em mais de um veículo e a legenda com a versão da PF",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Delegados do caso Master caíram depois de lançar relatório sobre ministros do STF ==sem o aval da cúpula==, diz apuração"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "sem o aval da chefia direta",
+    "inicio": "Agora a gente apurou",
+    "fim": "da própria direção geral da PF",
+    "texto": "Agora a gente apurou e tá agora saindo quentinho no nosso site uma apuração que mostra que a insatisfação da cúpula da PF com esses dois delegados veio depois que eles inseriram os relatórios sobre os ministros do STF, os três ministros envolvidos com o caso Master, no sistema, sem o aval da chefia direta, sem o aval do chefe da Dicor, a diretoria de combate ao crime organizado, e também da própria direção geral da PF.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "esses dois delegados",
+        "texto": "Os dois coordenavam os inquéritos do Master e do INSS"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "sem o aval",
+        "texto": "Senado convidou o ministro da Justiça e o diretor da PF"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www.youtube.com/watch?v=Qkz2xRfybd8&t=109s",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube) — Crise na PF: falta de aval da cúpula em relatório sobre ministros derrubou delegados, com Anita Prado (11/11/2026)",
+      "url": "https://www.youtube.com/watch?v=Qkz2xRfybd8"
+    },
+    {
+      "titulo": "Valor Econômico — PF afasta delegados que coordenavam inquéritos do Master e INSS"
+    },
+    {
+      "titulo": "O Globo — Exonerações de delegados do caso Master provocam guerra de versões na PF"
+    },
+    {
+      "titulo": "CNN Brasil — Senado aprova convites a ministro da Justiça e diretor da PF sobre Master; Band (Jornal da Band, 11/11/2026)"
+    }
+  ],
+  "legenda": "Delegados do caso Master caíram depois de pôr no sistema os relatórios sobre três ministros do STF sem o aval da cúpula.\n\nÉ o que apurou a repórter Anita Prado, do UOL.\n\nOs dois coordenavam os inquéritos do Master e do INSS e foram afastados no fim de semana. Os relatórios cruzam o que saiu do celular do Daniel Vorcaro com os ministros Nunes Marques, Dias Toffoli e Alexandre de Moraes.\n\nO outro lado: interlocutores da cúpula da PF dizem que o chefe direto já estava insatisfeito com os dois havia tempo. A mesma apuração lembra que delegado em cargo de chefia não precisa desse aval para pôr relatório no sistema.\n\nO Senado aprovou convite ao ministro da Justiça, ao diretor-geral da PF e aos dois delegados. A data prevista é 18/11, e convite pode ser recusado.\n\nVídeo: reprodução do UOL no YouTube (11/11/2026).\nFontes: UOL (11/11/2026); Valor Econômico; O Globo; CNN Brasil; Jornal da Band (11/11/2026).\n\n#policiafederal #casomaster #stf #brasilia",
+  "trecho_txt": "UOL (YouTube), vídeo Qkz2xRfybd8, Anita Prado em 11/11/2026; de 1:51 a 2:24 (33 s), Whisper bateu 100%. O nome do diretor da Dicor saiu da legenda na tela (grafia não conferida); a fala segue no áudio.",
+  "motivo": "Reels de teste 12/11 (rodada das 8h20, disparou 09:05), força média. Fonte 4 (fala forte de ontem): revelação de repórter que pouca gente postou (20 mil views no UOL); afastamento dos delegados e convite do Senado confirmados em Valor, O Globo, CNN e Band. Opinião nenhuma atribuída a ele.",
+  "arquivo": "sug-video-pf-relatorio-stf-sem-aval-tela-cheia.mp4",
+  "publicado_em": "2026-11-12T09:20:00-03:00",
+  "cta": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  }
+}
