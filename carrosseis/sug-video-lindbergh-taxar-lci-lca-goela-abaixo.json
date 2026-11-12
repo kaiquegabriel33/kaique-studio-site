@@ -41,7 +41,7 @@
           "corMarca": "#FFD700",
           "corTextoMarca": "#111111",
           "tam": 52,
-          "texto": "Líder do PT cobra o governo: por que não ==\"taxar LCA, LCI\"==? E avisa que a base racha",
+          "texto": "Líder do PT cobra o governo: por que não ==taxar LCA, LCI==? E avisa que a base racha",
           "tipo": "texto"
         },
         {
@@ -57,7 +57,7 @@
       "tema": "escuro"
     }
   ],
-  "status": "publicado",
+  "status": "pronto",
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
@@ -74,18 +74,25 @@
       },
       {
         "cor": "vermelho",
-        "desde": "goela abaixo",
+        "desde": "vão rachar a nossa base",
         "texto": "Senado pode votar o ajuste hoje (12/11)"
       }
     ],
     "cta": true,
+    "crop": [
+      1080,
+      970,
+      0,
+      270
+    ],
     "encher": true,
     "fim": "É esse apelo que eu faço aqui no dia de hoje",
     "inicio": "Por que não em cima dos bilionários",
-    "texto": "Por que não em cima dos bilionários? Por que não taxar LCA, LCI, CRA, CRI? Sabe quanto dá isso, ministro? 32 bilhões. E é uma distorção no mercado de títulos da dívida pública, no mercado de renda fixa. Eu espero que os senhores tenham respeito com a base parlamentar que também elegeu o Lula. Se os senhores quiserem votar isso goela abaixo no Senado e na Câmara, os senhores vão rachar a nossa base parlamentar. Porque não queremos fazer sem discutir. Aqui não tem gado, não. Aqui tem gente que tem preocupação. Tem preocupação que o governo Lula dê certo. É esse apelo que eu faço aqui no dia de hoje."
+    "texto": "Por que não ir em cima dos bilionários? Por que não taxar LCA, LCI, CRA, CRI? Sabe quanto é isso, ministro? 32 bilhões. Tem uma distorção no mercado de títulos da dívida pública, no mercado de renda fixa. Eu espero que os senhores tenham respeito com a base parlamentar também que elegeu o Lula. Se os senhores quiserem votar isso goela abaixo no Senado e na Câmara, os senhores vão rachar a nossa base parlamentar. Porque não queremos fazer sem discutir. Aqui não tem gado, não. Aqui tem gente que tem preocupação. Tem preocupação que o governo Lula dê certo. É esse apelo que eu faço aqui no dia de hoje."
   },
   "trecho_txt": "MyNews (YouTube), vídeo vX-VnkSD2uk, fala de 11/11/2026 na CMO; de 0:00 a ~0:54.",
   "vence_em": "2026-11-13T23:59:00-03:00",
   "versao": 1,
-  "video_url": "https://www.youtube.com/watch?v=vX-VnkSD2uk"
+  "video_url": "https://www.youtube.com/watch?v=vX-VnkSD2uk",
+  "atualizado": "2026-11-12T09:50"
 }
