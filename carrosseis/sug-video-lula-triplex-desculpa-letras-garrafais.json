@@ -1,9 +1,7 @@
 {
   "id": "sug-video-lula-triplex-desculpa-letras-garrafais",
   "carrossel_id": "sug-video-lula-triplex-desculpa-letras-garrafais",
-  "status": "pronto",
-  "em_producao": true,
-  "trabalhando_desde": "2026-11-12T11:35:00-03:00",
+  "status": "publicado",
   "formato": "video",
   "formato_corte": "tela_cheia_escura",
   "ab_formato": "puro-x-comentario",
@@ -11,7 +9,7 @@
   "teste_reel": true,
   "noticia_grande": true,
   "criado": "2026-11-12T11:35:00-03:00",
-  "atualizado": "2026-11-12T11:50:00-03:00",
+  "atualizado": "2026-11-12T11:46:00-03:00",
   "fato_em": "2026-11-12T10:45:00-03:00",
   "vence_em": "2026-11-13T23:59:00-03:00",
   "titulo": "Lula na live da COP31: cobra da imprensa pedido de desculpa pelo tríplex 'em letras garrafais' (vídeo)",
@@ -97,5 +95,19 @@
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
-  }
+  },
+  "publicado_em": "2026-11-12T11:44:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-triplex-desculpa-letras-garrafais",
+  "agendado_metricool": {
+    "id": 425782081,
+    "uuid": "-314293682341591641",
+    "para": "2026-11-12T14:20:00-03:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-12T11:44:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-12T11:45:00-03:00",
+  "motivo": "Reels de teste 12/11 (rodada das 11h20), força alta. Fonte 1 (fala quente de hoje): Lula na live do canal dele na COP31 (288 mil views/h, 137x a mediana do canal no radar), cobrando da imprensa pedido de desculpa pelo tríplex. Decisão da Justiça sobre o dinheiro do leilão conferida em Folha, CNN, VEJA, ConJur e g1. Quem compartilha: quem defende o Lula (\"cadê a desculpa?\") e quem critica (\"não foi absolvido, o processo foi anulado\"): o outro lado está na legenda. Opinião nenhuma atribuída ao Kaique.",
+  "nota_corte": "PRONTO às 11:40 pela rodada Reels de teste (11h20): gravei a tela da live (14:51, 58 s, troca de página por anúncio em 15:24 sem perda de fala), montei (enquadramento aberto, rosto inteiro em 91 de 91 momentos), tela cheia escura (49,6 s). conferir_video: 3 REPETIÇÕES que são da própria fala, pausas naturais, 1 estalo em 0:23,9, pico -0,9 dB, faixa preta do CTA. auditar_cortes 0; sem_cara_de_ia 0. NÃO regravar nem remontar.",
+  "nota_lote": "AGENDADO no Metricool: Reel de teste 14:20 de 12/11 (id 425782081). Corte puro, sai sem aprovação (regra de 05/11). TikTok: não agendado (cota de 10 em 24 h fechada pela rodada da manhã; 16:00, 17:20 e 18:40 já ocupados). Não poste à mão nem agende de novo."
 }
