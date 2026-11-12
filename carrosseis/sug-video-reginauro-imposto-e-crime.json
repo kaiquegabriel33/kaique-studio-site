@@ -1,0 +1,106 @@
+{
+  "id": "sug-video-reginauro-imposto-e-crime",
+  "carrossel_id": "sug-video-reginauro-imposto-e-crime",
+  "status": "publicado",
+  "publicado_em": "2026-11-12T14:50:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-reginauro-imposto-e-crime",
+  "arquivo": "sug-video-reginauro-imposto-e-crime-tela-cheia.mp4",
+  "capa_id": "2fb21125fdb7fe589c471eeaea539933",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "motivo": "ESTOQUE SEMPRE-VERDE (Produção 12/11, 14h): estava 0 de 6. Corte puro de fonte oficial (TV Senado, eu baixo, sem gravar tela), força média: palavra forte no bolso (imposto + taxa do crime) com cena de gente comum (água, internet, gás de cozinha), mas senador pouco conhecido. Lição do resumo vivo: bolso + frase forte anda; quente e pouco visto (fala de plenário de 10/11 que não achei cortada). Quem compartilha: comerciante e morador de bairro onde facção cobra taxa, e quem reclama do imposto ('paga ao Estado e ainda paga ao crime'). Não envelhece: a fala não tem 'hoje' nem placar (tem um 'agora' no sentido de 'além disso'); o caso de Banabuiú vai com data fixa (nov/2026) no cartão e na legenda. Fatos conferidos em Diário do Nordeste e O Povo. Opinião nenhuma atribuída ao Kaique.",
+  "nota_corte": "PRONTO às 14:35 pela Produção (14h): vídeo oficial da TV Senado em 1080p, Plenário de 10/11/2026, fala 4 do Sargento Reginauro (PSDB-CE), de 'A água mineral, num estado' até 'com o gás de cozinha', sem mudar o sentido. Tela cheia escura, 48,9 s, gancho automático 'negou a pagar propina para o crime', 2 cartões (Banabuiú e 10 presos), CTA 'Segue pra ver o próximo corte.', trilha dark tension baixinha. conferir_video: rosto inteiro em 81 de 81; 2 estalos (0:15,4 e 0:42,9) e a REPETIÇÃO 'isso está acontecendo com' é da própria fala. auditar_cortes 0; sem_cara_de_ia 0; conferir_visual --texto ok. Tela cheia corta o logo da TV Senado (crédito na legenda, como no Zenaide). Ninguém ouviu: conferido por transcrição e folha de quadros.",
+  "nota_lote": "RESERVA do estoque sempre-verde: a rotina Reels de teste puxa depois das 14h quando faltar pauta quente. Vídeo em site/postar/sug-video-reginauro-imposto-e-crime/video.mp4 (46 MB, maior que o limite de 20 MB da Central). Não poste à mão.",
+  "prioridade": 5,
+  "versao": 1,
+  "video_partes": [],
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "media",
+  "teste_reel": true,
+  "sempre_verde": true,
+  "reserva": true,
+  "atemporal": true,
+  "criado": "2026-11-12T14:40:00-03:00",
+  "atualizado": "2026-11-12T14:35",
+  "fato_em": "2026-11-10T14:00:00-03:00",
+  "titulo": "Sargento Reginauro, senador: além do imposto, o empresário tem que pagar o crime organizado (água, internet, gás) (TV Senado)",
+  "para_quem": "quem tem comércio ou mora em bairro onde facção manda em água, gás e internet",
+  "promessa": "A água mineral, num estado que já padece de seca no interior",
+  "paga_em": "o empresário vai ter que pagar ao crime organizado",
+  "diferenciacao": "fala de plenário que quase ninguém cortou, com o caso real de Banabuiú (CE) no cartão: facção mandou parar a venda de água e a Cagece levou garrafão com escolta da PM",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Senador: além do imposto, ==o empresário tem que pagar o crime organizado=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "o empresário vai ter que pagar ao crime organizado",
+    "inicio": "A água mineral, num estado",
+    "fim": "com o gás de cozinha",
+    "texto": "A água mineral, num estado que já padece de seca no interior, para o cidadão comprar, o crime organizado está dizendo \"Não compre de ninguém enquanto nós não autorizarmos\", porque o empresário se negou a pagar propina para o crime. Além da alta taxa de juros, da carga de juros, de impostos, aliás, que se paga ao Estado, agora o empreendedor, o empresário vai ter que pagar ao crime organizado. Isso acontece com a água, isso está acontecendo com a internet, isso está acontecendo com o gás de cozinha.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "A água mineral",
+        "texto": "Banabuiú (CE), nov/2026: facção mandou parar a venda de água; a PM escoltou a entrega"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "pagar ao crime organizado",
+        "texto": "Polícia Civil: 10 presos por extorquir vendedores de água em Banabuiú"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www12.senado.leg.br/multimidia/evento/159962",
+  "cta": true,
+  "legenda": "Além do imposto que paga ao Estado, tem comerciante pagando uma segunda taxa: a do crime.\n\nFoi o senador Sargento Reginauro (PSDB-CE), no plenário do Senado, em 10/11/2026.\n\nO caso que ele cita é real. Em Banabuiú, no Sertão Central do Ceará, distribuidoras de água pararam de vender depois de ameaça atribuída ao Comando Vermelho, no fim de outubro de 2026. A Cagece levou cerca de mil garrafões para a cidade com escolta da Polícia Militar, e a Polícia Civil chegou a 10 presos por extorsão até 06/11.\n\nNão foi o primeiro: em maio de 2026, comerciantes de água de Cariré (CE) também denunciaram cobrança de \"taxa\" da facção.\n\nVídeo: TV Senado (10/11/2026). Fontes: notas taquigráficas do Senado; Diário do Nordeste (31/10 e 06/11/2026); O Povo (07/05 e 05/11/2026).\n\n#crimeorganizado #imposto #ceara #empreendedor",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — Plenário, 145ª Sessão Deliberativa Ordinária (10/11/2026), fala 4 (Sargento Reginauro, PSDB-CE): vídeo oficial e notas taquigráficas",
+      "url": "https://www12.senado.leg.br/multimidia/evento/159962"
+    },
+    {
+      "titulo": "Diário do Nordeste — Após ameaça de facção suspender venda de água, Cagece leva mil garrafões a Banabuiú sob escolta",
+      "url": "https://diariodonordeste.verdesmares.com.br/seguranca/apos-ameaca-de-faccao-suspender-venda-de-agua-cagece-leva-mil-garrafoes-a-banabuiu-sob-escolta-1.3802737"
+    },
+    {
+      "titulo": "O Povo (05/11/2026) — Extorsões a distribuidoras de água em Banabuiú: chega a 10 o número de presos",
+      "url": "https://mais.opovo.com.br/jornal/cidades/2026/11/05/extorsoes-a-distribuidoras-de-agua-em-banabuiu-chega-a-10-o-numero-de-presos.html"
+    },
+    {
+      "titulo": "Diário do Nordeste (06/11/2026) — Polícia Militar escolta caminhão de distribuidora de água em Fortaleza",
+      "url": "https://diariodonordeste.verdesmares.com.br/seguranca/policia-militar-escolta-caminhao-de-distribuidora-de-agua-em-fortaleza-1.3803984"
+    },
+    {
+      "titulo": "O Povo (07/05/2026) — Comando Vermelho cobra \"taxas\" de comerciantes de água em Cariré",
+      "url": "https://www.opovo.com.br/noticias/seguranca-publica/2026/05/07/comando-vermelho-cobra-taxas-de-comerciantes-de-agua-em-carire.html"
+    }
+  ],
+  "trecho_txt": "TV Senado, Plenário (10/11/2026), 145ª Sessão Deliberativa Ordinária, fala 4 do senador Sargento Reginauro (PSDB-CE)",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  }
+}
