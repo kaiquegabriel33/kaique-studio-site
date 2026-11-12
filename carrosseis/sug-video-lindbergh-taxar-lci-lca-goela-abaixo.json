@@ -1,5 +1,30 @@
 {
   "ab_formato": "puro-x-comentario",
+  "agendado_metricool": {
+    "em": "2026-11-12T10:01:00-03:00",
+    "id": 425659070,
+    "para": "2026-11-12T13:40:00-03:00",
+    "tiktok": {
+      "id": 425659329,
+      "para": "2026-11-12T18:40:00-03:00",
+      "uuid": "-7253634847679231638"
+    },
+    "tipo": "TRIAL_REEL",
+    "uuid": "6318105609012529613"
+  },
+  "agendado_tiktok": {
+    "em": "2026-11-12T10:01:00-03:00",
+    "id": 425659329,
+    "para": "2026-11-12T18:40:00-03:00",
+    "uuid": "-7253634847679231638"
+  },
+  "arquivo": "sug-video-lindbergh-taxar-lci-lca-goela-abaixo-tela-cheia.mp4",
+  "atualizado": "2026-11-12T10:02:00-03:00",
+  "capa_id": "59c860ab5f34bdcf5dfd34b97bd96d92",
+  "video_final_id": "062c9d885b5abc2eb6b238bc2e87956c",
+  "nota_corte": "PRONTO às 09:58 pela rodada Quente do dia (9h15): gravei a tela do MyNews (vídeo em pé de 66 s, 0 a 62 s), montei sem girar (o giro automático deitou o vídeo), recorte [1080, 970, 0, 270] para tirar o logo e a tarja do canal, tela cheia escura (55 s). Whisper errou 'goela abaixo', 'dívida', 'gado', 'apelo' e 'Porque não queremos': corrigi na transcricao.json pela legenda do YouTube. conferir_video: 1 rosto cortado de 0:50,8 a 0:52,8 (é a imagem do ministro na edição da origem) e a faixa escura do fim (CTA). auditar_cortes: 0 pontos. NÃO regravar nem remontar.",
+  "nota_lote": "AGENDADO no Metricool: Reel de teste 13:40 de 12/11 e TikTok 18:40 (a vaga das 10:20 e a do TikTok 17:20 já eram do corte da PF/STF). Corte puro, sai sem aprovação (regra de 05/11). Não poste à mão nem agende de novo. Mídia já em static.metricool.com; marcador midia_no_metricool ainda não gravado.",
+  "publicado_em": "2026-11-12T10:01:00-03:00",
   "carrossel_id": "sug-video-lindbergh-taxar-lci-lca-goela-abaixo",
   "criado": "2026-11-12T09:50:00-03:00",
   "cta": true,
@@ -23,7 +48,7 @@
   "formato": "video",
   "formato_corte": "tela_cheia_escura",
   "id": "sug-video-lindbergh-taxar-lci-lca-goela-abaixo",
-  "legenda": "O líder do PT na Câmara quer taxar LCI e LCA. E avisou o governo: se o ajuste passar goela abaixo, a base racha.\n\nO Lindbergh Farias falou isso ontem na Comissão de Orçamento, na frente do ministro do Planejamento, Bruno Moretti. No lugar do corte de gastos, ele quer cobrar imposto de LCI, LCA, CRI e CRA e subir a CSLL dos bancos. Na conta dele, só os títulos dariam R$ 32 bilhões.\n\nHoje esses títulos não pagam imposto de renda pra pessoa física. Por isso o banco paga uma taxa menor que a do CDB e, muitas vezes, eles ainda rendem mais no fim.\n\nO Senado pode votar o ajuste ainda hoje. Quem tem LCI ou LCA na carteira tem motivo pra acompanhar essa conversa.\n\nVídeo: reprodução do MyNews no YouTube (fala de 11/11/2026).\nFontes: Folhapress via Jornal de Brasília (11/11/2026); Lei 11.033/2004 (art. 3º).\n\n#lci #lca #ajustefiscal #impostoderenda",
+  "legenda": "O líder do PT na Câmara quer taxar LCI e LCA. E avisou o governo: se o ajuste passar goela abaixo, a base racha.\n\nO Lindbergh Farias falou isso em 11/11 na Comissão de Orçamento, na frente do ministro do Planejamento, Bruno Moretti. No lugar do corte de gastos, ele quer cobrar imposto de LCI, LCA, CRI e CRA e subir a CSLL dos bancos. Na conta dele, só os títulos dariam R$ 32 bilhões.\n\nHoje esses títulos não pagam imposto de renda pra pessoa física. Por isso o banco paga uma taxa menor que a do CDB e, muitas vezes, eles ainda rendem mais no fim.\n\nO Senado pode votar o ajuste nesta quinta (12/11). Quem tem LCI ou LCA na carteira tem motivo pra acompanhar essa conversa.\n\nVídeo: reprodução do MyNews no YouTube (fala de 11/11/2026).\nFontes: Folhapress via Jornal de Brasília (11/11/2026); Lei 11.033/2004 (art. 3º).\n\n#lci #lca #ajustefiscal #impostoderenda",
   "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lindbergh-taxar-lci-lca-goela-abaixo",
   "motivo": "Confirmar antes: LCI/LCA seguem isentas de IR (Lei 11.033)\n\nQuente do dia (9h15), corte puro, força alta: o líder do PT pedindo imposto em LCI/LCA no meio do ajuste fiscal que o Senado pode votar hoje. Vídeo do MyNews com 465 views/hora (4,3x a mediana do canal); a fala da LCI/LCA quase não aparece nas manchetes, que deram só o 'rachar a base'. Quem manda: quem tem LCI/LCA ('olha o que querem taxar') e quem é contra o governo ('até o PT reclama'). Lado fica com quem compartilha: nada de opinião nossa sobre o PT.\n\nA CONFERIR: (1) o R$ 32 bi é conta dele, dita na fala, sem fonte aberta; (2) a isenção de LCI/LCA/CRI/CRA para pessoa física vem da Lei 11.033/2004 (art. 3º); a MP de 2025 que taxava em 5% caducou; (3) a fala dele diz 'ministro' sem nome: a matéria da Folhapress diz que era o Moretti (Planejamento).",
   "noticia_grande": true,
@@ -32,7 +57,7 @@
   "para_quem": "quem tem LCI, LCA, CRI ou CRA e quem acompanha o ajuste fiscal",
   "prioridade": 5,
   "promessa": "Por que não taxar LCA, LCI, CRA, CRI?",
-  "publicado": false,
+  "publicado": true,
   "slides": [
     {
       "altura": 1920,
@@ -57,7 +82,7 @@
       "tema": "escuro"
     }
   ],
-  "status": "pronto",
+  "status": "publicado",
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
