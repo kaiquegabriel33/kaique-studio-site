@@ -1,0 +1,94 @@
+{
+  "id": "sug-video-marinho-ajuste-calote",
+  "carrossel_id": "sug-video-marinho-ajuste-calote",
+  "status": "publicado",
+  "publicado_em": "2026-11-13T05:45:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-marinho-ajuste-calote",
+  "arquivo": "sug-video-marinho-ajuste-calote-tela-cheia.mp4",
+  "capa_id": "5788b650bb831a2a3f02ecdaf5b333e9",
+  "nota_corte": "PRONTO às 05:45 de 13/11 pela Produção (rodada de 12/11 19h; a montagem demorou a noite): vídeo oficial da TV Senado em 1080p, Plenário de 12/11/2026, fala 12 do Rogério Marinho (PL-RN), de 'Nós estamos tratando de uma adequação fiscal' até 'aqui não tem nenhum ajuste fiscal', sem mudar o sentido. Tela cheia escura, 59,8 s, 2 cartões (Lei Kandir R$ 4 bi para R$ 1 bi; 45 a 31 no Senado), CTA 'Pouca gente está de olho...', trilha news baixinha. conferir_video: rosto inteiro em 95 de 102; estalos leves e as REPETIÇÕES 'Nós estamos falando de' são da própria fala (retórica); pele um pouco rosada é a luz do plenário (vídeo SDR da TV Senado, não HDR); faixa escura de 0:57 a 1:00 é a tela do CTA. auditar_cortes 0; sem_cara_de_ia 0; conferir_visual --texto ok. Vídeo de 49 MB (acima do limite de asset da Central): sem video_final_id; está em projetos/videos/sug-video-marinho-ajuste-calote-corte/. Ninguém ouviu: conferido por transcrição e folha de quadros.",
+  "nota_lote": "PRONTO, NÃO AGENDADO. Reel de teste para a TARDE de 13/11 (13:00 em diante), nunca colado no Moretti das 9:00 (mesmo assunto, o outro lado). Corte puro, sai sem aprovação (regra de 05/11). Agendar copiando o -tela-cheia.mp4 para site/postar/<id>/video.mp4.",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "motivo": "Produção 12/11, 19h: prateleira vídeo 0 de 10. Corte puro de fonte oficial (TV Senado, eu baixo), força média: palavra forte no bolso ('calote', 'pedalada', 'estelionato') de líder da oposição, no dia em que o Senado aprovou o texto principal do ajuste (45 a 31). É o OUTRO LADO do Moretti (Reel de teste 13/11 9:00): sair à tarde de 13/11 (13:00 ou depois), nunca colado no Moretti. Quem compartilha: quem acha que o ajuste é só imposto e conta para os estados, e quem quer mostrar o que a oposição disse. Lição do resumo vivo: palavra forte no bolso + fato do dia. Fatos conferidos no Senado Notícias (12/11). Opinião nenhuma atribuída ao Kaique.",
+  "prioridade": 4,
+  "versao": 1,
+  "video_partes": [],
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "media",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-12T19:30:00-03:00",
+  "atualizado": "2026-11-12T19:30",
+  "fato_em": "2026-11-12T16:00:00-03:00",
+  "vence_em": "2026-11-14T23:59:00-03:00",
+  "titulo": "Rogério Marinho, líder da oposição: o ajuste fiscal é calote nos estados, não tem nenhum ajuste (TV Senado)",
+  "para_quem": "quem paga imposto e quem mora em estado que depende de repasse da União",
+  "promessa": "Nós estamos tratando de uma adequação fiscal, que se assevera, na verdade, como um calote",
+  "paga_em": "aqui não tem nenhum ajuste fiscal",
+  "diferenciacao": "fala de plenário do dia da votação com o número que a fala não diz no cartão: repasse da Lei Kandir aos estados cai de R$ 4 bi para R$ 1 bi por ano",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Líder da oposição: ==aqui não tem nenhum ajuste fiscal=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "aqui não tem nenhum ajuste fiscal",
+    "inicio": "Nós estamos tratando de uma adequação fiscal",
+    "fim": "aqui não tem nenhum ajuste fiscal",
+    "texto": "Nós estamos tratando de uma adequação fiscal, que se assevera, na verdade, como um calote, e se espera que se tirem da meta primária os R$10,5 bilhões de subsídio. Ninguém é contra, mas é necessário que se encontre espaço no Orçamento. Nós estamos falando de aumento de impostos... Nós estamos falando de cortes de despesas? Não. Nós estamos falando de calote nos estados, que vão ter dificuldade, inclusive, de fazerem ou refazerem os seus orçamentos com a supressão de receitas na questão da Lei Kandir e da compensação previdenciária. Nós estamos falando de uma pedalada. Nós estamos falando de uma espécie de estelionato, porque é dito à sociedade que está se fazendo um ajuste fiscal, e aqui não tem nenhum ajuste fiscal.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "calote nos estados",
+        "texto": "Lei Kandir: repasse aos estados cai de R$ 4 bi para R$ 1 bi por ano até 2030"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "uma pedalada",
+        "texto": "12/11: Senado aprovou o texto principal por 45 a 31; segue para a Câmara"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www12.senado.leg.br/multimidia/evento/160100",
+  "cta": true,
+  "legenda": "Para o líder da oposição, o ajuste fiscal do governo não corta gasto: empurra a conta para os estados.\n\nFoi o senador Rogério Marinho (PL-RN), no plenário do Senado, em 12/11/2026, antes da votação.\n\nNo mesmo dia, o Senado aprovou o texto principal do PLP 299/2026 por 45 votos a 31, no substitutivo do relator Eduardo Braga (MDB-AM). Um dos pontos que ele critica: o repasse da Lei Kandir aos estados cai de R$ 4 bilhões para R$ 1 bilhão por ano entre 2027 e 2030, e a diferença de R$ 12 bilhões só volta até 2037.\n\nO governo calcula melhora de R$ 45,1 bilhões a R$ 56,1 bilhões nas contas de 2027. Ainda faltam quatro destaques, previstos para terça (17/11), e depois o projeto vai para a Câmara.\n\nVídeo: TV Senado (12/11/2026). Fontes: notas taquigráficas do Senado; Agência Senado (12/11/2026).\n\n#ajustefiscal #senado #impostos #orcamento",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — Plenário, continuação da 146ª Sessão Deliberativa Ordinária (12/11/2026), fala 12 (Rogério Marinho, PL-RN): vídeo oficial e notas taquigráficas",
+      "url": "https://www12.senado.leg.br/multimidia/evento/160100"
+    },
+    {
+      "titulo": "Agência Senado (12/11/2026) — Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"
+    }
+  ],
+  "trecho_txt": "TV Senado, Plenário (12/11/2026), continuação da 146ª Sessão Deliberativa Ordinária, fala 12 do senador Rogério Marinho (PL-RN)",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  }
+}
