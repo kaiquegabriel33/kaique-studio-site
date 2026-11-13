@@ -6,8 +6,8 @@
   "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-marinho-ajuste-calote",
   "arquivo": "sug-video-marinho-ajuste-calote-tela-cheia.mp4",
   "capa_id": "5788b650bb831a2a3f02ecdaf5b333e9",
-  "nota_corte": "PRONTO às 08:45 de 13/11 pela Produção (rodada que começou 22:13 de 12/11; a montagem atravessou a noite): vídeo oficial da TV Senado em 1080p, Plenário de 12/11/2026, fala 12 do Rogério Marinho (PL-RN), de 'Nós estamos tratando de uma adequação fiscal' até 'aqui não tem nenhum ajuste fiscal', sem mudar o sentido. Tela cheia escura, 59,8 s, 2 cartões (Lei Kandir R$ 4 bi para R$ 1 bi; 45 a 31 no Senado), CTA 'Pouca gente está de olho...', trilha news baixinha. conferir_video: rosto inteiro em 95 de 102; estalos leves e as REPETIÇÕES 'Nós estamos falando de' são da própria fala (retórica); pele um pouco rosada é a luz do plenário (vídeo SDR da TV Senado, não HDR); faixa escura de 0:57 a 1:00 é a tela do CTA. auditar_cortes 0; sem_cara_de_ia 0; conferir_visual --texto ok. Vídeo de 49 MB (acima do limite de asset da Central): sem video_final_id; está em projetos/videos/sug-video-marinho-ajuste-calote-corte/. Ninguém ouviu: conferido por transcrição e folha de quadros.",
-  "nota_lote": "PRONTO, NÃO AGENDADO. Reel de teste para a TARDE de 13/11 (13:00 em diante), nunca colado no Moretti das 9:00 (mesmo assunto, o outro lado). Corte puro, sai sem aprovação (regra de 05/11). Agendar copiando o -tela-cheia.mp4 para site/postar/<id>/video.mp4.",
+  "nota_corte": "PRONTO às 08:45 de 13/11 pela Produção (rodada que começou 22:13 de 12/11; a montagem atravessou a noite): vídeo oficial da TV Senado em 1080p, Plenário de 12/11/2026, fala 12 do Rogério Marinho (PL-RN), de 'Nós estamos tratando de uma adequação fiscal' até 'aqui não tem nenhum ajuste fiscal', sem mudar o sentido. Tela cheia escura, 59,8 s, 2 cartões (Lei Kandir R$ 4 bi para R$ 1 bi; 45 a 31 no Senado), CTA 'Pouca gente está de olho...', trilha news baixinha. conferir_video: rosto inteiro em 95 de 102; estalos leves e as REPETIÇÕES 'Nós estamos falando de' são da própria fala (retórica); pele um pouco rosada é a luz do plenário (vídeo SDR da TV Senado, não HDR); faixa escura de 0:57 a 1:00 é a tela do CTA. auditar_cortes 0; sem_cara_de_ia 0; conferir_visual --texto ok. Vídeo de 49 MB (acima do limite de asset da Central): sem video_final_id; está em projetos/videos/sug-video-marinho-ajuste-calote-corte/. Ninguém ouviu: conferido por transcrição e folha de quadros. Reels de teste 13/11 09:00: legenda corrigida (Whisper ouviu \"lei Candi\" → \"Lei Kandir\"; \"aumento de impostos...\" como nas notas taquigráficas) e tela cheia refeita; conferir_video sem aviso novo.",
+  "nota_lote": "AGENDADO 13/11: Reel de teste 14:20 e TikTok 14:50 (Metricool), não poste à mão. 14:20 e não 13:00 porque o Moretti foi movido às 08:54 para 13:00 como rascunho.",
   "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
   "motivo": "Produção 12/11, 22h: prateleira vídeo 0 de 10. Corte puro de fonte oficial (TV Senado, eu baixo), força média: palavra forte no bolso ('calote', 'pedalada', 'estelionato') de líder da oposição, no dia em que o Senado aprovou o texto principal do ajuste (45 a 31). É o OUTRO LADO do Moretti (Reel de teste 13/11 9:00): sair à tarde de 13/11 (13:00 ou depois), nunca colado no Moretti. Quem compartilha: quem acha que o ajuste é só imposto e conta para os estados, e quem quer mostrar o que a oposição disse. Lição do resumo vivo: palavra forte no bolso + fato do dia. Fatos conferidos no Senado Notícias (12/11). Opinião nenhuma atribuída ao Kaique.",
   "prioridade": 4,
@@ -21,7 +21,7 @@
   "sempre_verde": false,
   "reserva": false,
   "criado": "2026-11-12T19:30:00-03:00",
-  "atualizado": "2026-11-12T19:30",
+  "atualizado": "2026-11-13T09:02",
   "fato_em": "2026-11-12T16:00:00-03:00",
   "vence_em": "2026-11-14T23:59:00-03:00",
   "titulo": "Rogério Marinho, líder da oposição: o ajuste fiscal é calote nos estados, não tem nenhum ajuste (TV Senado)",
@@ -90,5 +90,22 @@
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
-  }
+  },
+  "agendado_metricool": [
+    {
+      "id": 426874617,
+      "uuid": "1993322147144486825",
+      "para": "2026-11-13T14:20:00-03:00",
+      "tipo": "instagram TRIAL_REEL",
+      "em": "2026-11-13T09:00:00-03:00"
+    },
+    {
+      "id": 426874810,
+      "uuid": "-6683236006617527887",
+      "para": "2026-11-13T14:50:00-03:00",
+      "tipo": "tiktok",
+      "em": "2026-11-13T09:01:00-03:00"
+    }
+  ],
+  "midia_no_metricool": true
 }
