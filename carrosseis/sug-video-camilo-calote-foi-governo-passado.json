@@ -1,0 +1,102 @@
+{
+  "id": "sug-video-camilo-calote-foi-governo-passado",
+  "carrossel_id": "sug-video-camilo-calote-foi-governo-passado",
+  "status": "publicado",
+  "publicado_em": "2026-11-13T14:35:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-camilo-calote-foi-governo-passado",
+  "arquivo": "sug-video-camilo-calote-foi-governo-passado-tela-cheia.mp4",
+  "capa_id": "48e492e304e891d05f04265d785c1a73",
+  "nota_corte": "PRONTO às 14:35 de 13/11 pela Produção: vídeo oficial da TV Senado em 1080p, Plenário de 12/11/2026, fala 60 do Camilo Santana (PT-CE), de 'Então, eu queria dizer tudo isso porque falam aqui muito em calote' até 'e aí vem falar agora de calote, Rogerio?', sem mudar o sentido. Tela cheia escura, 53,1 s, 2 cartões (acordo de R$ 26,9 bi do ICMS no STF; R$ 92,4 bi de precatórios pagos em dez/2023), CTA 'Pouca gente está de olho...', trilha news baixinha. Bateu 65% com as notas só pela escrita dos números (R$27 × 27) e palavras miúdas: o trecho inteiro está lá; legenda corrigida pelas notas (aqui, pelo, governadoras de, Rogério?). conferir_video: rosto inteiro em 94 de 94 momentos com voz; pele rosada é a luz do plenário (vídeo SDR da TV Senado, como no Marinho); 2 estalos leves e a repetição 'foi esse governo que' são da própria fala (retórica); pausa de 0,66 s em 0:26; faixa escura no fim é a tela do CTA; a placa do nome da TV Senado aparece cortada no pé do quadro. auditar_cortes 0; sem_cara_de_ia 0 grave; conferir_visual --texto ok. Vídeo de 38 MB (acima do limite da Central): sem video_final_id; está em projetos/videos/sug-video-camilo-calote-foi-governo-passado-corte/. Ninguém ouviu: conferido por transcrição e folha de quadros.",
+  "nota_lote": "PRONTO, NÃO AGENDADO. Reel de teste a partir de 14/11 (é o outro lado do Marinho, que sai 13/11 14:20), longe do van Hattem (também TV Senado). Corte puro, sai sem aprovação (regra de 05/11). Agendar copiando o -tela-cheia.mp4 para site/postar/<id>/video.mp4.",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "motivo": "Produção 13/11, 14h: prateleira vídeo abaixo de 10. Corte puro de fonte oficial (TV Senado, eu baixo), força média: ataque com nome e palavra forte no bolso ('calote', 'R$ 27 bilhões dos governadores'), resposta direta do governo ao Marinho (Reel de teste 13/11 14:20). É o OUTRO LADO do Marinho: sair em 14/11 ou depois, longe do van Hattem (também TV Senado). Quem compartilha: quem defende o governo e quer mostrar que o 'calote' veio antes, e quem quer ver o bate-boca do ajuste. Lição do resumo vivo: palavra forte + ataque com nome + fato do dia; os números da fala conferidos e postos no cartão. Fatos: acordo do ICMS de R$ 26,9 bi homologado pelo STF (06/2023); R$ 92,4 bi de precatórios pagos em 12/2023 (Tesouro). Opinião nenhuma atribuída ao Kaique.",
+  "prioridade": 4,
+  "versao": 1,
+  "video_partes": [],
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "media",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-13T14:15:00-03:00",
+  "atualizado": "2026-11-13T14:35",
+  "fato_em": "2026-11-12T16:00:00-03:00",
+  "vence_em": "2026-11-15T23:59:00-03:00",
+  "titulo": "Camilo Santana (PT-CE) responde a Marinho no ajuste fiscal: calote foi dado pelo governo passado (TV Senado)",
+  "para_quem": "quem mora em estado que depende de repasse da União e quem acompanha a briga do ajuste fiscal",
+  "promessa": "falam aqui muito em calote",
+  "paga_em": "vem falar agora de calote",
+  "diferenciacao": "a resposta do governo ao 'calote' do Marinho no mesmo plenário, com os dois números da fala conferidos no cartão (acordo de R$ 26,9 bi do ICMS no STF e R$ 92,4 bi de precatórios pagos em 2023)",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Senador do PT rebate a oposição: ==calote foi dado pelo governo passado=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "calote foi dado pelo governo passado",
+    "inicio": "Então, eu queria dizer tudo isso porque falam aqui muito em calote",
+    "fim": "e aí vem falar agora de calote, Rogerio?",
+    "texto": "Então, eu queria dizer tudo isso porque falam aqui muito em calote. Meu Senador Eduardo Braga, calote foi dado pelo Governo passado nos 27 Governadores e Governadoras de estado – eu era Governador –, quando tiraram R$27 bilhões do ICMS do combustível e nunca chamaram, Tereza, os Governadores para discutir isso, não. Vocês tiraram R$27 bilhões dos Governadores – eu era Governador do Ceará naquele ano. Calote vocês deram quando tiraram R$90 bilhões dos precatórios, e foi este Governo que devolveu aos estados brasileiros os R$27 bilhões de ICMS. Foi este Governo que pagou R$90 bilhões dos precatórios – muitos esperavam há anos receber na Justiça o precatório – e aí vem falar agora de calote, Rogerio?",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "nunca chamaram",
+        "texto": "2023: acordo no STF, União repõe R$ 26,9 bi do ICMS dos combustíveis aos estados"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "Foi este Governo que pagou",
+        "texto": "Dez/2023: governo pagou R$ 92,4 bi de precatórios atrasados de uma vez"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www12.senado.leg.br/multimidia/evento/160100",
+  "cta": true,
+  "legenda": "A oposição chamou o ajuste fiscal de calote nos estados. Um senador do PT devolveu a palavra para o governo passado.\n\nFoi o senador Camilo Santana (PT-CE), ex-governador do Ceará, no plenário do Senado, em 12/11/2026, respondendo ao líder da oposição, Rogério Marinho (PL-RN).\n\nDe onde vêm os números: em 2022, leis federais limitaram o ICMS dos combustíveis e os estados perderam arrecadação; em 2023, um acordo homologado pelo STF fixou a compensação da União em R$ 26,9 bilhões. Os precatórios ficaram represados desde a PEC de 2021, e em dezembro de 2023 o governo pagou R$ 92,4 bilhões atrasados de uma vez.\n\nDo outro lado, o texto aprovado no Senado por 45 a 31 reduz o repasse da Lei Kandir aos estados de R$ 4 bilhões para R$ 1 bilhão por ano entre 2027 e 2030, e o projeto ainda passa pela Câmara.\n\nVídeo: TV Senado (12/11/2026). Fontes: notas taquigráficas do Senado; Agência Senado (12/11/2026); STF (acordo do ICMS, 06/2023); Tesouro Nacional (resultado de 2023).\n\n#ajustefiscal #senado #icms #precatorios",
+  "fontes": [
+    {
+      "titulo": "Senado Multimídia — Plenário, continuação da 146ª Sessão Deliberativa Ordinária (12/11/2026), fala 60 (Camilo Santana, PT-CE): vídeo oficial e notas taquigráficas",
+      "url": "https://www12.senado.leg.br/multimidia/evento/160100"
+    },
+    {
+      "titulo": "Agência Senado (12/11/2026) — Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"
+    },
+    {
+      "titulo": "Migalhas (06/2023) — ICMS dos combustíveis: STF valida acordo de R$ 26,9 bi para perdas dos estados",
+      "url": "https://www.migalhas.com.br/quentes/387717/icms-dos-combustiveis-stf-valida-envio-de-verba-por-perdas-de-estados"
+    },
+    {
+      "titulo": "InvestNews/Reuters (01/2024) — Governo central tem déficit de R$ 230,5 bi em 2023 após quitação de R$ 92,4 bi de precatórios (Tesouro)",
+      "url": "https://investnews.com.br/economia/governo-central-tem-deficit-de-r-2305-bi-em-2023-segundo-pior-da-historia-apos-quitacao-de-precatorios"
+    }
+  ],
+  "trecho_txt": "TV Senado, Plenário (12/11/2026), continuação da 146ª Sessão Deliberativa Ordinária, fala 60 do senador Camilo Santana (PT-CE)",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  }
+}
