@@ -1,94 +1,105 @@
 {
-  "id": "sug-video-van-hattem-cpmi-master-pizza",
-  "carrossel_id": "sug-video-van-hattem-cpmi-master-pizza",
-  "status": "publicado",
-  "publicado_em": "2026-11-13T10:35:00-03:00",
-  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-van-hattem-cpmi-master-pizza",
-  "arquivo": "sug-video-van-hattem-cpmi-master-pizza-tela-cheia.mp4",
-  "capa_id": "b92af3c3b5defd12f1b70a72f1a55c18",
-  "nota_corte": "PRONTO às 10:35 de 13/11 pela Produção: vídeo oficial da TV Senado em 1080p, sessão conjunta do Congresso de 12/11/2026, fala 9 do Marcel van Hattem (Novo-RS), de 'Lembro ainda, Sr. Presidente' até 'o caso Master pode terminar em pizza?', sem mudar o sentido. Bateu 97% com as notas taquigráficas. Tela cheia escura, 59,2 s, 2 cartões (238 deputados e 42 senadores, mínimo 171 e 27; Alcolumbre respondeu que a Mesa já decidiu), CTA 'Pouca gente está de olho...', trilha tensão baixinha. conferir_video: rosto inteiro em 109 de 109 momentos com voz; enquadramento aberto com o deputado ao lado (dúvida de quem fala); pele rosada é a luz do plenário (vídeo SDR da TV Senado, como no Marinho); 3 estalos leves da própria fala; pico -1,0 dB no limite; faixa escura no fim é a tela do CTA. auditar_cortes 0; sem_cara_de_ia 0; conferir_visual --texto ok. Vídeo de 43 MB (acima do limite da Central): sem video_final_id; está em projetos/videos/sug-video-van-hattem-cpmi-master-pizza-corte/. Ninguém ouviu: conferido por transcrição e folha de quadros.",
-  "nota_lote": "PRONTO, NÃO AGENDADO. Reel de teste a partir de 14/11 (hoje já sai o Marinho, também TV Senado). Corte puro, sai sem aprovação (regra de 05/11). Agendar copiando o -tela-cheia.mp4 para site/postar/<id>/video.mp4.",
-  "formato": "video",
-  "formato_corte": "tela_cheia_escura",
-  "ab_formato": "puro-x-comentario",
-  "forca": "media",
-  "teste_reel": true,
-  "sempre_verde": false,
-  "reserva": false,
-  "prioridade": 4,
-  "versao": 1,
-  "criado": "2026-11-13T10:40:00-03:00",
-  "atualizado": "2026-11-13T10:40",
-  "fato_em": "2026-11-12T09:00:00-03:00",
-  "vence_em": "2026-11-15T23:59:00-03:00",
-  "titulo": "Marcel van Hattem cobra de Alcolumbre a CPMI do Banco Master: o caso pode terminar em pizza? (TV Senado, sessão do Congresso)",
-  "para_quem": "quem tinha dinheiro no Master, quem paga o FGC na taxa do banco e quem quer saber se o caso vai ser investigado no Congresso",
-  "promessa": "Lembro ainda, Sr. Presidente, que o período eleitoral já passou",
-  "paga_em": "o caso Master pode terminar em pizza",
-  "diferenciacao": "fala oficial da primeira sessão do Congresso depois da eleição, com o número que a fala não diz no cartão (238 deputados e 42 senadores assinaram; o mínimo é 171 e 27) e a resposta do Alcolumbre na legenda",
-  "motivo": "Produção 13/11, 10h: prateleira vídeo 0 de 10. Corte puro de fonte oficial (TV Senado, eu baixo), força média: cobrança com palavra forte ('pizza') sobre o Banco Master na primeira sessão do Congresso depois da eleição (12/11), com a resposta do Alcolumbre na mesma sessão (o outro lado vai na legenda). Fonte diferente do Marinho de hoje (sessão do Senado), mas é TV Senado: a rotina Reels de teste põe em 14/11 ou depois. Quem compartilha: quem perdeu com o Master ou acompanha o caso e quer mostrar que a CPMI está parada. Lição do resumo vivo: palavra forte + fato do dia + ataque com nome. Fatos conferidos nas notas taquigráficas (12/11) e na Agência Senado (21/05/2026). Opinião nenhuma atribuída ao Kaique.",
-  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
-  "video_partes": [],
-  "slides": [
+ "id": "sug-video-van-hattem-cpmi-master-pizza",
+ "carrossel_id": "sug-video-van-hattem-cpmi-master-pizza",
+ "status": "publicado",
+ "publicado_em": "2026-11-13T10:35:00-03:00",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-van-hattem-cpmi-master-pizza",
+ "arquivo": "sug-video-van-hattem-cpmi-master-pizza-tela-cheia.mp4",
+ "capa_id": "b92af3c3b5defd12f1b70a72f1a55c18",
+ "nota_corte": "PRONTO às 10:35 de 13/11 pela Produção: vídeo oficial da TV Senado em 1080p, sessão conjunta do Congresso de 12/11/2026, fala 9 do Marcel van Hattem (Novo-RS), de 'Lembro ainda, Sr. Presidente' até 'o caso Master pode terminar em pizza?', sem mudar o sentido. Bateu 97% com as notas taquigráficas. Tela cheia escura, 59,2 s, 2 cartões (238 deputados e 42 senadores, mínimo 171 e 27; Alcolumbre respondeu que a Mesa já decidiu), CTA 'Pouca gente está de olho...', trilha tensão baixinha. conferir_video: rosto inteiro em 109 de 109 momentos com voz; enquadramento aberto com o deputado ao lado (dúvida de quem fala); pele rosada é a luz do plenário (vídeo SDR da TV Senado, como no Marinho); 3 estalos leves da própria fala; pico -1,0 dB no limite; faixa escura no fim é a tela do CTA. auditar_cortes 0; sem_cara_de_ia 0; conferir_visual --texto ok. Vídeo de 43 MB (acima do limite da Central): sem video_final_id; está em projetos/videos/sug-video-van-hattem-cpmi-master-pizza-corte/. Ninguém ouviu: conferido por transcrição e folha de quadros.",
+ "nota_lote": "AGENDADO 13/11 15:26 (conversa): IG 19:40 e TT 21:40, com gancho de 3–6 s na abertura (frase forte antes da fala inteira).",
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "prioridade": 4,
+ "versao": 1,
+ "criado": "2026-11-13T10:40:00-03:00",
+ "atualizado": "2026-11-13T10:40",
+ "fato_em": "2026-11-12T09:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "Marcel van Hattem cobra de Alcolumbre a CPMI do Banco Master: o caso pode terminar em pizza? (TV Senado, sessão do Congresso)",
+ "para_quem": "quem tinha dinheiro no Master, quem paga o FGC na taxa do banco e quem quer saber se o caso vai ser investigado no Congresso",
+ "promessa": "Lembro ainda, Sr. Presidente, que o período eleitoral já passou",
+ "paga_em": "o caso Master pode terminar em pizza",
+ "diferenciacao": "fala oficial da primeira sessão do Congresso depois da eleição, com o número que a fala não diz no cartão (238 deputados e 42 senadores assinaram; o mínimo é 171 e 27) e a resposta do Alcolumbre na legenda",
+ "motivo": "Produção 13/11, 10h: prateleira vídeo 0 de 10. Corte puro de fonte oficial (TV Senado, eu baixo), força média: cobrança com palavra forte ('pizza') sobre o Banco Master na primeira sessão do Congresso depois da eleição (12/11), com a resposta do Alcolumbre na mesma sessão (o outro lado vai na legenda). Fonte diferente do Marinho de hoje (sessão do Senado), mas é TV Senado: a rotina Reels de teste põe em 14/11 ou depois. Quem compartilha: quem perdeu com o Master ou acompanha o caso e quer mostrar que a CPMI está parada. Lição do resumo vivo: palavra forte + fato do dia + ataque com nome. Fatos conferidos nas notas taquigráficas (12/11) e na Agência Senado (21/05/2026). Opinião nenhuma atribuída ao Kaique.",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "video_partes": [],
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
     {
-      "altura": 1920,
-      "papel": "vídeo",
-      "tema": "escuro",
-      "elementos": [
-        {
-          "tipo": "texto",
-          "tam": 52,
-          "corMarca": "#FFD700",
-          "corTextoMarca": "#111111",
-          "texto": "Deputado cobra Alcolumbre: ==o caso Master pode terminar em pizza?=="
-        },
-        {
-          "tipo": "video",
-          "x": 0,
-          "w": 1080,
-          "h": "resto",
-          "ajuste": "conter",
-          "raio": 0
-        }
-      ]
-    }
-  ],
-  "trecho": {
-    "aspa_manchete": "o caso Master pode terminar em pizza",
-    "inicio": "Lembro ainda, Sr. Presidente, que o período eleitoral já passou",
-    "fim": "o caso Master pode terminar em pizza",
-    "texto": "Lembro ainda, Sr. Presidente, que o período eleitoral já passou. V.Exa., em determinado momento, disse que não instalaria a CPMI do Banco Master porque não deixaria que uma investigação pudesse estar sujeita aos humores do período eleitoral, das campanhas partidárias e dos candidatos. É passado o período eleitoral. Está sendo realizada a primeira sessão do Congresso Nacional. Eu já fiz da tribuna uma pergunta a V.Exa. que até agora não foi respondida, mas espero seja agora: V.Exa. lerá, conforme exigem o Regimento Comum e a Constituição, o requerimento de instalação da CPMI do Banco Master na sessão de hoje ou V.Exa. dará razão àqueles que na imprensa hoje mesmo dizem que o caso Master pode terminar em pizza?",
-    "contexto": [
-      {
-        "cor": "amarelo",
-        "desde": "não instalaria a CPMI do Banco Master",
-        "texto": "Pedido tem 238 deputados e 42 senadores; o mínimo é 171 e 27"
-      },
-      {
-        "cor": "vermelho",
-        "desde": "primeira sessão do Congresso Nacional",
-        "texto": "Alcolumbre respondeu: a questão já está decidida pela Mesa"
-      }
-    ],
-    "cta": true,
-    "encher": false
-  },
-  "trecho_txt": "TV Senado, Plenário do Congresso (12/11/2026), 23ª Sessão Conjunta, fala 9 do deputado Marcel van Hattem (Novo-RS), questão de ordem",
-  "video_url": "https://www12.senado.leg.br/multimidia/evento/160097",
-  "cta": true,
-  "teste_cta": {
-    "braco": "atual",
-    "texto": "Segue pra ver o próximo corte."
-  },
-  "legenda": "O pedido de CPMI do Banco Master tem assinatura de sobra e continua na gaveta do presidente do Congresso.\n\nFoi o deputado Marcel van Hattem (Novo-RS), na primeira sessão do Congresso depois da eleição, em 12/11/2026.\n\nO requerimento do deputado Carlos Jordy (PL-RJ) tem 238 deputados e 42 senadores, quando o mínimo é 171 e 27. Em maio, Davi Alcolumbre já tinha dito que ler o pedido é decisão do presidente do Congresso.\n\nNa mesma sessão, ele respondeu: \"A Mesa já tomou uma decisão sobre a questão de ordem, e cabe à Presidência definir o momento ou não da leitura do requerimento.\" O deputado recorreu e o recurso foi para a CCJ.\n\nVídeo: TV Senado (12/11/2026). Fontes: notas taquigráficas do Congresso (12/11/2026); Agência Senado (21/05/2026).\n\n#bancomaster #cpmi #congresso #alcolumbre",
-  "fontes": [
-    {
-      "titulo": "Senado Multimídia — Plenário do Congresso, 23ª Sessão Conjunta (12/11/2026), falas 9 (Marcel van Hattem), 10 e 14 (Davi Alcolumbre): vídeo oficial e notas taquigráficas",
-      "url": "https://www12.senado.leg.br/multimidia/evento/160097"
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Deputado cobra Alcolumbre: ==o caso Master pode terminar em pizza?=="
     },
     {
-      "titulo": "Agência Senado (21/05/2026) — Davi: abertura da CPMI do Master é decisão do presidente do Congresso",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/05/21/davi-abertura-da-cpmi-do-master-e-decisao-do-presidente-do-congresso"
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
     }
-  ]
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "o caso Master pode terminar em pizza",
+  "inicio": "Lembro ainda, Sr. Presidente, que o período eleitoral já passou",
+  "fim": "o caso Master pode terminar em pizza",
+  "texto": "Lembro ainda, Sr. Presidente, que o período eleitoral já passou. V.Exa., em determinado momento, disse que não instalaria a CPMI do Banco Master porque não deixaria que uma investigação pudesse estar sujeita aos humores do período eleitoral, das campanhas partidárias e dos candidatos. É passado o período eleitoral. Está sendo realizada a primeira sessão do Congresso Nacional. Eu já fiz da tribuna uma pergunta a V.Exa. que até agora não foi respondida, mas espero seja agora: V.Exa. lerá, conforme exigem o Regimento Comum e a Constituição, o requerimento de instalação da CPMI do Banco Master na sessão de hoje ou V.Exa. dará razão àqueles que na imprensa hoje mesmo dizem que o caso Master pode terminar em pizza?",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "não instalaria a CPMI do Banco Master",
+    "texto": "Pedido tem 238 deputados e 42 senadores; o mínimo é 171 e 27"
+   },
+   {
+    "cor": "vermelho",
+    "desde": "primeira sessão do Congresso Nacional",
+    "texto": "Alcolumbre respondeu: a questão já está decidida pela Mesa"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "trecho_txt": "TV Senado, Plenário do Congresso (12/11/2026), 23ª Sessão Conjunta, fala 9 do deputado Marcel van Hattem (Novo-RS), questão de ordem",
+ "video_url": "https://www12.senado.leg.br/multimidia/evento/160097",
+ "cta": true,
+ "teste_cta": {
+  "braco": "atual",
+  "texto": "Segue pra ver o próximo corte."
+ },
+ "legenda": "O pedido de CPMI do Banco Master tem assinatura de sobra e continua na gaveta do presidente do Congresso.\n\nFoi o deputado Marcel van Hattem (Novo-RS), na primeira sessão do Congresso depois da eleição, em 12/11/2026.\n\nO requerimento do deputado Carlos Jordy (PL-RJ) tem 238 deputados e 42 senadores, quando o mínimo é 171 e 27. Em maio, Davi Alcolumbre já tinha dito que ler o pedido é decisão do presidente do Congresso.\n\nNa mesma sessão, ele respondeu: \"A Mesa já tomou uma decisão sobre a questão de ordem, e cabe à Presidência definir o momento ou não da leitura do requerimento.\" O deputado recorreu e o recurso foi para a CCJ.\n\nVídeo: TV Senado (12/11/2026). Fontes: notas taquigráficas do Congresso (12/11/2026); Agência Senado (21/05/2026).\n\n#bancomaster #cpmi #congresso #alcolumbre",
+ "fontes": [
+  {
+   "titulo": "Senado Multimídia — Plenário do Congresso, 23ª Sessão Conjunta (12/11/2026), falas 9 (Marcel van Hattem), 10 e 14 (Davi Alcolumbre): vídeo oficial e notas taquigráficas",
+   "url": "https://www12.senado.leg.br/multimidia/evento/160097"
+  },
+  {
+   "titulo": "Agência Senado (21/05/2026) — Davi: abertura da CPMI do Master é decisão do presidente do Congresso",
+   "url": "https://www12.senado.leg.br/noticias/materias/2026/05/21/davi-abertura-da-cpmi-do-master-e-decisao-do-presidente-do-congresso"
+  }
+ ],
+ "agendado_metricool": {
+  "id": 427308564,
+  "para": "2026-11-13T19:40:00",
+  "tipo": "TRIAL_REEL",
+  "isAiGenerated": false,
+  "tiktok": {
+   "id": 427308867,
+   "para": "2026-11-13T21:40:00"
+  },
+  "sha": "7b970da609c5522484abc96f21d6902d3124c902"
+ }
 }
