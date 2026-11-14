@@ -1,0 +1,94 @@
+{
+ "id": "sug-video-gilmar-andrei-discernimento",
+ "carrossel_id": "sug-video-gilmar-andrei-discernimento",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-gilmar-andrei-discernimento-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-gilmar-andrei-discernimento",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Domingo 15/11, manhã: Gilmar Mendes no IDP Debates (Metrópoles, 13/11) sobre a crise na PF depois do relatório rejeitado que cita Moraes e Vorcaro: confia no 'discernimento' de Andrei e diz que 'é capaz que a República inteira caiba nesses áudios'. Fatos: Metrópoles (13/11), O Tempo (11/11), ND Mais. Outro lado na legenda.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "alta",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T12:00:00-03:00",
+ "vence_em": "2026-11-16T23:59:00-03:00",
+ "titulo": "Gilmar sobre o caso Master: \"é capaz que a República inteira caiba nesses áudios\"",
+ "para_quem": "quem acompanha o caso Banco Master e a crise na PF",
+ "promessa": "Eu confio na instituição Polícia Federal e confio também no discernimento do delegado-geral",
+ "paga_em": "é capaz que a República inteira caiba nesses áudios",
+ "diferenciacao": "o contexto que a fala não dá, no cartão e na legenda: os dois delegados afastados depois do relatório que cita Moraes, e a explicação da PF",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Gilmar: ==\"a República inteira caiba nesses áudios\"=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "é capaz que a República inteira caiba nesses áudios",
+  "inicio": "Ministro, a gente gostaria de saber",
+  "fim": "caiba nesses áudios",
+  "texto": "",
+  "gancho": "é capaz que a República inteira caiba nesses áudios",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "delegados que foram afastados",
+    "texto": "A PF tirou da chefia os 2 delegados do relatório que cita Moraes e Vorcaro"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "foco_x": 0.42
+ },
+ "video_url": "https://www.youtube.com/watch?v=V9LzmW42Jdo",
+ "cta": true,
+ "legenda": "Perguntaram ao ministro Gilmar Mendes se o diretor da PF ser citado no caso Master abala a credibilidade dele. A resposta virou a frase do dia.\n\nO contexto: dois delegados analisaram o celular de Daniel Vorcaro, listaram mais de 300 interações com o contato \"Alexandre de Moraes BRASILIA\" e escreveram um relatório com suspeita de voto antecipado. A direção da PF rejeitou o texto, mandou refazer só com descrição dos fatos e tirou os dois da chefia.\n\nO outro lado: a PF fala em quebra de confiança e descumprimento de ordem interna e diz que a saída dos delegados já estava prevista desde outubro. Moraes nega ter interferido a favor do Banco Master.\n\nVídeo: Metrópoles (13/11/2026). Fontes: Metrópoles (13/11/2026); O Tempo (11/11/2026); ND Mais.\n\n#gilmarmendes #pf #bancomaster #stf",
+ "fontes": [
+  {
+   "titulo": "Metrópoles (13/11/2026): Em meio à crise na PF, Gilmar diz confiar no 'discernimento' de Andrei",
+   "url": "https://www.metropoles.com/sao-paulo/em-meio-a-crise-na-pf-gilmar-diz-confiar-no-discernimento-de-andrei"
+  },
+  {
+   "titulo": "O Tempo (11/11/2026): Delegados da PF foram afastados de funções após a entrega de relatórios que citam ministros do STF",
+   "url": "https://www.otempo.com.br/politica/judiciario/2026/11/11/delegados-da-pf-foram-afastados-de-funcoes-apos-a-entrega-de-relatorios-que-citam-ministros-do-stf"
+  },
+  {
+   "titulo": "ND Mais: PF revela motivo do afastamento de delegados do caso Master",
+   "url": "https://ndmais.com.br/justica/pf-revela-motivo-afastamento-delegados-caso-master/"
+  },
+  {
+   "titulo": "Metrópoles (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=V9LzmW42Jdo"
+  }
+ ],
+ "trecho_txt": "Metrópoles (13/11/2026), Gilmar Mendes no IDP Debates, em São Paulo",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}
