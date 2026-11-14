@@ -1,0 +1,89 @@
+{
+ "id": "sug-video-band-pf-moraes-voto-vorcaro",
+ "carrossel_id": "sug-video-band-pf-moraes-voto-vorcaro",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-band-pf-moraes-voto-vorcaro-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-band-pf-moraes-voto-vorcaro",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Sábado 14/11 (conversa, PC liberado): reportagem do Jornal da Band (13/11) sobre o relatório da PF, rejeitado pelo comando, que aponta suspeita de Moraes antecipar voto a Vorcaro; pauta mais vista do dia (UOL 234 mil, Band 69 mil). Fatos conferidos em UOL/Folhapress, Gazeta do Povo e Jornal de Brasília. Fonte 1.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "alta",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T20:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "Relatório rejeitado pela PF aponta voto antecipado de Moraes a Vorcaro",
+ "para_quem": "quem acompanha o caso Banco Master e o STF",
+ "promessa": "o ministro Alexandre de Moraes antecipou um voto favorável a Daniel Vorcaro",
+ "paga_em": "Cássio vai votar a favor. E Moraes? Vai ser apertado, mas vamos.",
+ "diferenciacao": "o que a reportagem não mostra, no cartão e na legenda: a regra passou com 8 votos, o mínimo, e não há mensagem do Moraes revelando o voto",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Relatório da PF: Moraes teria ==antecipado voto a Vorcaro=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "o ministro Alexandre de Moraes antecipou um voto favorável a Daniel Vorcaro",
+  "inicio": "Um relatório rejeitado pelo comando",
+  "fim": "Não houve resposta até agora",
+  "texto": "",
+  "gancho": "o ministro Alexandre de Moraes antecipou um voto favorável a Daniel Vorcaro",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "votaram a favor",
+    "texto": "A regra dos cursos de medicina passou com 8 votos, o mínimo exigido"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=RiqXQ1ASr0w",
+ "cta": true,
+ "legenda": "Um relatório da Polícia Federal, rejeitado pelo próprio comando da PF, diz que Alexandre de Moraes pode ter antecipado a Daniel Vorcaro, dono do Banco Master, um voto no Supremo.\n\nO relatório se apoia em mensagens de fevereiro de 2024 entre Fábio Faria, Vorcaro e um ex-sócio dele. No dia 20, Vorcaro escreve: \"Cássio vai votar a favor. E Moraes. Vai ser apertado mas vamos\". Em maio, Moraes e Nunes Marques votaram a favor da regra que interessava à Ulbra, universidade de quem o Master tinha comprado dívida. Passou com 8 votos, o mínimo.\n\nO outro lado: não há mensagem do Moraes revelando o voto, é a leitura dos delegados sobre as conversas. A direção da PF disse que o texto trazia conclusões dos delegados, que foram afastados, e que o trabalho vai ser refeito. Moraes, a defesa de Vorcaro e Fábio Faria não responderam à Band; Faria já negou relação com o assunto.\n\nVídeo: Jornal da Band (13/11/2026). Fontes: UOL/Folhapress (13/11/2026); Gazeta do Povo; Jornal de Brasília.\n\n#moraes #bancomaster #vorcaro #stf",
+ "fontes": [
+  {
+   "titulo": "Jornal de Brasília (UOL/Folhapress, 13/11/2026): Relatório rejeitado na PF cita suspeita de Moraes antecipar voto a Vorcaro",
+   "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/relatorio-rejeitado-na-pf-cita-suspeita-de-moraes-antecipar-voto-a-vorcaro/"
+  },
+  {
+   "titulo": "Gazeta do Povo: Relatório rejeitado pela PF aponta possível antecipação de voto de Moraes a Vorcaro",
+   "url": "https://www.gazetadopovo.com.br/republica/relatorio-rejeitado-pela-pf-aponta-possivel-antecipacao-de-voto-de-moraes-a-vorcaro/"
+  },
+  {
+   "titulo": "Jornal da Band (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=RiqXQ1ASr0w"
+  }
+ ],
+ "trecho_txt": "Jornal da Band (13/11/2026), reportagem sobre o relatório da PF",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}

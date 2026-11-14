@@ -1,0 +1,90 @@
+{
+ "id": "sug-video-flavio-chapa-lula-cassada",
+ "carrossel_id": "sug-video-flavio-chapa-lula-cassada",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-flavio-chapa-lula-cassada-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-chapa-lula-cassada",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Sábado 14/11 (conversa, PC liberado): fala do Flávio Bolsonaro com 205 mil views em 22 h no corte da Itatiaia; aposta na cassação da chapa Lula-Alckmin e em eleição antes de 2030. Base conferida: AIJE do Novo admitida no TSE em 05/11 (Congresso em Foco, A Gazeta, Em Tempo). Fonte 1 (fala quente de ontem).",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "alta",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T12:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "Flávio: \"eles vão declarar a cassação da chapa do Lula e do Alckmin\"",
+ "para_quem": "quem votou no Flávio e quem quer saber se a ação no TSE pode mudar alguma coisa",
+ "promessa": "em algum momento eles vão declarar a cassação da chapa do Lula e do Alckmin",
+ "paga_em": "a possibilidade de haver eleições ainda antes de 2030",
+ "diferenciacao": "o que a fala não diz, no cartão: a ação é do Novo, foi admitida no TSE em 05/11 e ainda não tem julgamento",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Flávio aposta na ==cassação da chapa Lula-Alckmin=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "eles vão declarar a cassação da chapa do Lula e do Alckmin",
+  "inicio": "Em algum momento eles vão",
+  "fim": "piorar cada vez mais",
+  "texto": "",
+  "gancho": "eles vão declarar a cassação da chapa do Lula e do Alckmin",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "durante a campanha",
+    "texto": "A ação é do Novo: admitida no TSE em 05/11, ainda sem julgamento"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "girar": "nao"
+ },
+ "video_url": "https://www.youtube.com/watch?v=K_4BpXqlhEg",
+ "cta": true,
+ "legenda": "Flávio Bolsonaro perdeu a eleição para Lula e agora aposta em outro caminho: a cassação da chapa vencedora e uma eleição antes de 2030.\n\nDe onde vem a aposta: uma ação do Novo no TSE acusa Lula e Alckmin de abuso de poder político na campanha, com a ampliação de benefícios sociais e as medidas nos combustíveis. O corregedor, ministro Ricardo Villas Bôas Cueva, admitiu a ação em 05/11 e deu 5 dias para a defesa.\n\nAdmitir não é julgar. Até agora não existe decisão do TSE sobre o mérito, e o pedido ainda precisa de provas.\n\nVídeo: Itatiaia (13/11/2026). Fontes: Congresso em Foco (13/11/2026); A Gazeta; Em Tempo.\n\n#flaviobolsonaro #tse #lula #alckmin",
+ "fontes": [
+  {
+   "titulo": "Congresso em Foco (13/11/2026): Flávio Bolsonaro aposta em cassação de Lula e novas eleições",
+   "url": "https://www.congressoemfoco.com.br/noticia/131571/flavio-bolsonaro-aposta-em-cassacao-de-lula-e-novas-eleicoes-em-2030"
+  },
+  {
+   "titulo": "A Gazeta: Flávio muda a rota e agora fala em cassar a chapa Lula-Alckmin",
+   "url": "https://www.agazeta.com.br/mundo/flavio-muda-a-rota-e-agora-fala-em-cassar-a-chapa-lula-alckmin-1026"
+  },
+  {
+   "titulo": "Itatiaia (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=K_4BpXqlhEg"
+  }
+ ],
+ "trecho_txt": "Itatiaia (13/11/2026), fala do senador Flávio Bolsonaro (PL-RJ)",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}
