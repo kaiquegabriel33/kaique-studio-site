@@ -1,0 +1,89 @@
+{
+ "id": "sug-video-moraes-gsi-escolta-bolsonaro",
+ "carrossel_id": "sug-video-moraes-gsi-escolta-bolsonaro",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-moraes-gsi-escolta-bolsonaro-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-moraes-gsi-escolta-bolsonaro",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Domingo 15/11, manhã: Jovem Pan (14/11) sobre a decisão de Moraes (12/11) dando 5 dias para o GSI dizer quem faz a segurança da casa de Bolsonaro, depois do pedido do ex-segurança Sérgio Rocha Cordeiro para voltar. Fatos: Jornal de Brasília e TV Sim Brasil (13/11), SpaceMoney. A ligação com preso do 8 de janeiro NÃO foi confirmada e não entra.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-12T18:00:00-03:00",
+ "vence_em": "2026-11-16T23:59:00-03:00",
+ "titulo": "Moraes dá 5 dias para o GSI dizer quem faz a segurança de Bolsonaro",
+ "para_quem": "quem acompanha a prisão domiciliar de Bolsonaro e as decisões do STF",
+ "promessa": "deu cinco dias para que o Gabinete de Segurança Institucional da Presidência da República informe quem integra atualmente a equipe",
+ "paga_em": "Até aqui, Alexandre de Moraes não reconsiderou a proibição",
+ "diferenciacao": "o que a reportagem não diz, no cartão e na legenda: o ex-segurança promete não usar celular nem levar recado, e a investigação contra ele foi arquivada em junho",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Moraes quer saber ==quem faz a segurança de Bolsonaro=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "deu cinco dias para que o Gabinete de Segurança Institucional da Presidência da República informe quem integra atualmente a equipe responsável pela segurança",
+  "inicio": "O ministro Alexandre de Moraes do Supremo Tribunal Federal deu cinco dias",
+  "fim": "analisar o novo pedido",
+  "texto": "",
+  "gancho": "deu cinco dias para que o Gabinete de Segurança Institucional da Presidência da República informe quem integra atualmente a equipe responsável pela segurança",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "autorização temporária",
+    "texto": "Ele promete não usar celular, não falar de política e não levar recados"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=Jtj5DvHlL5E",
+ "cta": true,
+ "legenda": "Um ex-segurança quer voltar a trabalhar na casa de Jair Bolsonaro, e Alexandre de Moraes quer saber antes quem já está lá.\n\nNa decisão de 12/11, o ministro deu 5 dias para o GSI informar quem faz a segurança e como ela é organizada. O pedido é do capitão da reserva Sérgio Rocha Cordeiro: 90 dias, com horário definido, prometendo não usar celular, não falar de política e não levar recados. Moraes já tinha negado em setembro.\n\nO outro lado: a defesa de Cordeiro diz que a investigação contra ele foi arquivada em junho, a pedido do MPF. Bolsonaro cumpre prisão domiciliar desde março, por saúde. O GSI ainda não respondeu.\n\nVídeo: Jovem Pan News (14/11/2026). Fontes: Jornal de Brasília (13/11/2026); TV Sim Brasil (13/11/2026); SpaceMoney.\n\n#moraes #bolsonaro #stf #gsi",
+ "fontes": [
+  {
+   "titulo": "Jornal de Brasília (13/11/2026): Moraes dá prazo de 5 dias ao GSI sobre segurança de Bolsonaro",
+   "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/moraes-da-prazo-de-5-dias-ao-gsi-sobre-seguranca-de-bolsonaro/"
+  },
+  {
+   "titulo": "TV Sim Brasil (13/11/2026): Moraes pede ao GSI detalhes da segurança da casa de Bolsonaro",
+   "url": "https://tvsimbrasil.com.br/df/distrito-federal/politica/noticia/2026/11/13/moraes-pede-gsi-detalhes-seguranca-casa-bolsonaro"
+  },
+  {
+   "titulo": "Jovem Pan News (YouTube, 14/11/2026)",
+   "url": "https://www.youtube.com/watch?v=Jtj5DvHlL5E"
+  }
+ ],
+ "trecho_txt": "Jovem Pan News (14/11/2026), reportagem de Bruno Pinheiro",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}
