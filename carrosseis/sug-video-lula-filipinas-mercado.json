@@ -1,0 +1,93 @@
+{
+ "id": "sug-video-lula-filipinas-mercado",
+ "carrossel_id": "sug-video-lula-filipinas-mercado",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-lula-filipinas-mercado-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-filipinas-mercado",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Sábado 14/11 (conversa, PC liberado): reportagem do Jornal da Record (13/11) sobre a 1ª visita de Estado de um presidente brasileiro às Filipinas: comércio de US$ 2,7 bi em 2025, mais que quadruplicou em 10 anos, e a restrição filipina à carne suína. Notícia de bolso (exportação) com vídeo real; números da própria reportagem.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T20:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "Lula nas Filipinas: comércio que quadruplicou e a carne suína barrada",
+ "para_quem": "quem trabalha com agro, exportação e quem quer saber o que o presidente foi fazer na Ásia",
+ "promessa": "abrir novas oportunidades para os produtos brasileiros no sudeste asiático",
+ "paga_em": "As Filipinas anunciaram restrições temporárias à importação de determinados produtos de carne suína",
+ "diferenciacao": "o número que importa no bolso (US$ 2,7 bi, 4 vezes em 10 anos) e o ponto delicado da carne suína, que quase ninguém contou",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Lula nas Filipinas: ==comércio 4 vezes maior== em 10 anos"
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "O comércio entre Brasil e Filipinas mais que quadruplicou em 10 anos",
+  "inicio": "Depois de participar da COP31",
+  "fim": "mais de 200 bilhões de reais",
+  "texto": "",
+  "gancho": "O comércio entre Brasil e Filipinas mais que quadruplicou em 10 anos",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "carne suína",
+    "texto": "O Brasil quer que as Filipinas revejam a restrição à carne suína"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=G-r4Mc5BdqM",
+ "cta": true,
+ "legenda": "Primeira visita de Estado de um presidente brasileiro às Filipinas, no ano em que os dois países fazem 80 anos de relação.\n\nNa conta da Record, o comércio entre os dois mais que quadruplicou em 10 anos e chegou a US$ 2,7 bilhões em 2025. O ponto delicado é a carne suína: as Filipinas viraram o maior comprador da carne suína brasileira (cerca de US$ 840 milhões em 2025, um quarto do que o Brasil exporta) e anunciaram uma salvaguarda que restringe a importação por 60 dias. A associação dos produtores (ABPA) foi junto na comitiva para tentar reverter.\n\nDepois vem a cúpula da Asean, 11 países e cerca de 700 milhões de pessoas.\n\nVídeo: Jornal da Record (13/11/2026). Fontes: Diario de Pernambuco (11/2026); SBT News; Compre Rural; RTP.\n\n#lula #filipinas #exportacao #agro",
+ "fontes": [
+  {
+   "titulo": "Jornal da Record (YouTube, 13/11/2026): Lula visita Filipinas para ampliar comércio e abrir mercado a produtos brasileiros",
+   "url": "https://www.youtube.com/watch?v=G-r4Mc5BdqM"
+  },
+  {
+   "titulo": "Diario de Pernambuco (11/2026): Filipinas suspendem importação de carne suína brasileira por 60 dias",
+   "url": "https://www.diariodepernambuco.com.br/economia/2026/11/11728714-filipinas-suspendem-importacao-de-carne-suina-brasileira-por-60-dias.html"
+  },
+  {
+   "titulo": "SBT News: Ministro vai com Lula às Filipinas após veto à carne suína",
+   "url": "https://sbtnews.sbt.com.br/noticia/economia/ministro-vai-com-lula-as-filipinas-apos-veto-a-carne-suina"
+  },
+  {
+   "titulo": "Compre Rural: ABPA integra missão de Lula às Filipinas e tentará reverter suspensão",
+   "url": "https://comprerural.com/abpa-integra-missao-de-lula-as-filipinas-e-tentara-reverter-suspensao/"
+  }
+ ],
+ "trecho_txt": "Jornal da Record (13/11/2026), reportagem sobre a visita de Lula às Filipinas",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}
