@@ -1,0 +1,94 @@
+{
+ "id": "sug-video-cni-ajuste-dinheiro-nao-e-do-governo",
+ "carrossel_id": "sug-video-cni-ajuste-dinheiro-nao-e-do-governo",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-cni-ajuste-dinheiro-nao-e-do-governo-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cni-ajuste-dinheiro-nao-e-do-governo",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Sábado 14/11 (conversa, PC liberado): entrevista ao vivo no UOL (13/11) com Mário Sérgio Telles, diretor de Desenvolvimento Industrial da CNI: limitar a compensação de créditos tributários é fazer ajuste 'com um dinheiro que sequer é do governo'. Lado das empresas do ajuste fiscal, que ainda não tínhamos. Fatos: Metrópoles e CNN (12/11), 119 entidades contra.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "alta",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T13:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "CNI: ajuste fiscal \"em cima de um dinheiro que sequer é do governo\"",
+ "para_quem": "quem tem empresa, trabalha em indústria ou exportadora e quem quer entender de onde sai o dinheiro do ajuste",
+ "promessa": "restringir as compensações tributárias é fazer ajuste fiscal com um recurso que sequer é do governo",
+ "paga_em": "fazer ajuste fiscal em cima de um dinheiro que sequer é do governo, é das empresas, não faz sentido",
+ "diferenciacao": "o exemplo da exportadora explicado na fala e, no cartão, o que ela não diz: o governo já tentou isso duas vezes em 2024 e o Congresso derrubou",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "CNI: ajuste com ==dinheiro que não é do governo=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "fazer ajuste fiscal em cima de um dinheiro que sequer é do governo, é das empresas, não faz sentido",
+  "inicio": "Olha, o nosso ponto",
+  "fim": "não faz sentido",
+  "texto": "",
+  "gancho": "fazer ajuste fiscal em cima de um dinheiro que sequer é do governo, é das empresas, não faz sentido",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "saldo credor",
+    "texto": "119 entidades empresariais assinaram nota contra esse limite"
+   },
+   {
+    "cor": "vermelho",
+    "desde": "dinheiro que foi recolhido",
+    "texto": "Em 2024 o governo tentou isso 2 vezes; o Congresso derrubou"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=pbybcQqcmFA",
+ "cta": true,
+ "legenda": "Uma parte do ajuste fiscal sai do caixa das empresas, e a indústria diz que esse dinheiro nem é do governo.\n\nO ponto é a compensação de créditos tributários. Quando a empresa paga imposto a mais (a exportadora é o caso clássico: não paga na venda para fora, mas pagou na compra dos insumos), ela fica com crédito e usa para abater imposto federal. O projeto aprovado no Senado limita esse uso. Na prática, a empresa espera mais para receber de volta.\n\nO outro lado: o governo conta com essa limitação para reforçar a receita do ajuste e diz que o crédito continua das empresas, só que usado mais devagar. Em 2024, a mesma ideia apareceu na MP 1227 e no PLP 210 e caiu no Congresso. Agora, 119 entidades assinaram nota contra.\n\nVídeo: UOL (13/11/2026). Fontes: Metrópoles e CNN Brasil (12/11/2026); Agência Senado (12/11/2026).\n\n#ajustefiscal #cni #impostos #empresas",
+ "fontes": [
+  {
+   "titulo": "Metrópoles (12/11/2026): Ajuste fiscal: 119 entidades empresariais se manifestam contra projeto",
+   "url": "https://www.metropoles.com/brasil/ajuste-fiscal-119-entidades-empresariais-se-manifestam-contra-projeto"
+  },
+  {
+   "titulo": "CNN Brasil (12/11/2026): PLP transfere maior parte do ajuste fiscal às empresas, diz CNI",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/plp-transfere-maior-parte-do-ajuste-fiscal-as-empresas-diz-cni/"
+  },
+  {
+   "titulo": "UOL (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=pbybcQqcmFA"
+  }
+ ],
+ "trecho_txt": "UOL (13/11/2026), entrevista com Mário Sérgio Telles, diretor de Desenvolvimento Industrial da CNI",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}

@@ -1,0 +1,107 @@
+{
+ "id": "sug-video-eua-suspendem-voos",
+ "carrossel_id": "sug-video-eua-suspendem-voos",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-eua-suspendem-voos-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-eua-suspendem-voos",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Sábado 14/11 (conversa, PC liberado): os EUA pararam todas as decolagens na sexta (13/11) e o efeito chegou ao sábado (3.314 cancelamentos às 7h, FlightAware) e a voos do Brasil (Azul, LATAM, Galeão). Vídeo da GloboNews com o correspondente na hora do anúncio. Notícia grande com vídeo real (fonte 2). Fatos: Al Jazeera, CNN, Jornal do Comércio, Aliados Brasil.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "alta",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T18:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "EUA param todas as decolagens do país: nenhum avião sai do chão",
+ "para_quem": "quem tem viagem marcada para os EUA ou conhece alguém que estava voando",
+ "promessa": "nenhum voo em nenhum aeroporto comercial americano poderá decolar",
+ "paga_em": "aeronaves que chegam do exterior também vão ser avaliadas individualmente, caso a caso",
+ "diferenciacao": "o que veio depois do anúncio, no cartão e na legenda: 3.314 voos cancelados no sábado e os voos Brasil–EUA de Azul e LATAM que caíram",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "EUA param ==todas as decolagens do país=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "nenhum voo em nenhum aeroporto comercial americano poderá decolar",
+  "inicio": "a FAA afirmou que todos os aeroportos",
+  "fim": "permaneçam, obviamente, em solo",
+  "texto": "",
+  "gancho": "nenhum voo em nenhum aeroporto comercial americano poderá decolar",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "permissão para pousar",
+    "texto": "Sábado (14/11), 7h: 3.314 voos cancelados nos EUA (FlightAware)"
+   },
+   {
+    "cor": "vermelho",
+    "desde": "circunstâncias extraordinárias",
+    "texto": "Azul e LATAM cancelaram voos entre o Brasil e os EUA"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "girar": "nao",
+  "crop": [
+   1080,
+   1180,
+   0,
+   0
+  ],
+  "foco_falante": false,
+  "enquadrar": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=FAsLMET2UrU",
+ "cta": true,
+ "legenda": "Na sexta (13/11), por pouco mais de 4 horas, nenhum avião decolou nos Estados Unidos. A FAA, a Anac de lá, parou todos os aeroportos do país.\n\nO governo americano falou em falha de comunicação nos centros de controle, com equipamento antigo sobrecarregado, e disse não ver sinal de ameaça. O FBI investiga uma atualização de software.\n\nNo bolso de quem viaja: mais de 4 mil voos cancelados na sexta e 3.314 no sábado de manhã. Azul e LATAM cancelaram voos entre o Brasil e os EUA. Se o seu caiu, a Anac manda procurar a companhia aérea, que tem de remarcar ou devolver o dinheiro.\n\nVídeo: GloboNews (13/11/2026). Fontes: Al Jazeera e CNN (13/11/2026); Jornal do Comércio (14/11/2026, dados FlightAware); Aliados Brasil (14/11/2026).\n\n#eua #voos #aviacao #viagem",
+ "fontes": [
+  {
+   "titulo": "Al Jazeera (13/11/2026): US grounds all flights after communication issue",
+   "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+  },
+  {
+   "titulo": "Jornal do Comércio (14/11/2026): Mais de três mil voos estão cancelados nos EUA após pane",
+   "url": "https://www.jornaldocomercio.com/internacional/2026/11/1270522-mais-de-tres-mil-voos-estao-cancelados-nos-eua-apos-pane-que-paralisou-decolagens.html"
+  },
+  {
+   "titulo": "Aliados Brasil (14/11/2026): Suspensão nos EUA provoca cancelamentos e ajustes em voos no Brasil",
+   "url": "https://www.aliadosbrasiloficial.com.br/noticia/suspensao-nos-eua-provoca-cancelamentos-e-ajustes-em-voos-no-brasil"
+  },
+  {
+   "titulo": "GloboNews (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=FAsLMET2UrU"
+  }
+ ],
+ "trecho_txt": "GloboNews (13/11/2026), correspondente nos EUA no anúncio da FAA",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}

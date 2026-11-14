@@ -1,0 +1,90 @@
+{
+ "id": "sug-video-eduardo-uniao-europeia",
+ "carrossel_id": "sug-video-eduardo-uniao-europeia",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-eduardo-uniao-europeia-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-eduardo-uniao-europeia",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Sábado 14/11 (conversa, PC liberado): vídeo do Eduardo Bolsonaro em Washington (Itatiaia, 13/11) respondendo ao reconhecimento da eleição pela União Europeia com a comparação com Chávez e Maduro. Corte só até a comparação; a parte sobre urna e auditoria ficou de fora (afirmação sem prova). Outro lado na legenda: UE, Macron, Merz e Sánchez parabenizaram Lula em 26/10 (SBT News).",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T12:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "Eduardo: \"quantas eleições do Chávez e do Maduro a União Europeia teve que reconhecer?\"",
+ "para_quem": "quem votou no Flávio e quem quer saber o que a família Bolsonaro está fazendo nos EUA",
+ "promessa": "um jornalista perguntou que a União Europeia reconheceu a eleição do Brasil",
+ "paga_em": "quantas eleições do Hugo Chávez e do Maduro a União Europeia teve que reconhecer antes de finalmente entender que estava diante de uma ditadura?",
+ "diferenciacao": "o corte para antes da parte sem prova (urna e auditoria) e a legenda traz quem reconheceu a eleição e quando",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Eduardo rebate a UE: ==\"quantas eleições do Maduro?\"=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "quantas eleições do Hugo Chávez e do Maduro a União Europeia teve que reconhecer antes de finalmente entender que estava diante de uma ditadura",
+  "inicio": "A gente está aqui em Washington",
+  "fim": "antes de começar a mudar as coisas",
+  "texto": "",
+  "gancho": "quantas eleições do Hugo Chávez e do Maduro a União Europeia teve que reconhecer antes de finalmente entender que estava diante de uma ditadura",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "Meus amigos",
+    "texto": "26/10: UE, Macron, Merz e Sánchez parabenizaram Lula pela vitória"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "girar": "nao"
+ },
+ "video_url": "https://www.youtube.com/watch?v=hA5N3OP2Ed4",
+ "cta": true,
+ "legenda": "Eduardo Bolsonaro está em Washington com o irmão, Flávio, e respondeu assim a quem lembra que a União Europeia reconheceu a eleição de Lula.\n\nO reconhecimento veio em 26/10, no dia seguinte ao resultado: Ursula von der Leyen (\"Parabéns ao meu amigo, Lula\"), António Costa, Emmanuel Macron, Friedrich Merz e Pedro Sánchez. No mesmo dia, Eduardo publicou um vídeo em inglês pedindo que a comunidade internacional não reconhecesse a eleição, sem apresentar prova de fraude.\n\nNo Brasil, a contestação que anda é outra: uma ação do Novo no TSE contra a chapa Lula-Alckmin por abuso de poder político, admitida em 05/11 e ainda sem julgamento.\n\nVídeo: Itatiaia (13/11/2026). Fontes: SBT News (26/10/2026); Metrópoles (26/10/2026); Congresso em Foco (13/11/2026).\n\n#eduardobolsonaro #uniaoeuropeia #lula #eleicoes",
+ "fontes": [
+  {
+   "titulo": "SBT News (26/10/2026): Líderes europeus parabenizam Lula por reeleição",
+   "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/lideres-europeus-parabenizam-lula-por-reeleicao-no-brasil"
+  },
+  {
+   "titulo": "Metrópoles (26/10/2026): Em vídeo em inglês, Eduardo Bolsonaro acusa eleições de fraude sem provas",
+   "url": "https://www.metropoles.com/brasil/em-video-em-ingles-eduardo-bolsonaro-acusa-eleicoes-de-fraude-sem-provas"
+  },
+  {
+   "titulo": "Itatiaia (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=hA5N3OP2Ed4"
+  }
+ ],
+ "trecho_txt": "Itatiaia (13/11/2026), vídeo de Eduardo Bolsonaro em Washington",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}

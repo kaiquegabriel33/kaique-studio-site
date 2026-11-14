@@ -1,0 +1,93 @@
+{
+ "id": "sug-video-cnn-oposicao-ajuste-pt",
+ "carrossel_id": "sug-video-cnn-oposicao-ajuste-pt",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-cnn-oposicao-ajuste-pt-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-oposicao-ajuste-pt",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Sábado 14/11 (conversa, PC liberado): comentário da Thais Herédia no Hora H (CNN, 13/11): a maior resistência ao ajuste fiscal não vem da direita, vem do PT (#AjusteNão, 'Guido Mantega não'). Pauta que um lado compartilha como voz dele, com fato conferido (CNN/Tainá Falcão, IstoÉ) e o outro lado (resolução do Diretório Nacional do PT de apoio).",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-13T19:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "CNN: a maior oposição ao ajuste fiscal está no próprio PT",
+ "para_quem": "quem acompanha o ajuste fiscal e a briga dentro da base do governo",
+ "promessa": "A maior oposição também não vem da direita ou do bolsonarismo",
+ "paga_em": "Resta saber se ele vai ouvir o povo ou se ele vai governar",
+ "diferenciacao": "na legenda, os nomes que a fala não dá (Lindbergh, Natália Bonavides, Ana Elisa) e o que o PT oficial diz",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "A maior oposição ao ajuste ==está no próprio PT=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "A maior oposição também não vem da direita ou do bolsonarismo, ela está no próprio Partido dos Trabalhadores",
+  "inicio": "O inusitado nessa batalha",
+  "fim": "ou se ele vai governar",
+  "texto": "",
+  "gancho": "A maior oposição também não vem da direita ou do bolsonarismo, ela está no próprio Partido dos Trabalhadores",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "Fogo amigo",
+    "texto": "Deputados do PT preparam emendas ao ajuste na Câmara"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=PUN-y2eKLFM",
+ "cta": true,
+ "legenda": "O ajuste fiscal passou no Senado com a oposição votando contra. Mas a resistência que mais preocupa o governo agora está do lado de dentro.\n\nNa Câmara, deputados do PT preparam emendas. Lindbergh Farias disse esperar que a equipe econômica não esteja \"cedendo à chantagem do mercado\", e Ana Elisa (PT-MG) que o \"Brasil não pode se ajoelhar a banqueiros\". Eles querem taxar super-ricos, bancos, LCA e LCI e temem pelo salário mínimo e pelas verbas de saúde e educação.\n\nO outro lado: o Diretório Nacional do PT aprovou resolução de apoio ao pacote e culpou o Banco Central pelos juros. O governo quer votar na Câmara antes do Orçamento, até 17/12.\n\nVídeo: CNN Brasil, Hora H (13/11/2026). Fontes: CNN Brasil, blog Tainá Falcão (13/11/2026); IstoÉ; SpaceMoney.\n\n#ajustefiscal #pt #lula #camara",
+ "fontes": [
+  {
+   "titulo": "CNN Brasil, blog Tainá Falcão (13/11/2026): Ala do PT deve resistir ao ajuste do governo",
+   "url": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/ala-do-pt-deve-resistir-ao-ajuste-do-governo-que-preve-economia-de-r-60-bi/"
+  },
+  {
+   "titulo": "IstoÉ: pacote fiscal, Senado e resistência do PT",
+   "url": "https://istoe.com.br/pacote-fiscal-lula-senado-resistencia-pt-2026"
+  },
+  {
+   "titulo": "SpaceMoney: PT apoia ajuste fiscal e culpa Banco Central",
+   "url": "https://www.spacemoney.com.br/politica/pt-apoia-ajuste-fiscal-e-culpa-banco-central"
+  },
+  {
+   "titulo": "CNN Brasil, Hora H (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=PUN-y2eKLFM"
+  }
+ ],
+ "trecho_txt": "CNN Brasil, Hora H (13/11/2026), comentário de Thais Herédia",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}
