@@ -1,0 +1,89 @@
+{
+ "id": "sug-video-fux-6x1-recomeca-do-zero",
+ "carrossel_id": "sug-video-fux-6x1-recomeca-do-zero",
+ "status": "pronto",
+ "publicado_em": "2026-11-15T15:00:00-03:00",
+ "arquivo": "sug-video-fux-6x1-recomeca-do-zero-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-fux-6x1-recomeca-do-zero",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Domingo 15/11, 19h: Fux pediu destaque e levou ao plenário físico o julgamento da liminar de Dino sobre a transição para o fim da 6x1; os 4 votos dados caem. Repórter do SBT Brasil explica o que vale agora. Notícia em alta (CNN 135 mil, UOL 47 mil, Band 38 mil views em 20 h). Fatos: SBT News e Jornal da Band (14/11), Valor (14/11).",
+ "prioridade": 1,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "alta",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-15T15:00:00-03:00",
+ "atualizado": "2026-11-15T15:00",
+ "fato_em": "2026-11-14T20:00:00-03:00",
+ "titulo": "Fux leva a 6x1 ao plenário físico do STF: votos descartados e julgamento recomeça do zero (SBT Brasil)",
+ "para_quem": "quem trabalha na 6x1 e está esperando a mudança de 16/12",
+ "promessa": "O que muda agora? As regras atuais continuam ou não valendo?",
+ "paga_em": "A decisão do ministro Flávio Dino segue em vigor",
+ "diferenciacao": "o que vale para o trabalhador enquanto o STF não julga, na legenda: 16/12, 8 folgas no mês, 90 dias para acordo",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Julgamento da ==6x1== no STF volta à estaca zero"
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "o julgamento vai recomeçar do zero",
+  "inicio": "A decisão do ministro Flávio Dino segue em vigor",
+  "fim": "oito dias de folga no mês",
+  "texto": "",
+  "gancho": "Os votos já registrados serão descartados e o julgamento vai recomeçar do zero",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "quatro ministros haviam",
+    "texto": "Placar estava 4 a 0 para manter a liminar de Dino"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=vFnwPx2Zue0",
+ "cta": true,
+ "legenda": "O fim da 6x1 continua marcado para começar em 16 de dezembro, mas o julgamento no STF voltou à estaca zero.\n\nO ministro Luiz Fux pediu destaque e levou ao plenário físico a liminar de Flávio Dino sobre a transição. Os 4 votos que já mantinham a decisão de Dino caem, e o presidente do STF, Edson Fachin, ainda vai marcar a data.\n\nEnquanto isso, vale a liminar: a 1ª etapa da jornada de 5 dias de trabalho e 2 de descanso começa em 16/12; as duas folgas na mesma semana deixam de ser obrigatórias, mas o trabalhador tem de ter 8 folgas no mês, e empresas e sindicatos têm 90 dias para fechar acordo.\n\nVídeo: SBT Brasil (14/11/2026). Fontes: SBT News e Jornal da Band (14/11/2026); Valor (14/11/2026).\n\n#6x1 #stf #trabalho #clt",
+ "fontes": [
+  {
+   "titulo": "SBT News (YouTube, 14/11/2026): Fim da 6x1: Fux suspende julgamento e leva decisão ao plenário do STF",
+   "url": "https://www.youtube.com/watch?v=vFnwPx2Zue0"
+  },
+  {
+   "titulo": "Jornal da Band (YouTube, 14/11/2026): Fux leva julgamento sobre a transição da 6x1 para o plenário físico",
+   "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo"
+  },
+  {
+   "titulo": "Valor (14/11/2026): Fux interrompe julgamento sobre fim da 6x1 e leva caso ao plenário físico do STF",
+   "url": "https://valor.globo.com/politica/noticia/2026/11/14/fux-interrompe-julgamento-sobre-fim-da-6x1-e-leva-caso-ao-plenario-fisico-do-stf.ghtml"
+  }
+ ],
+ "trecho_txt": "SBT Brasil (14/11/2026), repórter Vitória Melo",
+ "sugerido_por": "rotina Reels de teste 15/11 14h20 (disparou 14:50)",
+ "noticia_grande": true,
+ "vence_em": "2026-11-16T23:59:00-03:00"
+}
