@@ -80,5 +80,23 @@
  ],
  "trecho_txt": "Jornal da Band, Aconteceu na Semana (15/11/2026)",
  "sugerido_por": "rotina Reels de teste 15/11 14h20 (disparou 14:50)",
- "vence_em": "2026-11-17T23:59:00-03:00"
+ "vence_em": "2026-11-17T23:59:00-03:00",
+ "agendado_metricool": {
+  "id": 429156354,
+  "uuid": "4076217805597262042",
+  "para": "2026-11-15T19:40:00",
+  "tipo": "TRIAL_REEL",
+  "isAiGenerated": false,
+  "em": "2026-11-15T15:45:00-03:00"
+ },
+ "agendado_tiktok": {
+  "id": 429156518,
+  "uuid": "-376430668120176304",
+  "para": "2026-11-15T21:00:00",
+  "tipo": "tiktok",
+  "em": "2026-11-15T15:45:00-03:00"
+ },
+ "nota_lote": "AGENDADO 15/11 (rotina Reels de teste 14h20): IG 19:40 (Reel de teste) e TT 21:00; corte puro 1,1x; mídia conferida no Metricool pelo tamanho. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-15T15:45:00-03:00"
 }

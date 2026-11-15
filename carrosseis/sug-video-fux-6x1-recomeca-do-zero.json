@@ -85,5 +85,23 @@
  "trecho_txt": "SBT Brasil (14/11/2026), repórter Vitória Melo",
  "sugerido_por": "rotina Reels de teste 15/11 14h20 (disparou 14:50)",
  "noticia_grande": true,
- "vence_em": "2026-11-16T23:59:00-03:00"
+ "vence_em": "2026-11-16T23:59:00-03:00",
+ "agendado_metricool": {
+  "id": 429156119,
+  "uuid": "-7479729338879884138",
+  "para": "2026-11-15T19:00:00",
+  "tipo": "TRIAL_REEL",
+  "isAiGenerated": false,
+  "em": "2026-11-15T15:45:00-03:00"
+ },
+ "agendado_tiktok": {
+  "id": 429156459,
+  "uuid": "357399585060244717",
+  "para": "2026-11-15T19:40:00",
+  "tipo": "tiktok",
+  "em": "2026-11-15T15:45:00-03:00"
+ },
+ "nota_lote": "AGENDADO 15/11 (rotina Reels de teste 14h20): IG 19:00 (Reel de teste) e TT 19:40; corte puro 1,1x; mídia conferida no Metricool pelo tamanho. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-15T15:45:00-03:00"
 }
