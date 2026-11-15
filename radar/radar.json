@@ -1,7 +1,123 @@
 {
- "atualizado": "2026-11-15T15:06-03:00",
- "em_alta": [],
+ "atualizado": "2026-11-15T15:53-03:00",
+ "em_alta": [
+  {
+   "termo": "alerta severo de chuvas intensas",
+   "trafego": "200+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "BH registra chuva forte e granizo nesta tarde de domingo",
+     "url": "https://g1.globo.com/mg/minas-gerais/video/bh-registra-chuva-forte-e-granizo-nesta-tarde-de-domingo-15190031.ghtml",
+     "veiculo": "G1"
+    },
+    {
+     "titulo": "Inmet: chuvas e tempestades predominam no país, neste fim de semana",
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-chuvas-e-tempestades-predominam-no-pais-neste-fim-de-semana",
+     "veiculo": "Agência Brasil"
+    },
+    {
+     "titulo": "Previsão do Tempo: fim de semana será marcado por temperaturas altas e pancadas de chuva",
+     "url": "https://record.r7.com/fala-brasil/video/previsao-do-tempo-fim-de-semana-sera-marcado-por-temperaturas-altas-e-pancadas-de-chuva-14112026/",
+     "veiculo": "R7"
+    }
+   ],
+   "publicado": "2026-11-15T10:30:00-08:00"
+  },
+  {
+   "termo": "marcelo sangalo",
+   "trafego": "200+",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Filho de Ivete Sangalo e Daniel Cady diz ter canções prontas para lançar: 'Vou construir minha carreira devagarzinho'",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/11/filho-de-ivete-sangalo-e-daniel-cady-diz-ter-cancoes-prontas-para-lancar-vou-construir-minha-carreira-devagarzinho.shtml",
+     "veiculo": "UOL"
+    },
+    {
+     "titulo": "Marcelo Sangalo, filho de Ivete, fala de carreira na música: 'Estou com bastante música pronta'",
+     "url": "https://revistaquem.globo.com/entretenimento/musica/noticia/2026/11/marcelo-sangalo-filho-de-ivete-fala-de-carreira-na-musica-estou-com-bastante-musica-pronta.ghtml",
+     "veiculo": "Globo"
+    },
+    {
+     "titulo": "A escritora e #influenciadora Cintia Chagas (@cintiachagass) desembarcou na Bahia para prestigiar a #comemoração do #aniversário do relações-públicas e promoter Juan Moraes (@juanmoraes). A programação reúne diferentes encontros e cenários em",
+     "url": "https://www.instagram.com/p/DfuMsLwFZHv/",
+     "veiculo": "Instagram"
+    }
+   ],
+   "publicado": "2026-11-15T10:10:00-08:00"
+  }
+ ],
  "pautas": [
+  {
+   "id": "18f2675884",
+   "titulo": "Milei confirma candidatura à reeleição em 2027",
+   "url": "https://valor.globo.com/mundo/noticia/2026/11/15/milei-confirma-candidatura-reeleio-em-2027.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-15T18:00:34+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Milei+confirma+candidatura+reelei%C3%A7%C3%A3o+2027",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
+     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI"
+    },
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
+     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
+     "url": "https://www.youtube.com/watch?v=21bA39k6YL0"
+    },
+    {
+     "veiculo": "ncnews.com.br",
+     "titulo": "Milei confirma que vai disputar reeleição na Argentina em 2027 e promete novos cortes de impostos",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Nb1FyODJ3YW4zUTYxeXNLbHhCX0M4U1N2NC0zczZGVjYxaDkwckdKUFl3U2dtTXFWb2g1OFZIc3UxZ2sxbnI2V0Q0aWlKVUR0cHRVb3oxSU9NbHppVHJjcVNzQVlDSFZlY3RRUm8yNGQ?oc=5"
+    }
+   ],
+   "score": 37.7,
+   "video_url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 10293,
+   "video_acima_mediana": 19.9,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
+     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
+     "por_hora": 10293
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
+     "url": "https://www.youtube.com/watch?v=21bA39k6YL0",
+     "por_hora": 2200
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
+     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk",
+     "por_hora": 1442
+    }
+   ]
+  },
   {
    "id": "255f4120a7",
    "titulo": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
@@ -36,14 +152,14 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmRpendpN184OXJNRHBPQ0lpcXBZQ0Q2elRSamd6Y1BjWUF2TjRtdEM0dHJlRnNPQTMwajVhRUxQV3NrZER1ZGlsSms4d2RZX0pkczU4eFZpRHl6a1phWE1jY1VzeDQ4VkU1Z0E2WV9mN1R5dUl2ZmtnMDdjejJTMTVOa3ZiVEF0cGtHNkpvMlVfMkF5NjlnRnFjTE9ybUZRcm5DWWRodlVXcVBYeXpwYzQ0Tm8yY2t3NWZtMTZ6dnZCampNSUJoQkVsbFk?oc=5"
     }
    ],
-   "score": 35.6
+   "score": 35.3
   },
   {
    "id": "4e5e93dacd",
    "titulo": "Fux interrompe julgamento sobre fim da 6x1 e leva caso ao plenário físico do STF",
    "url": "https://valor.globo.com/politica/noticia/2026/11/14/fux-interrompe-julgamento-sobre-fim-da-6x1-e-leva-caso-ao-plenario-fisico-do-stf.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-15T00:06:54.231919+00:00",
+   "publicado": "2026-11-14T23:53:54.959514+00:00",
    "temas": [
     "mercado",
     "politica"
@@ -75,92 +191,29 @@
      "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-fux-pede-destaque-e-leva-decisao-de-dino-a-julgamento-presencial-no-stf-npr/"
     }
    ],
-   "score": 33.5,
+   "score": 33.1,
    "video_url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
    "video_canal": "UOL",
-   "video_por_hora": 2556,
-   "video_acima_mediana": 1.8,
+   "video_por_hora": 2474,
+   "video_acima_mediana": 1.5,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Fux interrompe julgamento do fim da 6x1; caso vai ao plenário físico do STF",
      "url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
-     "por_hora": 2556
+     "por_hora": 2474
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF | Jornal da Band",
      "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo",
-     "por_hora": 2111
+     "por_hora": 2000
     },
     {
      "canal": "MyNews",
      "titulo": "ENTENDA A DECISÃO DE FLÁVIO DINO SOBRE A ESCALA 6X1",
      "url": "https://www.youtube.com/watch?v=iPfeGfBXNgs",
      "por_hora": 38
-    }
-   ]
-  },
-  {
-   "id": "0a33f9799f",
-   "titulo": "Milei confirma intenção de disputar reeleição na Argentina em 2027",
-   "url": "https://www.cnnbrasil.com.br/internacional/milei-confirma-intencao-de-disputar-reeleicao-na-argentina-em-2027/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-15T16:11:39+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Milei+confirma+inten%C3%A7%C3%A3o+disputar+reelei%C3%A7%C3%A3o+Argentina+2027",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
-     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI"
-    },
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
-     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk"
-    },
-    {
-     "veiculo": "ncnews.com.br",
-     "titulo": "Milei confirma que vai disputar reeleição na Argentina em 2027 e promete novos cortes de impostos",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Nb1FyODJ3YW4zUTYxeXNLbHhCX0M4U1N2NC0zczZGVjYxaDkwckdKUFl3U2dtTXFWb2g1OFZIc3UxZ2sxbnI2V0Q0aWlKVUR0cHRVb3oxSU9NbHppVHJjcVNzQVlDSFZlY3RRUm8yNGQ?oc=5"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
-     "url": "https://www.youtube.com/watch?v=21bA39k6YL0"
-    }
-   ],
-   "score": 32.8,
-   "video_url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 14034,
-   "video_acima_mediana": 20.9,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
-     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
-     "por_hora": 14034
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
-     "url": "https://www.youtube.com/watch?v=21bA39k6YL0",
-     "por_hora": 1767
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
-     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk",
-     "por_hora": 914
     }
    ]
   },
@@ -202,17 +255,17 @@
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTmhicDd2cnZ5a2R3dHF5VTV6ZW9MQmFBMkplWUZPbjJDVTkwemFpSDd6T08zNEZ0T2NRV2VKX1RsMmVXaXRWVzJLZ0Y5LW52Yl84RE5TRHRlRHlhTHhDRkQxdTlSWWZvYV9aUXZmSkV5b2d1Qm1zRDdYdGZkTTQ3QlpaMTdFbzBCU1dqUHM3UVJ2TWFlbXlmbXJDYjBMU3BpdnFyNmtjd0tBTy15Z3F1dEZVeVprQkZRd0w0Z1E3SFZ0N2swUzZmaE9BTUdLS2dGMXUwb0Q1dW4tN2xIZ2lTVmEzWjBTQ0VVR1JyZHRvVDhfdGhxbmo4ZFJuN0JzQQ?oc=5"
     }
    ],
-   "score": 32.2,
+   "score": 32.0,
    "video_url": "https://www.youtube.com/watch?v=DM_RyXcF1gY",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 633,
-   "video_acima_mediana": 0.9,
+   "video_por_hora": 746,
+   "video_acima_mediana": 1.4,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Ala do PT defende ajuste fiscal com mais impostos",
      "url": "https://www.youtube.com/watch?v=DM_RyXcF1gY",
-     "por_hora": 633
+     "por_hora": 746
     }
    ]
   },
@@ -249,7 +302,7 @@
      "url": "https://valor.globo.com/politica/noticia/2026/11/15/agenda-de-politica-senado-deve-concluir-analise-do-projeto-do-governo-com-medidas-de-ajuste-fiscal.ghtml"
     }
    ],
-   "score": 30.4
+   "score": 30.1
   },
   {
    "id": "606afd8a98",
@@ -265,21 +318,16 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Como+receber+cashback+reforma+tribut%C3%A1ria+Veja+voc%C3%AA+tem+direito",
-   "veiculos": 3,
+   "veiculos": 2,
    "rotina": false,
    "outras": [
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Saiba quem terá direito a benefício do \"cashback\" na reforma tributária",
-     "url": "https://www.metropoles.com/brasil/saiba-quem-tera-direito-a-beneficio-do-cashback-na-reforma-tributaria"
-    },
     {
      "veiculo": "g1",
      "titulo": "'Cashback' da reforma tributária: cerca de 70 milhões de pessoas começam a receber o benefício em janeiro; veja o que é preciso fazer",
      "url": "https://g1.globo.com/economia/noticia/2026/11/15/cashback-da-reforma-tributaria-cerca-de-70-milhoes-de-pessoas-comecam-a-receber-o-beneficio-em-janeiro-veja-o-que-e-preciso-fazer.ghtml"
     }
    ],
-   "score": 29.7
+   "score": 26.3
   },
   {
    "id": "94d8a6fbd7",
@@ -309,7 +357,7 @@
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEVzaGY0Y0NFRHJxUlhEcWNFZzRmZWM3X3hDSnJuRk1jUzlrbnB0NFI5NW9WUldDdHYwQjlNS3NqVkJTX1lESF9mcjVqd0xEVUpvekh0bTBDcGg3YUNERVl2ZEU5eTZiendNSU53MDVhZTJFZ2hOMnduQm9qRkFiWnhkRFFYc1N6SzA4eDZKNFg3WWRtOTlsTnpUR1FFUkNOSWxaY2t6UVE0SGotSEJMbGNnZ1RLQlE5YzU1RHRfVGx3V0VUb3NwQ2NWYi1YNlRyQ01pTXB6NE94MzN0X05qSC04WW5DeXpnMjZmRktOUnFTZw?oc=5"
     }
    ],
-   "score": 26.5,
+   "score": 26.1,
    "video_url": "https://www.youtube.com/watch?v=MdPjKHRvjPw",
    "video_canal": "InfoMoney",
    "video_por_hora": 542,
@@ -324,107 +372,11 @@
    ]
   },
   {
-   "id": "41ec9ec3aa",
-   "titulo": "Ajuste fiscal aprovado no Senado e contas para 2027; Julian Alexienco Portillo analisa",
-   "url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-15T15:26:56+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+aprovado+Senado+contas+para+2027+Julian+Alexienco",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 25.8,
-   "video_url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 2267,
-   "video_acima_mediana": 3.4,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Ajuste fiscal aprovado no Senado e contas para 2027; Julian Alexienco Portillo analisa",
-     "url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
-     "por_hora": 2267
-    }
-   ]
-  },
-  {
-   "id": "9befc70db5",
-   "titulo": "Lula ataca big techs e \"tarifas injustas\" contra sul global em viagem às Filipinas | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-15T17:41:53+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+ataca+big+techs+tarifas+injustas+contra+sul+global",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 25.6,
-   "video_url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 4558,
-   "video_acima_mediana": 3.1,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula ataca big techs e \"tarifas injustas\" contra sul global em viagem às Filipinas | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
-     "por_hora": 4558
-    }
-   ]
-  },
-  {
-   "id": "8bf2c6521c",
-   "titulo": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
-   "url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-15T17:33:34+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+mira+superavit+mant%C3%A9m+programas+sociais%2C+diz+Alckmin",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Poder360",
-     "titulo": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
-     "url": "https://www.poder360.com.br/poder-educacao/ajuste-fiscal-mira-superavit-e-mantem-programas-sociais-diz-alckmin/"
-    }
-   ],
-   "score": 25.2,
-   "video_url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
-   "video_canal": "Poder360",
-   "video_por_hora": 1148,
-   "video_acima_mediana": 3.1,
-   "videos": [
-    {
-     "canal": "Poder360",
-     "titulo": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
-     "url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
-     "por_hora": 1148
-    }
-   ]
-  },
-  {
    "id": "a1d06ddb84",
    "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
    "url": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
    "veiculo": "Money Times",
-   "publicado": "2026-11-14T20:06:54.231919+00:00",
+   "publicado": "2026-11-14T19:53:54.959514+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -442,17 +394,17 @@
      "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE"
     }
    ],
-   "score": 24.9,
+   "score": 24.5,
    "video_url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
    "video_canal": "UOL",
-   "video_por_hora": 5273,
-   "video_acima_mediana": 3.6,
+   "video_por_hora": 5087,
+   "video_acima_mediana": 3.1,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
      "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-     "por_hora": 5273
+     "por_hora": 5087
     }
    ]
   },
@@ -482,7 +434,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUEyTVRKUHlSSXhaX2REZVIxMklHYjhlRFZLTVc2VTR5SDJiNDhDcUhXcEpkQ0h1NzFrZGUtVF9VMUFBdGNSZ0hLOGd1SGdfTWRUS0NFVmJIVlhIeVVocmp1d3pFVjc3X2pvSjNfRHhFdVlENldLeUNrMW1ST0k1NWZlMHA2Mm5fbFpwazhIb1pmS2RBT3o0dWdWUTIyaVFCa0tnbkJvYnBuZw?oc=5"
     }
    ],
-   "score": 24.8
+   "score": 24.4
   },
   {
    "id": "4626b6401c",
@@ -500,7 +452,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 24.7
+   "score": 24.3
   },
   {
    "id": "6b64c8bfa6",
@@ -539,7 +491,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb21HNURpWG5aU09EWVpkQTQwbFNVVEpPVW1fd1p3OHRSYkZaSlUwQ0NOeloyN003ZlFacFZ2MmxLZGZkckcya2Rkc2JRd0hWeTFUdlluUS1UbTdURTNJLU1HSkNWSDFPRkdLUUlVVDl4amFvTnl3eld6dnY5Y3BpanY4eTEyLWh3WHJPaWNqRUZadS1RNTl3MFRSUTNVaERSdjgxbjNxRGM?oc=5"
     }
    ],
-   "score": 23.6
+   "score": 23.3
   },
   {
    "id": "16e3d6fa9f",
@@ -562,7 +514,7 @@
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjBCekdiMEVJRTBFLXJ1bFFGaVFlQmt4a0ZXU1ZDR0o1TklLOVBjbXRUYWVyVm1vSkRPZTR4U1FHMW41aHJxRFpjY2pndU1peDJnbWxUVEYzNC1ZMFEyOEZRcHl2Y1hRYlRiQ0JTejVuWU5scHpGalE3NTV4TUxQUkNvd0RndVI5Qms4OXhCSmhVNnVZ0gGaAUFVX3lxTE9FOW94VHNkRnh2X2hDNkhmNzJKdjNoQjdQMEhKbFJ1Mlk0d0ZUVnh4NnJiRTdmemFwcXlCcjh3cy1oWXRtYktwaVliTW1FdG9HZUhfaUtsLTFGaDJxUWdzT3VQRmkydDZTcTMzdHpvdFQ0cjY5MDFYOURTeDVlSjFBVDZmNGthSzQwNkxDVmxlSzFkSG9VaVdMc3c?oc=5"
     }
    ],
-   "score": 23.2
+   "score": 22.9
   },
   {
    "id": "bda87a3424",
@@ -580,53 +532,55 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.9
+   "score": 22.6
   },
   {
-   "id": "5e76e58e3e",
-   "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
-   "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
-   "veiculo": "Estadão",
-   "publicado": "2026-11-15T14:59:08+00:00",
+   "id": "dfd2e9d18f",
+   "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
+   "url": "https://www.youtube.com/watch?v=44-eug7bATs",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T13:53:54.959514+00:00",
    "temas": [
-    "politica"
+    "economia",
+    "mercado"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=inv%C3%A9s+ficar+chorando%2C+fomos+buscar+novos+parceiros+diz+Lula%2C",
-   "veiculos": 2,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+perto+maior+cota%C3%A7%C3%A3o+meses+Gilberto+Braga+analisa+impacto",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
-     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
-     "url": "https://www.estadao.com.br/economia/ao-inves-de-ficar-chorando-fomos-buscar-novos-parceiros-diz-lula-sobre-tarifaco-de-trump/"
-    }
-   ],
+   "outras": [],
    "score": 22.0,
-   "video_url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
-   "video_canal": "UOL",
-   "video_por_hora": 10800,
-   "video_acima_mediana": 7.4,
+   "video_url": "https://www.youtube.com/watch?v=44-eug7bATs",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 2600,
+   "video_acima_mediana": 5.0,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
-     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
-     "por_hora": 10800
-    },
-    {
-     "canal": "Estadão",
-     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
-     "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
-     "por_hora": 1095
+     "canal": "Jovem Pan News",
+     "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
+     "url": "https://www.youtube.com/watch?v=44-eug7bATs",
+     "por_hora": 2600
     }
    ]
+  },
+  {
+   "id": "8b6acfd929",
+   "titulo": "Selic a 13,75% veio para ficar? JP Morgan vê riscos de o ajuste fiscal não surtir efeito e pressionar os juros",
+   "url": "https://www.seudinheiro.com/2026/economia/selic-a-1375-veio-para-ficar-jp-morgan-ve-riscos-de-o-ajuste-fiscal-nao-surtir-efeito-e-pressionar-os-juros-davs/",
+   "veiculo": "Seu Dinheiro",
+   "publicado": "2026-11-15T18:07:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Selic+13%2C75%25+veio+para+ficar+Morgan+riscos+ajuste+fiscal",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.7
   },
   {
    "id": "6f17fb5b0d",
@@ -650,7 +604,24 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN0ZvWkk0d2RodGZ5NXFTZWY0UEtUMDNLOVNuVmpXRno0aDAwbU9vN3V5YUJ2cTRtX0dmaWRSSHhtR3EtQmNXXzZlVnhIMGw5WnFDamJOaXJKWnBob05Udmw4R0FqX3o0UUg0Q29mWUtDLU5NclFuMHJNTzJwc20xeWZyNU0wbGMwVkFuVkdncDNqQmhMTTV1TVYyeG5TcWNra3k2MUE4Y1UwWHZzRERlT2pkZXREZTBqUl9DRHNvVmJ6eFRzTFV2NWhEX05ydktmRTgzMWRKdE8xYnfSAeoBQVVfeXFMTzZaZHdFbW5Mcnk1RlNWeXdob1Y4LXRlNVYyM1kzZDQxZmVsTFI5ZmlzanJZTFV1SGtXY0ViSXdaSXdFSk1SdzVsbWNuSHJsX0FvRFpleWdwVkFJanJOVC1ScEtaNWVOXzRtcWluQXREWlBiTHR5eER0MTZnN2NQZjBsbHZEOFFsVjkxVlhrdTRjUXhCM1ZkNWt0eTdmT0pPQ1ZyazJ1MTM5OFJsY05WWG1xSmowMDlXQWtGU0hrWm5FRUI1eTBmVWZXQUhxeDZiRlhIa0JacFRSdmEwekswRENrRnkzZlZFMGZ3?oc=5"
     }
    ],
-   "score": 22.0
+   "score": 21.7
+  },
+  {
+   "id": "2a3e24f820",
+   "titulo": "Ações da Petrobras tentam reagir após queda de mais de 3%; o que pesa sobre a estatal?",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHNLbTR3R21SZUJjWmEtTVU0V1lnZFhpU0xfLU0zNXJTd2dLRHQ2U1ExVHYxR25JU004RE8tT3ZnWDU0b3RrY1lQdzRxUTg2OEpKQmcxU2VYNTlncE5RUWlZOGh1WjRkaG1qanVfbjhtOWJUa2U2Zk1yNzFMU1VFWUVNVzlkai1VQ2F3eFMxc1VpbXFUS3hiRFB5dmpJR21XTHhzdVhPdzgyVk9IS0diUmUzQk5pZC1mXzlzVWpQT29uMWFUUFppQ2NJUkJ2TGRiMWxuRFdNeWdUNXdJRnc?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-15T18:03:02+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%B5es+Petrobras+tentam+reagir+ap%C3%B3s+queda+mais+que+pesa",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.6
   },
   {
    "id": "9b190c1b7b",
@@ -667,37 +638,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.9
-  },
-  {
-   "id": "dfd2e9d18f",
-   "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
-   "url": "https://www.youtube.com/watch?v=44-eug7bATs",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-15T13:06:54.231919+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+perto+maior+cota%C3%A7%C3%A3o+meses+Gilberto+Braga+analisa+impacto",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.9,
-   "video_url": "https://www.youtube.com/watch?v=44-eug7bATs",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 2400,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
-     "url": "https://www.youtube.com/watch?v=44-eug7bATs",
-     "por_hora": 2400
-    }
-   ]
+   "score": 21.6
   },
   {
    "id": "f85a7435dd",
@@ -715,7 +656,53 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.9
+   "score": 21.6
+  },
+  {
+   "id": "5e76e58e3e",
+   "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
+   "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-15T14:59:08+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=inv%C3%A9s+ficar+chorando%2C+fomos+buscar+novos+parceiros+diz+Lula%2C",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Estadão",
+     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
+     "url": "https://www.estadao.com.br/economia/ao-inves-de-ficar-chorando-fomos-buscar-novos-parceiros-diz-lula-sobre-tarifaco-de-trump/"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
+     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw"
+    }
+   ],
+   "score": 21.3,
+   "video_url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
+   "video_canal": "UOL",
+   "video_por_hora": 9833,
+   "video_acima_mediana": 6.1,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
+     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
+     "por_hora": 9833
+    },
+    {
+     "canal": "Estadão",
+     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
+     "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
+     "por_hora": 1018
+    }
+   ]
   },
   {
    "id": "6449fb0513",
@@ -733,8 +720,84 @@
    "busca_video": "https://www.youtube.com/results?search_query=Macro+Semanal+Alta+D%C3%B3lar+faz+Ajuste+Fiscal+Governo+ser",
    "veiculos": 1,
    "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Macro Semanal: Alta do Dólar faz Ajuste Fiscal do Governo ser inevitável?",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDRSeUtOUmotNE1sYVFFblQyV2JNRk1BSE4zQXF4bDVadHJXV0JOa3A1SU5jWTJxT3ZOQ2VXd1NiNTFOM1NhMkVZR0h0MEJrTkJ2eDZPeTdoS3hjY2trX1dPU1lmZWJIbHVCY0NyeXZxWHE2QW9qTXdZNk9JV2tFX1pPcmpBd0dEbGdiSVRGWTgxUWxxOVVwbVhXbm5KckQ1OFF2U3JfTExNS0RoZ2dxVXNvbV9vUQ?oc=5"
+    },
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Macro Semanal: Alta do Dólar faz Ajuste Fiscal do Governo ser inevitável?",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDRSeUtOUmotNE1sYVFFblQyV2JNRk1BSE4zQXF4bDVadHJXV0JOa3A1SU5jWTJxT3ZOQ2VXd1NiNTFOM1NhMkVZR0h0MEJrTkJ2eDZPeTdoS3hjY2trX1dPU1lmZWJIbHVCY0NyeXZxWHE2QW9qTXdZNk9JV2tFX1pPcmpBd0dEbGdiSVRGWTgxUWxxOVVwbVhXbm5KckQ1OFF2U3JfTExNS0RoZ2dxVXNvbV9vUQ?oc=5"
+    }
+   ],
+   "score": 21.3
+  },
+  {
+   "id": "9befc70db5",
+   "titulo": "Lula ataca big techs e \"tarifas injustas\" contra sul global em viagem às Filipinas | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-15T17:41:53+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+ataca+big+techs+tarifas+injustas+contra+sul+global",
+   "veiculos": 1,
+   "rotina": false,
    "outras": [],
-   "score": 21.7
+   "score": 21.2,
+   "video_url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 4261,
+   "video_acima_mediana": 2.9,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Lula ataca big techs e \"tarifas injustas\" contra sul global em viagem às Filipinas | CNN AGORA",
+     "url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
+     "por_hora": 4261
+    }
+   ]
+  },
+  {
+   "id": "62118b3772",
+   "titulo": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
+   "url": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-15T12:51:47+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+defende+que+Brasil+exporte+conhecimento+tecnologia+volta+criticar",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk"
+    }
+   ],
+   "score": 21.2,
+   "video_url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+   "video_canal": "GloboNews",
+   "video_por_hora": 4283,
+   "video_acima_mediana": 11.2,
+   "videos": [
+    {
+     "canal": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+     "por_hora": 4283
+    }
+   ]
   },
   {
    "id": "76d0917e67",
@@ -762,41 +825,113 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWl4Ylh2bm5Dbi1BV2l2bkRycTUtaS1CNnVvUmFiWUFYR1prNHFJTzBIQmVjSjhvM2xIYnZKRzJuLVZwYkU1YVFqOEtrc0JIVTRjMjM4LU00V1A4VkdIRklnMDAyeVFKbFNFRGlNdGRaUW9hRGFyMjBWQWtRRE11SHNReF9rWTZiOXJ3cjdnZzd4aHkxZHNwQzJ6bjFsVHdhV0laaXNpbno4dw?oc=5"
     }
    ],
-   "score": 21.5
+   "score": 21.1
   },
   {
-   "id": "62118b3772",
-   "titulo": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
-   "url": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-15T12:51:47+00:00",
+   "id": "cd3053be28",
+   "titulo": "Lula participa de coletiva de imprensa nas Filipinas",
+   "url": "https://www.youtube.com/watch?v=UM79DxdoLq4",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-15T18:14:44+00:00",
    "temas": [
-    "economia",
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+defende+que+Brasil+exporte+conhecimento+tecnologia+volta+criticar",
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+participa+coletiva+imprensa+nas+Filipinas",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Lula",
+     "titulo": "Presidente Lula conversa com a imprensa nas Filipinas",
+     "url": "https://www.youtube.com/watch?v=AjX4XCriPZI"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Lula participa no domingo da abertura da Asean nas Filipinas e depois segue para Espanha",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/14/lula-participa-no-domingo-da-abertura-da-asean-nas-filipinas-e-depois-segue-para-espanha.ghtml"
+    }
+   ],
+   "score": 21.0,
+   "video_url": "https://www.youtube.com/watch?v=AjX4XCriPZI",
+   "video_canal": "Lula",
+   "video_por_hora": 8064,
+   "video_acima_mediana": 2.5,
+   "videos": [
+    {
+     "canal": "Lula",
+     "titulo": "Presidente Lula conversa com a imprensa nas Filipinas",
+     "url": "https://www.youtube.com/watch?v=AjX4XCriPZI",
+     "por_hora": 8064
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Lula participa de coletiva de imprensa nas Filipinas",
+     "url": "https://www.youtube.com/watch?v=UM79DxdoLq4",
+     "por_hora": 4009
+    }
+   ]
+  },
+  {
+   "id": "f21ca6eca0",
+   "titulo": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga 'tesouraço'",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ29JYUE1aFQ3Qm8tdE1UZ2x4V3N0YjVhMzViLWVTUkMxOEg3d0Z1bmJtZ2ZNTUQ5YTVjWWFNc21MMW9TUzFuQVJyZVFLVEd6bTJuSS1CREtOMkRKaFBtWm1oWVBNYlRWRlJTemVmTjN2Wnc4RGkxa3BiRjJCTTJSd1F5cUhkYjZXLUROXzVSNGJka3RiM3FRT3Y1djV6RWFTR29jclpBZmJ2UktTX3E0REd4a0haaWJvZ0VJYlBZamJTckJsMDNCZG5iTHoyRHZyZmxYVXQ2aC1HU0RBbXJTYjhzTmtBMzJfb2xGSHYzOG1iTHNRbzYxOV9BQXE3Y08yX21BZDl4dFo2ZFljTlE1bzZmbWhKYldhTHY5Sw?oc=5",
+   "veiculo": "Terra",
+   "publicado": "2026-11-15T18:34:01+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+Lula+considerado+t%C3%ADmido+pelo+mercado%2C+mas+racha",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "GloboNews",
-     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
-     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk"
+     "veiculo": "Blog do BG",
+     "titulo": "INSATISFAÇÃO GERAL: Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga ‘tesouraço’",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMDBvamNXcXJsczRiUjhsWFpmekt3Z3pXSDhYMUVNeGZqNlpOQ0FwUkwtdnNWTUVOX0dzUU9LWTlvbFE4ZWR0d0gzeXFJVmpLUjdJZ3VaQUF0cVhoNGpwZGZ3ZHl2cUJfZ3gyUFpkTVhQTzdxRk04RzRrRk4tOHZLQV9BaVNsT0xCUVg4MU52bnByYzEyUHNEXzhycUxYc2gxaFBsUlVtUUZvSWNrZG85enpRMUtwc1g4OENrdG93NDVGbjdpZmd1bDBIZ3NOVHZlVXZtdkQyV3FKMUpN?oc=5"
     }
    ],
-   "score": 21.5,
-   "video_url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
-   "video_canal": "GloboNews",
-   "video_por_hora": 4198,
-   "video_acima_mediana": 14.2,
+   "score": 20.9
+  },
+  {
+   "id": "8bf2c6521c",
+   "titulo": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
+   "url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-15T17:33:34+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+mira+superavit+mant%C3%A9m+programas+sociais%2C+diz+Alckmin",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Poder360",
+     "titulo": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
+     "url": "https://www.poder360.com.br/poder-educacao/ajuste-fiscal-mira-superavit-e-mantem-programas-sociais-diz-alckmin/"
+    }
+   ],
+   "score": 20.9,
+   "video_url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
+   "video_canal": "Poder360",
+   "video_por_hora": 1079,
+   "video_acima_mediana": 2.2,
    "videos": [
     {
-     "canal": "GloboNews",
-     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
-     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
-     "por_hora": 4198
+     "canal": "Poder360",
+     "titulo": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
+     "url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
+     "por_hora": 1079
     }
    ]
   },
@@ -827,7 +962,7 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmZkUzZGVVFELVBpVXlIUGVlZlFiYl80bS1hR1prOU9TblMwX0k1VW1rUXJCWVJGMmpBMFhnak5MTkdBZ1Uyb1BRQ1ZnLU1ubXp2blViYThUbm1kT2hhQkV5SEdsOS1wd2FGSkh0aGhpOEwtX01vQ1lXTjB6a2lGRWNMb3RLTWZ4Z2pfR2dLbjNrcExaaVp3RXgzT1FNR1ZUSDJfNzdQRmVNLVB2clNzUmlobnhNbXM?oc=5"
     }
    ],
-   "score": 20.9
+   "score": 20.6
   },
   {
    "id": "ad15201f86",
@@ -845,47 +980,14 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.6
-  },
-  {
-   "id": "40790deb2d",
-   "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjJ4Q0g5N1hQU0s4MG52LXRPeHIzbXRUaHlNaHRqZ19TcFRZQmRDSFVNMTBDS2hHcm04LThxZm9CS0tKS2E3eldLOVRadkpwWk5hTzM0MlppT0ZIdzBlTTJJdzJSS0ZTYnMtNlZ2R25xRm5QTUx0YmNMZVYteG4wNGZkZzdqdUotdFJCQnV6aTFJS3NhRXAtOFp5YXVmc1l6OWwwbzNrdWhyUQ?oc=5",
-   "veiculo": "Achei Sudoeste",
-   "publicado": "2026-11-15T07:08:22+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+financeiro+prev%C3%AA+juros+dois+d%C3%ADgitos+at%C3%A9+2030",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Prensa Mercosur",
-     "titulo": "Projeções do mercado financeiro apontam que taxa básica de juros deve permanecer em dois dígitos até 2030",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkpsR2ZUTlRPM2FSdFJ1ZWk4SGE3RnVOelJ6MkljYmxiLWF5WUxxUlhQaHhjZ3JSdlpOMDZ6LUJhdGZSelFjQ2pwY3JDX1ExMFhMem8yTmpJOXI2Qm5FY0lHd0U2bHNjeUtDQ2hOVWZxMk9DdzBJN0JsVDlMZFVXN2RXMFh3WHBtd0xMblEyM1FTM044eUNjRE1ZSUJEQnVmVlFZSWgzLXdiUE5xT0wzLWlBcjZUbFhZcE9ZZV82WjNvQkMyM2NRcnQzWVFUSl90WmpoeTJya2xMRVcw?oc=5"
-    },
-    {
-     "veiculo": "Jornal O Sul",
-     "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030 no País",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWWk5aVJnY0xqWDVWbWhDS2RIQ1FIRDhvZXdJanlNNC00M1hCR3A4aW91U3pXdDR2SEFZUDV0R2F4bW9PSm0xR3k1REd5VFlCcl9UT0ZLcEgzWnFUUzdXV2tVTldHWFpxdFZxa25JejByWmxuZUstYkZ1eWlGenJVblJMb2poWVFFckZRUGxrNGNFZ9IBlwFBVV95cUxQaHZIM2VoZFdRZEJPSTl6MWFuS3BBQ3h6emFaOHR2cExkcFNIdGMtNnlPLUVNSVA3UEUzZXh2QmhmRGRBMVFaT1dqMnNraHE3TmlWc0dZVG11RUM1X0Q0Q00yUnA2bHV1aTJjejMwUEhKUVRucWRHdXdHaXQ3RU1ZMmxZdlFudjdVRThoVUZlOGI3RzJHb0JJ?oc=5"
-    },
-    {
-     "veiculo": "FOLHAMAX",
-     "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGNUcDg5R1NCVy05a045dURWY3dvUHptMXdJX0tWbGlYTzU3N1lCcTA3QjdSV0FNTll5MXNHZm5HUTBVOFcxN0paa3ZhdmRTSzd6OUdFaEk4R3NlYzJKWnlDNG5pUDRidTRUMi02OHJudjVtNURBbHpFT3g1TjRFOERHTjlQbmtvOTJGWFNBbmVFN203NkVySTg1SG1wQQ?oc=5"
-    }
-   ],
-   "score": 20.4
+   "score": 20.3
   },
   {
    "id": "7654ffc33e",
    "titulo": "Preço do tomate dispara quase 90% no ano e chega a R$ 27 o quilo | Aconteceu na Semana",
    "url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
    "veiculo": "Band Jornalismo",
-   "publicado": "2026-11-15T15:06:54.231919+00:00",
+   "publicado": "2026-11-15T15:53:54.959514+00:00",
    "temas": [
     "economia"
    ],
@@ -895,19 +997,47 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.9,
+   "score": 20.1,
    "video_url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 2833,
-   "video_acima_mediana": 5.2,
+   "video_por_hora": 3333,
+   "video_acima_mediana": 5.6,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Preço do tomate dispara quase 90% no ano e chega a R$ 27 o quilo | Aconteceu na Semana",
      "url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
-     "por_hora": 2833
+     "por_hora": 3333
     }
    ]
+  },
+  {
+   "id": "a6c3924eaa",
+   "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030 no País",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWWk5aVJnY0xqWDVWbWhDS2RIQ1FIRDhvZXdJanlNNC00M1hCR3A4aW91U3pXdDR2SEFZUDV0R2F4bW9PSm0xR3k1REd5VFlCcl9UT0ZLcEgzWnFUUzdXV2tVTldHWFpxdFZxa25JejByWmxuZUstYkZ1eWlGenJVblJMb2poWVFFckZRUGxrNGNFZ9IBlwFBVV95cUxQaHZIM2VoZFdRZEJPSTl6MWFuS3BBQ3h6emFaOHR2cExkcFNIdGMtNnlPLUVNSVA3UEUzZXh2QmhmRGRBMVFaT1dqMnNraHE3TmlWc0dZVG11RUM1X0Q0Q00yUnA2bHV1aTJjejMwUEhKUVRucWRHdXdHaXQ3RU1ZMmxZdlFudjdVRThoVUZlOGI3RzJHb0JJ?oc=5",
+   "veiculo": "Jornal O Sul",
+   "publicado": "2026-11-15T12:51:22+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+financeiro+prev%C3%AA+juros+dois+d%C3%ADgitos+at%C3%A9+2030+Pa%C3%ADs",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Portal Obidense",
+     "titulo": "Mercado financeiro prevê juros em dois dígitos até o ano de 2030",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUNfN2s3TTJsS0trZlpjQnNlajNiNGVwRjd5SXc1SXN6Mi1GVHRITFlwNmF4bU9zOHlKQl9wc0czUm9zd0c5NjRFY1pnbHFhTmk1VERMRV9rMnZqMWU5cHFGWUxqSkZVdTk4MnFwWmRfNmlvb1lmbFZtbXBfRks3WmpBQzF1dUMyLVJIR1E5R19lTDZKUnl5cXVmdnNXXzFqaFBwSQ?oc=5"
+    },
+    {
+     "veiculo": "Prensa Mercosur",
+     "titulo": "Projeções do mercado financeiro apontam que taxa básica de juros deve permanecer em dois dígitos até 2030",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkpsR2ZUTlRPM2FSdFJ1ZWk4SGE3RnVOelJ6MkljYmxiLWF5WUxxUlhQaHhjZ3JSdlpOMDZ6LUJhdGZSelFjQ2pwY3JDX1ExMFhMem8yTmpJOXI2Qm5FY0lHd0U2bHNjeUtDQ2hOVWZxMk9DdzBJN0JsVDlMZFVXN2RXMFh3WHBtd0xMblEyM1FTM044eUNjRE1ZSUJEQnVmVlFZSWgzLXdiUE5xT0wzLWlBcjZUbFhZcE9ZZV82WjNvQkMyM2NRcnQzWVFUSl90WmpoeTJya2xMRVcw?oc=5"
+    }
+   ],
+   "score": 19.5
   },
   {
    "id": "fae0a6cfac",
@@ -926,7 +1056,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.7
+   "score": 19.3
   },
   {
    "id": "b7de83751b",
@@ -949,7 +1079,37 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkpWbG1qWXhDSE9uS3hfWXM5TVVFaUZ5ZkNSVkVuak9MQnV2YUNFck9Ib3F0MU9PZDFjMW9tUzB3SG00ei1fUGZQWk1sNzdjdEFZMC1aN2JmLXhwdTJaRWxLZ0FhS3M5N25JektkSVJiZlBmMGZSdTRCZUJ0UEppWVFfVXRBeXJmRl9SRkZNRmVkM3BjTHV1eVRjdThVQzVpUjZqZFlUeFJiYkdDYS1LNnM2MWs?oc=5"
     }
    ],
-   "score": 19.5
+   "score": 19.2
+  },
+  {
+   "id": "41ec9ec3aa",
+   "titulo": "Ajuste fiscal aprovado no Senado e contas para 2027; Julian Alexienco Portillo analisa",
+   "url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T15:53:54.959514+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+aprovado+Senado+contas+para+2027+Julian+Alexienco",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 19.1,
+   "video_url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 3333,
+   "video_acima_mediana": 6.5,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Ajuste fiscal aprovado no Senado e contas para 2027; Julian Alexienco Portillo analisa",
+     "url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
+     "por_hora": 3333
+    }
+   ]
   },
   {
    "id": "71ad986c07",
@@ -967,7 +1127,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.3
+   "score": 19.0
   },
   {
    "id": "dacd0ee652",
@@ -989,14 +1149,9 @@
      "veiculo": "Estadão",
      "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Magalu salta mais de 11% com recomendação elevada pelo BofA; veja maiores altas e baixas do Ibovespa",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcEhsdm12UktPNzdhTGd3M1RCRFp0aF9VQVZWejVRdThqMGRjUHpVVldLcS00Y3NNVEJ3TWNlbnU2R3U5TEVmT3I2ZGd3YXpaMFRuQVNWYWI3ekpxMnFPdVVNQlpQV1NJZG5TakhBVWZUR01SZnRxTUg5Y1ZUZU10RGRYUVJ1VUlnWjVyOVJFQWlsX3JpcV9GRng3c0dldnFwSkVMU3BLOGc2UHJXZFNVbEhtejJHUFZyTUhyYXctdmFNQWNKQnBKVzdocVlTWHJOei16Z3hfOU9icGljajVaZHFVdWUyUFN1blp0dWdzZ3llaGtsaUQw?oc=5"
     }
    ],
-   "score": 19.3
+   "score": 19.0
   },
   {
    "id": "44c7cb91d2",
@@ -1015,7 +1170,30 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.2
+   "score": 18.9
+  },
+  {
+   "id": "3746c3624f",
+   "titulo": "Motivo por trás da queda do Bitcoin abaixo de US$ 62 mil",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3ltRTVVQzRGeEwzbTRqZjVsbUZPdWpudjhRU1Z3eWFUbTE2MHQ3bkpKSGZLZkx4ak44anUtbjUxQ1dfaUViUTllM1pvUkZGWWJnRFpGWDlLdG9uU1hIZURlZHotVENYb3ZQZWNqT2tqeE9VaFBwcTZGZkRiS2taYmY1RXNTUWVh?oc=5",
+   "veiculo": "Webitcoin",
+   "publicado": "2026-11-15T18:12:59+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Motivo+por+tr%C3%A1s+queda+Bitcoin+abaixo+US%24+mil",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Bitcoin abaixo de US$ 70 mil: medo extremo e risco de queda",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa29TMG9Sdk9BcXAzLU1DdXVzbHdRMktWdG9KWURQQl96Vk9RY3RyZGUwX3F1Q1gwOHZaUEIwaUZQREpFVWRybWo0Q3ZCdUdJNVItV0c4d1BtaFItaDBFY2Q5MEQyNUtmOUMxcTAwTVlYZE5hdXUxSjA0WDZCR1I5U0JnTThBQUZ1ZlhIaUV1ZWpIcFhkUU9pcjlsaw?oc=5"
+    }
+   ],
+   "score": 18.7
   },
   {
    "id": "8136288536",
@@ -1048,60 +1226,7 @@
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTDkyQ2w1WXdfZjZOXzVLTDlVN2VIU1UxckRUU0V1TGlJV1BJQWQ1dWhkRGZibzNzemFFN0V4UnJlcHFjTXhGdEo0NVRNUE5fckZMMUF5R24yZXNvQzljdVZBUFM3Z1c1bzBORV9ZV0hmVzNRUlJlcHFRRF9nQVpmbkNBcW81TVpGVnB5VzBIcFQyR25YSVpNcEhqRWRlSDJGdVJORm82cXN6QzZEbWREbWlMLVNvSDlPUnEtMmQ0Q1BtN1VYSlozX1Zn?oc=5"
     }
    ],
-   "score": 19.0
-  },
-  {
-   "id": "4188286874",
-   "titulo": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
-   "url": "https://g1.globo.com/economia/noticia/2026/11/15/ele-gastou-r-275-mil-em-labubus-e-fez-ate-dentes-inspirados-nos-bonecos-mas-e-agora-que-a-febre-passou.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-11-15T06:00:01+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ele+gastou+275+mil+Labubus+fez+at%C3%A9+dentes+inspirados",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "G1",
-     "titulo": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWJkQXRwb0xGYkRHbWdlc2JtdjJRU1dBODZvSmdjakxiaG1SMlZfbWxhY1dUVm5SdTZZSjlFRHFTeUU3b2xYYUFBeVVwRVBBLWlJRFNqUEFUUFdxSmpuLTMyTlNDWmw1OVEwZ2toUTVhempSbVVqbHFOVFFHV3FkbWNzdmd6OTVjZlVEdlg2eGgwLS0wVkpkNHM4Uk95R2xzMEZZck5aOVJoWFFLaDM4UGIyaU1RQjNKNWwwZ2V5b244aHExTkZxeUFNa2NENkR5c1o5MzREQUFod2o1dnhwMEtCNnR2NElvejIwdFR30gH8AUFVX3lxTFBQMW8wS2M1b2dodXdjTkNNT1kzd0VNY1NsWGNmbXQxbHFPQlNRZVpGLXNzS3pqZFc3YTRTcWV2VkY1Qy1KajJHWV9xaEtFbE50NVpvVmRPYmFJV1FyS3ZGWGsyU1psWk9VY1RDekxaYnowaUVkSEkwRWdQR0d6TnlSb2lORk02VkM3LVAxLTJWcHFHbFVRVkUtRHNzUlZUZ1V6OFdET3FKNmNnRURQMkhIMmYwaVNmN1hJQ21wY2N1Q0J6c2RIb3dZNVFta0F3cEhCemlfdWJZSEhENEsyRE5WVU8zZ2dZd0FlaU83czVaek5ldWtmblpkbTMtRA?oc=5"
-    }
-   ],
-   "score": 19.0
-  },
-  {
-   "id": "1f0d6e7053",
-   "titulo": "Cancelamentos de voos ultrapassam 1.500 nos EUA no domingo",
-   "url": "https://www.cnnbrasil.com.br/internacional/cancelamentos-de-voos-ultrapassam-1-500-nos-eua-no-domingo/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-15T17:47:13+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Cancelamentos+voos+ultrapassam+1.500+nos+EUA+domingo",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "Voos nos EUA não devem voltar ao normal até o final deste domingo, diz chefe de agência de aviação",
-     "url": "https://valor.globo.com/mundo/noticia/2026/11/15/voos-nos-eua-no-devem-voltar-ao-normal-at-o-final-deste-domingo-diz-chefe-de-agncia-de-aviao.ghtml"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Com milhares de voos afetados nos EUA, problemas no transporte aéreo devem persistir até domingo, dizem autoridades",
-     "url": "https://valor.globo.com/mundo/noticia/2026/11/14/com-milhares-de-voos-afetados-nos-eua-problemas-no-transporte-aereo-devem-persistir-ate-domingo-dizem-autoridades.ghtml"
-    }
-   ],
-   "score": 18.9
+   "score": 18.7
   },
   {
    "id": "f3e11ad50c",
@@ -1125,121 +1250,91 @@
      "url": "https://www.youtube.com/watch?v=CIgbdjDqVKY"
     }
    ],
-   "score": 18.9,
+   "score": 18.6,
    "video_url": "https://www.youtube.com/watch?v=CIgbdjDqVKY",
    "video_canal": "Record News",
-   "video_por_hora": 59,
-   "video_acima_mediana": 0.3,
+   "video_por_hora": 157,
+   "video_acima_mediana": 0.8,
    "videos": [
     {
      "canal": "Record News",
      "titulo": "Sabre de luz de Darth Vader é vendido por R$ 28 milhões",
      "url": "https://www.youtube.com/watch?v=CIgbdjDqVKY",
-     "por_hora": 59
-    }
-   ]
-  },
-  {
-   "id": "104c893264",
-   "titulo": "O BRASIL ESTÁ DOMINADO POR FACÇÕES.",
-   "url": "https://www.youtube.com/watch?v=79ycboZOUoU",
-   "veiculo": "PL",
-   "publicado": "2026-11-15T16:48:46+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=BRASIL+EST%C3%81+DOMINADO+POR+FAC%C3%87%C3%95ES.",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 18.6,
-   "video_url": "https://www.youtube.com/watch?v=79ycboZOUoU",
-   "video_canal": "PL",
-   "video_por_hora": 298,
-   "video_acima_mediana": 20.9,
-   "videos": [
-    {
-     "canal": "PL",
-     "titulo": "O BRASIL ESTÁ DOMINADO POR FACÇÕES.",
-     "url": "https://www.youtube.com/watch?v=79ycboZOUoU",
-     "por_hora": 298
-    }
-   ]
-  },
-  {
-   "id": "28fe6a7c87",
-   "titulo": "Os planos de Milei para o segundo mandato: abrir mercados, cortar impostos e devolver US$ 500 bi",
-   "url": "https://exame.com/mundo/os-planos-de-milei-para-o-segundo-mandato-abrir-mercados-cortar-impostos-e-devolver-us-500-bi/",
-   "veiculo": "Exame",
-   "publicado": "2026-11-15T13:39:46-03:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=planos+Milei+para+segundo+mandato+abrir+mercados%2C+cortar+impostos",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 18.4
-  },
-  {
-   "id": "2642673d69",
-   "titulo": "Alckmin visita sede do Inep e destaca importância do Enem",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/15/alckmin-visita-sede-do-inep-e-destaca-importncia-do-enem.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-15T15:53:43+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alckmin+visita+sede+Inep+destaca+import%C3%A2ncia+Enem",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Enem: Alckmin visita sala de monitoramento e exalta como ‘2º maior vestibular do mundo’",
-     "url": "https://www.youtube.com/watch?v=5y5SVoZar-I"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Enem: Alckmin visita sala de monitoramento no Inep e exalta prova",
-     "url": "https://www.youtube.com/watch?v=aQXV07rCQ70"
-    }
-   ],
-   "score": 18.4,
-   "video_url": "https://www.youtube.com/watch?v=5y5SVoZar-I",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 800,
-   "video_acima_mediana": 1.5,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Enem: Alckmin visita sala de monitoramento e exalta como ‘2º maior vestibular do mundo’",
-     "url": "https://www.youtube.com/watch?v=5y5SVoZar-I",
-     "por_hora": 800
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Enem: Alckmin visita sala de monitoramento no Inep e exalta prova",
-     "url": "https://www.youtube.com/watch?v=aQXV07rCQ70",
-     "por_hora": 567
+     "por_hora": 157
     }
    ]
   }
  ],
  "falas_e_videos": [
   {
+   "id": "18f2675884",
+   "titulo": "Milei confirma candidatura à reeleição em 2027",
+   "url": "https://valor.globo.com/mundo/noticia/2026/11/15/milei-confirma-candidatura-reeleio-em-2027.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-15T18:00:34+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Milei+confirma+candidatura+reelei%C3%A7%C3%A3o+2027",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
+     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI"
+    },
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
+     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
+     "url": "https://www.youtube.com/watch?v=21bA39k6YL0"
+    },
+    {
+     "veiculo": "ncnews.com.br",
+     "titulo": "Milei confirma que vai disputar reeleição na Argentina em 2027 e promete novos cortes de impostos",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Nb1FyODJ3YW4zUTYxeXNLbHhCX0M4U1N2NC0zczZGVjYxaDkwckdKUFl3U2dtTXFWb2g1OFZIc3UxZ2sxbnI2V0Q0aWlKVUR0cHRVb3oxSU9NbHppVHJjcVNzQVlDSFZlY3RRUm8yNGQ?oc=5"
+    }
+   ],
+   "score": 37.7,
+   "video_url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 10293,
+   "video_acima_mediana": 19.9,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
+     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
+     "por_hora": 10293
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
+     "url": "https://www.youtube.com/watch?v=21bA39k6YL0",
+     "por_hora": 2200
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
+     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk",
+     "por_hora": 1442
+    }
+   ]
+  },
+  {
    "id": "4e5e93dacd",
    "titulo": "Fux interrompe julgamento sobre fim da 6x1 e leva caso ao plenário físico do STF",
    "url": "https://valor.globo.com/politica/noticia/2026/11/14/fux-interrompe-julgamento-sobre-fim-da-6x1-e-leva-caso-ao-plenario-fisico-do-stf.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-15T00:06:54.231919+00:00",
+   "publicado": "2026-11-14T23:53:54.959514+00:00",
    "temas": [
     "mercado",
     "politica"
@@ -1271,92 +1366,29 @@
      "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-fux-pede-destaque-e-leva-decisao-de-dino-a-julgamento-presencial-no-stf-npr/"
     }
    ],
-   "score": 33.5,
+   "score": 33.1,
    "video_url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
    "video_canal": "UOL",
-   "video_por_hora": 2556,
-   "video_acima_mediana": 1.8,
+   "video_por_hora": 2474,
+   "video_acima_mediana": 1.5,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Fux interrompe julgamento do fim da 6x1; caso vai ao plenário físico do STF",
      "url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
-     "por_hora": 2556
+     "por_hora": 2474
     },
     {
      "canal": "Band Jornalismo",
      "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF | Jornal da Band",
      "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo",
-     "por_hora": 2111
+     "por_hora": 2000
     },
     {
      "canal": "MyNews",
      "titulo": "ENTENDA A DECISÃO DE FLÁVIO DINO SOBRE A ESCALA 6X1",
      "url": "https://www.youtube.com/watch?v=iPfeGfBXNgs",
      "por_hora": 38
-    }
-   ]
-  },
-  {
-   "id": "0a33f9799f",
-   "titulo": "Milei confirma intenção de disputar reeleição na Argentina em 2027",
-   "url": "https://www.cnnbrasil.com.br/internacional/milei-confirma-intencao-de-disputar-reeleicao-na-argentina-em-2027/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-15T16:11:39+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Milei+confirma+inten%C3%A7%C3%A3o+disputar+reelei%C3%A7%C3%A3o+Argentina+2027",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
-     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI"
-    },
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
-     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk"
-    },
-    {
-     "veiculo": "ncnews.com.br",
-     "titulo": "Milei confirma que vai disputar reeleição na Argentina em 2027 e promete novos cortes de impostos",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Nb1FyODJ3YW4zUTYxeXNLbHhCX0M4U1N2NC0zczZGVjYxaDkwckdKUFl3U2dtTXFWb2g1OFZIc3UxZ2sxbnI2V0Q0aWlKVUR0cHRVb3oxSU9NbHppVHJjcVNzQVlDSFZlY3RRUm8yNGQ?oc=5"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
-     "url": "https://www.youtube.com/watch?v=21bA39k6YL0"
-    }
-   ],
-   "score": 32.8,
-   "video_url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 14034,
-   "video_acima_mediana": 20.9,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
-     "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
-     "por_hora": 14034
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Milei confirma que vai disputar reeleição em 2027: 'Argentina grande novamente'",
-     "url": "https://www.youtube.com/watch?v=21bA39k6YL0",
-     "por_hora": 1767
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Javier Milei afirma que disputará reeleição na Argentina em 2027",
-     "url": "https://www.youtube.com/watch?v=DZi_DoIVNgk",
-     "por_hora": 914
     }
    ]
   },
@@ -1398,17 +1430,17 @@
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTmhicDd2cnZ5a2R3dHF5VTV6ZW9MQmFBMkplWUZPbjJDVTkwemFpSDd6T08zNEZ0T2NRV2VKX1RsMmVXaXRWVzJLZ0Y5LW52Yl84RE5TRHRlRHlhTHhDRkQxdTlSWWZvYV9aUXZmSkV5b2d1Qm1zRDdYdGZkTTQ3QlpaMTdFbzBCU1dqUHM3UVJ2TWFlbXlmbXJDYjBMU3BpdnFyNmtjd0tBTy15Z3F1dEZVeVprQkZRd0w0Z1E3SFZ0N2swUzZmaE9BTUdLS2dGMXUwb0Q1dW4tN2xIZ2lTVmEzWjBTQ0VVR1JyZHRvVDhfdGhxbmo4ZFJuN0JzQQ?oc=5"
     }
    ],
-   "score": 32.2,
+   "score": 32.0,
    "video_url": "https://www.youtube.com/watch?v=DM_RyXcF1gY",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 633,
-   "video_acima_mediana": 0.9,
+   "video_por_hora": 746,
+   "video_acima_mediana": 1.4,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Ala do PT defende ajuste fiscal com mais impostos",
      "url": "https://www.youtube.com/watch?v=DM_RyXcF1gY",
-     "por_hora": 633
+     "por_hora": 746
     }
    ]
   },
@@ -1440,7 +1472,7 @@
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEVzaGY0Y0NFRHJxUlhEcWNFZzRmZWM3X3hDSnJuRk1jUzlrbnB0NFI5NW9WUldDdHYwQjlNS3NqVkJTX1lESF9mcjVqd0xEVUpvekh0bTBDcGg3YUNERVl2ZEU5eTZiendNSU53MDVhZTJFZ2hOMnduQm9qRkFiWnhkRFFYc1N6SzA4eDZKNFg3WWRtOTlsTnpUR1FFUkNOSWxaY2t6UVE0SGotSEJMbGNnZ1RLQlE5YzU1RHRfVGx3V0VUb3NwQ2NWYi1YNlRyQ01pTXB6NE94MzN0X05qSC04WW5DeXpnMjZmRktOUnFTZw?oc=5"
     }
    ],
-   "score": 26.5,
+   "score": 26.1,
    "video_url": "https://www.youtube.com/watch?v=MdPjKHRvjPw",
    "video_canal": "InfoMoney",
    "video_por_hora": 542,
@@ -1455,32 +1487,115 @@
    ]
   },
   {
-   "id": "41ec9ec3aa",
-   "titulo": "Ajuste fiscal aprovado no Senado e contas para 2027; Julian Alexienco Portillo analisa",
-   "url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-15T15:26:56+00:00",
+   "id": "a1d06ddb84",
+   "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
+   "url": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-14T19:53:54.959514+00:00",
    "temas": [
     "economia",
+    "mercado",
     "politica"
    ],
    "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Das+Filipinas%2C+Janones+critica+a%C3%A7%C3%A3o+esquerda+contra+ajuste+fiscal",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
+     "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE"
+    }
+   ],
+   "score": 24.5,
+   "video_url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
+   "video_canal": "UOL",
+   "video_por_hora": 5087,
+   "video_acima_mediana": 3.1,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
+     "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
+     "por_hora": 5087
+    }
+   ]
+  },
+  {
+   "id": "dfd2e9d18f",
+   "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
+   "url": "https://www.youtube.com/watch?v=44-eug7bATs",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T13:53:54.959514+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+aprovado+Senado+contas+para+2027+Julian+Alexienco",
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+perto+maior+cota%C3%A7%C3%A3o+meses+Gilberto+Braga+analisa+impacto",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 25.8,
-   "video_url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
+   "score": 22.0,
+   "video_url": "https://www.youtube.com/watch?v=44-eug7bATs",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 2267,
-   "video_acima_mediana": 3.4,
+   "video_por_hora": 2600,
+   "video_acima_mediana": 5.0,
    "videos": [
     {
      "canal": "Jovem Pan News",
-     "titulo": "Ajuste fiscal aprovado no Senado e contas para 2027; Julian Alexienco Portillo analisa",
-     "url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
-     "por_hora": 2267
+     "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
+     "url": "https://www.youtube.com/watch?v=44-eug7bATs",
+     "por_hora": 2600
+    }
+   ]
+  },
+  {
+   "id": "5e76e58e3e",
+   "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
+   "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-15T14:59:08+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=inv%C3%A9s+ficar+chorando%2C+fomos+buscar+novos+parceiros+diz+Lula%2C",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Estadão",
+     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
+     "url": "https://www.estadao.com.br/economia/ao-inves-de-ficar-chorando-fomos-buscar-novos-parceiros-diz-lula-sobre-tarifaco-de-trump/"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
+     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw"
+    }
+   ],
+   "score": 21.3,
+   "video_url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
+   "video_canal": "UOL",
+   "video_por_hora": 9833,
+   "video_acima_mediana": 6.1,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
+     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
+     "por_hora": 9833
+    },
+    {
+     "canal": "Estadão",
+     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
+     "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
+     "por_hora": 1018
     }
    ]
   },
@@ -1499,17 +1614,99 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 25.6,
+   "score": 21.2,
    "video_url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 4558,
-   "video_acima_mediana": 3.1,
+   "video_por_hora": 4261,
+   "video_acima_mediana": 2.9,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "Lula ataca big techs e \"tarifas injustas\" contra sul global em viagem às Filipinas | CNN AGORA",
      "url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
-     "por_hora": 4558
+     "por_hora": 4261
+    }
+   ]
+  },
+  {
+   "id": "62118b3772",
+   "titulo": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
+   "url": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-15T12:51:47+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+defende+que+Brasil+exporte+conhecimento+tecnologia+volta+criticar",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk"
+    }
+   ],
+   "score": 21.2,
+   "video_url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+   "video_canal": "GloboNews",
+   "video_por_hora": 4283,
+   "video_acima_mediana": 11.2,
+   "videos": [
+    {
+     "canal": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+     "por_hora": 4283
+    }
+   ]
+  },
+  {
+   "id": "cd3053be28",
+   "titulo": "Lula participa de coletiva de imprensa nas Filipinas",
+   "url": "https://www.youtube.com/watch?v=UM79DxdoLq4",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-15T18:14:44+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+participa+coletiva+imprensa+nas+Filipinas",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Lula",
+     "titulo": "Presidente Lula conversa com a imprensa nas Filipinas",
+     "url": "https://www.youtube.com/watch?v=AjX4XCriPZI"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Lula participa no domingo da abertura da Asean nas Filipinas e depois segue para Espanha",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/14/lula-participa-no-domingo-da-abertura-da-asean-nas-filipinas-e-depois-segue-para-espanha.ghtml"
+    }
+   ],
+   "score": 21.0,
+   "video_url": "https://www.youtube.com/watch?v=AjX4XCriPZI",
+   "video_canal": "Lula",
+   "video_por_hora": 8064,
+   "video_acima_mediana": 2.5,
+   "videos": [
+    {
+     "canal": "Lula",
+     "titulo": "Presidente Lula conversa com a imprensa nas Filipinas",
+     "url": "https://www.youtube.com/watch?v=AjX4XCriPZI",
+     "por_hora": 8064
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Lula participa de coletiva de imprensa nas Filipinas",
+     "url": "https://www.youtube.com/watch?v=UM79DxdoLq4",
+     "por_hora": 4009
     }
    ]
   },
@@ -1536,166 +1733,17 @@
      "url": "https://www.poder360.com.br/poder-educacao/ajuste-fiscal-mira-superavit-e-mantem-programas-sociais-diz-alckmin/"
     }
    ],
-   "score": 25.2,
+   "score": 20.9,
    "video_url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
    "video_canal": "Poder360",
-   "video_por_hora": 1148,
-   "video_acima_mediana": 3.1,
+   "video_por_hora": 1079,
+   "video_acima_mediana": 2.2,
    "videos": [
     {
      "canal": "Poder360",
      "titulo": "Ajuste fiscal mira superavit e mantém programas sociais, diz Alckmin",
      "url": "https://www.youtube.com/watch?v=0rbmyYDXa4s",
-     "por_hora": 1148
-    }
-   ]
-  },
-  {
-   "id": "a1d06ddb84",
-   "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
-   "url": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-14T20:06:54.231919+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Das+Filipinas%2C+Janones+critica+a%C3%A7%C3%A3o+esquerda+contra+ajuste+fiscal",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
-     "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE"
-    }
-   ],
-   "score": 24.9,
-   "video_url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-   "video_canal": "UOL",
-   "video_por_hora": 5273,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
-     "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-     "por_hora": 5273
-    }
-   ]
-  },
-  {
-   "id": "5e76e58e3e",
-   "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
-   "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
-   "veiculo": "Estadão",
-   "publicado": "2026-11-15T14:59:08+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=inv%C3%A9s+ficar+chorando%2C+fomos+buscar+novos+parceiros+diz+Lula%2C",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
-     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
-     "url": "https://www.estadao.com.br/economia/ao-inves-de-ficar-chorando-fomos-buscar-novos-parceiros-diz-lula-sobre-tarifaco-de-trump/"
-    }
-   ],
-   "score": 22.0,
-   "video_url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
-   "video_canal": "UOL",
-   "video_por_hora": 10800,
-   "video_acima_mediana": 7.4,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
-     "url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
-     "por_hora": 10800
-    },
-    {
-     "canal": "Estadão",
-     "titulo": "‘Ao invés de ficar chorando, fomos buscar novos parceiros’, diz Lula, sobre tarifaço de Trump",
-     "url": "https://www.youtube.com/watch?v=t9hYJTfvi0Y",
-     "por_hora": 1095
-    }
-   ]
-  },
-  {
-   "id": "dfd2e9d18f",
-   "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
-   "url": "https://www.youtube.com/watch?v=44-eug7bATs",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-15T13:06:54.231919+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+perto+maior+cota%C3%A7%C3%A3o+meses+Gilberto+Braga+analisa+impacto",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.9,
-   "video_url": "https://www.youtube.com/watch?v=44-eug7bATs",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 2400,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
-     "url": "https://www.youtube.com/watch?v=44-eug7bATs",
-     "por_hora": 2400
-    }
-   ]
-  },
-  {
-   "id": "62118b3772",
-   "titulo": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
-   "url": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-15T12:51:47+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+defende+que+Brasil+exporte+conhecimento+tecnologia+volta+criticar",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "GloboNews",
-     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
-     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk"
-    }
-   ],
-   "score": 21.5,
-   "video_url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
-   "video_canal": "GloboNews",
-   "video_por_hora": 4198,
-   "video_acima_mediana": 14.2,
-   "videos": [
-    {
-     "canal": "GloboNews",
-     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
-     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
-     "por_hora": 4198
+     "por_hora": 1079
     }
    ]
   },
@@ -1704,7 +1752,7 @@
    "titulo": "Preço do tomate dispara quase 90% no ano e chega a R$ 27 o quilo | Aconteceu na Semana",
    "url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
    "veiculo": "Band Jornalismo",
-   "publicado": "2026-11-15T15:06:54.231919+00:00",
+   "publicado": "2026-11-15T15:53:54.959514+00:00",
    "temas": [
     "economia"
    ],
@@ -1714,17 +1762,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.9,
+   "score": 20.1,
    "video_url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 2833,
-   "video_acima_mediana": 5.2,
+   "video_por_hora": 3333,
+   "video_acima_mediana": 5.6,
    "videos": [
     {
      "canal": "Band Jornalismo",
      "titulo": "Preço do tomate dispara quase 90% no ano e chega a R$ 27 o quilo | Aconteceu na Semana",
      "url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
-     "por_hora": 2833
+     "por_hora": 3333
     }
    ]
   }
@@ -1735,9 +1783,9 @@
    "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
    "canal": "Jovem Pan News",
    "publicado": "2026-11-15T16:11:39+00:00",
-   "views": 26958,
-   "por_hora": 14034,
-   "acima_mediana": 20.9,
+   "views": 27838,
+   "por_hora": 10293,
+   "acima_mediana": 19.9,
    "temas": [
     "politica"
    ]
@@ -1746,10 +1794,10 @@
    "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
    "url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
    "canal": "UOL",
-   "publicado": "2026-11-15T13:06:54.231919+00:00",
-   "views": 54000,
-   "por_hora": 10800,
-   "acima_mediana": 7.4,
+   "publicado": "2026-11-15T12:53:54.959514+00:00",
+   "views": 59000,
+   "por_hora": 9833,
+   "acima_mediana": 6.1,
    "temas": [
     "politica"
    ]
@@ -1759,8 +1807,8 @@
    "url": "https://www.youtube.com/watch?v=AjX4XCriPZI",
    "canal": "Lula",
    "publicado": "2026-11-15T05:50:53+00:00",
-   "views": 102000,
-   "por_hora": 8315,
+   "views": 105244,
+   "por_hora": 8064,
    "acima_mediana": 2.5,
    "temas": [
     "politica"
@@ -1770,10 +1818,10 @@
    "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
    "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
    "canal": "UOL",
-   "publicado": "2026-11-14T20:06:54.231919+00:00",
-   "views": 116000,
-   "por_hora": 5273,
-   "acima_mediana": 3.6,
+   "publicado": "2026-11-14T19:53:54.959514+00:00",
+   "views": 117000,
+   "por_hora": 5087,
+   "acima_mediana": 3.1,
    "temas": [
     "mercado",
     "economia",
@@ -1781,13 +1829,13 @@
    ]
   },
   {
-   "titulo": "Lula ataca big techs e \"tarifas injustas\" contra sul global em viagem às Filipinas | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-15T17:41:53+00:00",
-   "views": 2279,
-   "por_hora": 4558,
-   "acima_mediana": 3.1,
+   "titulo": "Prestação de contas de Lula-Alckmin na mira do TSE; defesa diz que chapa atuou com transparência",
+   "url": "https://www.youtube.com/watch?v=gdCuzO12HeI",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-15T12:53:54.959514+00:00",
+   "views": 26000,
+   "por_hora": 4333,
+   "acima_mediana": 8.4,
    "temas": [
     "politica"
    ]
@@ -1797,34 +1845,34 @@
    "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
    "canal": "GloboNews",
    "publicado": "2026-11-15T11:29:49+00:00",
-   "views": 27785,
-   "por_hora": 4198,
-   "acima_mediana": 14.2,
+   "views": 31700,
+   "por_hora": 4283,
+   "acima_mediana": 11.2,
    "temas": [
     "economia",
     "politica"
    ]
   },
   {
-   "titulo": "Prestação de contas de Lula-Alckmin na mira do TSE; defesa diz que chapa atuou com transparência",
-   "url": "https://www.youtube.com/watch?v=gdCuzO12HeI",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-15T12:06:54.231919+00:00",
-   "views": 24000,
-   "por_hora": 4000,
-   "acima_mediana": 6.0,
+   "titulo": "Lula ataca big techs e \"tarifas injustas\" contra sul global em viagem às Filipinas | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=Sm2ijVJdGMo",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-15T17:41:53+00:00",
+   "views": 5116,
+   "por_hora": 4261,
+   "acima_mediana": 2.9,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Impasse no STF sobre o fim da escala 6x1; advogada Aline Rodrigues analisa",
-   "url": "https://www.youtube.com/watch?v=VrY8q9aTJ7g",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-15T12:06:54.231919+00:00",
-   "views": 20000,
-   "por_hora": 3333,
-   "acima_mediana": 5.0,
+   "titulo": "Lula participa de coletiva de imprensa nas Filipinas",
+   "url": "https://www.youtube.com/watch?v=UM79DxdoLq4",
+   "canal": "Poder360",
+   "publicado": "2026-11-15T18:14:44+00:00",
+   "views": 2618,
+   "por_hora": 4009,
+   "acima_mediana": 8.2,
    "temas": [
     "politica"
    ]
@@ -1833,22 +1881,47 @@
    "titulo": "Preço do tomate dispara quase 90% no ano e chega a R$ 27 o quilo | Aconteceu na Semana",
    "url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
    "canal": "Band Jornalismo",
-   "publicado": "2026-11-15T15:06:54.231919+00:00",
-   "views": 8500,
-   "por_hora": 2833,
-   "acima_mediana": 5.2,
+   "publicado": "2026-11-15T15:53:54.959514+00:00",
+   "views": 10000,
+   "por_hora": 3333,
+   "acima_mediana": 5.6,
    "temas": [
     "economia"
    ]
   },
   {
-   "titulo": "Voos cancelados nos EUA: Governo Trump alerta para mais atrasos aéreos",
-   "url": "https://www.youtube.com/watch?v=_kY9GTVETJE",
-   "canal": "UOL",
-   "publicado": "2026-11-14T19:06:54.231919+00:00",
-   "views": 61000,
-   "por_hora": 2652,
-   "acima_mediana": 1.8,
+   "titulo": "Ajuste fiscal aprovado no Senado e contas para 2027; Julian Alexienco Portillo analisa",
+   "url": "https://www.youtube.com/watch?v=zQvxWEhPe6k",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-15T15:53:54.959514+00:00",
+   "views": 10000,
+   "por_hora": 3333,
+   "acima_mediana": 6.5,
+   "temas": [
+    "economia",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Trump diz que Governo Biden é culpado pela suspensão de voos nos EUA | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=SMupWCREcp8",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-15T17:51:36+00:00",
+   "views": 3440,
+   "por_hora": 3312,
+   "acima_mediana": 2.3,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Impasse no STF sobre o fim da escala 6x1; advogada Aline Rodrigues analisa",
+   "url": "https://www.youtube.com/watch?v=VrY8q9aTJ7g",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-15T11:53:54.959514+00:00",
+   "views": 22000,
+   "por_hora": 3143,
+   "acima_mediana": 6.1,
    "temas": [
     "politica"
    ]
@@ -1857,10 +1930,22 @@
    "titulo": "Partido árabe muda mapa político de Israel e abre fresta para Lula | A Hora",
    "url": "https://www.youtube.com/watch?v=yZafj0F7ogE",
    "canal": "UOL",
-   "publicado": "2026-11-14T22:06:54.231919+00:00",
-   "views": 53000,
-   "por_hora": 2650,
-   "acima_mediana": 1.8,
+   "publicado": "2026-11-14T22:53:54.959514+00:00",
+   "views": 55000,
+   "por_hora": 2750,
+   "acima_mediana": 1.7,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Voos cancelados nos EUA: Governo Trump alerta para mais atrasos aéreos",
+   "url": "https://www.youtube.com/watch?v=_kY9GTVETJE",
+   "canal": "UOL",
+   "publicado": "2026-11-14T18:53:54.959514+00:00",
+   "views": 61000,
+   "por_hora": 2542,
+   "acima_mediana": 1.6,
    "temas": [
     "politica"
    ]
@@ -1870,46 +1955,9 @@
    "url": "https://www.youtube.com/watch?v=PQlXIOxteP4",
    "canal": "CNN Brasil",
    "publicado": "2026-11-15T13:44:46+00:00",
-   "views": 11193,
-   "por_hora": 2562,
-   "acima_mediana": 1.7,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Dólar perto de R$ 6 e maior cotação em 15 meses; Gilberto Braga analisa impacto na economia",
-   "url": "https://www.youtube.com/watch?v=44-eug7bATs",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-15T13:06:54.231919+00:00",
-   "views": 12000,
-   "por_hora": 2400,
-   "acima_mediana": 3.6,
-   "temas": [
-    "mercado",
-    "economia"
-   ]
-  },
-  {
-   "titulo": "'Senado está subalterno, rendido', diz Rogério Marinho, que busca presidência da Casa",
-   "url": "https://www.youtube.com/watch?v=nNVaq_k6bDc",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-11-15T16:34:51+00:00",
-   "views": 3477,
-   "por_hora": 2266,
-   "acima_mediana": 4.1,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF | Jornal da Band",
-   "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-11-15T00:06:54.231919+00:00",
-   "views": 38000,
-   "por_hora": 2111,
-   "acima_mediana": 3.9,
+   "views": 12113,
+   "por_hora": 2351,
+   "acima_mediana": 1.6,
    "temas": [
     "politica"
    ]
@@ -1918,123 +1966,101 @@
  "faro": [
   {
    "tipo": "pauta",
-   "titulo": "Crescimento econômico do Peru desacelera para 2,43% em setembro",
-   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/crescimento-economico-do-peru-desacelera-para-243-em-setembro/",
+   "titulo": "Selic a 13,75% veio para ficar? JP Morgan vê riscos de o ajuste fiscal não surtir efeito e pressionar os juros",
+   "url": "https://www.seudinheiro.com/2026/economia/selic-a-1375-veio-para-ficar-jp-morgan-ve-riscos-de-o-ajuste-fiscal-nao-surtir-efeito-e-pressionar-os-juros-davs/",
    "veiculos": [
-    "CNN Brasil"
+    "Seu Dinheiro"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-15T14:18-03:00",
+   "primeira_vez": "2026-11-15T15:07-03:00",
    "temas": [
     "economia",
     "mercado"
    ],
-   "forca": 32.7,
-   "porque": "só 1 veículo (CNN Brasil); apareceu às 14h18"
+   "forca": 29.7,
+   "porque": "só 1 veículo (Seu Dinheiro); apareceu às 15h07"
   },
   {
    "tipo": "pauta",
-   "titulo": "Bancada do PL em SC rejeita Hugo Motta e cobra candidatura própria à Câmara",
-   "url": "https://www.metropoles.com/colunas/grande-angular/bancada-do-pl-em-sc-rejeita-hugo-motta-e-cobra-candidatura-propria-a-camara",
-   "veiculos": [
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-15T14:51-03:00",
-   "temas": [
-    "politica"
-   ],
-   "forca": 29.9,
-   "porque": "só 1 veículo (Metrópoles); apareceu às 14h51"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Pacote fiscal: Alckmin diz que medida reduz juros e espera aval do Senado na terça",
-   "url": "https://www.infomoney.com.br/politica/pacote-fiscal-alckmin-diz-que-medida-reduz-juros-e-espera-aval-do-senado-na-terca/",
-   "veiculos": [
-    "InfoMoney"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-15T14:18-03:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "forca": 27.7,
-   "porque": "só 1 veículo (InfoMoney); apareceu às 14h18"
-  },
-  {
-   "tipo": "video",
-   "titulo": "MILEI AFIRMA QUE DISPUTARÁ A REELEIÇÃO NA ARGENTINA EM 2027 | FAST NEWS - 1° EDIÇÃO - 15/11/26",
-   "url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
-   "video_url": "https://www.youtube.com/watch?v=DUN6nCbs9KI",
-   "canal": "Jovem Pan News",
-   "views_h": 14034,
-   "acima_mediana": 20.9,
-   "publicado": "2026-11-15T13:11-03:00",
-   "veiculos": [
-    "CNN Brasil",
-    "ncnews.com.br"
-   ],
-   "qtd_veiculos": 2,
-   "temas": [
-    "politica"
-   ],
-   "forca": 27.0,
-   "porque": "vídeo do Jovem Pan News com 14.034 views/h (20.9x o normal do canal); só 2 veículos deram"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Sabre de Darth Vader, usado em cena de 'Eu sou seu pai', é vendido por US$ 4,87 mi nos EUA",
-   "url": "https://exame.com/pop/sabre-de-darth-vader-e-vendido-por-us-487-milhoes-em-leilao-nos-eua/",
-   "veiculos": [
-    "Exame"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-15T14:46-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 26.9,
-   "porque": "só 1 veículo (Exame); apareceu às 14h46"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Lula sobre tarifaço de Trump: 'Ao invés de ficar chorando, procuramos outros parceiros'",
-   "url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
-   "video_url": "https://www.youtube.com/watch?v=E-R96hGzYOw",
-   "canal": "UOL",
-   "views_h": 10800,
-   "acima_mediana": 7.4,
-   "publicado": "2026-11-15T10:06-03:00",
+   "titulo": "Ações da Petrobras tentam reagir após queda de mais de 3%; o que pesa sobre a estatal?",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHNLbTR3R21SZUJjWmEtTVU0V1lnZFhpU0xfLU0zNXJTd2dLRHQ2U1ExVHYxR25JU004RE8tT3ZnWDU0b3RrY1lQdzRxUTg2OEpKQmcxU2VYNTlncE5RUWlZOGh1WjRkaG1qanVfbjhtOWJUa2U2Zk1yNzFMU1VFWUVNVzlkai1VQ2F3eFMxc1VpbXFUS3hiRFB5dmpJR21XTHhzdVhPdzgyVk9IS0diUmUzQk5pZC1mXzlzVWpQT29uMWFUUFppQ2NJUkJ2TGRiMWxuRFdNeWdUNXdJRnc?oc=5",
    "veiculos": [
     "Estadão"
    ],
    "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T15:03-03:00",
    "temas": [
-    "politica"
+    "mercado"
    ],
-   "forca": 26.2,
-   "porque": "vídeo do UOL com 10.800 views/h (7.4x o normal do canal); só 1 veículo deram"
+   "forca": 29.6,
+   "porque": "só 1 veículo (Estadão); apareceu às 15h03"
   },
   {
    "tipo": "pauta",
    "titulo": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que enxerga 'tesouraço'",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ29JYUE1aFQ3Qm8tdE1UZ2x4V3N0YjVhMzViLWVTUkMxOEg3d0Z1bmJtZ2ZNTUQ5YTVjWWFNc21MMW9TUzFuQVJyZVFLVEd6bTJuSS1CREtOMkRKaFBtWm1oWVBNYlRWRlJTemVmTjN2Wnc4RGkxa3BiRjJCTTJSd1F5cUhkYjZXLUROXzVSNGJka3RiM3FRT3Y1djV6RWFTR29jclpBZmJ2UktTX3E0REd4a0haaWJvZ0VJYlBZamJTckJsMDNCZG5iTHoyRHZyZmxYVXQ2aC1HU0RBbXJTYjhzTmtBMzJfb2xGSHYzOG1iTHNRbzYxOV9BQXE3Y08yX21BZDl4dFo2ZFljTlE1bzZmbWhKYldhTHY5Sw?oc=5",
    "veiculos": [
+    "Blog do BG",
     "Terra"
    ],
-   "qtd_veiculos": 1,
+   "qtd_veiculos": 2,
    "primeira_vez": "2026-11-15T15:02-03:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
-   "forca": 26.0,
-   "porque": "só 1 veículo (Terra); apareceu às 15h02"
+   "forca": 26.9,
+   "porque": "só 2 veículos (Blog do BG, Terra); apareceu às 15h02"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Prestação de contas de Lula-Alckmin na mira do TSE; defesa diz que chapa atuou com transparência",
+   "url": "https://www.youtube.com/watch?v=gdCuzO12HeI",
+   "video_url": "https://www.youtube.com/watch?v=gdCuzO12HeI",
+   "canal": "Jovem Pan News",
+   "views_h": 4333,
+   "acima_mediana": 8.4,
+   "publicado": "2026-11-15T09:53-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
+   "temas": [
+    "politica"
+   ],
+   "forca": 26.2,
+   "porque": "vídeo do Jovem Pan News com 4.333 views/h (8.4x o normal do canal); nenhum veículo deu ainda"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Lula condiciona exploração de terras raras à \"agregação de valor\" no Brasil",
+   "url": "https://www.metropoles.com/brasil/lula-condiciona-exploracao-de-terras-raras-a-agregacao-de-valor-no-brasil",
+   "veiculos": [
+    "Metrópoles"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T15:32-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 25.9,
+   "porque": "só 1 veículo (Metrópoles); apareceu às 15h32"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Governo federal reconhece emergência em 61 cidades do Pará por incêndios",
+   "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/governo-federal-reconhece-emergencia-em-61-cidades-do-para-por-incendios/",
+   "veiculos": [
+    "CNN Brasil"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T15:17-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 25.7,
+   "porque": "só 1 veículo (CNN Brasil); apareceu às 15h17"
   },
   {
    "tipo": "video",
@@ -2042,8 +2068,8 @@
    "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
    "video_url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
    "canal": "GloboNews",
-   "views_h": 4198,
-   "acima_mediana": 14.2,
+   "views_h": 4283,
+   "acima_mediana": 11.2,
    "publicado": "2026-11-15T08:29-03:00",
    "veiculos": [
     "Money Times"
@@ -2054,7 +2080,42 @@
     "politica"
    ],
    "forca": 24.1,
-   "porque": "vídeo do GloboNews com 4.198 views/h (14.2x o normal do canal); só 1 veículo deram"
+   "porque": "vídeo do GloboNews com 4.283 views/h (11.2x o normal do canal); só 1 veículo deram"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Fed \"tem trabalho a fazer sobre inflação\", diz presidente do Fed de Kansas City",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZFZ6S1MtMUlHNFRYWGVIMXAxV3QzazVtVjdObnk3ei1QUjVBclNkQVZWeF9WbUxHdmFjLU1rOXBVN2p4WkdPLUdEaUNURFFSYjBoU3U1Ymw1bXk1SHpMR0Z5LUZWLTI1emdzUXZocU5sRXpESEpqblZGTy1CZWxleXIyQUpUUUdvQ2R4MkFSbTQyMDU0cVdOa3lZNGhkbHY2cmJjX0tkWGNQLXFKN3hDbDBYLUR0eG5SZjZTM0owS3lTVFlaeHlsX1hUQVNoR205UDVVVm5SOFBZWTBKQ2JCZEc5N0lHMUhpU0xxNQ?oc=5",
+   "veiculos": [
+    "Terra"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T15:48-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 24.0,
+   "porque": "só 1 veículo (Terra); apareceu às 15h48"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Lula participa de coletiva de imprensa nas Filipinas",
+   "url": "https://www.youtube.com/watch?v=UM79DxdoLq4",
+   "video_url": "https://www.youtube.com/watch?v=UM79DxdoLq4",
+   "canal": "Poder360",
+   "views_h": 4009,
+   "acima_mediana": 8.2,
+   "publicado": "2026-11-15T15:14-03:00",
+   "veiculos": [
+    "Valor"
+   ],
+   "qtd_veiculos": 1,
+   "temas": [
+    "politica"
+   ],
+   "forca": 24.0,
+   "porque": "vídeo do Poder360 com 4.009 views/h (8.2x o normal do canal); só 1 veículo deram"
   },
   {
    "tipo": "pauta",
@@ -2068,23 +2129,8 @@
    "temas": [
     "economia"
    ],
-   "forca": 24.0,
+   "forca": 23.7,
    "porque": "só 1 veículo (Poder360); apareceu às 15h05"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "El Niño: seca no Norte isola comunidades e gera prejuízo de R$ 1,5 bilhão aos municípios",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkxpZlVrYkhJVUdUMVExa1pYZG1WRTlaNzMycTEzaW9QNzV2ZnFscjZYY3dLVmo4YmhsQ1Jwb1laNG14WmRPNWJqd0dYb0RqNDdnMWNvNjBJeXQ5d2xOekdFdkZHSl9pcjR1WVViYTUwZmpOMy1nS1RkS2lwWGtMd2hIVGh1YXppVUQtVnEycm1CenpPdDlFQ2phaUVvVmZlRkNwcnR3Sk9OSzJnZjIwS3VkSS1ENURFdzVDMnp30gHDAUFVX3lxTE9rYzV6cVdNNFMtUW9OeXY1ekhIYjl0RzQ1VEM0TDN2VGl5blVLSHp5T25wSTBoT1hGZEFRdTV5VXZxb3dxU1F6SWg3bXEzWGUxTVZ4a1R2YzBFMHRfQnhLZGdHWGdreUhYRzdyUEliQlRnV084YjJwV1pEbHdsdUhJTEU0bWxKZkZlai1Gazd5WnlsLWYwa1BCSHFDa09Tckhsc3hkUk9vUkduVVJkZzNmblRCZ1p4NWx2MUVwQVVWRFc2QQ?oc=5",
-   "veiculos": [
-    "Brasil 61"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-15T15:00-03:00",
-   "temas": [
-    "economia"
-   ],
-   "forca": 24.0,
-   "porque": "só 1 veículo (Brasil 61); apareceu às 15h00"
   }
  ],
  "fontes_ok": 64,
