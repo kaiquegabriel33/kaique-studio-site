@@ -1,76 +1,60 @@
 {
- "atualizado": "2026-11-14T21:07-03:00",
- "em_alta": [],
+ "atualizado": "2026-11-15T09:07-03:00",
+ "em_alta": [
+  {
+   "termo": "hoje tem enem",
+   "trafego": "100+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Caneta, bermuda e lápis: veja o que pode e o que não pode no Enem hoje",
+     "url": "https://educacao.uol.com.br/noticias/2026/11/15/enem-2026-caneta-preta-transparente-e-obrigatoria-veja-regras-de-itens.ghtm",
+     "veiculo": "UOL Educação"
+    },
+    {
+     "titulo": "Enem 2026: mais de 57 mil inscritos no Vale do Paraíba e região fazem 2º dia de provas neste domingo (15)",
+     "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/15/enem-2026-mais-de-57-mil-inscritos-no-vale-do-paraiba-e-regiao-fazem-2o-dia-de-provas-neste-domingo-15.ghtml",
+     "veiculo": "G1"
+    },
+    {
+     "titulo": "Água gelada e respiração: Saiba como aliviar a ansiedade no segundo dia do Enem",
+     "url": "https://midiamax.com.br/cotidiano/2026/agua-gelada-respiracao-saiba-aliviar-ansiedade-segundo-dia-enem/",
+     "veiculo": "Midiamax"
+    }
+   ],
+   "publicado": "2026-11-15T03:40:00-08:00"
+  }
+ ],
  "pautas": [
   {
-   "id": "de038ff2e0",
-   "titulo": "Congresso aprova créditos orçamentários de R$ 152,4 bilhões - 12/11/26",
-   "url": "https://www.youtube.com/watch?v=Og57NAIKLsc",
-   "veiculo": "Câmara dos Deputados",
-   "publicado": "2026-11-14T20:00:40+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Congresso+aprova+cr%C3%A9ditos+or%C3%A7ament%C3%A1rios+152%2C4+bilh%C3%B5es",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Diário do Estado",
-     "titulo": "Congresso aprova crédito de R$ 149 bi para Previdência e Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDZuODlLbDV5d0hEaGs0QWdTdWNZMHN2d2VqV05UZUNkQTFsQWk5VzUzdXMwdlFDcE5vX2F0T1FMLXo3Y3BQUWM0TjFuZzBQcDR2YXNWTGtka2pQeGhVcF81WkFnQUdQRE9UZEJuc2hEUENYVWlvaklCOXpxdUl0SmtKUnJNd3hVbnlGOWlrYkJ0UExkQ0lmTTV3?oc=5"
-    },
-    {
-     "veiculo": "Jornal O candeeiro",
-     "titulo": "Congresso aprova crédito suplementar de R$ 416,5 milhões para o FDNE, com recursos destinados à Transnordestina",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVNvV1dmdHdaY0ppRkhReGpkRGpsX3F4YktRUk9RalhqRHlwZlJoTHRSaHRCV1RwODVyT19GQk9wSTRZTWI0cXZ6cDRSYzZPYWZpanpjTndNZXJvN1EtTUxxbWoxX1lxczRPcEV4c0tmQXFQcFhaRmZFaGxHZFNEbTllQnNiZ1QtdGFLVWxMTHM5UHlwRUN4Q0F1ZkV5YWsxZ295SHoxZU9rX21ucE1Yek15MlhlRzVVdHp3YmVMdXJHYnd0RUM5WEpGNGhyTDZlUnhwak9lb1gzX0U?oc=5"
-    },
-    {
-     "veiculo": "A Gazeta do Acre",
-     "titulo": "Congresso aprova projeto que autoriza governo a usar R$ 26 bilhões em empréstimos para pagar Bolsa Família",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVZQeWxZTFFKM1loQTRKUENsVUpFMGdrTXFsSnpxQUFxOWhSUlNEUzdWbzR3TXlUbTNnTk9LUEhzbWdPN3VqZmxfWV9pMXE3Ung3aUEtRVpoN0gtc2pLNHU3TzZtaUs1R2NxUEF5VlRDOWJXRThrVkdtNlIyRm5wU2lfT0RuTTFRUTJzQjQzRFkzdElFWmhVZ0NqTVV6aUxPRnRLZFYwamtHSXZ2UVMyRnVkbFl2R1ZjT2N6MldQVkNCVGZPNHcyUGJOYVhETVM1U2xSNVF6Z3ZteDhvdnVMSFA0VzJZbnBoSVFSejI2bTdMWjV1OTJteFRMOEd6QQ?oc=5"
-    },
-    {
-     "veiculo": "sala de imprensa",
-     "titulo": "Congresso aprova R$ 416,5 milhões para a Transnordestina; trecho entre Quixeramobim e Quixadá já foi concluído",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUc0NU9kTkxHVjBTRk5lUlJrWVh0TTNtOWxMUV9Ec1pST19RVEpJRy1pTlJZNEd6RjBrU09TTGowZmczS1c1U2JSU3dvSXlKR0cxd1dWWmJOcVZZeF9jSUx0ZjVEdTVLbUxfbm5MbDU4SmMyQUxscHZvT3UxVjB2WmlUcktUMnU1UUp2ZVc2YlRrTG5mQ0h5REQ3XzFjSlVYNERaSUxuWkkzanBGMDR0WDRvaDRZd01YdWloQk9fUW9fRkNXQnJyVC1CRFIxRUxjME5QOFN3dzAycUh5Q2V2NXJyS0dBQQ?oc=5"
-    }
-   ],
-   "score": 42.3,
-   "video_url": "https://www.youtube.com/watch?v=Og57NAIKLsc",
-   "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 30,
-   "video_acima_mediana": 2.5,
-   "videos": [
-    {
-     "canal": "Câmara dos Deputados",
-     "titulo": "Congresso aprova créditos orçamentários de R$ 152,4 bilhões - 12/11/26",
-     "url": "https://www.youtube.com/watch?v=Og57NAIKLsc",
-     "por_hora": 30
-    }
-   ]
-  },
-  {
-   "id": "e0a2eb2571",
-   "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
-   "url": "https://g1.globo.com/economia/noticia/2026/11/14/mercado-financeiro-preve-juros-de-dois-digitos-ate-2030-ao-longo-dos-dois-mandatos-de-lula.ghtml",
-   "veiculo": "g1",
-   "publicado": "2026-11-14T18:32:20+00:00",
+   "id": "9fbc1516ed",
+   "titulo": "Mercado financeiro projeta Selic acima de 10% até 2030",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMDZsWnJuVVBEcUdPVTlkckNKMXVjcURtbnlXZGZkY0NaM3hSY29zUHlSamJoN2tBaS1wNjJ2MmEyRTB5Y0tUM1QzWXF5cDJfNzRBbjNZdkNEdWdSUlBTS3pkV3p4bUk1aUtLT2lCTnQ0M1VDX2w0NlV2aTBnTzBOcTd4ZlFrSlk4UmRlYnM2cXFEdw?oc=5",
+   "veiculo": "Vero Notícias",
+   "publicado": "2026-11-15T07:08:22+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+financeiro+prev%C3%AA+juros+dois+d%C3%ADgitos+at%C3%A9+2030%2C+longo",
-   "veiculos": 11,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+financeiro+projeta+Selic+acima+10%25+at%C3%A9+2030",
+   "veiculos": 9,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "Prensa Mercosur",
+     "titulo": "Projeções do mercado financeiro apontam que taxa básica de juros deve permanecer em dois dígitos até 2030",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkpsR2ZUTlRPM2FSdFJ1ZWk4SGE3RnVOelJ6MkljYmxiLWF5WUxxUlhQaHhjZ3JSdlpOMDZ6LUJhdGZSelFjQ2pwY3JDX1ExMFhMem8yTmpJOXI2Qm5FY0lHd0U2bHNjeUtDQ2hOVWZxMk9DdzBJN0JsVDlMZFVXN2RXMFh3WHBtd0xMblEyM1FTM044eUNjRE1ZSUJEQnVmVlFZSWgzLXdiUE5xT0wzLWlBcjZUbFhZcE9ZZV82WjNvQkMyM2NRcnQzWVFUSl90WmpoeTJya2xMRVcw?oc=5"
+    },
+    {
+     "veiculo": "Jornal O Sul",
+     "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030 no País",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWWk5aVJnY0xqWDVWbWhDS2RIQ1FIRDhvZXdJanlNNC00M1hCR3A4aW91U3pXdDR2SEFZUDV0R2F4bW9PSm0xR3k1REd5VFlCcl9UT0ZLcEgzWnFUUzdXV2tVTldHWFpxdFZxa25JejByWmxuZUstYkZ1eWlGenJVblJMb2poWVFFckZRUGxrNGNFZ9IBlwFBVV95cUxQaHZIM2VoZFdRZEJPSTl6MWFuS3BBQ3h6emFaOHR2cExkcFNIdGMtNnlPLUVNSVA3UEUzZXh2QmhmRGRBMVFaT1dqMnNraHE3TmlWc0dZVG11RUM1X0Q0Q00yUnA2bHV1aTJjejMwUEhKUVRucWRHdXdHaXQ3RU1ZMmxZdlFudjdVRThoVUZlOGI3RzJHb0JJ?oc=5"
+    },
     {
      "veiculo": "Achei Sudoeste",
      "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030",
@@ -80,45 +64,30 @@
      "veiculo": "FOLHAMAX",
      "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGNUcDg5R1NCVy05a045dURWY3dvUHptMXdJX0tWbGlYTzU3N1lCcTA3QjdSV0FNTll5MXNHZm5HUTBVOFcxN0paa3ZhdmRTSzd6OUdFaEk4R3NlYzJKWnlDNG5pUDRidTRUMi02OHJudjVtNURBbHpFT3g1TjRFOERHTjlQbmtvOTJGWFNBbmVFN203NkVySTg1SG1wQQ?oc=5"
-    },
-    {
-     "veiculo": "Terra Brasil Notícias",
-     "titulo": "Mercado projeta Selic acima de 10% até 2030 e prevê juros elevados durante governo Lula",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmFFM3BMcEpoWElwNkltbS1RQXlaU1dySng0c1luSFdIUWJNbTkxNzBYektqS2hjVUVjUG1lUzByaDZtVUV6V041UGFVUmZScDRKUkRURnNLWDdyRjEyVkxxQVdtcXdCcnVvdFdVdXpJanAyNVFlM1ptNElNbzlvZ182UjRuX0pla0o3SGVTMTdaMklCWW9peE1SbXRDTWdFWE9GUlRwWktSTHJ3cUNzdmRKOHQyX3gyQ29lRkhrMFA0YTR6NUE?oc=5"
-    },
-    {
-     "veiculo": "O Cafezinho",
-     "titulo": "Mercado projeta Selic acima de 10% ao ano nos dois mandatos de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXd5aHFHYVhQdU84d0pubVFrVmxNa0lTUXdTTTZLZTFVME1DckVCeEF2XzFSeXBPbHMwb0lzWFg1RkZoQUtzc085ZGthQVdhOVU2djZ0dk95dVRKb2pHRXF2d2lLN1BWVFhCZnVFUlFkaGo2M1BLYk56NE0wM0FfWFdXU0N6anJuUVdybEo1NWgtbGk3YTgwZVhoc3VBdnZ0TURwWGs0b3XSAa4BQVVfeXFMTm9VT2wzTHE4c3lhcHhVMXNZcnVuSU1WZ2JFTnUyZEdFWGFQcGJuR09KWUZKR0VGZ0lIZmtvdWlHNTY4d2FzcEZHMDZwS01aZll0QVp1WV8yb3Y2aW5EbS1ycFRUb0YwVU1lbWhCOXNhVkZDc0RNVHNINHpXVjhDLW94dHdydm95d0F6bWtIbFE3NS05Nlk0ZHZEakpPczJvUFRjcWlrbFpzQklhT0JB?oc=5"
     }
    ],
-   "score": 41.7
+   "score": 41.9
   },
   {
-   "id": "b420ac6458",
-   "titulo": "Fux interrompe julgamento sobre fim da escala 6×1 e leva caso ao plenário",
-   "url": "https://www.cnnbrasil.com.br/politica/fux-interrompe-julgamento-sobre-fim-da-escala-6x1-e-leva-caso-ao-plenario/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T23:32:50.392259+00:00",
+   "id": "5671b40a09",
+   "titulo": "Fux interrompe julgamento virtual da escala 6x1 e manda caso para plenário do STF",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/fux-interrompe-julgamento-virtual-da-escala-6x1-e-manda-caso-para-plenario-do-stf.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-14T23:32:19+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fux+interrompe+julgamento+sobre+fim+escala+6%C3%971+leva+caso",
-   "veiculos": 10,
+   "busca_video": "https://www.youtube.com/results?search_query=Fux+interrompe+julgamento+virtual+escala+6x1+manda+caso+para",
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
      "veiculo": "UOL",
      "titulo": "Fux interrompe julgamento do fim da 6x1; caso vai ao plenário físico do STF",
      "url": "https://www.youtube.com/watch?v=AMV5QN6ER_k"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo"
     },
     {
      "veiculo": "Gazeta Brasil",
@@ -129,112 +98,122 @@
      "veiculo": "Estadão",
      "titulo": "Fim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF",
      "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-fux-pede-destaque-e-leva-decisao-de-dino-a-julgamento-presencial-no-stf-npr/"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Fim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3pCSEpHUWNGeERmeWhUd19RcWpNeVZqTzV2MGI5QlM3UWJ6bmpiV2JRQWRyX0VfZTBfUGNiNno3UVRKdUVLOVIwZFN2MzlqYnVtTUVsanNXRFR4NnV4WlJhMnFLSFNRU1h5Y2k5bmhMTVoxSjROVmtvMDdXT2I4UlRzVlE5UndQVFhrWDAtWjIxMXZKTDJyc3BfdjZURGVza2JwSDVLTTBQWkRIREtWMHl3T2FmQm5RUWVLN0hHaTZBaHI1RlNwY2Rn0gHPAUFVX3lxTE11aF85N3NWeGVxSVRabzFmRzRvamY0WnlrUE9aMXNka213WVY2cnZZN0pxREdTeGJBOUtFYzZObi1kSm5GV1NENklUOHhwbXQtRlRITkFPYUNUUjVGSDJzUTVVaEpYcjZvZlNSUWlGNG9GNGgzRXEwaTh6Y1pLX1FaRTd1YWtLc1YycUZtcnNBVnpWMjBvNVpiZngtYjhZV2FWMlRielVEQTF1cnVpODZZbDYwaTdtZHF5RlU0Y0xxR1QwMWZBSFVxWkVDSE1IWQ?oc=5"
     }
    ],
-   "score": 40.9,
+   "score": 30.0,
    "video_url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
    "video_canal": "UOL",
-   "video_por_hora": 2743,
-   "video_acima_mediana": 1.1,
+   "video_por_hora": 3050,
+   "video_acima_mediana": 2.3,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Fux interrompe julgamento do fim da 6x1; caso vai ao plenário físico do STF",
      "url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
-     "por_hora": 2743
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo",
-     "por_hora": 1565
+     "por_hora": 3050
     },
     {
      "canal": "MyNews",
      "titulo": "ENTENDA A DECISÃO DE FLÁVIO DINO SOBRE A ESCALA 6X1",
      "url": "https://www.youtube.com/watch?v=iPfeGfBXNgs",
-     "por_hora": 114
+     "por_hora": 45
     }
    ]
   },
   {
-   "id": "a9fb129d51",
-   "titulo": "Collins, do Fed, diz que aumentos ‘estáveis e graduais’ dos juros são apropriados",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/14/collins-do-fed-diz-que-aumentos-estaveis-e-graduais-dos-juros-sao-apropriados.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-14T17:00:40+00:00",
+   "id": "5e4b342042",
+   "titulo": "Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por afonia",
+   "url": "https://www.moneytimes.com.br/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-afonia/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-15T10:15:40+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nas+Filipinas%2C+Lula+exalta+aproxima%C3%A7%C3%A3o+com+%C3%81sia+cancela+discursos",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
+     "url": "https://www.youtube.com/watch?v=CB_JzAfRGkw"
+    },
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "Lula cancela dois discursos nas Filipinas após voltar a apresentar problema de voz",
+     "url": "https://www.youtube.com/watch?v=kSEd-ppRuoc"
+    },
+    {
+     "veiculo": "Canal Rural",
+     "titulo": "Lula destaca comércio com Filipinas e cancela discursos em Manila por afonia",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTElSdzA1dzJjTWdjamRNdGVSZWRqWlhUSVg0akZHU3QzRVJhR2dfSGRiMmxFczNxanppNHFzNFFOU09qR3BSbjhZRElhbUs3djU0VzhBQ1p2NDZpYXZKSktGWnI5ekpLUm1ydnJKemlIdUF2d0ZJVE1WdkhteWdGR0xmQUlCMmEwVXdCMHFsQ0RKeVktNmVhQUlHcFZROVNxSy03X2FxMjJ3SlNkY1dsXzgtNHRJbFU?oc=5"
+    }
+   ],
+   "score": 28.2,
+   "video_url": "https://www.youtube.com/watch?v=kSEd-ppRuoc",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 2481,
+   "video_acima_mediana": 6.9,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Lula cancela dois discursos nas Filipinas após voltar a apresentar problema de voz",
+     "url": "https://www.youtube.com/watch?v=kSEd-ppRuoc",
+     "por_hora": 2481
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
+     "url": "https://www.youtube.com/watch?v=CB_JzAfRGkw",
+     "por_hora": 1365
+    }
+   ]
+  },
+  {
+   "id": "f27196b692",
+   "titulo": "Sem sinal fiscal crível, pessimismo com Selic e PIB seguirá punindo ações cíclicas",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlMwb2UySndkV3lJSmV5UFY5bktlYmdDckp5SnV4eUMzSU5DUkd0V1RJeEJ0anB4bWpqVVY0elBCTURGZlJsS2lJUDlpYUJ3QU0yRTkwc3J3bXNFSjR6Wm5JVngzNlFmSVY3SkZ4R3JCRFpma3YzNENjOUVONl8wMWxvMXhCanpiTW9ndExWNW51d0ZyUE9IY1NzZlo0V2FRTUZ6VXI0WFNnSGlCTWRmYm90N1hXVEpCSXRpa9IBwgFBVV95cUxPdjJYWXVZN0p4U29yVFFrY3Z0bEw5S19tVTV0TEk3SnM5OURCUFp2bVV5ampfZktEVWhLenJfYWF2N3B3M2lqbmhnbFA0a3lKVm5EUmdSVzc2QUlrTUM1RXNxR2xybE1jRTVHSDlSSUE3LWxkc0RFMl9sbzhTZC10WkVQLTJMU1U4UmNlek5oRVExUENyOTNhWmJta0FkMG04SEMwMHlsSG1uS2puLXZ2MG5GQjFlYmxmYTZWMFo0WWt5QQ?oc=5",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-15T03:02:35+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Collins%2C+Fed%2C+diz+que+aumentos+est%C3%A1veis+graduais+dos+juros",
-   "veiculos": 5,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Sem+sinal+fiscal+cr%C3%ADvel%2C+pessimismo+com+Selic+PIB+seguir%C3%A1",
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "IndexBox",
-     "titulo": "Collins, do Fed de Boston, apoia altas graduais dos juros diante de riscos em duas direções - Notícias e Estatísticas",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkVxZnl6VzNMdHVHSXJ0MHhiZVNva19WQXk2b1FjTTlfSXhfUnZwX01ibTdUTF9qZE83alpqTGdGQzFiWVBGLWlkemR4OWctQmd4RjY5ai01N2tod1Fra0M3SlU3dlV0Q2hnUGJlTnVkY2dvdEZDV0ZiaWVoVloyU1BXcXpHblotajRCeExfeEVza1J5dDJFZnVBVXBSTkJsMGZ4Rnhwbk16QQ?oc=5"
-    },
-    {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "Collins, do Fed de Boston, defende alta gradual de juros e vê riscos equilibrados",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdng0NzJDQjI4ZEdOaTNvcmFoRS1pNXBLX1JYVEs0WGd1OE53cFhXU19CXzRXdHVWckxjaEczUU8zVFNEdV9EZXMwNi1LdW11NmpCdVZMZDNzcW9YbFB3QlZQYzRqR09IeTlSWkgxNnZiSmktVnY3dVNqdjB4THZKMG5Cai0tdDJhaEY2ZU9ZLWJxMUtmRlM0ckJ4S2ctTVQzRjBzakFXR1FpVVZYc1RmREFtVU1sRDFhd2NsYWlZdFZsOWk0UGZJ?oc=5"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Collins, do Fed, diz que aumentos ‘estáveis e graduais’ dos juros são apropriados",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0NVZEhvLWNwSVJHRGF4S1ByTFBhT2RSalFoMERfSGlOMEN4T2NLVU44T0FRTlRjLUdoOXByTDBFUkZoQU5wTEtydEM2WDZvOHlwQjBrVG9PZHQ2UjVDeHpxMU9saC1Kc3RVTGFibWtDYkQtOWFwbzVEUXJDSmhaZXZ6YVNpbTZ5WUc3dTRNREtyUEZBUk5XRWVDTWlzTms0c29HRnUwVjJCZDZsRm9SS21NTk50VzhIYWR5OFNGT3MwclZSUlMtcUtQZ2h0alhC0gHfAUFVX3lxTE5DUG1mRG1tbUpVTnlDajRDTVhNNmQyUHZDT1phOC14UVFMSjR3WnZxSTFQaGhKUE9iYldZVERBTFVsUld5bVlUVTVha1dRMnFnQ0RzMUVReXA0RktBRDI1ak9DZXZJOTRuNHdSVzdDbWxBVjlMejN0ZWktaEM1RnJDNDRMcUZ5Vk5yZ1JOeVJMTHRMSUtoVjNiakN3WDQ0c1p2UFIzVlVPNE1UTnpxdm1xcWZ1WWdTM0JnY3VHLWxYVHQ3OHFYU0tPOGlvSnBKS2RMbVJJN3VoY3p1Q1ZvX2M?oc=5"
-    },
-    {
-     "veiculo": "Jornal Brasília Capital",
-     "titulo": "Susan Collins Defende Aumento Gradual das Taxas de Juros",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODd6VWFaeXg2dWFGOGNYS0VQRFlWU05hLTkzS3ZaVkFjYl9CSVpjSVV0VkNobjBqUkg4QnhBVnRxM3JjalZjd25SSXlRbkNIQS1MWVduNTBRS1hFTHNkZ1dMclplUG5ZcHJfNTNaWF9YS0ZfVFBkNG5zS2FkMDJNTUprTmVERmR6aGhJ?oc=5"
-    }
-   ],
-   "score": 34.0
-  },
-  {
-   "id": "3e28f8f975",
-   "titulo": "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-11-14T22:54:13+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+fecha+est%C3%A1vel+5%2C65%2C+mas+sobe+2%2C63%25+semana",
-   "veiculos": 11,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Expressão Rondônia",
-     "titulo": "Dólar fecha em leve alta, a R$ 5,65, com pacote fiscal no radar; Ibovespa avança",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQk85THF6cUJ3TVRkOFhMcktkZHQybVlpaXlVSkJ6WUxyX2lzQVpZcGRyNEtiSGZfaWFoME5QbXUzYW5pN0NyZllZRHpBZV9PdHVKZ0JLMnQxOWkyeDJOQV91NjluQjFOVndxd0JFRHRGR2ZDZUlRbzZWc1N1SGJwSi13TEtBak1TNlVNaFRiU1ppazRhdnB6a3B1bjRTemJVU2F1UmROQXRMWXZ3MGc?oc=5"
-    },
-    {
      "veiculo": "Acia Araçatuba",
-     "titulo": "Dólar sobe a R$ 5,65 com pacote fiscal e alta semanal de 2,6%",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WcjhBQ2xFZFZaNE5vU0kxalg5aGhZVFp5N3MwdjRWUEw3d3p1LS1SWnJzdlE0U0c4YlBUalRkSTkxcFU4cEVWczV2ZXNCVkhfbHI4RmJiVUxiX2tUVUtUTE9tTmRFdE9TV1QxeVF2YzgwZw?oc=5"
+     "titulo": "Ações cíclicas pessimismo com Selic e PIB sem fiscal",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12VzN6WjM3cTdzRC05TzAwOVlkbDg1dkdYcjlWdGdKSGk1eHI4SUUydTdTdi1IOWllRG5vVTdhNUVYcEtFT2Zfc3dxSjhoOWRMeTZSNDlqcHRrMnYxVTdLWGF3MjRxSzI4OWcxR01RbTdzcEkzX2lkQ2VqRi1jZw?oc=5"
     },
     {
-     "veiculo": "ADVFN",
-     "titulo": "Ibovespa sobe e acumula alta semanal, com alívio nos juros após PPI dos EUA abaixo do esperado, e Magazine Luiza lidera os ganhos",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHo3YnlWZ1YxUVhib3dzdUoxNGstV2JXNjdwWEdEMG1rYXJXa2ZCWG9jSGdyM216WUVDRHJaLVJtRDU0Ym9aWjFxYmtWaXp3dTBDZnBlUkpEQjdZMzR1clRhQl9GV2pRX01MS0Q1RE5CU1dYVUFXZzdVWEw0aUJ5bmw4ZGZLOFU1S0VQWE9zcC1SM3M?oc=5"
+     "veiculo": "ativovirtual.com.br",
+     "titulo": "Ações cíclicas: Selic a 13,75% e freio fiscal explicam a queda de 14%",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2F4MjVkOHBVSEQ4TUdMU2VTOHQ0dW1IaEh5RGk2ckNHYllXZWo1eFZLeW5ralgxZGg5Vk9WeVNXZ0tya2xRVy1SVWlMdlg1cjluOUZmelRzYld3YU9tekdBdXFDMjVNRHR0ZW44VDAzVEpwYlMwalRQS0NiYUZuR1ZjYUdMY3czWDRZWGpKYXA0ZmQ0UlR6aC01YVR4VXoxRUtib25MOTM1blp6NENRemN3?oc=5"
     },
     {
-     "veiculo": "Diário Carioca",
-     "titulo": "Bolsa sobe e dólar acumula alta semanal com radar fiscal no foco",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDhNRTNaLV9seDJ6TEp1Y1hQeTliNnJZcC1FSEM2blZ3X1NYbW5qYjI1SG4xQXhELThReWV3dWcwNkVhN0E3NFdaUVFSNTg0bG9Dd1BGX0VpaVVkNDd2VjFkUHQ1aVNxV19aRHVXcllPeUZjZ21RQWNVdWdGTkhFeU8zb09CMDA2RGpZTnJudw?oc=5"
+     "veiculo": "ativovirtual.com.br",
+     "titulo": "Ações cíclicas: Selic a 13,75% e freio fiscal explicam a queda de 14%",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2F4MjVkOHBVSEQ4TUdMU2VTOHQ0dW1IaEh5RGk2ckNHYllXZWo1eFZLeW5ralgxZGg5Vk9WeVNXZ0tya2xRVy1SVWlMdlg1cjluOUZmelRzYld3YU9tekdBdXFDMjVNRHR0ZW44VDAzVEpwYlMwalRQS0NiYUZuR1ZjYUdMY3czWDRZWGpKYXA0ZmQ0UlR6aC01YVR4VXoxRUtib25MOTM1blp6NENRemN3?oc=5"
+    },
+    {
+     "veiculo": "ativovirtual.com.br",
+     "titulo": "Ações cíclicas: Selic a 13,75% e freio fiscal explicam a queda de 14%",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2F4MjVkOHBVSEQ4TUdMU2VTOHQ0dW1IaEh5RGk2ckNHYllXZWo1eFZLeW5ralgxZGg5Vk9WeVNXZ0tya2xRVy1SVWlMdlg1cjluOUZmelRzYld3YU9tekdBdXFDMjVNRHR0ZW44VDAzVEpwYlMwalRQS0NiYUZuR1ZjYUdMY3czWDRZWGpKYXA0ZmQ0UlR6aC01YVR4VXoxRUtib25MOTM1blp6NENRemN3?oc=5"
     }
    ],
-   "score": 32.5
+   "score": 27.2
   },
   {
    "id": "57f4805414",
@@ -248,18 +227,13 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Loja+Americanas+arrombada+furtada+Manaus",
-   "veiculos": 8,
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
      "veiculo": "Portal do Marcos Santos",
      "titulo": "Lojas Americanas é arrombada e furtada no Centro de Manaus",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGVXcXpjdm0wLW1CSVhuRTZCOHhYajBOWEh6Vm9mZGgwdE5qSjZjdzg0R1NUczBIa1lxVXBRZnV3LWJBSXl2R3dTLXFITGxza3FYSjQzVXlEVlU4UmFjQ3J3TlpyQ2dKLTA5LVdHZHRHT2p2Q2tlWTBub3hhbGN1Wlo5eUN5aHMtWlJzQXVGY1FLcjJIa0YxMnNWdXVxXzVwMFp2Q0k3T0RyZTF2REJ1NHIzSWl5ZzFxSm80?oc=5"
-    },
-    {
-     "veiculo": "Portal Barcelos na NET",
-     "titulo": "Vídeo: loja da Americanas é saqueada no Centro de Manaus",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzh4SWNXemlHTU45M3JOVjJpc2RoQnk1OURxcVgzS2hIT29qSVNuTjk4aHF4YVpYMWVHWjBBTFVLa3ZiNEp4Sjl2X2FLeDgyNTE4OFNaaVhxa3MxVHZDT2dZZk9rcGhvSl9EY1VENzRMZlc3cEpKQUpoaXJteEhJdjBNWW8zU09HNl8tQWJn?oc=5"
     },
     {
      "veiculo": "Portal CM7",
@@ -270,155 +244,92 @@
      "veiculo": "Amazonas1",
      "titulo": "Loja da Americanas é alvo de furto durante a madrugada no Centro de Manaus",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmZFQVZ1VUlKOWwteFZKZHUyNXc2dk1kZXV0VW5RNjhDU3NfSHM3ZC1jR0EzUmN5d08xZkpfQUxSQmhPYURPVmhGR01PNjRXUHhfOGljOVBGUmQzSzlrLVJlZ0pCeVVzRG56X0VadE9IS1JnSDBBc2k4NUhIME54UUNFSjBYemhHM3FHZDlTYVl3dXh4R3NQZWpmWTZVb0F4NEE?oc=5"
-    }
-   ],
-   "score": 32.1
-  },
-  {
-   "id": "bdba87a28e",
-   "titulo": "Após críticas, Dino defende decisão sobre 6×1: “Texto perfeito não existe”",
-   "url": "https://www.cnnbrasil.com.br/politica/apos-criticas-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T23:18:03+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+cr%C3%ADticas%2C+Dino+defende+decis%C3%A3o+sobre+6%C3%971+Texto+perfeito",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Dino defende folga negociada na 5x2 e diz que decisão perfeita \"não existe\"",
-     "url": "https://www.metropoles.com/brasil/dino-defende-folga-negociada-na-5x2-e-diz-que-decisao-perfeita-nao-existe"
     },
     {
-     "veiculo": "UOL",
-     "titulo": "Flávio Dino defende decisão sobre folgas no fim da 6x1 após críticas: 'Texto perfeito não existe'",
-     "url": "https://www.youtube.com/watch?v=XZu8r-Ky26I"
+     "veiculo": "G1",
+     "titulo": "Loja Americanas é alvo de furto durante a madrugada no Centro de Manaus",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnB1elZwS3BsZXotX2dmMjZfR0FRWXFlbkh5VkNnSHE0WmQxdmxrRjdDcVd2MWhjOFB1Mk42bjRpbzlpbFRMUzdwcmhwenhFVldnOGhET01jNU11cktNa1VIS0hyR05jRlFWSWRkRHNYLXVGcDFEV1NUbzQzUzBiSnA1NlZyb3lHZWhxT0l4dUZIQ1JfQng1NEN5SmRYVXRfSldfZUFwRi12cmRyVXBwbmNveU5RcWNuc0ZJUUpPUFc5VGhGMmxOWtIB1wFBVV95cUxNV3Bxd0VNNjlpRTBBSmFRTFdYTjJWV0pXTVdHU2JMRVR1QlF6QXQ3RkRfd0xBVEt6b0ZGSlpUV05HNkZBQW53U1pyVUNRcWFUU2RNcHZ1SnlVQlVfNDBVakdiTng5eUVJZkxhWVVVaGF3aDdHS1VDdGpyT2dRcDRqQl83Q21nNWZEbG9YenhQckRmdGxQaTcxSi10eGZZbXFiSkhwMG5uYW1udUV0M0RvaFFxaXpURzhBNUVvdWZBT1Y4b0Fka0FVV3F4VGIzaUw0M2lRVTNudw?oc=5"
     }
    ],
-   "score": 31.4,
-   "video_url": "https://www.youtube.com/watch?v=XZu8r-Ky26I",
-   "video_canal": "UOL",
-   "video_por_hora": 4333,
-   "video_acima_mediana": 1.7,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Flávio Dino defende decisão sobre folgas no fim da 6x1 após críticas: 'Texto perfeito não existe'",
-     "url": "https://www.youtube.com/watch?v=XZu8r-Ky26I",
-     "por_hora": 4333
-    }
-   ]
+   "score": 27.1
   },
   {
-   "id": "401b261b3f",
-   "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
-   "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-   "veiculo": "UOL",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
+   "id": "a1eb6c6209",
+   "titulo": "Receita vai perdoar dívidas de MEIs; veja quem tem direito e como funciona | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=86vcb1CyXtM",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-15T02:43:09+00:00",
    "temas": [
+    "comportamento",
     "economia",
-    "mercado",
-    "politica"
+    "mercado"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Janones+critica+a%C3%A7%C3%A3o+esquerda+contra+ajuste+fiscal+proposto+pelo",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 30.0,
-   "video_url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-   "video_canal": "UOL",
-   "video_por_hora": 14250,
-   "video_acima_mediana": 5.7,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
-     "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-     "por_hora": 14250
-    }
-   ]
-  },
-  {
-   "id": "a1d06ddb84",
-   "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
-   "url": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-14T21:06:19+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Das+Filipinas%2C+Janones+critica+a%C3%A7%C3%A3o+esquerda+contra+ajuste+fiscal",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "Janones acusa 'extrema esquerda' de boicote a Lula e a canal no WhatsApp",
-     "url": "https://valor.globo.com/politica/noticia/2026/11/14/janones-acusa-extrema-esquerda-de-boicote-a-lula-e-a-canal-no-whatsapp.ghtml"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Janones critica ação da “extrema-esquerda” contra ajuste fiscal de Lula",
-     "url": "https://www.cnnbrasil.com.br/politica/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/"
-    }
-   ],
-   "score": 29.7
-  },
-  {
-   "id": "8e916a9cc7",
-   "titulo": "Economia desacelera com inflação alta no governo Lula",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmtwREFybFozTUliT3RQMWdaNG5DOWVSYWlKLXV6dDdFaFB6YVdTS2pIdEpiNlNwZ3hlZDJjS3Q4MUN2X0t5M2dRR2pVVzIyZTRlenJHdTFFWFlzemtWMmRCMmpGbFdNTXVXTVFJVDJUR1JnRXo5NzZ1TUJUeEk3T0JScUtZOUdsNDJsdFdmYUZyQQ?oc=5",
-   "veiculo": "noticiasdoplanalto.com.br",
-   "publicado": "2026-11-14T18:18:52+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Economia+desacelera+com+infla%C3%A7%C3%A3o+alta+governo+Lula",
-   "veiculos": 4,
+   "busca_video": "https://www.youtube.com/results?search_query=Receita+vai+perdoar+d%C3%ADvidas+MEIs+veja+quem+tem+direito",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Correio do Povo",
-     "titulo": "Desaceleração e inflação desafiam economia em governo Lula",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2pRSHhXRElkYnJrX2x5emlIY0hlTmRfNGFydkJvQnE0M1IzVDg5bGVwTUhvdTd0dUlQeXRod185TXc4NGtRZllESVNZLUJQczRIMURCS0NkNjBvQmRrMW9CeVVSdDJSYk5XamNRYlRWR0NJQnZKVW94OWt4WmJoeUx3QWNiVEhoZFFGdnFvb0o2Q3p3VlNWSkx3dHhRNVFINHdwMDF3UXNGMlRza1ZDcHhuUHV2N2lwOGZrZUFxcEhPUQ?oc=5"
-    },
-    {
-     "veiculo": "Folha PE",
-     "titulo": "Desaceleração e pressão inflacionária desafiam economia no quarto governo Lula",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbV9YUDd0X25vT0VQZ3dsQUJsRVpwWlhGWDNmVDJLZ3ZOVXhDdjhlQXlFdVpESkN1cDRWWmJUUFdGUkZBcVdZSHdDT182YndKREM1YUdrYjVWSlBSdnVrdERhWVgycjdpNkpmaDFHT3E5anE0VDIxT1B6MkNZaG9tZC1rSFFMMEh5MmpWTU1BWWdOal9YWEM2LTVDMVJpd2NmRDViZlZQRmdmVzdhQWxyd1RR0gGyAUFVX3lxTFBtX1hQN3Rfbm9PRVBnd2xBQmxFWnBaWEZYM2ZUMktndk5VeEN2OGVBeUV1WkRKQ3VwNFZaYlRQV0ZSRkFxV1lId0NPXzZid0pEQzVhR2tiNVZKUFJ2dWt0RGFZWDJyN2k2SmZoMUdPcTlqcTRUMjFPUHoyQ1lob21kLWtIUUwwSHkyalZNTUFZZ05qX1hYQzYtNUMxUml3Y2ZENWJmVlBGZ2ZXN2FBbHJ3VFE?oc=5"
-    },
-    {
-     "veiculo": "Jornal Grande Bahia",
-     "titulo": "Copom aponta desaceleração da economia, inflação persistente e manutenção da Selic em patamar restritivo",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbDY5ZFk3V0dGR21HcWc3Y2wzOE1CVEpycS1DRUVCalkyTzVxaWZ6ZjM5NTR4RWtkb1VOaXBoSnU5ZW1Ob3NUWGZUTmVldlBLcHE1bVNWdF84UG1yckhHb2ktdmxRWVkyRXN2c3UxMG9hbUZTYjdzMTllaDk3YUc4T3pRem10emlQRmZrT2VWMzVhdXlDTnpvcGxoaGFFNV84bWtOQmxoZy0xOFA4Q192Y2M0UmtlTG5mUHZkeUJ2cW94WXlkM1lHZGNDN09MS2FUa3RCOC1Dbk1wREdKNUE?oc=5"
-    },
-    {
-     "veiculo": "Jornal Grande Bahia",
-     "titulo": "Copom aponta desaceleração da economia, inflação persistente e manutenção da Selic em patamar restritivo",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbDY5ZFk3V0dGR21HcWc3Y2wzOE1CVEpycS1DRUVCalkyTzVxaWZ6ZjM5NTR4RWtkb1VOaXBoSnU5ZW1Ob3NUWGZUTmVldlBLcHE1bVNWdF84UG1yckhHb2ktdmxRWVkyRXN2c3UxMG9hbUZTYjdzMTllaDk3YUc4T3pRem10emlQRmZrT2VWMzVhdXlDTnpvcGxoaGFFNV84bWtOQmxoZy0xOFA4Q192Y2M0UmtlTG5mUHZkeUJ2cW94WXlkM1lHZGNDN09MS2FUa3RCOC1Dbk1wREdKNUE?oc=5"
+     "veiculo": "DOL",
+     "titulo": "INSS vai pagar acréscimo de 25% por mês; veja quem tem direito e como solicitar",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUMtcTgwdUg1QU8zUTg3bWJ1ZG9TME40NldhRHctRTdFNjFiakNOVU5jUzhQbTJQb2Ytbk04OXROLW4wU0theC12LU91d05ycnFhdWdJOXZqNXY1UkhmMkdocGxyWE9WMEZ4Ty1lMlhQY3FXSnpJMF95Y2lMTEZWMDllNnRVMTN2Um1vQlFOWlNDS2pfNkY4QUdVZW1abzZ6RlZ2SVlFREVKVFBXR3NsWmRyVi1PcUhHbUVHTnlWT2xKbmPSAcMBQVVfeXFMT2FDLXE4MHVINUFPM1E4N21idWRvUzBONDZXYUR3LUU3RTYxYmpDTlVOY1M4UG0yUG9mLW5NODl0Ti1uMFNLYXgtdi1PdXdOcnJxYXVnSTl2ajV2NVJIZjJHaHBsclhPVjBGeE8tZTJYUGNxV0p6STBfeWNpTExGVjA5ZTZ0VTEzdlJtb0JRTlpTQ0tqXzZGOEFHVWVtWm82ekZWdklZRURFSlRQV0dzbFpkclYtT3FIR21FR055Vk9sSm5j?oc=5"
     }
    ],
-   "score": 29.6
+   "score": 23.1,
+   "video_url": "https://www.youtube.com/watch?v=86vcb1CyXtM",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 78,
+   "video_acima_mediana": 0.8,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Receita vai perdoar dívidas de MEIs; veja quem tem direito e como funciona | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=86vcb1CyXtM",
+     "por_hora": 78
+    }
+   ]
+  },
+  {
+   "id": "3dec110255",
+   "titulo": "Lula diz que Brasil reagiu ao tarifaço dos EUA sem \"ficar chorando\"",
+   "url": "https://www.metropoles.com/mundo/lula-diz-que-brasil-reagiu-ao-tarifaco-dos-eua-sem-ficar-chorando",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-11-15T11:29:49+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+Brasil+reagiu+tarifa%C3%A7o+dos+EUA+sem",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk"
+    }
+   ],
+   "score": 22.7,
+   "video_url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+   "video_canal": "GloboNews",
+   "video_por_hora": 2290,
+   "video_acima_mediana": 6.9,
+   "videos": [
+    {
+     "canal": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+     "por_hora": 2290
+    }
+   ]
   },
   {
    "id": "a7f0236a7d",
    "titulo": "Comissão do Senado aprova proibição de obsolescência programada",
-   "url": "https://www.poder360.com.br/brasil/comissao-do-senado-aprova-proibicao-de-obsolescencia-programada/",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTF95b2NMdlVuVXZGcTg0LTc1d0RaaU42NE85OWV5Q195UnJlcVVzUEZpMWZGajVrUHFUSm1iSTFNSHRrSXRENnpkdFFDRUk5YWlmc0Nnalk5YjREdE9qU2dzeHNaa2t5Ymc2NFpXSFMwdUV2Y2l1WTBPeWJSSjRTZ3RvXy1LR25xMWlfUzJUaXhFVkVPRVJHSE1NX3RKYnFIZ0hwRkctNW0wRVR0?oc=5",
    "veiculo": "Poder360",
    "publicado": "2026-11-14T23:26:11+00:00",
    "temas": [
@@ -437,11 +348,6 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjVsbXdZYm9aVzVnbTh6LW5DbU05Z1Vva3ZxX1h5MThHbFRXbGxFSEpkazY2UXNSeFBRdzl3VGQ0MjFCVWQ4Z19ZUjM2NUpRWWVnZnVHdTRPbndERmFMbzIya0FqLURWcjdudHRoZG1QZVZPV3JpbEVIQld2VkVUTVdrTlNSMzZxelFHdncxekh3Q1ZSME5FUVFpVjRWZ0N5NzlIUWp6THRnbGc?oc=5"
     },
     {
-     "veiculo": "Poder360",
-     "titulo": "Comissão do Senado aprova proibição de obsolescência programada",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTF95b2NMdlVuVXZGcTg0LTc1d0RaaU42NE85OWV5Q195UnJlcVVzUEZpMWZGajVrUHFUSm1iSTFNSHRrSXRENnpkdFFDRUk5YWlmc0Nnalk5YjREdE9qU2dzeHNaa2t5Ymc2NFpXSFMwdUV2Y2l1WTBPeWJSSjRTZ3RvXy1LR25xMWlfUzJUaXhFVkVPRVJHSE1NX3RKYnFIZ0hwRkctNW0wRVR0?oc=5"
-    },
-    {
      "veiculo": "Estadão",
      "titulo": "Comissão do Congresso aprova MP de renegociação de dívidas rurais; texto vai a Câmara e Senado",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzA5YWNGVm8tSzRiQVNaaFBBOEtkLUs4Nm5XdzlqLTdMMmVSckVnOEFCdVFRZndlMlJPRk93VnhaZjg2M1NJV1ZBUWl2TlJ0U0kxWTROSDJOUkw5TUFCUDNwMFQ3WHF4MkMwdklPSms2RDNGQ3lZSFZsRmZXbnJMUkd5UG5yUFFyTWVwWVZZaTMzRXNRRmxycnBNcThZNF9JT0xtQ2x2NHJZeHM1bmtFY3ZzVkdPRVAwT0RfaElmaG9PXzZUMWxtQnJ2Tzg0clFMY09qaDlnVG8xaWZldG56aWZrMkt2QQ?oc=5"
@@ -452,121 +358,275 @@
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMnVjNW9CSkZNbjFpUXBHWTAzdU5jT1RkMVYtNGNDYXFBSl9pUWZ5S0dLaUtpY24xTGNMRWtjdkQ5aktOWjY3Q0NLNlhpVUt5aHA1S3Nhai1zdExiTFFJVDI3UjJuX3RsU1dxek9ZOWlRc0ZyeVVzbFhQUUxYdXNIWEp4cUk5NmFrWFEzQw?oc=5"
     }
    ],
-   "score": 27.7
+   "score": 22.7
   },
   {
-   "id": "10d21fb272",
-   "titulo": "Senado fecha pregão de iPhones para parlamentares por R$ 4,95 milhões",
-   "url": "https://www.cnnbrasil.com.br/politica/senado-fecha-pregao-de-iphones-para-parlamentares-por-r-495-milhoes/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T23:07:50.392259+00:00",
+   "id": "bd25179e30",
+   "titulo": "Congresso aprova crédito de R$ 149 bi para Previdência e Bolsa",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDZuODlLbDV5d0hEaGs0QWdTdWNZMHN2d2VqV05UZUNkQTFsQWk5VzUzdXMwdlFDcE5vX2F0T1FMLXo3Y3BQUWM0TjFuZzBQcDR2YXNWTGtka2pQeGhVcF81WkFnQUdQRE9UZEJuc2hEUENYVWlvaklCOXpxdUl0SmtKUnJNd3hVbnlGOWlrYkJ0UExkQ0lmTTV3?oc=5",
+   "veiculo": "Diário do Estado",
+   "publicado": "2026-11-14T20:00:40+00:00",
    "temas": [
+    "comportamento",
+    "economia",
+    "mercado",
     "politica"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Senado+fecha+preg%C3%A3o+iPhones+para+parlamentares+por+4%2C95+milh%C3%B5es",
-   "veiculos": 5,
+   "busca_video": "https://www.youtube.com/results?search_query=Congresso+aprova+cr%C3%A9dito+149+para+Previd%C3%AAncia+Bolsa",
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Claro vence 'pregão dos iPhones' do Senado pelo valor de R$ 4,9 milhões | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=LonjrrVk28g"
+     "veiculo": "Jornal O candeeiro",
+     "titulo": "Congresso aprova crédito suplementar de R$ 416,5 milhões para o FDNE, com recursos destinados à Transnordestina",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVNvV1dmdHdaY0ppRkhReGpkRGpsX3F4YktRUk9RalhqRHlwZlJoTHRSaHRCV1RwODVyT19GQk9wSTRZTWI0cXZ6cDRSYzZPYWZpanpjTndNZXJvN1EtTUxxbWoxX1lxczRPcEV4c0tmQXFQcFhaRmZFaGxHZFNEbTllQnNiZ1QtdGFLVWxMTHM5UHlwRUN4Q0F1ZkV5YWsxZ295SHoxZU9rX21ucE1Yek15MlhlRzVVdHp3YmVMdXJHYnd0RUM5WEpGNGhyTDZlUnhwak9lb1gzX0U?oc=5"
     },
     {
-     "veiculo": "Portal Encarando",
-     "titulo": "Claro vence pregão milionário do Senado para fornecer iPhones",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFVlWUdHdDNxbkQzbWpEZE5FeHhSYVI5dGY5bzJ1SHJJOEhWbm5wTWhiaVIwY2hGRHZtWUhLdS0yZ0M5bkpSR0lQTWZGZGlHV084TmRzRVUwQnNoZklOOVR5QzktMUhoLXBtb1BGQlNITFo5emJxcnVxTWJ6ZS1jbjhTMXRxNVczMUlwcTYyejhseFItMG9FbFFQcThKMG45?oc=5"
-    },
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Senado conclui pregão de iPhones para parlamentares por R$ 4,9 milhões",
-     "url": "https://www.metropoles.com/brasil/senado-conclui-pregao-de-iphones-para-parlamentares-por-r-49-milhoes"
-    },
-    {
-     "veiculo": "Região Noroeste",
-     "titulo": "Claro vence licitação de R$ 4,9 milhões para fornecer 425 celulares ao Senado",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWh2bDEtY2hTSDBKZ2Z4dEo1YTB1OUZiOC1uSks1Q2N5aXFRV3I3U1AxS3ZUZXB2dDBZeTYyVWxrVjI1N1BpdkhCTFcya3FRUzhlMktnTFh3R09aQW9saXR6T2N4UW4xY1JhbFFVc0dGUkpDeG5rZkVtcjJzRDBiQ0xoRFFPakNSYnFzN1hqOUFnZlFONF9DOUNBN3NMRVZNcXlNZURn?oc=5"
+     "veiculo": "A Gazeta do Acre",
+     "titulo": "Congresso aprova projeto que autoriza governo a usar R$ 26 bilhões em empréstimos para pagar Bolsa Família",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVZQeWxZTFFKM1loQTRKUENsVUpFMGdrTXFsSnpxQUFxOWhSUlNEUzdWbzR3TXlUbTNnTk9LUEhzbWdPN3VqZmxfWV9pMXE3Ung3aUEtRVpoN0gtc2pLNHU3TzZtaUs1R2NxUEF5VlRDOWJXRThrVkdtNlIyRm5wU2lfT0RuTTFRUTJzQjQzRFkzdElFWmhVZ0NqTVV6aUxPRnRLZFYwamtHSXZ2UVMyRnVkbFl2R1ZjT2N6MldQVkNCVGZPNHcyUGJOYVhETVM1U2xSNVF6Z3ZteDhvdnVMSFA0VzJZbnBoSVFSejI2bTdMWjV1OTJteFRMOEd6QQ?oc=5"
     }
    ],
-   "score": 26.8,
-   "video_url": "https://www.youtube.com/watch?v=KHoJWHxIhzQ",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 529,
-   "video_acima_mediana": 2.1,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Empresa Claro vence 'pregão dos iPhones' do Senado após polêmica | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=KHoJWHxIhzQ",
-     "por_hora": 529
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Claro vence 'pregão dos iPhones' do Senado pelo valor de R$ 4,9 milhões | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=LonjrrVk28g",
-     "por_hora": 196
-    }
-   ]
+   "score": 22.3
   },
   {
-   "id": "ffa85fc12f",
-   "titulo": "Governo Trump atribui apagão aéreo a troca de cabos, não a hacker",
-   "url": "https://www.youtube.com/watch?v=Fs0DYH9uEZY",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
+   "id": "f9d213511c",
+   "titulo": "Grupo Mateus vê varejo no Nordeste acelerar: 'Mercado dá sinais de melhora', diz CEO",
+   "url": "https://exame.com/invest/mercados/grupo-mateus-ve-varejo-no-nordeste-acelerar-mercado-da-sinais-de-melhora-diz-ceo/",
+   "veiculo": "Exame",
+   "publicado": "2026-11-15T09:00:35-03:00",
    "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Grupo+Mateus+varejo+Nordeste+acelerar+Mercado+sinais+melhora+diz",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.0
+  },
+  {
+   "id": "71ad986c07",
+   "titulo": "Taesa (TAEE11) surpreende com lucro maior e dividendos de R$ 1,06 por unit no 3º trimestre",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTBSRXY3V1k3STFwcFh2TXZfRkV1YTh2d09OaFNWTlNlMFlsSUNPNXFid2VEY0RPUUFvZjMwdkpoaExLQWlWQVh5RWMxWHZhcl9vLXBNSlRTNVc5RmRYTjZib29ITTJZWjZNc0dSNER1NEFjRlNHdnFFZE5jZUtoU0xacXdRRGZfa1ZoODFnR21EVGtpa0s1VEJGanJSN19XakNmU284VUd2N1hNUkJaZGxR?oc=5",
+   "veiculo": "O Petróleo",
+   "publicado": "2026-11-15T11:40:20+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Taesa+TAEE11+surpreende+com+lucro+maior+dividendos+1%2C06+por",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.8
+  },
+  {
+   "id": "00c1c59fdb",
+   "titulo": "Itaú (ITUB4) lucra R$ 12,6 bilhões no 3º trimestre de 2026: ações ainda têm espaço para subir?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkpWbG1qWXhDSE9uS3hfWXM5TVVFaUZ5ZkNSVkVuak9MQnV2YUNFck9Ib3F0MU9PZDFjMW9tUzB3SG00ei1fUGZQWk1sNzdjdEFZMC1aN2JmLXhwdTJaRWxLZ0FhS3M5N25JektkSVJiZlBmMGZSdTRCZUJ0UEppWVFfVXRBeXJmRl9SRkZNRmVkM3BjTHV1eVRjdThVQzVpUjZqZFlUeFJiYkdDYS1LNnM2MWs?oc=5",
+   "veiculo": "O Petróleo",
+   "publicado": "2026-11-15T11:31:24+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ita%C3%BA+ITUB4+lucra+12%2C6+bilh%C3%B5es+trimestre+2026+a%C3%A7%C3%B5es+ainda",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.8
+  },
+  {
+   "id": "8e916a9cc7",
+   "titulo": "Economia desacelera com inflação alta no governo Lula",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmtwREFybFozTUliT3RQMWdaNG5DOWVSYWlKLXV6dDdFaFB6YVdTS2pIdEpiNlNwZ3hlZDJjS3Q4MUN2X0t5M2dRR2pVVzIyZTRlenJHdTFFWFlzemtWMmRCMmpGbFdNTXVXTVFJVDJUR1JnRXo5NzZ1TUJUeEk3T0JScUtZOUdsNDJsdFdmYUZyQQ?oc=5",
+   "veiculo": "noticiasdoplanalto.com.br",
+   "publicado": "2026-11-14T18:18:52+00:00",
+   "temas": [
+    "economia",
+    "mercado",
     "politica"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Trump+atribui+apag%C3%A3o+a%C3%A9reo+troca+cabos%2C+n%C3%A3o+hacker",
-   "veiculos": 4,
+   "busca_video": "https://www.youtube.com/results?search_query=Economia+desacelera+com+infla%C3%A7%C3%A3o+alta+governo+Lula",
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "BBC News Brasil",
-     "titulo": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
-     "url": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss"
+     "veiculo": "Correio do Povo",
+     "titulo": "Desaceleração e inflação desafiam economia em governo Lula",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2pRSHhXRElkYnJrX2x5emlIY0hlTmRfNGFydkJvQnE0M1IzVDg5bGVwTUhvdTd0dUlQeXRod185TXc4NGtRZllESVNZLUJQczRIMURCS0NkNjBvQmRrMW9CeVVSdDJSYk5XamNRYlRWR0NJQnZKVW94OWt4WmJoeUx3QWNiVEhoZFFGdnFvb0o2Q3p3VlNWSkx3dHhRNVFINHdwMDF3UXNGMlRza1ZDcHhuUHV2N2lwOGZrZUFxcEhPUQ?oc=5"
     },
     {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Governo dos EUA diz que apagão começou após troca de cabos | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=QGKOrKNAQts"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Troca de cabos de cobre por fibra óptica provocou paralisação de voos nos EUA, diz governo Trump",
-     "url": "https://exame.com/mundo/troca-de-cabos-paralisou-voos-nos-eua-e-gerou-efeito-em-cadeia-nos-aeroportos-diz-governo-trump/"
+     "veiculo": "Folha PE",
+     "titulo": "Desaceleração e pressão inflacionária desafiam economia no quarto governo Lula",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbV9YUDd0X25vT0VQZ3dsQUJsRVpwWlhGWDNmVDJLZ3ZOVXhDdjhlQXlFdVpESkN1cDRWWmJUUFdGUkZBcVdZSHdDT182YndKREM1YUdrYjVWSlBSdnVrdERhWVgycjdpNkpmaDFHT3E5anE0VDIxT1B6MkNZaG9tZC1rSFFMMEh5MmpWTU1BWWdOal9YWEM2LTVDMVJpd2NmRDViZlZQRmdmVzdhQWxyd1RR0gGyAUFVX3lxTFBtX1hQN3Rfbm9PRVBnd2xBQmxFWnBaWEZYM2ZUMktndk5VeEN2OGVBeUV1WkRKQ3VwNFZaYlRQV0ZSRkFxV1lId0NPXzZid0pEQzVhR2tiNVZKUFJ2dWt0RGFZWDJyN2k2SmZoMUdPcTlqcTRUMjFPUHoyQ1lob21kLWtIUUwwSHkyalZNTUFZZ05qX1hYQzYtNUMxUml3Y2ZENWJmVlBGZ2ZXN2FBbHJ3VFE?oc=5"
     }
    ],
-   "score": 26.6,
-   "video_url": "https://www.youtube.com/watch?v=QGKOrKNAQts",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 8286,
-   "video_acima_mediana": 33.1,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Governo dos EUA diz que apagão começou após troca de cabos | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=QGKOrKNAQts",
-     "por_hora": 8286
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Governo Trump atribui apagão aéreo a troca de cabos, não a hacker",
-     "url": "https://www.youtube.com/watch?v=Fs0DYH9uEZY",
-     "por_hora": 1775
-    }
-   ]
+   "score": 21.6
   },
   {
-   "id": "f2f0f5b362",
-   "titulo": "Líder da oposição diz que ajuste fiscal aumenta impostos e não corta gastos",
-   "url": "https://www.youtube.com/watch?v=DlZV5O1RWEg",
-   "veiculo": "TV Senado",
-   "publicado": "2026-11-14T23:48:50.392259+00:00",
+   "id": "6b64c8bfa6",
+   "titulo": "Pr�via do PIB, atas do BC dos EUA e balan�o da Nvidia movimentam a semana",
+   "url": "https://economia.uol.com.br/noticias/redacao/2026/11/15/agenda-da-semanal-15--21-de-novembro-de-2026.ghtm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-11-15T10:46:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=via+PIB%2C+atas+dos+EUA+balan+Nvidia+movimentam+semana",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Diário do Estado",
+     "titulo": "PIB, atas do BC dos EUA e balanço da Nvidia: o que esperar?",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0ZWbGNROHBzTHk3dHNielUwSFNQYkR1NE5vRVdQODN4dkl6TEEyTFlWZFQwVVRDTVJVRGxvN1RBOUhSM2YyZXZoN21lMUJFbmEzMkZ0VnIzTXdBS1MxeFNySHFua2pVUk54UUxXaWtlWF94aWJsUnZVNTZQb014X1RKSkJDVWNsTFFnVkxjWks3Tms?oc=5"
+    },
+    {
+     "veiculo": "Diário do Estado",
+     "titulo": "PIB, atas do BC dos EUA e balanço da Nvidia: o que esperar?",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0ZWbGNROHBzTHk3dHNielUwSFNQYkR1NE5vRVdQODN4dkl6TEEyTFlWZFQwVVRDTVJVRGxvN1RBOUhSM2YyZXZoN21lMUJFbmEzMkZ0VnIzTXdBS1MxeFNySHFua2pVUk54UUxXaWtlWF94aWJsUnZVNTZQb014X1RKSkJDVWNsTFFnVkxjWks3Tms?oc=5"
+    },
+    {
+     "veiculo": "UOL Economia",
+     "titulo": "Prévia do PIB, atas do BC dos EUA e balanço da Nvidia movimentam a semana",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb21HNURpWG5aU09EWVpkQTQwbFNVVEpPVW1fd1p3OHRSYkZaSlUwQ0NOeloyN003ZlFacFZ2MmxLZGZkckcya2Rkc2JRd0hWeTFUdlluUS1UbTdURTNJLU1HSkNWSDFPRkdLUUlVVDl4amFvTnl3eld6dnY5Y3BpanY4eTEyLWh3WHJPaWNqRUZadS1RNTl3MFRSUTNVaERSdjgxbjNxRGM?oc=5"
+    }
+   ],
+   "score": 21.4
+  },
+  {
+   "id": "4188286874",
+   "titulo": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/15/ele-gastou-r-275-mil-em-labubus-e-fez-ate-dentes-inspirados-nos-bonecos-mas-e-agora-que-a-febre-passou.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-15T06:00:01+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ele+gastou+275+mil+Labubus+fez+at%C3%A9+dentes+inspirados",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "G1",
+     "titulo": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRWJkQXRwb0xGYkRHbWdlc2JtdjJRU1dBODZvSmdjakxiaG1SMlZfbWxhY1dUVm5SdTZZSjlFRHFTeUU3b2xYYUFBeVVwRVBBLWlJRFNqUEFUUFdxSmpuLTMyTlNDWmw1OVEwZ2toUTVhempSbVVqbHFOVFFHV3FkbWNzdmd6OTVjZlVEdlg2eGgwLS0wVkpkNHM4Uk95R2xzMEZZck5aOVJoWFFLaDM4UGIyaU1RQjNKNWwwZ2V5b244aHExTkZxeUFNa2NENkR5c1o5MzREQUFod2o1dnhwMEtCNnR2NElvejIwdFR30gH8AUFVX3lxTFBQMW8wS2M1b2dodXdjTkNNT1kzd0VNY1NsWGNmbXQxbHFPQlNRZVpGLXNzS3pqZFc3YTRTcWV2VkY1Qy1KajJHWV9xaEtFbE50NVpvVmRPYmFJV1FyS3ZGWGsyU1psWk9VY1RDekxaYnowaUVkSEkwRWdQR0d6TnlSb2lORk02VkM3LVAxLTJWcHFHbFVRVkUtRHNzUlZUZ1V6OFdET3FKNmNnRURQMkhIMmYwaVNmN1hJQ21wY2N1Q0J6c2RIb3dZNVFta0F3cEhCemlfdWJZSEhENEsyRE5WVU8zZ2dZd0FlaU83czVaek5ldWtmblpkbTMtRA?oc=5"
+    }
+   ],
+   "score": 21.4
+  },
+  {
+   "id": "5633fe1b53",
+   "titulo": "Juros altos devem manter FIDCs atrativos e adiar busca por mais risco, diz Solis",
+   "url": "https://www.infomoney.com.br/onde-investir/juros-altos-devem-manter-fidcs-atrativos-e-adiar-busca-por-mais-risco-diz-solis/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-15T10:19:26+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Juros+altos+devem+manter+FIDCs+atrativos+adiar+busca+por",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Solis vê FIDCs atraentes com juros altos e risco adiado",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHRPOGlVTFlrY2ljNGphcng1WjYwV045aVEyNEhMd0Vqel9VSHhyRnBUb3FfZWN0ZXFQTk5UbkNUcGU4VzRLa3R0dUEzcXNuVlBPRldUXzR1MXREMUtacGx6RG5OSU5wLU12eGN3SHJrRWZTZC1UeTVSaUhfeUNEcUt1eC1sWUJMVDJwMDVjMFdHaW5qT2Rvb2wxVHJjeVNGc1BjNDBn?oc=5"
+    }
+   ],
+   "score": 21.3
+  },
+  {
+   "id": "31eb4b41d1",
+   "titulo": "Mega-Sena: quanto R$ 27 milh�es rendem todo m�s na poupan�a e no Tesouro",
+   "url": "https://economia.uol.com.br/mais/ultimas-noticias/2026/11/14/mega-sena-quanto-r-27-milhoes-rendem-todo-mes-na-poupanca-e-no-tesouro.htm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-11-15T08:05:22+00:00",
+   "temas": [
+    "comportamento",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Mega+Sena+quanto+milh+rendem+todo+poupan+Tesouro",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Mega-Sena: quanto rendem R$ 27 milhões na poupança, Tesouro Direto ou CDB",
+     "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-27-milhoes-na-poupanca-tesouro-direto-ou-cdb-5/"
+    }
+   ],
+   "score": 21.3
+  },
+  {
+   "id": "fa0dadf0d6",
+   "titulo": "Cresce a irritação no PT com a condução do Banco Central por Galípolo",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzAxcHU3djdTejhLeVU0bkl3dXVEMkRhelZkNVpqbGdyemRJeDhnTndxSk5FcUhHdTRHOUw3XzFYMWhQMzk1bFEwTFhIQnlmTzczb3ZJUWNzY3g1ajNlV3dIQVRhQTkzNmpGZWxIcVRLeFRlcnNyY1FHeEJyUzNULVpINmFJMzVqNU05Yk1BeGI3RXZpck8w?oc=5",
+   "veiculo": "PlatôBR",
+   "publicado": "2026-11-15T03:06:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Cresce+irrita%C3%A7%C3%A3o+com+condu%C3%A7%C3%A3o+Banco+Central+por+Gal%C3%ADpolo",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "PlatôBR",
+     "titulo": "Cresce a irritação no PT com a condução do Banco Central por Galípolo",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzAxcHU3djdTejhLeVU0bkl3dXVEMkRhelZkNVpqbGdyemRJeDhnTndxSk5FcUhHdTRHOUw3XzFYMWhQMzk1bFEwTFhIQnlmTzczb3ZJUWNzY3g1ajNlV3dIQVRhQTkzNmpGZWxIcVRLeFRlcnNyY1FHeEJyUzNULVpINmFJMzVqNU05Yk1BeGI3RXZpck8w?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "Galípolo é o ‘cavalo de Troia’ do mercado no Banco Central, diz Cid Gomes",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHFGSnRaY1QwTldvcEJtbnEtVGx5YjlRUFRsVWNzemFoUWdKeHBNY19BMnZMS0l2b3N2clJicDNzQS1hVlJiUFk4TG9SbmxrY29JUFhDbnM5R1NmZUx0OHpDa1Q3Tko0ZzQ4cVd0TTVhNUtVdzZoM0xSdkE3elVpbEdyTlgzc3BsWEdrdF9PLVEtVWozb1RUU1kyVGpLVWxjRmlydzRwd01wQQ?oc=5"
+    },
+    {
+     "veiculo": "VEJA",
+     "titulo": "Galípolo é o ‘cavalo de Troia’ do mercado no Banco Central, diz Cid Gomes",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHFGSnRaY1QwTldvcEJtbnEtVGx5YjlRUFRsVWNzemFoUWdKeHBNY19BMnZMS0l2b3N2clJicDNzQS1hVlJiUFk4TG9SbmxrY29JUFhDbnM5R1NmZUx0OHpDa1Q3Tko0ZzQ4cVd0TTVhNUtVdzZoM0xSdkE3elVpbEdyTlgzc3BsWEdrdF9PLVEtVWozb1RUU1kyVGpLVWxjRmlydzRwd01wQQ?oc=5"
+    },
+    {
+     "veiculo": "Unisba Media",
+     "titulo": "Banco Central Se Manifesta Sobre Conversas De Galípolo E Moraes Rishi Sunak (7Pg9iIgWJk)",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTEwxOE9DMnFxWGxyVlJEbFBTeFVqeWtEckZIWXJZeHUwc3NyVzJueVBOLS1mOHhEMWZjS3lzcU1YN3Q5Rlg4eVNLZ1BnS1FNSXdhYlozNkV5U3ZUYlpCLVh1Wm42Sl9BMkhnWlZhc0Q0RC1fNVRfOUdPZG1xbk1MYUc4Yw?oc=5"
+    }
+   ],
+   "score": 21.2
+  },
+  {
+   "id": "1b3953e42a",
+   "titulo": "“A carga tributária está no limite”, diz presidente da Fenacon Reynaldo Lima Jr. sobre ajuste fiscal",
+   "url": "https://www.youtube.com/watch?v=QrsS9INtLrA",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T10:53:23+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -574,40 +634,168 @@
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=L%C3%ADder+oposi%C3%A7%C3%A3o+diz+que+ajuste+fiscal+aumenta+impostos+n%C3%A3o",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=carga+tribut%C3%A1ria+est%C3%A1+limite+diz+presidente+Fenacon+Reynaldo+Lima",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Após pacote de ajuste fiscal: deputado federal Pedro Uczai defende taxar super-ricos",
-     "url": "https://www.youtube.com/watch?v=LXWR7f_AVoU"
-    },
-    {
-     "veiculo": "Home - Paulo Figueiredo",
-     "titulo": "Ala do PT defende ajuste fiscal com mais impostos",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlFubjJPYUY0ck5jQkN6alJtSFBqc01CLXQ3eHhmcWJWSjdSbUlIU2h2VjJsMXEzYjFOZERBYWhFRm9BMnJCTEJOTkNOdEJwZXhwUHl5V1c5ajJDTWc4d0YxRzFXN3BWSUVhLVB0NjdwcXlNZFlabUhfRFdkUlYwNTJRanVLU3VWVGc?oc=5"
-    }
-   ],
-   "score": 25.0,
-   "video_url": "https://www.youtube.com/watch?v=LXWR7f_AVoU",
+   "outras": [],
+   "score": 20.7,
+   "video_url": "https://www.youtube.com/watch?v=QrsS9INtLrA",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 260,
-   "video_acima_mediana": 0.3,
+   "video_por_hora": 441,
+   "video_acima_mediana": 1.4,
    "videos": [
     {
      "canal": "Jovem Pan News",
-     "titulo": "Após pacote de ajuste fiscal: deputado federal Pedro Uczai defende taxar super-ricos",
-     "url": "https://www.youtube.com/watch?v=LXWR7f_AVoU",
-     "por_hora": 260
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "Líder da oposição diz que ajuste fiscal aumenta impostos e não corta gastos",
-     "url": "https://www.youtube.com/watch?v=DlZV5O1RWEg",
-     "por_hora": 100
+     "titulo": "“A carga tributária está no limite”, diz presidente da Fenacon Reynaldo Lima Jr. sobre ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=QrsS9INtLrA",
+     "por_hora": 441
     }
    ]
+  },
+  {
+   "id": "1f07a15cca",
+   "titulo": "Resultados da Nvidia e IPO da Anthropic devem marcar semana em Wall Street",
+   "url": "https://www.cnnbrasil.com.br/economia/money/mercado/resultados-da-nvidia-e-ipo-da-anthropic-devem-marcar-semana-em-wall-street/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-15T08:23:27+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Resultados+Nvidia+IPO+Anthropic+devem+marcar+semana+Wall+Street",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "boca.com.br",
+     "titulo": "Mercado aguarda IPO da Anthropic e resultados da Nvidia após saída de CEO",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEJ4UHBWeXN5Z0c3b0s4VE0tU2ZjdHhvNXlDRU5TV1VqLWdIX0V1eEhxS3BSYlZISmpDNnU4dkE5bDhqR2xIWVFMaDY0UXFHQ3dIRm1aR3g5RDJNRGZHcEVETFJTbVV2ZWFMWTU1MEJwNF9neTVMaklzQUhfUzNZdg?oc=5"
+    },
+    {
+     "veiculo": "boca.com.br",
+     "titulo": "Mercado aguarda IPO da Anthropic e resultados da Nvidia após saída de CEO",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEJ4UHBWeXN5Z0c3b0s4VE0tU2ZjdHhvNXlDRU5TV1VqLWdIX0V1eEhxS3BSYlZISmpDNnU4dkE5bDhqR2xIWVFMaDY0UXFHQ3dIRm1aR3g5RDJNRGZHcEVETFJTbVV2ZWFMWTU1MEJwNF9neTVMaklzQUhfUzNZdg?oc=5"
+    }
+   ],
+   "score": 20.4
+  },
+  {
+   "id": "16e3d6fa9f",
+   "titulo": "Copom interrompe ciclo de corte de juros e mantém Selic em 13,75% ao ano",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sQl83QnpGeW1iN0R2T3BtTzY4cm5TZk9OazdCczJhcy1ELWdQS2MyemtDMVp6dnV1V19sV0hfTmEzVFlYZUNrQXpBc2hBVTFPMXczWG4wVzNQd2c1SXpqTHFjeXF6bmpuREZxYVdCazJ0R2hNMXpXa2d3?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-15T08:17:14+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Copom+interrompe+ciclo+corte+juros+mant%C3%A9m+Selic+13%2C75%25+ano",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.4
+  },
+  {
+   "id": "af72a35c53",
+   "titulo": "Ata do Copom sugere manter juros altos por mais tempo; Juliana Inhasz analisa",
+   "url": "https://www.youtube.com/watch?v=9L3W86Vmlfk",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T00:53:25+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ata+Copom+sugere+manter+juros+altos+por+mais+tempo",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.4,
+   "video_url": "https://www.youtube.com/watch?v=9L3W86Vmlfk",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 282,
+   "video_acima_mediana": 0.9,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Ata do Copom sugere manter juros altos por mais tempo; Juliana Inhasz analisa",
+     "url": "https://www.youtube.com/watch?v=9L3W86Vmlfk",
+     "por_hora": 282
+    }
+   ]
+  },
+  {
+   "id": "2b25fb4631",
+   "titulo": "'Cashback' da reforma tributária: cerca de 70 milhões de pessoas começam a receber o benefício em janeiro; veja o que é preciso fazer",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/15/cashback-da-reforma-tributaria-cerca-de-70-milhoes-de-pessoas-comecam-a-receber-o-beneficio-em-janeiro-veja-o-que-e-preciso-fazer.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-15T03:00:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Cashback+reforma+tribut%C3%A1ria+cerca+milh%C3%B5es+pessoas+come%C3%A7am+receber+benef%C3%ADcio",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.2
+  },
+  {
+   "id": "5bbe00a315",
+   "titulo": "DAY TRADE 16/11/2026 | Abertura de mercado e minicontratos",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR05JalFUOHY5Njlxclg3dERGRXRVVE82d0wteFVVVFZENmdnZzE5X3E1VVlTaTdvRGpjZ2RBZ2xrV015NW1MemxfSmdtX2pFTTQyM3N5VlZ6S0lTWGplV2gwTUV0Y2lUZnpUNGxxZ2JkbG50aGFmTmZwVWY5UURBRk80aGxaTV9SN0xsRnhoaFRsMWdfMTZjOVdXeXdZSnA3UjVaVjNBbkR3eEt6c19BLW91MA?oc=5",
+   "veiculo": "XP Investimentos",
+   "publicado": "2026-11-15T09:37:40+00:00",
+   "temas": [
+    "comportamento",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=DAY+TRADE+2026+Abertura+mercado+minicontratos",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.0
+  },
+  {
+   "id": "a9fb129d51",
+   "titulo": "Collins, do Fed, diz que aumentos ‘estáveis e graduais’ dos juros são apropriados",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0NVZEhvLWNwSVJHRGF4S1ByTFBhT2RSalFoMERfSGlOMEN4T2NLVU44T0FRTlRjLUdoOXByTDBFUkZoQU5wTEtydEM2WDZvOHlwQjBrVG9PZHQ2UjVDeHpxMU9saC1Kc3RVTGFibWtDYkQtOWFwbzVEUXJDSmhaZXZ6YVNpbTZ5WUc3dTRNREtyUEZBUk5XRWVDTWlzTms0c29HRnUwVjJCZDZsRm9SS21NTk50VzhIYWR5OFNGT3MwclZSUlMtcUtQZ2h0alhC0gHfAUFVX3lxTE5DUG1mRG1tbUpVTnlDajRDTVhNNmQyUHZDT1phOC14UVFMSjR3WnZxSTFQaGhKUE9iYldZVERBTFVsUld5bVlUVTVha1dRMnFnQ0RzMUVReXA0RktBRDI1ak9DZXZJOTRuNHdSVzdDbWxBVjlMejN0ZWktaEM1RnJDNDRMcUZ5Vk5yZ1JOeVJMTHRMSUtoVjNiakN3WDQ0c1p2UFIzVlVPNE1UTnpxdm1xcWZ1WWdTM0JnY3VHLWxYVHQ3OHFYU0tPOGlvSnBKS2RMbVJJN3VoY3p1Q1ZvX2M?oc=5",
+   "veiculo": "Valor Econômico",
+   "publicado": "2026-11-14T17:00:40+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Collins%2C+Fed%2C+diz+que+aumentos+est%C3%A1veis+graduais+dos+juros",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "IndexBox",
+     "titulo": "Collins, do Fed de Boston, apoia altas graduais dos juros diante de riscos em duas direções - Notícias e Estatísticas",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkVxZnl6VzNMdHVHSXJ0MHhiZVNva19WQXk2b1FjTTlfSXhfUnZwX01ibTdUTF9qZE83alpqTGdGQzFiWVBGLWlkemR4OWctQmd4RjY5ai01N2tod1Fra0M3SlU3dlV0Q2hnUGJlTnVkY2dvdEZDV0ZiaWVoVloyU1BXcXpHblotajRCeExfeEVza1J5dDJFZnVBVXBSTkJsMGZ4Rnhwbk16QQ?oc=5"
+    },
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Collins, do Fed de Boston, defende alta gradual de juros e vê riscos equilibrados",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdng0NzJDQjI4ZEdOaTNvcmFoRS1pNXBLX1JYVEs0WGd1OE53cFhXU19CXzRXdHVWckxjaEczUU8zVFNEdV9EZXMwNi1LdW11NmpCdVZMZDNzcW9YbFB3QlZQYzRqR09IeTlSWkgxNnZiSmktVnY3dVNqdjB4THZKMG5Cai0tdDJhaEY2ZU9ZLWJxMUtmRlM0ckJ4S2ctTVQzRjBzakFXR1FpVVZYc1RmREFtVU1sRDFhd2NsYWlZdFZsOWk0UGZJ?oc=5"
+    },
+    {
+     "veiculo": "Jornal Brasília Capital",
+     "titulo": "Susan Collins Defende Aumento Gradual das Taxas de Juros",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODd6VWFaeXg2dWFGOGNYS0VQRFlWU05hLTkzS3ZaVkFjYl9CSVpjSVV0VkNobjBqUkg4QnhBVnRxM3JjalZjd25SSXlRbkNIQS1MWVduNTBRS1hFTHNkZ1dMclplUG5ZcHJfNTNaWF9YS0ZfVFBkNG5zS2FkMDJNTUprTmVERmR6aGhJ?oc=5"
+    }
+   ],
+   "score": 20.0
   },
   {
    "id": "85aeca389b",
@@ -636,7 +824,24 @@
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTzBINERCMXBnelc0bkdwdWJxZG5waFhfdmZOcWQzcnluUUI4b29zOFB1X3htTVRQU2gyNzhOVVhhVFpKWnl4ZllZLXRhdXI5YmhOQTd6eEdrM04xR2FhbWV6QWEwVUpQSmR0N0I0TFo3NWdTNGlpVVBsd0dQaG03UkNJNkZpbW5tTUxQTTVjdzZlZWRUb0syNU11SGYyQk1HdkVyZ0l2MXRoLWI1aUJBNGVIYm9fWVBYWXloQ3hZUkRSakRPU3EwcmpDVFVzUW54by1NRGJfY0JrUFBNTGMzSVlXVjVsTGR6cVlmUjNGTVdYdHBVM0RzMdIB-AFBVV95cUxPTzBINERCMXBnelc0bkdwdWJxZG5waFhfdmZOcWQzcnluUUI4b29zOFB1X3htTVRQU2gyNzhOVVhhVFpKWnl4ZllZLXRhdXI5YmhOQTd6eEdrM04xR2FhbWV6QWEwVUpQSmR0N0I0TFo3NWdTNGlpVVBsd0dQaG03UkNJNkZpbW5tTUxQTTVjdzZlZWRUb0syNU11SGYyQk1HdkVyZ0l2MXRoLWI1aUJBNGVIYm9fWVBYWXloQ3hZUkRSakRPU3EwcmpDVFVzUW54by1NRGJfY0JrUFBNTGMzSVlXVjVsTGR6cVlmUjNGTVdYdHBVM0RzMQ?oc=5"
     }
    ],
-   "score": 24.5
+   "score": 19.5
+  },
+  {
+   "id": "0e535f4650",
+   "titulo": "Petrobras soma R$ 120 bilhões em perda de valor de mercado com nova queda de ações hoje",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaG9WSkZPX2YtVDI4OTBJS3RBRWVLaTdrdzdRVXROS0VaTGJTRG4ybWJhdzZWY1dfeklPclJIc2ZNckc4bG5UeXpJa1BEdjhKTGdUbC1SMzNmelRHSGxZc0RnRkhaaEtER210WlVDM3NybTZWSEVHWFl4aWJsNjJPc1cyUmxqekJ5NGFfMk13RmJHX3J2Mm1UN1YxdTJLTmZEVkhPc1pvMk11MmZHQXRJTUdKU2s5c1FzeU0zVGtPV1pPU2ZhbkZWSmhMR3lZQUN5S0ExNzlXbFV2bUFyWHljQUNzSWVfS29pbC1mTA?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-15T05:56:42+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+soma+120+bilh%C3%B5es+perda+valor+mercado+com+nova",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 19.4
   },
   {
    "id": "6b4e8cb4cb",
@@ -663,303 +868,239 @@
      "veiculo": "Estadão",
      "titulo": "Magalu salta mais de 11% com recomendação elevada pelo BofA; veja maiores altas e baixas do Ibovespa",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcEhsdm12UktPNzdhTGd3M1RCRFp0aF9VQVZWejVRdThqMGRjUHpVVldLcS00Y3NNVEJ3TWNlbnU2R3U5TEVmT3I2ZGd3YXpaMFRuQVNWYWI3ekpxMnFPdVVNQlpQV1NJZG5TakhBVWZUR01SZnRxTUg5Y1ZUZU10RGRYUVJ1VUlnWjVyOVJFQWlsX3JpcV9GRng3c0dldnFwSkVMU3BLOGc2UHJXZFNVbEhtejJHUFZyTUhyYXctdmFNQWNKQnBKVzdocVlTWHJOei16Z3hfOU9icGljajVaZHFVdWUyUFN1blp0dWdzZ3llaGtsaUQw?oc=5"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Com tombo do petróleo, Brava cai quase 4% e lidera perdas do Ibovespa; veja maiores altas e baixas",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHpJaHhpOGZ0THdCVUc1QUFWMXRGYjJ5aHlNRnZINUhBVWVCOWQyZ2xaTE1lRkNLU2U0QWx3dWItMlJ6RjM5UjM3WkVHQ3ExWXFlQjlHQVVwdGZMTG53TjR3bXJXWkZNcFpwWXZrY3NpU1RoZWgxZl9oTGxUclNuWkdjQ0laSDZiVW01aDB5WEdkaTVacEY3NmYzNFBKWDV6c2hWQldaRGQ2NEtXay1Na3pheTBJMnQtX0pVMmlwQkZtcmxLcHhpRVF6Y0FRY3dFWTRuRW9GT1Bvdlht?oc=5"
     }
    ],
-   "score": 24.4
+   "score": 19.4
   },
   {
-   "id": "7fd15fe28d",
-   "titulo": "Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31 | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=6bnXa7JPckE",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-14T13:19:23+00:00",
+   "id": "9236c5210b",
+   "titulo": "Para financiar a safra, produtor endividado ter� de tirar dinheiro do bolso",
+   "url": "https://economia.uol.com.br/colunas/patrick-cruz/2026/11/14/para-financiar-a-safra-produtor-endividado-tera-de-tirar-dinheiro-do-bolso.htm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-11-14T21:48:18+00:00",
    "temas": [
     "economia",
-    "politica"
+    "mercado"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Senado+aprova+texto+base+ajuste+fiscal+governo+Lula+por",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Chapada Hoje",
-     "titulo": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXVMc01HU1A4UVh4U0Fvbm9ESW8xc1Nuc3RrcWU3OTJBTHZkWWdNV0g2MVptSy15bUhFNnZuRW5pb242M3dIekhMV2M3SjNfSTVIekcyaXI2RmtsODlrVG5XQXlNYk9RNUx3U0c0QkhYaHhvSmtoSTRxVUV6Y2d6V1JhUUNSVmNiZ3F4RGo5NWNjaHRmWVd4T2RmVVJWLTlTYVFqSzN6Um9PdjA?oc=5"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "URGENTE: Senado aprova texto-base do projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=erbqB8X1mnk"
-    },
-    {
-     "veiculo": "TV Senado",
-     "titulo": "A Voz do Brasil - 13/11/26: Senado aprova texto-base do ajuste fiscal; destaques ficam para terça",
-     "url": "https://www.youtube.com/watch?v=rJEcDWbJ5D8"
-    }
-   ],
-   "score": 23.6,
-   "video_url": "https://www.youtube.com/watch?v=erbqB8X1mnk",
-   "video_canal": "GloboNews",
-   "video_por_hora": 279,
-   "video_acima_mediana": 1.2,
-   "videos": [
-    {
-     "canal": "GloboNews",
-     "titulo": "URGENTE: Senado aprova texto-base do projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=erbqB8X1mnk",
-     "por_hora": 279
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31 | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=6bnXa7JPckE",
-     "por_hora": 104
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "A Voz do Brasil - 13/11/26: Senado aprova texto-base do ajuste fiscal; destaques ficam para terça",
-     "url": "https://www.youtube.com/watch?v=rJEcDWbJ5D8",
-     "por_hora": 46
-    }
-   ]
-  },
-  {
-   "id": "fd6f053aa0",
-   "titulo": "Assista ao discurso de Camilo Santana sobre pacote fiscal de Lula",
-   "url": "https://www.youtube.com/watch?v=OE2-5pqCMWQ",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-14T17:33:15+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Assista+discurso+Camilo+Santana+sobre+pacote+fiscal+Lula",
+   "busca_video": "https://www.youtube.com/results?search_query=Para+financiar+safra%2C+produtor+endividado+ter+tirar+dinheiro+bolso",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Estadão",
-     "titulo": "Discurso de Lula deixa dúvidas sobre ajuste fiscal; veja como o mercado financeiro pode reagir",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEVzaGY0Y0NFRHJxUlhEcWNFZzRmZWM3X3hDSnJuRk1jUzlrbnB0NFI5NW9WUldDdHYwQjlNS3NqVkJTX1lESF9mcjVqd0xEVUpvekh0bTBDcGg3YUNERVl2ZEU5eTZiendNSU53MDVhZTJFZ2hOMnduQm9qRkFiWnhkRFFYc1N6SzA4eDZKNFg3WWRtOTlsTnpUR1FFUkNOSWxaY2t6UVE0SGotSEJMbGNnZ1RLQlE5YzU1RHRfVGx3V0VUb3NwQ2NWYi1YNlRyQ01pTXB6NE94MzN0X05qSC04WW5DeXpnMjZmRktOUnFTZw?oc=5"
+     "veiculo": "UOL",
+     "titulo": "Produtor endividado terá de tirar dinheiro do bolso para financiar safra | Patrick Cruz",
+     "url": "https://www.youtube.com/watch?v=XgZoq0Dhu3w"
     }
    ],
-   "score": 23.5,
-   "video_url": "https://www.youtube.com/watch?v=OE2-5pqCMWQ",
-   "video_canal": "Poder360",
-   "video_por_hora": 3083,
-   "video_acima_mediana": 26.4,
+   "score": 19.2,
+   "video_url": "https://www.youtube.com/watch?v=XgZoq0Dhu3w",
+   "video_canal": "UOL",
+   "video_por_hora": 504,
+   "video_acima_mediana": 0.4,
    "videos": [
     {
-     "canal": "Poder360",
-     "titulo": "Assista ao discurso de Camilo Santana sobre pacote fiscal de Lula",
-     "url": "https://www.youtube.com/watch?v=OE2-5pqCMWQ",
-     "por_hora": 3083
+     "canal": "UOL",
+     "titulo": "Produtor endividado terá de tirar dinheiro do bolso para financiar safra | Patrick Cruz",
+     "url": "https://www.youtube.com/watch?v=XgZoq0Dhu3w",
+     "por_hora": 504
     }
    ]
   },
   {
-   "id": "547c2a21fa",
-   "titulo": "Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
-   "url": "https://www.seudinheiro.com/2026/economia/lula-e-peca-chave-para-ibovespa-voltar-aos-200-mil-pontos-empiricus-traca-possiveis-cenarios-fiscais-para-o-brasil-e-seus-efeitos-na-bolsa-lbrdml140/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-11-14T13:11:00+00:00",
+   "id": "08db403b1f",
+   "titulo": "ABC Brasil (ABCB3) fecha compra da Angá Asset; transação pode alcançar R$ 690 milhões",
+   "url": "https://www.moneytimes.com.br/abc-brasil-abcb3-fecha-compra-da-anga-asset-transacao-pode-alcancar-r-690-milhoes-lmrs/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-15T12:03:14+00:00",
    "temas": [
-    "mercado",
-    "politica"
+    "economia",
+    "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+pe%C3%A7a+chave+para+Ibovespa+voltar+aos+200+mil",
-   "veiculos": 2,
+   "busca_video": "https://www.youtube.com/results?search_query=ABC+Brasil+ABCB3+fecha+compra+Ang%C3%A1+Asset+transa%C3%A7%C3%A3o+pode",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Kinvo",
-     "titulo": "Notícia Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2FNSzIzWHQ2NkhESUZqMHAweVJ3RHNpNTd2Qng0aFpNc0Y5cm1rTjNweUtfa1dZZ1Y3bE9FNndOMlZqXy1CV0F5SFg0MWVXNE1BOHhMcGlGcks2YmxsdGVkN1FqNm80Z29EclBsZmZWd0FnZWR2VVZGdHFSUEtKdTFhVmxORTA4eVY4aFhSR2JEWVVmUFNCblRQMlA0X1lYNURHaExEUGk3Uktpc2pwMlN1TG8xWHB1RjI2QWUzNGdSdS1oclpxQ2pXNV9DcDBuYkpVSzNHLUpSODFoWWh5ZVl4dmRFMGtSTVluX1ZiMlNlMUVBREJzaE5XSQ?oc=5"
-    },
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeGdEMUExTXhydnFRdTlfMFJ3eU04TThGblcyUEV0WG9Fa1g1LUZ5QlNSbFdOVHpVTlIwMkN5M2FMaUY5ekJtOE1UXzdvbGZ6bVgtYUtNbEl5RGNIQ0dHSTFLblljMU1ReUZfNk0wbHVkcWFPN2daNGxCbmlCRUo0RWpIZ3RaaEtDSXBWQmVmdTRrMzEyb3g2Sko4b0p4UUNUYnAzSU5QWVViVWdTQ012NUtCdDRBN3lRampaRmVxMnZWMHVMRHNxM3h0NC04ZWJkeEVIQWh3dXNCY1VNTHd6ZVVpRkJ5QTJIb2lKR0FfN040UDU5WjJWbWVEZVhFdWR1MmJRTzM4WTM1SWdBemZKaFBZNFNES25UOVVF?oc=5"
-    }
-   ],
-   "score": 23.4
+   "outras": [],
+   "score": 19.0
   },
   {
-   "id": "627e0ba112",
-   "titulo": "Preço da cesta básica sobe em todas as capitais e consome 52% do salário mínimo",
-   "url": "https://www.youtube.com/watch?v=enSn4Pi9AII",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
+   "id": "e5f0a5dc1f",
+   "titulo": "Após 25 anos no varejo, rede feminina com mais de 450 lojas entra em falência e inicia liquidação nacional depois de não conseguir sustentar a operação",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQOHVzeTN6XzBrODB6M1p3Y185MF9KNEhRVVlid2xHbkl6elZ1S0tHeEt6OWNmazFuSHVYMUNOMnBDb3dTTl8yUjJVbUVRVDlmUWNKS05fenV3MHRDdmVrRUZyWjJMSTdoZTJYb3pCa09jRXljNFNOOFRMRW90MTc3MVBUbzhYUnJzbVNiZGVEUGZwSHlTVGFNRWxVaXpvT0N4blUtanRWckdjaWpQREVYTFJpWXgxZmJobTlRMVA3V0ZIcEdxZUlUOXBRRVYtaGwxZEFZOHJTalo3dzRaMzdMOGJoNjdhd2pmSUxHdExYVGdFUzBsdm1fT1FHWEhkejBtd0pwTERDOWIyeUlXWmJ2Mk9zOA?oc=5",
+   "veiculo": "O Antagonista",
+   "publicado": "2026-11-15T11:57:00+00:00",
    "temas": [
     "economia"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7o+cesta+b%C3%A1sica+sobe+todas+capitais+consome+52%25+sal%C3%A1rio",
+   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+anos+varejo%2C+rede+feminina+com+mais+450+lojas",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.8,
-   "video_url": "https://www.youtube.com/watch?v=enSn4Pi9AII",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 3750,
-   "video_acima_mediana": 4.9,
+   "score": 18.9
+  },
+  {
+   "id": "aff52a7007",
+   "titulo": "Rogério Marinho compara projeto de ajuste fiscal a ‘calote’ e ‘pedalada fiscal’",
+   "url": "https://www.youtube.com/watch?v=HCmd3BVLS1Y",
+   "veiculo": "Band Jornalismo",
+   "publicado": "2026-11-15T09:00:51+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Rog%C3%A9rio+Marinho+compara+projeto+ajuste+fiscal+calote+pedalada+fiscal",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.9,
+   "video_url": "https://www.youtube.com/watch?v=HCmd3BVLS1Y",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 378,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
-     "canal": "Jovem Pan News",
-     "titulo": "Preço da cesta básica sobe em todas as capitais e consome 52% do salário mínimo",
-     "url": "https://www.youtube.com/watch?v=enSn4Pi9AII",
-     "por_hora": 3750
+     "canal": "Band Jornalismo",
+     "titulo": "Rogério Marinho compara projeto de ajuste fiscal a ‘calote’ e ‘pedalada fiscal’",
+     "url": "https://www.youtube.com/watch?v=HCmd3BVLS1Y",
+     "por_hora": 378
     }
    ]
   },
   {
-   "id": "c061df92b4",
-   "titulo": "Liberta: juros, inflação e dívidas no quarto mandato de Lula",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VV29nSzdrNy1qbndlVDJHcmgwMjdEZW1oaXpBVmpTbFdtbk5Ta1VuMTU2aUxKdi05eTVGTVRuUVV2WE0tWEoxWVhSejBnTjI5QWtXUk5tc3pjMGtSbUFyVUdlNA?oc=5",
-   "veiculo": "ICL Notícias",
-   "publicado": "2026-11-14T20:00:00+00:00",
+   "id": "dc5899ad19",
+   "titulo": "Lamaçal invade imóveis na região de Avaré e deixa moradores no prejuízo",
+   "url": "https://www.youtube.com/watch?v=0w4xQqm9Ef8",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T11:29:39+00:00",
    "temas": [
     "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Liberta+juros%2C+infla%C3%A7%C3%A3o+d%C3%ADvidas+quarto+mandato+Lula",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "AmazoniaPress",
-     "titulo": "Inflação pode voltar a pressionar no quarto mandato de Lula; entenda",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXB5XzhGN2xxbVBPWEMtc2E0T0I0U0xpbXlJeEU3SFNDbVF2dWxZWjFPamVPdFdyTVpNVjJxUzhRd3NRMFRLOGdyRHFzc3NkckZJOVFlejZrMVVBVGg4WHNmUmQtUnMxVGlyUVFHQ3pjTmNVYjJuU2sxUnRQcFVwbFByOTE2NEhJQU9iblFzemJkVlBza1BJLVRWZER3QQ?oc=5"
-    }
-   ],
-   "score": 22.3
-  },
-  {
-   "id": "8ed60603bf",
-   "titulo": "Petrobras pagará R$ 15,3 bilhões em dividendos; veja quanto cada ação receberá",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXRIZFNPbjFIRnpXLXFkM1hqQm40cnBRQWk3UC1kOWd5TWY3VDJSNFA1aHhJVWx1ZENmRHRQdnJyZWlybkh3T0dwVTdDOWcxVm9OM2pwcGFYdjJhaVNSRUJCZEhnVkZETXZ4VnRLQnpIZXE5QjZrdXYyWXh2ckhXRkp3eEVZcXdISnJ4RzRXc1ROYzRjbjZ2UXE5elVpXzJ0SHlrazgyYllRcFBYZ3RVUDRjUm9uTDhIUXZxbjBHZmZxY2J5bTVhUjhrUFA3ZkJsLWc?oc=5",
-   "veiculo": "A Tribuna",
-   "publicado": "2026-11-14T23:58:00+00:00",
-   "temas": [
     "mercado"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+pagar%C3%A1+15%2C3+bilh%C3%B5es+dividendos+veja+quanto+cada+a%C3%A7%C3%A3o",
+   "busca_video": "https://www.youtube.com/results?search_query=Lama%C3%A7al+invade+im%C3%B3veis+regi%C3%A3o+Avar%C3%A9+deixa+moradores+preju%C3%ADzo",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.9
+   "score": 18.8,
+   "video_url": "https://www.youtube.com/watch?v=0w4xQqm9Ef8",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 236,
+   "video_acima_mediana": 0.8,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lamaçal invade imóveis na região de Avaré e deixa moradores no prejuízo",
+     "url": "https://www.youtube.com/watch?v=0w4xQqm9Ef8",
+     "por_hora": 236
+    }
+   ]
   },
   {
-   "id": "cd61552d24",
-   "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) derrete; veja o que rolou no Ibovespa",
-   "url": "https://www.moneytimes.com.br/magazine-luiza-mglu3-lidera-ganhos-com-alta-de-mais-de-39-enquanto-csn-csna3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-14T15:43:00+00:00",
+   "id": "49d98ca4ee",
+   "titulo": "Gigante do vale tem plano de recuperação judicial aprovado",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGlNZzhxT1pPZTQ5QkMzNWJiLXhLZGFNaHFGWUFZdmliZ0JnVUk3MS1RTVFIa3Vad19hTk40U1ZKMWwzNDlReWNtMEhZN3U5ZVFPa284aWRNZTV2Vlp0RUZwY1h4M0haRHg0U2dodGpVVldVTlpnb1Nfdlh1V2Z5Z0JDQlpTSGwxcHhjRC1iVEtwOXhReWVjTWY2dUNnLURMNzBlbHdZcVZfQmNxbF9uRU9lWdIBuAFBVV95cUxOSDg2WUFibnllMWFSbzdGellaSmRGU19IUEJDRDIxcEJicFJuNDhsNXRfc3dMVVk3QXRCUHhBX2o4RE1DUUhWdmw4NXJNMGE0NmRXMnBjWVlRVGZFczVHblV4NGxaS000cHAtOXNOT0V6aWVNUHY0T2V5Rlp2a1JQVGhud05IMVhhdEVodlhCcFFEUWJJdXd5bHdfTkt5NHVjeUdtdXB0bHgwLVg1ZFVDaENlTWoyNV9I?oc=5",
+   "veiculo": "Jornal da Cidade Online",
+   "publicado": "2026-11-15T11:22:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Gigante+vale+tem+plano+recupera%C3%A7%C3%A3o+judicial+aprovado",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Rádio Taquara FM 105.9",
+     "titulo": "Frigorífico Zimmer tem plano de recuperação judicial aprovado por credores e manterá atividades",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVHBZVGlsQmpnNHdKRUJscUtuMDdralRGSGlTT1pPazVLcW5pUWt5OWhUeFRsaUQzazNMS01ZQzQ2MHozUXR6OWxWZ2xBaHpuS1Q1TTZNUHY5RzJLNzNqOUFyVzkySDBuVl9pNFlCcE5KYWlXaEVQRG9WSGxxbVAyT2FZQ0U2b3RZSVNfMHB2UVdyZ3VTNmx5QklXMjllU3p1bklGSkpEakdleldsMV9IREV2VFVPb3lzX2djaWFOV0pybEFfVjJyTHFtdXZUUQ?oc=5"
+    }
+   ],
+   "score": 18.7
+  },
+  {
+   "id": "04004dbf32",
+   "titulo": "SNEL11: queda das cotas abre desconto de quase 9%, mas há riscos nos rendimentos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVW5ZM1NrRkJSdzM2X0tDcU41RmsyN0FjandFLVhZTE9TSkswclhrdW8wbGd1MjV2UzlqUVlmTXV4SGdRZ3VTWUVONDNRdUhVeXNZUnRfa3VWX1podGZtMm9SaXNkY2FpejZNM3pLM0NkR3JjNDdyLXVCUG1WLVE1WWFMRWNEQzR1TUhXOFJnTG9fSWdPbi1kOHEwMWtZYWp1R1dFSjRR?oc=5",
+   "veiculo": "O Petróleo",
+   "publicado": "2026-11-15T11:21:25+00:00",
    "temas": [
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Magazine+Luiza+MGLU3+vira+foguete%2C+enquanto+CSN+CSNA3+derrete",
-   "veiculos": 2,
+   "busca_video": "https://www.youtube.com/results?search_query=SNEL11+queda+das+cotas+abre+desconto+quase+9%25%2C+mas",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) despenca; veja o que rolou no Ibovespa na semana",
-     "url": "https://www.seudinheiro.com/2026/economia/magazine-luiza-mglu3-vira-foguete-enquanto-csn-csna3-derrete-veja-o-que-rolou-no-ibovespa-davs/"
-    },
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) despenca; veja o que rolou no Ibovespa na semana",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXBsOTNHX2d5blNkeTczYzZsSks4M1lRcndFclg5ek5JYXMtZWdkcng0LTNTUkk2REJCRHZNQnpmbW1kQ3h1bE9JaTAyZ3RNSkVnelRCQjh4cXZPWlprSWZES0xwYW1kZGQ4SnByRE82LTFOazNvLWZvbGQ2eXllX1FFRE5oN2RNdXVndURGN0lZZEpuMnA0SFRoN2tQMExycnlpWDRQakRHaGRVcWphMWViZ0JnUk85UlJQTi14eWJ5MmhRa0R0VmVRSmljYjk3UGtZ?oc=5"
-    },
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) despenca; veja o que rolou no Ibovespa na semana",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXBsOTNHX2d5blNkeTczYzZsSks4M1lRcndFclg5ek5JYXMtZWdkcng0LTNTUkk2REJCRHZNQnpmbW1kQ3h1bE9JaTAyZ3RNSkVnelRCQjh4cXZPWlprSWZES0xwYW1kZGQ4SnByRE82LTFOazNvLWZvbGQ2eXllX1FFRE5oN2RNdXVndURGN0lZZEpuMnA0SFRoN2tQMExycnlpWDRQakRHaGRVcWphMWViZ0JnUk85UlJQTi14eWJ5MmhRa0R0VmVRSmljYjk3UGtZ?oc=5"
-    },
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) despenca; veja o que rolou no Ibovespa na semana",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXBsOTNHX2d5blNkeTczYzZsSks4M1lRcndFclg5ek5JYXMtZWdkcng0LTNTUkk2REJCRHZNQnpmbW1kQ3h1bE9JaTAyZ3RNSkVnelRCQjh4cXZPWlprSWZES0xwYW1kZGQ4SnByRE82LTFOazNvLWZvbGQ2eXllX1FFRE5oN2RNdXVndURGN0lZZEpuMnA0SFRoN2tQMExycnlpWDRQakRHaGRVcWphMWViZ0JnUk85UlJQTi14eWJ5MmhRa0R0VmVRSmljYjk3UGtZ?oc=5"
-    }
-   ],
-   "score": 21.5
+   "outras": [],
+   "score": 18.7
   },
   {
-   "id": "6d88edb290",
-   "titulo": "Governo lança ofensiva para aprovar na Câmara regulação de big techs",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/governo-lanca-ofensiva-para-aprovar-na-camara-regulacao-de-big-techs.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-14T22:08:00+00:00",
+   "id": "5b3fb0397c",
+   "titulo": "Domingos Sávio acha \"improvável\" que Nikolas dispute presidência da Câmara.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWlBeW5ILUxLZXJ5Tk5yR1Nkd3pmcmFVZmZZdTB5R2ZJSnRJVU96ZFNIRG1xTGpfR3BELUxIbE1HckxuQUduSld5eHlQa05vLUk1QTZlRExWV0Y4QWl5OXFtd0ZuOHhzbGtpenJPTDQyY255V2NhcC1pbV92UE1CcUUtN2doS1NHbGJXUTZiOFBfUWwwTmdha0hvMnExTWozMUlyekVJZkVxMm5xcGtPY0t3?oc=5",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-11-15T08:59:15+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+lan%C3%A7a+ofensiva+para+aprovar+C%C3%A2mara+regula%C3%A7%C3%A3o+big+techs",
-   "veiculos": 2,
+   "busca_video": "https://www.youtube.com/results?search_query=Domingos+S%C3%A1vio+acha+improv%C3%A1vel+que+Nikolas+dispute+presid%C3%AAncia+C%C3%A2mara.",
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Diário do Comércio",
-     "titulo": "Governo lança ofensiva para aprovar na Câmara regulação de big techs",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWndFT0tyVmtfenhya1R0RzVNbWxLRjlaUlJRTGtxeHdrWXR6TlNGdUNuMWZUM1RfM2RzZ2cyUWJhckhUbFYzejRMc1V6SERYSGlDTU1IWDdnTGltRjZWMkE1b29GM3NmTjE3emNRTnRCZncybi1wSVhjWHlpTFZSeGtB?oc=5"
+     "veiculo": "Prensa Mercosur",
+     "titulo": "Sávio vê como improvável que Nikolas dispute a Câmara em 2027",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFh2MnI2c3QtOTVDVjNCWUxSQ2ZMY3ZfYm1oN1pETXlPaVN4TG15S184eFFTcGJpMmJYd2RoaDhYT3cwVFpnU25FRmdUVEhyRmN0V25hbXFGMFpDZGg0RXFMSHhrbXpLYjhBUUV0VkNwQ3dOTnVvNXlkZ1BaV0tlY0IzUW5MWU5PY1doNU5fQ001Vm15M3pMSXkwcDNWWEJXNVE?oc=5"
+    },
+    {
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Sávio vê como improvável que Nikolas dispute a Câmara em 2027",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk1pcDByRUxoTlQtYjBJd0ctaVF0REFwTHRDYlpDSzVWRm5VZHJoQkYzNnJ3dFAyanhkTk14UGpqU2tadFZvNHJaUW9zcTQ2SEpnTGdFR09GU2ZwM3gxMjktdlN0Yk5MQWE0U3dFck1jaXZIVmlEcTFPSTBZUU44MlNVaDZhR3l1NVFPN0lESk5mUGEtbjFvU2dQdWhlV01ldWNaU3FEaw?oc=5"
     }
    ],
-   "score": 21.2
+   "score": 18.7
   },
   {
-   "id": "014e2df178",
-   "titulo": "Governo federal vai cancelar financiamentos de prédios de luxo com crédito do Fundo Clima",
-   "url": "https://valor.globo.com/brasil/noticia/2026/11/14/governo-federal-vai-cancelar-financiamentos-de-prdios-de-luxo-com-crdito-do-fundo-clima.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-14T17:21:43+00:00",
+   "id": "4f95bbffaa",
+   "titulo": "TRXF11 despenca e acende alerta: dividendos de R$ 0,93 estão ameaçados?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWhqWU1wQ01UaVZKZTR2N2k3dXpMbUJqSWx6SFhaWV80a05udHhKSE9SeFktWWRkM1ZZLXd3TEZiT3g4Z0JBRWJpUWFOOGNqSGlhcXRtb09teGFodWRMcTNpdkdrTnhTeDF2NjlYVGF6VjhaMzJpYkx2YVF5NEVVOXgyeEREQk4zRWNCSGJHMktsX3NyREhZMA?oc=5",
+   "veiculo": "O Petróleo",
+   "publicado": "2026-11-15T11:15:00+00:00",
    "temas": [
-    "economia",
-    "mercado",
-    "politica"
+    "mercado"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+federal+vai+cancelar+financiamentos+pr%C3%A9dios+luxo+com+cr%C3%A9dito",
-   "veiculos": 2,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=TRXF11+despenca+acende+alerta+dividendos+0%2C93+est%C3%A3o+amea%C3%A7ados",
+   "veiculos": 1,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Folha",
-     "titulo": "Governo federal vai cancelar financiamentos de prédios de luxo com crédito do Fundo Clima",
-     "url": "https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/governo-federal-vai-cancelar-financiamentos-de-predios-de-luxo-com-credito-do-fundo-clima.shtml"
+     "veiculo": "O Petróleo",
+     "titulo": "TRXF11 despenca e acende alerta: dividendos de R$ 0,93 estão ameaçados?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWhqWU1wQ01UaVZKZTR2N2k3dXpMbUJqSWx6SFhaWV80a05udHhKSE9SeFktWWRkM1ZZLXd3TEZiT3g4Z0JBRWJpUWFOOGNqSGlhcXRtb09teGFodWRMcTNpdkdrTnhTeDF2NjlYVGF6VjhaMzJpYkx2YVF5NEVVOXgyeEREQk4zRWNCSGJHMktsX3NyREhZMA?oc=5"
     }
    ],
-   "score": 21.2
+   "score": 18.6
   },
   {
    "id": "cd7009b72a",
    "titulo": "União Nacional dos Estudantes convoca manifestação contra juros altos e ajuste fiscal",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHJPcXlqc0hRNXJPc0VWR1JCc3RBd3llUWtwQVpQU2pYbFYwNm91b0REOFBxVFkwZDM1Y3JlVnJESTVPOTIyUmRnU1AtOEZjb1ZFMkJxVDRld0lpTk5ER1JaUjhXZ0VfV0dWa0ZzSGZ6b3E1dE9TVU15WjRMcGJPbDdscXB3ZXFFS2V1NHo2TU4waXBUeXNyelFHbTVrNnU0dW5rbjlJUnVsYjA?oc=5",
    "veiculo": "Hora News",
-   "publicado": "2026-11-14T21:24:48+00:00",
+   "publicado": "2026-11-15T11:12:44+00:00",
    "temas": [
     "economia",
     "mercado"
@@ -967,488 +1108,74 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Uni%C3%A3o+Nacional+dos+Estudantes+convoca+manifesta%C3%A7%C3%A3o+contra+juros+altos",
-   "veiculos": 3,
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
      "veiculo": "ICL Notícias",
-     "titulo": "Contra os juros altos e o ajuste fiscal, UNE marca ato em frente à ‘Baleia da Faria Lima’",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53OS1aS180aVhFNGQ2VEs2RlY3dW9vaGZYZHdNTERnTGIzb2lUZElDWGxSVGZ6anVhUmptckdZalptNGUzanlmZ1BVZVpSNHp6TFF5VHNWMTdrakNWWG84c0xYQnJ6NE1KZEFRUE51bE1TaE9PRjRDTWRhWQ?oc=5"
-    },
-    {
-     "veiculo": "Brasil 247",
-     "titulo": "‘O mercado não manda no Brasil’: UNE convoca protesto na Faria Lima contra juros altos (vídeo)",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWtvdXhZNkNrYlZTLVE2VnFOaGp4ZEJQY25pdk5lM3FNN0F3Ykc2V0YzRHo3RnRYRTF5WmRsMkktcmN4SE5pMTNVamlxQXJoZHI1MjQ2ZTV5MnpVTWIwV21VWnU1YkxSa2JNSXN3SkRTN2pIU1BzNlBSZmhWYkIwdjh3d2VZbGFwWmh1amFOelZGZ0hlalVEell2QmJfQUlHOWtNeGNiajdKSUxRbzdtQ01sZlJkeU9wSTJsNE94SVc?oc=5"
+     "titulo": "Contra juros altos e ajuste fiscal, estudantes marcam ato em frente à ‘Baleia da Faria Lima’",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTXFMSmpnRXpmSWlvQ0lVbS1FM1U3SW9vdkx6UUxlMVBHUUlYaF90SUJORlA2eUl4cXpMaWxWTUlsc2xzMXQ0SGhQVWpnS0RNcUZPRXhlaHBUVW9sazlMLVozVnZBa3FBRzB1UFZhQ3NWYkRkWHotekx1WlY?oc=5"
     }
    ],
-   "score": 20.9
+   "score": 18.6
   },
   {
-   "id": "a53b61e7b8",
-   "titulo": "Bolsa soma 2,35% na semana com pacote fiscal, mas crédito segue caro",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVRmUW5MWTFRWWRiQ3RLd1M2R1pkcDZDVE1oRXNZRE0zWWxMd1BqX1Bnd2dSOWsxblBEanIxY0hKck5IVnpOODgtb09WU1lUemJjVUhjOGdjRWZWa28tWmRIM2ZaZHE0M0k3ZzhpcmlWMktGamhiSWY2VVMtcFU2YnkwZVE1QktiV1JlNHAydDZYbWF0V3Q3eW11ajVCdF9iR1p5azZta9IBrAFBVV95cUxOOW5yN2tfV29SZzV6azAwMW1FV0FqY1pwQmQyaVpFeXRrc1ozbmVnbnhZcXJfdGl1T0R3VHlHRlFaUVBBRUtTNTBfMTBfTTlEUlhrMXUtaWhPQnJDZkE3eWpnTk1jY1hxVHhUc1JaUlNwUlh3VVQ0VXVlOWtUMVpPZl96VVF1aW5uaFZURmtsMTMwWHFDWnpzdF9LNC02cW1uYlhUenFkTHFYQlpz?oc=5",
-   "veiculo": "O Cafezinho",
-   "publicado": "2026-11-14T21:05:00+00:00",
+   "id": "6f17fb5b0d",
+   "titulo": "Waller assume as rédeas da comunicação do Fed e recoloca juros mais altos no preço",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN0ZvWkk0d2RodGZ5NXFTZWY0UEtUMDNLOVNuVmpXRno0aDAwbU9vN3V5YUJ2cTRtX0dmaWRSSHhtR3EtQmNXXzZlVnhIMGw5WnFDamJOaXJKWnBob05Udmw4R0FqX3o0UUg0Q29mWUtDLU5NclFuMHJNTzJwc20xeWZyNU0wbGMwVkFuVkdncDNqQmhMTTV1TVYyeG5TcWNra3k2MUE4Y1UwWHZzRERlT2pkZXREZTBqUl9DRHNvVmJ6eFRzTFV2NWhEX05ydktmRTgzMWRKdE8xYnfSAeoBQVVfeXFMTzZaZHdFbW5Mcnk1RlNWeXdob1Y4LXRlNVYyM1kzZDQxZmVsTFI5ZmlzanJZTFV1SGtXY0ViSXdaSXdFSk1SdzVsbWNuSHJsX0FvRFpleWdwVkFJanJOVC1ScEtaNWVOXzRtcWluQXREWlBiTHR5eER0MTZnN2NQZjBsbHZEOFFsVjkxVlhrdTRjUXhCM1ZkNWt0eTdmT0pPQ1ZyazJ1MTM5OFJsY05WWG1xSmowMDlXQWtGU0hrWm5FRUI1eTBmVWZXQUhxeDZiRlhIa0JacFRSdmEwekswRENrRnkzZlZFMGZ3?oc=5",
+   "veiculo": "Valor Econômico",
+   "publicado": "2026-11-15T11:02:01+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Bolsa+soma+2%2C35%25+semana+com+pacote+fiscal%2C+mas+cr%C3%A9dito",
+   "busca_video": "https://www.youtube.com/results?search_query=Waller+assume+r%C3%A9deas+comunica%C3%A7%C3%A3o+Fed+recoloca+juros+mais+altos",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.7
+   "score": 18.5
   },
   {
-   "id": "cf5fec8a27",
-   "titulo": "Plano fiscal precisa ir além e mudar regras do mínimo, da saúde e da educação, dizem economistas",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/plano-fiscal-precisa-ir-alem-e-mudar-regras-do-minimo-da-saude-e-da-educacao-dizem-economistas.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-14T12:30:00-03:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Plano+fiscal+precisa+al%C3%A9m+mudar+regras+m%C3%ADnimo%2C+sa%C3%BAde+educa%C3%A7%C3%A3o%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.4
-  },
-  {
-   "id": "29723cec9c",
-   "titulo": "PT protocola projetos para taxar lucros e dividendos com alíquota de 15% e tributar LCI e LCA",
-   "url": "https://www.estadao.com.br/economia/pt-protocola-projetos-para-taxar-lucros-e-dividendos-com-aliquota-de-15-e-tributar-lci-e-lca/",
+   "id": "af7db76966",
+   "titulo": "Dólar, juros e falta de acesso espantam investidor brasileiro do exterior, diz executivo da Nu Asset",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSF8wNzBlOGFjN1ZMUktocHJ1WTluNFFadkw1eHRUdHpPcmM0alZaWUhGVWVaSE1wc0V3WW04Sms5bXpQWGYxQkhzSUZjcmpYNUF5OHRNeTFNaHVkWTRZMy0tZ3IyV245RWx5cmFWbHZrSDJMZ01nMFhUQnBtSVE3bHVpRnRVLWZIbTFYUmYxdk1oOFNOSnBLV2RERVVTQ1hnZlhLb3BkdFJJV3pVMl9xbnlnZUdQLXRjYVF5NDQ0RXFPRzRka3lKQXVRMWx2X1BIcVdFdmVxS0oyUi1BQVZwMw?oc=5",
    "veiculo": "Estadão",
-   "publicado": "2026-11-14T12:31:59+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=protocola+projetos+para+taxar+lucros+dividendos+com+al%C3%ADquota+15%25",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Taxação de dividendos volta à pauta: PT protocola projetos para tributar lucros, proventos e grandes fortunas",
-     "url": "https://www.seudinheiro.com/2026/economia/taxacao-de-dividendos-volta-a-pauta-pt-protocola-projetos-para-tributar-lucros-proventos-e-grandes-fortunas-davs/"
-    },
-    {
-     "veiculo": "Terra",
-     "titulo": "PT protocola projetos para taxar lucros e dividendos com alíquota de 15% e tributar LCI e LCA",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZTZWNEFTX1p6MHN1SDBqem1wQjgwanNZbzI5Y0dfYVlzS2NrbDhlSFZrSWlEOU1OY2NyWkdjbUEzSE4tTXNGNk9lUXpRSWVfU25YR0t1QlNmNmxpUUZFYS16R2lHWlptMEtQSWlyMFFfUl9QSzk2RjhnS25WQXMySVRsVnlKS0c1U0YxS0JzSDVaMy1RZjJ5OGF1RlUzMXZZUmJBallCUW1sanc0Vk9kUDRyNmtyckh4cExCdzh0TUQ1dXRzcjFqb2VPSlpJazlvdUgwY2tpaHZxZFI0QlZPeXZvdzRrVGxsZHExbUhqZ0w1N1lfUWc4cGRTUDV5S2NvdlE?oc=5"
-    }
-   ],
-   "score": 20.2
-  },
-  {
-   "id": "5bbe00a315",
-   "titulo": "DAY TRADE 16/11/2026 | Abertura de mercado e minicontratos",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR05JalFUOHY5Njlxclg3dERGRXRVVE82d0wteFVVVFZENmdnZzE5X3E1VVlTaTdvRGpjZ2RBZ2xrV015NW1MemxfSmdtX2pFTTQyM3N5VlZ6S0lTWGplV2gwTUV0Y2lUZnpUNGxxZ2JkbG50aGFmTmZwVWY5UURBRk80aGxaTV9SN0xsRnhoaFRsMWdfMTZjOVdXeXdZSnA3UjVaVjNBbkR3eEt6c19BLW91MA?oc=5",
-   "veiculo": "XP Investimentos",
-   "publicado": "2026-11-14T21:51:36+00:00",
-   "temas": [
-    "comportamento",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=DAY+TRADE+2026+Abertura+mercado+minicontratos",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.1
-  },
-  {
-   "id": "f27196b692",
-   "titulo": "Sem sinal fiscal crível, pessimismo com Selic e PIB seguirá punindo ações cíclicas",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlMwb2UySndkV3lJSmV5UFY5bktlYmdDckp5SnV4eUMzSU5DUkd0V1RJeEJ0anB4bWpqVVY0elBCTURGZlJsS2lJUDlpYUJ3QU0yRTkwc3J3bXNFSjR6Wm5JVngzNlFmSVY3SkZ4R3JCRFpma3YzNENjOUVONl8wMWxvMXhCanpiTW9ndExWNW51d0ZyUE9IY1NzZlo0V2FRTUZ6VXI0WFNnSGlCTWRmYm90N1hXVEpCSXRpa9IBwgFBVV95cUxPdjJYWXVZN0p4U29yVFFrY3Z0bEw5S19tVTV0TEk3SnM5OURCUFp2bVV5ampfZktEVWhLenJfYWF2N3B3M2lqbmhnbFA0a3lKVm5EUmdSVzc2QUlrTUM1RXNxR2xybE1jRTVHSDlSSUE3LWxkc0RFMl9sbzhTZC10WkVQLTJMU1U4UmNlek5oRVExUENyOTNhWmJta0FkMG04SEMwMHlsSG1uS2puLXZ2MG5GQjFlYmxmYTZWMFo0WWt5QQ?oc=5",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-14T12:23:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Sem+sinal+fiscal+cr%C3%ADvel%2C+pessimismo+com+Selic+PIB+seguir%C3%A1",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Money Times",
-     "titulo": "Sem sinal fiscal crível, pessimismo com Selic e PIB deve seguir punindo ações cíclicas",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEdQS0JnUkwxN2lNaXhPOVZKWll2NGFDcWZab2h3RXpFNWFES1hjMHMwT0o3clFDN2J3VDNlT0ZDYlVTY3VOMUZDVER1NmxtN3l6UWxmYlNZYkt4LWswYTVJd3NySmFwbmJFdUhQREh1bmYwUGNtdm1ha3F2dXMxNEZ0REdIaHgtaVlUSGFwQm5qWnhiMFA2eVJsek5Obl94UTZTb1phQ0huUWU4dUpad1Y5UExPV2l5N2tNbXln?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Sem sinal fiscal crível, pessimismo com Selic e PIB seguirá punindo ações cíclicas",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlMwb2UySndkV3lJSmV5UFY5bktlYmdDckp5SnV4eUMzSU5DUkd0V1RJeEJ0anB4bWpqVVY0elBCTURGZlJsS2lJUDlpYUJ3QU0yRTkwc3J3bXNFSjR6Wm5JVngzNlFmSVY3SkZ4R3JCRFpma3YzNENjOUVONl8wMWxvMXhCanpiTW9ndExWNW51d0ZyUE9IY1NzZlo0V2FRTUZ6VXI0WFNnSGlCTWRmYm90N1hXVEpCSXRpa9IBwgFBVV95cUxPdjJYWXVZN0p4U29yVFFrY3Z0bEw5S19tVTV0TEk3SnM5OURCUFp2bVV5ampfZktEVWhLenJfYWF2N3B3M2lqbmhnbFA0a3lKVm5EUmdSVzc2QUlrTUM1RXNxR2xybE1jRTVHSDlSSUE3LWxkc0RFMl9sbzhTZC10WkVQLTJMU1U4UmNlek5oRVExUENyOTNhWmJta0FkMG04SEMwMHlsSG1uS2puLXZ2MG5GQjFlYmxmYTZWMFo0WWt5QQ?oc=5"
-    }
-   ],
-   "score": 20.1
-  },
-  {
-   "id": "3e7e85aa52",
-   "titulo": "Small caps e consumo caem até 14% com Selic a 13,75%",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVlFR1hCaTdYOW43eWp4anFmblBpWjBhMlllMm9abTJva3lNNHJvekdYSHBGNGFIUlFQalU0MlNxaGxJeHlUdmxCSVhTTVVyRXhwTVMtaERNU0hNMWJfVncxWjB6MGJ6NS03SW1ZdGRmSWRtb2swTkk1Vk51WUZhNWdzY1NjZGV1TjVmbFI2QklZYktLNVdYUG9R?oc=5",
-   "veiculo": "SpaceMoney",
-   "publicado": "2026-11-14T14:32:46+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Small+caps+consumo+caem+at%C3%A9+14%25+com+Selic+13%2C75%25",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CircuitoMT",
-     "titulo": "Índices de consumo, imóveis e Small Caps tombam até 14% em 2026 e mercado cobra sinalização fiscal de Lula",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVVRX0RuZXFkbnI2bGxDdzlhXzFzN01KUmtNdGVXcm0yWXRUbWpwRVVuQXptUklSSXJUQ2Z0elJvVkVfNHVkZldFVjVpTGhCTWdXOW05S1JSY1liM2tqVmRTQWRwTVpiSUJuQTBNemQxTVFRTmFDTXB0RmN1RTI0NlRnbllBYUZwNV91czZmSG92V1BoaGFfcUdyVjZBYTZISUYxeWxadmg3SGJDdWZPdnQ2THBhaFZrcXNwWm1NYjM0UDV0bTRQSzQydw?oc=5"
-    }
-   ],
-   "score": 20.0
-  },
-  {
-   "id": "2a3e24f820",
-   "titulo": "Ações da Petrobras tentam reagir após queda de mais de 3%; o que pesa sobre a estatal?",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHNLbTR3R21SZUJjWmEtTVU0V1lnZFhpU0xfLU0zNXJTd2dLRHQ2U1ExVHYxR25JU004RE8tT3ZnWDU0b3RrY1lQdzRxUTg2OEpKQmcxU2VYNTlncE5RUWlZOGh1WjRkaG1qanVfbjhtOWJUa2U2Zk1yNzFMU1VFWUVNVzlkai1VQ2F3eFMxc1VpbXFUS3hiRFB5dmpJR21XTHhzdVhPdzgyVk9IS0diUmUzQk5pZC1mXzlzVWpQT29uMWFUUFppQ2NJUkJ2TGRiMWxuRFdNeWdUNXdJRnc?oc=5",
-   "veiculo": "Estadão",
-   "publicado": "2026-11-14T18:50:48+00:00",
+   "publicado": "2026-11-15T10:47:27+00:00",
    "temas": [
     "mercado"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%B5es+Petrobras+tentam+reagir+ap%C3%B3s+queda+mais+que+pesa",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.8
-  },
-  {
-   "id": "1928e9df94",
-   "titulo": "Joice Hasselmann diz que alta cúpula de Brasília já sabia da relação de Flávio, Willer e Vorcaro",
-   "url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-14T22:07:50.392259+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Joice+Hasselmann+diz+que+alta+c%C3%BApula+Bras%C3%ADlia+sabia+rela%C3%A7%C3%A3o",
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar%2C+juros+falta+acesso+espantam+investidor+brasileiro+exterior%2C+diz",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.7,
-   "video_url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-   "video_canal": "SBT News",
-   "video_por_hora": 3800,
-   "video_acima_mediana": 6.3,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Joice Hasselmann diz que alta cúpula de Brasília já sabia da relação de Flávio, Willer e Vorcaro",
-     "url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-     "por_hora": 3800
-    }
-   ]
-  },
-  {
-   "id": "4e49a7b72a",
-   "titulo": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana",
-   "url": "https://www.seudinheiro.com/2026/economia/banco-central-tira-instituicoes-do-mercado-banco-do-brasil-bbas3-decepciona-no-3t26-e-renda-fixa-volta-a-brilhar-veja-o-que-bombou-na-semana-davs/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-11-14T18:16:49+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Banco+Central+tira+institui%C3%A7%C3%B5es+mercado%2C+Banco+Brasil+BBAS3+decepciona",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVlVSWnBpZHFkLUtMLXA2UEU5N1B3QlFnSGh6aEt2RHc1Mk9wZ3lneHRuVzlpeHIzanpyWVhpSGQtUkVEV3JkU3ZMNU8yUjF5TC1pTzNJYTZoRGtCMF90eEhWX1ZOV0tTbUV3Sk9ZQ1RQdWdUeTUtWEIxdVpHeEUwMjZmN3Roc1JGeWJWSlkwcE4tRnZ3T1pZeHJhWmV6SHptN29sTldwek9xV1g5Y1dCbkRjWDBhM3paenRzZGxxYjRKM3g3bEhXNVU0YVFFLU9jbmgyWnMxblZ3UDRPeldRblEySWtpSW5tTVpWUHZLa3M4SkVLeFZfUHBFQmdGZU1mUVFqclRaZkFpdXlaZUFjWGM1elprQ1E?oc=5"
-    }
-   ],
-   "score": 19.6
-  },
-  {
-   "id": "3be3970044",
-   "titulo": "Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTlUc29zRV92RUhZaUE0bjlPbWk4QnVWVjFXNXZHMkNGTS0tckpZRnktV0s1aUV6dWd2eVYzNDB2cTQ5Rk9PdkIxb3BZTUMxWWtRN0Z3YzRhTjRKX2NtM2ZINDNXdThnOGlKMlJEMXZ6T0U0WnVjaDRZSmxrWFl3VnFQcFRya1RLVXJHdFQ0d00wZ0ZlTHJubms5SDloT0tjTEtnZk1ldDRaMHpxQzVKRHlWYkhFWjhUNEpZ0gHAAUFVX3lxTE5pOXoyWk8wdHd3NXVSTzBRMmV1NVNncHlFazhnOHhfMjFOWGc1M0sxcnBlS0hka1M3SzdHNXdxZnUtRGYwWVMtQXNIdURveGxXcEhMTmlTTkZ6SC1vQnV0eXdfWXV3dUFaWk0yUUxQczZhSm5TdmJIQS1hYjlDZmxnS1VUSjRPQnBHRDlnUF95dGFWakJvc2lUdVZLOTd4Z1ZWdUUwNXpiODR5MFhrUXZmZUcxYS1IUi1oY1lFSlVKVg?oc=5",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-14T10:49:29+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Dividendos+Petrobras%2C+IPCA+IPO+Anthropic+veja+destaques+semana",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Itamaraju Notícias",
-     "titulo": "Petrobras paga dividendos, IPCA em foco; Anthropic abre IPO",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjl0N2NaU0YxY0lnbWVoYzlzMXg3LUtmMlZGa0ptTjVNcHFWbnBZaGt3anR2cFdjNEwwekt2aTFDQy04V2lxQUd6QVQtTHVqVFhhUXZzenVwZ2haVHVCbTFrM0xNSjBxZ0pOanl3TUF0bnhDNUY0cWxiTk1Sa0lnTGtCc3JwbG5PZFNLdWhHRi10X0F4dnlTQkVXVkhLNWx0b2txQ3VfN3NmWldRcUFacVVHVDRRNDJIc3RB?oc=5"
-    },
-    {
-     "veiculo": "Itamaraju Notícias",
-     "titulo": "Petrobras paga dividendos, IPCA em foco; Anthropic abre IPO",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjl0N2NaU0YxY0lnbWVoYzlzMXg3LUtmMlZGa0ptTjVNcHFWbnBZaGt3anR2cFdjNEwwekt2aTFDQy04V2lxQUd6QVQtTHVqVFhhUXZzenVwZ2haVHVCbTFrM0xNSjBxZ0pOanl3TUF0bnhDNUY0cWxiTk1Sa0lnTGtCc3JwbG5PZFNLdWhHRi10X0F4dnlTQkVXVkhLNWx0b2txQ3VfN3NmWldRcUFacVVHVDRRNDJIc3RB?oc=5"
-    }
-   ],
-   "score": 19.5
-  },
-  {
-   "id": "bcf349759f",
-   "titulo": "Na 1ª visita de Estado após reeleição, Lula critica extremismo e ingerência | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=xbO5IhoH1cI",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=visita+Estado+ap%C3%B3s+reelei%C3%A7%C3%A3o%2C+Lula+critica+extremismo+inger%C3%AAncia+CNN",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 19.3,
-   "video_url": "https://www.youtube.com/watch?v=xbO5IhoH1cI",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 7500,
-   "video_acima_mediana": 4.2,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Na 1ª visita de Estado após reeleição, Lula critica extremismo e ingerência | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=xbO5IhoH1cI",
-     "por_hora": 7500
-    }
-   ]
-  },
-  {
-   "id": "35578ab893",
-   "titulo": "Nas Filipinas, Lula diz que “colonialismo ficou no passado”",
-   "url": "https://www.youtube.com/watch?v=qQeK0vjfq8U",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-14T21:07:50.392259+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Nas+Filipinas%2C+Lula+diz+que+colonialismo+ficou+passado",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Lula fala pouco nas Filipinas após problema na voz: 'Colonialismo ficou no passado'",
-     "url": "https://www.youtube.com/watch?v=7oQ2VigDVCU"
-    }
-   ],
-   "score": 19.1,
-   "video_url": "https://www.youtube.com/watch?v=qQeK0vjfq8U",
-   "video_canal": "Poder360",
-   "video_por_hora": 3333,
-   "video_acima_mediana": 28.6,
-   "videos": [
-    {
-     "canal": "Poder360",
-     "titulo": "Nas Filipinas, Lula diz que “colonialismo ficou no passado”",
-     "url": "https://www.youtube.com/watch?v=qQeK0vjfq8U",
-     "por_hora": 3333
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Lula fala pouco nas Filipinas após problema na voz: 'Colonialismo ficou no passado'",
-     "url": "https://www.youtube.com/watch?v=7oQ2VigDVCU",
-     "por_hora": 1857
-    }
-   ]
-  },
-  {
-   "id": "c6a1c9afd4",
-   "titulo": "GPA perdoa R$ 700 milh�es da Casas Bahia em acordo sobre disputa",
-   "url": "https://economia.uol.com.br/noticias/redacao/2026/11/13/gpa-perdoa-r-700-milhoes-da-casas-bahia-em-acordo-sobre-disputa.ghtm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-11-14T17:04:00+00:00",
-   "temas": [
-    "economia"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=GPA+perdoa+700+milh+Casas+Bahia+acordo+sobre+disputa",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Economic News Brasil",
-     "titulo": "Acordo entre GPA e Casas Bahia encerra disputa de 17 anos, mas mantém dívida milionária",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTd4Skt2ZF9jQV9YYlY3ZVg3eWZhWG93aTJlNHJTck5zOU9mR0dCandsWTR6Ti1zYmIwXzladDJRaFRpTnVEYW1qSzB6WUowNXRyaTZXN2trakRwT0VkcUxGeFRzU3IwQmQ0dmI5SlJ2dHVvVm5YMGtCaDg0V3F3eTVsYjN4MzdLTWsw?oc=5"
-    },
-    {
-     "veiculo": "InvestNews",
-     "titulo": "GPA fecha acordo com Grupo Casas Bahia para encerrar disputa bilionária",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LdUJCc1VWQWdjUEFxbThpdl9WcU9WdmJON3lYZDlqTWpaNTRBSXQwWVZuaFBXNEk0LU1tNHZGQjdqZFgyUGRZdnRjSkRNMFE0Nm9QLXZNVHN0eXBpQkRPdmoxRHMwbDliMEHSAW9BVV95cUxPM2t5VDZ3WWc2Vzc2MHc3N1JJdG4tdWFueGRGX3FsR2NlMlBPTlRCODBoS3dxcEd3UXp5RjhkUnRrZldpV2MwbEJvWXNzeDNieDJFT2dlZlVwSDkwYS1nMnhYVkJhcjJETUFIcGFuSU0?oc=5"
-    },
-    {
-     "veiculo": "UOL Economia",
-     "titulo": "P�o de A��car fecha acordo com Casas Bahia e extingue disputa de R$ 424 mi",
-     "url": "https://economia.uol.com.br/noticias/redacao/2026/11/13/gpa-fecha-acordo-com-casas-bahia-e-extingue-obrigacao-de-r-424-milhoes.ghtm"
-    }
-   ],
-   "score": 19.1
-  },
-  {
-   "id": "688eb4b996",
-   "titulo": "Problemas na voz fazem Lula cancelar agendas nas Filipinas | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=5vW-s7UGXrY",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T23:18:50.392259+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Problemas+voz+fazem+Lula+cancelar+agendas+nas+Filipinas+CNN",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Lula cancela discursos nas Filipinas após problemas de voz | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=0N9Y2yKzJTM"
-    },
-    {
-     "veiculo": "Money Times",
-     "titulo": "Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por afonia",
-     "url": "https://www.moneytimes.com.br/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-afonia/"
-    }
-   ],
-   "score": 19.0,
-   "video_url": "https://www.youtube.com/watch?v=5vW-s7UGXrY",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 3364,
-   "video_acima_mediana": 1.9,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Problemas na voz fazem Lula cancelar agendas nas Filipinas | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=5vW-s7UGXrY",
-     "por_hora": 3364
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Lula cancela discursos nas Filipinas após problemas de voz | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=0N9Y2yKzJTM",
-     "por_hora": 1347
-    }
-   ]
+   "score": 18.4
   }
  ],
  "falas_e_videos": [
   {
-   "id": "de038ff2e0",
-   "titulo": "Congresso aprova créditos orçamentários de R$ 152,4 bilhões - 12/11/26",
-   "url": "https://www.youtube.com/watch?v=Og57NAIKLsc",
-   "veiculo": "Câmara dos Deputados",
-   "publicado": "2026-11-14T20:00:40+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Congresso+aprova+cr%C3%A9ditos+or%C3%A7ament%C3%A1rios+152%2C4+bilh%C3%B5es",
-   "veiculos": 7,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Diário do Estado",
-     "titulo": "Congresso aprova crédito de R$ 149 bi para Previdência e Bolsa",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDZuODlLbDV5d0hEaGs0QWdTdWNZMHN2d2VqV05UZUNkQTFsQWk5VzUzdXMwdlFDcE5vX2F0T1FMLXo3Y3BQUWM0TjFuZzBQcDR2YXNWTGtka2pQeGhVcF81WkFnQUdQRE9UZEJuc2hEUENYVWlvaklCOXpxdUl0SmtKUnJNd3hVbnlGOWlrYkJ0UExkQ0lmTTV3?oc=5"
-    },
-    {
-     "veiculo": "Jornal O candeeiro",
-     "titulo": "Congresso aprova crédito suplementar de R$ 416,5 milhões para o FDNE, com recursos destinados à Transnordestina",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVNvV1dmdHdaY0ppRkhReGpkRGpsX3F4YktRUk9RalhqRHlwZlJoTHRSaHRCV1RwODVyT19GQk9wSTRZTWI0cXZ6cDRSYzZPYWZpanpjTndNZXJvN1EtTUxxbWoxX1lxczRPcEV4c0tmQXFQcFhaRmZFaGxHZFNEbTllQnNiZ1QtdGFLVWxMTHM5UHlwRUN4Q0F1ZkV5YWsxZ295SHoxZU9rX21ucE1Yek15MlhlRzVVdHp3YmVMdXJHYnd0RUM5WEpGNGhyTDZlUnhwak9lb1gzX0U?oc=5"
-    },
-    {
-     "veiculo": "A Gazeta do Acre",
-     "titulo": "Congresso aprova projeto que autoriza governo a usar R$ 26 bilhões em empréstimos para pagar Bolsa Família",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVZQeWxZTFFKM1loQTRKUENsVUpFMGdrTXFsSnpxQUFxOWhSUlNEUzdWbzR3TXlUbTNnTk9LUEhzbWdPN3VqZmxfWV9pMXE3Ung3aUEtRVpoN0gtc2pLNHU3TzZtaUs1R2NxUEF5VlRDOWJXRThrVkdtNlIyRm5wU2lfT0RuTTFRUTJzQjQzRFkzdElFWmhVZ0NqTVV6aUxPRnRLZFYwamtHSXZ2UVMyRnVkbFl2R1ZjT2N6MldQVkNCVGZPNHcyUGJOYVhETVM1U2xSNVF6Z3ZteDhvdnVMSFA0VzJZbnBoSVFSejI2bTdMWjV1OTJteFRMOEd6QQ?oc=5"
-    },
-    {
-     "veiculo": "sala de imprensa",
-     "titulo": "Congresso aprova R$ 416,5 milhões para a Transnordestina; trecho entre Quixeramobim e Quixadá já foi concluído",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUc0NU9kTkxHVjBTRk5lUlJrWVh0TTNtOWxMUV9Ec1pST19RVEpJRy1pTlJZNEd6RjBrU09TTGowZmczS1c1U2JSU3dvSXlKR0cxd1dWWmJOcVZZeF9jSUx0ZjVEdTVLbUxfbm5MbDU4SmMyQUxscHZvT3UxVjB2WmlUcktUMnU1UUp2ZVc2YlRrTG5mQ0h5REQ3XzFjSlVYNERaSUxuWkkzanBGMDR0WDRvaDRZd01YdWloQk9fUW9fRkNXQnJyVC1CRFIxRUxjME5QOFN3dzAycUh5Q2V2NXJyS0dBQQ?oc=5"
-    }
-   ],
-   "score": 42.3,
-   "video_url": "https://www.youtube.com/watch?v=Og57NAIKLsc",
-   "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 30,
-   "video_acima_mediana": 2.5,
-   "videos": [
-    {
-     "canal": "Câmara dos Deputados",
-     "titulo": "Congresso aprova créditos orçamentários de R$ 152,4 bilhões - 12/11/26",
-     "url": "https://www.youtube.com/watch?v=Og57NAIKLsc",
-     "por_hora": 30
-    }
-   ]
-  },
-  {
-   "id": "b420ac6458",
-   "titulo": "Fux interrompe julgamento sobre fim da escala 6×1 e leva caso ao plenário",
-   "url": "https://www.cnnbrasil.com.br/politica/fux-interrompe-julgamento-sobre-fim-da-escala-6x1-e-leva-caso-ao-plenario/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T23:32:50.392259+00:00",
+   "id": "5671b40a09",
+   "titulo": "Fux interrompe julgamento virtual da escala 6x1 e manda caso para plenário do STF",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/fux-interrompe-julgamento-virtual-da-escala-6x1-e-manda-caso-para-plenario-do-stf.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-14T23:32:19+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fux+interrompe+julgamento+sobre+fim+escala+6%C3%971+leva+caso",
-   "veiculos": 10,
+   "busca_video": "https://www.youtube.com/results?search_query=Fux+interrompe+julgamento+virtual+escala+6x1+manda+caso+para",
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
      "veiculo": "UOL",
      "titulo": "Fux interrompe julgamento do fim da 6x1; caso vai ao plenário físico do STF",
      "url": "https://www.youtube.com/watch?v=AMV5QN6ER_k"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo"
     },
     {
      "veiculo": "Gazeta Brasil",
@@ -1459,31 +1186,81 @@
      "veiculo": "Estadão",
      "titulo": "Fim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF",
      "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-fux-pede-destaque-e-leva-decisao-de-dino-a-julgamento-presencial-no-stf-npr/"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Fim da escala 6x1: Fux pede destaque e leva decisão de Dino a julgamento presencial no STF",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3pCSEpHUWNGeERmeWhUd19RcWpNeVZqTzV2MGI5QlM3UWJ6bmpiV2JRQWRyX0VfZTBfUGNiNno3UVRKdUVLOVIwZFN2MzlqYnVtTUVsanNXRFR4NnV4WlJhMnFLSFNRU1h5Y2k5bmhMTVoxSjROVmtvMDdXT2I4UlRzVlE5UndQVFhrWDAtWjIxMXZKTDJyc3BfdjZURGVza2JwSDVLTTBQWkRIREtWMHl3T2FmQm5RUWVLN0hHaTZBaHI1RlNwY2Rn0gHPAUFVX3lxTE11aF85N3NWeGVxSVRabzFmRzRvamY0WnlrUE9aMXNka213WVY2cnZZN0pxREdTeGJBOUtFYzZObi1kSm5GV1NENklUOHhwbXQtRlRITkFPYUNUUjVGSDJzUTVVaEpYcjZvZlNSUWlGNG9GNGgzRXEwaTh6Y1pLX1FaRTd1YWtLc1YycUZtcnNBVnpWMjBvNVpiZngtYjhZV2FWMlRielVEQTF1cnVpODZZbDYwaTdtZHF5RlU0Y0xxR1QwMWZBSFVxWkVDSE1IWQ?oc=5"
     }
    ],
-   "score": 40.9,
+   "score": 30.0,
    "video_url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
    "video_canal": "UOL",
-   "video_por_hora": 2743,
-   "video_acima_mediana": 1.1,
+   "video_por_hora": 3050,
+   "video_acima_mediana": 2.3,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Fux interrompe julgamento do fim da 6x1; caso vai ao plenário físico do STF",
      "url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
-     "por_hora": 2743
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Fux leva julgamento sobre a transição da 6x1 para o plenário físico do STF | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=Q1NLABbxiBo",
-     "por_hora": 1565
+     "por_hora": 3050
     },
     {
      "canal": "MyNews",
      "titulo": "ENTENDA A DECISÃO DE FLÁVIO DINO SOBRE A ESCALA 6X1",
      "url": "https://www.youtube.com/watch?v=iPfeGfBXNgs",
-     "por_hora": 114
+     "por_hora": 45
+    }
+   ]
+  },
+  {
+   "id": "5e4b342042",
+   "titulo": "Nas Filipinas, Lula exalta aproximação com Ásia e cancela discursos por afonia",
+   "url": "https://www.moneytimes.com.br/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-afonia/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-15T10:15:40+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nas+Filipinas%2C+Lula+exalta+aproxima%C3%A7%C3%A3o+com+%C3%81sia+cancela+discursos",
+   "veiculos": 4,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
+     "url": "https://www.youtube.com/watch?v=CB_JzAfRGkw"
+    },
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "Lula cancela dois discursos nas Filipinas após voltar a apresentar problema de voz",
+     "url": "https://www.youtube.com/watch?v=kSEd-ppRuoc"
+    },
+    {
+     "veiculo": "Canal Rural",
+     "titulo": "Lula destaca comércio com Filipinas e cancela discursos em Manila por afonia",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTElSdzA1dzJjTWdjamRNdGVSZWRqWlhUSVg0akZHU3QzRVJhR2dfSGRiMmxFczNxanppNHFzNFFOU09qR3BSbjhZRElhbUs3djU0VzhBQ1p2NDZpYXZKSktGWnI5ekpLUm1ydnJKemlIdUF2d0ZJVE1WdkhteWdGR0xmQUlCMmEwVXdCMHFsQ0RKeVktNmVhQUlHcFZROVNxSy03X2FxMjJ3SlNkY1dsXzgtNHRJbFU?oc=5"
+    }
+   ],
+   "score": 28.2,
+   "video_url": "https://www.youtube.com/watch?v=kSEd-ppRuoc",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 2481,
+   "video_acima_mediana": 6.9,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Lula cancela dois discursos nas Filipinas após voltar a apresentar problema de voz",
+     "url": "https://www.youtube.com/watch?v=kSEd-ppRuoc",
+     "por_hora": 2481
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
+     "url": "https://www.youtube.com/watch?v=CB_JzAfRGkw",
+     "por_hora": 1365
     }
    ]
   },
@@ -1499,18 +1276,13 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Loja+Americanas+arrombada+furtada+Manaus",
-   "veiculos": 8,
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
      "veiculo": "Portal do Marcos Santos",
      "titulo": "Lojas Americanas é arrombada e furtada no Centro de Manaus",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGVXcXpjdm0wLW1CSVhuRTZCOHhYajBOWEh6Vm9mZGgwdE5qSjZjdzg0R1NUczBIa1lxVXBRZnV3LWJBSXl2R3dTLXFITGxza3FYSjQzVXlEVlU4UmFjQ3J3TlpyQ2dKLTA5LVdHZHRHT2p2Q2tlWTBub3hhbGN1Wlo5eUN5aHMtWlJzQXVGY1FLcjJIa0YxMnNWdXVxXzVwMFp2Q0k3T0RyZTF2REJ1NHIzSWl5ZzFxSm80?oc=5"
-    },
-    {
-     "veiculo": "Portal Barcelos na NET",
-     "titulo": "Vídeo: loja da Americanas é saqueada no Centro de Manaus",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzh4SWNXemlHTU45M3JOVjJpc2RoQnk1OURxcVgzS2hIT29qSVNuTjk4aHF4YVpYMWVHWjBBTFVLa3ZiNEp4Sjl2X2FLeDgyNTE4OFNaaVhxa3MxVHZDT2dZZk9rcGhvSl9EY1VENzRMZlc3cEpKQUpoaXJteEhJdjBNWW8zU09HNl8tQWJn?oc=5"
     },
     {
      "veiculo": "Portal CM7",
@@ -1521,451 +1293,404 @@
      "veiculo": "Amazonas1",
      "titulo": "Loja da Americanas é alvo de furto durante a madrugada no Centro de Manaus",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmZFQVZ1VUlKOWwteFZKZHUyNXc2dk1kZXV0VW5RNjhDU3NfSHM3ZC1jR0EzUmN5d08xZkpfQUxSQmhPYURPVmhGR01PNjRXUHhfOGljOVBGUmQzSzlrLVJlZ0pCeVVzRG56X0VadE9IS1JnSDBBc2k4NUhIME54UUNFSjBYemhHM3FHZDlTYVl3dXh4R3NQZWpmWTZVb0F4NEE?oc=5"
+    },
+    {
+     "veiculo": "G1",
+     "titulo": "Loja Americanas é alvo de furto durante a madrugada no Centro de Manaus",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnB1elZwS3BsZXotX2dmMjZfR0FRWXFlbkh5VkNnSHE0WmQxdmxrRjdDcVd2MWhjOFB1Mk42bjRpbzlpbFRMUzdwcmhwenhFVldnOGhET01jNU11cktNa1VIS0hyR05jRlFWSWRkRHNYLXVGcDFEV1NUbzQzUzBiSnA1NlZyb3lHZWhxT0l4dUZIQ1JfQng1NEN5SmRYVXRfSldfZUFwRi12cmRyVXBwbmNveU5RcWNuc0ZJUUpPUFc5VGhGMmxOWtIB1wFBVV95cUxNV3Bxd0VNNjlpRTBBSmFRTFdYTjJWV0pXTVdHU2JMRVR1QlF6QXQ3RkRfd0xBVEt6b0ZGSlpUV05HNkZBQW53U1pyVUNRcWFUU2RNcHZ1SnlVQlVfNDBVakdiTng5eUVJZkxhWVVVaGF3aDdHS1VDdGpyT2dRcDRqQl83Q21nNWZEbG9YenhQckRmdGxQaTcxSi10eGZZbXFiSkhwMG5uYW1udUV0M0RvaFFxaXpURzhBNUVvdWZBT1Y4b0Fka0FVV3F4VGIzaUw0M2lRVTNudw?oc=5"
     }
    ],
-   "score": 32.1
+   "score": 27.1
   },
   {
-   "id": "bdba87a28e",
-   "titulo": "Após críticas, Dino defende decisão sobre 6×1: “Texto perfeito não existe”",
-   "url": "https://www.cnnbrasil.com.br/politica/apos-criticas-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T23:18:03+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Ap%C3%B3s+cr%C3%ADticas%2C+Dino+defende+decis%C3%A3o+sobre+6%C3%971+Texto+perfeito",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Dino defende folga negociada na 5x2 e diz que decisão perfeita \"não existe\"",
-     "url": "https://www.metropoles.com/brasil/dino-defende-folga-negociada-na-5x2-e-diz-que-decisao-perfeita-nao-existe"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Flávio Dino defende decisão sobre folgas no fim da 6x1 após críticas: 'Texto perfeito não existe'",
-     "url": "https://www.youtube.com/watch?v=XZu8r-Ky26I"
-    }
-   ],
-   "score": 31.4,
-   "video_url": "https://www.youtube.com/watch?v=XZu8r-Ky26I",
-   "video_canal": "UOL",
-   "video_por_hora": 4333,
-   "video_acima_mediana": 1.7,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Flávio Dino defende decisão sobre folgas no fim da 6x1 após críticas: 'Texto perfeito não existe'",
-     "url": "https://www.youtube.com/watch?v=XZu8r-Ky26I",
-     "por_hora": 4333
-    }
-   ]
-  },
-  {
-   "id": "401b261b3f",
-   "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
-   "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-   "veiculo": "UOL",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Janones+critica+a%C3%A7%C3%A3o+esquerda+contra+ajuste+fiscal+proposto+pelo",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 30.0,
-   "video_url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-   "video_canal": "UOL",
-   "video_por_hora": 14250,
-   "video_acima_mediana": 5.7,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
-     "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-     "por_hora": 14250
-    }
-   ]
-  },
-  {
-   "id": "10d21fb272",
-   "titulo": "Senado fecha pregão de iPhones para parlamentares por R$ 4,95 milhões",
-   "url": "https://www.cnnbrasil.com.br/politica/senado-fecha-pregao-de-iphones-para-parlamentares-por-r-495-milhoes/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-14T23:07:50.392259+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Senado+fecha+preg%C3%A3o+iPhones+para+parlamentares+por+4%2C95+milh%C3%B5es",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Claro vence 'pregão dos iPhones' do Senado pelo valor de R$ 4,9 milhões | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=LonjrrVk28g"
-    },
-    {
-     "veiculo": "Portal Encarando",
-     "titulo": "Claro vence pregão milionário do Senado para fornecer iPhones",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFVlWUdHdDNxbkQzbWpEZE5FeHhSYVI5dGY5bzJ1SHJJOEhWbm5wTWhiaVIwY2hGRHZtWUhLdS0yZ0M5bkpSR0lQTWZGZGlHV084TmRzRVUwQnNoZklOOVR5QzktMUhoLXBtb1BGQlNITFo5emJxcnVxTWJ6ZS1jbjhTMXRxNVczMUlwcTYyejhseFItMG9FbFFQcThKMG45?oc=5"
-    },
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "Senado conclui pregão de iPhones para parlamentares por R$ 4,9 milhões",
-     "url": "https://www.metropoles.com/brasil/senado-conclui-pregao-de-iphones-para-parlamentares-por-r-49-milhoes"
-    },
-    {
-     "veiculo": "Região Noroeste",
-     "titulo": "Claro vence licitação de R$ 4,9 milhões para fornecer 425 celulares ao Senado",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWh2bDEtY2hTSDBKZ2Z4dEo1YTB1OUZiOC1uSks1Q2N5aXFRV3I3U1AxS3ZUZXB2dDBZeTYyVWxrVjI1N1BpdkhCTFcya3FRUzhlMktnTFh3R09aQW9saXR6T2N4UW4xY1JhbFFVc0dGUkpDeG5rZkVtcjJzRDBiQ0xoRFFPakNSYnFzN1hqOUFnZlFONF9DOUNBN3NMRVZNcXlNZURn?oc=5"
-    }
-   ],
-   "score": 26.8,
-   "video_url": "https://www.youtube.com/watch?v=KHoJWHxIhzQ",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 529,
-   "video_acima_mediana": 2.1,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Empresa Claro vence 'pregão dos iPhones' do Senado após polêmica | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=KHoJWHxIhzQ",
-     "por_hora": 529
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Claro vence 'pregão dos iPhones' do Senado pelo valor de R$ 4,9 milhões | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=LonjrrVk28g",
-     "por_hora": 196
-    }
-   ]
-  },
-  {
-   "id": "ffa85fc12f",
-   "titulo": "Governo Trump atribui apagão aéreo a troca de cabos, não a hacker",
-   "url": "https://www.youtube.com/watch?v=Fs0DYH9uEZY",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+Trump+atribui+apag%C3%A3o+a%C3%A9reo+troca+cabos%2C+n%C3%A3o+hacker",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "BBC News Brasil",
-     "titulo": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
-     "url": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Governo dos EUA diz que apagão começou após troca de cabos | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=QGKOrKNAQts"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Troca de cabos de cobre por fibra óptica provocou paralisação de voos nos EUA, diz governo Trump",
-     "url": "https://exame.com/mundo/troca-de-cabos-paralisou-voos-nos-eua-e-gerou-efeito-em-cadeia-nos-aeroportos-diz-governo-trump/"
-    }
-   ],
-   "score": 26.6,
-   "video_url": "https://www.youtube.com/watch?v=QGKOrKNAQts",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 8286,
-   "video_acima_mediana": 33.1,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Governo dos EUA diz que apagão começou após troca de cabos | BandNews TV",
-     "url": "https://www.youtube.com/watch?v=QGKOrKNAQts",
-     "por_hora": 8286
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Governo Trump atribui apagão aéreo a troca de cabos, não a hacker",
-     "url": "https://www.youtube.com/watch?v=Fs0DYH9uEZY",
-     "por_hora": 1775
-    }
-   ]
-  },
-  {
-   "id": "f2f0f5b362",
-   "titulo": "Líder da oposição diz que ajuste fiscal aumenta impostos e não corta gastos",
-   "url": "https://www.youtube.com/watch?v=DlZV5O1RWEg",
-   "veiculo": "TV Senado",
-   "publicado": "2026-11-14T23:48:50.392259+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=L%C3%ADder+oposi%C3%A7%C3%A3o+diz+que+ajuste+fiscal+aumenta+impostos+n%C3%A3o",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Após pacote de ajuste fiscal: deputado federal Pedro Uczai defende taxar super-ricos",
-     "url": "https://www.youtube.com/watch?v=LXWR7f_AVoU"
-    },
-    {
-     "veiculo": "Home - Paulo Figueiredo",
-     "titulo": "Ala do PT defende ajuste fiscal com mais impostos",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlFubjJPYUY0ck5jQkN6alJtSFBqc01CLXQ3eHhmcWJWSjdSbUlIU2h2VjJsMXEzYjFOZERBYWhFRm9BMnJCTEJOTkNOdEJwZXhwUHl5V1c5ajJDTWc4d0YxRzFXN3BWSUVhLVB0NjdwcXlNZFlabUhfRFdkUlYwNTJRanVLU3VWVGc?oc=5"
-    }
-   ],
-   "score": 25.0,
-   "video_url": "https://www.youtube.com/watch?v=LXWR7f_AVoU",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 260,
-   "video_acima_mediana": 0.3,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Após pacote de ajuste fiscal: deputado federal Pedro Uczai defende taxar super-ricos",
-     "url": "https://www.youtube.com/watch?v=LXWR7f_AVoU",
-     "por_hora": 260
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "Líder da oposição diz que ajuste fiscal aumenta impostos e não corta gastos",
-     "url": "https://www.youtube.com/watch?v=DlZV5O1RWEg",
-     "por_hora": 100
-    }
-   ]
-  },
-  {
-   "id": "7fd15fe28d",
-   "titulo": "Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31 | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=6bnXa7JPckE",
+   "id": "a1eb6c6209",
+   "titulo": "Receita vai perdoar dívidas de MEIs; veja quem tem direito e como funciona | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=86vcb1CyXtM",
    "veiculo": "InfoMoney",
-   "publicado": "2026-11-14T13:19:23+00:00",
+   "publicado": "2026-11-15T02:43:09+00:00",
    "temas": [
+    "comportamento",
     "economia",
-    "politica"
+    "mercado"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Senado+aprova+texto+base+ajuste+fiscal+governo+Lula+por",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Chapada Hoje",
-     "titulo": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXVMc01HU1A4UVh4U0Fvbm9ESW8xc1Nuc3RrcWU3OTJBTHZkWWdNV0g2MVptSy15bUhFNnZuRW5pb242M3dIekhMV2M3SjNfSTVIekcyaXI2RmtsODlrVG5XQXlNYk9RNUx3U0c0QkhYaHhvSmtoSTRxVUV6Y2d6V1JhUUNSVmNiZ3F4RGo5NWNjaHRmWVd4T2RmVVJWLTlTYVFqSzN6Um9PdjA?oc=5"
-    },
-    {
-     "veiculo": "GloboNews",
-     "titulo": "URGENTE: Senado aprova texto-base do projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=erbqB8X1mnk"
-    },
-    {
-     "veiculo": "TV Senado",
-     "titulo": "A Voz do Brasil - 13/11/26: Senado aprova texto-base do ajuste fiscal; destaques ficam para terça",
-     "url": "https://www.youtube.com/watch?v=rJEcDWbJ5D8"
-    }
-   ],
-   "score": 23.6,
-   "video_url": "https://www.youtube.com/watch?v=erbqB8X1mnk",
-   "video_canal": "GloboNews",
-   "video_por_hora": 279,
-   "video_acima_mediana": 1.2,
-   "videos": [
-    {
-     "canal": "GloboNews",
-     "titulo": "URGENTE: Senado aprova texto-base do projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=erbqB8X1mnk",
-     "por_hora": 279
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31 | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=6bnXa7JPckE",
-     "por_hora": 104
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "A Voz do Brasil - 13/11/26: Senado aprova texto-base do ajuste fiscal; destaques ficam para terça",
-     "url": "https://www.youtube.com/watch?v=rJEcDWbJ5D8",
-     "por_hora": 46
-    }
-   ]
-  },
-  {
-   "id": "fd6f053aa0",
-   "titulo": "Assista ao discurso de Camilo Santana sobre pacote fiscal de Lula",
-   "url": "https://www.youtube.com/watch?v=OE2-5pqCMWQ",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-14T17:33:15+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Assista+discurso+Camilo+Santana+sobre+pacote+fiscal+Lula",
+   "busca_video": "https://www.youtube.com/results?search_query=Receita+vai+perdoar+d%C3%ADvidas+MEIs+veja+quem+tem+direito",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Estadão",
-     "titulo": "Discurso de Lula deixa dúvidas sobre ajuste fiscal; veja como o mercado financeiro pode reagir",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZEVzaGY0Y0NFRHJxUlhEcWNFZzRmZWM3X3hDSnJuRk1jUzlrbnB0NFI5NW9WUldDdHYwQjlNS3NqVkJTX1lESF9mcjVqd0xEVUpvekh0bTBDcGg3YUNERVl2ZEU5eTZiendNSU53MDVhZTJFZ2hOMnduQm9qRkFiWnhkRFFYc1N6SzA4eDZKNFg3WWRtOTlsTnpUR1FFUkNOSWxaY2t6UVE0SGotSEJMbGNnZ1RLQlE5YzU1RHRfVGx3V0VUb3NwQ2NWYi1YNlRyQ01pTXB6NE94MzN0X05qSC04WW5DeXpnMjZmRktOUnFTZw?oc=5"
+     "veiculo": "DOL",
+     "titulo": "INSS vai pagar acréscimo de 25% por mês; veja quem tem direito e como solicitar",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUMtcTgwdUg1QU8zUTg3bWJ1ZG9TME40NldhRHctRTdFNjFiakNOVU5jUzhQbTJQb2Ytbk04OXROLW4wU0theC12LU91d05ycnFhdWdJOXZqNXY1UkhmMkdocGxyWE9WMEZ4Ty1lMlhQY3FXSnpJMF95Y2lMTEZWMDllNnRVMTN2Um1vQlFOWlNDS2pfNkY4QUdVZW1abzZ6RlZ2SVlFREVKVFBXR3NsWmRyVi1PcUhHbUVHTnlWT2xKbmPSAcMBQVVfeXFMT2FDLXE4MHVINUFPM1E4N21idWRvUzBONDZXYUR3LUU3RTYxYmpDTlVOY1M4UG0yUG9mLW5NODl0Ti1uMFNLYXgtdi1PdXdOcnJxYXVnSTl2ajV2NVJIZjJHaHBsclhPVjBGeE8tZTJYUGNxV0p6STBfeWNpTExGVjA5ZTZ0VTEzdlJtb0JRTlpTQ0tqXzZGOEFHVWVtWm82ekZWdklZRURFSlRQV0dzbFpkclYtT3FIR21FR055Vk9sSm5j?oc=5"
     }
    ],
-   "score": 23.5,
-   "video_url": "https://www.youtube.com/watch?v=OE2-5pqCMWQ",
-   "video_canal": "Poder360",
-   "video_por_hora": 3083,
-   "video_acima_mediana": 26.4,
+   "score": 23.1,
+   "video_url": "https://www.youtube.com/watch?v=86vcb1CyXtM",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 78,
+   "video_acima_mediana": 0.8,
    "videos": [
     {
-     "canal": "Poder360",
-     "titulo": "Assista ao discurso de Camilo Santana sobre pacote fiscal de Lula",
-     "url": "https://www.youtube.com/watch?v=OE2-5pqCMWQ",
-     "por_hora": 3083
+     "canal": "InfoMoney",
+     "titulo": "Receita vai perdoar dívidas de MEIs; veja quem tem direito e como funciona | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=86vcb1CyXtM",
+     "por_hora": 78
     }
    ]
   },
   {
-   "id": "627e0ba112",
-   "titulo": "Preço da cesta básica sobe em todas as capitais e consome 52% do salário mínimo",
-   "url": "https://www.youtube.com/watch?v=enSn4Pi9AII",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
+   "id": "3dec110255",
+   "titulo": "Lula diz que Brasil reagiu ao tarifaço dos EUA sem \"ficar chorando\"",
+   "url": "https://www.metropoles.com/mundo/lula-diz-que-brasil-reagiu-ao-tarifaco-dos-eua-sem-ficar-chorando",
+   "veiculo": "Metrópoles",
+   "publicado": "2026-11-15T11:29:49+00:00",
    "temas": [
-    "economia"
+    "economia",
+    "politica"
    ],
    "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7o+cesta+b%C3%A1sica+sobe+todas+capitais+consome+52%25+sal%C3%A1rio",
-   "veiculos": 1,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+diz+que+Brasil+reagiu+tarifa%C3%A7o+dos+EUA+sem",
+   "veiculos": 2,
    "rotina": false,
-   "outras": [],
-   "score": 22.8,
-   "video_url": "https://www.youtube.com/watch?v=enSn4Pi9AII",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 3750,
-   "video_acima_mediana": 4.9,
+   "outras": [
+    {
+     "veiculo": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk"
+    }
+   ],
+   "score": 22.7,
+   "video_url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+   "video_canal": "GloboNews",
+   "video_por_hora": 2290,
+   "video_acima_mediana": 6.9,
    "videos": [
     {
-     "canal": "Jovem Pan News",
-     "titulo": "Preço da cesta básica sobe em todas as capitais e consome 52% do salário mínimo",
-     "url": "https://www.youtube.com/watch?v=enSn4Pi9AII",
-     "por_hora": 3750
+     "canal": "GloboNews",
+     "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+     "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+     "por_hora": 2290
     }
    ]
   },
   {
-   "id": "1928e9df94",
-   "titulo": "Joice Hasselmann diz que alta cúpula de Brasília já sabia da relação de Flávio, Willer e Vorcaro",
-   "url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-14T22:07:50.392259+00:00",
+   "id": "1b3953e42a",
+   "titulo": "“A carga tributária está no limite”, diz presidente da Fenacon Reynaldo Lima Jr. sobre ajuste fiscal",
+   "url": "https://www.youtube.com/watch?v=QrsS9INtLrA",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T10:53:23+00:00",
    "temas": [
+    "economia",
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Joice+Hasselmann+diz+que+alta+c%C3%BApula+Bras%C3%ADlia+sabia+rela%C3%A7%C3%A3o",
+   "busca_video": "https://www.youtube.com/results?search_query=carga+tribut%C3%A1ria+est%C3%A1+limite+diz+presidente+Fenacon+Reynaldo+Lima",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 19.7,
-   "video_url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-   "video_canal": "SBT News",
-   "video_por_hora": 3800,
-   "video_acima_mediana": 6.3,
+   "score": 20.7,
+   "video_url": "https://www.youtube.com/watch?v=QrsS9INtLrA",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 441,
+   "video_acima_mediana": 1.4,
    "videos": [
     {
-     "canal": "SBT News",
-     "titulo": "Joice Hasselmann diz que alta cúpula de Brasília já sabia da relação de Flávio, Willer e Vorcaro",
-     "url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-     "por_hora": 3800
+     "canal": "Jovem Pan News",
+     "titulo": "“A carga tributária está no limite”, diz presidente da Fenacon Reynaldo Lima Jr. sobre ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=QrsS9INtLrA",
+     "por_hora": 441
+    }
+   ]
+  },
+  {
+   "id": "af72a35c53",
+   "titulo": "Ata do Copom sugere manter juros altos por mais tempo; Juliana Inhasz analisa",
+   "url": "https://www.youtube.com/watch?v=9L3W86Vmlfk",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T00:53:25+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ata+Copom+sugere+manter+juros+altos+por+mais+tempo",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.4,
+   "video_url": "https://www.youtube.com/watch?v=9L3W86Vmlfk",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 282,
+   "video_acima_mediana": 0.9,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Ata do Copom sugere manter juros altos por mais tempo; Juliana Inhasz analisa",
+     "url": "https://www.youtube.com/watch?v=9L3W86Vmlfk",
+     "por_hora": 282
+    }
+   ]
+  },
+  {
+   "id": "9236c5210b",
+   "titulo": "Para financiar a safra, produtor endividado ter� de tirar dinheiro do bolso",
+   "url": "https://economia.uol.com.br/colunas/patrick-cruz/2026/11/14/para-financiar-a-safra-produtor-endividado-tera-de-tirar-dinheiro-do-bolso.htm",
+   "veiculo": "UOL Economia",
+   "publicado": "2026-11-14T21:48:18+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Para+financiar+safra%2C+produtor+endividado+ter+tirar+dinheiro+bolso",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Produtor endividado terá de tirar dinheiro do bolso para financiar safra | Patrick Cruz",
+     "url": "https://www.youtube.com/watch?v=XgZoq0Dhu3w"
+    }
+   ],
+   "score": 19.2,
+   "video_url": "https://www.youtube.com/watch?v=XgZoq0Dhu3w",
+   "video_canal": "UOL",
+   "video_por_hora": 504,
+   "video_acima_mediana": 0.4,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Produtor endividado terá de tirar dinheiro do bolso para financiar safra | Patrick Cruz",
+     "url": "https://www.youtube.com/watch?v=XgZoq0Dhu3w",
+     "por_hora": 504
+    }
+   ]
+  },
+  {
+   "id": "aff52a7007",
+   "titulo": "Rogério Marinho compara projeto de ajuste fiscal a ‘calote’ e ‘pedalada fiscal’",
+   "url": "https://www.youtube.com/watch?v=HCmd3BVLS1Y",
+   "veiculo": "Band Jornalismo",
+   "publicado": "2026-11-15T09:00:51+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Rog%C3%A9rio+Marinho+compara+projeto+ajuste+fiscal+calote+pedalada+fiscal",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.9,
+   "video_url": "https://www.youtube.com/watch?v=HCmd3BVLS1Y",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 378,
+   "video_acima_mediana": 1.0,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Rogério Marinho compara projeto de ajuste fiscal a ‘calote’ e ‘pedalada fiscal’",
+     "url": "https://www.youtube.com/watch?v=HCmd3BVLS1Y",
+     "por_hora": 378
+    }
+   ]
+  },
+  {
+   "id": "dc5899ad19",
+   "titulo": "Lamaçal invade imóveis na região de Avaré e deixa moradores no prejuízo",
+   "url": "https://www.youtube.com/watch?v=0w4xQqm9Ef8",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-15T11:29:39+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Lama%C3%A7al+invade+im%C3%B3veis+regi%C3%A3o+Avar%C3%A9+deixa+moradores+preju%C3%ADzo",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.8,
+   "video_url": "https://www.youtube.com/watch?v=0w4xQqm9Ef8",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 236,
+   "video_acima_mediana": 0.8,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Lamaçal invade imóveis na região de Avaré e deixa moradores no prejuízo",
+     "url": "https://www.youtube.com/watch?v=0w4xQqm9Ef8",
+     "por_hora": 236
+    }
+   ]
+  },
+  {
+   "id": "3bdf169180",
+   "titulo": "EUA dizem que apagão aéreo começou após troca de cabos | JORNAL DA BAND - 14/11/2026",
+   "url": "https://www.youtube.com/watch?v=li0_hNef5Ks",
+   "veiculo": "Band Jornalismo",
+   "publicado": "2026-11-14T23:38:25+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=EUA+dizem+que+apag%C3%A3o+a%C3%A9reo+come%C3%A7ou+ap%C3%B3s+troca+cabos",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.2,
+   "video_url": "https://www.youtube.com/watch?v=li0_hNef5Ks",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 18477,
+   "video_acima_mediana": 51.1,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "EUA dizem que apagão aéreo começou após troca de cabos | JORNAL DA BAND - 14/11/2026",
+     "url": "https://www.youtube.com/watch?v=li0_hNef5Ks",
+     "por_hora": 18477
+    }
+   ]
+  },
+  {
+   "id": "320b550802",
+   "titulo": "Brasil precisa mais uma reforma da previdência, diz economista| CNN PRIME TIME",
+   "url": "https://www.youtube.com/watch?v=5L_JuGCnLAw",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-14T23:36:57+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Brasil+precisa+mais+uma+reforma+previd%C3%AAncia%2C+diz+economista+CNN",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 18.2,
+   "video_url": "https://www.youtube.com/watch?v=5L_JuGCnLAw",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 912,
+   "video_acima_mediana": 0.8,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Brasil precisa mais uma reforma da previdência, diz economista| CNN PRIME TIME",
+     "url": "https://www.youtube.com/watch?v=5L_JuGCnLAw",
+     "por_hora": 912
     }
    ]
   }
  ],
  "youtube": [
   {
-   "titulo": "Janones critica ação da esquerda contra ajuste fiscal proposto pelo governo Lula",
-   "url": "https://www.youtube.com/watch?v=aY8sQM_X6BE",
-   "canal": "UOL",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
-   "views": 57000,
-   "por_hora": 14250,
-   "acima_mediana": 5.7,
+   "titulo": "EUA dizem que apagão aéreo começou após troca de cabos | JORNAL DA BAND - 14/11/2026",
+   "url": "https://www.youtube.com/watch?v=li0_hNef5Ks",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-11-14T23:38:25+00:00",
+   "views": 230602,
+   "por_hora": 18477,
+   "acima_mediana": 51.1,
    "temas": [
-    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Presidente Lula conversa com a imprensa nas Filipinas",
+   "url": "https://www.youtube.com/watch?v=AjX4XCriPZI",
+   "canal": "Lula",
+   "publicado": "2026-11-15T05:50:53+00:00",
+   "views": 42804,
+   "por_hora": 6824,
+   "acima_mediana": 2.4,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "CÚPULA DO CONGRESSO ATUA NO AJUSTE FISCAL DO GOVERNO | CNN PRIME TIME - Edição de sábado",
+   "url": "https://www.youtube.com/watch?v=IE07sf90myk",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-15T00:04:23+00:00",
+   "views": 47517,
+   "por_hora": 3944,
+   "acima_mediana": 3.5,
+   "temas": [
     "economia",
     "politica"
    ]
   },
   {
-   "titulo": "Voos cancelados nos EUA: Governo Trump alerta para mais atrasos aéreos",
-   "url": "https://www.youtube.com/watch?v=_kY9GTVETJE",
-   "canal": "UOL",
-   "publicado": "2026-11-14T19:07:50.392259+00:00",
-   "views": 54000,
-   "por_hora": 10800,
-   "acima_mediana": 4.3,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Governo dos EUA diz que apagão começou após troca de cabos | BandNews TV",
-   "url": "https://www.youtube.com/watch?v=QGKOrKNAQts",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-11-14T17:07:50.392259+00:00",
-   "views": 58000,
-   "por_hora": 8286,
-   "acima_mediana": 33.1,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Na 1ª visita de Estado após reeleição, Lula critica extremismo e ingerência | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=xbO5IhoH1cI",
+   "titulo": "GOVERNO DEFINE ESTRUTURA DO MINISTÉRIO DA SEGURANÇA | CNN AGORA NOITE",
+   "url": "https://www.youtube.com/watch?v=_bs8xB-u0Vw",
    "canal": "CNN Brasil",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
-   "views": 30000,
-   "por_hora": 7500,
-   "acima_mediana": 4.2,
+   "publicado": "2026-11-14T22:33:48+00:00",
+   "views": 45287,
+   "por_hora": 3340,
+   "acima_mediana": 2.9,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Tarifaço de Trump impulsiona ofensiva comercial de Lula no Sudeste Asiático | #NewsSábado",
-   "url": "https://www.youtube.com/watch?v=omjpLc6LqMk",
-   "canal": "SBT News",
-   "publicado": "2026-11-14T13:07:50.392259+00:00",
-   "views": 48000,
-   "por_hora": 4364,
-   "acima_mediana": 7.3,
+   "titulo": "Fux interrompe julgamento do fim da 6x1; caso vai ao plenário físico do STF",
+   "url": "https://www.youtube.com/watch?v=AMV5QN6ER_k",
+   "canal": "UOL",
+   "publicado": "2026-11-14T23:32:19+00:00",
+   "views": 38379,
+   "por_hora": 3050,
+   "acima_mediana": 2.3,
    "temas": [
+    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula cancela dois discursos nas Filipinas após voltar a apresentar problema de voz",
+   "url": "https://www.youtube.com/watch?v=kSEd-ppRuoc",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-11-14T23:40:17+00:00",
+   "views": 30890,
+   "por_hora": 2481,
+   "acima_mediana": 6.9,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Partido árabe muda mapa político de Israel e abre fresta para Lula | A Hora",
+   "url": "https://www.youtube.com/watch?v=yZafj0F7ogE",
+   "canal": "UOL",
+   "publicado": "2026-11-14T22:00:08+00:00",
+   "views": 32428,
+   "por_hora": 2297,
+   "acima_mediana": 1.7,
+   "temas": [
+    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula: Brasil diversificou parcerias após tarifaço imposto pelos EUA",
+   "url": "https://www.youtube.com/watch?v=wRwjWmxGJFk",
+   "canal": "GloboNews",
+   "publicado": "2026-11-15T11:29:49+00:00",
+   "views": 1428,
+   "por_hora": 2290,
+   "acima_mediana": 6.9,
+   "temas": [
+    "economia",
     "politica"
    ]
   },
@@ -1973,120 +1698,85 @@
    "titulo": "Lula visita imagem de Nossa Senhora Aparecida nas Filipinas",
    "url": "https://www.youtube.com/watch?v=AFP911TN37M",
    "canal": "Poder360",
-   "publicado": "2026-11-14T13:07:50.392259+00:00",
-   "views": 48000,
-   "por_hora": 4364,
-   "acima_mediana": 37.4,
+   "publicado": "2026-11-14T12:23:54+00:00",
+   "views": 52209,
+   "por_hora": 2201,
+   "acima_mediana": 7.9,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Flávio Dino defende decisão sobre folgas no fim da 6x1 após críticas: 'Texto perfeito não existe'",
-   "url": "https://www.youtube.com/watch?v=XZu8r-Ky26I",
-   "canal": "UOL",
-   "publicado": "2026-11-14T21:07:50.392259+00:00",
-   "views": 13000,
-   "por_hora": 4333,
-   "acima_mediana": 1.7,
+   "titulo": "Lula faz primeira visita oficial às Filipinas; veja detalhes",
+   "url": "https://www.youtube.com/watch?v=ZIN_m5E_pa4",
+   "canal": "GloboNews",
+   "publicado": "2026-11-15T00:24:11+00:00",
+   "views": 20609,
+   "por_hora": 1759,
+   "acima_mediana": 5.3,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Flávio Dino diz que fim da escala 6x1 exige negociação coletiva | #NewsSábado",
-   "url": "https://www.youtube.com/watch?v=AKztWas26ts",
+   "titulo": "SBT Brasil: assista à edição na íntegra desta sábado (14/11/2026) | #SBTBrasil",
+   "url": "https://www.youtube.com/watch?v=W7yHo0cBgFs",
    "canal": "SBT News",
-   "publicado": "2026-11-14T21:07:50.392259+00:00",
-   "views": 12000,
-   "por_hora": 4000,
-   "acima_mediana": 6.7,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Joice Hasselmann diz que alta cúpula de Brasília já sabia da relação de Flávio, Willer e Vorcaro",
-   "url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-   "canal": "SBT News",
-   "publicado": "2026-11-14T22:07:50.392259+00:00",
-   "views": 7600,
-   "por_hora": 3800,
-   "acima_mediana": 6.3,
-   "temas": [
-    "mercado",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Preço da cesta básica sobe em todas as capitais e consome 52% do salário mínimo",
-   "url": "https://www.youtube.com/watch?v=enSn4Pi9AII",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-14T20:07:50.392259+00:00",
-   "views": 15000,
-   "por_hora": 3750,
-   "acima_mediana": 4.9,
+   "publicado": "2026-11-15T02:12:26+00:00",
+   "views": 16332,
+   "por_hora": 1647,
+   "acima_mediana": 3.2,
    "temas": [
     "economia"
-   ]
-  },
-  {
-   "titulo": "Governo americano: tráfego aéreo será normalizado até amanhã",
-   "url": "https://www.youtube.com/watch?v=AYYHJE0hRdQ",
-   "canal": "Record News",
-   "publicado": "2026-11-14T19:49:23+00:00",
-   "views": 14878,
-   "por_hora": 3454,
-   "acima_mediana": 9.2,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Problemas na voz fazem Lula cancelar agendas nas Filipinas | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=5vW-s7UGXrY",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-14T13:07:50.392259+00:00",
-   "views": 37000,
-   "por_hora": 3364,
-   "acima_mediana": 1.9,
-   "temas": [
-    "politica"
    ]
   },
   {
    "titulo": "Nas Filipinas, Lula diz que “colonialismo ficou no passado”",
    "url": "https://www.youtube.com/watch?v=qQeK0vjfq8U",
    "canal": "Poder360",
-   "publicado": "2026-11-14T21:07:50.392259+00:00",
-   "views": 10000,
-   "por_hora": 3333,
-   "acima_mediana": 28.6,
+   "publicado": "2026-11-14T20:54:39+00:00",
+   "views": 24770,
+   "por_hora": 1629,
+   "acima_mediana": 5.9,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Fim da escala 6x1 vira novo foco de tensão entre STF e Congresso | #NewsSábado",
-   "url": "https://www.youtube.com/watch?v=WnwXScMFKxo",
-   "canal": "SBT News",
-   "publicado": "2026-11-14T16:07:50.392259+00:00",
-   "views": 25000,
-   "por_hora": 3125,
-   "acima_mediana": 5.2,
+   "titulo": "Governo Lula define estrutura do Ministério da Segurança; entenda modelo | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=s0sQM997kTM",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-14T22:20:52+00:00",
+   "views": 20392,
+   "por_hora": 1481,
+   "acima_mediana": 1.3,
+   "temas": [
+    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
+   "url": "https://www.youtube.com/watch?v=CB_JzAfRGkw",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-15T10:15:40+00:00",
+   "views": 2539,
+   "por_hora": 1365,
+   "acima_mediana": 4.5,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Assista ao discurso de Camilo Santana sobre pacote fiscal de Lula",
-   "url": "https://www.youtube.com/watch?v=OE2-5pqCMWQ",
-   "canal": "Poder360",
-   "publicado": "2026-11-14T00:07:50.392259+00:00",
-   "views": 74000,
-   "por_hora": 3083,
-   "acima_mediana": 26.4,
+   "titulo": "PT tem visão equivocada de ajuste fiscal; tem que discutir como, e não ser contra, diz professor",
+   "url": "https://www.youtube.com/watch?v=I_JgjqxkuvA",
+   "canal": "UOL",
+   "publicado": "2026-11-14T21:40:26+00:00",
+   "views": 19154,
+   "por_hora": 1326,
+   "acima_mediana": 1.0,
    "temas": [
+    "mercado",
     "economia",
     "politica"
    ]
@@ -2095,170 +1785,156 @@
  "faro": [
   {
    "tipo": "pauta",
-   "titulo": "Após críticas, Dino defende decisão sobre 6×1: “Texto perfeito não existe”",
-   "url": "https://www.cnnbrasil.com.br/politica/apos-criticas-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe/",
+   "titulo": "Grupo Mateus vê varejo no Nordeste acelerar: 'Mercado dá sinais de melhora', diz CEO",
+   "url": "https://exame.com/invest/mercados/grupo-mateus-ve-varejo-no-nordeste-acelerar-mercado-da-sinais-de-melhora-diz-ceo/",
    "veiculos": [
-    "CNN Brasil",
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 2,
-   "primeira_vez": "2026-11-14T18:33-03:00",
-   "temas": [
-    "politica"
-   ],
-   "forca": 37.4,
-   "porque": "só 2 veículos (CNN Brasil, Metrópoles); apareceu às 18h33"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Líder da oposição diz que ajuste fiscal aumenta impostos e não corta gastos",
-   "url": "https://www.youtube.com/watch?v=DlZV5O1RWEg",
-   "veiculos": [
-    "Home - Paulo Figueiredo"
+    "Exame"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-14T20:47-03:00",
+   "primeira_vez": "2026-11-15T09:00-03:00",
    "temas": [
     "economia",
-    "mercado",
-    "politica"
+    "mercado"
    ],
-   "forca": 33.0,
-   "porque": "só 1 veículo (Home - Paulo Figueiredo); apareceu às 20h47"
+   "forca": 30.0,
+   "porque": "só 1 veículo (Exame); apareceu às 09h00"
   },
   {
    "tipo": "pauta",
-   "titulo": "Petrobras pagará R$ 15,3 bilhões em dividendos; veja quanto cada ação receberá",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXRIZFNPbjFIRnpXLXFkM1hqQm40cnBRQWk3UC1kOWd5TWY3VDJSNFA1aHhJVWx1ZENmRHRQdnJyZWlybkh3T0dwVTdDOWcxVm9OM2pwcGFYdjJhaVNSRUJCZEhnVkZETXZ4VnRLQnpIZXE5QjZrdXYyWXh2ckhXRkp3eEVZcXdISnJ4RzRXc1ROYzRjbjZ2UXE5elVpXzJ0SHlrazgyYllRcFBYZ3RVUDRjUm9uTDhIUXZxbjBHZmZxY2J5bTVhUjhrUFA3ZkJsLWc?oc=5",
+   "titulo": "Taesa (TAEE11) surpreende com lucro maior e dividendos de R$ 1,06 por unit no 3º trimestre",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTBSRXY3V1k3STFwcFh2TXZfRkV1YTh2d09OaFNWTlNlMFlsSUNPNXFid2VEY0RPUUFvZjMwdkpoaExLQWlWQVh5RWMxWHZhcl9vLXBNSlRTNVc5RmRYTjZib29ITTJZWjZNc0dSNER1NEFjRlNHdnFFZE5jZUtoU0xacXdRRGZfa1ZoODFnR21EVGtpa0s1VEJGanJSN19XakNmU284VUd2N1hNUkJaZGxR?oc=5",
    "veiculos": [
-    "A Tribuna"
+    "O Petróleo"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-14T20:58-03:00",
+   "primeira_vez": "2026-11-15T08:40-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 29.8,
+   "porque": "só 1 veículo (O Petróleo); apareceu às 08h40"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Itaú (ITUB4) lucra R$ 12,6 bilhões no 3º trimestre de 2026: ações ainda têm espaço para subir?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkpWbG1qWXhDSE9uS3hfWXM5TVVFaUZ5ZkNSVkVuak9MQnV2YUNFck9Ib3F0MU9PZDFjMW9tUzB3SG00ei1fUGZQWk1sNzdjdEFZMC1aN2JmLXhwdTJaRWxLZ0FhS3M5N25JektkSVJiZlBmMGZSdTRCZUJ0UEppWVFfVXRBeXJmRl9SRkZNRmVkM3BjTHV1eVRjdThVQzVpUjZqZFlUeFJiYkdDYS1LNnM2MWs?oc=5",
+   "veiculos": [
+    "O Petróleo"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T08:31-03:00",
    "temas": [
     "mercado"
    ],
-   "forca": 29.9,
-   "porque": "só 1 veículo (A Tribuna); apareceu às 20h58"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Governo americano: tráfego aéreo será normalizado até amanhã",
-   "url": "https://www.youtube.com/watch?v=AYYHJE0hRdQ",
-   "video_url": "https://www.youtube.com/watch?v=AYYHJE0hRdQ",
-   "canal": "Record News",
-   "views_h": 3454,
-   "acima_mediana": 9.2,
-   "publicado": "2026-11-14T16:49-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "politica"
-   ],
-   "forca": 25.7,
-   "porque": "vídeo do Record News com 3.454 views/h (9.2x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Nas Filipinas, Lula diz que “colonialismo ficou no passado”",
-   "url": "https://www.youtube.com/watch?v=qQeK0vjfq8U",
-   "video_url": "https://www.youtube.com/watch?v=qQeK0vjfq8U",
-   "canal": "Poder360",
-   "views_h": 3333,
-   "acima_mediana": 28.6,
-   "publicado": "2026-11-14T18:07-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "politica"
-   ],
-   "forca": 25.7,
-   "porque": "vídeo do Poder360 com 3.333 views/h (28.6x o normal do canal); nenhum veículo deu ainda"
+   "forca": 29.8,
+   "porque": "só 1 veículo (O Petróleo); apareceu às 08h31"
   },
   {
    "tipo": "pauta",
-   "titulo": "EUA pedem que Japão triplique gastos com tropas americanas",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWtSdEFBdHpVRXBqaWxwczRfcnVIZ00waWRkQndwVnZfVFY5NVNqSUs2aW9ubUpBcTBtdkdiV015YWc3SVIzbXRtRjlvVGlMQ3JLSmxhbVdLNldFQWVXSV91RE45b21FRUpMbkMxbmNzWmFNQU54RU84TVJ5TmNZQlVPc1V3dm40YjU5NEpSS0xrY3R1UTVlRg?oc=5",
+   "titulo": "ABC Brasil (ABCB3) fecha compra da Angá Asset; transação pode alcançar R$ 690 milhões",
+   "url": "https://www.moneytimes.com.br/abc-brasil-abcb3-fecha-compra-da-anga-asset-transacao-pode-alcancar-r-690-milhoes-lmrs/",
    "veiculos": [
-    "Radio Shiga"
+    "Money Times"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-14T20:12-03:00",
+   "primeira_vez": "2026-11-15T09:03-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 27.0,
+   "porque": "só 1 veículo (Money Times); apareceu às 09h03"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Após 25 anos no varejo, rede feminina com mais de 450 lojas entra em falência e inicia liquidação nacional depois de não conseguir sustentar a operação",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQOHVzeTN6XzBrODB6M1p3Y185MF9KNEhRVVlid2xHbkl6elZ1S0tHeEt6OWNmazFuSHVYMUNOMnBDb3dTTl8yUjJVbUVRVDlmUWNKS05fenV3MHRDdmVrRUZyWjJMSTdoZTJYb3pCa09jRXljNFNOOFRMRW90MTc3MVBUbzhYUnJzbVNiZGVEUGZwSHlTVGFNRWxVaXpvT0N4blUtanRWckdjaWpQREVYTFJpWXgxZmJobTlRMVA3V0ZIcEdxZUlUOXBRRVYtaGwxZEFZOHJTalo3dzRaMzdMOGJoNjdhd2pmSUxHdExYVGdFUzBsdm1fT1FHWEhkejBtd0pwTERDOWIyeUlXWmJ2Mk9zOA?oc=5",
+   "veiculos": [
+    "O Antagonista"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T08:57-03:00",
    "temas": [
     "economia"
    ],
-   "forca": 23.6,
-   "porque": "só 1 veículo (Radio Shiga); apareceu às 20h12"
+   "forca": 26.9,
+   "porque": "só 1 veículo (O Antagonista); apareceu às 08h57"
   },
   {
    "tipo": "pauta",
-   "titulo": "Cidadania convoca Congresso para votar incorporação pelo Progressistas",
-   "url": "https://www.cnnbrasil.com.br/politica/cidadania-convoca-congresso-para-votar-incorporacao-pelo-progressistas/",
+   "titulo": "SNEL11: queda das cotas abre desconto de quase 9%, mas há riscos nos rendimentos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVW5ZM1NrRkJSdzM2X0tDcU41RmsyN0FjandFLVhZTE9TSkswclhrdW8wbGd1MjV2UzlqUVlmTXV4SGdRZ3VTWUVONDNRdUhVeXNZUnRfa3VWX1podGZtMm9SaXNkY2FpejZNM3pLM0NkR3JjNDdyLXVCUG1WLVE1WWFMRWNEQzR1TUhXOFJnTG9fSWdPbi1kOHEwMWtZYWp1R1dFSjRR?oc=5",
    "veiculos": [
-    "CNN Brasil"
+    "O Petróleo"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-14T20:21-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 22.7,
-   "porque": "só 1 veículo (CNN Brasil); apareceu às 20h21"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Joice Hasselmann diz que alta cúpula de Brasília já sabia da relação de Flávio, Willer e Vorcaro",
-   "url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-   "video_url": "https://www.youtube.com/watch?v=knaMmSC4p7o",
-   "canal": "SBT News",
-   "views_h": 3800,
-   "acima_mediana": 6.3,
-   "publicado": "2026-11-14T19:07-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 22.5,
-   "porque": "vídeo do SBT News com 3.800 views/h (6.3x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Governo dos EUA diz que apagão começou após troca de cabos | BandNews TV",
-   "url": "https://www.youtube.com/watch?v=QGKOrKNAQts",
-   "video_url": "https://www.youtube.com/watch?v=QGKOrKNAQts",
-   "canal": "Band Jornalismo",
-   "views_h": 8286,
-   "acima_mediana": 33.1,
-   "publicado": "2026-11-14T14:07-03:00",
-   "veiculos": [
-    "BBC News Brasil",
-    "Exame",
-    "Valor"
-   ],
-   "qtd_veiculos": 3,
-   "temas": [
-    "politica"
-   ],
-   "forca": 22.1,
-   "porque": "vídeo do Band Jornalismo com 8.286 views/h (33.1x o normal do canal); só 3 veículos deram"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história",
-   "url": "https://www.estadao.com.br/tecmundo/big-techs/quem-e-dario-amodei-o-ceo-da-anthropic-prestes-a-realizar-o-maior-ipo-da-historia-de-wall-street/",
-   "veiculos": [
-    "Estadão"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-14T20:14-03:00",
+   "primeira_vez": "2026-11-15T08:21-03:00",
    "temas": [
     "mercado"
    ],
-   "forca": 20.6,
-   "porque": "só 1 veículo (Estadão); apareceu às 20h14"
+   "forca": 26.7,
+   "porque": "só 1 veículo (O Petróleo); apareceu às 08h21"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "TRXF11 despenca e acende alerta: dividendos de R$ 0,93 estão ameaçados?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWhqWU1wQ01UaVZKZTR2N2k3dXpMbUJqSWx6SFhaWV80a05udHhKSE9SeFktWWRkM1ZZLXd3TEZiT3g4Z0JBRWJpUWFOOGNqSGlhcXRtb09teGFodWRMcTNpdkdrTnhTeDF2NjlYVGF6VjhaMzJpYkx2YVF5NEVVOXgyeEREQk4zRWNCSGJHMktsX3NyREhZMA?oc=5",
+   "veiculos": [
+    "O Petróleo"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T08:15-03:00",
+   "temas": [
+    "mercado"
+   ],
+   "forca": 26.6,
+   "porque": "só 1 veículo (O Petróleo); apareceu às 08h15"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Empreendedores priorizam propaganda em vez de finanças e crédito",
+   "url": "https://www.poder360.com.br/poder-empreendedor/empreendedores-priorizam-propaganda-em-vez-de-financas-e-credito/",
+   "veiculos": [
+    "Poder360"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T09:00-03:00",
+   "temas": [
+    "economia"
+   ],
+   "forca": 24.0,
+   "porque": "só 1 veículo (Poder360); apareceu às 09h00"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Alinhamento de Lula com a China vai fazer o Brasil sofrer, diz Flávio",
+   "url": "https://www.poder360.com.br/poder-congresso/alinhamento-de-lula-com-a-china-vai-fazer-o-brasil-sofrer-diz-flavio/",
+   "veiculos": [
+    "Poder360"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T08:54-03:00",
+   "temas": [
+    "politica"
+   ],
+   "forca": 23.9,
+   "porque": "só 1 veículo (Poder360); apareceu às 08h54"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Brasil é 24º em ranking mundial de cientistas mais citados",
+   "url": "https://www.poder360.com.br/poder-saude/brasil-e-24o-em-ranking-mundial-de-cientistas-mais-citados/",
+   "veiculos": [
+    "Poder360"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-15T09:00-03:00",
+   "temas": [
+    "politica"
+   ],
+   "forca": 23.0,
+   "porque": "só 1 veículo (Poder360); apareceu às 09h00"
   }
  ],
  "fontes_ok": 64,
