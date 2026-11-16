@@ -1,5 +1,5 @@
 {
- "status": "pronto",
+ "status": "publicado",
  "formato": "video",
  "formato_corte": "tela_cheia_escura",
  "ab_formato": "puro-x-comentario",
@@ -84,5 +84,26 @@
  "carrossel_id": "sug-video-flavio-jamais-reeleicao-motta",
  "arquivo": "sug-video-flavio-jamais-reeleicao-motta-tela-cheia.mp4",
  "publicado_em": "2026-11-16T15:20:00-03:00",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-jamais-reeleicao-motta"
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-jamais-reeleicao-motta",
+ "agendado_metricool": {
+  "id": 430445512,
+  "uuid": "-6446526593411693460",
+  "para": "2026-11-17T09:00:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-16T15:00:00-03:00",
+  "isAiGenerated": false,
+  "tiktok": {
+   "id": 430445683,
+   "uuid": "6741752587903978358",
+   "para": "2026-11-17T09:30:00"
+  },
+  "youtube": {
+   "id": 430445756,
+   "uuid": "-8959213870017983277",
+   "para": "2026-11-17T10:00:00"
+  }
+ },
+ "nota_lote": "AGENDADO 16/11 (rotina Reels de teste 14h20) para 17/11: IG 09:00, TT 09:30, Short 10:00; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-16T15:05:00-03:00"
 }

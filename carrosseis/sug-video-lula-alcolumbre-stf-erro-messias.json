@@ -1,5 +1,5 @@
 {
- "status": "pronto",
+ "status": "publicado",
  "formato": "video",
  "formato_corte": "tela_cheia_escura",
  "ab_formato": "puro-x-comentario",
@@ -84,5 +84,21 @@
  "carrossel_id": "sug-video-lula-alcolumbre-stf-erro-messias",
  "arquivo": "sug-video-lula-alcolumbre-stf-erro-messias-tela-cheia.mp4",
  "publicado_em": "2026-11-16T15:20:00-03:00",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-alcolumbre-stf-erro-messias"
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-alcolumbre-stf-erro-messias",
+ "agendado_metricool": {
+  "id": 430447411,
+  "uuid": "5647396510598973788",
+  "para": "2026-11-17T10:20:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-16T15:01:00-03:00",
+  "isAiGenerated": false,
+  "tiktok": {
+   "id": 430447792,
+   "uuid": "-8770856696456394563",
+   "para": "2026-11-17T12:10:00"
+  }
+ },
+ "nota_lote": "AGENDADO 16/11 (rotina Reels de teste 14h20) para 17/11: IG 10:20, TT 12:10; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-16T15:05:00-03:00"
 }
