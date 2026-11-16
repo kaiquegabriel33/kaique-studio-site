@@ -1,0 +1,88 @@
+{
+ "status": "pronto",
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-16T14:45:00-03:00",
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "sugerido_por": "rotina Reels de teste 16/11 14h20 (manhã de 17/11)",
+ "id": "sug-video-diesel-fim-subsidio-1-40",
+ "titulo": "Governo encerra subsídio de R$ 1,40 por litro ao diesel importado",
+ "motivo": "Bolso: a Fazenda não renovou a subvenção de R$ 1,40/litro ao diesel importado; Folha (16/11): preço deve subir nas bombas. Vídeo: Jovem Pan News (16/11, 94 mil views). Fatos: Folha, InfoMoney, BPMoney (16/11).",
+ "prioridade": 2,
+ "forca": "media",
+ "noticia_grande": true,
+ "fato_em": "2026-11-14T19:00:00-03:00",
+ "vence_em": "2026-11-18T23:59:00-03:00",
+ "para_quem": "quem paga frete, passagem e comida (tudo anda de caminhão)",
+ "promessa": "Alerta ligado para uma pressão que pode vir sobre o preço do diesel",
+ "paga_em": "segue de pé uma outra subvenção de R$ 2,12 por litro",
+ "diferenciacao": "a legenda explica o caminho até o bolso (diesel move o caminhão que leva a comida) e traz o outro lado (a Fazenda pode reavaliar e o subsídio de R$ 2,12 continua)",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Governo encerra ==R$ 1,40 por litro== de subsídio ao diesel importado"
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "Alerta ligado para uma pressão que pode vir sobre o preço do diesel",
+  "inicio": "Alerta ligado para uma pressão",
+  "fim": "também para produtores nacionais",
+  "texto": "",
+  "gancho": "",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "subvenção é de",
+    "texto": "O Brasil importa de 25% a 30% do diesel que usa"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=_8Eev8iVE3Y",
+ "trecho_txt": "Jovem Pan News (YouTube, 16/11/2026), repórter Rodrigo Viga",
+ "legenda": "Acabou o desconto de R$ 1,40 por litro no diesel importado. A Fazenda decidiu não renovar a ajuda, que valia por 30 dias.\n\nEla veio quando o petróleo disparou, entre setembro e outubro, e o diesel bateu recorde. Segue de pé outra subvenção, de R$ 2,12 por litro, para importadores e produtores nacionais. A Folha diz que o custo do importado sobe e o preço deve chegar às bombas.\n\nPor que pesa no seu bolso: o Brasil produz de 70% a 75% do diesel que consome, o resto vem de fora, e quase tudo que você compra anda de caminhão.\n\nO outro lado: a Fazenda diz que pode reavaliar a medida conforme o preço lá fora. E os importadores dizem que a Petrobras vende o diesel aqui bem abaixo do preço internacional, o que segura a bomba por enquanto.\n\nVídeo: Jovem Pan News (16/11/2026). Fontes: Folha de S.Paulo (16/11/2026); InfoMoney (16/11/2026); BPMoney (16/11/2026).\n\n#diesel #combustivel #petrobras #economia",
+ "fontes": [
+  {
+   "titulo": "Folha (16/11/2026): Fim de subsídio ao diesel importado eleva custo e preço deve subir nas bombas",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/fim-de-subsidio-ao-diesel-importado-eleva-custo-e-preco-deve-subir-nas-bombas.shtml"
+  },
+  {
+   "titulo": "InfoMoney (16/11/2026): Fim de subsídio extra do diesel ajuda Petrobras e muda dinâmica entre distribuidoras",
+   "url": "https://news.google.com/search?q=Fim%20de%20subs%C3%ADdio%20extra%20do%20diesel%20ajuda%20Petrobras"
+  },
+  {
+   "titulo": "Jovem Pan News (YouTube, 16/11/2026)",
+   "url": "https://www.youtube.com/watch?v=_8Eev8iVE3Y"
+  }
+ ],
+ "carrossel_id": "sug-video-diesel-fim-subsidio-1-40",
+ "arquivo": "sug-video-diesel-fim-subsidio-1-40-tela-cheia.mp4",
+ "publicado_em": "2026-11-16T15:20:00-03:00",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-diesel-fim-subsidio-1-40"
+}

@@ -2,7 +2,7 @@
  "id": "sug-video-moraes-nega-visitas-bolsonaro",
  "carrossel_id": "sug-video-moraes-nega-visitas-bolsonaro",
  "status": "publicado",
- "publicado_em": "2026-11-14T12:00:00-03:00",
+ "publicado_em": "2026-11-16T14:00:00-03:00",
  "arquivo": "sug-video-moraes-nega-visitas-bolsonaro-tela-cheia.mp4",
  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-moraes-nega-visitas-bolsonaro",
  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
@@ -18,10 +18,10 @@
  "teste_reel": true,
  "sempre_verde": false,
  "reserva": false,
- "criado": "2026-11-14T12:00:00-03:00",
+ "criado": "2026-11-16T13:40:00-03:00",
  "atualizado": "2026-11-14T12:00",
  "fato_em": "2026-11-16T10:30:00-03:00",
- "vence_em": "2026-11-15T23:59:00-03:00",
+ "vence_em": "2026-11-17T23:59:00-03:00",
  "titulo": "Moraes nega visitas de Marinho e Tereza Cristina a Bolsonaro",
  "para_quem": "quem acompanha a prisão de Bolsonaro e a disputa pela presidência do Senado",
  "promessa": "negou a visita de Tereza Cristina, da senadora, e também de Rogério Marinho, senador, a Jair Bolsonaro",
@@ -93,5 +93,22 @@
   }
  ],
  "trecho_txt": "GloboNews (16/11/2026), reportagem sobre a decisão do ministro Alexandre de Moraes",
- "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')",
+ "agendado_metricool": {
+  "id": 430361350,
+  "para": "2026-11-16T14:40:00",
+  "tipo": "TRIAL_REEL",
+  "isAiGenerated": false,
+  "tiktok": {
+   "id": 430361426,
+   "para": "2026-11-16T15:40:00"
+  }
+ },
+ "agendado_youtube_short": {
+  "id": 430362327,
+  "para": "2026-11-16T16:20:00",
+  "teste": "short de corte 16-22/11"
+ },
+ "midia_no_metricool": true,
+ "nota_lote": "AGENDADO 16/11 (conversa): IG 14:40, TT 15:40, Short 16:20; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão."
 }

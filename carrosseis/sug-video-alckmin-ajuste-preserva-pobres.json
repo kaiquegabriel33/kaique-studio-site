@@ -2,7 +2,7 @@
  "id": "sug-video-alckmin-ajuste-preserva-pobres",
  "carrossel_id": "sug-video-alckmin-ajuste-preserva-pobres",
  "status": "publicado",
- "publicado_em": "2026-11-14T12:00:00-03:00",
+ "publicado_em": "2026-11-16T14:00:00-03:00",
  "arquivo": "sug-video-alckmin-ajuste-preserva-pobres-tela-cheia.mp4",
  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-alckmin-ajuste-preserva-pobres",
  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
@@ -18,10 +18,10 @@
  "teste_reel": true,
  "sempre_verde": false,
  "reserva": false,
- "criado": "2026-11-14T12:00:00-03:00",
+ "criado": "2026-11-16T13:40:00-03:00",
  "atualizado": "2026-11-14T12:00",
  "fato_em": "2026-11-15T12:00:00-03:00",
- "vence_em": "2026-11-15T23:59:00-03:00",
+ "vence_em": "2026-11-17T23:59:00-03:00",
  "titulo": "Alckmin compara o ajuste com o déficit de 2020: \"Ah, mas teve Covid\"",
  "para_quem": "quem acompanha o ajuste fiscal e a briga sobre as contas do governo passado",
  "promessa": "em 2020, no governo passado, o déficit primário foi 9,7%",
@@ -99,5 +99,22 @@
   }
  ],
  "trecho_txt": "UOL (16/11/2026), fala do vice-presidente Geraldo Alckmin (15/11)",
- "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')",
+ "agendado_metricool": {
+  "id": 430389640,
+  "para": "2026-11-16T19:00:00",
+  "tipo": "TRIAL_REEL",
+  "isAiGenerated": false,
+  "tiktok": {
+   "id": 430389734,
+   "para": "2026-11-16T18:20:00"
+  }
+ },
+ "agendado_youtube_short": {
+  "id": 430390035,
+  "para": "2026-11-16T20:00:00",
+  "teste": "short de corte 16-22/11"
+ },
+ "midia_no_metricool": true,
+ "nota_lote": "AGENDADO 16/11 (conversa): IG 19:00, TT 18:20, Short 20:00; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão."
 }
