@@ -1,0 +1,93 @@
+{
+ "id": "sug-video-gonet-dilema-relatorios-pf",
+ "carrossel_id": "sug-video-gonet-dilema-relatorios-pf",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-gonet-dilema-relatorios-pf-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-gonet-dilema-relatorios-pf",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Segunda 16/11: CNN (16/11) sobre os relatórios da PF que citam ministros do STF no caso Master e o dilema do procurador-geral Paulo Gonet (investigar ou não Moraes). Fatos: CNN Brasil (16/11), ac24horas/CNN (15/11), Gazeta do Povo (set/2026). Desdobramento dos cortes da Band (14/11) e do Gilmar (15/11).",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-16T11:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "O dilema de Gonet: investigar ou não Moraes no caso Master",
+ "para_quem": "quem acompanha o caso Banco Master e o STF",
+ "promessa": "Paulo Gonet chegou no cargo, indicado pelo presidente da República, depois de ouvir Gilmar Mendes, depois de ouvir o Alexandre de Moraes",
+ "paga_em": "se ele falar que sim, causa ali uma saia justa com uma pessoa próxima a ele",
+ "diferenciacao": "o que o comentário não diz, na legenda: em setembro o próprio Gonet pediu a anulação de um relatório da PF sobre Moraes, e a palavra final é do STF",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Gonet vai decidir se ==investiga Moraes no caso Master=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "decidir se deve haver uma investigação, por exemplo, contra o ministro Alexandre de Moraes",
+  "inicio": "Agora, Paulo Gonet chegou no cargo",
+  "fim": "algum tipo de reação",
+  "texto": "",
+  "gancho": "decidir se deve haver uma investigação, por exemplo, contra o ministro Alexandre de Moraes",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "saia justa",
+    "texto": "Em setembro, Gonet pediu a anulação de um relatório da PF sobre Moraes"
+   }
+  ],
+  "cta": true,
+  "encher": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=7QpLwXSUHh0",
+ "cta": true,
+ "legenda": "Os relatórios da PF que citam ministros do Supremo no caso Master vão parar na mesa de Paulo Gonet, e ele vai ter de escolher.\n\nO caminho, segundo a CNN: a PF entrega os relatórios a Edson Fachin ainda em novembro, Fachin manda para a PGR e Gonet decide entre pedir mais diligências, pedir investigação ou pedir arquivamento. A palavra final é do próprio STF. O julgamento sobre investigar Moraes está parado por pedido de vista de Dino até meados de dezembro.\n\nNa mesma semana, a PGR deve apresentar as primeiras denúncias do caso, a partir do indiciamento de Daniel Vorcaro e de outras 14 pessoas pela PF.\n\nO outro lado: em setembro, Gonet pediu a anulação de um relatório anterior da PF sobre Moraes e mandou apurar se houve interferência nele. Moraes nega ter interferido a favor do Banco Master.\n\nVídeo: CNN Brasil (16/11/2026). Fontes: CNN Brasil (16/11/2026); ac24horas, com CNN (15/11/2026); Gazeta do Povo (09/2026).\n\n#gonet #moraes #bancomaster #stf",
+ "fontes": [
+  {
+   "titulo": "CNN Brasil (16/11/2026): Relatórios da PF sobre Master vão impor dilema a Paulo Gonet",
+   "url": "https://www.cnnbrasil.com.br/politica/relatorios-da-pf-sobre-master-vao-impor-dilema-a-paulo-gonet/"
+  },
+  {
+   "titulo": "ac24horas (15/11/2026): PGR prepara primeiras denúncias no caso Master um ano após operação",
+   "url": "https://ac24horas.com/2026/11/15/pgr-prepara-primeiras-denuncias-no-caso-master-um-ano-apos-operacao/"
+  },
+  {
+   "titulo": "Gazeta do Povo (09/2026): PGR manda investigar se houve interferência em relatório da PF sobre Moraes e Vorcaro",
+   "url": "https://www.gazetadopovo.com.br/republica/pgr-manda-investigar-se-houve-interferencia-em-relatorio-da-pf-sobre-moraes-e-vorcaro/"
+  },
+  {
+   "titulo": "CNN Brasil (YouTube, 16/11/2026)",
+   "url": "https://www.youtube.com/watch?v=7QpLwXSUHh0"
+  }
+ ],
+ "trecho_txt": "CNN Brasil (16/11/2026), LIVE CNN",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}
