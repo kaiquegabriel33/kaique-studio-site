@@ -1,0 +1,98 @@
+{
+ "id": "sug-video-trump-culpa-biden-voos",
+ "carrossel_id": "sug-video-trump-culpa-biden-voos",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-trump-culpa-biden-voos-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-trump-culpa-biden-voos",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Segunda 16/11: Trump quebrou o silêncio no domingo (15/11) e culpou Biden pela paralisação de todos os voos dos EUA em 13/11; desdobramento do corte de 14/11 (EUA param decolagens). Vídeo GloboNews. Fatos: CNBC, Newsweek (15/11).",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-15T15:00:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "Trump culpa Biden pelo apagão aéreo nos EUA",
+ "para_quem": "quem viaja para os EUA e quem acompanha a política americana",
+ "promessa": "a administração Biden foi um desastre para a FAA",
+ "paga_em": "Precisamos que o Congresso libere o dinheiro rápido",
+ "diferenciacao": "o que a reportagem não diz, na legenda: a falta de controladores vem de vários governos, inclusive o primeiro de Trump",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Trump culpa ==Biden pelo apagão aéreo== nos EUA"
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "a administração Biden foi um desastre para a FAA",
+  "inicio": "Vamos falar sobre o apagão aéreo",
+  "fim": "equipamentos antigos de telecomunicações",
+  "texto": "",
+  "gancho": "a administração Biden foi um desastre para a FAA",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "Congresso libere",
+    "texto": "17 dos 22 centros de controle de rota dos EUA foram afetados"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "girar": "nao",
+  "crop": [
+   1080,
+   1120,
+   0,
+   20
+  ],
+  "enquadrar": false,
+  "foco_falante": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=ZYoJOcm0Xm0",
+ "cta": true,
+ "legenda": "Dois dias depois de os EUA pararem todas as decolagens, Trump apontou o culpado: o governo Biden.\n\nNa sexta (13/11), a FAA, a Anac de lá, parou os voos do país por mais de 4 horas. Segundo a agência, um volume enorme de dados sobrecarregou a rede e 17 dos 22 centros de controle de rota foram afetados; a causa raiz ainda está em investigação. No domingo, Trump escreveu que o sistema antigo piorou com dinheiro mal gasto e pediu ao Congresso verba \"rápido\".\n\nO outro lado: a falta de controladores e o equipamento velho vêm de vários governos, inclusive o primeiro mandato de Trump. Biden e os democratas não tinham respondido até domingo.\n\nVídeo: GloboNews (15/11/2026). Fontes: CNBC (15/11/2026); Newsweek (15/11/2026).\n\n#trump #biden #eua #voos",
+ "fontes": [
+  {
+   "titulo": "CNBC (15/11/2026): Trump breaks silence on FAA nationwide ground stop, blames Biden",
+   "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html"
+  },
+  {
+   "titulo": "Newsweek: Trump points finger at Biden admin after ground stop chaos",
+   "url": "https://www.newsweek.com/trump-points-finger-at-biden-admin-after-ground-stop-chaos-12717240"
+  },
+  {
+   "titulo": "GloboNews (YouTube, 15/11/2026)",
+   "url": "https://www.youtube.com/watch?v=ZYoJOcm0Xm0"
+  }
+ ],
+ "trecho_txt": "GloboNews (15/11/2026), reportagem sobre a declaração de Donald Trump",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}

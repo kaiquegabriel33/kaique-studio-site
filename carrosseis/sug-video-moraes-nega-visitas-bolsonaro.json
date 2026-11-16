@@ -1,0 +1,97 @@
+{
+ "id": "sug-video-moraes-nega-visitas-bolsonaro",
+ "carrossel_id": "sug-video-moraes-nega-visitas-bolsonaro",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-moraes-nega-visitas-bolsonaro-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-moraes-nega-visitas-bolsonaro",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Segunda 16/11: decisão de Moraes (divulgada 16/11) negando visitas de Rogério Marinho, Tereza Cristina e Valdemar a Bolsonaro por 'nítida motivação político-partidária' (escolha da presidência do Senado). Vídeo GloboNews com a repórter lendo a decisão. Fatos: Metrópoles, A Crítica, Atlas Público (16/11). Pauta que os dois lados compartilham.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "alta",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-16T10:30:00-03:00",
+ "vence_em": "2026-11-15T23:59:00-03:00",
+ "titulo": "Moraes nega visitas de Marinho e Tereza Cristina a Bolsonaro",
+ "para_quem": "quem acompanha a prisão de Bolsonaro e a disputa pela presidência do Senado",
+ "promessa": "negou a visita de Tereza Cristina, da senadora, e também de Rogério Marinho, senador, a Jair Bolsonaro",
+ "paga_em": "uma forma de o Bolsonaro ainda conseguir ter alguns direitos políticos exercidos na prática",
+ "diferenciacao": "o que a reportagem não diz, na legenda: o Valdemar também foi barrado e o motivo é a eleição da presidência do Senado, em fevereiro",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Moraes ==nega visitas de Marinho e Tereza Cristina== a Bolsonaro"
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "negou a visita de Tereza Cristina, da senadora, e também de Rogério Marinho, senador, a Jair Bolsonaro",
+  "inicio": "O ministro Alexandre de Moraes negou",
+  "fim": "por causa da condenação",
+  "texto": "",
+  "gancho": "negou a visita de Tereza Cristina, da senadora, e também de Rogério Marinho, senador, a Jair Bolsonaro",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "presidência do Senado",
+    "texto": "A eleição para presidente do Senado é em fevereiro de 2027"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "girar": "nao",
+  "crop": [
+   1080,
+   1100,
+   0,
+   0
+  ],
+  "foco_falante": true
+ },
+ "video_url": "https://www.youtube.com/watch?v=GWdu6JLjME8",
+ "cta": true,
+ "legenda": "Rogério Marinho e Tereza Cristina querem presidir o Senado a partir de fevereiro. Pediram para visitar Bolsonaro, e Alexandre de Moraes disse não.\n\nNa decisão divulgada nesta segunda (16/11), o ministro viu \"nítida motivação político-partidária\": as reuniões serviriam para Bolsonaro participar da escolha da candidatura ao comando do Senado, e os direitos políticos dele estão suspensos pela condenação. O pedido de visita do Valdemar Costa Neto também foi negado. Desde julho, Moraes proíbe visita política na casa de Bolsonaro.\n\nAté a manhã desta segunda, Marinho, Tereza Cristina e o PL não tinham comentado a decisão.\n\nVídeo: GloboNews (16/11/2026). Fontes: Metrópoles (16/11/2026); A Crítica (16/11/2026); Atlas Público.\n\n#moraes #bolsonaro #senado #stf",
+ "fontes": [
+  {
+   "titulo": "Metrópoles (16/11/2026): Moraes vê motivo político ao negar visita de Marinho e Tereza a Bolsonaro",
+   "url": "https://www.metropoles.com/brasil/moraes-ve-motivo-politico-ao-negar-visita-de-marinho-e-tereza-a-bolsonaro"
+  },
+  {
+   "titulo": "A Crítica (16/11/2026): Moraes nega visita de Tereza Cristina a Bolsonaro",
+   "url": "https://acritica.net/politica/moraes-nega-visita-tereza-cristina-bolsonaro-presidencia-senado/"
+  },
+  {
+   "titulo": "GloboNews (YouTube, 16/11/2026)",
+   "url": "https://www.youtube.com/watch?v=GWdu6JLjME8"
+  }
+ ],
+ "trecho_txt": "GloboNews (16/11/2026), reportagem sobre a decisão do ministro Alexandre de Moraes",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')"
+}
