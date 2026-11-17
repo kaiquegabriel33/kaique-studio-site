@@ -1,0 +1,91 @@
+{
+ "status": "pronto",
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-17T14:50:00-03:00",
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "sugerido_por": "rotina Reels de teste 17/11 14h20",
+ "id": "sug-video-durigan-posto-ipiranga",
+ "titulo": "Durigan: “não há posto Ipiranga” para as contas públicas",
+ "motivo": "Dario Durigan, no comando da Fazenda, na CAE do Senado hoje de manhã: não há posto Ipiranga nem licença para gasto do Congresso, do Judiciário e do governo; admite que o mercado não acha o superávit suficiente. Vídeo da Rádio Bandeirantes com 242 views (quente e pouco visto), no dia em que o dólar passou de R$ 5,81 e o Senado vota os destaques do ajuste. Outra notícia que a do Izalci (CBS): aqui é a disciplina fiscal.",
+ "prioridade": 1,
+ "forca": "alta",
+ "fato_em": "2026-11-17T10:30:00-03:00",
+ "vence_em": "2026-11-18T23:59:00-03:00",
+ "politico": "Dario Durigan",
+ "para_quem": "quem vê o dólar subir e ouve que o governo vai arrumar as contas e quer saber o que o ministro promete",
+ "promessa": "Não há posto Ipiranga",
+ "paga_em": "O mercado financeiro acha suficiente? Não acha",
+ "diferenciacao": "a legenda lembra quem era o “posto Ipiranga” (o apelido do Paulo Guedes) e liga a frase ao dólar de hoje e à votação do Senado",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Ministro da Fazenda: ==“não há posto Ipiranga”=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "Não há posto Ipiranga",
+  "inicio": "Aqui não há caminho mágico",
+  "fim": "justiça, democracia e transparência",
+  "texto": "Aqui não há caminho mágico a ser resolvido. Não há posto Ipiranga e não há licença para gasto indiscriminado do lado do Congresso, do Judiciário e do governo federal. Nós temos que ter disciplina fiscal. Nós recebemos um orçamento que tinha 189 bilhões de déficit primário. Estamos entregando um pequeno superávit. O mercado financeiro acha suficiente? Não acha, mas é o superávit construído na democracia à luz do dia, enfrentando os privilégios, fazendo os cortes de gasto primário necessários. E é esse o único caminho que o país tem pela frente para organizar as contas com justiça, democracia e transparência.",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "Nós recebemos um orçamento",
+    "texto": "Dario Durigan, Fazenda, na CAE do Senado (17/11)"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "girar": "nao",
+  "foco_falante": true
+ },
+ "video_url": "https://www.youtube.com/watch?v=HHuLneUUI1s",
+ "trecho_txt": "Rádio Bandeirantes (YouTube, 17/11/2026), audiência na CAE do Senado",
+ "legenda": "Dario Durigan, no comando da Fazenda, no Senado: “não há posto Ipiranga e não há licença para gasto indiscriminado”.\n\nO recado foi para os três Poderes: Congresso, Judiciário e governo. Ele disse que recebeu um orçamento com R$ 189 bilhões de déficit e que entrega um pequeno superávit. E admitiu: o mercado não acha suficiente.\n\n“Posto Ipiranga” era o apelido do Paulo Guedes no governo Bolsonaro, o ministro que ia resolver tudo sozinho.\n\nHoje o dólar passou de R$ 5,81 e o Senado vota os destaques do ajuste. Quando o mercado não compra a conta do governo, quem sente primeiro é o dólar e o juro.\n\nVídeo: Rádio Bandeirantes (17/11/2026), audiência na CAE do Senado. Fontes: Bahia Notícias (17/11/2026); Brasil 247 (17/11/2026); InfoMoney (17/11/2026).\n\n#durigan #ajustefiscal #economia #dolar",
+ "fontes": [
+  {
+   "titulo": "Rádio Bandeirantes (YouTube, 17/11/2026): Ministro da Fazenda: “Não há ‘posto Ipiranga’ para resolver contas públicas”",
+   "url": "https://www.youtube.com/watch?v=HHuLneUUI1s"
+  },
+  {
+   "titulo": "Bahia Notícias: Durigan diz que não há \"posto Ipiranga\" e nem \"mágica\" para equilibrar as contas públicas",
+   "url": "https://www.bahianoticias.com.br/noticia/323737-ministro-da-fazenda-diz-que-nao-ha-posto-ipiranga-e-nem-magica-para-equilibrar-as-contas-publicas"
+  },
+  {
+   "titulo": "Brasil 247: Enfrentar privilégios e cortar gastos “é o único caminho para organizar as contas”, diz Durigan",
+   "url": "https://www.brasil247.com/economia/enfrentar-privilegios-e-cortar-gastos-e-o-unico-caminho-diz-durigan/"
+  },
+  {
+   "titulo": "InfoMoney: Dólar hoje sobe após superar os R$ 5,81",
+   "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17112026/"
+  }
+ ],
+ "carrossel_id": "sug-video-durigan-posto-ipiranga",
+ "noticia_grande": true
+}

@@ -1,0 +1,86 @@
+{
+ "status": "pronto",
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-17T14:55:00-03:00",
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "sugerido_por": "rotina Reels de teste 17/11 14h20",
+ "id": "sug-video-morgan-brasil-elo-fraco",
+ "titulo": "Morgan Stanley: o Brasil é “o elo fraco” da América Latina",
+ "motivo": "O âncora do CNN Money explica o rebaixamento da Bolsa brasileira pelo Morgan Stanley: empresas enforcadas com os juros e o Brasil como “elo fraco” da tese latino-americana (CNN 360°, 16/11, 39 mil views). Fato que não vence amanhã cedo; o story do mesmo fato foi números (Ibovespa 160 mil), aqui é a explicação em vídeo.",
+ "prioridade": 2,
+ "forca": "media",
+ "fato_em": "2026-11-16T17:00:00-03:00",
+ "vence_em": "2026-11-19T23:59:00-03:00",
+ "politico": "(reportagem CNN, Morgan Stanley)",
+ "para_quem": "quem tem ou pensa em ter ação, fundo ou previdência e ouviu que a Bolsa caiu",
+ "promessa": "estão enforcadas com os juros",
+ "paga_em": "Somos o elo fraco",
+ "diferenciacao": "a legenda traduz o rebaixamento para o bolso: empresa que paga juro demais não investe nem dá lucro para quem tem a ação",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Morgan Stanley rebaixa o Brasil: ==“somos o elo fraco”=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "Somos o elo fraco",
+  "inicio": "Muitas empresas grandes",
+  "fim": "dinheiros internacionais",
+  "texto": "Muitas empresas grandes, Débora, até aquelas que estão na bolsa de valores, estão enforcadas com os juros. Ou porque estão tendo que pagar muito para quem emprestou dinheiro, e aí estão tendo problemas operacionais, porque estão tendo prejuízo só por conta de pagamento de juros, ou porque não estão conseguindo investir por conta dessas taxas de juros mais altas. O que o Morgan Stanley diz? Que apesar da tese de inteligência artificial beneficiar empresas latinas aqui na América Latina, América do Sul em especial, o Brasil fica um pouco de fora desta jogada. Somos o elo fraco, segundo os analistas, da tese de investimento latino-americano. Então é melhor ter um pouquinho menos de ações brasileiras do que de outros países, é o caso do México, nosso concorrente aí por grandes dinheiros internacionais.",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "O que o Morgan Stanley diz",
+    "texto": "Morgan Stanley rebaixou a Bolsa brasileira (16/11)"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "foco_falante": true
+ },
+ "video_url": "https://www.youtube.com/watch?v=r2PuOXAGJ0U",
+ "trecho_txt": "CNN Brasil, CNN 360° (YouTube, 16/11/2026)",
+ "legenda": "O Morgan Stanley rebaixou a Bolsa brasileira e, na explicação da CNN, o Brasil virou “o elo fraco” da América Latina.\n\nO banco recomendou aos clientes ter menos ações do Brasil do que de outros países da região, como o México. Os motivos: juro alto por mais tempo, empresas grandes apertadas pela dívida e o risco das contas públicas. A previsão é de queda de 7% do Ibovespa em 2027.\n\nEmpresa que gasta o lucro pagando juro não investe, não contrata e não sobe na Bolsa. É por aí que o rebaixamento chega no fundo, na previdência e na ação de quem investe.\n\nVídeo: CNN Brasil, CNN 360° (16/11/2026). Fontes: Folha de S.Paulo (17/11/2026); UOL (16/11/2026).\n\n#morganstanley #ibovespa #juros #bolsa",
+ "fontes": [
+  {
+   "titulo": "CNN Brasil (YouTube, 16/11/2026): Morgan Stanley rebaixa recomendação para Bolsa brasileira | CNN 360°",
+   "url": "https://www.youtube.com/watch?v=r2PuOXAGJ0U"
+  },
+  {
+   "titulo": "Folha: Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/morgan-stanley-rebaixa-recomendacao-para-bolsa-brasileira-e-preve-queda-de-7.shtml"
+  },
+  {
+   "titulo": "UOL (YouTube, 16/11/2026): Morgan Stanley rebaixa Bolsa brasileira e prevê queda de 7% do Ibovespa em 2027",
+   "url": "https://www.youtube.com/watch?v=pms5eMe5mvY"
+  }
+ ],
+ "carrossel_id": "sug-video-morgan-brasil-elo-fraco",
+ "noticia_grande": true
+}
