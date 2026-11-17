@@ -1,103 +1,291 @@
 {
- "atualizado": "2026-11-17T00:05-03:00",
+ "atualizado": "2026-11-17T09:08-03:00",
  "em_alta": [
   {
-   "termo": "copa sul sudeste",
-   "trafego": "200+",
+   "termo": "sorteio loteria federal",
+   "trafego": "10000+",
    "temas": [
-    "economia"
+    "mercado"
    ],
    "video": false,
    "noticias": [
     {
-     "titulo": "Paraná Clube se manifesta sobre fim da Copa Sul-Sudeste: \"Defenderemos nossos direitos\"",
-     "url": "https://ge.globo.com/pr/futebol/times/parana-clube/noticia/2026/11/16/parana-clube-se-manifesta-sobre-fim-da-copa-sul-sudeste-defenderemos-nossos-direitos.ghtml",
-     "veiculo": "ge"
+     "titulo": "Pela 2ª vez seguida, bilhete de São José ganha prêmio principal da Loteria Federal e leva R$ 1,3 milhão",
+     "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/17/pela-2a-vez-seguida-bilhete-de-sao-jose-ganha-premio-principal-da-loteria-federal-e-leva-r-13-milhao.ghtml",
+     "veiculo": "G1"
     },
     {
-     "titulo": "Após redução de orçamento, CBF cancela Copa Sul-Sudeste em 2027",
-     "url": "https://www.terra.com.br/esportes/futebol/apos-reducao-de-orcamento-cbf-cancela-copa-sul-sudeste-em-2027,0040ca950cc0ceffd6b2a2e9019f2811f4pfwdcz.html",
-     "veiculo": "Terra"
+     "titulo": "Loteria Federal: concurso 6118 tem resultados revelados; veja dezenas",
+     "url": "https://gauchazh.clicrbs.com.br/viral/noticia/2026/11/loteria-federal-concurso-6118-tem-resultados-revelados-veja-dezenas-cmwk1p5va00cv015unwlj8mk2.html",
+     "veiculo": "GZH"
     },
     {
-     "titulo": "Paraná Clube confirma participação na Copa Sul-Sudeste 2027",
-     "url": "https://paranaclube.com.br/parana-clube-confirma-participacao-na-copa-sul-sudeste-2027/",
-     "veiculo": "Paraná Clube"
+     "titulo": "Caixa altera data do sorteio da Loteria Federal; veja quando será a próxima extração",
+     "url": "https://www.estadao.com.br/einvestidor/loterias/caixa-altera-data-do-sorteio-da-loteria-federal-veja-quando-sera-a-proxima-extracao/",
+     "veiculo": "Estadão"
     }
    ],
-   "publicado": "2026-11-16T17:50:00-08:00"
+   "publicado": "2026-11-17T02:40:00-08:00"
+  },
+  {
+   "termo": "brazil",
+   "trafego": "500+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Licensable picture: Tax Meter Tracks Tax Collection In Brazil And Sao Paulo.",
+     "url": "https://www.reutersconnect.com/item/tax-meter-tracks-tax-collection-in-brazil-and-sao-paulo/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBSVzU4WVc",
+     "veiculo": "Reuters Connect"
+    },
+    {
+     "titulo": "Vantris Energy JV secures RM1.7 billion Petrobras subsea contract in Brazil",
+     "url": "https://tradersunion.com/news/companies/show/4282772-vantris-energy-petrobras-subsea-contract-brazil/",
+     "veiculo": "Traders Union"
+    },
+    {
+     "titulo": "Paratus Energy Services Ltd. Announces Seagems Receives USD 410 Million Contract By Petrobras For Provision Of Pipe-Laying Support Vessel Services Offshore Brazil",
+     "url": "https://www.marketscreener.com/news/paratus-energy-services-ltd-announces-seagems-receives-usd-410-million-contract-by-petrobras-for-pr-ce785edcd98bf42d",
+     "veiculo": "www.marketscreener.com"
+    }
+   ],
+   "publicado": "2026-11-17T02:30:00-08:00"
   }
  ],
  "pautas": [
   {
-   "id": "28bd367dd2",
-   "titulo": "D�lar sobe a R$ 5,77, maior valor desde abril de 2025; Ibovespa recua",
-   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/16/dolar-sobe-a-r-577-maior-valor-desde-abril-de-2025-ibovespa-recua.ghtm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-11-17T02:22:36+00:00",
+   "id": "2f6971088e",
+   "titulo": "Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
+   "url": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-17T12:02:00+00:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=lar+sobe+5%2C77%2C+maior+valor+desde+abril+2025+Ibovespa",
-   "veiculos": 30,
-   "rotina": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+quer+que+povo+pobre+viva+mis%C3%A9ria%2C+diz+Lula",
+   "veiculos": 8,
+   "rotina": false,
    "outras": [
     {
-     "veiculo": "SBT News",
-     "titulo": "Dólar fecha a R$ 5,77 e bolsa cai em meio a dúvidas fiscais | #NewsNoite",
-     "url": "https://www.youtube.com/watch?v=lHWzvwns-3g"
+     "veiculo": "Diário 360",
+     "titulo": "“MERCADO FINANCEIRO QUER QUE O POVO POBRE VIVA NA MISÉRIA”, DISPARA LULA DURANTE VISITA À ESPANHA",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXF3cXdqaDJrOW5Eb1NOY3NfUWdPQ1Fyd2pwVWRmbGExTllXd0FPQVFHMmI2MUI0OXllTlRMUWdENmhkdWtLZC1Xc25JTmZNM3czVTdEYnZQaVJsX2RNRG5xYkx6WlhTa0dSSllKVlhvLVk5bTZ0TWN3Wjl1b0NqZVp0NVBuM2UydmhBcTU4cC11eGZmVHo0ZXctQi1KRHc3b3RQZ1lVaWdZV21MaXZBZUNPamd3NGVfa25BWnRudDdmSGlPbTZqWHVqTQ?oc=5"
     },
     {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Dólar dispara, fecha a R$ 5,77 com cautela fiscal e Bolsa cai 2% | JORNAL DA BAND - 16/11/2026",
-     "url": "https://www.youtube.com/watch?v=HgrKNUcRiek"
+     "veiculo": "Bahia Econômica",
+     "titulo": "LULA ATACA MERCADO FINANCEIRO DURANTE DEBATE DE AJUSTE FISCAL",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMm5RWnRtaDIxYTlrNHRZLTFzN1QtRU91WDN0NWFzNmNNcERpcktzOUFTZXFJaHZkMFZleHh3X2Q4Skxpb1hVdWozNF9XeVVZVnZTNE4wQXVha2g3bDhha0hXZ3BPaE9kSmJ5UU0tME9hc2RBbGVUVTE3UUtkb2UyaC1fY2hzR3NPMEdlR01MX1gxV1M5bHBvdjVDZUJfa2FXOS04UktYVmJwRFZRWDVvY2huVlA?oc=5"
     },
     {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Por que o dólar dispara mesmo com o pacote fiscal avançando",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQnBLY09NZFVpSDctVUlDdURldUd2aVpxcHpTNGdOa0psdVlnLTI1M3pJSDIyQkxYOC1UVkZad083bVhDYnhnREJybUM3ZW5qbnZXdHR2d2N0RUxwMmJ6Rmhnc2N3Y0xLMTdjTlBiNFlMam9qLTRPRmV6T1pUejkwMXFWQWs5dnFnZTRPODJNbGItZTZIb2lCdDBDb2RaUQ?oc=5"
+     "veiculo": "BBC News Brasil",
+     "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+     "url": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss"
     },
     {
-     "veiculo": "SpaceMoney",
-     "titulo": "Dólar salta 2,17% e fecha a R$ 5,78 com fiscal no radar",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeE83Z0lPMDBkZlZ3aEU2TnFSN19ScXRKNTgwZEJfODZyd0ZyWTdER0s1Q0tDclh3MUMtR3JCTWZjLUdXN3ZjWTFCOGdSbUpYMzgtWi14VFRMYTJqYmRrcU9YMjM1eE14YkJsa2JwYU9BUVBYakpGb2NZdHhJTHFTcFcwM0Zpdw?oc=5"
+     "veiculo": "Revista Oeste",
+     "titulo": "Lula: ‘Mercado financeiro quer que o povo pobre viva na miséria’",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUY5TGp3TERuaHpKbEhrZE9qeDFrc0c1YURqc0M5VHBiQk9IbERsTzVTOU9qSkJxd0htWFFHMHh0ekotZU9Kc0ZXc0RGZ1QxUjZrdVNoU0dySEk1Ym9IY0hXVGxzOHVDa1l1VkVEZ1NpSHU2TGFaSzZxUHZ5YVFmeDhuWUdQb3lDTEdKUWlZNk9qa3hyMWV3V3U0WmQ?oc=5"
     }
    ],
-   "score": 50.7,
-   "video_url": "https://www.youtube.com/watch?v=HgrKNUcRiek",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 66767,
-   "video_acima_mediana": 59.8,
+   "score": 52.7,
+   "video_url": "https://www.youtube.com/watch?v=qC5aznaTHbI",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1910,
+   "video_acima_mediana": 3.3,
    "videos": [
     {
-     "canal": "Band Jornalismo",
-     "titulo": "Dólar dispara, fecha a R$ 5,77 com cautela fiscal e Bolsa cai 2% | JORNAL DA BAND - 16/11/2026",
-     "url": "https://www.youtube.com/watch?v=HgrKNUcRiek",
-     "por_hora": 66767
+     "canal": "CNN Brasil",
+     "titulo": "REAÇÃO DO MERCADO DIFICULTARÁ APROVAÇÃO DE AJUSTE FISCAL DE LULA? | O GRANDE DEBATE",
+     "url": "https://www.youtube.com/watch?v=qC5aznaTHbI",
+     "por_hora": 1910
     },
     {
      "canal": "CNN Brasil",
-     "titulo": "Dólar salta e fecha em R$ 5,77 com temor fiscal; bolsa cai e juros sobem | CNN MERCADO",
-     "url": "https://www.youtube.com/watch?v=V6vV8tJMtXo",
-     "por_hora": 4800
+     "titulo": "Reação do mercado dificultará aprovação de ajuste fiscal de Lula? | O GRANDE DEBATE",
+     "url": "https://www.youtube.com/watch?v=yo9kjgryoTs",
+     "por_hora": 500
+    }
+   ]
+  },
+  {
+   "id": "ba444e590b",
+   "titulo": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-mercado-ter-oscilacoes-apos-pacote-fiscal-brasil-tem-seguranca-juridica-e-esta-trabalhando.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-17T10:53:23+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Alckmin+diz+que+n%C3%A3o+raz%C3%A3o+para+mercado+ter+oscila%C3%A7%C3%B5es",
+   "veiculos": 9,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal; Alan Ghani analisa",
+     "url": "https://www.youtube.com/watch?v=4fypgioe15c"
     },
     {
-     "canal": "MyNews",
-     "titulo": "ENTENDA POR QUE LULA VAI DEFENDER O PACOTE FISCAL MESMO COM RACHA NA BASE",
-     "url": "https://www.youtube.com/watch?v=XJxm_G3-eaQ",
-     "por_hora": 404
+     "veiculo": "Goiás 246",
+     "titulo": "Alckmin minimiza reação do mercado ao pacote fiscal e diz que oscilações são passageiras",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0R4TEF5TkRKZXVNU2x1TWszVzVSNHhPMEpYQ1F4enlRU1p3cW96eWg5UjJSNGt0U0k3eTVPcGZKU3ZZTy11ajM4OUxNRUJqT3laUkx5eFFydDlhS21zVkJaZzNXRHU2Z1psMDBGeUpoeWdxV25velRXU3ZqeDk5WU5aOG5iRVNxZVhfQXluZVB5dG5ua0Z0RHhxU2pmQTIzMC1OdnpxeVN5bEVQV0dxNEVMOFRpalZrSW42clppTWRiSkFFVzhnaWs5eWxyVlkwdk41aEVmV2RsbFk?oc=5"
+    },
+    {
+     "veiculo": "ICL Notícias",
+     "titulo": "Alckmin critica pressão do mercado financeiro: ‘Não há razão para essas oscilações’",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56VktKSUs3WDJTa2o0NXRTWjUza0VSb0RXY0FHdTBON1lScGJuODZlcUJPazJvcHVvM3BweGtkbWxaSVN4clk4SFI2Mkx4YTZIZjlwWUdFejhMWEdoU3NCeXhqeDZkZ3hHT2xhZ1NpeDc0WmpBQ190b0Jaaw?oc=5"
+    },
+    {
+     "veiculo": "R7",
+     "titulo": "Alckmin minimiza reação do mercado ao pacote fiscal que prevê economia de R$ 56 bilhões",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNjBiSjBJYy1YWHhiUkxRM3B0ZHFxWEZDLVBSQnNHMlhtTnpTelQxV3EtTXhQNDNtUVl1bVVEQXZhU0tFWlhHcEl2anJUTTRKeDNPd3A2UmNLenBEaVgtSmU0bkM5VDkxS1VBM3FTaHVuek9fVDA3X3dlSUZPX2Eyb2JDTUFvX3hpakpNLWllZkNvMzNsN1dWbGNkOTBxSm1rQjlYNk5uRkl5ZlVId0lkSkMxRjJfd2hYZ0hEaUd6RVVLODZrLUdQREUwZXlvRlFJWGFGaGI2V19OYkxkQkNLS2xR?oc=5"
+    }
+   ],
+   "score": 42.0,
+   "video_url": "https://www.youtube.com/watch?v=4fypgioe15c",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 1359,
+   "video_acima_mediana": 5.2,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal; Alan Ghani analisa",
+     "url": "https://www.youtube.com/watch?v=4fypgioe15c",
+     "por_hora": 1359
+    }
+   ]
+  },
+  {
+   "id": "7c2853c8c5",
+   "titulo": "Agenda do dia: Votação de pacote fiscal é destaque",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/17/agenda-do-dia-votacao-de-pacote-fiscal-e-destaque.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T12:00:55+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Agenda+dia+Vota%C3%A7%C3%A3o+pacote+fiscal+destaque",
+   "veiculos": 12,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jornal Grande Bahia",
+     "titulo": "Senado retoma votação do ajuste fiscal; quatro destaques podem alterar medidas de R$ 56,1 bilhões para 2027",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVnp0SFFEY2xoQ2cwNW9yalZCLWZmNjE2OWRWaUlnaXd4b1JxU1dvbDZEVC1IZkhDMjJheGZSZGJUYkExSC1EaXRyQ0tUT0hTdS0zcXdVV2sxTmhqOFBIbmtMMDFINTlLQUdVS2Ffd3JGNUhMeldUU0lfbTFyekk1VzVfWE9Sd2c1Ync2SWwyOHlBSUtFZTJKbllHQUtlS1hKTWtOYWYxeVNFbkY5Y2hEWEZ4WnBGVUJLV1gzRk4yVVA1cXlTc3ktdmVBUWhZb1BQbXZ1dFNmMllYZmloU3d3?oc=5"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "Ao vivo: Senado vota 4 destaques do projeto de ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=HbqAvOQ-3v4"
+    },
+    {
+     "veiculo": "Movimento Econômico",
+     "titulo": "Senado retoma votação de pacote fiscal um dia após dólar atingir R$ 5,77",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2dHUGZfYktLSTlEMVo5U1N2V1phcHRqSnpYS2ZPelVrMElFaG1kVGM4LWkxUE5qSDRxYW9yOEZkMVhoM1ZaZUpxck1VYURhYU5wR1FvTUNkVENRNnBOUFdsUGpScFlSLVQxR2MyLUJCNGRZdGdCZGg1LXR2Qkt5MzNlc2tKLVlWQnJRdy0yTE1ET0dCVXFpcEdEQUpoSlNBakZSWGd0TDJ6SWYwbkU1SjQ0cm1jekczdU53TWVCVEtNRHc?oc=5"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Senado retoma votação do ajuste fiscal; veja os quatro pontos pendentes",
+     "url": "https://exame.com/economia/senado-retoma-votacao-do-ajuste-fiscal-veja-os-quatro-pontos-pendentes/"
+    }
+   ],
+   "score": 41.4,
+   "video_url": "https://www.youtube.com/watch?v=GWh7m5R_Yi8",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1018,
+   "video_acima_mediana": 1.7,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Senado deve retomar nesta terça votação do ajuste fiscal de até R$ 56 bilhões | CNN NOVO DIA",
+     "url": "https://www.youtube.com/watch?v=GWh7m5R_Yi8",
+     "por_hora": 1018
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "AO VIVO: SENADO DEVE VOTAR DESTAQUES DO AJUSTE FISCAL | LIVE CNN",
+     "url": "https://www.youtube.com/watch?v=AfqV3DkkDhE",
+     "por_hora": 230
     },
     {
      "canal": "SBT News",
-     "titulo": "Dólar fecha a R$ 5,77 e bolsa cai em meio a dúvidas fiscais | #NewsNoite",
-     "url": "https://www.youtube.com/watch?v=lHWzvwns-3g",
-     "por_hora": 73
+     "titulo": "Ajuste fiscal: entenda os 4 pontos que podem mudar no Senado | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=pk3jJXz7DvA",
+     "por_hora": 207
+    },
+    {
+     "canal": "TV Senado",
+     "titulo": "Senado analisa destaques ao ajuste fiscal e projetos sobre jovens e vítimas de violência sexual",
+     "url": "https://www.youtube.com/watch?v=uxg502Ih7-U",
+     "por_hora": 112
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Ao vivo: Senado vota 4 destaques do projeto de ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=HbqAvOQ-3v4",
+     "por_hora": 0
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Senado vota destaques da oposição ao projeto de ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=xrxq5O7QWHo",
+     "por_hora": 0
     }
    ]
+  },
+  {
+   "id": "a5f5bd38fa",
+   "titulo": "A pressão da esquerda contra Nikolas por laudo falso da PF",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUk5CWThacVA5cklET1BHcGxoSjFyZ0d2LUFfaGNmRFl4QVNTQUI5NWdLZDlLTEhGQThTYkxUV01fSTBWTjhqdWEyUVZBVmEzRlI1czZUd3Y1eDBKc1dPSzdnYmNJVVhieWppUk5VWlZKeEhVMGtnY2RuejhEazN2TEN3YnR0R2doYnVXNXRsMnpOMVB1Y1V1WWNsTE5rSmV2ZVE?oc=5",
+   "veiculo": "Diário do Centro do Mundo",
+   "publicado": "2026-11-17T10:49:12+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=press%C3%A3o+esquerda+contra+Nikolas+por+laudo+falso",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Bnews",
+     "titulo": "PF apura divulgação de laudo falso compartilhado por Nikolas Ferreira nas eleições",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUVNSWXR5MXlRV0NtS3FPX3R5R181c3VKbFNiZUpOMUF0enUwUnZ5RmJ2T3YtbDVrM1VxcGZObG9yR0s5QURWZTlfaTlQeFpTQkVmZ1lRbmRYcUc3c2YzNGpSMWoyTHBkek5rTXVtQmVEaGJHZ2VrVmp2TG1sb1dqSUFrS29rdmF5Z3B3VThkUUg5bEJ3Wjl2ZHJiajhXdUJDaGFDRThRMG9uYi1JRTYxTkdXN2ZfX1BqWUdqY2FHZG5KYlJPRV9MYVZR0gHPAUFVX3lxTFBKdEZJLXBEVXA1OFFPVUEtb1B0OHNabzdTbGsxekFpODJVSEsxMkVhQ2Y4aExQZVR5QkVkdnRhbEN4d2RNU2tYZUJNa0RuWnpmNDByNElBU0VFYlVVeXlBOU5mbjJJbmxuZkxEbWdYd2cySURiNnN0Z1BQVGhFdUs0Q0gyc1MzTTJ6aUNQZDA3OWFzNkNxdW5aNGxKTEZEbFZzMjVGcWhhcU1HZTBQWHJTaUxWbWdoeS1VUnk4QXlWSVpGdmhmdUNxdk5fYk02OA?oc=5"
+    },
+    {
+     "veiculo": "ICL Notícias",
+     "titulo": "Falso laudo divulgado por Nikolas Ferreira nas eleições é investigado pela PF",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2cE9HRmVfVUZLT0RfeFlQaGVRTUZieExId0ZwOURKWDkzeEJVZ2cteXFNa1hsQnBTSW9ra09FVERLQ3FjMGhSYk9vaGZiaU9HSnFCSGVWMy1MRzNwMFlRRThtMkV0NmlHSzBTUnVpLUJ3M3M?oc=5"
+    },
+    {
+     "veiculo": "Plantão Brasil",
+     "titulo": "Polícia Federal investiga laudo falso compartilhado por Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjJ6b0o4ZnNZUFpkWVZVbzc5QW41ZG9fQi1GTzJkcTRxMC1CSnJxelcwX3B5T3UxZWxrQTFSTF9fanJwTmJUTlVpcnR2YjJwNVFjV3Eya3BMcjNqQ2FSeXA2c3Z0TmlWOGkzNnphWVhLLXo1UGFvU0c5T3Qxa1pCR1ZCT244ZjN6S0hYdThQN1AtVkIxbWR5dXhhclB0T0lwWi0yUl9LOEhiLXdvXzlhcGFlT2ZJZzA2eHc?oc=5"
+    },
+    {
+     "veiculo": "noveen.com.br",
+     "titulo": "Parlamentares voltam a cobrar investigação sobre laudo falso divulgado por Nikolas Ferreira",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzc1QXBlaHlZQkU4Yk9sT19LT3FIWTBUUFFzSmFtcS1fRHUwanlTYnk1MlJmMmZuMENvNVZfb3ZzMjZ1ZE9iTXA5b1ZTbnFnWDVpTFB0ZUhQOEoxWVlsbVVjZVJLNGE4UFpJUm5GSG9JdGZWd2xabEZVdGg3NE82SUZxLUFkemRHaC1SVGo3VnllNzRlRFhhVzgtSVhnOFlnVkxTWVlpcmpOVUF3eG40eFV2OFh1SGZ0am4yWXBnSXRzc0YyWTlDOHlmY3NpSzFidUtGQnZneTd6RHo4S2ltZjVB?oc=5"
+    }
+   ],
+   "score": 40.5
   },
   {
    "id": "5bc8254ae2",
@@ -113,12 +301,12 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Mercado+reduz+proje%C3%A7%C3%B5es+para+infla%C3%A7%C3%A3o+crescimento+econ%C3%B4mico+2026",
-   "veiculos": 51,
+   "veiculos": 47,
    "rotina": false,
    "outras": [
     {
      "veiculo": "Jornal O Sul",
-     "titulo": "Mercado financeiro reduz a previsão de inflação para 2026, mas vê a taxa baixa de juros e dólar mais altos em 2027",
+     "titulo": "Mercado financeiro reduz a previsão de inflação para 2026, mas vê a taxa básica de juros e dólar mais altos em 2027",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZFViMjVUNmRzZllkcVVvdFRWU2JPTFNsRFVVYjdPbXJNczQxQXBhLXduTnFGZnVwY3llVlFoWWtlZm9LYmxQTGROU2FhMDlBSngzMHBOVnEyQzltc2dfeFg1VnlnWjdCRGJMQS1pdmdDNUFiREY0LXRXcHk5TTA3VFZGaWZUeFY2RS1FYS1aQ3JZRkQzUHc3YUZwdW94REZwcWlleWlrbXA1c2pESjFyZ2o2Y0xEQnJEclB5MHNwNVloNTNvaHlwUndlakxFdEFtcFhlTNIB2gFBVV95cUxOVWFVeDVkNm1vRGg5TktMZHBDMUV3R21fcEgxSUtXejdvNVE4Q0RwTXhEQTlnWFUtVjByZnp0aDJZVWcybElBZzBXYWhRYk84RTZnN05tR2YxZ3RYMzgxUjdmaTVfRjZWYmRCLThTQnV4S1BnTXNHM2pIVEQ0QURweC02dmxlbWlGMGkxcEpwOUpFZDAxQlg5NHZIUDF1YUV6MkRIdTVSYnZ5T1dsNnFUczBBV1NpYnRraEFUYmpOM2Q5RjFlT3FabFRhaEFFZnNjWGxxZHNyN25JZw?oc=5"
     },
     {
@@ -137,7 +325,283 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFg0ODhzbDVwQzl4Q0U3TkxyVVlvWTRicG00Y1c4eVVmck9SMFNrQ09melJPZUxGZmtVUURyc09Vby1PSF9GYVpXMk1QN1F6bElENDVhZHBkVXpLa3V5QW9zTk0yZUJKMXdQOWQyUWw5QzhtcnIzbmtlZmlOQ09CUTE3RmQydzhTY3lCMl9LQzNreDhJZHpSMy1IRUV3dzdveG9WN1Y1VzNLazjSAasBQVVfeXFMTmhYNDg4c2w1cEM5eENFN05MclVZb1k0YnBtNGNXOHlVZnJPUjBTa0NPZnpST2VMRmZrVVFEcnNPVW8tT0hfRmFaVzJNUDdRemxJRDQ1YWRwZFV6S2t1eUFvc05NMmVCSjF3UDlkMlFsOUM4bXJyM25rZWZpTkNPQlExN0ZkMnc4U2N5QjJfS0Mza3g4SWR6UjMtSEVFd3c3b3hvVjdWNVczS2s4?oc=5"
     }
    ],
-   "score": 44.3
+   "score": 40.5
+  },
+  {
+   "id": "84e5bccdf5",
+   "titulo": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/morgan-stanley-rebaixa-recomendacao-para-bolsa-brasileira-e-preve-queda-de-7.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-17T10:17:49+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Morgan+Stanley+rebaixa+recomenda%C3%A7%C3%A3o+para+Bolsa+brasileira+prev%C3%AA+queda",
+   "veiculos": 20,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "ADVFN",
+     "titulo": "Mercado rebaixa ações brasileiras para venda e prevê Ibovespa a 160 mil pontos em 2027",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnhlRDdEY3gzYWR0eDRkdGlrNDlaNUhJMmEzcjZmZzhubklCcXEzM2JWcklXRm5zcGFXRks2RGVZaFltOC1yVXo5Q3hTcHMzTkREMGdOdThGVk1iWG1ybjQtaFVVRlF3S1cyNHNOS3laelVVcng5blljMVY3ZWE2eWwtUFNIRXVfVU5VLWpwLUQ1cDQ4c2RIbHpkdUE3UUlDVGJaU1V1SmVPYUhxejVVMVJNRmtDdFMyUm1QclBXMA?oc=5"
+    },
+    {
+     "veiculo": "Instagram",
+     "titulo": "O @morgan.stanley rebaixou a recomendação para a bolsa brasileira de neutra (equal-weight) para abaixo da média do mercado (underweight), projetando um Ibovespa a 160 mil pontos em 2027, o que representa uma queda de 7,2% em relação ao fecha",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aOEYxOWhtUndid2dERHJHMGRhdk85UXlyQVozMExqVFZ5aTFWLUdWbEhwTlJVRkFoNnZDNUNYcjhJS045LUQxY1dTRnZmZ2NnakE?oc=5"
+    },
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Ibovespa cai 1,83% com Morgan Stanley e Focus mais duro",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0oyWEo4MkREYTU2cUNIZDJTOUlvMnI4R2tnVHJCd01maVJnUTVzcE1mMElxbHJJYVRPNGt6dzJHZUtqaW1lbWFxOWVYaGRoMmR4U3BfMmwyYTNzOWZFTk5XeXIxZE9weEE1dTNSQm14emM0N3loaHZtYlk0aTNZMUt3LXF4dlZxbGxrMmgwclVJU01vbDlpMTZYYlJQZFc4Zmc?oc=5"
+    },
+    {
+     "veiculo": "tmc.com.br",
+     "titulo": "Ibovespa fecha em queda de 1,91% nesta segunda (16/11)",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFpBdENVSUsxY2VfcjdzY3VlTXUyeXF5MVJWa24tT2xsYm5KMDBUeEp3cmxlRkhBNTBIWFpwUnotaFF4TlZEZEduX2xONnlzMHdSRC1nNEttUGdsSHpNT3JMeUFoRTB6Y1VoUGRrelJaSDBZM1pma21QOTBHZ0ZoeWRwa3NxdVJFMHdwVF9Lbjc2b0YweGJLazBoSWdHcktYQTFZY1Vacm9SRkFXRkhNSUxNdTF5QQ?oc=5"
+    }
+   ],
+   "score": 39.2
+  },
+  {
+   "id": "1e73747a58",
+   "titulo": "Cautela prevalece em NY antes de resultado da Nvidia",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/17/cautela-prevalece-em-ny-antes-de-resultado-da-nvidia.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T11:41:40+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Cautela+prevalece+antes+resultado+Nvidia",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Manhã no mercado: Desconfiança com IA e política fiscal no Brasil impõem cautela antes do balanço da Nvidia",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/17/manha-no-mercado-desconfianca-com-ia-e-politica-fiscal-no-brasil-impoem-cautela-antes-do-balanco-da-nvidia.ghtml"
+    },
+    {
+     "veiculo": "Brasil 247",
+     "titulo": "Nvidia enfrenta cautela nos mercados globais antes de divulgação de balanço",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjJwRzdHZUNmeWdncHc3MXFudWx4ek9ETUxNRDFnVTZrTXVwU0ROOWNPNHZaLVhTQ2QzUVlUUzQ4TGVTVGVPY2dBWjlrUWhiWllaMzM3a1JvR1Y1M1BZbnhRdlQwcVFwYzhtZFd5OVFvYlZpb2N5VHBzNFVyNkE3VTMwaWVwZzVRTkdNLUhCTjZPQTQzUDFGSnU3RmZUdGlCVlQxdGR1bXNsakVHQXU5Sg?oc=5"
+    },
+    {
+     "veiculo": "XP Investimentos",
+     "titulo": "Mercados em queda; balanço da Nvidia concentra atenções",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmtLOUwwQ0JWX2l5SDVBOE9XcFVzRktVeS1jb0NrNDlQT2ZpQXBKV1JYQnV1MGRwUjZlWmQ5djVFZ1JkQnZHTWllaEhYUWp3T04waVQ3YWRsMWhPSWI0UTVZU080Y0VWNERmVHMtYXFQNmFIWUlVdHpkOE5ycFJ4SVhrbUctd0J6T2FNQW5PYXBlQmNnb2xZY1gyZmtDUQ?oc=5"
+    },
+    {
+     "veiculo": "XP Investimentos",
+     "titulo": "Mercados em queda; balanço da Nvidia concentra atenções",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmtLOUwwQ0JWX2l5SDVBOE9XcFVzRktVeS1jb0NrNDlQT2ZpQXBKV1JYQnV1MGRwUjZlWmQ5djVFZ1JkQnZHTWllaEhYUWp3T04waVQ3YWRsMWhPSWI0UTVZU080Y0VWNERmVHMtYXFQNmFIWUlVdHpkOE5ycFJ4SVhrbUctd0J6T2FNQW5PYXBlQmNnb2xZY1gyZmtDUQ?oc=5"
+    }
+   ],
+   "score": 38.8
+  },
+  {
+   "id": "a74877abf2",
+   "titulo": "Preocupação fiscal divide dia com crise da IA no mundo; Ibovespa em dólar cai nesta terça-feira (17)",
+   "url": "https://www.moneytimes.com.br/preocupacao-fiscal-divide-dia-com-crise-da-ia-no-mundo-ibovespa-em-dolar-cai-nesta-terca-feira-17-rens/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-17T11:39:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Preocupa%C3%A7%C3%A3o+fiscal+divide+dia+com+crise+mundo+Ibovespa+d%C3%B3lar",
+   "veiculos": 31,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Ibovespa e dólar hoje: pacote fiscal, BC e balanço da Nvidia no radar",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2o0T214d1BuUVptdlBqVjVpZTZLMW1Uc1o2ZmI4cnFYRDNfbTV3a2dXQ1hSbGtRWFZGbTBvODlYc3V4eE0xZ2dWLVhKZGhpUzl4OVEteTZPanJzUGxMTm9NTmFfZVg0RmpJOGZxVUJ6Vnh1NTVHTzhFTzlQM2N4X1RWeHBPQ21lSTNRSGlfQlJjWkVuMzA5Z05WSEVwQkwySmhNM2t3bWdlalBXVVBsQVRsMWRaYXZMOEQ2TmRrdEY?oc=5"
+    },
+    {
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Ibovespa e dólar hoje: pacote fiscal, BC e balanço da Nvidia no radar",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2o0T214d1BuUVptdlBqVjVpZTZLMW1Uc1o2ZmI4cnFYRDNfbTV3a2dXQ1hSbGtRWFZGbTBvODlYc3V4eE0xZ2dWLVhKZGhpUzl4OVEteTZPanJzUGxMTm9NTmFfZVg0RmpJOGZxVUJ6Vnh1NTVHTzhFTzlQM2N4X1RWeHBPQ21lSTNRSGlfQlJjWkVuMzA5Z05WSEVwQkwySmhNM2t3bWdlalBXVVBsQVRsMWRaYXZMOEQ2TmRrdEY?oc=5"
+    },
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Enquanto você olhava para lá: Ibovespa tenta recuperação em dia de votação de ajuste fiscal e balanço da Nvidia",
+     "url": "https://www.seudinheiro.com/2026/colunistas/enquanto-voce-olhava-para-la-ibovespa-tenta-recuperacao-votacao-ajuste-fiscal-balanco-nvidia-rsgp/"
+    },
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Enquanto você olhava para lá: Ibovespa tenta recuperação em dia de votação de ajuste fiscal e balanço da Nvidia",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVU5pS19UQ1g2VkpKVUN6V3RhOTktRVR0eTFnQ2dXUk92aDZkV3dab29jTUhSblc2NVZ6MnpDX3o1d2tUU1M5ZDJsSWVvUHF3TWJybmljRFZtbnJCX1FfaTFTOFBFU2lUWjF4Z0p2c1V3UjhrQm4zcjdRZzhkU1VZLXR5YjZBcWl5bVQ2NjA5SmZ6cUlQU2xEMTFRM3MxdmN0V3YydkhJN0hxa1I5YV9maHJSS19zaHFsNnU4Qk9rWWg0ZnhrVENmX3U5NzZXX1B6anF1R1VXa0xlUQ?oc=5"
+    }
+   ],
+   "score": 38.2,
+   "video_url": "https://www.youtube.com/watch?v=JfN4YeiWO2E",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 1000,
+   "video_acima_mediana": 3.8,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Dólar sobe a R$ 5,79 em meio a dúvidas sobre ajuste fiscal; Denise Campos de Toledo comenta",
+     "url": "https://www.youtube.com/watch?v=JfN4YeiWO2E",
+     "por_hora": 1000
+    }
+   ]
+  },
+  {
+   "id": "f3452f360f",
+   "titulo": "Petrobras (PETR4) recebe novas parcelas do programa de subvenção ao diesel; veja",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-recebe-novas-parcelas-do-programa-de-subvencao-ao-diesel-veja-lmrs/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-17T11:20:36+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+PETR4+recebe+novas+parcelas+programa+subven%C3%A7%C3%A3o+diesel+veja",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Petrobras (PETR4) recebe novas parcelas do programa de subvenção do diesel",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2xXMHl1bDQtYmJSQUFXUXJjb2c5MDdQNE4ydmNRQUt2TkpKcTludmlVbnpZbzBYakxKRE9hT3Zlc21hREYxQUdycU14VTItcWpCaWdzbk9hOFJUV1FHTHZJTU5FS09LYjkxc3FUN2R3WnR0WGZBMGc5S0NLQnBXcUVNOEQtSXdfSEZrYkJhZy1QY0dBN08tRHZjaURvb3kzSTRKQ3FPRnFCcGhwQ2h5ZdIBtgFBVV95cUxPY2t2VXRlRE9iWDctalc0dTQwNFhuZU1CbU5wVjMxaUpuOGgtZjJUS1JzbGFVbUNINDAtOTN1MEFkRkhIUGdENTZjVVgwcEZQMWVKdU8tX09sYjIyM25zLVMyYzREMVJ0UUNGVUZOSUF6TUdBZkNnZGlWSjg3Q09jcHBLel9MdGg4X2o5LTV3VFpyc1Q1dk5yREdXSEd4dGJXZVlBeDdfdVZycWpBOTdtSUxzdWEyZw?oc=5"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Petrobras recebe R$ 1,9 bilhão referente a nova parcela do programa federal de subvenção ao diesel",
+     "url": "https://valor.globo.com/empresas/noticia/2026/11/16/petrobras-recebe-r-19-bilho-referente-a-nova-parcela-do-programa-federal-de-subveno-ao-diesel.ghtml"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "Petrobras (PETR4) recebe R$ 1,9 bi de subvenção do diesel",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2dwT0Q3elk5MXphOFlwa2ZNcDlZd041d1NKQXk0UnhhSHctQVNnOXNxU3RTbEhvTHBOR1BoMWhGLUVqTnVFaFoyNm1Ddl9IVllBSWpmTnZhVWk1ckJrN09tX0RzOTdFSjY0dFdjTEFUM0RKSnctUVA3RVJwS1FEbWF1MTV3T1FfWEpfc3M0VmxTTWVRQkE?oc=5"
+    },
+    {
+     "veiculo": "Guia do Investidor",
+     "titulo": "Petrobras (PETR4) ganha vantagem com fim de subsídio ao diesel importado; veja impacto nas distribuidoras",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFlsbGR4a2FlbnI4eVFYbWRqQkVjN3M0Z2Zpc2lMbHJtVlZ1QUNKc3BnRHpzWlRMVkhaN2xXQU9qM0dRRklTVUxfTzVVX0ZnbE5CeXVwYm9xRFd0RHF4RXctZkszVlBqQlJ5dVRVbmpyb29MblV6TWRKZkI3THB1cHZobVNGVnY5TkVkZTRGOWNSakptQWNzNmJUczRBUjBBMXNSM1l4THNKLUlXLVpoWFBxWXNjVEZZODVpQkdaejRDckhrQmoxcGljVHpuZnpZR0FoWVJjb3NCSkk?oc=5"
+    }
+   ],
+   "score": 36.7
+  },
+  {
+   "id": "3f3efc3ee7",
+   "titulo": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
+   "url": "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-17T11:49:51+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Podcast+explica+plano+Moretti+pacote+ajuste+fiscal+para+governo",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Ajuste fiscal do governo Lula: Senado discute e vota destaques do projeto para reduzir gastos",
+     "url": "https://www.youtube.com/watch?v=IOcr-fii7KQ"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "Governo discute fim da escala 6 por 1 e pacote de ajuste fiscal | #NewsNoite",
+     "url": "https://www.youtube.com/watch?v=sICxd320si0"
+    }
+   ],
+   "score": 35.2,
+   "video_url": "https://www.youtube.com/watch?v=sICxd320si0",
+   "video_canal": "SBT News",
+   "video_por_hora": 767,
+   "video_acima_mediana": 4.1,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Governo discute fim da escala 6 por 1 e pacote de ajuste fiscal | #NewsNoite",
+     "url": "https://www.youtube.com/watch?v=sICxd320si0",
+     "por_hora": 767
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Ajuste fiscal do governo Lula: Senado discute e vota destaques do projeto para reduzir gastos",
+     "url": "https://www.youtube.com/watch?v=IOcr-fii7KQ",
+     "por_hora": 0
+    }
+   ]
+  },
+  {
+   "id": "68672e7c9f",
+   "titulo": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-577-e-fecha-no-maior-valor-desde-abril-de-2025",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-17T12:02:44+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+para+5%2C77+fecha+maior+valor+desde+abril",
+   "veiculos": 26,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "GZH",
+     "titulo": "Dólar hoje: siga ao vivo o valor da cotação",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmlHUTAyZzdMVXU3S3NNVG45SEFDTTB1NVBGQXZ5TXNhcXdfa002WFFqa0pDYVBOenVtNGE5NzF2b0hlY05IYUx0WEFJTThmWUpzdEZlRE1SbEdfVHhCR0tPdVA2a0tyYWpXVXJfQkthdlBnRkp3YjB3aU10NUEyWXFLY2ZSdWdOS2lYSjZTVUs3UUdQYXdxNWJGbU1oSHBBQ3Jwam9yX1NSSmUxbVllTmVyYmV2UHZwWkc0TmJCZnloOVhZclE?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONldBemI5aVFPLW5nRE50TzJoMVZQYlU3Tmh5Sm9ZV05Iajh0UWI0MXgxWUdBNWU3TlFjSDNtMW1lM2lNc2xNX3NSaXJCeVFaV2toQ3lpVEJxT3VTRjlielo5bkdUclFEZ3VKSHR4OEhISjhVdkV3RW16ZnJGdWZFVHdadkVEaTY5YU5POEtYMA?oc=5"
+    },
+    {
+     "veiculo": "UOL",
+     "titulo": "Cotação do dólar hoje: moeda dispara e atinge maior nível desde abril de 2025",
+     "url": "https://www.youtube.com/watch?v=Bh0t_mpEfJk"
+    },
+    {
+     "veiculo": "Agência Brasil",
+     "titulo": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHBzSUxzdzk2TXVUYkNmcWpXUW1xQnB0bnBsZzhnUDNZQWVQbmJXVkFSbHFTUkxWODNVLUpleUMtdUhuak5oOXUwM0xTcXpUSkhCRXAxbzhHb1h6U1FnZUlRMGtwZ09PbkxyTDN0LUNEcmFsemQ4bU9OQW9KcGdROWpENk9WSE14SVl5a0FmSDRYQk1JQUNJRXZaZ0o3MnhJMG1sYXo2QlR3VHlEbnJITEw4ajZjT2FWZEhHVnY1VQ?oc=5"
+    }
+   ],
+   "score": 35.1,
+   "video_url": "https://www.youtube.com/watch?v=A2fZ0g8fdNY",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 314,
+   "video_acima_mediana": 2.2,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Dólar vai a R$ 5,77, maior valor desde abril de 2025 | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=A2fZ0g8fdNY",
+     "por_hora": 314
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Cotação do dólar hoje: moeda dispara e atinge maior nível desde abril de 2025",
+     "url": "https://www.youtube.com/watch?v=Bh0t_mpEfJk",
+     "por_hora": 134
+    }
+   ]
   },
   {
    "id": "8e5f228e67",
@@ -152,7 +616,7 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Economistas+reduzem+previs%C3%A3o+infla%C3%A7%C3%A3o+PIB+neste+ano+elevam+Selic",
-   "veiculos": 16,
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
@@ -161,14 +625,14 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10WVlxLURReHlYZWVtWHktZnRWT25qUU1xdnE5SXZ5Sjg3LWZpeFBmRFM2UXY5RjgyWExLbTNyYVJMVnRKRDlTUTlWNTVhRXBFaThKaDQxNnFqbVBCTTZHRTZEVklYUThfOWN6emdOeXB5M2ZfS1E?oc=5"
     },
     {
-     "veiculo": "SpaceMoney",
-     "titulo": "Focus eleva Selic de 2027 e IPCA do próximo ano",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nUkFOb3NDbG10cS1XQnBnU0hmdDdvaHoydDBJOU9OOVI5Z0xQU3d5a3N6bXpFa01XcW9NRkFVMmtva2h0THl5UW9BdXNMOVg1NTNETHJIVy1LZFNpWkUzaWlEMElRZHgyd0ZEUEJn?oc=5"
-    },
-    {
      "veiculo": "O GLOBO",
      "titulo": "Focus: mercado eleva projeções de inflação para 5% e de Selic para 12,75% em 2027",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbFR5QVZVc2V5SjJTSEJJT0JmTTQyYnFqdkhHMk85YU8wTGNQQ2UydmhycmlwMTBkSGVKS3RDZm96MHd3M0NOUVV4VlF2SVBzNnU3VDhLRktpeFZjRFVKdWE2OG5DWFFVdFF1M08yUWFhaWdmQlRzalc5MlZLVlo0RTB2NGtzZmhPWUxVN1A5NW1leWtWU1dVeldtVW1QUUFFQVdRWjZ4ZDJ3N2V4MDBrN05BQ2hzTjgxQVpnSFRtbHppV1dyem5TZHFaR0hmNF8tTkVndFRkSE5PX3NPR3lFcWg1R2jSAfMBQVVfeXFMUG9DOGR3MURDaVd4elVMM0J2U09SZHNZRDk1LVNMb0VudjRwQXJJejlQN05fTk1GZ21RRXJ1TDhkY3M0M1hodW8yZk5POFZZcERmN29ZOXBfY2JTOWQ5eXdtdWpyRWdQcEdoTG9VRTh4TXBjeE5XVEFrTGg5RFZJSWpkRm9tLXc4Sno0MHZiczhmMjNPMklvWGdmSlZsZnc4em11NFR5R2p4aVhJVzRQMDF5SUhnSElrTDRTNVZ6WjlFT3RHQWd3LTVETVRFeXJ4TlNRc2RBTTV4MjJGWXBLSlR3ZEdJdDhUMUdXeTBiMngwanBB?oc=5"
+    },
+    {
+     "veiculo": "A Gazeta",
+     "titulo": "Economistas reduzem previsão da inflação e do PIB neste ano e elevam a da Selic para 2027",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHNMUVZsaXZJOUFHMm5OZFp0V1ZlRnEzNUhxcDYtZGozcHNXOUcyV0ZqV2xRV1F0bVJDR0k0SjhKZFZ5RHlKbGFEckhGYzlPOVZfQ1o0Z1l0OF83TkZsQ1lvU2NHQXRJeDQxY2VISzYyRlZVVjN0czZIZ3hFWDZZY2lQME9HREY1WkFfWDI3Wm9JVXFiUklCSVUzQ3lDV3lsVlFVRzJnZmtwTDY4cW0zdW9naHBCdlRXZXR6RlZxai0?oc=5"
     },
     {
      "veiculo": "melhorinvestimento.net",
@@ -176,14 +640,86 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY1o4WnhxNm9LRnR2S1h2WEN4cERqUDJRWmpjZm9HLUZWd1E4RmZfZ1oxTkxQMlYyZlFoWHB5Tl9nUzhvM3JIWllWR3dCWGs4bDRLR0xjb1djWlRCRG9JN1dYY2wxS3ZZWklSRUF5REZMWlpIZzNqeHZHNW9WSVo1UThB?oc=5"
     }
    ],
-   "score": 41.8
+   "score": 35.0
   },
   {
-   "id": "0bceb1dbc0",
-   "titulo": "'N�o h� raz�o para o mercado ter essas oscila��es', diz Alckmin",
-   "url": "https://economia.uol.com.br/noticias/redacao/2026/11/16/alckmin-sobre-projeto-ajuste-fiscal.htm",
-   "veiculo": "UOL Economia",
-   "publicado": "2026-11-17T02:34:08+00:00",
+   "id": "62b1791e2c",
+   "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
+   "url": "https://www.infomoney.com.br/politica/lara-resende-volta-a-defender-corte-da-selic-e-critica-galipolo-por-juros-elevados/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-17T11:56:06+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lara+Resende+volta+defender+corte+Selic+critica+Gal%C3%ADpolo+por",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0tKNTZRc2NBb05vN3JOUEZCRURuMDJaNHdlTmswaHI4ekdSTUliWk1xUnF4REdremVRNGlScmh3SlBPN3BTLXpZdXNTWkVaWGxfNExfWVducHd6NDhnRGExdjZqT18xcktmLUhsZlJ3a3BiX0ZkcWJWRGZCNnJsNTlBZDVDWlhESWJ6UHlwSlNsdURrV3F1M1NjMXo3Y2s1NEY0Q1B0d1JiZllIbFRKVC1OYTJHRmpVbm1qR1lR0gHDAUFVX3lxTE5OeTllazBBS1E1bXV0Z290cEtkN3NoSXpJeFluOVNpS3Exc0k5akNqMjlmZ1NUbzNPOGxrSlpKdGpsejFqSVE1SF9jMEdndHhCVm4zeWVmZ0xXS3hzOGtNMWVzaktsX1NpanIyazlNMF9zUm9pMFE4UV9aLVRwbFNoYkxyREFST2l2Rmo0ZmJDcW1aN0pWNnVRTlpoTFR5T0dqVTg2VzMyQ0RYbm5OYmFfa25ING42ODRyZkFXQ25OQVpYdw?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0tKNTZRc2NBb05vN3JOUEZCRURuMDJaNHdlTmswaHI4ekdSTUliWk1xUnF4REdremVRNGlScmh3SlBPN3BTLXpZdXNTWkVaWGxfNExfWVducHd6NDhnRGExdjZqT18xcktmLUhsZlJ3a3BiX0ZkcWJWRGZCNnJsNTlBZDVDWlhESWJ6UHlwSlNsdURrV3F1M1NjMXo3Y2s1NEY0Q1B0d1JiZllIbFRKVC1OYTJHRmpVbm1qR1lR0gHDAUFVX3lxTE5OeTllazBBS1E1bXV0Z290cEtkN3NoSXpJeFluOVNpS3Exc0k5akNqMjlmZ1NUbzNPOGxrSlpKdGpsejFqSVE1SF9jMEdndHhCVm4zeWVmZ0xXS3hzOGtNMWVzaktsX1NpanIyazlNMF9zUm9pMFE4UV9aLVRwbFNoYkxyREFST2l2Rmo0ZmJDcW1aN0pWNnVRTlpoTFR5T0dqVTg2VzMyQ0RYbm5OYmFfa25ING42ODRyZkFXQ25OQVpYdw?oc=5"
+    }
+   ],
+   "score": 34.9
+  },
+  {
+   "id": "c11fdf39ba",
+   "titulo": "Edição da Manhã: Senadores devem concluir votação do projeto de ajuste fiscal nesta terça",
+   "url": "https://www.youtube.com/watch?v=m_mbQQjf0rw",
+   "veiculo": "TV Senado",
+   "publicado": "2026-11-17T09:19:25+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Edi%C3%A7%C3%A3o+Manh%C3%A3+Senadores+devem+concluir+vota%C3%A7%C3%A3o+projeto+ajuste+fiscal",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Nvidia e ajuste fiscal ditam o rumo dos mercados nesta terça",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3BoV005VFB6UnJ6RVBabW5Qd2VOMl9ab1I5Z0NwT013QXpCQkFhZ2I1cUtLaUlWS25vdkhzaFhfWmtla2FhZDZxTjhaNTJrM0VDbFhmOVlNSXllMk5kWHVQYUhXMVpkMHlwTWJhRVVXbEZXYkNYSHVGbjRKSnBXeUVVNDFmem16TUwzVGhMNzFtZTRFNGctUg?oc=5"
+    },
+    {
+     "veiculo": "Brasil de Fato",
+     "titulo": "Ato contra juros altos e ajuste fiscal será realizado nesta terça (17) em Brasília",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXNQU1RDM2xOVm9qWXdNYzgzNkUwcHhQbU5UazVyZmt4RDh1R0Q0bDZWVGpnZ1V0VVdzY3hGNldxbnVNSnhPUWI2YnJ2NE9rcHFTTHFQSElOZWpJYmlOazJjdkdjM3JrS3dDZlhhdGtlOHVKZkVpYkQzZ2l3azdaSHBkUm5iYlh0ZlRodUVxWXhEV25rcDNiY2NGNWljNU5reklJYUNScFRXdzFGUXdQRGRDemc1NWJwVHNVMnZyeEFQdw?oc=5"
+    }
+   ],
+   "score": 33.8,
+   "video_url": "https://www.youtube.com/watch?v=m_mbQQjf0rw",
+   "video_canal": "TV Senado",
+   "video_por_hora": 6,
+   "video_acima_mediana": 6.0,
+   "videos": [
+    {
+     "canal": "TV Senado",
+     "titulo": "Edição da Manhã: Senadores devem concluir votação do projeto de ajuste fiscal nesta terça",
+     "url": "https://www.youtube.com/watch?v=m_mbQQjf0rw",
+     "por_hora": 6
+    }
+   ]
+  },
+  {
+   "id": "fe1d5c8c25",
+   "titulo": "Tarcísio critica 'plano Moretti' e defende possibilidade de adiar reforma tributária",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-defende-possibilidade-de-adiar-reforma-tributaria.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-17T10:08:17.819559+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -191,171 +727,36 @@
    ],
    "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=raz+para+mercado+ter+essas+oscila+diz+Alckmin",
-   "veiculos": 12,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "REAÇÃO DO MERCADO DIFICULTARÁ APROVAÇÃO DE AJUSTE FISCAL DE LULA? | O GRANDE DEBATE",
-     "url": "https://www.youtube.com/watch?v=qC5aznaTHbI"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Reação do mercado dificultará aprovação de ajuste fiscal de Lula? | O GRANDE DEBATE",
-     "url": "https://www.youtube.com/watch?v=yo9kjgryoTs"
-    },
-    {
-     "veiculo": "VEJA",
-     "titulo": "A resposta de Alckmin para reação do mercado ao pacote de ajuste fiscal do governo Lula",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnZ4c21CVjFSc1VHdmhVYUJpYXFMa1RPNTEyeVdUZ1FsbHZqbE1tU0dSMEFoS0E1RUk1WEZPZlJZTU1aMnlYV0taNHpZVnVEQXQtU010ekpZLURGZ0hCcjF6Qlkwa0FoTHVWdmFOUlpxUDF2aktMdE1lYTRVMnZweTdpVjA3V2sxU2IyaDUzbWwyeEFFNk9tbW80NG80eU0wcmdNNnNSR2U5STdKOEMyVXI3TEQ3b2JoR3VtRE5NRlk?oc=5"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Alckmin diz não haver motivo para oscilações do mercado após ajuste fiscal",
-     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/alckmin-diz-nao-haver-motivo-para-oscilacoes-do-mercado-apos-ajuste-fiscal/"
-    }
-   ],
-   "score": 39.9,
-   "video_url": "https://www.youtube.com/watch?v=qC5aznaTHbI",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 5235,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "REAÇÃO DO MERCADO DIFICULTARÁ APROVAÇÃO DE AJUSTE FISCAL DE LULA? | O GRANDE DEBATE",
-     "url": "https://www.youtube.com/watch?v=qC5aznaTHbI",
-     "por_hora": 5235
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Pacote de ajuste fiscal enfrenta reação do mercado e da base aliada | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=5sWXitohB7I",
-     "por_hora": 3518
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Reação do mercado dificultará aprovação de ajuste fiscal de Lula? | O GRANDE DEBATE",
-     "url": "https://www.youtube.com/watch?v=yo9kjgryoTs",
-     "por_hora": 584
-    },
-    {
-     "canal": "MyNews",
-     "titulo": "POR QUE A ESQUERDA ESTÁ REVOLTADA COM O PACOTE FISCAL DE LULA?",
-     "url": "https://www.youtube.com/watch?v=rZSU2_JvxHk",
-     "por_hora": 322
-    }
-   ]
-  },
-  {
-   "id": "5eca0be95a",
-   "titulo": "STF pode julgar fim da 6x1 ainda nesta semana",
-   "url": "https://valor.globo.com/legislacao/noticia/2026/11/16/stf-pode-julgar-fim-da-6x1-ainda-nesta-semana.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T23:28:14+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=STF+pode+julgar+fim+6x1+ainda+nesta+semana",
-   "veiculos": 5,
+   "busca_video": "https://www.youtube.com/results?search_query=Tarc%C3%ADsio+critica+plano+Moretti+defende+possibilidade+adiar+reforma+tribut%C3%A1ria",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Fim da escala 6x1 pode \"furar fila\" de julgamentos no plenário do STF | HORA H",
-     "url": "https://www.youtube.com/watch?v=CeFTCVckDyA"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Fim da escala 6×1 deve “furar fila” de julgamentos no plenário do STF",
-     "url": "https://www.cnnbrasil.com.br/politica/fim-da-escala-6x1-deve-furar-fila-de-julgamentos-no-plenario-do-stf/"
-    },
-    {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Por que o fim da escala 6x1, já aprovado em lei, trava no STF",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2d6ZEdsMEhndTAtbVQyY25xd3pDcHdRM3l3QjA5TlRtRFU5N3VscmEwM3RBRTBmQnVaQ09qUGxDZGhyeFhUcHdaVGk1ZTljVU5nc2hrTm1QNUZxRzdOaFlXNVJTMjNhd0tVbk1nZ1F0ZFhFUW9iUktyWk1DZjMzWG9pZjlNaUNxZm5va1ZGRnpxR25nZEFTUTdmTWd0NWFwZ2F4Tnd1MnBkZXM?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Fim da escala 6×1 já é lei, mas disputa no STF pode mudar transição | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=qorWDhbDvMI"
+     "veiculo": "Jovem Pan News",
+     "titulo": "Tarcísio defende adiamento do início da transição da reforma tributária",
+     "url": "https://www.youtube.com/watch?v=8WaPjmqTgUA"
     }
    ],
-   "score": 39.6,
-   "video_url": "https://www.youtube.com/watch?v=qorWDhbDvMI",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 7851,
-   "video_acima_mediana": 27.5,
+   "score": 33.3,
+   "video_url": "https://www.youtube.com/watch?v=8WaPjmqTgUA",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 389,
+   "video_acima_mediana": 1.5,
    "videos": [
     {
-     "canal": "InfoMoney",
-     "titulo": "Fim da escala 6×1 já é lei, mas disputa no STF pode mudar transição | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=qorWDhbDvMI",
-     "por_hora": 7851
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Fim da escala 6x1 pode \"furar fila\" de julgamentos no plenário do STF | HORA H",
-     "url": "https://www.youtube.com/watch?v=CeFTCVckDyA",
-     "por_hora": 2350
+     "canal": "Jovem Pan News",
+     "titulo": "Tarcísio defende adiamento do início da transição da reforma tributária",
+     "url": "https://www.youtube.com/watch?v=8WaPjmqTgUA",
+     "por_hora": 389
     }
    ]
   },
   {
-   "id": "bd9c5789fd",
-   "titulo": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
-   "url": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-17T02:14:44+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Marinho+Tereza+Cristina+criticam+Moraes+por+negar+visitas+Bolsonaro",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Marinho e Tereza criticam Moraes por negar visita a Bolsonaro: “Arbitrário”",
-     "url": "https://www.cnnbrasil.com.br/politica/marinho-e-tereza-criticam-moraes-por-negar-visita-a-bolsonaro-arbitrario/"
-    },
-    {
-     "veiculo": "SBT News",
-     "titulo": "Moraes nega visita de Marinho, Tereza Cristina e Valdemar a Jair Bolsonaro | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=BIVWpZb0NCI"
-    },
-    {
-     "veiculo": "Agora RN",
-     "titulo": "Moraes nega visita de Rogério Marinho e Tereza Cristina a Bolsonaro e cita fim político-partidário",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFhQalhrTlpQQkNLaG55WWEwci11UmNEemhKSk5oTmJESmhxZmIxT2hIdEx3ZjFoc3RzQjQ3QjBvT1lCQTladlBFSURZckd0YmwyMEJJX0lQbTcxbTU2SnEwVmh1SjRDdGtLTmFpOW1rQkFtUG5UQllMMmdJM3pUXzhn?oc=5"
-    }
-   ],
-   "score": 37.7,
-   "video_url": "https://www.youtube.com/watch?v=BIVWpZb0NCI",
-   "video_canal": "SBT News",
-   "video_por_hora": 2633,
-   "video_acima_mediana": 4.2,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Moraes nega visita de Marinho, Tereza Cristina e Valdemar a Jair Bolsonaro | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=BIVWpZb0NCI",
-     "por_hora": 2633
-    }
-   ]
-  },
-  {
-   "id": "68672e7c9f",
-   "titulo": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-577-e-fecha-no-maior-valor-desde-abril-de-2025",
-   "veiculo": "Agência Brasil",
-   "publicado": "2026-11-17T01:01:00+00:00",
+   "id": "826084a79c",
+   "titulo": "POR QUE A ESQUERDA ESTÁ REVOLTADA COM O PACOTE FISCAL DE LULA?",
+   "url": "https://www.youtube.com/watch?v=rZSU2_JvxHk",
+   "veiculo": "MyNews",
+   "publicado": "2026-11-17T10:22:00+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -363,14 +764,237 @@
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+para+5%2C77+fecha+maior+valor+desde+abril",
-   "veiculos": 12,
+   "busca_video": "https://www.youtube.com/results?search_query=POR+QUE+ESQUERDA+EST%C3%81+REVOLTADA+COM+PACOTE+FISCAL+LULA",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "VEJA",
+     "titulo": "Como o governo Lula reagiu à insatisfação do mercado com o pacote fiscal",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3plZEtUaFUzNUNSa1ZYTURhOWI5Sm9IQ2R1WFZyZlVfbWVoRDlDcVAzX3hfZ2wtaGszVlpyaUVJdnZxcG44ZFYyeHM5bV9hRXhiNEdfamRGbHhJN2hJeDR5Wi04WWNybjdUbGo5X0VHekNBQVkyN0tZTGdTTVN6QzdTc0lkRWF1MU5zakJMdnNDaEFXQ20taXJDNFhVTzkwM0FzbS12by1EeTFY?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Mercado financeiro avalia os primeiros sinais do pacote fiscal em discussão no governo",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaXdDaVd6YTZtc2N3aGdZaWFpc29lOTB1ZDZNS2pnNmhUNFBmeV9VYXpza3hQa1B5UDRUVkZKSkpZMWcxVjYtMzMyc1FNNHJYLW5ER0VreTNPbkVjajgyMUVRRWZEMU1PVzF3aFkydmc4ZkpBUlF3ODVsS1BjcklYVWxYN3pNQXZkYy11bUZZQktpSHhkXzlGbnRMdjJUSFlYa05wYXJCZ1RzdFJXRWxKU3YwYkNNWGw2M3RUbkMxMHI4UHJvdDFibFBXSjg5SG1yTmNyMk50M3N0R3B3LXFOVUdPRTRhNmZf?oc=5"
+    },
+    {
+     "veiculo": "Safra",
+     "titulo": "O mercado financeiro chantageia o governo?",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xNWYzWlZhTGxvN0QyeTFUeXZzekVYQzhqUGdjdEg2d2VFanhibVdxdmIwY0JwWFR6T2pvOXBqaWRHeGg3MXBqb0daSmZZZG95OUttRjFNNFVDWFhXQ3lkV1N0amZuZ1JFWmpPU2pHWUNhdndzcUxPMEY3OA?oc=5"
+    },
+    {
+     "veiculo": "RedeTV!",
+     "titulo": "Lula retorna da Ásia com pacote fiscal, novo ministério e crise na PF na pauta",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUhoSFpuWE9yeXpPNG5QZ1FKYlZFb1Y1MkNWeW9ZOHhocGplVENyVFZEUXBUS0VGVVBQSTg2ZW00RXVXUFlBR0paTl96NFp2eGdISm9vMEROdFc4eGlEUjdLVk1TWk16TGN2aG9FNmkxeXI5enNLS1U4M1RlYnhfb2pkSGVqTmY0cFdmX3NfQ09OSUVKYzVST2FNd2pNZHJ5VGkwekR1cHJWdGxhNm9XeWZMY2ZiY3B1NVd6QUVBa9IB1wFBVV95cUxQVXMwZ3h1TExNeDZLSEs5dHFQNGZZQTlTRTQwUmlXU2lheWRUOHdtWTJPTzBpa01TMkRqS1o4TV9vRE9SQnlrZXplZktyRmdXS01kRGxiYmI5ZXVTdEtnS180clU4LWRTQkpqNnlhTHNoUU5vd0tWcEs2dU1Gd2k5V3NBbFZZaDRQSjZCZzNwUUJnbGFNQXJnWVRwekxoeWxocFFOLThiclIyd3lncFdoZGo1WUQ0aGN5ZGJILW02VmpmNGZRUHJVenFMemlyVmZBbzRNLUQ2VQ?oc=5"
+    }
+   ],
+   "score": 31.4,
+   "video_url": "https://www.youtube.com/watch?v=rZSU2_JvxHk",
+   "video_canal": "MyNews",
+   "video_por_hora": 249,
+   "video_acima_mediana": 2.4,
+   "videos": [
+    {
+     "canal": "MyNews",
+     "titulo": "POR QUE A ESQUERDA ESTÁ REVOLTADA COM O PACOTE FISCAL DE LULA?",
+     "url": "https://www.youtube.com/watch?v=rZSU2_JvxHk",
+     "por_hora": 249
+    }
+   ]
+  },
+  {
+   "id": "7e31465585",
+   "titulo": "Ajuste fiscal: por que aliados de Lula criticam proposta? | #NewsPrimeiraEdição",
+   "url": "https://www.youtube.com/watch?v=XRc6sINqp5s",
+   "veiculo": "SBT News",
+   "publicado": "2026-11-17T11:36:10+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+por+que+aliados+Lula+criticam+proposta+NewsPrimeiraEdi%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 31.0,
+   "video_url": "https://www.youtube.com/watch?v=XRc6sINqp5s",
+   "video_canal": "SBT News",
+   "video_por_hora": 678,
+   "video_acima_mediana": 3.6,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Ajuste fiscal: por que aliados de Lula criticam proposta? | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=XRc6sINqp5s",
+     "por_hora": 678
+    }
+   ]
+  },
+  {
+   "id": "f58cf3bfff",
+   "titulo": "Petrobras enfrentou crise financeira, dívida acima de US$ 140 bilhões e a Lava Jato | Furlacast",
+   "url": "https://www.youtube.com/watch?v=bxLS-UJpMSo",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-17T10:00:03+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+enfrentou+crise+financeira%2C+d%C3%ADvida+acima+US%24+140+bilh%C3%B5es",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 30.1,
+   "video_url": "https://www.youtube.com/watch?v=bxLS-UJpMSo",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 3,
+   "video_acima_mediana": 0.0,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Petrobras enfrentou crise financeira, dívida acima de US$ 140 bilhões e a Lava Jato | Furlacast",
+     "url": "https://www.youtube.com/watch?v=bxLS-UJpMSo",
+     "por_hora": 3
+    }
+   ]
+  },
+  {
+   "id": "711dd5914e",
+   "titulo": "Tesouro Direto hoje: disparada do dólar e preocupação fiscal pesam nas taxas; prefixado supera 15%",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd2FxT3hFVndubmlHNHl4U3ZSS2dOMEhYUW93V3RmTEM5VGRFeE1QRWNnS0RuM1p3Y1N6WGdfeEplVWZDMkd0OHYzd0tpM3ZMOTRKX194SElNelJ6RjlEc01mc0VJVktfcmxEUGNPN2ppM3FteWpIWGtoclFYNEZhWmZNaW5wcGxyUVI4RmVya0FuS04yZUlBUzhka1RxeXk3S01yRGdobWNTUVl1ODRUcWV4cGhkS3Mtb0JFS29yWFFkUjhENi1xWTZuLXlmNzliQTE2RTRydy1PY09wbWFjMVFHemtMdlBqQmJRVnBfX3ZKUEJE?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-17T11:43:43+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Tesouro+Direto+hoje+disparada+d%C3%B3lar+preocupa%C3%A7%C3%A3o+fiscal+pesam+nas",
+   "veiculos": 7,
    "rotina": true,
    "outras": [
     {
-     "veiculo": "Revista Oeste",
-     "titulo": "Dólar dispara e fecha a R$ 5,77, maior cotação em 19 meses",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXVpekdWdUhSOVk2ZVdPYzhQcWQxZ21HeENRb2JTNG9KZWZuSVF3cHYzb0h4aVIyRjk1eXBUcmZxRUd6OUNJOXJ4V1ZtcGlxbmt0c3Qxb3pSS0dpUWctTTlMZ0doRmthb2tuNFV1Y2xGYWlPeW9EeVJpMnFEdDRGczBZM20zNXFJZUVNcmI5X1Nvd2Uz?oc=5"
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Alckmin minimiza alta do dólar e defende ajuste fiscal no Congresso",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmxLbTVKaVoyOENUSW9rTUhwVkpib19HbV9QUVNtYlJVMmJGbWpoblNPLURldmhtR2F6YmdISW1JNU01ZVNxaXRieGhMU1dKLTR4ZHBZWGthOU1JdHJDWnZnYl9adjl3MW1VMDFsMWxhSU9tN3NHajhtM3c1UXNiTXgwbGVKeFFZQVJIdG1hSjB1cDJWUUM2c29vTTF1aWJ3TFd6TTlfaVdXX0NPWTJrdQ?oc=5"
+    },
+    {
+     "veiculo": "O GLOBO",
+     "titulo": "Alckmin diz que não há razão para alta do dólar; moeda americana foi a R$ 5,77 com incerteza sobre ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUlhURnBpYVFKNWxQYlo2UWNwZDJDQTlSQ2FtOXdqcHNSb1ZLOW9KM3VRWGRLUXlRajAtSXU5RDlwR3kxLWItTUFESVZsZHdwVUJDYnY2b3gyVDdsdWt2VFFERFRSMTRqMHowNDNaRktuRk1VejRrRWxSVXZxeHRVYVpuM0djUjZVRWhtMU1BY2V6bkhVN1A4WGpMWmVBZUtFWHRScFVDeVZnMWFHeTlYeXlNSE9iMllEZjBVZjJXbkxpSnZDMnpRQXZOd190WTNPYzF2LVhkUmVnYWMyU0NEZjhXZy1SOGZEMTFtN3Zmc3Zubk9xbjgySU1ocDVNSGxpZzZiWkNWZVrSAZcCQVVfeXFMT1FJeGQzTEdYcnFQcGcxZ0E0aXV4NFJzU0ljZmljOVBBUU9wZFBYY2hyZ3RDWlpLc1Yzb1NMSGFoV1BvTkFXSnFGTkdyVnlmMFBIck9aU1Zpbk9CTjlBaGVCZ0RFWEpsNDM0U0ppaVVrTWJmZ1ZIQVlSVTFOTGl0RmE2YlFYUGtEeHF5X1VQRjlZcmlQb2psWnlxMjluOG9DY1VNLXlpWDV5X0VQd1EwMkc0LWh2N25xNktCUkpYVnhWQmFVWGVFNGk5WFdWdEZzSnhaOG5zTExxY0Y1YUFNbjByeVM3RXMzR1ZpNWpOOGZpZVpLZF9WSkZDSk5hbFB2N1dFUzktX0ZyNFZoOTkxa2dBd0R5RF9F?oc=5"
+    },
+    {
+     "veiculo": "O GLOBO",
+     "titulo": "Alckmin diz que não há razão para alta do dólar; moeda americana foi a R$ 5,77 com incerteza sobre ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUUl4ZDNMR1hycVBwZzFnQTRpdXg0UnNTSWNmaWM5UEFRT3BkUFhjaHJndENaWktzVjNvU0xIYWhXUG9OQVdKcUZOR3JWeWYwUEhyT1pTVmluT0JOOUFoZUJnREVYSmw0MzRTSmlpVWtNYmZnVkhBWVJVMU5MaXRGYTZiUVhQa0R4cXlfVVBGOVlyaVBvamxaeXEyOW44b0NjVU0teWlYNXlfRVB3UTAyRzQtaHY3bnE2S0JSSlhWeFZCYVVYZUU0aTlYV1Z0RnNKeFo4bnNMTHFjRjVhQU1uMHJ5UzdFczNHVmk1ak44ZmllWktkX1ZKRkNKTmFsUHY3V0VTOS1fRnI0Vmg5OTFrZ0F3RHlEX0XSAZcCQVVfeXFMT1FJeGQzTEdYcnFQcGcxZ0E0aXV4NFJzU0ljZmljOVBBUU9wZFBYY2hyZ3RDWlpLc1Yzb1NMSGFoV1BvTkFXSnFGTkdyVnlmMFBIck9aU1Zpbk9CTjlBaGVCZ0RFWEpsNDM0U0ppaVVrTWJmZ1ZIQVlSVTFOTGl0RmE2YlFYUGtEeHF5X1VQRjlZcmlQb2psWnlxMjluOG9DY1VNLXlpWDV5X0VQd1EwMkc0LWh2N25xNktCUkpYVnhWQmFVWGVFNGk5WFdWdEZzSnhaOG5zTExxY0Y1YUFNbjByeVM3RXMzR1ZpNWpOOGZpZVpLZF9WSkZDSk5hbFB2N1dFUzktX0ZyNFZoOTkxa2dBd0R5RF9F?oc=5"
+    },
+    {
+     "veiculo": "O GLOBO",
+     "titulo": "Alckmin diz que não há razão para alta do dólar; moeda americana foi a R$ 5,77 com incerteza sobre ajuste fiscal",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUlhURnBpYVFKNWxQYlo2UWNwZDJDQTlSQ2FtOXdqcHNSb1ZLOW9KM3VRWGRLUXlRajAtSXU5RDlwR3kxLWItTUFESVZsZHdwVUJDYnY2b3gyVDdsdWt2VFFERFRSMTRqMHowNDNaRktuRk1VejRrRWxSVXZxeHRVYVpuM0djUjZVRWhtMU1BY2V6bkhVN1A4WGpMWmVBZUtFWHRScFVDeVZnMWFHeTlYeXlNSE9iMllEZjBVZjJXbkxpSnZDMnpRQXZOd190WTNPYzF2LVhkUmVnYWMyU0NEZjhXZy1SOGZEMTFtN3Zmc3Zubk9xbjgySU1ocDVNSGxpZzZiWkNWZVrSAZcCQVVfeXFMT1FJeGQzTEdYcnFQcGcxZ0E0aXV4NFJzU0ljZmljOVBBUU9wZFBYY2hyZ3RDWlpLc1Yzb1NMSGFoV1BvTkFXSnFGTkdyVnlmMFBIck9aU1Zpbk9CTjlBaGVCZ0RFWEpsNDM0U0ppaVVrTWJmZ1ZIQVlSVTFOTGl0RmE2YlFYUGtEeHF5X1VQRjlZcmlQb2psWnlxMjluOG9DY1VNLXlpWDV5X0VQd1EwMkc0LWh2N25xNktCUkpYVnhWQmFVWGVFNGk5WFdWdEZzSnhaOG5zTExxY0Y1YUFNbjByeVM3RXMzR1ZpNWpOOGZpZVpLZF9WSkZDSk5hbFB2N1dFUzktX0ZyNFZoOTkxa2dBd0R5RF9F?oc=5"
+    }
+   ],
+   "score": 29.8
+  },
+  {
+   "id": "a2419820a1",
+   "titulo": "Ajuste fiscal também interfere no avanço da infraestrutura",
+   "url": "https://valor.globo.com/opiniao/coluna/ajuste-fiscal-tambem-interfere-no-avanco-da-infraestrutura.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T08:00:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+tamb%C3%A9m+interfere+avan%C3%A7o+infraestrutura",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 29.3
+  },
+  {
+   "id": "92db18faad",
+   "titulo": "Temor com Lula 4 leva dólar a R$ 5,77 e gera disparada dos juros",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/17/temor-com-lula-4-leva-dolar-a-r-577-e-gera-disparada-dos-juros.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T08:00:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Temor+com+Lula+leva+d%C3%B3lar+5%2C77+gera+disparada+dos",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 28.3
+  },
+  {
+   "id": "0f77af6204",
+   "titulo": "Mais de 276 mil trabalhadores ainda não sacaram o abono salarial 2026",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mais-de-276-mil-trabalhadores-ainda-nao-sacaram-o-abono-salarial-2026",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-17T11:54:41+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Mais+276+mil+trabalhadores+ainda+n%C3%A3o+sacaram+abono+salarial",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "g1",
+     "titulo": "Mais de 276 mil trabalhadores ainda não sacaram o abono salarial; veja como receber",
+     "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/mais-de-276-mil-trabalhadores-ainda-nao-sacaram-o-abono-salarial-veja-como-receber.ghtml"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "Quase 277 mil trabalhadores não sacaram abono do PIS; prazo vai até dia 28 de dezembro",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/quase-277-mil-trabalhadores-nao-sacaram-abono-do-pis-prazo-vai-ate-dia-28-de-dezembro.shtml"
+    }
+   ],
+   "score": 27.9
+  },
+  {
+   "id": "5c9b699488",
+   "titulo": "Dólar dispara e fecha a R$ 5,77, maior cotação em 19 meses",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXVpekdWdUhSOVk2ZVdPYzhQcWQxZ21HeENRb2JTNG9KZWZuSVF3cHYzb0h4aVIyRjk1eXBUcmZxRUd6OUNJOXJ4V1ZtcGlxbmt0c3Qxb3pSS0dpUWctTTlMZ0doRmthb2tuNFV1Y2xGYWlPeW9EeVJpMnFEdDRGczBZM20zNXFJZUVNcmI5X1Nvd2Uz?oc=5",
+   "veiculo": "Revista Oeste",
+   "publicado": "2026-11-17T11:50:57+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+dispara+fecha+5%2C77%2C+maior+cota%C3%A7%C3%A3o+meses",
+   "veiculos": 10,
+   "rotina": true,
+   "outras": [
+    {
+     "veiculo": "IstoÉ",
+     "titulo": "Dólar dispara a R$ 5,78 e atinge maior valor em 19 meses; entenda",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CbF9aVlBDR0lOT19GSXgwam1VMmJRbGVCQ1BMSVBFU3RBczMySkFtWTctOENBRjE2VVktQmJwcDRMM0VsaWZMXzV5Tkp4N2x3aXpqN0lNYWE0OEhiel9OYlRzbFJTZjVtd0Fj?oc=5"
+    },
+    {
+     "veiculo": "Tribuna do Paraná",
+     "titulo": "Dólar fecha em R$ 5,77 e atinge maior valor desde abril de 2025",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEZNWm1naU1QWXlaTENrSGVGVG04WU1hSEVab19iWWMtamFid2dmS0Rsd1k1ejBnWjVHT3gwN0phNmI0Q3c3UGdrTThoZ3BERWNGMnZUOUdKc0tBYW1kVFJyQmc2RVRJTXIxMlZGaDV0N2IxYm5mUmgzQjBUVWl2S20ybFB2S2xaMEpKd0dkNV8tYVppS0lmRTBucmVDNW9RUmVKZ1lVN216WnBRSXpzYtIBsAFBVV95cUxOdEZNWm1naU1QWXlaTENrSGVGVG04WU1hSEVab19iWWMtamFid2dmS0Rsd1k1ejBnWjVHT3gwN0phNmI0Q3c3UGdrTThoZ3BERWNGMnZUOUdKc0tBYW1kVFJyQmc2RVRJTXIxMlZGaDV0N2IxYm5mUmgzQjBUVWl2S20ybFB2S2xaMEpKd0dkNV8tYVppS0lmRTBucmVDNW9RUmVKZ1lVN216WnBRSXpzYg?oc=5"
     },
     {
      "veiculo": "O GLOBO",
@@ -378,301 +1002,19 @@
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd3lUeFNMRGZvYVVYeXRBVUU1TmFFUEUtclRGTEJqQTRyX2FJXzhzYlE1SkxpMDZoOEQ5ZVRJUkZiMmt1Tzg5U2h4OGgxeU9TWEREQllsaUhYeU1jb21WT2pIQmhTb1piY2VDSjNtSi1pRE4yUlVWTjhxUGxHSGtrUDFLSGJsaTliNjJzRklEeE5MY2dhQzBqT0JzUGZZN1dqTXVBenJUeUI0TnF2Q09kQnJEVGpxMW9BdXY3VG8xTkZRX0lRQTAtWHdwaDVPeGJOLW5RbTdLaWFxNTl6akgwQm5FV0dPdWZhb0x3X0pWbFJOYnpOSWdvXzd3M21mNnMtWnZGbkhn0gGUAkFVX3lxTE1iQ2MyczlZQm9Da3hERWRVUDZ5M2R6d0IzS1RrU0o2RnFtdkQ0cEg4MG45U0lfMDFER0JZTWZlUWV3M2pDTWVyb3NscjlGdEVtejFhekJ3Sm1JVm54SU5SNHNFcFViOWktUVhqenBUVVFwMTB0ZUl5NkdDdE1LTjhRY2FzbW4tOWQzWU5XQjNINWN3d1JfcjdIb1Y3Q2cyYWZvMTR5REZvMFVaMjlCWkhWQXNFdFAxU2E5TDRnZFBUcVJFU1V2ZzRmcFBtNDBZR3dkZ0hySkdVQzNQZjhhRElrcDJBSXlsWTd3d0dsVTB6UHhFNDk4OVoyMEpFMDRzemtleWxWR2tGLVVaNU55MldDOHdOaw?oc=5"
     },
     {
-     "veiculo": "JM Online",
-     "titulo": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVFwVkJ4NHVCbWFMZkREX0hrbDFRN3RCQTJJdFQxV1djaVdtYjZmUlUxb1RfVzR2WTlTY3hJUUJ2SV80VVR2TTdZS0l2LTY0enhoTUIwWkFLa0N3eVZfU19mZ01YMUp1eUpjVkNNekVkZy1OOWVWTlhZZlpTSnF4aEZiYmhnZ3pYZ1pUTUlkU01XZjVHZGFuQ2xCOUFIb1FkWVhHYl9aSXltWFVwbXZJ0gGvAUFVX3lxTE11UXBWQng0dUJtYUxmRERfSGtsMVE3dEJBMkl0VDFXV2NpV21iNmZSVTFvVF9XNHZZOVNjeElRQnZJXzRVVHZNN1lLSXYtNjR6eGhNQjBaQUtrQ3d5Vl9TX2ZnTVgxSnV5SmNWQ016RWRnLU45ZVZOWFlmWlNKcXhoRmJiaGdnelhnWlRNSWRTTVdmNUdkYW5DbEI5QUhvUWRZWEdiX1pJeW1YVXBtdkk?oc=5"
-    },
-    {
      "veiculo": "O GLOBO",
-     "titulo": "Dólar vai à maior cotação desde abril de 2025; relembre o que acontecia naquele dia",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObTNSOW9ZcE9EMzBzdkJ2UHdPdnFJLWNFQ0N6ZWl2cVFSWi1XLW82ZlltV19EbEcxRnQtYXN1ZURmS1pzU0FlcU5rYVhlUzFkUmY1YURwTVFLUG5rTGxPNlBXQVk1VWo5bGFFalZEZFV3V3RsVHhvbjVvLUF1TW0tSTJ6OHk0U0xjd0ozZnVFR1Fqc0NwZUYxdFU0VC1mVXNqUnlzWVplNlRPanQwSEVsRXdMS3pMTUFJeU1QZTFYaWhFNTRuSDJ3cGg5S1pvRnRKRnNVWkJ2ZTRERmVFRlpB0gHuAUFVX3lxTE5tRWpwZDU4Nm5Fc3lFUDN5dFZDRTdYOU9vQXdubG1SbnNpV0xFeENVdXBYYVg4eGRaRHpmYWU4X3EwSHV5MWRXX1lJc3piNVhsSnJ5eHdoVTRCN2dDRmFaaHlCZy0yLWJULUNFaUdPNl9ERURkVDl4TUNOTDNqem83WWNiUkdCcTh3N1ZfaDJZdVRBTk13Ml82QXpFelBGRGVoMGJUZi1sdUlleTdXU00tUEtIajFCR0tZQVA4VWtxVUJQdUdDdVh2Zl9hSmV1Q2ZfVms1ZnJNM0FhZHNwbGc2ZWNwbk15eDlYeDlOY3c?oc=5"
+     "titulo": "Incerteza fiscal no Brasil e cenário internacional: entenda o que levou o dólar ao maior patamar em 19 meses",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd3lUeFNMRGZvYVVYeXRBVUU1TmFFUEUtclRGTEJqQTRyX2FJXzhzYlE1SkxpMDZoOEQ5ZVRJUkZiMmt1Tzg5U2h4OGgxeU9TWEREQllsaUhYeU1jb21WT2pIQmhTb1piY2VDSjNtSi1pRE4yUlVWTjhxUGxHSGtrUDFLSGJsaTliNjJzRklEeE5MY2dhQzBqT0JzUGZZN1dqTXVBenJUeUI0TnF2Q09kQnJEVGpxMW9BdXY3VG8xTkZRX0lRQTAtWHdwaDVPeGJOLW5RbTdLaWFxNTl6akgwQm5FV0dPdWZhb0x3X0pWbFJOYnpOSWdvXzd3M21mNnMtWnZGbkhn0gGUAkFVX3lxTE1iQ2MyczlZQm9Da3hERWRVUDZ5M2R6d0IzS1RrU0o2RnFtdkQ0cEg4MG45U0lfMDFER0JZTWZlUWV3M2pDTWVyb3NscjlGdEVtejFhekJ3Sm1JVm54SU5SNHNFcFViOWktUVhqenBUVVFwMTB0ZUl5NkdDdE1LTjhRY2FzbW4tOWQzWU5XQjNINWN3d1JfcjdIb1Y3Q2cyYWZvMTR5REZvMFVaMjlCWkhWQXNFdFAxU2E5TDRnZFBUcVJFU1V2ZzRmcFBtNDBZR3dkZ0hySkdVQzNQZjhhRElrcDJBSXlsWTd3d0dsVTB6UHhFNDk4OVoyMEpFMDRzemtleWxWR2tGLVVaNU55MldDOHdOaw?oc=5"
     }
    ],
-   "score": 34.6,
-   "video_url": "https://www.youtube.com/watch?v=6BZ2EsiAxqo",
-   "video_canal": "UOL",
-   "video_por_hora": 1200,
-   "video_acima_mediana": 0.7,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Dólar hoje: Moeda dispara 2,17% e fecha a R$ 5,77, maior valor desde abril de 2025; Ibovespa recua",
-     "url": "https://www.youtube.com/watch?v=6BZ2EsiAxqo",
-     "por_hora": 1200
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Dólar fecha a R$ 5,77 e atinge maior valor desde abril do ano passado | Jornal da Band",
-     "url": "https://www.youtube.com/watch?v=rVk9qzh65hI",
-     "por_hora": 1117
-    },
-    {
-     "canal": "InfoMoney",
-     "titulo": "Dólar vai a R$ 5,77, maior valor desde abril de 2025 | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=A2fZ0g8fdNY",
-     "por_hora": 769
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Cotação do dólar hoje: moeda dispara e atinge maior nível desde abril de 2025",
-     "url": "https://www.youtube.com/watch?v=Bh0t_mpEfJk",
-     "por_hora": 304
-    }
-   ]
-  },
-  {
-   "id": "b335b612da",
-   "titulo": "Empresas em recuperação judicial podem negociar ICMS em nova fase do Acordo Paulista",
-   "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/empresas-em-recuperacao-judicial-podem-negociar-icms-em-nova-fase-do-acordo-paulista.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-17T01:31:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Empresas+recupera%C3%A7%C3%A3o+judicial+podem+negociar+ICMS+nova+fase+Acordo",
-   "veiculos": 10,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Terra",
-     "titulo": "Botafogo se aproxima de número mágico na recuperação judicial",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWHBlMVJhYXNTR1I4LVpXSG1TdUZqM2t2UDkwMTZDNXhjaXRsS2NELTdBZ2x4aFhaY2YzUk03Sm14bkNUM1RxTjcyVmtpUjZpaDktQWJHeEdSMHZjTC1MUzJseXpPVURoYlJDX1cyRWVRVHZ1Z1NHczNfX2VvMXR3enpFSlp1cDc5VUtDcS1DRTRZcE9Eb3FnUnVYX3NMd0xqRVhKTy05NjZxSlZZcEFPWmJZVC1BTG94OW16SDRMa2d3LThXTFBaLTEtUGlmVlBKZHFjSVRGSWN1dTJGZkxCWlNVLXU?oc=5"
-    },
-    {
-     "veiculo": "FogãoNET",
-     "titulo": "Botafogo chega a acordo com dois clubes credores e se aproxima de 'número mágico' da ...",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0FvamYxQWt4X01wcldTdXZTekZUcmJ4ak5ZUVUxcmpLdlA2cElndUloREtCeTF5NHBqN2FobVNwWTVYbmo5VXh3Yl9fVDcxRFZLblVVNFBxeGNrQVNvLVlKS3VETGhTdmVZMnlMbzJRbDlzMlRJLUJvVFQ5YnFlZkxHSmFYdDFSTXY3RUQ5Z0NrTnJjMlU0dHRBWGhmMG55ZnpJeV9DYVRsSm1ISEIzbmpaTnVYUkJtX0J6UmR4aTBnaVpOai05R2Z0VEY2OVVickpjN1hydTJtWHZXeGdEUWx3?oc=5"
-    },
-    {
-     "veiculo": "PortalRBV",
-     "titulo": "Número de empresas em recuperação judicial se aproxima de 500 em SC",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDMyV214dFZ5UVBKbmdOWFBhSERlbmlJWVphWnVNUTdoWGx2c19JbDdMMXpSQkV1bjVOamp6UmFOSWlhVThoR19iTVYwcl80dllXbWM2T1VfaTNsSDE3NGlSaFRKczFUR1lDUWRrN2pNbVJMNldpazNNZGlScTRmLVcyekxlOEpoQldrSDhuaUlEdjZNYjVTQUpnd092Q0NTaVRrUXdSWWhfM2U1elRtNXpIaUU?oc=5"
-    },
-    {
-     "veiculo": "Botafogo Hoje",
-     "titulo": "Botafogo em 2026: Recuperação Judicial, Bastidores da SAF, Base Forte e Mercado",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDJqQ3JPSHhBc1FOOTNQUUhLZGZKTlRydE0tSTBhVl8td19XRS1SZWFSbGFPQld4T0lnVnhpQkU2anN4OVFqcVlRb1BQZy1WWmI1Tk42RFpOOG9rb3hqNFFSQ200Zkhob2FyUXRBYnpnWGRjZnNiemd6SWJka0xHQk5CM2hZTzU4RGtlOWdXME9Qd2tYY2lheg?oc=5"
-    }
-   ],
-   "score": 33.3
-  },
-  {
-   "id": "2f1c6e83e1",
-   "titulo": "Esquerda retoma pressão sobre Nikolas por divulgar relatório falso da PF",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalpZWXRkbzNndjljSnhhcEFwM3dPVXpneEs0dXUxLURtWHVUMnd4M0c4WjhDQk9ILVdqdnVPVW03VGwtNk03eEpLVE83QXI5QV9DYWZoV3E4dEkwRnpUeF9wXzRPNDVlSDFxOXNtZ0hNeHdGLTdqbTN6YUlfWU9XdUk4dTJ6eVFLNE10b1NROGNKc0NpQVI2eFJPNzkzblYwZjdMMnM4WnFmbWE3ZHpIUlFB?oc=5",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-11-16T22:04:10+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Esquerda+retoma+press%C3%A3o+sobre+Nikolas+por+divulgar+relat%C3%B3rio+falso",
-   "veiculos": 10,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Plantão Brasil",
-     "titulo": "Polícia Federal investiga laudo falso compartilhado por Nikolas Ferreira",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjJ6b0o4ZnNZUFpkWVZVbzc5QW41ZG9fQi1GTzJkcTRxMC1CSnJxelcwX3B5T3UxZWxrQTFSTF9fanJwTmJUTlVpcnR2YjJwNVFjV3Eya3BMcjNqQ2FSeXA2c3Z0TmlWOGkzNnphWVhLLXo1UGFvU0c5T3Qxa1pCR1ZCT244ZjN6S0hYdThQN1AtVkIxbWR5dXhhclB0T0lwWi0yUl9LOEhiLXdvXzlhcGFlT2ZJZzA2eHc?oc=5"
-    },
-    {
-     "veiculo": "ICL Notícias",
-     "titulo": "Falso laudo divulgado por Nikolas Ferreira nas eleições é investigado pela PF",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2cE9HRmVfVUZLT0RfeFlQaGVRTUZieExId0ZwOURKWDkzeEJVZ2cteXFNa1hsQnBTSW9ra09FVERLQ3FjMGhSYk9vaGZiaU9HSnFCSGVWMy1MRzNwMFlRRThtMkV0NmlHSzBTUnVpLUJ3M3M?oc=5"
-    },
-    {
-     "veiculo": "Diário do Centro do Mundo",
-     "titulo": "A pressão da esquerda contra Nikolas por laudo falso da PF",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUk5CWThacVA5cklET1BHcGxoSjFyZ0d2LUFfaGNmRFl4QVNTQUI5NWdLZDlLTEhGQThTYkxUV01fSTBWTjhqdWEyUVZBVmEzRlI1czZUd3Y1eDBKc1dPSzdnYmNJVVhieWppUk5VWlZKeEhVMGtnY2RuejhEazN2TEN3YnR0R2doYnVXNXRsMnpOMVB1Y1V1WWNsTE5rSmV2ZVE?oc=5"
-    },
-    {
-     "veiculo": "noveen.com.br",
-     "titulo": "Parlamentares voltam a cobrar investigação sobre laudo falso divulgado por Nikolas Ferreira",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzc1QXBlaHlZQkU4Yk9sT19LT3FIWTBUUFFzSmFtcS1fRHUwanlTYnk1MlJmMmZuMENvNVZfb3ZzMjZ1ZE9iTXA5b1ZTbnFnWDVpTFB0ZUhQOEoxWVlsbVVjZVJLNGE4UFpJUm5GSG9JdGZWd2xabEZVdGg3NE82SUZxLUFkemRHaC1SVGo3VnllNzRlRFhhVzgtSVhnOFlnVkxTWVlpcmpOVUF3eG40eFV2OFh1SGZ0am4yWXBnSXRzc0YyWTlDOHlmY3NpSzFidUtGQnZneTd6RHo4S2ltZjVB?oc=5"
-    }
-   ],
-   "score": 30.9
-  },
-  {
-   "id": "7bcb2fb475",
-   "titulo": "DÓLAR ALTO DÁ \"BOAS-VINDAS\" A LULA APÓS IDA AO EXTERIOR | WW",
-   "url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T02:04:57+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%93LAR+ALTO+BOAS+VINDAS+LULA+AP%C3%93S+IDA+EXTERIOR",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Dólar alto dá \"boas-vindas\" a Lula após ida ao exterior; veja análise | WW",
-     "url": "https://www.youtube.com/watch?v=SxcL_cPDo0k"
-    }
-   ],
-   "score": 30.6,
-   "video_url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 31177,
-   "video_acima_mediana": 21.3,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "DÓLAR ALTO DÁ \"BOAS-VINDAS\" A LULA APÓS IDA AO EXTERIOR | WW",
-     "url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-     "por_hora": 31177
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Dólar alto dá \"boas-vindas\" a Lula após ida ao exterior; veja análise | WW",
-     "url": "https://www.youtube.com/watch?v=SxcL_cPDo0k",
-     "por_hora": 951
-    }
-   ]
-  },
-  {
-   "id": "7751b7d22c",
-   "titulo": "Análise: “Plano Moretti” desagrada mercado e parte da esquerda | WW",
-   "url": "https://www.youtube.com/watch?v=-bNQ_fQoG6o",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T01:40:01+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=An%C3%A1lise+Plano+Moretti+desagrada+mercado+parte+esquerda",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 30.0,
-   "video_url": "https://www.youtube.com/watch?v=-bNQ_fQoG6o",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 3939,
-   "video_acima_mediana": 2.7,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Análise: “Plano Moretti” desagrada mercado e parte da esquerda | WW",
-     "url": "https://www.youtube.com/watch?v=-bNQ_fQoG6o",
-     "por_hora": 3939
-    }
-   ]
-  },
-  {
-   "id": "67f010efcd",
-   "titulo": "Governo tem votos para barrar destaques ao projeto de ajuste fiscal, diz líder no Senado",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/16/governo-tem-votos-para-barrar-destaques-ao-projeto-de-ajuste-fiscal-diz-lider-no-senado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T23:42:07+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+tem+votos+para+barrar+destaques+projeto+ajuste+fiscal%2C",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Governo se mobiliza contra destaques apresentados  ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=b4o64aUPNJk"
-    },
-    {
-     "veiculo": "TV Senado",
-     "titulo": "A Voz do Brasil - 16/11/26: Plenário analisa destaques ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=a8fzfqdfWX8"
-    }
-   ],
-   "score": 29.9,
-   "video_url": "https://www.youtube.com/watch?v=b4o64aUPNJk",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 775,
-   "video_acima_mediana": 0.7,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Governo se mobiliza contra destaques apresentados  ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=b4o64aUPNJk",
-     "por_hora": 775
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "A Voz do Brasil - 16/11/26: Plenário analisa destaques ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=a8fzfqdfWX8",
-     "por_hora": 48
-    }
-   ]
-  },
-  {
-   "id": "a4194a1859",
-   "titulo": "Bets estão associadas à saída de R$ 40,4 bi das famílias, diz Comsefaz",
-   "url": "https://www.poder360.com.br/poder-economia/bets-estao-associadas-a-saida-de-r-404-bi-das-familias-diz-comsefaz/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-17T01:12:42+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Bets+est%C3%A3o+associadas+sa%C3%ADda+40%2C4+das+fam%C3%ADlias%2C+diz+Comsefaz",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "g1",
-     "titulo": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias até julho de 2026, diz Comsefaz",
-     "url": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml"
-    },
-    {
-     "veiculo": "avozdocampo",
-     "titulo": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias em 2026",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZldNWGY2RW9yNDhDTmRnbEVjbVBtN2NybWk3QjY4V2otbTc4NGdITVc3UkhTdTBLYno1emxTTHJSS2tYT1hsekE3T0VNOVFYOVBpWkcwRmdCVHhMVmdDeUlDdDhKQVJtUkI4RVJ4LTNPdks1aUtSX3NPT0dIOF9JbG1yQWFMWDhDOHNiS2FuWG5LS0lRUHZ0MTA5aw?oc=5"
-    }
-   ],
-   "score": 29.2
-  },
-  {
-   "id": "3504b7b94d",
-   "titulo": "Ibovespa cede 1,8% com incerteza fiscal e rebaixamento de ações brasileiras",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/16/ibovespa-cede-18percent-com-incerteza-fiscal-e-rebaixamento-de-acoes-brasileiras.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T21:24:40+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+cede+1%2C8%25+com+incerteza+fiscal+rebaixamento+a%C3%A7%C3%B5es+brasileiras",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 27.6
+   "score": 27.9
   },
   {
    "id": "155bc0b7e7",
    "titulo": "Atividade econômica tem queda de 0,9% no terceiro trimestre",
    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/atividade-economica-tem-queda-de-09-no-terceiro-trimestre",
    "veiculo": "Agência Brasil",
-   "publicado": "2026-11-17T00:35:49+00:00",
+   "publicado": "2026-11-17T08:08:59-02:00",
    "temas": [
     "economia",
     "mercado"
@@ -680,13 +1022,18 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Atividade+econ%C3%B4mica+tem+queda+0%2C9%25+terceiro+trimestre",
-   "veiculos": 3,
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "OCDE: Renda real das famílias tem leve queda no 2º trimestre",
-     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ocde-renda-real-das-familias-tem-leve-queda-no-2o-trimestre/"
+     "veiculo": "UOL Economia",
+     "titulo": "Hospital Anchieta tem preju�zo de R$ 66,3 milh�es no terceiro trimestre, alta de 304,0%",
+     "url": "https://economia.uol.com.br/noticias/redacao/2026/11/17/hospital-anchieta-tem-prejuizo-de-r-663-milhoes-no-terceiro-trimestre-alta-de-3040.htm"
+    },
+    {
+     "veiculo": "Alta Pressão Online",
+     "titulo": "Atividade econômica tem queda de 0,9% no terceiro trimestre",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUMyOHlqMVltTUJvZWJvX3psemxjLVRib3ptUGU0aEo3Q3BudEpxNFRCQUE5VXNORld6ZjFPb0J0dHg4NEFaelhXRi1YZXVGYjNJOTFfTWp6YmppcG1wZDV1VDRhUWpobHdkMWd3X2Y5QWxfNEg3YldoWkJNTjZvc2RON1RLNzVDVWRwLUdIb05OMGoxRmI4VEZiODRsdzQ?oc=5"
     },
     {
      "veiculo": "Folha",
@@ -694,973 +1041,637 @@
      "url": "https://www1.folha.uol.com.br/mercado/2026/11/indice-de-atividade-economica-contrai-09-no-terceiro-trimestre-aponta-bc.shtml"
     }
    ],
-   "score": 27.0
+   "score": 27.2
   },
   {
-   "id": "2c3c6fa35f",
-   "titulo": "Claro eleva preço de aquisição e da OPA da Desktop",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XS21LNDFjZ3poUGpybDJ2ZWFLR050c2pzS3dwcHI3dDYwOUl4YTktTDlaOFBMdkhpaHZlaHdrRnhzbTg5c2YtN182STV3ckZkUE9wanotTk9pQ1hTMk5yYnhfUlhsOHRUYkQ0RDVGN25zcFNjOHVJTQ?oc=5",
-   "veiculo": "TELETIME News",
-   "publicado": "2026-11-16T23:44:29+00:00",
+   "id": "35e71d0b2e",
+   "titulo": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias até julho de 2026, diz Comsefaz",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-16T20:05:14+00:00",
    "temas": [
+    "comportamento",
     "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Claro+eleva+pre%C3%A7o+aquisi%C3%A7%C3%A3o+OPA+Desktop",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "EuQueroInvestir",
-     "titulo": "Claro eleva preço da OPA da Desktop para R$ 20,66 por ação",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ea0M0WkVXcFJybVAtczZWb0lCdjBBR1VEWUdoejZCUEZoWC1ZNVhKSWlXTWg5TklXRTVaazNxV05GU2RsLVBCQ2lMaWFONGxCWXlwNFd2dXEwbGh6dTlJWERKa0Q3Y2c?oc=5"
-    },
-    {
-     "veiculo": "atlaspublico.com.br",
-     "titulo": "Claro eleva para R$ 20,6622 o preço por ação da OPA da Desktop após apurar o endividamento líquido",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNF9wUEpoVHVOT0RvOFNmOE4wY2p0Z0RnNlBJSGhYdnJkNEdmYjFaVVBvbXpMWUF3VlZ3cEN2WjFvemJnMUYwcld4NlptNjBDLUN4V3IwbVY2dnY5b0ZFeHdFYkhDelp0VkoyTmxuM3ItcTRYSnAwT1ZMN1FUd1VIM00wTE1pbXZPbkthQnQxdktCeDRNQkM4M1Bhd3FOWmlENWRqYw?oc=5"
-    }
-   ],
-   "score": 26.6
-  },
-  {
-   "id": "bf0f288bb8",
-   "titulo": "PicPay (PICS) vê lucro saltar 157% no 3T26; fintech revê política de baixa de inadimplência em crédito pessoal",
-   "url": "https://www.moneytimes.com.br/picpay-pics-ve-lucro-saltar-157-fintech-reve-politica-de-baixa-de-inadimplencia-em-credito-pessoal/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-16T22:46:08+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=PicPay+PICS+lucro+saltar+157%25+3T26+fintech+rev%C3%AA+pol%C3%ADtica",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "NeoFeed",
-     "titulo": "No PicPay, lucro salta 157% e carteira de crédito atinge R$ 35 bilhões",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEVGeFFfNGs4UkxhRDhZcGg4VGpFbU1FRi1iaHNBcV92SGZGM1dfMWctOC1ULVJVb0t6dEF2VXVrSW5PUGdpUEd0azhCc28tbHZ2aXVvTUVDa3dUT0NJX2J6eFpZNmstRVZQWDI4YjhIQWJGYTRsNFN5bWVRTS1IbEI5c3hKcWN2UW0tRmNxVVItaEhuYVJHVXVrWnVUUVlDTVE?oc=5"
-    }
-   ],
-   "score": 26.2
-  },
-  {
-   "id": "d3813452b5",
-   "titulo": "Mercado precifica possibilidade de alta de juros em dezembro e Selic de 15,50% em 2027",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/16/mercado-precifica-possibilidade-de-alta-de-juros-em-dezembro-e-selic-de-1550-pontos-percentuais-em-2027.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T18:54:30+00:00",
-   "temas": [
-    "mercado",
     "politica"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+precifica+possibilidade+alta+juros+dezembro+Selic+15%2C50%25+2027",
-   "veiculos": 2,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Bets+tiraram+40%2C4+bilh%C3%B5es+or%C3%A7amento+das+fam%C3%ADlias+at%C3%A9+julho",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Valor Econômico",
-     "titulo": "Mercado precifica possibilidade de alta de juros em dezembro e Selic de 15,50% em 2027",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdGdiTUtELU9DbURoQ2wzNEhFSnNGdjlYVUctSWxPQk0wRWlJeVM3WjAyMmI5TGNuWHNza3dWcVE3SlEyMzdKaWVzaXhBWEpxUEFiR2dlODNlMGRXbHg0UWNINTNxMTdwMmlFSE9CY2JEdlhnMFpmWG1fbmhkWHJIazJRVllqZWJiY2Iwalg3TjlCUG1hbjc2dlgzbDZ0UFQ1VHlBbF9uSVUzazlxX0NnSU9KdjQ1R05pOXU3Z3hCNU9PaVZBMGJ5Q3VmMlJqV0FlYTBYUVFFZDVpUTIxay1BRXY5ZWVRVmcwWVliMmx3UjFMZVnSAYICQVVfeXFMTTFmWHJMUzRfY085R1ZTVzZlbjNncUYxQmJsN0QxU2w4MkZwTU9ONDV6NzZJX1JSSWJ0MThiVFQtR1dmRGRoemZTckRtUG9HZWdnSDFJRVhsM3o5RDh6NjFBVDgzRjk4UXU3a2FWMlY4RHdEeFFjazY1eDc5NmRYUldEa0M4OUJNYU9CTTJtakxRV19qNWpMRnB4QVdSZmtfT2lpMkl5ekZ5TVUtUW5sdzBZZ0xoT1YwRjFnajBXSEwzdjBkLWxtYXQwNHNPc1VQV00xbl9qc19TZ0RNcDZ5ZUN6ZWgzc0pTZzJhZmRfcndWSEhNVkV6MW9uY2FRR1RCQnVR?oc=5"
+     "veiculo": "melhorinvestimento.net",
+     "titulo": "Bets consumiram R$ 40,4 bilhões do orçamento familiar, diz levantamento",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHQxZjhXQ0c3NjN0V2N6c2pKSExsLW9sb1M2MS0yOTBNdm8xa0dySG4zR25sT0tuQmpfU2Z5dHJjY0VJdHFra0c0QnlYZDRTempRaHB4MW4zV3gwXzBDLXQ1WlU3M2dVbTBMLWMyM2U1LV9fcXV2ejYwU1I3QU9wMkhDdlVHZw?oc=5"
+    },
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Bets drenaram R$ 40,4 bilhões do orçamento das famílias brasileiras em 2026, diz estudo",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50Z3EzRkRpTWJ4bVM3UnFycDZlRjlRS3czd2VUUlN4WjYxVDBlQ29CenFDLUxEdHdHTlg5OHFLTENkazBzTEdQWksyXzBGWE9EZS1FcHZFNzVYZzY4cG96MHdKY3lxTmUtaVd1dXExZHZfNFUyNmMzemlJZHUxdw?oc=5"
+    },
+    {
+     "veiculo": "avozdocampo",
+     "titulo": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias em 2026",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZldNWGY2RW9yNDhDTmRnbEVjbVBtN2NybWk3QjY4V2otbTc4NGdITVc3UkhTdTBLYno1emxTTHJSS2tYT1hsekE3T0VNOVFYOVBpWkcwRmdCVHhMVmdDeUlDdDhKQVJtUkI4RVJ4LTNPdks1aUtSX3NPT0dIOF9JbG1yQWFMWDhDOHNiS2FuWG5LS0lRUHZ0MTA5aw?oc=5"
     }
    ],
-   "score": 25.6
+   "score": 26.3
   },
   {
-   "id": "84e5bccdf5",
-   "titulo": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/morgan-stanley-rebaixa-recomendacao-para-bolsa-brasileira-e-preve-queda-de-7.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-16T19:05:19.284363+00:00",
+   "id": "6eb1451c41",
+   "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-17T11:46:53+00:00",
    "temas": [
-    "mercado"
+    "economia",
+    "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Morgan+Stanley+rebaixa+recomenda%C3%A7%C3%A3o+para+Bolsa+brasileira+prev%C3%AA+queda",
+   "busca_video": "https://www.youtube.com/results?search_query=Durigan+explica+Senado+al%C3%ADquota+11%2C3%25+CBS",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "UOL",
-     "titulo": "Morgan Stanley rebaixa Bolsa brasileira e prevê queda de 7% do Ibovespa em 2027",
-     "url": "https://www.youtube.com/watch?v=pms5eMe5mvY"
+     "veiculo": "InfoMoney",
+     "titulo": "Reforma Tributária: Durigan vai ao Senado explicar alíquota de 11,3% para a CBS",
+     "url": "https://www.infomoney.com.br/politica/reforma-tributaria-durigan-vai-ao-senado-explicar-aliquota-de-113-para-a-cbs/"
     },
     {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWd4REJ2LXBYcTJMMVUyNnIyMy1JYkdIa2ltZTRnRjNWYVJhY2x3WWRGZnB5SzVlRkt1aDFTeFZ3NEVEZ01yMldoZGViRWpfZnM2QVB4MTB6Q01LZWU3aThUZ0ppU2FYYzI4THUxOTdwNkdEZ1p6T1Npcm52UmNFNi0wTWFUd1NWLW1HcFczLWlkU0NCQ0o4eDZINXRDTjhEM3FXQ3ByUzIwWTZ6LXZEdHJ4Zk1YU2F3ckEycl9DR3hDYzZrVV9j?oc=5"
+     "veiculo": "Poder360",
+     "titulo": "Ao vivo: Dario Durigan vai a audiência sobre tributária no Senado",
+     "url": "https://www.youtube.com/watch?v=AUd8M5HfpcA"
     }
    ],
-   "score": 25.0,
-   "video_url": "https://www.youtube.com/watch?v=pms5eMe5mvY",
-   "video_canal": "UOL",
-   "video_por_hora": 862,
-   "video_acima_mediana": 0.5,
+   "score": 25.9,
+   "video_url": "https://www.youtube.com/watch?v=AUd8M5HfpcA",
+   "video_canal": "Poder360",
+   "video_por_hora": 0,
+   "video_acima_mediana": 0.0,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Morgan Stanley rebaixa Bolsa brasileira e prevê queda de 7% do Ibovespa em 2027",
-     "url": "https://www.youtube.com/watch?v=pms5eMe5mvY",
-     "por_hora": 862
+     "canal": "Poder360",
+     "titulo": "Ao vivo: Dario Durigan vai a audiência sobre tributária no Senado",
+     "url": "https://www.youtube.com/watch?v=AUd8M5HfpcA",
+     "por_hora": 0
     }
    ]
   },
   {
-   "id": "b125278851",
-   "titulo": "Recuperação judicial no agronegócio cresce quase 60% em um ano",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVctSnRXeXhZZlBENm1nZFY1ZmJKOGNYc3A0LTl0UzBGbkZKQi10ZzNrQ1pXTGxXWXFXbng4UHdoVnFHYldMVWpibTdSdGIyQXdIczcxaWlqUXFMNFhwSzkyelg2MTBreFd6RjlnZFJ2R1hQcmFaNE1CbFhRQTNSUWplUVhBM3JraEE?oc=5",
-   "veiculo": "AJN1",
-   "publicado": "2026-11-16T19:38:38+00:00",
+   "id": "fd57be4697",
+   "titulo": "Desafios econômicos do governo Lula 4",
+   "url": "https://www.youtube.com/watch?v=ZhB1JcyCoos",
+   "veiculo": "TV Senado",
+   "publicado": "2026-11-17T11:35:48+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Desafios+econ%C3%B4micos+governo+Lula",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 25.8,
+   "video_url": "https://www.youtube.com/watch?v=ZhB1JcyCoos",
+   "video_canal": "TV Senado",
+   "video_por_hora": 13,
+   "video_acima_mediana": 13.0,
+   "videos": [
+    {
+     "canal": "TV Senado",
+     "titulo": "Desafios econômicos do governo Lula 4",
+     "url": "https://www.youtube.com/watch?v=ZhB1JcyCoos",
+     "por_hora": 13
+    }
+   ]
+  },
+  {
+   "id": "b6c4b1ac06",
+   "titulo": "Defesa de Vorcaro contesta condução de Fachin",
+   "url": "https://www.youtube.com/watch?v=a07FxS8PlRQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-17T11:21:37+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Defesa+Vorcaro+contesta+condu%C3%A7%C3%A3o+Fachin",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Plantão Brasil",
+     "titulo": "Defesa de Vorcaro desafia Fachin no STF e tenta levar caso para Gilmar Mendes",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTVNZanJSWjFVOEJ0bkNXdHZoNExYWVF6Y01sbFFfajg4dDJKeUtkSmpCeDhEQWdrMC1qN01sSFprNGJVN0QyUThtZjFhYUlrWEl1Q2ZCRHhNQ3hZUTNlQjVweG9ybVNNamRYWjBaV1p4S3ZXR0RsRzMteWZUNWpDRFRxYWhCTDZRam9FWEd6cFFocVFaZVg3WUhZaXg5UjVyd2VreHFLVmVMVFphYlNXcWkyb0VsN1czUm9uSFU1RzI?oc=5"
+    }
+   ],
+   "score": 25.8,
+   "video_url": "https://www.youtube.com/watch?v=a07FxS8PlRQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 233,
+   "video_acima_mediana": 0.9,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Defesa de Vorcaro contesta condução de Fachin",
+     "url": "https://www.youtube.com/watch?v=a07FxS8PlRQ",
+     "por_hora": 233
+    }
+   ]
+  },
+  {
+   "id": "8e3d0568f6",
+   "titulo": "No foco dos estrangeiros, o debate sobre meta de inflação e nomes para o BC",
+   "url": "https://valor.globo.com/financas/intraday/noticia/2026/11/17/gestora-estrangeira-monitora-debate-de-meta-e-nomes-no-bc.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T08:00:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=foco+dos+estrangeiros%2C+debate+sobre+meta+infla%C3%A7%C3%A3o+nomes+para",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 25.3
+  },
+  {
+   "id": "a6a5004c66",
+   "titulo": "Dólar abre sessão desta terça-feira, à espera de balanço da Nvidia e de olho em dados dos EUA",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-17T12:00:34+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Recupera%C3%A7%C3%A3o+judicial+agroneg%C3%B3cio+cresce+quase+60%25+ano",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+abre+sess%C3%A3o+desta+ter%C3%A7a+feira%2C+espera+balan%C3%A7o+Nvidia",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Fatos de Mato Grosso",
-     "titulo": "Grupo rural de Alta Floresta tenta recuperação judicial com dívida de quase R$ 55 milhões",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUVoyR3JORlllMzJQdllFcHJ1NElacHZsQnVGakhpQmx6M2dqRFNyeEpmNnJ0NlBWZXVuZTNiSjdfWGJDREJDcnBmX2NwdzlVQkM1M3o0U05aS1N1RDhHMlRrcWk1N2Qzb0JpM0Q0Z2pPTENfbHBQZG5EbENadEtEamRPTnJjRUlKMmpZZWkxRlQwNEtqVHdiTDVNUjROajRoWUlFaVZIMm5GQmItT2pGaHFNZjBEeWVERUY0NVU1TDZ4VDJkTU9OLWVwd1V3b0JtUzROellB?oc=5"
-    },
-    {
-     "veiculo": "Portal 6",
-     "titulo": "No mesmo ano em que a Casas Bahia fechou 298 lojas e pediu recuperação judicial, Havan abre a loja 200 em Boa Vista e reúne multidão com Ratinho e Celso Portiolli",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQekFTVVFiVkMwWk5mQ3hCclU1NkRfempjZ1lDYVpFUEdhMDM0cjdkZVgxMjUycGYySVdrWF9wX2xSd19fZUZwT1BtNnBWQUFMaFV1NXpZR1BNZEtTQXUzRHdudXJJVkFmWGtjVExLWWF1MVc5eG9VMDQzd0tFZVkwSi05ZnVQRW9VMnZZNlpqbDVsWTJvWEI3bVZnZVpIOXVENkpwZEtrb3RyOTUtM3dDcWwxQmJMSmFqNEpnU0x3RkJlcTFGclZCSU9WT2JVTFRwOE1Ra3RJOVNzeWRULU13akpGcUppYjViMXdsOVFlYVdYbnp5SXllQWw2TGd6VnZHZ1BVSU56OHRLUDZFOUhPMGhnNGZwdUI2Ul9UV1VkV1RUUQ?oc=5"
-    }
-   ],
+   "outras": [],
    "score": 24.9
   },
   {
-   "id": "2992e8c043",
-   "titulo": "Política de Trump afasta alunos estrangeiros e causa prejuízo de US$ 2,4 bi, diz associação educacional",
-   "url": "https://valor.globo.com/mundo/noticia/2026/11/16/poltica-de-trump-afasta-alunos-estrangeiros-e-causa-prejuzo-de-us-24-bi-diz-associao-educacional.ghtml",
+   "id": "95624c169d",
+   "titulo": "Japão tem recorde de emissão de títulos corporativos para investidor de varejo",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/17/japao-tem-recorde-de-emissao-de-titulos-corporativos-para-investidor-de-varejo.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-17T01:56:37+00:00",
+   "publicado": "2026-11-17T11:48:07+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Pol%C3%ADtica+Trump+afasta+alunos+estrangeiros+causa+preju%C3%ADzo+US%24+2%2C4",
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Jap%C3%A3o+tem+recorde+emiss%C3%A3o+t%C3%ADtulos+corporativos+para+investidor+varejo",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 24.9
+  },
+  {
+   "id": "b2e912f9c0",
+   "titulo": "Agenda de empresas: XP lucra R$ 1,38 bi; Petrobras recebe nova parcela de subvenção",
+   "url": "https://valor.globo.com/empresas/noticia/2026/11/17/agenda-de-empresas-xp-lucra-r-138-bi-petrobras-recebe-nova-parcela-de-subvencao.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T11:02:58+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Agenda+empresas+lucra+1%2C38+Petrobras+recebe+nova+parcela+subven%C3%A7%C3%A3o",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
    "score": 24.5
   },
   {
-   "id": "3a9fc448ba",
-   "titulo": "Endividamento bate recorde no país; 82% das brasileiras famílias são afetadas | #SBTBrasil",
-   "url": "https://www.youtube.com/watch?v=0iYmypMEeNE",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-17T00:16:20+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Endividamento+bate+recorde+pa%C3%ADs+82%25+das+brasileiras+fam%C3%ADlias+s%C3%A3o",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 24.1,
-   "video_url": "https://www.youtube.com/watch?v=0iYmypMEeNE",
-   "video_canal": "SBT News",
-   "video_por_hora": 563,
-   "video_acima_mediana": 0.9,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Endividamento bate recorde no país; 82% das brasileiras famílias são afetadas | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=0iYmypMEeNE",
-     "por_hora": 563
-    }
-   ]
-  },
-  {
-   "id": "f7229f9871",
-   "titulo": "Ajuste fiscal do governo: Dani Lima explica que saúde e educação estão blindadas",
-   "url": "https://www.youtube.com/watch?v=gY3GSc_Du_8",
-   "veiculo": "UOL",
-   "publicado": "2026-11-17T00:05:19.284363+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+governo+Dani+Lima+explica+que+sa%C3%BAde+educa%C3%A7%C3%A3o",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Governo questiona desinformação sobre o ajuste fiscal e assegura recursos para saúde e educação",
-     "url": "https://www.youtube.com/watch?v=NQHBP9N17x4"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Dani Lima explica ajuste fiscal: 'Não vai cortar na saúde e na educação'; entenda a proposta",
-     "url": "https://www.youtube.com/watch?v=MNxoiNr9BNk"
-    }
-   ],
-   "score": 23.6,
-   "video_url": "https://www.youtube.com/watch?v=gY3GSc_Du_8",
-   "video_canal": "UOL",
-   "video_por_hora": 2137,
-   "video_acima_mediana": 1.2,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Ajuste fiscal do governo: Dani Lima explica que saúde e educação estão blindadas",
-     "url": "https://www.youtube.com/watch?v=gY3GSc_Du_8",
-     "por_hora": 2137
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Governo questiona desinformação sobre o ajuste fiscal e assegura recursos para saúde e educação",
-     "url": "https://www.youtube.com/watch?v=NQHBP9N17x4",
-     "por_hora": 1733
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Dani Lima explica ajuste fiscal: 'Não vai cortar na saúde e na educação'; entenda a proposta",
-     "url": "https://www.youtube.com/watch?v=MNxoiNr9BNk",
-     "por_hora": 1667
-    }
-   ]
-  },
-  {
-   "id": "a2e68f62b7",
-   "titulo": "PicPay lucra R$ 271 milhões no 3º trimestre, com alta de 157%",
-   "url": "https://www.poder360.com.br/poder-economia/picpay-lucra-r-271-milhoes-no-3o-trimestre-com-alta-de-157/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-16T23:34:56+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=PicPay+lucra+271+milh%C3%B5es+trimestre%2C+com+alta+157%25",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "PicPay tem lucro de R$ 271 milhões no 3º trimestre e chega a 72 milhões de clientes",
-     "url": "https://valor.globo.com/financas/noticia/2026/11/16/picpay-tem-lucro-de-r-271-milhes-no-3-trimestre-e-chega-a-72-milhes-de-clientes.ghtml"
-    }
-   ],
-   "score": 23.5
-  },
-  {
-   "id": "5d92476fb6",
-   "titulo": "Plano Moretti mira mercado e pode gerar superávit de R$ 8,5 bilhões, diz especialista | WW",
-   "url": "https://www.youtube.com/watch?v=hwUdjJ1lIWw",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T01:23:56+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Plano+Moretti+mira+mercado+pode+gerar+super%C3%A1vit+8%2C5+bilh%C3%B5es%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.4,
-   "video_url": "https://www.youtube.com/watch?v=hwUdjJ1lIWw",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 160,
-   "video_acima_mediana": 0.1,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Plano Moretti mira mercado e pode gerar superávit de R$ 8,5 bilhões, diz especialista | WW",
-     "url": "https://www.youtube.com/watch?v=hwUdjJ1lIWw",
-     "por_hora": 160
-    }
-   ]
-  },
-  {
-   "id": "9f261a47e0",
-   "titulo": "Lula chega a Madri para se reunir com Pedro Sánchez",
-   "url": "https://www.youtube.com/watch?v=Hl3L7Dz4c2M",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-17T00:05:19.284363+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+chega+Madri+para+reunir+com+Pedro+S%C3%A1nchez",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "SBT News",
-     "titulo": "Lula se reúne com primeiro-ministro espanhol, Pedro Sánchez, em Madri | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=SrFDB50Jtgo"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Lula anuncia visita do primeiro-ministro canadense",
-     "url": "https://www.youtube.com/watch?v=3JTdPuBdlRs"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Presidente Lula se encontra com primeiro-ministro Espanha",
-     "url": "https://www.youtube.com/watch?v=FbGI7JSC0NM"
-    },
-    {
-     "veiculo": "Poder360",
-     "titulo": "Lula é recebido por apoiadores antes da reunião com Sánchez, em Madri",
-     "url": "https://www.youtube.com/watch?v=wn918CEiHn8"
-    }
-   ],
-   "score": 23.4,
-   "video_url": "https://www.youtube.com/watch?v=SrFDB50Jtgo",
-   "video_canal": "SBT News",
-   "video_por_hora": 6667,
-   "video_acima_mediana": 10.6,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Lula se reúne com primeiro-ministro espanhol, Pedro Sánchez, em Madri | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=SrFDB50Jtgo",
-     "por_hora": 6667
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Lula é recebido por apoiadores antes da reunião com Sánchez, em Madri",
-     "url": "https://www.youtube.com/watch?v=wn918CEiHn8",
-     "por_hora": 2597
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Lula anuncia visita do primeiro-ministro canadense",
-     "url": "https://www.youtube.com/watch?v=3JTdPuBdlRs",
-     "por_hora": 1357
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Presidente Lula se encontra com primeiro-ministro Espanha",
-     "url": "https://www.youtube.com/watch?v=FbGI7JSC0NM",
-     "por_hora": 1000
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Lula chega a Madri para se reunir com Pedro Sánchez",
-     "url": "https://www.youtube.com/watch?v=Hl3L7Dz4c2M",
-     "por_hora": 518
-    }
-   ]
-  },
-  {
-   "id": "d9233ecbed",
-   "titulo": "Trava na compensação de créditos: o que o artigo 6°-F muda no caixa das empresas",
-   "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/11/16/trava-na-compensacao-de-creditos-o-que-o-artigo-6of-muda-no-caixa-das-empresas-1.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T20:53:51+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Trava+compensac+cre+ditos+que+artigo+muda+caixa+das",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.4
-  },
-  {
-   "id": "87a204076e",
-   "titulo": "PagBank (PAGS34) tem lucro dentro do esperado e prevê pagar pelo menos R$ 2 bi até 2028 a acionistas",
-   "url": "https://www.moneytimes.com.br/pagbank-pags34-tem-lucro-dentro-do-esperado-e-preve-pagar-pelo-menos-r-2-bi-ate-2028-a-acionistas/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-16T22:50:41+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=PagBank+PAGS34+tem+lucro+dentro+esperado+prev%C3%AA+pagar+pelo",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.2
-  },
-  {
-   "id": "a17d6d1a48",
-   "titulo": "UPDATE1: XP tem lucro líquido ajustado de R$ 1,382 bi, estável no tri, e anuncia proventos recordes para o ano",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/16/update1-xp-tem-lucro-lquido-ajustado-de-r-1382-bi-estvel-no-tri-e-anuncia-proventos-recordes-para-o-ano.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T22:16:47+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=UPDATE1+tem+lucro+l%C3%ADquido+ajustado+1%2C382+bi%2C+est%C3%A1vel+tri%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 23.0
-  },
-  {
-   "id": "c5555d4e51",
-   "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-   "url": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-16T21:29:31+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ibovespa+fecha+vermelho+com+incertezas+fiscais+queda+petr%C3%B3leo",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Money Times",
-     "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRS1PNFR5UjdBc0RZX3lCaUpEU2V1dlBRbVY0clpPTmduU2h5RXU5S3NSUzZxWm04OXl0YS1LeG0zbVljV0pmWVEyWXVtSjN0ZmdPYjlGeXV1Z1NTWTFYR0lqVl9wRlpiaFlQWW9SOGVYUVlXU1VwOV9PeGhXV3F4RVZ0TFpMdWdOaS1WdWM5X2FLUkwzUE5FZ2wtTjRNejcwcnFRMFBvWHI?oc=5"
-    },
-    {
-     "veiculo": "Visno Invest",
-     "titulo": "Ibovespa fecha em queda de 1,9% (16/11); LJQQ3 recua 11,8% na B3",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenl5bmxRd1ZkTGJXNDU5RVVRcUZETUhYWTB1Q0stSnRmdkFPdkluVzd1eDBNMllqcWFRUkRRSWVfX3N1WjB0Vmc3cmlhLVhhMzg2VXNQTW5xV05PeEg4VnUydXk5cVk4NUFpU08wVTlYaFAtV093TkdMUS1MT0MwQlhTMXhLOGV6ZWQwVExSVHl6cEQtaF8zZVhOUQ?oc=5"
-    }
-   ],
-   "score": 22.7
-  },
-  {
-   "id": "c9497dd62b",
-   "titulo": "XP tem lucro líquido ajustado de R$ 1,38 bi no 3T26 e dará agrado bilionário para acionista",
-   "url": "https://www.moneytimes.com.br/xp-tem-lucro-liquido-ajustado-de-r-138-bi-no-3t26-e-dara-agrado-bilionario-para-acionista/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-16T21:28:34+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=tem+lucro+l%C3%ADquido+ajustado+1%2C38+3T26+dar%C3%A1+agrado+bilion%C3%A1rio",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.7
-  },
-  {
-   "id": "b20435a36a",
-   "titulo": "Nvidia puxa perdas em NY antes de balanço e Nasdaq cai mais de 2%",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/16/nvidia-puxa-perdas-em-ny-antes-de-balanco-e-nasdaq-cai-mais-de-2percent.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T21:19:39+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Nvidia+puxa+perdas+antes+balan%C3%A7o+Nasdaq+cai+mais",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.6
-  },
-  {
-   "id": "3919354207",
-   "titulo": "Vice-presidente do BCE diz que apostas na alta de juros em 2027 não parecem irracionais",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/16/vice-presidente-do-bce-diz-que-apostas-na-alta-de-juros-em-2027-nao-parecem-irracionais.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T22:48:32+00:00",
-   "temas": [
-    "comportamento",
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Vice+presidente+BCE+diz+que+apostas+alta+juros+2027",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.2
-  },
-  {
-   "id": "650efca869",
-   "titulo": "Aluguel sobe 9% em 12 meses, quase o dobro da inflação, aponta FipeZAP",
-   "url": "https://www.infomoney.com.br/minhas-financas/aluguel-sobe-9-em-12-meses-quase-o-dobro-da-inflacao-aponta-fipezap/",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-17T03:01:00+00:00",
+   "id": "b335b612da",
+   "titulo": "Empresas em recuperação judicial podem negociar ICMS em nova fase do Acordo Paulista",
+   "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/empresas-em-recuperacao-judicial-podem-negociar-icms-em-nova-fase-do-acordo-paulista.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-17T11:00:00+00:00",
    "temas": [
     "economia"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Aluguel+sobe+meses%2C+quase+dobro+infla%C3%A7%C3%A3o%2C+aponta+FipeZAP",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.0
-  },
-  {
-   "id": "521cc34ace",
-   "titulo": "O formato do ajuste fiscal importa",
-   "url": "https://www1.folha.uol.com.br/colunas/cecilia-machado/2026/11/o-formato-do-ajuste-fiscal-importa.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-16T17:00:00-03:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=formato+ajuste+fiscal+importa",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 22.0
-  },
-  {
-   "id": "7aab9e904d",
-   "titulo": "Lula precisa sinalizar mudanças na articulação política para quarto mandato, diz especialista | WW",
-   "url": "https://www.youtube.com/watch?v=T17Gkp9l9aE",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T02:39:35+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+precisa+sinalizar+mudan%C3%A7as+articula%C3%A7%C3%A3o+pol%C3%ADtica+para+quarto+mandato%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.8,
-   "video_url": "https://www.youtube.com/watch?v=T17Gkp9l9aE",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 56,
-   "video_acima_mediana": 0.0,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula precisa sinalizar mudanças na articulação política para quarto mandato, diz especialista | WW",
-     "url": "https://www.youtube.com/watch?v=T17Gkp9l9aE",
-     "por_hora": 56
-    }
-   ]
-  },
-  {
-   "id": "ac755b1bca",
-   "titulo": "Mercado prevê inflação a 6,1% e PIB quase zero em 2027",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2Z6bEdhNndfbDdIdTZQX3M5Mk8wSTlkNkFhbFktRkdRZEFqc0d5Q2lRQUtwRG5kUkh1QmJIa3JfTjB6XzRLRUY3RTFYWU1DM2VOcXR2dFhZbVpvelRXUi1xVWR0ckhqSmlUVTVFN09oaXlkNGhINXpRd0M2V1ExMUFOV1VqUQ?oc=5",
-   "veiculo": "Ver-o-Fato",
-   "publicado": "2026-11-16T19:22:10+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Mercado+prev%C3%AA+infla%C3%A7%C3%A3o+6%2C1%25+PIB+quase+zero+2027",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Diário do Poder",
-     "titulo": "Mercado amplia projeção de inflação para 5% em 2027, com PIB menor",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWE03WnZoTS1ScWNkQXliVTA5TUpnYUlwWWNHcE5GUXo3TmhCRmxLMWpIQ21zVHRkbFk3MmJyTUY5ZjM3Tm9ITGY0bGc0a211U1lEeDJfZG9BSGxDWkFXQ0kxWFctSmV6M3huNVdZSFhacld1QUdTTm5QVmdIY1JfbEJFWlg5clFZMnRCSTVTUmh0XzJQNVZzbWlsek1mWmEyTlAzWVhGZno2MlRmWGVmZmxKMENGSDk0RXVEeW1n0gHDAUFVX3lxTE9OdDQxd2dMcWRiTHY2MXVYRE5LTU5WMmpvUTZWVTBBNUd1UkNMX3ItOU5pME90Smpyb3ZwZGplRHp2blZOTy1sc2JrLVFmZUhqRG5KaEhJaXpyNlFCN1lkbDhncVl4TUZvUjVnOXR6S09RUHVFRlc4VnhBZlRkYV81bFhqbEJMNVFFSHFwc25iTUVOczVOV19JMHk3eWhiR0t1UUlZU3ZMQ3MxS3N0LTUxRjJ3Q0k0VkMwNE9jbS1ueEI5dw?oc=5"
-    }
-   ],
-   "score": 21.8
-  },
-  {
-   "id": "7738a60f01",
-   "titulo": "Avança debate para flexibilizar provisão do agro",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/16/flexibilizao-da-regra-para-contabilizar-perdas-do-agro-nos-bancos-pode-ser-votada-nesta-semana-diz-fonte.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T23:58:10+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Avan%C3%A7a+debate+para+flexibilizar+provis%C3%A3o+agro",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.7
-  },
-  {
-   "id": "6476cb6996",
-   "titulo": "Alta de juros nos EUA faz dólar disparar",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFhESmVRQzhZRUJXRjlUZ1BDMjIzUk1waFE3SEdYa0swdkstQ3lFMjF1Wm9wdEFCWGdlTXJiUk0zNDVickhNb1doS1RNelFBSDFvckR1UjJhVlV4cXpHcHJ0SVN5M29ORmlYdFZHSTZzWTRyX1RUT0ZmYVh0aWpTTDBxMHRxbEJPcGhLdm1sN0t6YUkwSm1ubmFITk51OFh3aTAyYWMwOEFIVl9IUDl0RFVwU1NiU1nSAbwBQVVfeXFMUHJ6c1dqbWtiMDVQeUV1R09yY25IRmxydFNiT2ctekpmRmNBZXlfaWhDdElVS1VMbklXaW5XSUlMeGVHd2g3cHg3ZjJycW9iWDkzdDhfWXFaZjJrYlkyVXQyby13MU9FQmh4cms3MGpzYzVIS19jZnNCczNaSzZpeFM0LU5abVNQeUxSdlh0TTJYX3VQOXhadGVaalg3elQ3LURuaG9UcWJiYVprM0lvWlRRb0JGOTV4ZUw3OUU?oc=5",
-   "veiculo": "Jornal do Brasil",
-   "publicado": "2026-11-16T19:17:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alta+juros+nos+EUA+faz+d%C3%B3lar+disparar",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "Dólar forte hoje com juros em alta nos EUA e incerteza fiscal no Brasil",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaFRmcHNtdXJXZ0FsUFRIYTBsT2trSTRzcGlwT0hyZmt2bUxvQnNUWXJZMWt6TjByVzhZT0RmTXZfM3dTS1o4OGpEaWNSVzJuWEtKS1NDTUtDNWVuT3JEeFdJandMUGYtWTJXQUY0andCVWh3NEQ3aGRVVVMxS2ZXbE1NWmoySzdjcGstZFBrajBXRU1nRDlDcjZGcDdPd1hjU20wai1aZEZTaExOWEotOVdSdkVxZw?oc=5"
-    }
-   ],
-   "score": 21.7
-  },
-  {
-   "id": "7965282041",
-   "titulo": "Se governo fizer série de pequenas medidas, juros caem amanhã, diz Mansueto Almeida",
-   "url": "https://www.moneytimes.com.br/se-governo-fizer-serie-de-pequenas-medidas-juros-caem-amanha-diz-mansueto-almeida/",
-   "veiculo": "Money Times",
-   "publicado": "2026-11-16T21:16:53+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=governo+fizer+s%C3%A9rie+pequenas+medidas%2C+juros+caem+amanh%C3%A3%2C+diz",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.6
-  }
- ],
- "falas_e_videos": [
-  {
-   "id": "5eca0be95a",
-   "titulo": "STF pode julgar fim da 6x1 ainda nesta semana",
-   "url": "https://valor.globo.com/legislacao/noticia/2026/11/16/stf-pode-julgar-fim-da-6x1-ainda-nesta-semana.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T23:28:14+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=STF+pode+julgar+fim+6x1+ainda+nesta+semana",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Fim da escala 6x1 pode \"furar fila\" de julgamentos no plenário do STF | HORA H",
-     "url": "https://www.youtube.com/watch?v=CeFTCVckDyA"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Fim da escala 6×1 deve “furar fila” de julgamentos no plenário do STF",
-     "url": "https://www.cnnbrasil.com.br/politica/fim-da-escala-6x1-deve-furar-fila-de-julgamentos-no-plenario-do-stf/"
-    },
-    {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Por que o fim da escala 6x1, já aprovado em lei, trava no STF",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2d6ZEdsMEhndTAtbVQyY25xd3pDcHdRM3l3QjA5TlRtRFU5N3VscmEwM3RBRTBmQnVaQ09qUGxDZGhyeFhUcHdaVGk1ZTljVU5nc2hrTm1QNUZxRzdOaFlXNVJTMjNhd0tVbk1nZ1F0ZFhFUW9iUktyWk1DZjMzWG9pZjlNaUNxZm5va1ZGRnpxR25nZEFTUTdmTWd0NWFwZ2F4Tnd1MnBkZXM?oc=5"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Fim da escala 6×1 já é lei, mas disputa no STF pode mudar transição | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=qorWDhbDvMI"
-    }
-   ],
-   "score": 39.6,
-   "video_url": "https://www.youtube.com/watch?v=qorWDhbDvMI",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 7851,
-   "video_acima_mediana": 27.5,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Fim da escala 6×1 já é lei, mas disputa no STF pode mudar transição | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=qorWDhbDvMI",
-     "por_hora": 7851
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Fim da escala 6x1 pode \"furar fila\" de julgamentos no plenário do STF | HORA H",
-     "url": "https://www.youtube.com/watch?v=CeFTCVckDyA",
-     "por_hora": 2350
-    }
-   ]
-  },
-  {
-   "id": "bd9c5789fd",
-   "titulo": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
-   "url": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-17T02:14:44+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Marinho+Tereza+Cristina+criticam+Moraes+por+negar+visitas+Bolsonaro",
+   "busca_video": "https://www.youtube.com/results?search_query=Empresas+recupera%C3%A7%C3%A3o+judicial+podem+negociar+ICMS+nova+fase+Acordo",
    "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Marinho e Tereza criticam Moraes por negar visita a Bolsonaro: “Arbitrário”",
-     "url": "https://www.cnnbrasil.com.br/politica/marinho-e-tereza-criticam-moraes-por-negar-visita-a-bolsonaro-arbitrario/"
+     "veiculo": "FogãoNET",
+     "titulo": "LIVE CAFÉ COM FOGÃONET | Huguinho pode reforçar o Botafogo; recuperação judicial avança",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd29TMDRqblZyZU9GMjc4cjFFRklucEFNcDh1czk2ZTZ1MHRDZi0tdjU3WnZzUTZ2WXpRdDhFa0toUDliZWF4S1JaU2ctZ3pfZUR0Y2J0MkNNNkM2ODB0TjBCb1YtOGNUNjFja1o4OUhKdjJpaTJTbExIaHJycnc1RnhLYm03N2ZVSTdRT1VFUHhxbUZ4STBmWm1IbkRTN0NpQWxhaVRKR1ZGNTBvVzhEXy1KYTRfOWN3MElmN3gzNFN3Z1FEeEpubUpsOA?oc=5"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "Moraes nega visita de Marinho, Tereza Cristina e Valdemar a Jair Bolsonaro | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=BIVWpZb0NCI"
+     "veiculo": "Terra",
+     "titulo": "Botafogo se aproxima de número mágico na recuperação judicial",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWHBlMVJhYXNTR1I4LVpXSG1TdUZqM2t2UDkwMTZDNXhjaXRsS2NELTdBZ2x4aFhaY2YzUk03Sm14bkNUM1RxTjcyVmtpUjZpaDktQWJHeEdSMHZjTC1MUzJseXpPVURoYlJDX1cyRWVRVHZ1Z1NHczNfX2VvMXR3enpFSlp1cDc5VUtDcS1DRTRZcE9Eb3FnUnVYX3NMd0xqRVhKTy05NjZxSlZZcEFPWmJZVC1BTG94OW16SDRMa2d3LThXTFBaLTEtUGlmVlBKZHFjSVRGSWN1dTJGZkxCWlNVLXU?oc=5"
     },
     {
-     "veiculo": "Agora RN",
-     "titulo": "Moraes nega visita de Rogério Marinho e Tereza Cristina a Bolsonaro e cita fim político-partidário",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFhQalhrTlpQQkNLaG55WWEwci11UmNEemhKSk5oTmJESmhxZmIxT2hIdEx3ZjFoc3RzQjQ3QjBvT1lCQTladlBFSURZckd0YmwyMEJJX0lQbTcxbTU2SnEwVmh1SjRDdGtLTmFpOW1rQkFtUG5UQllMMmdJM3pUXzhn?oc=5"
+     "veiculo": "PortalRBV",
+     "titulo": "Número de empresas em recuperação judicial se aproxima de 500 em SC",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDMyV214dFZ5UVBKbmdOWFBhSERlbmlJWVphWnVNUTdoWGx2c19JbDdMMXpSQkV1bjVOamp6UmFOSWlhVThoR19iTVYwcl80dllXbWM2T1VfaTNsSDE3NGlSaFRKczFUR1lDUWRrN2pNbVJMNldpazNNZGlScTRmLVcyekxlOEpoQldrSDhuaUlEdjZNYjVTQUpnd092Q0NTaVRrUXdSWWhfM2U1elRtNXpIaUU?oc=5"
     }
    ],
-   "score": 37.7,
-   "video_url": "https://www.youtube.com/watch?v=BIVWpZb0NCI",
-   "video_canal": "SBT News",
-   "video_por_hora": 2633,
-   "video_acima_mediana": 4.2,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Moraes nega visita de Marinho, Tereza Cristina e Valdemar a Jair Bolsonaro | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=BIVWpZb0NCI",
-     "por_hora": 2633
-    }
-   ]
+   "score": 24.5
   },
   {
-   "id": "7bcb2fb475",
-   "titulo": "DÓLAR ALTO DÁ \"BOAS-VINDAS\" A LULA APÓS IDA AO EXTERIOR | WW",
-   "url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T02:04:57+00:00",
+   "id": "ae7d8769a5",
+   "titulo": "Beneficiários com NIS de final 2 recebem Bolsa Família de novembro",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-novembro",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-17T07:02:00-03:00",
    "temas": [
-    "mercado",
-    "politica"
+    "economia",
+    "mercado"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%93LAR+ALTO+BOAS+VINDAS+LULA+AP%C3%93S+IDA+EXTERIOR",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Benefici%C3%A1rios+com+NIS+final+recebem+Bolsa+Fam%C3%ADlia+novembro",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CNN Brasil",
-     "titulo": "Dólar alto dá \"boas-vindas\" a Lula após ida ao exterior; veja análise | WW",
-     "url": "https://www.youtube.com/watch?v=SxcL_cPDo0k"
+     "veiculo": "Exame",
+     "titulo": "Bolsa Família paga NIS final 2 nesta terça, 17; calendário foi antecipado",
+     "url": "https://exame.com/invest/minhas-financas/bolsa-familia-paga-nis-final-2-nesta-terca-17-calendario-foi-antecipado/"
     }
    ],
-   "score": 30.6,
-   "video_url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 31177,
-   "video_acima_mediana": 21.3,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "DÓLAR ALTO DÁ \"BOAS-VINDAS\" A LULA APÓS IDA AO EXTERIOR | WW",
-     "url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-     "por_hora": 31177
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Dólar alto dá \"boas-vindas\" a Lula após ida ao exterior; veja análise | WW",
-     "url": "https://www.youtube.com/watch?v=SxcL_cPDo0k",
-     "por_hora": 951
-    }
-   ]
+   "score": 24.1
   },
   {
-   "id": "7751b7d22c",
-   "titulo": "Análise: “Plano Moretti” desagrada mercado e parte da esquerda | WW",
-   "url": "https://www.youtube.com/watch?v=-bNQ_fQoG6o",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T01:40:01+00:00",
+   "id": "b6b08a7e4c",
+   "titulo": "Hammack, do Fed, defende altas graduais dos juros à medida que a inflação se dissemina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRDcxVC1xZXFHbGVzUW54a0E0enVRMjRCSktNUFpVV2JIVGRvMlJKXzVHaHQwdlAyZTNFQ1VsREs5MVdDUW53TS1Ud3ZWbEc0R0hJQjl3eFVpS1lleXpYMklRZy1pV1JlMndPVW8yMlFpWW9OdlJweVlhOXh5d2wtaHp3V1RVRmVXczd5bGJrSzkwTEhBanYzLU1nelZVLU9ZVFZ5Z0h2LVoyTlNyQ0VDMEpSY0tzZk96?oc=5",
+   "veiculo": "www.tmgm.com",
+   "publicado": "2026-11-17T00:44:16+00:00",
    "temas": [
     "economia",
-    "mercado",
-    "politica"
+    "mercado"
    ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=An%C3%A1lise+Plano+Moretti+desagrada+mercado+parte+esquerda",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 30.0,
-   "video_url": "https://www.youtube.com/watch?v=-bNQ_fQoG6o",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 3939,
-   "video_acima_mediana": 2.7,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Análise: “Plano Moretti” desagrada mercado e parte da esquerda | WW",
-     "url": "https://www.youtube.com/watch?v=-bNQ_fQoG6o",
-     "por_hora": 3939
-    }
-   ]
-  },
-  {
-   "id": "67f010efcd",
-   "titulo": "Governo tem votos para barrar destaques ao projeto de ajuste fiscal, diz líder no Senado",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/16/governo-tem-votos-para-barrar-destaques-ao-projeto-de-ajuste-fiscal-diz-lider-no-senado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-16T23:42:07+00:00",
-   "temas": [
-    "economia",
-    "politica"
-   ],
-   "video": true,
+   "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Governo+tem+votos+para+barrar+destaques+projeto+ajuste+fiscal%2C",
+   "busca_video": "https://www.youtube.com/results?search_query=Hammack%2C+Fed%2C+defende+altas+graduais+dos+juros+medida+que",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Governo se mobiliza contra destaques apresentados  ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=b4o64aUPNJk"
+     "veiculo": "IndexBox",
+     "titulo": "Hammack, do Fed, não vê justificativa para altas maiores de juros e defende abordagem gradual",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1ZLR2Z4bHItWjZmTFBwVzZUNFlWYmxIaEVYYU5ETDQzSXY3eFM5eU9odTQwa0FRREZwTWRsLWdodFhCNjRzUlIwTXRZUldfMGRnYlB6RWlTcGpPa24zRmR0OXBhdktSOU12dTN4M09reEY4cmdDblFRWWhwaTVHTzhtQjY4Wk9EdUdlLS1pN1hNNkFHdWFFTlhwbFdUdU0xcng1c2lPcjIyVGM?oc=5"
     },
     {
-     "veiculo": "TV Senado",
-     "titulo": "A Voz do Brasil - 16/11/26: Plenário analisa destaques ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=a8fzfqdfWX8"
+     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "titulo": "Hammack, do Fed, defende altas graduais de juros e alerta para riscos de movimentos maiores",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaGhFVGRkTVJCYW9hbzJfcnF3UElPMnZSU09fUzEtQXZWYnZKakJqUGM0NHJCcFNvQnh2dTJUQUJxbnk2S2tNMGU0OTJDd0s4QUNkZEh5VFlqVV90eFZHYXd4SWo4MlYxWFNxdmxOdnZ2czdIU2RfWW12TXcxNlcxWm16Y0RaRXhsMy1PVVpZT0xVaEpOY0RTeXgtMGdWN3ZDTmFCaHk0UDZWbHFJWkF2Y0lWbVc0cGVHWHV4ckZyemNqZVFab0xYQ0psMmxSTEMwSjlubFVacw?oc=5"
     }
    ],
-   "score": 29.9,
-   "video_url": "https://www.youtube.com/watch?v=b4o64aUPNJk",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 775,
-   "video_acima_mediana": 0.7,
+   "score": 23.2
+  },
+  {
+   "id": "ed0fd1c1f4",
+   "titulo": "QUEM É O MERCADO FINANCEIRO QUE PRESSIONA LULA E APOSTOU EM FLÁVIO BOLSONARO?",
+   "url": "https://www.youtube.com/watch?v=7qm7Vmsg_rE",
+   "veiculo": "MyNews",
+   "publicado": "2026-11-17T11:00:03+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=QUEM+MERCADO+FINANCEIRO+QUE+PRESSIONA+LULA+APOSTOU+FL%C3%81VIO+BOLSONARO",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.8,
+   "video_url": "https://www.youtube.com/watch?v=7qm7Vmsg_rE",
+   "video_canal": "MyNews",
+   "video_por_hora": 602,
+   "video_acima_mediana": 5.9,
    "videos": [
     {
-     "canal": "Band Jornalismo",
-     "titulo": "Governo se mobiliza contra destaques apresentados  ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=b4o64aUPNJk",
-     "por_hora": 775
-    },
-    {
-     "canal": "TV Senado",
-     "titulo": "A Voz do Brasil - 16/11/26: Plenário analisa destaques ao projeto de ajuste fiscal",
-     "url": "https://www.youtube.com/watch?v=a8fzfqdfWX8",
-     "por_hora": 48
+     "canal": "MyNews",
+     "titulo": "QUEM É O MERCADO FINANCEIRO QUE PRESSIONA LULA E APOSTOU EM FLÁVIO BOLSONARO?",
+     "url": "https://www.youtube.com/watch?v=7qm7Vmsg_rE",
+     "por_hora": 602
     }
    ]
   },
   {
-   "id": "84e5bccdf5",
-   "titulo": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/morgan-stanley-rebaixa-recomendacao-para-bolsa-brasileira-e-preve-queda-de-7.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-16T19:05:19.284363+00:00",
+   "id": "458be6e463",
+   "titulo": "Ajuste fiscal no Senado, Durigan com investidores e falas do Fed: o que move os mercados",
+   "url": "https://exame.com/invest/mercados/ajuste-fiscal-no-senado-durigan-com-investidores-e-falas-do-fed-o-que-move-os-mercados/",
+   "veiculo": "Exame",
+   "publicado": "2026-11-17T05:30:50-03:00",
    "temas": [
-    "mercado"
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+Senado%2C+Durigan+com+investidores+falas+Fed+que",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.5
+  },
+  {
+   "id": "6078a3c723",
+   "titulo": "União honra dívidas de R$ 445 milhões de Estados e municípios",
+   "url": "https://valor.globo.com/brasil/noticia/2026/11/17/uniao-honra-dividas-de-r-445-milhoes-de-estados-e-municipios.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T08:00:03+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Uni%C3%A3o+honra+d%C3%ADvidas+445+milh%C3%B5es+Estados+munic%C3%ADpios",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.3
+  },
+  {
+   "id": "3ffa8553dc",
+   "titulo": "PIB pode ter ganho de 5,1% com IA, diz BID",
+   "url": "https://valor.globo.com/brasil/noticia/2026/11/17/pib-pode-ter-ganho-de-51-com-ia-diz-bid.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T08:00:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=PIB+pode+ter+ganho+5%2C1%25+com+IA%2C+diz+BID",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Regulamentação de ‘big techs’ pode gerar ganho de até 0,4% do PIB, diz Fazenda",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/17/regulamentacao-de-big-techs-pode-gerar-ganho-de-ate-04-do-pib-diz-fazenda.ghtml"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "Regulação concorrencial das big techs pode reduzir custos em até R$ 50 bi ao ano, projeta Fazenda",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/regulacao-concorrencial-das-big-techs-pode-reduzir-custos-em-ate-r-50-bi-ao-ano-projeta-fazenda.shtml"
+    }
+   ],
+   "score": 22.3
+  },
+  {
+   "id": "eec112518d",
+   "titulo": "Ambipar (AMBP3) adia divulgação do 3T26 em meio ao processo de recuperação judicial",
+   "url": "https://www.moneytimes.com.br/ambipar-ambp3-adia-divulgacao-do-3o-trimestre-de-2026-por-conta-da-recuperacao-judicial-lmrs/",
+   "veiculo": "Money Times",
+   "publicado": "2026-11-17T11:58:00+00:00",
+   "temas": [
+    "economia"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Ambipar+AMBP3+adia+divulga%C3%A7%C3%A3o+3T26+meio+processo+recupera%C3%A7%C3%A3o+judicial",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Money Times",
+     "titulo": "Ambipar (AMBP3) adia divulgação do 3T26 em meio ao processo de recuperação judicial",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlFmQlZqSk1IYWFSdjlNN24zQ09SUUNFZnBoSks3Mlg4V0d2dDdkX3VZenppaFdWdjRGQlRvd240SWhDVWlremllb01Uakt5YWl6U3pSeEF1RU43anNyYWZ2Ym91cGVOMDhYMDI1cTdSWUppM2ZiLXRoekxtcGxpSmh6NjQ2M3ZjX0ZXMWVDQUhJQmNLS2hKM3RPTEVyM090TEl0cGFhaDdSVWpfQm83SHdYU3ZlclFVc25NM1RERVQ?oc=5"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Ambipar (AMBP3) adia divulgação do balanço do 3º tri em meio à recuperação judicial",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUpZX2tHU0dCem10N09FRkpTcU4ydE1iWUV0VUxicE9MaEJIM2ZkY3lLLXVhOC0yVUJieTRWTnhLSGJtSVlpWDB1d2ZkSGluN2dBZGZ3OVRkRXM1TGk3VkRDTi1KT3pPOU9oVDlfc2I5SXhPX2RPeXg0ejF5VGgwVDJUdzdDTElUdjNlVVI5Y1hXYmtnVkhPZjc5SE05aHU5ZHR5SzJ5SEVpeDYxdXJJdVZvcDVOUHF0a2dmbdIBwgFBVV95cUxQSkhGcVlGMHV2V1gwS2dyX2lKaGlZelFrSzJ0c3hKMndhMDc2TXpLeC1kS2oxWlpPVHFOb216dTdWb3Bqd25NWlNETmVpNGRLZHFBV3h5c193b2IxSU5pZ0VqVUR3WmlxYkNVczhBUGw4NDBjM1dXeWo3ZjJibEN3LTYtSXIwRVdONjdNTmdRdWxGdjAtNHFaWll3SUM1NkdWR2l5ak13UnFKWGRzVWpJLTRkQXRNTWRxZ0RuWVZmdXlIUQ?oc=5"
+    },
+    {
+     "veiculo": "Visno Invest",
+     "titulo": "Ambipar (AMBP3) adia divulgação do ITR do 3T26 por recuperação judicial",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlNrNVpHeGlfcGwxYnFjWkMxb2ZKZXZrM0VESmdvY25ndmp2VTFtUnhwZ1lRM3BMZ0xsckxWa1l5NFJoSGdfN1k2LXRnQUZOVnN0QlBvZDVoTVVEVVFuVVMtZzJKMl83RXdhMGd6OUhaZjUtMXlidGxWRDBjdTFOSGkteWNJTl93Ynp1aC04VWQ3ZC0wRDRYWDhpc1h5SnRTMGdKTDduNGFwMXc?oc=5"
+    }
+   ],
+   "score": 21.9
+  }
+ ],
+ "falas_e_videos": [
+  {
+   "id": "2f6971088e",
+   "titulo": "Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
+   "url": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-17T12:02:00+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+quer+que+povo+pobre+viva+mis%C3%A9ria%2C+diz+Lula",
+   "veiculos": 8,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Diário 360",
+     "titulo": "“MERCADO FINANCEIRO QUER QUE O POVO POBRE VIVA NA MISÉRIA”, DISPARA LULA DURANTE VISITA À ESPANHA",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXF3cXdqaDJrOW5Eb1NOY3NfUWdPQ1Fyd2pwVWRmbGExTllXd0FPQVFHMmI2MUI0OXllTlRMUWdENmhkdWtLZC1Xc25JTmZNM3czVTdEYnZQaVJsX2RNRG5xYkx6WlhTa0dSSllKVlhvLVk5bTZ0TWN3Wjl1b0NqZVp0NVBuM2UydmhBcTU4cC11eGZmVHo0ZXctQi1KRHc3b3RQZ1lVaWdZV21MaXZBZUNPamd3NGVfa25BWnRudDdmSGlPbTZqWHVqTQ?oc=5"
+    },
+    {
+     "veiculo": "Bahia Econômica",
+     "titulo": "LULA ATACA MERCADO FINANCEIRO DURANTE DEBATE DE AJUSTE FISCAL",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMm5RWnRtaDIxYTlrNHRZLTFzN1QtRU91WDN0NWFzNmNNcERpcktzOUFTZXFJaHZkMFZleHh3X2Q4Skxpb1hVdWozNF9XeVVZVnZTNE4wQXVha2g3bDhha0hXZ3BPaE9kSmJ5UU0tME9hc2RBbGVUVTE3UUtkb2UyaC1fY2hzR3NPMEdlR01MX1gxV1M5bHBvdjVDZUJfa2FXOS04UktYVmJwRFZRWDVvY2huVlA?oc=5"
+    },
+    {
+     "veiculo": "BBC News Brasil",
+     "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+     "url": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "veiculo": "Revista Oeste",
+     "titulo": "Lula: ‘Mercado financeiro quer que o povo pobre viva na miséria’",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUY5TGp3TERuaHpKbEhrZE9qeDFrc0c1YURqc0M5VHBiQk9IbERsTzVTOU9qSkJxd0htWFFHMHh0ekotZU9Kc0ZXc0RGZ1QxUjZrdVNoU0dySEk1Ym9IY0hXVGxzOHVDa1l1VkVEZ1NpSHU2TGFaSzZxUHZ5YVFmeDhuWUdQb3lDTEdKUWlZNk9qa3hyMWV3V3U0WmQ?oc=5"
+    }
+   ],
+   "score": 52.7,
+   "video_url": "https://www.youtube.com/watch?v=qC5aznaTHbI",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1910,
+   "video_acima_mediana": 3.3,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "REAÇÃO DO MERCADO DIFICULTARÁ APROVAÇÃO DE AJUSTE FISCAL DE LULA? | O GRANDE DEBATE",
+     "url": "https://www.youtube.com/watch?v=qC5aznaTHbI",
+     "por_hora": 1910
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Reação do mercado dificultará aprovação de ajuste fiscal de Lula? | O GRANDE DEBATE",
+     "url": "https://www.youtube.com/watch?v=yo9kjgryoTs",
+     "por_hora": 500
+    }
+   ]
+  },
+  {
+   "id": "7c2853c8c5",
+   "titulo": "Agenda do dia: Votação de pacote fiscal é destaque",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/17/agenda-do-dia-votacao-de-pacote-fiscal-e-destaque.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-17T12:00:55+00:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado",
+    "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Morgan+Stanley+rebaixa+recomenda%C3%A7%C3%A3o+para+Bolsa+brasileira+prev%C3%AA+queda",
+   "busca_video": "https://www.youtube.com/results?search_query=Agenda+dia+Vota%C3%A7%C3%A3o+pacote+fiscal+destaque",
+   "veiculos": 12,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jornal Grande Bahia",
+     "titulo": "Senado retoma votação do ajuste fiscal; quatro destaques podem alterar medidas de R$ 56,1 bilhões para 2027",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVnp0SFFEY2xoQ2cwNW9yalZCLWZmNjE2OWRWaUlnaXd4b1JxU1dvbDZEVC1IZkhDMjJheGZSZGJUYkExSC1EaXRyQ0tUT0hTdS0zcXdVV2sxTmhqOFBIbmtMMDFINTlLQUdVS2Ffd3JGNUhMeldUU0lfbTFyekk1VzVfWE9Sd2c1Ync2SWwyOHlBSUtFZTJKbllHQUtlS1hKTWtOYWYxeVNFbkY5Y2hEWEZ4WnBGVUJLV1gzRk4yVVA1cXlTc3ktdmVBUWhZb1BQbXZ1dFNmMllYZmloU3d3?oc=5"
+    },
+    {
+     "veiculo": "Poder360",
+     "titulo": "Ao vivo: Senado vota 4 destaques do projeto de ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=HbqAvOQ-3v4"
+    },
+    {
+     "veiculo": "Movimento Econômico",
+     "titulo": "Senado retoma votação de pacote fiscal um dia após dólar atingir R$ 5,77",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2dHUGZfYktLSTlEMVo5U1N2V1phcHRqSnpYS2ZPelVrMElFaG1kVGM4LWkxUE5qSDRxYW9yOEZkMVhoM1ZaZUpxck1VYURhYU5wR1FvTUNkVENRNnBOUFdsUGpScFlSLVQxR2MyLUJCNGRZdGdCZGg1LXR2Qkt5MzNlc2tKLVlWQnJRdy0yTE1ET0dCVXFpcEdEQUpoSlNBakZSWGd0TDJ6SWYwbkU1SjQ0cm1jekczdU53TWVCVEtNRHc?oc=5"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Senado retoma votação do ajuste fiscal; veja os quatro pontos pendentes",
+     "url": "https://exame.com/economia/senado-retoma-votacao-do-ajuste-fiscal-veja-os-quatro-pontos-pendentes/"
+    }
+   ],
+   "score": 41.4,
+   "video_url": "https://www.youtube.com/watch?v=GWh7m5R_Yi8",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1018,
+   "video_acima_mediana": 1.7,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Senado deve retomar nesta terça votação do ajuste fiscal de até R$ 56 bilhões | CNN NOVO DIA",
+     "url": "https://www.youtube.com/watch?v=GWh7m5R_Yi8",
+     "por_hora": 1018
+    },
+    {
+     "canal": "CNN Brasil",
+     "titulo": "AO VIVO: SENADO DEVE VOTAR DESTAQUES DO AJUSTE FISCAL | LIVE CNN",
+     "url": "https://www.youtube.com/watch?v=AfqV3DkkDhE",
+     "por_hora": 230
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Ajuste fiscal: entenda os 4 pontos que podem mudar no Senado | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=pk3jJXz7DvA",
+     "por_hora": 207
+    },
+    {
+     "canal": "TV Senado",
+     "titulo": "Senado analisa destaques ao ajuste fiscal e projetos sobre jovens e vítimas de violência sexual",
+     "url": "https://www.youtube.com/watch?v=uxg502Ih7-U",
+     "por_hora": 112
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Ao vivo: Senado vota 4 destaques do projeto de ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=HbqAvOQ-3v4",
+     "por_hora": 0
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Senado vota destaques da oposição ao projeto de ajuste fiscal",
+     "url": "https://www.youtube.com/watch?v=xrxq5O7QWHo",
+     "por_hora": 0
+    }
+   ]
+  },
+  {
+   "id": "3f3efc3ee7",
+   "titulo": "Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4",
+   "url": "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-17T11:49:51+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Podcast+explica+plano+Moretti+pacote+ajuste+fiscal+para+governo",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
      "veiculo": "UOL",
-     "titulo": "Morgan Stanley rebaixa Bolsa brasileira e prevê queda de 7% do Ibovespa em 2027",
-     "url": "https://www.youtube.com/watch?v=pms5eMe5mvY"
+     "titulo": "Ajuste fiscal do governo Lula: Senado discute e vota destaques do projeto para reduzir gastos",
+     "url": "https://www.youtube.com/watch?v=IOcr-fii7KQ"
     },
     {
-     "veiculo": "Folha de S.Paulo",
-     "titulo": "Morgan Stanley rebaixa recomendação para Bolsa brasileira e prevê queda de 7%",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWd4REJ2LXBYcTJMMVUyNnIyMy1JYkdIa2ltZTRnRjNWYVJhY2x3WWRGZnB5SzVlRkt1aDFTeFZ3NEVEZ01yMldoZGViRWpfZnM2QVB4MTB6Q01LZWU3aThUZ0ppU2FYYzI4THUxOTdwNkdEZ1p6T1Npcm52UmNFNi0wTWFUd1NWLW1HcFczLWlkU0NCQ0o4eDZINXRDTjhEM3FXQ3ByUzIwWTZ6LXZEdHJ4Zk1YU2F3ckEycl9DR3hDYzZrVV9j?oc=5"
+     "veiculo": "SBT News",
+     "titulo": "Governo discute fim da escala 6 por 1 e pacote de ajuste fiscal | #NewsNoite",
+     "url": "https://www.youtube.com/watch?v=sICxd320si0"
     }
    ],
-   "score": 25.0,
-   "video_url": "https://www.youtube.com/watch?v=pms5eMe5mvY",
-   "video_canal": "UOL",
-   "video_por_hora": 862,
-   "video_acima_mediana": 0.5,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Morgan Stanley rebaixa Bolsa brasileira e prevê queda de 7% do Ibovespa em 2027",
-     "url": "https://www.youtube.com/watch?v=pms5eMe5mvY",
-     "por_hora": 862
-    }
-   ]
-  },
-  {
-   "id": "3a9fc448ba",
-   "titulo": "Endividamento bate recorde no país; 82% das brasileiras famílias são afetadas | #SBTBrasil",
-   "url": "https://www.youtube.com/watch?v=0iYmypMEeNE",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-17T00:16:20+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Endividamento+bate+recorde+pa%C3%ADs+82%25+das+brasileiras+fam%C3%ADlias+s%C3%A3o",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 24.1,
-   "video_url": "https://www.youtube.com/watch?v=0iYmypMEeNE",
+   "score": 35.2,
+   "video_url": "https://www.youtube.com/watch?v=sICxd320si0",
    "video_canal": "SBT News",
-   "video_por_hora": 563,
-   "video_acima_mediana": 0.9,
+   "video_por_hora": 767,
+   "video_acima_mediana": 4.1,
    "videos": [
     {
      "canal": "SBT News",
-     "titulo": "Endividamento bate recorde no país; 82% das brasileiras famílias são afetadas | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=0iYmypMEeNE",
-     "por_hora": 563
+     "titulo": "Governo discute fim da escala 6 por 1 e pacote de ajuste fiscal | #NewsNoite",
+     "url": "https://www.youtube.com/watch?v=sICxd320si0",
+     "por_hora": 767
+    },
+    {
+     "canal": "UOL",
+     "titulo": "Ajuste fiscal do governo Lula: Senado discute e vota destaques do projeto para reduzir gastos",
+     "url": "https://www.youtube.com/watch?v=IOcr-fii7KQ",
+     "por_hora": 0
     }
    ]
   },
   {
-   "id": "f7229f9871",
-   "titulo": "Ajuste fiscal do governo: Dani Lima explica que saúde e educação estão blindadas",
-   "url": "https://www.youtube.com/watch?v=gY3GSc_Du_8",
-   "veiculo": "UOL",
-   "publicado": "2026-11-17T00:05:19.284363+00:00",
+   "id": "c11fdf39ba",
+   "titulo": "Edição da Manhã: Senadores devem concluir votação do projeto de ajuste fiscal nesta terça",
+   "url": "https://www.youtube.com/watch?v=m_mbQQjf0rw",
+   "veiculo": "TV Senado",
+   "publicado": "2026-11-17T09:19:25+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -1668,282 +1679,343 @@
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+governo+Dani+Lima+explica+que+sa%C3%BAde+educa%C3%A7%C3%A3o",
+   "busca_video": "https://www.youtube.com/results?search_query=Edi%C3%A7%C3%A3o+Manh%C3%A3+Senadores+devem+concluir+vota%C3%A7%C3%A3o+projeto+ajuste+fiscal",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Nvidia e ajuste fiscal ditam o rumo dos mercados nesta terça",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3BoV005VFB6UnJ6RVBabW5Qd2VOMl9ab1I5Z0NwT013QXpCQkFhZ2I1cUtLaUlWS25vdkhzaFhfWmtla2FhZDZxTjhaNTJrM0VDbFhmOVlNSXllMk5kWHVQYUhXMVpkMHlwTWJhRVVXbEZXYkNYSHVGbjRKSnBXeUVVNDFmem16TUwzVGhMNzFtZTRFNGctUg?oc=5"
+    },
+    {
+     "veiculo": "Brasil de Fato",
+     "titulo": "Ato contra juros altos e ajuste fiscal será realizado nesta terça (17) em Brasília",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXNQU1RDM2xOVm9qWXdNYzgzNkUwcHhQbU5UazVyZmt4RDh1R0Q0bDZWVGpnZ1V0VVdzY3hGNldxbnVNSnhPUWI2YnJ2NE9rcHFTTHFQSElOZWpJYmlOazJjdkdjM3JrS3dDZlhhdGtlOHVKZkVpYkQzZ2l3azdaSHBkUm5iYlh0ZlRodUVxWXhEV25rcDNiY2NGNWljNU5reklJYUNScFRXdzFGUXdQRGRDemc1NWJwVHNVMnZyeEFQdw?oc=5"
+    }
+   ],
+   "score": 33.8,
+   "video_url": "https://www.youtube.com/watch?v=m_mbQQjf0rw",
+   "video_canal": "TV Senado",
+   "video_por_hora": 6,
+   "video_acima_mediana": 6.0,
+   "videos": [
+    {
+     "canal": "TV Senado",
+     "titulo": "Edição da Manhã: Senadores devem concluir votação do projeto de ajuste fiscal nesta terça",
+     "url": "https://www.youtube.com/watch?v=m_mbQQjf0rw",
+     "por_hora": 6
+    }
+   ]
+  },
+  {
+   "id": "fe1d5c8c25",
+   "titulo": "Tarcísio critica 'plano Moretti' e defende possibilidade de adiar reforma tributária",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-defende-possibilidade-de-adiar-reforma-tributaria.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-17T10:08:17.819559+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Tarc%C3%ADsio+critica+plano+Moretti+defende+possibilidade+adiar+reforma+tribut%C3%A1ria",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
      "veiculo": "Jovem Pan News",
-     "titulo": "Governo questiona desinformação sobre o ajuste fiscal e assegura recursos para saúde e educação",
-     "url": "https://www.youtube.com/watch?v=NQHBP9N17x4"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Dani Lima explica ajuste fiscal: 'Não vai cortar na saúde e na educação'; entenda a proposta",
-     "url": "https://www.youtube.com/watch?v=MNxoiNr9BNk"
+     "titulo": "Tarcísio defende adiamento do início da transição da reforma tributária",
+     "url": "https://www.youtube.com/watch?v=8WaPjmqTgUA"
     }
    ],
-   "score": 23.6,
-   "video_url": "https://www.youtube.com/watch?v=gY3GSc_Du_8",
-   "video_canal": "UOL",
-   "video_por_hora": 2137,
-   "video_acima_mediana": 1.2,
+   "score": 33.3,
+   "video_url": "https://www.youtube.com/watch?v=8WaPjmqTgUA",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 389,
+   "video_acima_mediana": 1.5,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Ajuste fiscal do governo: Dani Lima explica que saúde e educação estão blindadas",
-     "url": "https://www.youtube.com/watch?v=gY3GSc_Du_8",
-     "por_hora": 2137
-    },
-    {
      "canal": "Jovem Pan News",
-     "titulo": "Governo questiona desinformação sobre o ajuste fiscal e assegura recursos para saúde e educação",
-     "url": "https://www.youtube.com/watch?v=NQHBP9N17x4",
-     "por_hora": 1733
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Dani Lima explica ajuste fiscal: 'Não vai cortar na saúde e na educação'; entenda a proposta",
-     "url": "https://www.youtube.com/watch?v=MNxoiNr9BNk",
-     "por_hora": 1667
+     "titulo": "Tarcísio defende adiamento do início da transição da reforma tributária",
+     "url": "https://www.youtube.com/watch?v=8WaPjmqTgUA",
+     "por_hora": 389
     }
    ]
   },
   {
-   "id": "5d92476fb6",
-   "titulo": "Plano Moretti mira mercado e pode gerar superávit de R$ 8,5 bilhões, diz especialista | WW",
-   "url": "https://www.youtube.com/watch?v=hwUdjJ1lIWw",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T01:23:56+00:00",
+   "id": "826084a79c",
+   "titulo": "POR QUE A ESQUERDA ESTÁ REVOLTADA COM O PACOTE FISCAL DE LULA?",
+   "url": "https://www.youtube.com/watch?v=rZSU2_JvxHk",
+   "veiculo": "MyNews",
+   "publicado": "2026-11-17T10:22:00+00:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Plano+Moretti+mira+mercado+pode+gerar+super%C3%A1vit+8%2C5+bilh%C3%B5es%2C",
-   "veiculos": 1,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=POR+QUE+ESQUERDA+EST%C3%81+REVOLTADA+COM+PACOTE+FISCAL+LULA",
+   "veiculos": 5,
    "rotina": false,
-   "outras": [],
-   "score": 23.4,
-   "video_url": "https://www.youtube.com/watch?v=hwUdjJ1lIWw",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 160,
-   "video_acima_mediana": 0.1,
+   "outras": [
+    {
+     "veiculo": "VEJA",
+     "titulo": "Como o governo Lula reagiu à insatisfação do mercado com o pacote fiscal",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3plZEtUaFUzNUNSa1ZYTURhOWI5Sm9IQ2R1WFZyZlVfbWVoRDlDcVAzX3hfZ2wtaGszVlpyaUVJdnZxcG44ZFYyeHM5bV9hRXhiNEdfamRGbHhJN2hJeDR5Wi04WWNybjdUbGo5X0VHekNBQVkyN0tZTGdTTVN6QzdTc0lkRWF1MU5zakJMdnNDaEFXQ20taXJDNFhVTzkwM0FzbS12by1EeTFY?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Mercado financeiro avalia os primeiros sinais do pacote fiscal em discussão no governo",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaXdDaVd6YTZtc2N3aGdZaWFpc29lOTB1ZDZNS2pnNmhUNFBmeV9VYXpza3hQa1B5UDRUVkZKSkpZMWcxVjYtMzMyc1FNNHJYLW5ER0VreTNPbkVjajgyMUVRRWZEMU1PVzF3aFkydmc4ZkpBUlF3ODVsS1BjcklYVWxYN3pNQXZkYy11bUZZQktpSHhkXzlGbnRMdjJUSFlYa05wYXJCZ1RzdFJXRWxKU3YwYkNNWGw2M3RUbkMxMHI4UHJvdDFibFBXSjg5SG1yTmNyMk50M3N0R3B3LXFOVUdPRTRhNmZf?oc=5"
+    },
+    {
+     "veiculo": "Safra",
+     "titulo": "O mercado financeiro chantageia o governo?",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xNWYzWlZhTGxvN0QyeTFUeXZzekVYQzhqUGdjdEg2d2VFanhibVdxdmIwY0JwWFR6T2pvOXBqaWRHeGg3MXBqb0daSmZZZG95OUttRjFNNFVDWFhXQ3lkV1N0amZuZ1JFWmpPU2pHWUNhdndzcUxPMEY3OA?oc=5"
+    },
+    {
+     "veiculo": "RedeTV!",
+     "titulo": "Lula retorna da Ásia com pacote fiscal, novo ministério e crise na PF na pauta",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUhoSFpuWE9yeXpPNG5QZ1FKYlZFb1Y1MkNWeW9ZOHhocGplVENyVFZEUXBUS0VGVVBQSTg2ZW00RXVXUFlBR0paTl96NFp2eGdISm9vMEROdFc4eGlEUjdLVk1TWk16TGN2aG9FNmkxeXI5enNLS1U4M1RlYnhfb2pkSGVqTmY0cFdmX3NfQ09OSUVKYzVST2FNd2pNZHJ5VGkwekR1cHJWdGxhNm9XeWZMY2ZiY3B1NVd6QUVBa9IB1wFBVV95cUxQVXMwZ3h1TExNeDZLSEs5dHFQNGZZQTlTRTQwUmlXU2lheWRUOHdtWTJPTzBpa01TMkRqS1o4TV9vRE9SQnlrZXplZktyRmdXS01kRGxiYmI5ZXVTdEtnS180clU4LWRTQkpqNnlhTHNoUU5vd0tWcEs2dU1Gd2k5V3NBbFZZaDRQSjZCZzNwUUJnbGFNQXJnWVRwekxoeWxocFFOLThiclIyd3lncFdoZGo1WUQ0aGN5ZGJILW02VmpmNGZRUHJVenFMemlyVmZBbzRNLUQ2VQ?oc=5"
+    }
+   ],
+   "score": 31.4,
+   "video_url": "https://www.youtube.com/watch?v=rZSU2_JvxHk",
+   "video_canal": "MyNews",
+   "video_por_hora": 249,
+   "video_acima_mediana": 2.4,
    "videos": [
     {
-     "canal": "CNN Brasil",
-     "titulo": "Plano Moretti mira mercado e pode gerar superávit de R$ 8,5 bilhões, diz especialista | WW",
-     "url": "https://www.youtube.com/watch?v=hwUdjJ1lIWw",
-     "por_hora": 160
+     "canal": "MyNews",
+     "titulo": "POR QUE A ESQUERDA ESTÁ REVOLTADA COM O PACOTE FISCAL DE LULA?",
+     "url": "https://www.youtube.com/watch?v=rZSU2_JvxHk",
+     "por_hora": 249
     }
    ]
   },
   {
-   "id": "9f261a47e0",
-   "titulo": "Lula chega a Madri para se reunir com Pedro Sánchez",
-   "url": "https://www.youtube.com/watch?v=Hl3L7Dz4c2M",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-17T00:05:19.284363+00:00",
+   "id": "7e31465585",
+   "titulo": "Ajuste fiscal: por que aliados de Lula criticam proposta? | #NewsPrimeiraEdição",
+   "url": "https://www.youtube.com/watch?v=XRc6sINqp5s",
+   "veiculo": "SBT News",
+   "publicado": "2026-11-17T11:36:10+00:00",
    "temas": [
+    "economia",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+chega+Madri+para+reunir+com+Pedro+S%C3%A1nchez",
+   "busca_video": "https://www.youtube.com/results?search_query=Ajuste+fiscal+por+que+aliados+Lula+criticam+proposta+NewsPrimeiraEdi%C3%A7%C3%A3o",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 31.0,
+   "video_url": "https://www.youtube.com/watch?v=XRc6sINqp5s",
+   "video_canal": "SBT News",
+   "video_por_hora": 678,
+   "video_acima_mediana": 3.6,
+   "videos": [
+    {
+     "canal": "SBT News",
+     "titulo": "Ajuste fiscal: por que aliados de Lula criticam proposta? | #NewsPrimeiraEdição",
+     "url": "https://www.youtube.com/watch?v=XRc6sINqp5s",
+     "por_hora": 678
+    }
+   ]
+  },
+  {
+   "id": "f58cf3bfff",
+   "titulo": "Petrobras enfrentou crise financeira, dívida acima de US$ 140 bilhões e a Lava Jato | Furlacast",
+   "url": "https://www.youtube.com/watch?v=bxLS-UJpMSo",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-17T10:00:03+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+enfrentou+crise+financeira%2C+d%C3%ADvida+acima+US%24+140+bilh%C3%B5es",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 30.1,
+   "video_url": "https://www.youtube.com/watch?v=bxLS-UJpMSo",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 3,
+   "video_acima_mediana": 0.0,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Petrobras enfrentou crise financeira, dívida acima de US$ 140 bilhões e a Lava Jato | Furlacast",
+     "url": "https://www.youtube.com/watch?v=bxLS-UJpMSo",
+     "por_hora": 3
+    }
+   ]
+  },
+  {
+   "id": "6eb1451c41",
+   "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+   "veiculo": "Agência Brasil",
+   "publicado": "2026-11-17T11:46:53+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Durigan+explica+Senado+al%C3%ADquota+11%2C3%25+CBS",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "SBT News",
-     "titulo": "Lula se reúne com primeiro-ministro espanhol, Pedro Sánchez, em Madri | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=SrFDB50Jtgo"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Lula anuncia visita do primeiro-ministro canadense",
-     "url": "https://www.youtube.com/watch?v=3JTdPuBdlRs"
-    },
-    {
-     "veiculo": "Record News",
-     "titulo": "Presidente Lula se encontra com primeiro-ministro Espanha",
-     "url": "https://www.youtube.com/watch?v=FbGI7JSC0NM"
+     "veiculo": "InfoMoney",
+     "titulo": "Reforma Tributária: Durigan vai ao Senado explicar alíquota de 11,3% para a CBS",
+     "url": "https://www.infomoney.com.br/politica/reforma-tributaria-durigan-vai-ao-senado-explicar-aliquota-de-113-para-a-cbs/"
     },
     {
      "veiculo": "Poder360",
-     "titulo": "Lula é recebido por apoiadores antes da reunião com Sánchez, em Madri",
-     "url": "https://www.youtube.com/watch?v=wn918CEiHn8"
+     "titulo": "Ao vivo: Dario Durigan vai a audiência sobre tributária no Senado",
+     "url": "https://www.youtube.com/watch?v=AUd8M5HfpcA"
     }
    ],
-   "score": 23.4,
-   "video_url": "https://www.youtube.com/watch?v=SrFDB50Jtgo",
-   "video_canal": "SBT News",
-   "video_por_hora": 6667,
-   "video_acima_mediana": 10.6,
-   "videos": [
-    {
-     "canal": "SBT News",
-     "titulo": "Lula se reúne com primeiro-ministro espanhol, Pedro Sánchez, em Madri | #SBTBrasil",
-     "url": "https://www.youtube.com/watch?v=SrFDB50Jtgo",
-     "por_hora": 6667
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Lula é recebido por apoiadores antes da reunião com Sánchez, em Madri",
-     "url": "https://www.youtube.com/watch?v=wn918CEiHn8",
-     "por_hora": 2597
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Lula anuncia visita do primeiro-ministro canadense",
-     "url": "https://www.youtube.com/watch?v=3JTdPuBdlRs",
-     "por_hora": 1357
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Presidente Lula se encontra com primeiro-ministro Espanha",
-     "url": "https://www.youtube.com/watch?v=FbGI7JSC0NM",
-     "por_hora": 1000
-    },
-    {
-     "canal": "Poder360",
-     "titulo": "Lula chega a Madri para se reunir com Pedro Sánchez",
-     "url": "https://www.youtube.com/watch?v=Hl3L7Dz4c2M",
-     "por_hora": 518
-    }
-   ]
-  },
-  {
-   "id": "7aab9e904d",
-   "titulo": "Lula precisa sinalizar mudanças na articulação política para quarto mandato, diz especialista | WW",
-   "url": "https://www.youtube.com/watch?v=T17Gkp9l9aE",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-17T02:39:35+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+precisa+sinalizar+mudan%C3%A7as+articula%C3%A7%C3%A3o+pol%C3%ADtica+para+quarto+mandato%2C",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.8,
-   "video_url": "https://www.youtube.com/watch?v=T17Gkp9l9aE",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 56,
+   "score": 25.9,
+   "video_url": "https://www.youtube.com/watch?v=AUd8M5HfpcA",
+   "video_canal": "Poder360",
+   "video_por_hora": 0,
    "video_acima_mediana": 0.0,
    "videos": [
     {
-     "canal": "CNN Brasil",
-     "titulo": "Lula precisa sinalizar mudanças na articulação política para quarto mandato, diz especialista | WW",
-     "url": "https://www.youtube.com/watch?v=T17Gkp9l9aE",
-     "por_hora": 56
+     "canal": "Poder360",
+     "titulo": "Ao vivo: Dario Durigan vai a audiência sobre tributária no Senado",
+     "url": "https://www.youtube.com/watch?v=AUd8M5HfpcA",
+     "por_hora": 0
     }
    ]
   },
   {
-   "id": "49842cbdc8",
-   "titulo": "Dani Lima: Lula não deixará Alckmin à deriva e já teria sinalizado se tivesse desgosto pela proposta",
-   "url": "https://www.youtube.com/watch?v=boBMbiZUwmM",
-   "veiculo": "UOL",
-   "publicado": "2026-11-16T20:05:19.284363+00:00",
+   "id": "fd57be4697",
+   "titulo": "Desafios econômicos do governo Lula 4",
+   "url": "https://www.youtube.com/watch?v=ZhB1JcyCoos",
+   "veiculo": "TV Senado",
+   "publicado": "2026-11-17T11:35:48+00:00",
    "temas": [
+    "economia",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Dani+Lima+Lula+n%C3%A3o+deixar%C3%A1+Alckmin+deriva+teria+sinalizado",
+   "busca_video": "https://www.youtube.com/results?search_query=Desafios+econ%C3%B4micos+governo+Lula",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.9,
-   "video_url": "https://www.youtube.com/watch?v=boBMbiZUwmM",
-   "video_canal": "UOL",
-   "video_por_hora": 14571,
-   "video_acima_mediana": 7.9,
+   "score": 25.8,
+   "video_url": "https://www.youtube.com/watch?v=ZhB1JcyCoos",
+   "video_canal": "TV Senado",
+   "video_por_hora": 13,
+   "video_acima_mediana": 13.0,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Dani Lima: Lula não deixará Alckmin à deriva e já teria sinalizado se tivesse desgosto pela proposta",
-     "url": "https://www.youtube.com/watch?v=boBMbiZUwmM",
-     "por_hora": 14571
+     "canal": "TV Senado",
+     "titulo": "Desafios econômicos do governo Lula 4",
+     "url": "https://www.youtube.com/watch?v=ZhB1JcyCoos",
+     "por_hora": 13
+    }
+   ]
+  },
+  {
+   "id": "b6c4b1ac06",
+   "titulo": "Defesa de Vorcaro contesta condução de Fachin",
+   "url": "https://www.youtube.com/watch?v=a07FxS8PlRQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-17T11:21:37+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Defesa+Vorcaro+contesta+condu%C3%A7%C3%A3o+Fachin",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Plantão Brasil",
+     "titulo": "Defesa de Vorcaro desafia Fachin no STF e tenta levar caso para Gilmar Mendes",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTVNZanJSWjFVOEJ0bkNXdHZoNExYWVF6Y01sbFFfajg4dDJKeUtkSmpCeDhEQWdrMC1qN01sSFprNGJVN0QyUThtZjFhYUlrWEl1Q2ZCRHhNQ3hZUTNlQjVweG9ybVNNamRYWjBaV1p4S3ZXR0RsRzMteWZUNWpDRFRxYWhCTDZRam9FWEd6cFFocVFaZVg3WUhZaXg5UjVyd2VreHFLVmVMVFphYlNXcWkyb0VsN1czUm9uSFU1RzI?oc=5"
+    }
+   ],
+   "score": 25.8,
+   "video_url": "https://www.youtube.com/watch?v=a07FxS8PlRQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 233,
+   "video_acima_mediana": 0.9,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Defesa de Vorcaro contesta condução de Fachin",
+     "url": "https://www.youtube.com/watch?v=a07FxS8PlRQ",
+     "por_hora": 233
+    }
+   ]
+  },
+  {
+   "id": "ed0fd1c1f4",
+   "titulo": "QUEM É O MERCADO FINANCEIRO QUE PRESSIONA LULA E APOSTOU EM FLÁVIO BOLSONARO?",
+   "url": "https://www.youtube.com/watch?v=7qm7Vmsg_rE",
+   "veiculo": "MyNews",
+   "publicado": "2026-11-17T11:00:03+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=QUEM+MERCADO+FINANCEIRO+QUE+PRESSIONA+LULA+APOSTOU+FL%C3%81VIO+BOLSONARO",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.8,
+   "video_url": "https://www.youtube.com/watch?v=7qm7Vmsg_rE",
+   "video_canal": "MyNews",
+   "video_por_hora": 602,
+   "video_acima_mediana": 5.9,
+   "videos": [
+    {
+     "canal": "MyNews",
+     "titulo": "QUEM É O MERCADO FINANCEIRO QUE PRESSIONA LULA E APOSTOU EM FLÁVIO BOLSONARO?",
+     "url": "https://www.youtube.com/watch?v=7qm7Vmsg_rE",
+     "por_hora": 602
     }
    ]
   }
  ],
  "youtube": [
   {
-   "titulo": "Dólar dispara, fecha a R$ 5,77 com cautela fiscal e Bolsa cai 2% | JORNAL DA BAND - 16/11/2026",
-   "url": "https://www.youtube.com/watch?v=HgrKNUcRiek",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-11-16T23:34:17+00:00",
-   "views": 234840,
-   "por_hora": 66767,
-   "acima_mediana": 59.8,
-   "temas": [
-    "mercado",
-    "economia"
-   ]
-  },
-  {
-   "titulo": "Brasil Pós-Eleição - Ao vivo com Pablo Spyer, Alan Ghani e Bruno Musa",
-   "url": "https://www.youtube.com/watch?v=9t-0smm7ys8",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-17T01:36:24+00:00",
-   "views": 79797,
-   "por_hora": 53843,
-   "acima_mediana": 80.8,
+   "titulo": "Análise: “Plano Moretti” desagrada mercado e parte da esquerda | WW",
+   "url": "https://www.youtube.com/watch?v=-bNQ_fQoG6o",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-17T02:08:17.819559+00:00",
+   "views": 68000,
+   "por_hora": 6800,
+   "acima_mediana": 11.6,
    "temas": [
     "mercado"
    ]
   },
   {
-   "titulo": "DÓLAR ALTO DÁ \"BOAS-VINDAS\" A LULA APÓS IDA AO EXTERIOR | WW",
-   "url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-17T02:04:57+00:00",
-   "views": 31370,
-   "por_hora": 31177,
-   "acima_mediana": 21.3,
-   "temas": [
-    "mercado",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "🔴 AO VIVO: NEWS NOITE, com Túlio Amâncio | 16/11/2026",
-   "url": "https://www.youtube.com/watch?v=BQjPPgf70TU",
-   "canal": "SBT News",
-   "publicado": "2026-11-17T02:07:53+00:00",
-   "views": 21848,
-   "por_hora": 22822,
-   "acima_mediana": 36.2,
-   "temas": [
-    "economia"
-   ]
-  },
-  {
-   "titulo": "Dani Lima: Lula não deixará Alckmin à deriva e já teria sinalizado se tivesse desgosto pela proposta",
-   "url": "https://www.youtube.com/watch?v=boBMbiZUwmM",
-   "canal": "UOL",
-   "publicado": "2026-11-16T20:05:19.284363+00:00",
-   "views": 102000,
-   "por_hora": 14571,
-   "acima_mediana": 7.9,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Ao vivo - TV Senado",
-   "url": "https://www.youtube.com/watch?v=EmP8j9CqVKE",
-   "canal": "TV Senado",
-   "publicado": "2026-11-17T02:10:09+00:00",
-   "views": 8500,
-   "por_hora": 9244,
-   "acima_mediana": 1269.6,
+   "titulo": "Carlos Andreazza: A blindagem a Moraes, um ano após a prisão de Vorcaro | Estadão Analisa",
+   "url": "https://www.youtube.com/watch?v=ks2-A0D5vXA",
+   "canal": "Estadão",
+   "publicado": "2026-11-17T11:08:47+00:00",
+   "views": 5424,
+   "por_hora": 5468,
+   "acima_mediana": 110.8,
    "temas": [
     "politica"
    ]
@@ -1953,70 +2025,60 @@
    "url": "https://www.youtube.com/watch?v=qorWDhbDvMI",
    "canal": "InfoMoney",
    "publicado": "2026-11-16T18:12:07+00:00",
-   "views": 69774,
-   "por_hora": 7851,
-   "acima_mediana": 27.5,
+   "views": 70157,
+   "por_hora": 3911,
+   "acima_mediana": 27.4,
    "temas": [
     "mercado",
     "politica"
    ]
   },
   {
-   "titulo": "Lula em Madrid",
-   "url": "https://www.youtube.com/watch?v=yzb13-sqckk",
-   "canal": "Lula",
-   "publicado": "2026-11-16T11:05:58+00:00",
-   "views": 122025,
-   "por_hora": 7632,
-   "acima_mediana": 5.5,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Bolsa desaba e dólar dispara com mercadante | FECHAMENTO TOURO DE OURO",
-   "url": "https://www.youtube.com/watch?v=oxtD_S598io",
+   "titulo": "SINGAPURA x BRASIL AO VIVO! | AMISTOSO | 17/11/2026",
+   "url": "https://www.youtube.com/watch?v=AbQTtfULhg0",
    "canal": "Jovem Pan News",
-   "publicado": "2026-11-16T21:05:19.284363+00:00",
-   "views": 41000,
-   "por_hora": 6833,
-   "acima_mediana": 10.2,
-   "temas": [
-    "mercado"
-   ]
-  },
-  {
-   "titulo": "Moraes acertou ao impedir que casa de Bolsonaro vire escritório político | Josias de Souza",
-   "url": "https://www.youtube.com/watch?v=ST2NS_NQ-cM",
-   "canal": "UOL",
-   "publicado": "2026-11-16T19:05:19.284363+00:00",
-   "views": 54000,
-   "por_hora": 6750,
-   "acima_mediana": 3.7,
+   "publicado": "2026-11-17T08:40:29+00:00",
+   "views": 11927,
+   "por_hora": 3444,
+   "acima_mediana": 13.2,
    "temas": [
     "politica"
    ]
   },
   {
-   "titulo": "Lula se reúne com primeiro-ministro espanhol, Pedro Sánchez, em Madri | #SBTBrasil",
-   "url": "https://www.youtube.com/watch?v=SrFDB50Jtgo",
-   "canal": "SBT News",
-   "publicado": "2026-11-17T00:05:19.284363+00:00",
-   "views": 20000,
-   "por_hora": 6667,
-   "acima_mediana": 10.6,
+   "titulo": "Dólar alto dá \"boas-vindas\" a Lula após ida ao exterior; veja análise | WW",
+   "url": "https://www.youtube.com/watch?v=SxcL_cPDo0k",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-17T02:08:17.819559+00:00",
+   "views": 25000,
+   "por_hora": 2500,
+   "acima_mediana": 4.3,
    "temas": [
+    "mercado",
     "politica"
    ]
   },
   {
-   "titulo": "Dani Lima: É impossível dissociar tentativa de cerco a diretor-geral da PF da influência do STF",
-   "url": "https://www.youtube.com/watch?v=pDRHjqAWaOI",
-   "canal": "UOL",
-   "publicado": "2026-11-16T22:05:19.284363+00:00",
-   "views": 32000,
-   "por_hora": 6400,
-   "acima_mediana": 3.5,
+   "titulo": "Em documento sigiloso, diretor da PF aponta quebra de confiança para afastar delegados",
+   "url": "https://www.youtube.com/watch?v=03ETn2Uhx2k",
+   "canal": "GloboNews",
+   "publicado": "2026-11-17T04:11:48+00:00",
+   "views": 17071,
+   "por_hora": 2150,
+   "acima_mediana": 10.5,
+   "temas": [
+    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "1º Seminário LIDE Esporte debate futuro do esporte brasileiro",
+   "url": "https://www.youtube.com/watch?v=sopHwR7QZ3k",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-17T10:08:17.819559+00:00",
+   "views": 4200,
+   "por_hora": 2100,
+   "acima_mediana": 8.1,
    "temas": [
     "politica"
    ]
@@ -2026,9 +2088,9 @@
    "url": "https://www.youtube.com/watch?v=qC5aznaTHbI",
    "canal": "CNN Brasil",
    "publicado": "2026-11-17T02:34:08+00:00",
-   "views": 2721,
-   "por_hora": 5235,
-   "acima_mediana": 3.6,
+   "views": 18273,
+   "por_hora": 1910,
+   "acima_mediana": 3.3,
    "temas": [
     "mercado",
     "economia",
@@ -2036,206 +2098,257 @@
    ]
   },
   {
-   "titulo": "Dólar salta e fecha em R$ 5,77 com temor fiscal; bolsa cai e juros sobem | CNN MERCADO",
-   "url": "https://www.youtube.com/watch?v=V6vV8tJMtXo",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-16T22:05:19.284363+00:00",
-   "views": 24000,
-   "por_hora": 4800,
-   "acima_mediana": 3.3,
+   "titulo": "Quaest: 92% dos brasileiros apoiam reduzir maioridade penal para 16 anos | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=CMPLGFVVRAo",
+   "canal": "InfoMoney",
+   "publicado": "2026-11-16T22:00:17+00:00",
+   "views": 23964,
+   "por_hora": 1696,
+   "acima_mediana": 11.9,
    "temas": [
-    "mercado",
-    "economia"
+    "politica"
    ]
   },
   {
-   "titulo": "Lindbergh faz alerta sobre crise econômica: 'Vamos fazer ajuste fiscal num momento desse?'",
-   "url": "https://www.youtube.com/watch?v=W50igdh5AeI",
-   "canal": "UOL",
-   "publicado": "2026-11-16T19:05:19.284363+00:00",
-   "views": 38000,
-   "por_hora": 4750,
+   "titulo": "O LEGADO DE BOLSONARO CONTINUA. A NOSSA LUTA TAMBÉM! 🇧🇷",
+   "url": "https://www.youtube.com/watch?v=w9zkD58CJfw",
+   "canal": "Flávio Bolsonaro",
+   "publicado": "2026-11-17T11:00:21+00:00",
+   "views": 1694,
+   "por_hora": 1496,
    "acima_mediana": 2.6,
    "temas": [
-    "economia"
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Moraes barra visitas e afeta articulação da direita no Senado | CNN Prime Time",
+   "url": "https://www.youtube.com/watch?v=40rKXx_WyI8",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-17T01:08:17.819559+00:00",
+   "views": 15000,
+   "por_hora": 1364,
+   "acima_mediana": 2.3,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal; Alan Ghani analisa",
+   "url": "https://www.youtube.com/watch?v=4fypgioe15c",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-17T10:53:23+00:00",
+   "views": 1697,
+   "por_hora": 1359,
+   "acima_mediana": 5.2,
+   "temas": [
+    "mercado",
+    "economia",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Novo arranjo político na Câmara deixa PL isolado; José Maria Trindade comenta",
+   "url": "https://www.youtube.com/watch?v=e50nG7xeWWQ",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-17T10:08:17.819559+00:00",
+   "views": 2600,
+   "por_hora": 1300,
+   "acima_mediana": 5.0,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula volta ao Brasil e deve decidir sobre o fim da escala 6x1 | #JornaldoSBTNews",
+   "url": "https://www.youtube.com/watch?v=rGJCfVjS4bQ",
+   "canal": "SBT News",
+   "publicado": "2026-11-17T00:08:17.819559+00:00",
+   "views": 14000,
+   "por_hora": 1167,
+   "acima_mediana": 6.2,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Lula se reúne com premiê da Espanha após cúpula nas Filipinas | Jornal da Noite",
+   "url": "https://www.youtube.com/watch?v=D1vmp-_qK3M",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-11-17T03:36:54+00:00",
+   "views": 9427,
+   "por_hora": 1106,
+   "acima_mediana": 3.6,
+   "temas": [
+    "mercado",
+    "politica"
    ]
   }
  ],
  "faro": [
   {
-   "tipo": "video",
-   "titulo": "DÓLAR ALTO DÁ \"BOAS-VINDAS\" A LULA APÓS IDA AO EXTERIOR | WW",
-   "url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-   "video_url": "https://www.youtube.com/watch?v=XcczK9JIRX4",
-   "canal": "CNN Brasil",
-   "views_h": 31177,
-   "acima_mediana": 21.3,
-   "publicado": "2026-11-16T23:04-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 39.6,
-   "porque": "vídeo do CNN Brasil com 31.177 views/h (21.3x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Dani Lima: Lula não deixará Alckmin à deriva e já teria sinalizado se tivesse desgosto pela proposta",
-   "url": "https://www.youtube.com/watch?v=boBMbiZUwmM",
-   "video_url": "https://www.youtube.com/watch?v=boBMbiZUwmM",
-   "canal": "UOL",
-   "views_h": 14571,
-   "acima_mediana": 7.9,
-   "publicado": "2026-11-16T17:05-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "politica"
-   ],
-   "forca": 31.1,
-   "porque": "vídeo do UOL com 14.571 views/h (7.9x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
    "tipo": "pauta",
-   "titulo": "Aluguel sobe 9% em 12 meses, quase o dobro da inflação, aponta FipeZAP",
-   "url": "https://www.infomoney.com.br/minhas-financas/aluguel-sobe-9-em-12-meses-quase-o-dobro-da-inflacao-aponta-fipezap/",
+   "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
+   "url": "https://www.infomoney.com.br/politica/lara-resende-volta-a-defender-corte-da-selic-e-critica-galipolo-por-juros-elevados/",
    "veiculos": [
     "InfoMoney"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-17T00:01-03:00",
+   "primeira_vez": "2026-11-17T08:56-03:00",
    "temas": [
-    "economia"
-   ],
-   "forca": 30.0,
-   "porque": "só 1 veículo (InfoMoney); apareceu às 00h01"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Lula se reúne com primeiro-ministro espanhol, Pedro Sánchez, em Madri | #SBTBrasil",
-   "url": "https://www.youtube.com/watch?v=SrFDB50Jtgo",
-   "video_url": "https://www.youtube.com/watch?v=SrFDB50Jtgo",
-   "canal": "SBT News",
-   "views_h": 6667,
-   "acima_mediana": 10.6,
-   "publicado": "2026-11-16T21:05-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "politica"
-   ],
-   "forca": 27.3,
-   "porque": "vídeo do SBT News com 6.667 views/h (10.6x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "No mesmo estado em que a Casas Bahia fechou lojas em Fortaleza, Itapipoca e Pacajus, Havan marca para 12 de dezembro a abertura de megaloja de R$ 110 milhões",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNnVYN0F5bWp0Uy1mUTZZSldEQk9wOWV4cERuYkJ5YjZwX0JNZVptWk9VUkxaSUd2NDJBbzRVMmFzcWtqUkRINzM4NTN2UjhJY0xYQno5dlpiYnVUbnNZZ1pJSG1vN3g5ZTBTRGM0dVd4ZmphZnpQNEowSG5XcU5Cb0lpaFFpTEU2a2Rwb3dUb2c5MEtlbFRpR3NGVnlDWEEyN0ZOWlF6SF9ma0VSZkYyRlZtLUhsVElKUnpCWDIyNDYyRnZFUEw3NTJjc1dOS2FYUTU2NHJJcld2aE5YSVh5UDh3WTA3UEtmSkJGb0doNUFUYWpsUnRYenNPU2N2NHRRaU5aWm1LMDFuYm5BdTJMOENCOG0xcXZF?oc=5",
-   "veiculos": [
-    "Portal 6"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-16T23:38-03:00",
-   "temas": [
-    "economia"
-   ],
-   "forca": 26.8,
-   "porque": "só 1 veículo (Portal 6); apareceu às 23h38"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Pescadores do Equador processam EUA por ataque com drones no Pacífico",
-   "url": "https://www.cnnbrasil.com.br/internacional/pescadores-do-equador-processam-eua-por-ataque-com-drones-no-pacifico/",
-   "veiculos": [
-    "CNN Brasil",
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 2,
-   "primeira_vez": "2026-11-16T22:36-03:00",
-   "temas": [
+    "economia",
     "mercado",
     "politica"
    ],
-   "forca": 22.0,
-   "porque": "só 2 veículos (CNN Brasil, Metrópoles); apareceu às 22h36"
+   "forca": 42.9,
+   "porque": "só 1 veículo (InfoMoney); apareceu às 08h56"
   },
   {
    "tipo": "pauta",
-   "titulo": "Aluguel continua a subir acima da inflação; veja onde está mais caro",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/aluguel-continua-a-subir-acima-da-inflacao-veja-onde-esta-mais-caro.shtml",
-   "veiculos": [
-    "Folha"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-17T00:00-03:00",
-   "temas": [
-    "economia"
-   ],
-   "forca": 21.0,
-   "porque": "só 1 veículo (Folha); apareceu às 00h00"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Inflação do estilo de vida: por que quanto mais ganhamos, mais gastamos?",
-   "url": "https://g1.globo.com/g1-explica/noticia/2026/11/17/inflacao-do-estilo-de-vida-por-que-quanto-mais-ganhamos-mais-gastamos.ghtml",
+   "titulo": "Dólar abre sessão desta terça-feira, à espera de balanço da Nvidia e de olho em dados dos EUA",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml",
    "veiculos": [
     "g1"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-17T00:00-03:00",
+   "primeira_vez": "2026-11-17T09:00-03:00",
    "temas": [
-    "economia"
+    "economia",
+    "mercado"
    ],
-   "forca": 21.0,
-   "porque": "só 1 veículo (g1); apareceu às 00h00"
+   "forca": 32.9,
+   "porque": "só 1 veículo (g1); apareceu às 09h00"
   },
   {
    "tipo": "pauta",
-   "titulo": "Polícia prende suspeitos de matar boliviano e descartar corpo em mercado",
-   "url": "https://www.metropoles.com/sao-paulo/policia-prende-suspeitos-de-matar-boliviano-e-descartar-corpo-em-mercado",
+   "titulo": "Japão tem recorde de emissão de títulos corporativos para investidor de varejo",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/17/japao-tem-recorde-de-emissao-de-titulos-corporativos-para-investidor-de-varejo.ghtml",
    "veiculos": [
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-16T23:37-03:00",
-   "temas": [
-    "mercado"
-   ],
-   "forca": 20.8,
-   "porque": "só 1 veículo (Metrópoles); apareceu às 23h37"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Saiba os detalhes do ajuste fiscal que será debatido no Senado | #JornalDoSBTNews",
-   "url": "https://www.youtube.com/watch?v=yPc7QwAKzE0",
-   "video_url": "https://www.youtube.com/watch?v=yPc7QwAKzE0",
-   "canal": "SBT News",
-   "views_h": 4333,
-   "acima_mediana": 6.9,
-   "publicado": "2026-11-16T21:05-03:00",
-   "veiculos": [
-    "Brasil de Fato",
     "Valor"
    ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-17T08:48-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 32.9,
+   "porque": "só 1 veículo (Valor); apareceu às 08h48"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+   "veiculos": [
+    "Agência Brasil",
+    "InfoMoney"
+   ],
    "qtd_veiculos": 2,
+   "primeira_vez": "2026-11-17T07:15-03:00",
    "temas": [
     "economia",
     "politica"
    ],
-   "forca": 20.0,
-   "porque": "vídeo do SBT News com 4.333 views/h (6.9x o normal do canal); só 2 veículos deram"
+   "forca": 31.9,
+   "porque": "só 2 veículos (Agência Brasil, InfoMoney); apareceu às 07h15"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Minério de ferro recua 2,44% na Bolsa de Dalian",
+   "url": "https://valor.globo.com/empresas/noticia/2026/11/17/minrio-de-ferro-recua-244-pontos-percentuais-na-bolsa-de-dalian.ghtml",
+   "veiculos": [
+    "Valor"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-17T08:49-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 29.9,
+   "porque": "só 1 veículo (Valor); apareceu às 08h49"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Inflação da Itália acelera para 5,5% em outubro",
+   "url": "https://www.poder360.com.br/poder-internacional/inflacao-da-italia-acelera-para-55-em-outubro/",
+   "veiculos": [
+    "Poder360"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-17T08:09-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 29.6,
+   "porque": "só 1 veículo (Poder360); apareceu às 08h09"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Confiança de investidores da Alemanha cresce mais que o esperado em novembro, diz ZEW",
+   "url": "https://www.infomoney.com.br/economia/confianca-de-investidores-da-alemanha-cresce-mais-que-o-esperado-em-novembro-diz-zew/",
+   "veiculos": [
+    "InfoMoney"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-17T08:59-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 28.9,
+   "porque": "só 1 veículo (InfoMoney); apareceu às 08h59"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Nova regra amplia poderes da Susep para punir irregularidades e eleva parâmetro de multas para R$ 35 milhões",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/17/nova-regra-amplia-poderes-da-susep-para-punir-irregularidades-e-eleva-parmetro-de-multas-para-r-35-milhes.ghtml",
+   "veiculos": [
+    "Valor"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-17T08:53-03:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado"
+   ],
+   "forca": 28.9,
+   "porque": "só 1 veículo (Valor); apareceu às 08h53"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Lula critica Escudo das Américas e “orientação” de Trump na América Latina",
+   "url": "https://www.cnnbrasil.com.br/internacional/lula-critica-escudo-das-americas-e-orientacao-de-trump-na-america-latina/",
+   "veiculos": [
+    "CNN Brasil"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-17T08:15-03:00",
+   "temas": [
+    "politica"
+   ],
+   "forca": 27.6,
+   "porque": "só 1 veículo (CNN Brasil); apareceu às 08h15"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "GTA economy: como GTA 6 já movimenta empresas, empregos e a internet",
+   "url": "https://exame.com/tecnologia/gta-economy-como-gta-6-movimenta-empresas-empregos-internet/",
+   "veiculos": [
+    "Exame"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-17T09:04-03:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "forca": 27.0,
+   "porque": "só 1 veículo (Exame); apareceu às 09h04"
   }
  ],
- "fontes_ok": 57,
- "falhas": [
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError",
-  "Google Notícias: HTTPError"
- ]
+ "fontes_ok": 64,
+ "falhas": []
 }
