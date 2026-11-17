@@ -72,7 +72,7 @@
  },
  "video_url": "https://www.youtube.com/watch?v=gn0tSphU674",
  "trecho_txt": "98 News (YouTube, 16/11/2026), entrevista do deputado Nikolas Ferreira (PL-MG)",
- "legenda": "Nikolas Ferreira diz que sai do PL se o partido apoiar a reeleição de Hugo Motta na Câmara.\n\nEle chama o apoio de mancha na identidade do partido e lista o motivo: Motta apoiou o PT nessas eleições e descumpriu acordos com o PL, como a anistia. Nikolas acha que o PL não vai apoiar abertamente, mas deixou a saída na mesa.\n\nÉ o mesmo racha do Flávio, que já fechou a porta para Motta. De um lado, Valdemar quer acordo; do outro, Flávio, Sóstenes e agora Nikolas batem de frente. A eleição da Mesa é em fevereiro.\n\nQuem decide o PL hoje: o dono da sigla ou quem tem o voto?\n\nVídeo: 98 News (16/11/2026). Fontes: O Nortão (17/11/2026); Gazeta do Povo (16/11/2026); PlatôBR (17/11/2026).\n\n#nikolasferreira #hugomotta #pl #camara",
+ "legenda": "Nikolas Ferreira diz que ficar no PL vira insustentável se o partido apoiar a reeleição de Hugo Motta na Câmara.\n\nEle chama o apoio de mancha na identidade do partido e lista o motivo: Motta apoiou o PT nessas eleições e descumpriu acordos com o PL, como a anistia. Nikolas acha que o PL não vai apoiar abertamente, mas deixou a saída na mesa.\n\nÉ o mesmo racha do Flávio, que já fechou a porta para Motta. De um lado, Valdemar quer acordo; do outro, Flávio, Sóstenes e agora Nikolas batem de frente. A eleição da Mesa é em fevereiro.\n\nQuem decide o PL hoje: o dono da sigla ou quem tem o voto?\n\nVídeo: 98 News (16/11/2026). Fontes: O Nortão (17/11/2026); Gazeta do Povo (16/11/2026); PlatôBR (17/11/2026).\n\n#nikolasferreira #hugomotta #pl #camara",
  "fontes": [
   {
    "titulo": "O Nortão (17/11/2026): Nikolas afirma que caso o PL apoie Hugo Motta sairá do partido por não concordar",
@@ -97,5 +97,24 @@
  "teste_cta": {
   "braco": "atual",
   "texto": "Segue pra ver o próximo corte."
- }
+ },
+ "agendado_metricool": {
+  "id": 431379940,
+  "uuid": "1815092352331104456",
+  "para": "2026-11-17T13:00:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T09:26:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431380024,
+  "uuid": "8954913951996788858",
+  "para": "2026-11-17T16:10:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T09:26:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 8h20): IG 13:00 (Reel de teste), TT 16:10; sem Short (já há 3 Shorts de corte hoje). Corte puro 1,1x, 64 s. auditar_cortes: 0 pontos, 1 aviso GANCHO aceito: o vídeo já abre na frase da manchete (\"Eu acho que o PL decidir apoiar o Hugo Motta deixaria insustentável...\"); o gancho automático repetia a mesma frase 6,5 s depois. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T09:27:00-03:00",
+ "atualizado": "2026-11-17T09:26:00-03:00"
 }
