@@ -1,0 +1,60 @@
+{
+  "id": "sug-story-stj-poupanca-penhora",
+  "carrossel_id": "sug-story-stj-poupanca-penhora",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: STJ blinda a poupança de até 40 salários mínimos, mesmo usada como conta-corrente",
+  "criado": "2026-11-17T13:50:00-03:00",
+  "atualizado": "2026-11-17T13:50:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "forca": "alta",
+  "papel_story": "conteudo",
+  "para_quem": "quem está com dívida em atraso e guarda a reserva na poupança",
+  "comentario": "Tá devendo? Até 40 salários mínimos na poupança não podem ser penhorados, nem se você usa ela como conta-corrente. Decisão nova do STJ, que deixa de fora só aplicação de alto risco.",
+  "repost_url": "https://extra.globo.com/economia/noticia/2026/11/poupanca-de-ate-40-salarios-minimos-usada-como-conta-corrente-nao-pode-ser-penhorada-define-stj.ghtml",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-stj-poupanca-penhora/poupanca-de-ate-40-salarios-minimos-usada-como-c.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Tá devendo? Até 40 salários mínimos na poupança [[verde:não podem ser penhorados]], nem se você usa ela como conta-corrente. Decisão nova do STJ, que deixa de fora só aplicação de alto risco."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-stj-poupanca-penhora/print-extra-globo-com-poupanca-de-ate-40-salarios-mini.png",
+          "h": 640,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "STJ, Corte Especial, recurso repetitivo Tema 1285 (notícia de 17/11/2026): valores até 40 salários mínimos na poupança não podem ser penhorados mesmo quando a poupança é usada como conta-corrente; dinheiro, conta-corrente e outros investimentos também podem ser protegidos se o devedor provar que são reserva contínua para emergência; não vale para aplicação especulativa e de alto risco nem para sobra de meses anteriores na conta-corrente; vale para a Justiça de 1º e 2º grau em todo o país",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/17112026-poupanca-usada-como-conta-corrente-nao-afasta-impenhorabilidade--define-corte-especial-em-repetitivo.aspx"
+    },
+    {
+      "titulo": "Extra (17/11/2026): Poupança de até 40 salários mínimos usada como conta-corrente não pode ser penhorada, define STJ (print e foto de fundo da matéria)",
+      "url": "https://extra.globo.com/economia/noticia/2026/11/poupanca-de-ate-40-salarios-minimos-usada-como-conta-corrente-nao-pode-ser-penhorada-define-stj.ghtml"
+    }
+  ],
+  "motivo": "Quente do dia 13h15: STJ decidiu em repetitivo (Tema 1285) que a poupança de até 40 salários mínimos é impenhorável mesmo usada como conta-corrente; Google Trends 'poupança' em alta, 3 veículos (STJ, Extra, Migalhas). Bolso de quem tem dívida; quem manda: pro amigo endividado com medo do bloqueio da conta. Diferenciação: fonte primária do STJ lida inteira e o detalhe que quase ninguém deu (aplicação de alto risco fica de fora).",
+  "confira_na_previa": [
+    "A proteção de dinheiro em conta-corrente e outros investimentos depende de o devedor provar que é reserva de emergência; a da poupança até 40 salários mínimos é a regra da lei (art. 833 do CPC).",
+    "Sobra de meses anteriores parada na conta-corrente não é protegida; o story fala só da poupança e do alto risco para caber em 35 palavras.",
+    "O print do Extra traz o menu e a editoria repetida no topo (o recorte automático não tirou)."
+  ],
+  "revisar_antes_da_voz": [],
+  "versao": 1
+}
