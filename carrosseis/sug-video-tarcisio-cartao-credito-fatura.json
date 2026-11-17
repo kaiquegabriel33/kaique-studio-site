@@ -1,0 +1,100 @@
+{
+ "status": "publicado",
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-17T08:45:00-03:00",
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "sugerido_por": "rotina Reels de teste 17/11 8h20",
+ "id": "sug-video-tarcisio-cartao-credito-fatura",
+ "titulo": "Tarcísio: Lula “comprou no cartão de crédito a eleição” e agora vem a fatura",
+ "motivo": "Fala de governador com frase compartilhável, ontem no AgroForum do BTG. Vídeo: Jovem Pan News (16/11, 8 mil views). Fatos: CNN Brasil, SBT News, Money Times (16/11). Hoje o Senado vota os destaques do ajuste fiscal.",
+ "prioridade": 1,
+ "forca": "alta",
+ "noticia_grande": true,
+ "fato_em": "2026-11-16T12:00:00-03:00",
+ "vence_em": "2026-11-18T23:59:00-03:00",
+ "para_quem": "quem vai sentir o ajuste fiscal no bolso e no serviço público da cidade",
+ "promessa": "o presidente comprou no cartão de crédito a eleição",
+ "paga_em": "agora vai vir a fatura",
+ "diferenciacao": "a legenda põe o número que o próprio Tarcísio deu (R$ 8 bi do ajuste caindo em estados e municípios) e liga a fala à votação de hoje no Senado",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Tarcísio: Lula comprou a eleição no cartão e ==agora vem a fatura=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "comprou no cartão de crédito a eleição e agora vai vir a fatura",
+  "inicio": "A gente percebe do resultado eleitoral",
+  "fim": "o que vai acontecer",
+  "texto": "A gente percebe do resultado eleitoral, primeiro, que o Brasil é conservador, né, que o Brasil é liberal, que o Brasil está preocupado com a iniciativa privada, que o Brasil é um país que preza pela livre iniciativa, preza pela propriedade privada, preza pela economia de mercado, acredita que o mercado pode dar soluções importantes, que a iniciativa privada é importante. O Brasil quer um estado menos inchado, menos burocrático, o Brasil quer redução de impostos. Então esse foi o recado das urnas. É claro que houve a reeleição do presidente, de certa forma o presidente comprou no cartão de crédito a eleição e agora vai vir a fatura, a fatura para pagar já está aí, né, o que vai acontecer.",
+  "gancho": "o presidente comprou no cartão de crédito a eleição e agora vai vir a fatura",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "esse foi o recado",
+    "texto": "Tarcísio no AgroForum do BTG, ontem (16/11)"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "janela": [
+   0,
+   56
+  ]
+ },
+ "video_url": "https://www.youtube.com/watch?v=btdyI30k0ds",
+ "trecho_txt": "Jovem Pan News (YouTube, 16/11/2026), fala de Tarcísio de Freitas no AgroForum do BTG",
+ "legenda": "Tarcísio disse que Lula comprou a eleição no cartão de crédito e que agora vem a fatura.\n\nFoi ontem, no AgroForum do BTG, em São Paulo. A fatura é o ajuste fiscal que o governo mandou ao Congresso. Pela conta do próprio Tarcísio, o governo fala em R$ 50 a 60 bilhões, o mercado em R$ 35 a 50 bi, e uns R$ 8 bi dessa conta caem em cima de estados e municípios.\n\nE o Senado vota hoje os destaques do projeto.\n\nGasto de ano eleitoral não some. Ele volta no ano seguinte como corte, imposto ou serviço pior na sua cidade.\n\nVídeo: Jovem Pan News (16/11/2026). Fontes: CNN Brasil (16/11/2026); SBT News (16/11/2026); Money Times (16/11/2026).\n\n#tarcisio #lula #ajustefiscal #economia",
+ "fontes": [
+  {
+   "titulo": "CNN Brasil (16/11/2026): Tarcísio diz que Lula comprou eleição \"no crédito\" e defende oposição unida",
+   "url": "https://news.google.com/search?q=Tarc%C3%ADsio%20diz%20que%20Lula%20comprou%20elei%C3%A7%C3%A3o%20no%20cr%C3%A9dito%20CNN"
+  },
+  {
+   "titulo": "Money Times (16/11/2026): \"O presidente comprou a eleição no cartão de crédito e agora vai vir a fatura\", diz Tarcísio no AgroForum",
+   "url": "https://news.google.com/search?q=Tarc%C3%ADsio%20AgroForum%20cart%C3%A3o%20de%20cr%C3%A9dito%20Money%20Times"
+  },
+  {
+   "titulo": "SBT News (16/11/2026): Tarcísio: Lula comprou eleição no crédito e ajuste não basta",
+   "url": "https://news.google.com/search?q=Tarc%C3%ADsio%20Lula%20comprou%20elei%C3%A7%C3%A3o%20no%20cr%C3%A9dito%20SBT"
+  },
+  {
+   "titulo": "Jovem Pan News (YouTube, 16/11/2026)",
+   "url": "https://www.youtube.com/watch?v=btdyI30k0ds"
+  }
+ ],
+ "carrossel_id": "sug-video-tarcisio-cartao-credito-fatura",
+ "publicado_em": "2026-11-17T08:50:00-03:00",
+ "arquivo": "sug-video-tarcisio-cartao-credito-fatura-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-tarcisio-cartao-credito-fatura",
+ "teste_cta": {
+  "braco": "atual",
+  "texto": "Segue pra ver o próximo corte."
+ }
+}
