@@ -104,5 +104,24 @@
  "teste_cta": {
   "braco": "atual",
   "texto": "Segue pra ver o próximo corte."
- }
+ },
+ "agendado_metricool": {
+  "id": 431353251,
+  "uuid": "5269650101920221996",
+  "para": "2026-11-17T10:40:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T09:02:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431353333,
+  "uuid": "6447541364686341124",
+  "para": "2026-11-17T14:50:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T09:02:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 8h20): IG 10:40 (Reel de teste), TT 14:50; sem Short (já há 3 Shorts de corte hoje). Corte puro 1,1x, 26,7 s; vídeo em pé dentro de quadro da Itatiaia, recortado (crop) e legenda baixada (legenda_y 1660) para não cobrir o rosto; Whisper ouviu \"exceção\" no lugar de \"recessão\" e foi corrigido. auditar_cortes 0 pontos. Não poste à mão.",
+ "atualizado": "2026-11-17T09:02:00-03:00",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T09:03:00-03:00"
 }

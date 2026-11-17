@@ -1,0 +1,101 @@
+{
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "status": "publicado",
+ "criado": "2026-11-17T09:05:00-03:00",
+ "sugerido_por": "rotina Reels de teste 17/11 8h20 (13:00)",
+ "id": "sug-video-nikolas-sai-pl-se-apoiar-motta",
+ "carrossel_id": "sug-video-nikolas-sai-pl-se-apoiar-motta",
+ "titulo": "Nikolas: PL apoiar Hugo Motta deixaria “insustentável a minha permanência no partido”",
+ "motivo": "Fala quente e pouco vista: o deputado mais votado do país ameaça sair do PL se o partido apoiar a reeleição de Hugo Motta. Vídeo: 98 News (16/11, 12 mil views). Fatos: O Nortão (17/11); contexto do racha no PL: Gazeta do Povo, PlatôBR (16–17/11).",
+ "prioridade": 1,
+ "forca": "alta",
+ "noticia_grande": false,
+ "fato_em": "2026-11-16T17:00:00-03:00",
+ "vence_em": "2026-11-18T23:59:00-03:00",
+ "para_quem": "quem acompanha a briga da direita pela Câmara",
+ "promessa": "deixaria insustentável a minha permanência no partido",
+ "paga_em": "descumpriu vários acordos com o PL",
+ "diferenciacao": "a legenda junta as duas pontas do racha do PL no mesmo dia (Flávio fechou a porta para Motta, Nikolas ameaça sair) e diz o que está em jogo na eleição de fevereiro",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Nikolas: se o PL apoiar Hugo Motta, ==“insustentável a minha permanência”=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "deixaria insustentável a minha permanência no partido",
+  "inicio": "Então eu acho que o PL decidir",
+  "fim": "a questão da anistia",
+  "texto": "Então eu acho que o PL decidir apoiar o Hugo Motta deixaria insustentável a minha permanência no partido. Eu acho que é isso, porque no fim das contas, eu sei que eu estou no partido, que eu não comando votos dos demais, mas obviamente eu também tenho, digamos, o comando da minha permanência ou não no partido. Então acho que não tá próximo dessa decisão. Acho que o PL não vai declaradamente nem abertamente apoiar o Hugo Motta. Então, por isso que eu tô falando dessa forma, que eu acho que o PL realmente não vai fazer isso. E mesmo se, digamos, fizer isso, obviamente vai ter uma decisão que eu não sei do futuro, que é ou manter-se dentro do PL com uma ala contrária a esta ala do PL ou realmente a possibilidade da saída do PL, já que, enfim, apoiar um cara que além de ter declarado abertamente o apoio ao PT nessas eleições, também descumpriu vários acordos com o PL, que é muito importante, como por exemplo a questão da anistia.",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "o PL não vai declaradamente",
+    "texto": "A eleição da presidência da Câmara é em fevereiro"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "janela": [
+   0,
+   78
+  ],
+  "girar": "nao",
+  "gancho": false
+ },
+ "video_url": "https://www.youtube.com/watch?v=gn0tSphU674",
+ "trecho_txt": "98 News (YouTube, 16/11/2026), entrevista do deputado Nikolas Ferreira (PL-MG)",
+ "legenda": "Nikolas Ferreira diz que sai do PL se o partido apoiar a reeleição de Hugo Motta na Câmara.\n\nEle chama o apoio de mancha na identidade do partido e lista o motivo: Motta apoiou o PT nessas eleições e descumpriu acordos com o PL, como a anistia. Nikolas acha que o PL não vai apoiar abertamente, mas deixou a saída na mesa.\n\nÉ o mesmo racha do Flávio, que já fechou a porta para Motta. De um lado, Valdemar quer acordo; do outro, Flávio, Sóstenes e agora Nikolas batem de frente. A eleição da Mesa é em fevereiro.\n\nQuem decide o PL hoje: o dono da sigla ou quem tem o voto?\n\nVídeo: 98 News (16/11/2026). Fontes: O Nortão (17/11/2026); Gazeta do Povo (16/11/2026); PlatôBR (17/11/2026).\n\n#nikolasferreira #hugomotta #pl #camara",
+ "fontes": [
+  {
+   "titulo": "O Nortão (17/11/2026): Nikolas afirma que caso o PL apoie Hugo Motta sairá do partido por não concordar",
+   "url": "https://news.google.com/search?q=Nikolas%20afirma%20que%20caso%20o%20PL%20apoie%20Hugo%20Motta"
+  },
+  {
+   "titulo": "Gazeta do Povo (16/11/2026): Disputa por cargos e resistência ao PT dividem PL sobre apoio a Hugo Motta",
+   "url": "https://news.google.com/search?q=Disputa%20por%20cargos%20e%20resist%C3%AAncia%20ao%20PT%20dividem%20PL"
+  },
+  {
+   "titulo": "98 News (YouTube, 16/11/2026)",
+   "url": "https://www.youtube.com/watch?v=gn0tSphU674"
+  },
+  {
+   "titulo": "PlatôBR (17/11/2026): Sem Flávio e com Jair preso, PL se divide entre acordo e confronto no Congresso",
+   "url": "https://news.google.com/search?q=PL%20se%20divide%20entre%20acordo%20e%20confronto%20no%20Congresso"
+  }
+ ],
+ "publicado_em": "2026-11-17T09:25:00-03:00",
+ "arquivo": "sug-video-nikolas-sai-pl-se-apoiar-motta-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-nikolas-sai-pl-se-apoiar-motta",
+ "teste_cta": {
+  "braco": "atual",
+  "texto": "Segue pra ver o próximo corte."
+ }
+}
