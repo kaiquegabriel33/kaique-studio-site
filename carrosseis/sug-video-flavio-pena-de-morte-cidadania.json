@@ -1,0 +1,97 @@
+{
+ "status": "pronto",
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-17T11:55:00-03:00",
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "sugerido_por": "rotina Reels de teste 17/11 11h20",
+ "id": "sug-video-flavio-pena-de-morte-cidadania",
+ "titulo": "Flávio sobre Moraes vetar visitas a Jair: “pena de morte da cidadania”",
+ "motivo": "Fala do próprio Flávio Bolsonaro gravada hoje para as redes, contra a decisão de Moraes de vetar as visitas de Marinho, Tereza Cristina e Valdemar a Jair (SBT News, O Povo, Estadão, 16/11). Repostagem da TMC com 786 views (pouco visto).",
+ "prioridade": 3,
+ "forca": "media",
+ "fato_em": "2026-11-17T09:00:00-03:00",
+ "vence_em": "2026-11-18T23:59:00-03:00",
+ "politico": "Flávio Bolsonaro",
+ "para_quem": "quem acompanha a disputa da presidência do Senado e o caso Bolsonaro",
+ "promessa": "Jair Bolsonaro deve ser o único brasileiro que tem essa vedação",
+ "paga_em": "é a decretação da pena de morte da cidadania de Bolsonaro",
+ "diferenciacao": "a legenda separa o que a decisão diz (visitas para negociar a disputa do Senado) do argumento do Flávio (perda de direitos políticos é votar e ser votado, não opinar)",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Flávio sobre Moraes vetar visitas a Jair: ==“pena de morte da cidadania”=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "pena de morte da cidadania",
+  "inicio": "pseudo fundamento",
+  "fim": "direito irrevogável de ter opinião política",
+  "texto": "pseudo fundamento é o artigo 15, inciso 3 da Constituição Federal, que trata das perdas dos direitos políticos, ou seja, significa não poder votar e nem ser candidato a cargo eletivo. É só isso. Isso não tem absolutamente nada a ver com a proibição de ter opinião política ou de receber visitas de parlamentares. Jair Bolsonaro deve ser o único brasileiro que tem essa vedação. Nem no regime militar alguém teve cassado o direito de ter opinião. É a decretação da pena de morte da cidadania de Bolsonaro. Perda dos direitos políticos não tira o direito irrevogável de ter opinião política.",
+  "gancho": "É a decretação da pena de morte da cidadania de Bolsonaro",
+  "girar": "nao",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "Isso não tem absolutamente",
+    "texto": "Flávio Bolsonaro, hoje (17/11), sobre Moraes vetar visitas a Jair"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "janela": [
+   0,
+   70
+  ]
+ },
+ "video_url": "https://www.youtube.com/watch?v=oYjJPPw31XQ",
+ "trecho_txt": "Flávio Bolsonaro (vídeo nas redes, 17/11/2026), via TMC News Br",
+ "legenda": "Flávio Bolsonaro sobre Moraes vetar visitas a Jair: “é a decretação da pena de morte da cidadania”.\n\nMoraes negou as visitas de Rogério Marinho, Tereza Cristina e Valdemar Costa Neto a Jair Bolsonaro. Na decisão, diz que as reuniões teriam como fim a participação dele nas negociações da candidatura à presidência do Senado.\n\nO argumento do Flávio: perder os direitos políticos é não votar e não ser candidato, não é perder o direito de ter opinião nem de receber parlamentar.\n\nA pergunta que fica: preso pode receber visita, mas pode fazer política de dentro da prisão?\n\nVídeo: Flávio Bolsonaro, nas redes (17/11/2026), via TMC News. Fontes: SBT News (16/11/2026); O Povo (17/11/2026); Estadão (16/11/2026).\n\n#flaviobolsonaro #moraes #bolsonaro #stf",
+ "fontes": [
+  {
+   "titulo": "SBT News: Moraes nega visita de Marinho e Tereza Cristina a Bolsonaro",
+   "url": "https://news.google.com/search?q=Moraes%20nega%20visita%20de%20Marinho%20e%20Tereza%20Cristina%20a%20Bolsonaro"
+  },
+  {
+   "titulo": "O Povo: Moraes veta visitas a Bolsonaro e cita disputa pelo comando do Senado",
+   "url": "https://www.youtube.com/watch?v=ZUW61M8GFFU"
+  },
+  {
+   "titulo": "tmc.com.br: Flávio critica Moraes por vetar visitas a Jair: Pena de morte",
+   "url": "https://news.google.com/search?q=Fl%C3%A1vio%20critica%20Moraes%20por%20vetar%20visitas%20a%20Jair%20pena%20de%20morte"
+  },
+  {
+   "titulo": "TMC News Br (YouTube, 17/11/2026)",
+   "url": "https://www.youtube.com/watch?v=oYjJPPw31XQ"
+  }
+ ],
+ "carrossel_id": "sug-video-flavio-pena-de-morte-cidadania",
+ "noticia_grande": true,
+ "arquivo": "sug-video-flavio-pena-de-morte-cidadania-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-pena-de-morte-cidadania"
+}
