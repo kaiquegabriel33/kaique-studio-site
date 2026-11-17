@@ -1,0 +1,108 @@
+{
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "status": "publicado",
+ "criado": "2026-11-17T08:55:00-03:00",
+ "sugerido_por": "rotina Reels de teste 17/11 8h20",
+ "id": "sug-video-lindbergh-recessao-derruba-governo",
+ "carrossel_id": "sug-video-lindbergh-recessao-derruba-governo",
+ "titulo": "Lindbergh (PT): “a recessão de 2015 nos derrubou”",
+ "motivo": "Líder do PT contra o ajuste fiscal do próprio governo, ontem na Câmara: lista as recessões que derrubaram governos. Vídeo: Itatiaia (16/11, 12 mil views). Fatos: Terra, UOL, Brasil 247 (16/11). Hoje o Senado vota os destaques do ajuste.",
+ "prioridade": 2,
+ "forca": "alta",
+ "noticia_grande": false,
+ "fato_em": "2026-11-16T15:00:00-03:00",
+ "vence_em": "2026-11-18T23:59:00-03:00",
+ "para_quem": "quem sente a economia desacelerar no emprego e no consumo",
+ "promessa": "Vale dizer que recessão sempre derrubou o governo",
+ "paga_em": "A minha preocupação, novamente, é com a recessão",
+ "diferenciacao": "a legenda põe o governo e o PT de lados opostos no mesmo ajuste e mostra os números que o próprio Lindbergh leu (consumo das famílias caindo de 5,1% para 0,9%)",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Líder do PT contra o ajuste de Lula: ==“a recessão de 2015 nos derrubou”=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "A recessão de 2015 nos derrubou",
+  "inicio": "Vale dizer que recessão",
+  "fim": "A economia está desacelerando",
+  "texto": "Vale dizer que recessão sempre derrubou o governo. Recessão de 81, 82 derrubou a ditadura. A recessão de 2015 nos derrubou. A recessão do Collor derrubou o Collor. Eu não estou querendo dizer que é tudo igual àquele período do Joaquim Levy. Não, mas é ajuste. Eu quero explicar por que e qual a minha preocupação. A minha preocupação, novamente, é com a recessão. A economia está desacelerando.",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "Eu não estou querendo dizer",
+    "texto": "Lindbergh compara com o ajuste de Joaquim Levy, em 2015"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "janela": [
+   0,
+   50
+  ],
+  "crop": [
+   484,
+   828,
+   718,
+   0
+  ],
+  "enquadrar": false,
+  "foco_falante": false,
+  "legenda_y": 1660
+ },
+ "video_url": "https://www.youtube.com/watch?v=9yOQvN0aNDo",
+ "trecho_txt": "Itatiaia (YouTube, 16/11/2026), pronunciamento do deputado Lindbergh Farias (PT-RJ)",
+ "legenda": "Lindbergh Farias, líder do PT na Câmara, contra o ajuste do próprio governo: recessão derruba governo.\n\nE a de 2015 derrubou o PT, lembrou ele. Os números que ele leu: o consumo das famílias crescia 5,1% no fim de 2024 e caiu para 0,9% no segundo trimestre de 2026. Ele mira duas coisas do projeto: o teto de gasto do arcabouço caindo de 2,5% para 2% e a meta de superávit subindo até 2028.\n\nO outro lado: o ministro Moretti, que conduz o ajuste, rebateu as críticas, e Lindbergh respondeu acusando o ministro de tentar interditar o debate. O Senado vota hoje os destaques.\n\nQuando o aliado mais fiel bate no ajuste, o problema do governo não é só a oposição.\n\nVídeo: Itatiaia (16/11/2026). Fontes: Terra (16/11/2026); UOL (16/11/2026); Brasil 247 (16/11/2026).\n\n#lindbergh #pt #ajustefiscal #economia",
+ "fontes": [
+  {
+   "titulo": "Terra (16/11/2026): Lindbergh critica ajuste fiscal de Lula e fala em risco de recessão: 'Grande equívoco'",
+   "url": "https://news.google.com/search?q=Lindbergh%20critica%20ajuste%20fiscal%20de%20Lula%20e%20fala%20em%20risco%20de%20recess%C3%A3o"
+  },
+  {
+   "titulo": "UOL (16/11/2026): Lindbergh (PT) acusa ministro de autoritarismo na condução do ajuste fiscal",
+   "url": "https://news.google.com/search?q=Lindbergh%20acusa%20ministro%20de%20autoritarismo%20ajuste%20fiscal"
+  },
+  {
+   "titulo": "Itatiaia (YouTube, 16/11/2026)",
+   "url": "https://www.youtube.com/watch?v=9yOQvN0aNDo"
+  },
+  {
+   "titulo": "Brasil 247 (16/11/2026): Lindbergh rebate crítica de Moretti e diz que ajuste fiscal pode levar à recessão",
+   "url": "https://news.google.com/search?q=Lindbergh%20rebate%20cr%C3%ADtica%20de%20Moretti"
+  }
+ ],
+ "publicado_em": "2026-11-17T09:05:00-03:00",
+ "arquivo": "sug-video-lindbergh-recessao-derruba-governo-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lindbergh-recessao-derruba-governo",
+ "teste_cta": {
+  "braco": "atual",
+  "texto": "Segue pra ver o próximo corte."
+ }
+}

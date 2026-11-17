@@ -96,5 +96,31 @@
  "teste_cta": {
   "braco": "atual",
   "texto": "Segue pra ver o próximo corte."
- }
+ },
+ "agendado_metricool": {
+  "id": 431337477,
+  "uuid": "-3611037127984853578",
+  "para": "2026-11-17T10:00:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T08:48:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431337608,
+  "uuid": "-6955358797762180558",
+  "para": "2026-11-17T13:30:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T08:48:00-03:00"
+ },
+ "agendado_youtube": {
+  "id": 431337690,
+  "uuid": "5186453188587636054",
+  "para": "2026-11-17T12:00:00",
+  "tipo": "short",
+  "em": "2026-11-17T08:48:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 8h20): IG 10:00 (Reel de teste), Short 12:00, TT 13:30; corte puro 1,1x, 42,6 s; auditar_cortes 0 pontos; conferir_video: REPETIÇÃO é anáfora da fala dele (não é tomada), FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T08:49:00-03:00",
+ "atualizado": "2026-11-17T08:49:00-03:00"
 }
