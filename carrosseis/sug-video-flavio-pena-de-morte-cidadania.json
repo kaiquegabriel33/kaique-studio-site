@@ -1,5 +1,5 @@
 {
- "status": "pronto",
+ "status": "publicado",
  "formato": "video",
  "formato_corte": "tela_cheia_escura",
  "ab_formato": "puro-x-comentario",
@@ -93,5 +93,25 @@
  "carrossel_id": "sug-video-flavio-pena-de-morte-cidadania",
  "noticia_grande": true,
  "arquivo": "sug-video-flavio-pena-de-morte-cidadania-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-pena-de-morte-cidadania"
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-pena-de-morte-cidadania",
+ "publicado_em": "2026-11-17T12:20:00-03:00",
+ "agendado_metricool": {
+  "id": 431585819,
+  "uuid": "1504713946292306449",
+  "para": "2026-11-18T09:40:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T12:08:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431586002,
+  "uuid": "6622533378839497776",
+  "para": "2026-11-18T10:50:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T12:08:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 18/11 09:40 (Reel de teste) e TT 18/11 10:50; não foi hoje porque o Flávio já teve Reel de teste em 17/11 9:00 (nunca dois do mesmo político no dia). Corte puro 1,1x, 41,9 s, gancho “pena de morte da cidadania”. Fonte só na repostagem da TMC: logo da TMC apagado (delogo) na gravação. auditar_cortes 0 pontos. conferir_video: FALANTE/ROSTO CORTADO de 0:18.8 a 0:20.2 é a imagem de Jair que vem no vídeo original (cutaway), não erro de recorte; FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T12:10:00-03:00",
+ "atualizado": "2026-11-17T12:10:00-03:00"
 }

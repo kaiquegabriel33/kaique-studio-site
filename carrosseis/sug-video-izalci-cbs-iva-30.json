@@ -1,5 +1,5 @@
 {
- "status": "pronto",
+ "status": "publicado",
  "formato": "video",
  "formato_corte": "tela_cheia_escura",
  "ab_formato": "puro-x-comentario",
@@ -91,5 +91,25 @@
  "carrossel_id": "sug-video-izalci-cbs-iva-30",
  "noticia_grande": true,
  "arquivo": "sug-video-izalci-cbs-iva-30-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-izalci-cbs-iva-30"
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-izalci-cbs-iva-30",
+ "publicado_em": "2026-11-17T12:20:00-03:00",
+ "agendado_metricool": {
+  "id": 431585024,
+  "uuid": "8350708384120194681",
+  "para": "2026-11-17T13:20:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T12:08:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431585196,
+  "uuid": "1121584392931003814",
+  "para": "2026-11-17T18:50:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T12:08:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 13:20 (Reel de teste) e TT 18:50. Corte puro 1,1x, 29,2 s. auditar_cortes 0 pontos; aviso GANCHO aceito: o vídeo já abre na frase dos 30% (aspa nos primeiros 4 s). conferir_video: 1 estalo suavizado (suavizar_estalos.py), FAIXA no fim é o cartão. 2ª versão da notícia da CBS (o Izalci de 16/11 era outra fala, em outra sessão); hoje com a audiência da CAE. Mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T12:10:00-03:00",
+ "atualizado": "2026-11-17T12:10:00-03:00"
 }

@@ -1,0 +1,96 @@
+{
+ "status": "pronto",
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-17T12:20:00-03:00",
+ "versao": 1,
+ "video_partes": [],
+ "cta": true,
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "sugerido_por": "rotina Reels de teste 17/11 11h20",
+ "id": "sug-video-doria-master-220-mil",
+ "titulo": "Mensagens de Vorcaro: Doria recebia R$ 220 mil por mês do Master",
+ "motivo": "Revelação com nome e número, hoje: reportagem de Natália Portinari (UOL) com mensagens do celular de Vorcaro; Doria fechou consultoria com o Master 4 meses depois de deixar o governo e se ofereceu para falar com Campos Neto. Vídeo UOL com 1,2 mil views (pouco visto); repercussão em BPMoney e O Potiguar.",
+ "prioridade": 1,
+ "forca": "alta",
+ "fato_em": "2026-11-17T08:30:00-03:00",
+ "vence_em": "2026-11-18T23:59:00-03:00",
+ "politico": "João Doria",
+ "para_quem": "quem perdeu dinheiro ou confiança com o caso Master e quer saber quem estava em volta do Vorcaro",
+ "promessa": "pagamento de R$ 220.000 por mês para Dória",
+ "paga_em": "se ofereceu para tratar de um assunto do Master com Roberto Campos Neto",
+ "diferenciacao": "a legenda põe o outro lado (Doria diz que não havia nada inadequado e não é investigado) e a pergunta que fica: o que um ex-governador vende quando oferece acesso ao presidente do Banco Central",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
+    {
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Mensagens de Vorcaro: Doria recebia ==R$ 220 mil por mês== do Master"
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
+    }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "220.000 por mês",
+  "inicio": "Dória fechou um contrato",
+  "fim": "então presidente do Banco Central",
+  "texto": "Dória fechou um contrato de consultoria com Banco Master 4 meses depois de deixar o cargo em 2022. Mensagens encontradas no celular de Daniel Vorcaro mostram o pagamento de R$ 220.000 por mês para Dória. No dia 21 de julho de 2022, o ex-governador se ofereceu para tratar de um assunto do Master com Roberto Campos Neto, então presidente do Banco Central.",
+  "gancho": "Mensagens encontradas no celular de Daniel Vorcaro mostram o pagamento de R$ 220.000 por mês para Dória",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "No dia 21 de julho",
+    "texto": "Reportagem do UOL, hoje (17/11), com mensagens do celular de Vorcaro"
+   }
+  ],
+  "cta": true,
+  "encher": false,
+  "janela": [
+   10,
+   56
+  ]
+ },
+ "video_url": "https://www.youtube.com/watch?v=ChfJ7rdk8mo",
+ "trecho_txt": "UOL (YouTube, 17/11/2026), UOL News sobre a reportagem de Natália Portinari",
+ "legenda": "Mensagens do celular de Daniel Vorcaro mostram João Doria recebendo R$ 220 mil por mês do Banco Master.\n\nA consultoria foi fechada 4 meses depois de ele deixar o governo de São Paulo, em 2022. Em 21 de julho daquele ano, Doria se ofereceu para tratar de um assunto do Master com Roberto Campos Neto, então presidente do Banco Central. Dias depois, escreveu que tinha boas notícias sobre o presidente do BC.\n\nO outro lado: Doria disse ao UOL que não havia nada inadequado na relação com o Master entre 2022 e 2023, e confirma ter recebido parcelas. Ele não é investigado.\n\nA dúvida que fica: o que um ex-governador vende quando oferece uma conversa com o presidente do Banco Central?\n\nVídeo: UOL (17/11/2026). Fontes: UOL, reportagem de Natália Portinari (17/11/2026); BPMoney (17/11/2026); O Potiguar (17/11/2026).\n\n#doria #bancomaster #vorcaro #bancocentral",
+ "fontes": [
+  {
+   "titulo": "UOL (Natália Portinari): Doria foi consultor do Master após sair do governo, mostram mensagens",
+   "url": "https://news.google.com/search?q=Doria%20foi%20consultor%20do%20Master%20ap%C3%B3s%20sair%20do%20governo"
+  },
+  {
+   "titulo": "BPMoney: Mensagens de Vorcaro mostram Doria como consultor do Master por R$ 220 mil mensais",
+   "url": "https://news.google.com/search?q=Mensagens%20de%20Vorcaro%20mostram%20Doria%20consultor%20220%20mil"
+  },
+  {
+   "titulo": "O Potiguar: João Doria recebeu R$ 220 mil mensais do Banco Master e ofereceu interlocução com Campos Neto",
+   "url": "https://news.google.com/search?q=Jo%C3%A3o%20Doria%20recebeu%20R%24%20220%20mil%20mensais%20do%20Banco%20Master"
+  },
+  {
+   "titulo": "UOL (YouTube, 17/11/2026)",
+   "url": "https://www.youtube.com/watch?v=ChfJ7rdk8mo"
+  }
+ ],
+ "carrossel_id": "sug-video-doria-master-220-mil",
+ "noticia_grande": true,
+ "arquivo": "sug-video-doria-master-220-mil-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-doria-master-220-mil"
+}

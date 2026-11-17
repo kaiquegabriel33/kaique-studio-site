@@ -1,5 +1,5 @@
 {
- "status": "pronto",
+ "status": "publicado",
  "formato": "video",
  "formato_corte": "tela_cheia_escura",
  "ab_formato": "puro-x-comentario",
@@ -104,5 +104,25 @@
  "carrossel_id": "sug-video-boris-pgr-324-milhoes-vergonha",
  "noticia_grande": true,
  "arquivo": "sug-video-boris-pgr-324-milhoes-vergonha-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-boris-pgr-324-milhoes-vergonha"
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-boris-pgr-324-milhoes-vergonha",
+ "publicado_em": "2026-11-17T12:20:00-03:00",
+ "agendado_metricool": {
+  "id": 431585522,
+  "uuid": "2101625080756391392",
+  "para": "2026-11-17T14:00:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T12:08:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431585671,
+  "uuid": "3162613362429676156",
+  "para": "2026-11-17T20:10:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T12:08:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 14:00 (Reel de teste) e TT 20:10. Corte puro 1,1x, 33,7 s, gancho “isso é uma vergonha” na abertura. auditar_cortes 0 pontos. conferir_video: 3 de 4 estalos suavizados; sobra 1 aos 29 s (perto do fim da fala, pico 20 dB); FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T12:10:00-03:00",
+ "atualizado": "2026-11-17T12:10:00-03:00"
 }
