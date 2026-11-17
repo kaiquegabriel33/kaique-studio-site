@@ -1,120 +1,119 @@
 {
-  "id": "sug-video-lula-pais-mais-serio-ambiente",
-  "carrossel_id": "sug-video-lula-pais-mais-serio-ambiente",
-  "status": "publicado",
-  "publicado_em": "2026-11-14T12:00:00-03:00",
-  "arquivo": "sug-video-lula-pais-mais-serio-ambiente-tela-cheia.mp4",
-  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-pais-mais-serio-ambiente",
-  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
-  "motivo": "Domingo 15/11, manhã: fala do Lula na COP31 em Antália (12/11), encontro com a sociedade civil: 'nenhum brasileiro precisa ir a reunião climática de cabeça baixa' e 'eu quero ver o Trump, o Macron'. Fala real com 118 mil views na CartaCapital. Número oficial no cartão (Prodes/Inpe 16/10). Fatos: Agência Gov e Agência Brasil (13/11), Inpe, InfoAmazonia; outro lado: Greenpeace/Observatório do Clima.",
-  "prioridade": 3,
-  "versao": 1,
-  "video_partes": [],
-  "formato": "video",
-  "formato_corte": "tela_cheia_escura",
-  "ab_formato": "puro-x-comentario",
-  "forca": "media",
-  "noticia_grande": true,
-  "teste_reel": true,
-  "sempre_verde": false,
-  "reserva": false,
-  "criado": "2026-11-14T12:00:00-03:00",
-  "atualizado": "2026-11-14T12:00",
-  "fato_em": "2026-11-12T12:00:00-03:00",
-  "vence_em": "2026-11-16T23:59:00-03:00",
-  "titulo": "Lula na COP31: \"eu quero ver o Trump, eu quero ver o Macron\"",
-  "para_quem": "quem acompanha a briga do clima e quem quer saber se o desmatamento caiu mesmo",
-  "promessa": "nenhum brasileiro precisa ir em nenhuma reunião climática de cabeça baixa",
-  "paga_em": "Eu quero ver o Trump. Eu quero ver o Macron.",
-  "diferenciacao": "o número oficial que a fala não dá, no cartão (Prodes: 3.335 km², menor taxa desde 1988) e o que os ambientalistas ainda cobram, na legenda",
-  "slides": [
+ "id": "sug-video-lula-pais-mais-serio-ambiente",
+ "carrossel_id": "sug-video-lula-pais-mais-serio-ambiente",
+ "status": "publicado",
+ "publicado_em": "2026-11-14T12:00:00-03:00",
+ "arquivo": "sug-video-lula-pais-mais-serio-ambiente-tela-cheia.mp4",
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-pais-mais-serio-ambiente",
+ "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+ "motivo": "Domingo 15/11, manhã: fala do Lula na COP31 em Antália (12/11), encontro com a sociedade civil: 'nenhum brasileiro precisa ir a reunião climática de cabeça baixa' e 'eu quero ver o Trump, o Macron'. Fala real com 118 mil views na CartaCapital. Número oficial no cartão (Prodes/Inpe 16/10). Fatos: Agência Gov e Agência Brasil (13/11), Inpe, InfoAmazonia; outro lado: Greenpeace/Observatório do Clima.",
+ "prioridade": 3,
+ "versao": 1,
+ "video_partes": [],
+ "formato": "video",
+ "formato_corte": "tela_cheia_escura",
+ "ab_formato": "puro-x-comentario",
+ "forca": "media",
+ "noticia_grande": true,
+ "teste_reel": true,
+ "sempre_verde": false,
+ "reserva": false,
+ "criado": "2026-11-14T12:00:00-03:00",
+ "atualizado": "2026-11-14T12:00",
+ "fato_em": "2026-11-12T12:00:00-03:00",
+ "vence_em": "2026-11-16T23:59:00-03:00",
+ "titulo": "Lula na COP31: \"eu quero ver o Trump, eu quero ver o Macron\"",
+ "para_quem": "quem acompanha a briga do clima e quem quer saber se o desmatamento caiu mesmo",
+ "promessa": "nenhum brasileiro precisa ir em nenhuma reunião climática de cabeça baixa",
+ "paga_em": "Eu quero ver o Trump. Eu quero ver o Macron.",
+ "diferenciacao": "o número oficial que a fala não dá, no cartão (Prodes: 3.335 km², menor taxa desde 1988) e o que os ambientalistas ainda cobram, na legenda",
+ "slides": [
+  {
+   "altura": 1920,
+   "papel": "vídeo",
+   "tema": "escuro",
+   "elementos": [
     {
-      "altura": 1920,
-      "papel": "vídeo",
-      "tema": "escuro",
-      "elementos": [
-        {
-          "tipo": "texto",
-          "tam": 52,
-          "corMarca": "#FFD700",
-          "corTextoMarca": "#111111",
-          "texto": "Lula na COP: ==\"eu quero ver o Trump\"=="
-        },
-        {
-          "tipo": "video",
-          "x": 0,
-          "w": 1080,
-          "h": "resto",
-          "ajuste": "conter",
-          "raio": 0
-        }
-      ]
+     "tipo": "texto",
+     "tam": 52,
+     "corMarca": "#FFD700",
+     "corTextoMarca": "#111111",
+     "texto": "Lula na COP: ==\"eu quero ver o Trump\"=="
+    },
+    {
+     "tipo": "video",
+     "x": 0,
+     "w": 1080,
+     "h": "resto",
+     "ajuste": "conter",
+     "raio": 0
     }
+   ]
+  }
+ ],
+ "trecho": {
+  "aspa_manchete": "Eu quero ver o Trump. Eu quero ver o Macron.",
+  "inicio": "Ninguém, ninguém do planeta Terra",
+  "fim": "agora eles participarem",
+  "texto": "",
+  "gancho": "Eu quero ver o Trump. Eu quero ver o Macron.",
+  "contexto": [
+   {
+    "cor": "amarelo",
+    "desde": "desmatamento zero",
+    "texto": "Amazônia: 3.335 km² desmatados (ago/25–jul/26), menor taxa desde 1988 (Inpe)"
+   }
   ],
-  "trecho": {
-    "aspa_manchete": "Eu quero ver o Trump. Eu quero ver o Macron.",
-    "inicio": "Ninguém, ninguém do planeta Terra",
-    "fim": "agora eles participarem",
-    "texto": "",
-    "gancho": "Eu quero ver o Trump. Eu quero ver o Macron.",
-    "contexto": [
-      {
-        "cor": "amarelo",
-        "desde": "desmatamento zero",
-        "texto": "Amazônia: 3.335 km² desmatados (ago/25–jul/26), menor taxa desde 1988 (Inpe)"
-      }
-    ],
-    "cta": true,
-    "encher": false,
-    "girar": "nao",
-    "legenda": false,
-    "enquadrar": false,
-    "preencher": false,
-    "crop": [
-      1080,
-      1800,
-      0,
-      60
-    ]
-  },
-  "video_url": "https://www.youtube.com/watch?v=HxXlEughW0A",
   "cta": true,
-  "legenda": "\"Nenhum brasileiro precisa ir em nenhuma reunião climática de cabeça baixa.\" Foi o Lula na COP31, na Turquia, falando para a sociedade civil brasileira no último dia dele lá (12/11).\n\nO número por trás da frase: o Prodes, do Inpe, estimou 3.335 km² de desmatamento na Amazônia entre agosto de 2025 e julho de 2026, a menor taxa desde 1988 e 41,8% abaixo do período anterior. No Cerrado, a queda foi de 23,8%. É estimativa; o dado fechado sai no 1º semestre de 2027.\n\nO outro lado: o Greenpeace diz que o resultado pode ser ameaçado por políticos antiambientais eleitos, e o Observatório do Clima segue cobrando desmatamento zero, que ainda não chegou.\n\nVídeo: CartaCapital (13/11/2026). Fontes: Agência Gov e Agência Brasil (13/11/2026); Inpe (16/10/2026); InfoAmazonia; Greenpeace.\n\n#cop31 #lula #amazonia #meioambiente",
-  "fontes": [
-    {
-      "titulo": "Agência Gov (13/11/2026): Presidente Lula fecha presença na Turquia",
-      "url": "https://agenciagov.ebc.com.br/noticias/202611/presidente-lula-fecha-presenca-na-turquia-e-celebra-legados-da-cop30"
-    },
-    {
-      "titulo": "Inpe: Brasil alcança menores taxas de desmatamento da série histórica",
-      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/brasil-alcanca-menores-taxas-de-desmatamento-da-serie-historica-na-amazonia-e-no-cerrado"
-    },
-    {
-      "titulo": "InfoAmazonia (16/10/2026): Amazônia tem a menor taxa de desmatamento já registrada",
-      "url": "https://infoamazonia.org/2026/10/16/amazonia-tem-a-menor-taxa-de-desmatamento-ja-registrada-pelo-inpe/"
-    },
-    {
-      "titulo": "Greenpeace: Menor taxa de desmatamento da história da Amazônia",
-      "url": "https://www.greenpeace.org/brasil/blog/menor-taxa-de-desmatamento-da-historia-da-amazonia/"
-    },
-    {
-      "titulo": "CartaCapital (YouTube, 13/11/2026)",
-      "url": "https://www.youtube.com/watch?v=HxXlEughW0A"
-    }
-  ],
-  "trecho_txt": "CartaCapital (13/11/2026), fala do presidente Lula na COP31, em Antália (12/11)",
-  "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')",
-  "agendado_metricool": {
-    "id": 428256298,
-    "para": "2026-11-15T10:40:00",
-    "tipo": "TRIAL_REEL",
-    "isAiGenerated": false,
-    "tiktok": {
-      "id": 428256618,
-      "para": "2026-11-15T18:20:00"
-    }
+  "encher": false,
+  "girar": "nao",
+  "legenda": false,
+  "enquadrar": false,
+  "preencher": false,
+  "crop": [
+   1080,
+   1800,
+   0,
+   60
+  ]
+ },
+ "video_url": "https://www.youtube.com/watch?v=HxXlEughW0A",
+ "cta": true,
+ "legenda": "\"Nenhum brasileiro precisa ir em nenhuma reunião climática de cabeça baixa.\" Foi o Lula na COP31, na Turquia, falando para a sociedade civil brasileira no último dia dele lá (12/11).\n\nO número por trás da frase: o Prodes, do Inpe, estimou 3.335 km² de desmatamento na Amazônia entre agosto de 2025 e julho de 2026, a menor taxa desde 1988 e 41,8% abaixo do período anterior. No Cerrado, a queda foi de 23,8%. É estimativa; o dado fechado sai no 1º semestre de 2027.\n\nO outro lado: o Greenpeace diz que o resultado pode ser ameaçado por políticos antiambientais eleitos, e o Observatório do Clima segue cobrando desmatamento zero, que ainda não chegou.\n\nVídeo: CartaCapital (13/11/2026). Fontes: Agência Gov e Agência Brasil (13/11/2026); Inpe (16/10/2026); InfoAmazonia; Greenpeace.\n\n#cop31 #lula #amazonia #meioambiente",
+ "fontes": [
+  {
+   "titulo": "Agência Gov (13/11/2026): Presidente Lula fecha presença na Turquia",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/presidente-lula-fecha-presenca-na-turquia-e-celebra-legados-da-cop30"
   },
-  "midia_no_metricool": true,
-  "nota_lote": "AGENDADO 14/11 (conversa) para domingo 15/11: IG 10:40 e TT 18:20, corte puro em 1,1x com gancho; mídia conferida no Metricool pelo tamanho. Não poste à mão.",
-  "postado_em": "2026-11-15T10:40:00-03:00"
+  {
+   "titulo": "Inpe: Brasil alcança menores taxas de desmatamento da série histórica",
+   "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/brasil-alcanca-menores-taxas-de-desmatamento-da-serie-historica-na-amazonia-e-no-cerrado"
+  },
+  {
+   "titulo": "InfoAmazonia (16/10/2026): Amazônia tem a menor taxa de desmatamento já registrada",
+   "url": "https://infoamazonia.org/2026/10/16/amazonia-tem-a-menor-taxa-de-desmatamento-ja-registrada-pelo-inpe/"
+  },
+  {
+   "titulo": "Greenpeace: Menor taxa de desmatamento da história da Amazônia",
+   "url": "https://www.greenpeace.org/brasil/blog/menor-taxa-de-desmatamento-da-historia-da-amazonia/"
+  },
+  {
+   "titulo": "CartaCapital (YouTube, 13/11/2026)",
+   "url": "https://www.youtube.com/watch?v=HxXlEughW0A"
+  }
+ ],
+ "trecho_txt": "CartaCapital (13/11/2026), fala do presidente Lula na COP31, em Antália (12/11)",
+ "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')",
+ "agendado_metricool": {
+  "id": 428256298,
+  "para": "2026-11-15T10:40:00",
+  "tipo": "TRIAL_REEL",
+  "isAiGenerated": false,
+  "tiktok": {
+   "id": 428256618,
+   "para": "2026-11-15T18:20:00"
+  }
+ },
+ "midia_no_metricool": true,
+ "nota_lote": "AGENDADO 14/11 (conversa) para domingo 15/11: IG 10:40 e TT 18:20, corte puro em 1,1x com gancho; mídia conferida no Metricool pelo tamanho. Não poste à mão."
 }
