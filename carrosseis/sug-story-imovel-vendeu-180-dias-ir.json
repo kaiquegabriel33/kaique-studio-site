@@ -1,0 +1,47 @@
+{
+  "id": "sug-story-imovel-vendeu-180-dias-ir",
+  "carrossel_id": "sug-story-imovel-vendeu-180-dias-ir",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: vendeu a casa com lucro? Comprando outra em 180 dias, o ganho fica isento de IR",
+  "criado": "2026-11-11T14:55:00-03:00",
+  "atualizado": "2026-11-11T14:55:00-03:00",
+  "vence_em": "2026-12-11T23:59:00-03:00",
+  "reserva": true,
+  "sempre_verde": true,
+  "forca": "media",
+  "papel_story": "educa",
+  "para_quem": "quem vai vender casa ou apartamento pra comprar outro, e quem tem pai ou mãe fazendo isso",
+  "comentario": "Quem vende a casa com lucro paga imposto de renda sobre esse ganho. Mas se em 180 dias você usar o dinheiro pra comprar outro imóvel residencial, fica isento. Se usar só uma parte do dinheiro, paga imposto sobre o resto. E isso vale uma vez a cada 5 anos.",
+  "repost_url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Quem vende a casa com lucro paga imposto de renda sobre esse ganho. Mas se [[verde:em 180 dias]] você usar o dinheiro pra comprar outro imóvel residencial, fica isento. Se usar só uma parte do dinheiro, paga imposto sobre o resto. E isso vale uma vez a cada 5 anos."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Lei 11.196/2005, art. 39 (caput e §§ 2º e 5º), lida no texto do Planalto em 11/11/2026: isento do imposto de renda o ganho de pessoa física residente no país na venda de imóveis residenciais, se em 180 dias da celebração do contrato aplicar o produto da venda na compra de imóveis residenciais no país; aplicação parcial é tributada na proporção da parcela não aplicada; o benefício vale uma vez a cada 5 anos",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm"
+    }
+  ],
+  "motivo": "Prateleira story (4 de 12, abaixo da metade), reserva sempre-verde de imposto de renda. Ideia da peça: o prazo de 180 dias decide se o lucro da venda vai pro Leão ou pra casa nova. Por que alguém manda: filho manda pro pai que está vendendo o apartamento. Diferenciação: exemplo concreto com o artigo da lei lido na fonte (prazo, a regra da parte e o limite de 5 anos), coisa que ele explica pra cliente; fundo liso porque a biblioteca não tem foto livre de casa (1 em 4). Lição do resumo vivo: um número só e a consequência prática.",
+  "confira_na_previa": [
+    "Os 180 dias contam da assinatura do contrato de venda, não do recebimento do dinheiro.",
+    "Vale só pra imóvel residencial, dos dois lados (o vendido e o comprado), e só pra pessoa física que mora no Brasil.",
+    "Fundo liso: se você tiver uma foto sua de casa, prédio ou chave, mando com ela."
+  ],
+  "revisar_antes_da_voz": [],
+  "versao": 1
+}

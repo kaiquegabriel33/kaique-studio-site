@@ -1,37 +1,45 @@
 {
-  "id": "sug-story-morgan-rebaixa-ibov-160-mil",
-  "titulo": "Story: o Morgan Stanley rebaixou a bolsa e vê o Ibovespa em 160 mil no fim de 2027",
-  "formato": "story",
-  "status": "pronto",
-  "legenda": "",
-  "fontes": [
-    {
-      "titulo": "Exame — Morgan Stanley rebaixa Brasil e vê Ibovespa em 160 mil pontos no fim de 2027 (16/11/2026): recomendação de equal weight (neutra) para underweight (abaixo da média); 171.337 pontos em 10/11; queda de 7% em reais; custo de capital próprio perto de 20%, acima do ROE da maior parte das empresas; prefere Chile, Peru e Argentina",
-      "url": "https://exame.com/invest/mercados/morgan-stanley-rebaixa-brasil-e-ve-ibovespa-em-160-mil-pontos-no-fim-de-2027/"
-    }
-  ],
-  "slides": [
-    {
-      "altura": 1920,
-      "centralizar": true,
-      "semCabecalho": true,
-      "tema": "escuro",
-      "papel": "post",
-      "elementos": [
-        {
-          "tipo": "caixa_story",
-          "texto": "O Morgan Stanley rebaixou a bolsa brasileira e vê o Ibovespa em [[vermelho:160 mil pontos]] no fim de 2027, uns 7% abaixo dos 171 mil de 10/11.\nO motivo é o juro: com o investidor cobrando perto de 20% para ficar em ação, pouca empresa daqui lucra isso.\nBanco erra previsão toda hora. Mas quem tem ação precisa saber contra quem está apostando."
-        },
-        {
-          "tipo": "imagem",
-          "src": "midia/sug-story-morgan-rebaixa-ibov-160-mil/print-exame-morgan-stanley-rebaixa-brasil-e.png",
-          "h": 390,
-          "ajuste": "conter",
-          "raio": 18
-        }
-      ]
-    }
-  ],
-  "criado": "2026-11-16T13:40:00-03:00",
-  "atualizado": "2026-11-16T13:40:00-03:00"
+    "id":  "sug-story-morgan-rebaixa-ibov-160-mil",
+    "titulo":  "Story: o Morgan Stanley rebaixou a bolsa e vê o Ibovespa em 160 mil no fim de 2027",
+    "formato":  "story",
+    "status":  "publicado",
+    "legenda":  "",
+    "fontes":  [
+                   {
+                       "titulo":  "Exame — Morgan Stanley rebaixa Brasil e vê Ibovespa em 160 mil pontos no fim de 2027 (16/11/2026): recomendação de equal weight (neutra) para underweight (abaixo da média); 171.337 pontos em 10/11; queda de 7% em reais; custo de capital próprio perto de 20%, acima do ROE da maior parte das empresas; prefere Chile, Peru e Argentina",
+                       "url":  "https://exame.com/invest/mercados/morgan-stanley-rebaixa-brasil-e-ve-ibovespa-em-160-mil-pontos-no-fim-de-2027/"
+                   }
+               ],
+    "slides":  [
+                   {
+                       "altura":  1920,
+                       "centralizar":  true,
+                       "semCabecalho":  true,
+                       "tema":  "escuro",
+                       "papel":  "post",
+                       "elementos":  [
+                                         {
+                                             "tipo":  "caixa_story",
+                                             "texto":  "O Morgan Stanley rebaixou a bolsa brasileira e vê o Ibovespa em [[vermelho:160 mil pontos]] no fim de 2027, uns 7% abaixo dos 171 mil de 10/11.\nO motivo é o juro: com o investidor cobrando perto de 20% para ficar em ação, pouca empresa daqui lucra isso.\nBanco erra previsão toda hora. Mas quem tem ação precisa saber contra quem está apostando."
+                                         },
+                                         {
+                                             "tipo":  "imagem",
+                                             "src":  "midia/sug-story-morgan-rebaixa-ibov-160-mil/print-exame-morgan-stanley-rebaixa-brasil-e.png",
+                                             "h":  390,
+                                             "ajuste":  "conter",
+                                             "raio":  18
+                                         }
+                                     ]
+                   }
+               ],
+    "criado":  "2026-11-16T13:40:00-03:00",
+    "atualizado":  "2026-11-16T13:40:00-03:00",
+    "agendado_metricool":  {
+                               "id":  431419060,
+                               "uuid":  "8381216818361487356",
+                               "para":  "2026-11-17T12:30:00",
+                               "tipo":  "STORY",
+                               "em":  "2026-11-17T10:00:00-03:00"
+                           },
+    "nota_lote":  "AGENDADO 17/11 12:30 no Metricool (story sem o ok dele desde 17/11). Não poste à mão."
 }

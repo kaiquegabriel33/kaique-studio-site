@@ -1,0 +1,30 @@
+{
+  "id": "sug-story-multa-atraso-parcela-2",
+  "titulo": "Story: atrasou a parcela? A multa não passa de 2%",
+  "formato": "story",
+  "status": "pronto",
+  "atualizado": "2026-11-11T18:25:00-03:00",
+  "comentario": "Atrasou a parcela do carro ou do crediário? A multa por atraso não pode passar de 2% da parcela, tá no Código do Consumidor. Multa maior que isso no boleto é cobrança errada.",
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Código de Defesa do Consumidor (Lei 8.078/1990), art. 52, § 1º, lido no texto compilado do Planalto em 11/11/2026: nas compras com crédito ou financiamento ao consumidor, a multa de mora pelo atraso não pode ser superior a 2% do valor da prestação",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Atrasou a parcela do carro ou do crediário? A multa por atraso não pode passar de [[verde:2% da parcela]], tá no Código do Consumidor. Multa maior que isso no boleto é cobrança errada."
+        }
+      ]
+    }
+  ]
+}
