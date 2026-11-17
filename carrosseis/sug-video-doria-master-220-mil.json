@@ -1,5 +1,5 @@
 {
- "status": "pronto",
+ "status": "publicado",
  "formato": "video",
  "formato_corte": "tela_cheia_escura",
  "ab_formato": "puro-x-comentario",
@@ -70,7 +70,7 @@
  },
  "video_url": "https://www.youtube.com/watch?v=ChfJ7rdk8mo",
  "trecho_txt": "UOL (YouTube, 17/11/2026), UOL News sobre a reportagem de Natália Portinari",
- "legenda": "Mensagens do celular de Daniel Vorcaro mostram João Doria recebendo R$ 220 mil por mês do Banco Master.\n\nA consultoria foi fechada 4 meses depois de ele deixar o governo de São Paulo, em 2022. Em 21 de julho daquele ano, Doria se ofereceu para tratar de um assunto do Master com Roberto Campos Neto, então presidente do Banco Central. Dias depois, escreveu que tinha boas notícias sobre o presidente do BC.\n\nO outro lado: Doria disse ao UOL que não havia nada inadequado na relação com o Master entre 2022 e 2023, e confirma ter recebido parcelas. Ele não é investigado.\n\nA dúvida que fica: o que um ex-governador vende quando oferece uma conversa com o presidente do Banco Central?\n\nVídeo: UOL (17/11/2026). Fontes: UOL, reportagem de Natália Portinari (17/11/2026); BPMoney (17/11/2026); O Potiguar (17/11/2026).\n\n#doria #bancomaster #vorcaro #bancocentral",
+ "legenda": "Mensagens do celular de Daniel Vorcaro mostram João Doria recebendo R$ 220 mil por mês do Banco Master.\n\nA consultoria foi fechada 4 meses depois de ele deixar o governo de São Paulo, em 2022. Em 21 de julho daquele ano, Doria se ofereceu para tratar de um assunto do Master com Roberto Campos Neto, então presidente do Banco Central. Dias depois, escreveu que tinha boas notícias sobre o presidente do BC.\n\nO outro lado: Doria disse ao UOL que não havia nada inadequado na relação com o Master entre 2022 e 2023, e confirma ter recebido algumas parcelas. Ele não é investigado.\n\nA dúvida que fica: o que um ex-governador vende quando oferece uma conversa com o presidente do Banco Central?\n\nVídeo: UOL (17/11/2026). Fontes: UOL, reportagem de Natália Portinari (17/11/2026); BPMoney (17/11/2026); O Potiguar (17/11/2026).\n\n#doria #bancomaster #vorcaro #bancocentral",
  "fontes": [
   {
    "titulo": "UOL (Natália Portinari): Doria foi consultor do Master após sair do governo, mostram mensagens",
@@ -92,5 +92,25 @@
  "carrossel_id": "sug-video-doria-master-220-mil",
  "noticia_grande": true,
  "arquivo": "sug-video-doria-master-220-mil-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-doria-master-220-mil"
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-doria-master-220-mil",
+ "publicado_em": "2026-11-17T12:45:00-03:00",
+ "agendado_metricool": {
+  "id": 431638073,
+  "uuid": "5925222689249119335",
+  "para": "2026-11-17T14:20:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T12:45:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431638623,
+  "uuid": "3047026043390541851",
+  "para": "2026-11-17T21:30:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T12:45:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 14:20 (Reel de teste) e TT 21:30. Corte puro 1,1x, 33,9 s, gancho na frase dos R$ 220 mil. O montar estendeu o fim até o ponto final (“atuando um pouco como lobista, né?”, fala da âncora do UOL); a legenda traz o outro lado (Doria nega irregularidade e não é investigado). auditar_cortes 0 pontos; conferir_video: só FAIXA do cartão no fim. Mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T12:47:00-03:00",
+ "atualizado": "2026-11-17T12:47:00-03:00"
 }

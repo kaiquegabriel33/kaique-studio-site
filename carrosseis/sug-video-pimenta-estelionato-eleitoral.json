@@ -1,5 +1,5 @@
 {
- "status": "pronto",
+ "status": "publicado",
  "formato": "video",
  "formato_corte": "tela_cheia_escura",
  "ab_formato": "puro-x-comentario",
@@ -89,5 +89,25 @@
  "carrossel_id": "sug-video-pimenta-estelionato-eleitoral",
  "noticia_grande": true,
  "arquivo": "sug-video-pimenta-estelionato-eleitoral-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-pimenta-estelionato-eleitoral"
+ "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-pimenta-estelionato-eleitoral",
+ "publicado_em": "2026-11-17T12:45:00-03:00",
+ "agendado_metricool": {
+  "id": 431638176,
+  "uuid": "-6737579946022910173",
+  "para": "2026-11-17T14:40:00",
+  "tipo": "TRIAL_REEL",
+  "em": "2026-11-17T12:45:00-03:00",
+  "isAiGenerated": false
+ },
+ "agendado_tiktok": {
+  "id": 431638718,
+  "uuid": "-8249488808208085080",
+  "para": "2026-11-18T09:30:00",
+  "tipo": "tiktok",
+  "em": "2026-11-17T12:45:00-03:00"
+ },
+ "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 14:40 (Reel de teste) e TT 18/11 09:30 (TikTok de hoje já fecha 10 em 24 h às 21:30). Corte puro 1,1x, 38,9 s, abre na aspa. auditar_cortes 0 pontos. conferir_video: REPETIÇÃO é a anáfora da fala dele (“o orçamento da saúde… o orçamento da educação”), não tomada; PELE rosada é a cor do vídeo original do UOL/Instagram dele (não é HDR nosso); 2 momentos de 72 com rosto na borda (câmera na mão); FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
+ "midia_no_metricool": true,
+ "midia_no_metricool_em": "2026-11-17T12:47:00-03:00",
+ "atualizado": "2026-11-17T12:47:00-03:00"
 }
