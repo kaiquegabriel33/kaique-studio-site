@@ -1,82 +1,106 @@
 {
- "status": "pronto",
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-17T14:58:00-03:00",
- "versao": 1,
- "video_partes": [],
- "cta": true,
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "sugerido_por": "rotina Reels de teste 17/11 14h20",
- "id": "sug-video-maluhy-pib-meio-por-cento",
- "titulo": "CEO do Itaú: o Brasil deve crescer só 0,5% em 2027",
- "motivo": "Milton Maluhy, CEO do Itaú, na NeoConference (NeoFeed, 12/11, 13,7 mil views): PIB perto de 0,5% em 2027, inflação perto de 6% e juro parado, “o que não é bom”. Fala forte da semana ainda não cortada (fonte 3); hoje ele voltou ao noticiário com o alerta da dívida acima de 100% do PIB (Folha). Não vence amanhã cedo.",
- "prioridade": 3,
- "forca": "media",
- "fato_em": "2026-11-12T12:00:00-03:00",
- "vence_em": "2026-11-21T23:59:00-03:00",
- "politico": "Milton Maluhy (CEO do Itaú)",
- "para_quem": "quem trabalha, financia ou investe e quer saber se 2027 vai ser melhor ou pior",
- "promessa": "crescimento próximo a 0,5%",
- "paga_em": "2027 tende a ser um ano desafiador",
- "diferenciacao": "a legenda traduz o PIB de 0,5% com juro parado para o bolso: salário que anda devagar e parcela que não cai",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "ab_formato": "puro-x-comentario",
+  "agendado_metricool": {
+    "em": "2026-11-17T15:14:00-03:00",
+    "id": 431837737,
+    "isAiGenerated": false,
+    "para": "2026-11-18T10:20:00",
+    "tipo": "TRIAL_REEL",
+    "uuid": "8173435065865751553"
+  },
+  "agendado_tiktok": {
+    "em": "2026-11-17T15:14:00-03:00",
+    "id": 431837901,
+    "para": "2026-11-18T14:50:00",
+    "tipo": "tiktok",
+    "uuid": "3437011693320358888"
+  },
+  "arquivo": "sug-video-maluhy-pib-meio-por-cento-tela-cheia.mp4",
+  "atualizado": "2026-11-17T15:15:00-03:00",
+  "capa_id": "29f949b5c366b7ca75f1f13477e4e448",
+  "carrossel_id": "sug-video-maluhy-pib-meio-por-cento",
+  "criado": "2026-11-17T14:58:00-03:00",
+  "cta": true,
+  "diferenciacao": "a legenda traduz o PIB de 0,5% com juro parado para o bolso: salário que anda devagar e parcela que não cai",
+  "fato_em": "2026-11-12T12:00:00-03:00",
+  "fontes": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "CEO do Itaú: ==PIB de 0,5% em 2027=="
+      "titulo": "NeoFeed Brasil (YouTube, 12/11/2026): Brasil à beira da recessão? CEO do Itaú prevê PIB de apenas 0,5% em 2027",
+      "url": "https://www.youtube.com/watch?v=fc8JAC_4ceU"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "Folha: Se nada for feito, risco é dívida estar acima de 100% do PIB em 4 anos, diz CEO do Itaú",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/11/se-nada-for-feito-risco-e-divida-estar-acima-de-100-do-pib-em-4-anos-diz-ceo-do-itau.shtml"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "crescimento próximo a 0,5%",
-  "inicio": "Nossa melhor expectativa hoje",
-  "fim": "um ano desafiador",
-  "texto": "Nossa melhor expectativa hoje é de um crescimento próximo a 0,5% no ano que vem, crescimento do PIB, uma inflação mais alta, e tem uma série de razões para isso, o próprio câmbio mais desvalorizado, todos os programas que foram implementados, o 6 por 1, a mudança de escala também gera uma pressão inflacionária. Então a gente vai ver uma inflação mais alta. E os juros já na última reunião do Copom mantidos. A gente vê uma perspectiva de estabilidade dos juros olhando para frente, o que não é bom, né? No fundo a gente precisa criar as condições para que o Banco Central consiga reduzir os juros. E o maior desafio vai se dar na inflação, que a gente já tá vendo uma inflação próxima de seis no ano que vem, por conta de todos esses efeitos que eu comentei. Então uma inflação mais alta, ela desvia muito da banda do Banco Central e obriga o Banco Central a trabalhar com cenário de política monetária mais restritiva, né? Então eu diria que 2027 tende a ser um ano desafiador.",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "Então a gente vai ver",
-    "texto": "Milton Maluhy, CEO do Itaú (NeoConference, 12/11)"
-   }
   ],
-  "cta": true,
-  "encher": false,
-  "foco_falante": true
- },
- "video_url": "https://www.youtube.com/watch?v=fc8JAC_4ceU",
- "trecho_txt": "NeoFeed Brasil (YouTube, 12/11/2026), NeoConference 2026",
- "legenda": "Milton Maluhy, CEO do Itaú: o Brasil deve crescer perto de 0,5% em 2027, com inflação perto de 6%.\n\nOs motivos que ele lista: dólar mais caro, os programas do governo e a mudança da escala 6x1, que também pressiona os preços. Com inflação assim, o Banco Central não tem espaço para baixar os juros, e ele mesmo diz que juro parado “não é bom”.\n\nCrescer 0,5% com juro parado é o ano em que o salário anda devagar e a parcela não cai.\n\nVídeo: NeoFeed, NeoConference 2026 (12/11/2026). Fontes: NeoFeed (12/11/2026); Folha de S.Paulo (17/11/2026).\n\n#itau #pib #inflacao #juros",
- "fontes": [
-  {
-   "titulo": "NeoFeed Brasil (YouTube, 12/11/2026): Brasil à beira da recessão? CEO do Itaú prevê PIB de apenas 0,5% em 2027",
-   "url": "https://www.youtube.com/watch?v=fc8JAC_4ceU"
+  "forca": "media",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "id": "sug-video-maluhy-pib-meio-por-cento",
+  "legenda": "Milton Maluhy, CEO do Itaú: o Brasil deve crescer perto de 0,5% em 2027, com inflação perto de 6%.\n\nOs motivos que ele lista: dólar mais caro, os programas do governo e a mudança da escala 6x1, que também pressiona os preços. Com inflação assim, o Banco Central não tem espaço para baixar os juros, e ele mesmo diz que juro parado “não é bom”.\n\nCrescer 0,5% com juro parado é o ano em que o salário anda devagar e a parcela não cai.\n\nVídeo: NeoFeed, NeoConference 2026 (12/11/2026). Fontes: NeoFeed (12/11/2026); Folha de S.Paulo (17/11/2026).\n\n#itau #pib #inflacao #juros",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-maluhy-pib-meio-por-cento",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-17T15:15:00-03:00",
+  "motivo": "Milton Maluhy, CEO do Itaú, na NeoConference (NeoFeed, 12/11, 13,7 mil views): PIB perto de 0,5% em 2027, inflação perto de 6% e juro parado, “o que não é bom”. Fala forte da semana ainda não cortada (fonte 3); hoje ele voltou ao noticiário com o alerta da dívida acima de 100% do PIB (Folha). Não vence amanhã cedo.",
+  "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 14h20): IG 18/11 10:20 (Reel de teste, manhã de amanhã de véspera) e TT 18/11 14:50. Corte puro 1,1x, 59,9 s. auditar_cortes 0 pontos; aviso GANCHO aceito: o vídeo já abre na frase “um crescimento próximo a 0,5%” (primeiros 3 s). conferir_video: LOUDNESS -0,7 dB (0,3 acima do alvo) e FAIXA no fim é o cartão. Se de manhã aparecer fala quente, ela fura a fila e esta anda. Não poste à mão.",
+  "noticia_grande": true,
+  "paga_em": "2027 tende a ser um ano desafiador",
+  "para_quem": "quem trabalha, financia ou investe e quer saber se 2027 vai ser melhor ou pior",
+  "politico": "Milton Maluhy (CEO do Itaú)",
+  "prioridade": 3,
+  "promessa": "crescimento próximo a 0,5%",
+  "publicado_em": "2026-11-17T15:05:00-03:00",
+  "reserva": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sempre_verde": false,
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "CEO do Itaú: ==PIB de 0,5% em 2027==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "status": "publicado",
+  "sugerido_por": "rotina Reels de teste 17/11 14h20",
+  "teste_reel": true,
+  "titulo": "CEO do Itaú: o Brasil deve crescer só 0,5% em 2027",
+  "trecho": {
+    "aspa_manchete": "crescimento próximo a 0,5%",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Então a gente vai ver",
+        "texto": "Milton Maluhy, CEO do Itaú (NeoConference, 12/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "fim": "um ano desafiador",
+    "foco_falante": true,
+    "inicio": "Nossa melhor expectativa hoje",
+    "texto": "Nossa melhor expectativa hoje é de um crescimento próximo a 0,5% no ano que vem, crescimento do PIB, uma inflação mais alta, e tem uma série de razões para isso, o próprio câmbio mais desvalorizado, todos os programas que foram implementados, o 6 por 1, a mudança de escala também gera uma pressão inflacionária. Então a gente vai ver uma inflação mais alta. E os juros já na última reunião do Copom mantidos. A gente vê uma perspectiva de estabilidade dos juros olhando para frente, o que não é bom, né? No fundo a gente precisa criar as condições para que o Banco Central consiga reduzir os juros. E o maior desafio vai se dar na inflação, que a gente já tá vendo uma inflação próxima de seis no ano que vem, por conta de todos esses efeitos que eu comentei. Então uma inflação mais alta, ela desvia muito da banda do Banco Central e obriga o Banco Central a trabalhar com cenário de política monetária mais restritiva, né? Então eu diria que 2027 tende a ser um ano desafiador."
   },
-  {
-   "titulo": "Folha: Se nada for feito, risco é dívida estar acima de 100% do PIB em 4 anos, diz CEO do Itaú",
-   "url": "https://c-level.folha.uol.com.br/financas/2026/11/se-nada-for-feito-risco-e-divida-estar-acima-de-100-do-pib-em-4-anos-diz-ceo-do-itau.shtml"
-  }
- ],
- "carrossel_id": "sug-video-maluhy-pib-meio-por-cento",
- "noticia_grande": true
+  "trecho_txt": "NeoFeed Brasil (YouTube, 12/11/2026), NeoConference 2026",
+  "vence_em": "2026-11-21T23:59:00-03:00",
+  "versao": 1,
+  "video_final_id": "1648e899be710833fe0e3fba4818a165",
+  "video_partes": [],
+  "video_url": "https://www.youtube.com/watch?v=fc8JAC_4ceU"
 }
