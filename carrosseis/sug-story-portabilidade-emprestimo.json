@@ -1,0 +1,55 @@
+{
+  "id": "sug-story-portabilidade-emprestimo",
+  "carrossel_id": "sug-story-portabilidade-emprestimo",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: dá pra levar o empréstimo pra outro banco com juro menor",
+  "criado": "2026-11-17T10:55:00-03:00",
+  "atualizado": "2026-11-17T10:55:00-03:00",
+  "vence_em": "2026-12-17T23:59:00-03:00",
+  "reserva": true,
+  "sempre_verde": true,
+  "forca": "media",
+  "papel_story": "educa",
+  "para_quem": "quem tem empréstimo pessoal, consignado ou financiamento com juro alto",
+  "comentario": "Tá pagando juro alto num empréstimo? Leva a dívida pra outro banco que cobra menos. Seu banco é obrigado a fazer a portabilidade e não pode te passar o custo da transferência.",
+  "repost_url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5057",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-portabilidade-emprestimo/fundo-sala-reuniao.png",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Tá pagando juro alto num empréstimo? Leva a dívida pra outro banco que cobra menos. Seu banco é [[verde:obrigado]] a fazer a portabilidade e não pode te passar o custo da transferência."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Resolução CMN 5.057/2022 (em vigor desde 1º/3/2023; consulta no BC em 17/11/2026): art. 3º, a instituição credora original deve garantir a portabilidade pedida pelo devedor; art. 15, os custos de troca de informações e transferência de recursos não podem ser repassados ao devedor; art. 6º, o novo contrato fica limitado ao saldo devedor e ao prazo que falta",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=5057"
+    },
+    {
+      "titulo": "Foto de fundo: sala de reunião do escritório dele (biblioteca projetos/fotos-kaique, sala-reuniao-cheia.jpg)",
+      "url": ""
+    }
+  ],
+  "motivo": "Prateleira story (4 de 12, abaixo da metade), reserva sempre-verde de dívida. Ideia: juro alto não é sentença, a dívida pode mudar de banco. Por que alguém manda: pro amigo que reclama da parcela do consignado. Diferenciação: foto real da sala de reunião do escritório dele e o bastidor de quem negocia isso todo dia. Lição do resumo vivo: uma ação só, que a pessoa faz no mesmo dia.",
+  "confira_na_previa": [
+    "O novo banco não é obrigado a aceitar: ele faz a proposta se quiser; quem é obrigado a liberar é o banco original.",
+    "O novo contrato fica limitado ao saldo devedor e ao prazo que falta (art. 6º); parcela maior só com concordância formal.",
+    "A foto mostra um caderno com a marca J.P. Morgan; se não quiser marca de terceiro no story, troca na prévia."
+  ],
+  "revisar_antes_da_voz": [],
+  "versao": 1
+}

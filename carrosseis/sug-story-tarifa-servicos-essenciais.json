@@ -1,0 +1,55 @@
+{
+  "id": "sug-story-tarifa-servicos-essenciais",
+  "carrossel_id": "sug-story-tarifa-servicos-essenciais",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: o que o banco não pode cobrar de você",
+  "criado": "2026-11-17T10:50:00-03:00",
+  "atualizado": "2026-11-17T10:50:00-03:00",
+  "vence_em": "2026-12-17T23:59:00-03:00",
+  "reserva": true,
+  "sempre_verde": true,
+  "forca": "media",
+  "papel_story": "educa",
+  "para_quem": "quem paga pacote de tarifa no banco todo mês e só usa o app",
+  "comentario": "Paga pacote de tarifa todo mês? Pede pro banco os serviços essenciais: cartão de débito, 4 saques, 2 transferências no mesmo banco e 2 extratos por mês. O Banco Central proíbe cobrar por isso.",
+  "repost_url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3919",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-tarifa-servicos-essenciais/fundo-escritorio-recepcao.png",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Paga pacote de tarifa todo mês? Pede pro banco os serviços essenciais: cartão de débito, 4 saques, 2 transferências no mesmo banco e 2 extratos por mês. O Banco Central [[verde:proíbe cobrar]] por isso."
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Resolução CMN 3.919/2010, art. 2º, inciso I (em vigor; consulta no BC em 17/11/2026): é vedada a cobrança de tarifa por cartão de débito, até quatro saques por mês, até duas transferências entre contas na própria instituição por mês, até dois extratos por mês, consultas pela internet e dez folhas de cheque",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3919"
+    },
+    {
+      "titulo": "Foto de fundo: recepção do escritório dele (biblioteca projetos/fotos-kaique, escritorio-recepcao.jpg)",
+      "url": ""
+    }
+  ],
+  "motivo": "Prateleira story (4 de 12, abaixo da metade), reserva sempre-verde de tarifa bancária. Ideia: muita gente paga cesta de tarifa sem precisar, e a regra do BC garante o básico de graça. Por que alguém manda: pro pai ou a mãe que paga pacote no banco tradicional. Diferenciação: foto real do escritório dele e a ação no jeito dele ('pede pro banco'). Lição do resumo vivo: dado concreto que a pessoa usa no mesmo dia.",
+  "confira_na_previa": [
+    "Saque e transferência feitos no caixa presencial, quando o app está disponível, podem ser cobrados desde o 1º (art. 2º, § 1º); pelo app e no caixa eletrônico valem as quantidades grátis.",
+    "As quantidades são por conta e não acumulam pro mês seguinte.",
+    "A foto mostra o letreiro J.P. Morgan na recepção; num story sobre tarifa de banco pode parecer recado ao banco. Se não quiser, troca a foto na prévia."
+  ],
+  "revisar_antes_da_voz": [],
+  "versao": 1
+}
