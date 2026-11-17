@@ -1,109 +1,110 @@
 {
- "status": "publicado",
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-16T14:45:00-03:00",
- "versao": 1,
- "video_partes": [],
- "cta": true,
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "sugerido_por": "rotina Reels de teste 16/11 14h20 (manhã de 17/11)",
- "id": "sug-video-flavio-jamais-reeleicao-motta",
- "titulo": "Flávio diz que jamais apoiaria a reeleição de Hugo Motta",
- "motivo": "Fala do Flávio Bolsonaro (live de 14/11, reprisada pela Revista Oeste em 16/11) contra a reeleição de Hugo Motta na Câmara; racha no PL com Valdemar. Fatos: Revista Oeste (16/11), Gazeta do Povo (16/11), DeFato Online (16/11).",
- "prioridade": 1,
- "forca": "media",
- "noticia_grande": false,
- "fato_em": "2026-11-14T18:00:00-03:00",
- "vence_em": "2026-11-18T23:59:00-03:00",
- "para_quem": "quem acompanha a disputa pela presidência da Câmara e o PL",
- "promessa": "eu jamais iria na linha de apoiar a reeleição de Hugo Motta",
- "paga_em": "ele prometeu anistia, não entregou anistia e aí veio com a dosimetria",
- "diferenciacao": "a legenda mostra o outro lado dentro do próprio PL: Valdemar quer acordo com Motta e o líder na Câmara ameaça sair",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-16T14:45:00-03:00",
+  "versao": 1,
+  "video_partes": [],
+  "cta": true,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 16/11 14h20 (manhã de 17/11)",
+  "id": "sug-video-flavio-jamais-reeleicao-motta",
+  "titulo": "Flávio diz que jamais apoiaria a reeleição de Hugo Motta",
+  "motivo": "Fala do Flávio Bolsonaro (live de 14/11, reprisada pela Revista Oeste em 16/11) contra a reeleição de Hugo Motta na Câmara; racha no PL com Valdemar. Fatos: Revista Oeste (16/11), Gazeta do Povo (16/11), DeFato Online (16/11).",
+  "prioridade": 1,
+  "forca": "media",
+  "noticia_grande": false,
+  "fato_em": "2026-11-14T18:00:00-03:00",
+  "vence_em": "2026-11-18T23:59:00-03:00",
+  "para_quem": "quem acompanha a disputa pela presidência da Câmara e o PL",
+  "promessa": "eu jamais iria na linha de apoiar a reeleição de Hugo Motta",
+  "paga_em": "ele prometeu anistia, não entregou anistia e aí veio com a dosimetria",
+  "diferenciacao": "a legenda mostra o outro lado dentro do próprio PL: Valdemar quer acordo com Motta e o líder na Câmara ameaça sair",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Flávio diz que ==jamais apoiaria== a reeleição de Hugo Motta"
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Flávio diz que ==jamais apoiaria== a reeleição de Hugo Motta"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "eu jamais iria na linha de apoiar a reeleição de Hugo Motta",
+    "inicio": "Eu assim tenho acompanhado",
+    "fim": "um texto sobre essa dosimetria",
+    "texto": "",
+    "gancho": "eu jamais iria na linha de apoiar a reeleição de Hugo Motta",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "dosimetria",
+        "texto": "Valdemar Costa Neto, presidente do PL, defende acordo com Motta"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www.youtube.com/watch?v=ssyCmOUjL0o",
+  "trecho_txt": "Revista Oeste (YouTube, 16/11/2026), reprisando a live do Flávio Bolsonaro",
+  "legenda": "Flávio Bolsonaro fechou a porta: não apoia a reeleição de Hugo Motta na presidência da Câmara.\n\nNa live, ele cobrou do Motta a anistia prometida e não entregue, e criticou a dosimetria, a redução de parte das penas dos condenados do 8 de janeiro.\n\nO PL está dividido. Valdemar Costa Neto, presidente do partido, defende um acordo com Motta. O líder na Câmara, Sóstenes Cavalcante, quer candidato próprio e diz que deixa a liderança se o partido apoiar a reeleição. A eleição da Mesa é em fevereiro, com o Congresso novo.\n\nVídeo: Revista Oeste (16/11/2026), com a live do senador. Fontes: Gazeta do Povo (16/11/2026); DeFato Online (16/11/2026).\n\n#flaviobolsonaro #hugomotta #camara #pl",
+  "fontes": [
+    {
+      "titulo": "Gazeta do Povo (16/11/2026): Disputa por cargos e resistência ao PT dividem PL sobre apoio a Hugo Motta",
+      "url": "https://news.google.com/search?q=Disputa%20por%20cargos%20e%20resist%C3%AAncia%20ao%20PT%20dividem%20PL%20sobre%20apoio%20a%20Hugo%20Motta"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "DeFato Online (16/11/2026): Flávio Bolsonaro rejeita apoiar Hugo Motta à presidência da Câmara",
+      "url": "https://news.google.com/search?q=Fl%C3%A1vio%20Bolsonaro%20rejeita%20apoiar%20Hugo%20Motta"
+    },
+    {
+      "titulo": "Revista Oeste (YouTube, 16/11/2026)",
+      "url": "https://www.youtube.com/watch?v=ssyCmOUjL0o"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "eu jamais iria na linha de apoiar a reeleição de Hugo Motta",
-  "inicio": "Eu assim tenho acompanhado",
-  "fim": "um texto sobre essa dosimetria",
-  "texto": "",
-  "gancho": "eu jamais iria na linha de apoiar a reeleição de Hugo Motta",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "dosimetria",
-    "texto": "Valdemar Costa Neto, presidente do PL, defende acordo com Motta"
-   }
   ],
-  "cta": true,
-  "encher": false
- },
- "video_url": "https://www.youtube.com/watch?v=ssyCmOUjL0o",
- "trecho_txt": "Revista Oeste (YouTube, 16/11/2026), reprisando a live do Flávio Bolsonaro",
- "legenda": "Flávio Bolsonaro fechou a porta: não apoia a reeleição de Hugo Motta na presidência da Câmara.\n\nNa live, ele cobrou do Motta a anistia prometida e não entregue, e criticou a dosimetria, a redução de parte das penas dos condenados do 8 de janeiro.\n\nO PL está dividido. Valdemar Costa Neto, presidente do partido, defende um acordo com Motta. O líder na Câmara, Sóstenes Cavalcante, quer candidato próprio e diz que deixa a liderança se o partido apoiar a reeleição. A eleição da Mesa é em fevereiro, com o Congresso novo.\n\nVídeo: Revista Oeste (16/11/2026), com a live do senador. Fontes: Gazeta do Povo (16/11/2026); DeFato Online (16/11/2026).\n\n#flaviobolsonaro #hugomotta #camara #pl",
- "fontes": [
-  {
-   "titulo": "Gazeta do Povo (16/11/2026): Disputa por cargos e resistência ao PT dividem PL sobre apoio a Hugo Motta",
-   "url": "https://news.google.com/search?q=Disputa%20por%20cargos%20e%20resist%C3%AAncia%20ao%20PT%20dividem%20PL%20sobre%20apoio%20a%20Hugo%20Motta"
+  "carrossel_id": "sug-video-flavio-jamais-reeleicao-motta",
+  "arquivo": "sug-video-flavio-jamais-reeleicao-motta-tela-cheia.mp4",
+  "publicado_em": "2026-11-16T15:20:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-jamais-reeleicao-motta",
+  "agendado_metricool": {
+    "id": 430445512,
+    "uuid": "-6446526593411693460",
+    "para": "2026-11-17T09:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-16T15:00:00-03:00",
+    "isAiGenerated": false,
+    "tiktok": {
+      "id": 430445683,
+      "uuid": "6741752587903978358",
+      "para": "2026-11-17T09:30:00"
+    },
+    "youtube": {
+      "id": 430445756,
+      "uuid": "-8959213870017983277",
+      "para": "2026-11-17T10:00:00"
+    }
   },
-  {
-   "titulo": "DeFato Online (16/11/2026): Flávio Bolsonaro rejeita apoiar Hugo Motta à presidência da Câmara",
-   "url": "https://news.google.com/search?q=Fl%C3%A1vio%20Bolsonaro%20rejeita%20apoiar%20Hugo%20Motta"
-  },
-  {
-   "titulo": "Revista Oeste (YouTube, 16/11/2026)",
-   "url": "https://www.youtube.com/watch?v=ssyCmOUjL0o"
-  }
- ],
- "carrossel_id": "sug-video-flavio-jamais-reeleicao-motta",
- "arquivo": "sug-video-flavio-jamais-reeleicao-motta-tela-cheia.mp4",
- "publicado_em": "2026-11-16T15:20:00-03:00",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-flavio-jamais-reeleicao-motta",
- "agendado_metricool": {
-  "id": 430445512,
-  "uuid": "-6446526593411693460",
-  "para": "2026-11-17T09:00:00",
-  "tipo": "TRIAL_REEL",
-  "em": "2026-11-16T15:00:00-03:00",
-  "isAiGenerated": false,
-  "tiktok": {
-   "id": 430445683,
-   "uuid": "6741752587903978358",
-   "para": "2026-11-17T09:30:00"
-  },
-  "youtube": {
-   "id": 430445756,
-   "uuid": "-8959213870017983277",
-   "para": "2026-11-17T10:00:00"
-  }
- },
- "nota_lote": "AGENDADO 16/11 (rotina Reels de teste 14h20) para 17/11: IG 09:00, TT 09:30, Short 10:00; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão.",
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-11-16T15:05:00-03:00"
+  "nota_lote": "AGENDADO 16/11 (rotina Reels de teste 14h20) para 17/11: IG 09:00, TT 09:30, Short 10:00; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-16T15:05:00-03:00",
+  "postado_em": "2026-11-17T09:00:00-03:00"
 }

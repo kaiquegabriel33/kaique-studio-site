@@ -1,104 +1,105 @@
 {
- "status": "publicado",
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-16T14:45:00-03:00",
- "versao": 1,
- "video_partes": [],
- "cta": true,
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "sugerido_por": "rotina Reels de teste 16/11 14h20 (manhã de 17/11)",
- "id": "sug-video-lula-alcolumbre-stf-erro-messias",
- "titulo": "Lula quer combinar com Alcolumbre o nome para o STF antes de anunciar",
- "motivo": "Bastidor da CNN (16/11): Lula quer reunião com Alcolumbre nesta semana antes de indicar o nome à vaga de Barroso no STF, para não repetir o erro com Jorge Messias. Fatos: CNN Brasil (16/11), Gazeta do Povo (16/11), BPMoney (16/11), Estadão (15/11).",
- "prioridade": 3,
- "forca": "media",
- "noticia_grande": false,
- "fato_em": "2026-11-16T10:40:00-03:00",
- "vence_em": "2026-11-19T23:59:00-03:00",
- "para_quem": "quem acompanha o STF e a relação de Lula com o Senado",
- "promessa": "Lula não pretende cometer o mesmo erro da última indicação",
- "paga_em": "anunciou Jorge Messias sem antes combinar com Davi Alcolumbre",
- "diferenciacao": "a legenda traz o calendário (nome em novembro, sabatina no começo de dezembro) e o que muda com o Congresso novo em fevereiro",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-16T14:45:00-03:00",
+  "versao": 1,
+  "video_partes": [],
+  "cta": true,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 16/11 14h20 (manhã de 17/11)",
+  "id": "sug-video-lula-alcolumbre-stf-erro-messias",
+  "titulo": "Lula quer combinar com Alcolumbre o nome para o STF antes de anunciar",
+  "motivo": "Bastidor da CNN (16/11): Lula quer reunião com Alcolumbre nesta semana antes de indicar o nome à vaga de Barroso no STF, para não repetir o erro com Jorge Messias. Fatos: CNN Brasil (16/11), Gazeta do Povo (16/11), BPMoney (16/11), Estadão (15/11).",
+  "prioridade": 3,
+  "forca": "media",
+  "noticia_grande": false,
+  "fato_em": "2026-11-16T10:40:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "para_quem": "quem acompanha o STF e a relação de Lula com o Senado",
+  "promessa": "Lula não pretende cometer o mesmo erro da última indicação",
+  "paga_em": "anunciou Jorge Messias sem antes combinar com Davi Alcolumbre",
+  "diferenciacao": "a legenda traz o calendário (nome em novembro, sabatina no começo de dezembro) e o que muda com o Congresso novo em fevereiro",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Lula não quer ==repetir o erro de Messias== no STF"
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Lula não quer ==repetir o erro de Messias== no STF"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "Lula não pretende, dizem assessores do governo, cometer o mesmo erro da última indicação",
+    "inicio": "o presidente pretende se reunir",
+    "fim": "teve uma derrota",
+    "texto": "",
+    "gancho": "Lula não pretende, dizem assessores do governo, cometer o mesmo erro da última indicação",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "A intenção",
+        "texto": "A vaga é a de Luís Roberto Barroso"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www.youtube.com/watch?v=sGaE4G8kFHw",
+  "trecho_txt": "CNN Brasil (YouTube, 16/11/2026), Bastidores CNN",
+  "legenda": "Lula quer sentar com Davi Alcolumbre antes de anunciar quem vai para a vaga de Barroso no STF.\n\nSegundo a CNN, a ideia é não repetir o que aconteceu com Jorge Messias, anunciado sem combinar com o presidente do Senado, que segurou a sabatina e a votação. O plano do Planalto: nome ainda em novembro, sabatina na CCJ no começo de dezembro e votação antes do recesso, por volta de 15/12.\n\nA pressa tem motivo: o Congresso que toma posse em fevereiro é mais à direita, e a aprovação ficaria mais difícil.\n\nO outro lado: o Planalto não confirmou o nome nem a data da reunião; o que está aqui é apuração da CNN com interlocutores do governo.\n\nVídeo: CNN Brasil (16/11/2026). Fontes: CNN Brasil (16/11/2026); Gazeta do Povo (16/11/2026); Estadão (15/11/2026).\n\n#stf #lula #alcolumbre #senado",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (16/11/2026): Lula planeja reunião com Alcolumbre antes de definir nome para o STF",
+      "url": "https://www.youtube.com/watch?v=sGaE4G8kFHw"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "Gazeta do Povo (16/11/2026): Lula busca acordo com Alcolumbre para evitar nova derrota na indicação ao STF",
+      "url": "https://news.google.com/search?q=Lula%20busca%20acordo%20com%20Alcolumbre%20para%20evitar%20nova%20derrota"
+    },
+    {
+      "titulo": "Estadão (15/11/2026): Alcolumbre avalia devolver indicação se Lula insistir em Messias",
+      "url": "https://news.google.com/search?q=Alcolumbre%20avalia%20devolver%20indica%C3%A7%C3%A3o%20Messias"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "Lula não pretende, dizem assessores do governo, cometer o mesmo erro da última indicação",
-  "inicio": "o presidente pretende se reunir",
-  "fim": "teve uma derrota",
-  "texto": "",
-  "gancho": "Lula não pretende, dizem assessores do governo, cometer o mesmo erro da última indicação",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "A intenção",
-    "texto": "A vaga é a de Luís Roberto Barroso"
-   }
   ],
-  "cta": true,
-  "encher": false
- },
- "video_url": "https://www.youtube.com/watch?v=sGaE4G8kFHw",
- "trecho_txt": "CNN Brasil (YouTube, 16/11/2026), Bastidores CNN",
- "legenda": "Lula quer sentar com Davi Alcolumbre antes de anunciar quem vai para a vaga de Barroso no STF.\n\nSegundo a CNN, a ideia é não repetir o que aconteceu com Jorge Messias, anunciado sem combinar com o presidente do Senado, que segurou a sabatina e a votação. O plano do Planalto: nome ainda em novembro, sabatina na CCJ no começo de dezembro e votação antes do recesso, por volta de 15/12.\n\nA pressa tem motivo: o Congresso que toma posse em fevereiro é mais à direita, e a aprovação ficaria mais difícil.\n\nO outro lado: o Planalto não confirmou o nome nem a data da reunião; o que está aqui é apuração da CNN com interlocutores do governo.\n\nVídeo: CNN Brasil (16/11/2026). Fontes: CNN Brasil (16/11/2026); Gazeta do Povo (16/11/2026); Estadão (15/11/2026).\n\n#stf #lula #alcolumbre #senado",
- "fontes": [
-  {
-   "titulo": "CNN Brasil (16/11/2026): Lula planeja reunião com Alcolumbre antes de definir nome para o STF",
-   "url": "https://www.youtube.com/watch?v=sGaE4G8kFHw"
+  "carrossel_id": "sug-video-lula-alcolumbre-stf-erro-messias",
+  "arquivo": "sug-video-lula-alcolumbre-stf-erro-messias-tela-cheia.mp4",
+  "publicado_em": "2026-11-16T15:20:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-alcolumbre-stf-erro-messias",
+  "agendado_metricool": {
+    "id": 430447411,
+    "uuid": "5647396510598973788",
+    "para": "2026-11-17T10:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-16T15:01:00-03:00",
+    "isAiGenerated": false,
+    "tiktok": {
+      "id": 430447792,
+      "uuid": "-8770856696456394563",
+      "para": "2026-11-17T12:10:00"
+    }
   },
-  {
-   "titulo": "Gazeta do Povo (16/11/2026): Lula busca acordo com Alcolumbre para evitar nova derrota na indicação ao STF",
-   "url": "https://news.google.com/search?q=Lula%20busca%20acordo%20com%20Alcolumbre%20para%20evitar%20nova%20derrota"
-  },
-  {
-   "titulo": "Estadão (15/11/2026): Alcolumbre avalia devolver indicação se Lula insistir em Messias",
-   "url": "https://news.google.com/search?q=Alcolumbre%20avalia%20devolver%20indica%C3%A7%C3%A3o%20Messias"
-  }
- ],
- "carrossel_id": "sug-video-lula-alcolumbre-stf-erro-messias",
- "arquivo": "sug-video-lula-alcolumbre-stf-erro-messias-tela-cheia.mp4",
- "publicado_em": "2026-11-16T15:20:00-03:00",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-alcolumbre-stf-erro-messias",
- "agendado_metricool": {
-  "id": 430447411,
-  "uuid": "5647396510598973788",
-  "para": "2026-11-17T10:20:00",
-  "tipo": "TRIAL_REEL",
-  "em": "2026-11-16T15:01:00-03:00",
-  "isAiGenerated": false,
-  "tiktok": {
-   "id": 430447792,
-   "uuid": "-8770856696456394563",
-   "para": "2026-11-17T12:10:00"
-  }
- },
- "nota_lote": "AGENDADO 16/11 (rotina Reels de teste 14h20) para 17/11: IG 10:20, TT 12:10; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão.",
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-11-16T15:05:00-03:00"
+  "nota_lote": "AGENDADO 16/11 (rotina Reels de teste 14h20) para 17/11: IG 10:20, TT 12:10; corte puro 1,1x; mídia conferida no Metricool. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-16T15:05:00-03:00",
+  "postado_em": "2026-11-17T10:20:00-03:00"
 }
