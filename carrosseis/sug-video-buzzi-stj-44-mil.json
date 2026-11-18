@@ -1,0 +1,100 @@
+{
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "id": "sug-video-buzzi-stj-44-mil",
+  "carrossel_id": "sug-video-buzzi-stj-44-mil",
+  "titulo": "Ministro do STJ acusado de assédio segue recebendo R$ 44 mil por mês",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Marco Buzzi (STJ)",
+  "fato_em": "2026-11-17T15:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-18T14:45:00-03:00",
+  "atualizado": "2026-11-18T15:16:00-03:00",
+  "sugerido_por": "rotina Reels de teste 18/11 (14h20)",
+  "video_url": "https://www.youtube.com/watch?v=vC5rR8U47yk",
+  "video_partes": [],
+  "trecho_txt": "Band Jornalismo, Bora Brasil (18/11/2026), repórter Thayane Melo em Brasília, de 0:14 a 1:06.",
+  "motivo": "STJ deu 90 dias para Marco Buzzi, acusado de assédio e importunação sexual, devolver o apartamento funcional (G1, Estadão, CNN, 17/11). A repórter lembra que ele segue com salário de cerca de R$ 44 mil enquanto a corte não decide a exoneração. Vídeo da Band com 22 mil views na live (fonte 2/3).",
+  "promessa": "ele vai ter que devolver o apartamento funcional",
+  "paga_em": "segue recebendo o salário de cerca de 44 mil reais",
+  "para_quem": "quem paga imposto e vê privilégio de autoridade sem punição",
+  "diferenciacao": "a legenda faz a conta do que ele recebe só no prazo de 90 dias (conta nossa, dita como tal)",
+  "trecho": {
+    "inicio": "Ele vai ter que devolver o apartamento funcional",
+    "fim": "exonerado ou não",
+    "aspa_manchete": "segue recebendo o salário de cerca de 44 mil reais",
+    "gancho": "apesar de tudo isso, o Buzzi segue recebendo o salário de cerca de 44 mil reais",
+    "texto": "Ele vai ter que devolver o apartamento funcional do Superior Tribunal de Justiça que ele ocupa até o mês de fevereiro. Esse apartamento fica na região central aqui de Brasília, num local chamado Asa Sul. A determinação foi do presidente da corte, o Luiz Felipe Salomão. Ele também vai ter que devolver equipamentos e bens públicos, além também de credenciais e cartões para acesso e circulação nas dependências do tribunal. A decisão do Luiz Felipe Salomão é o desdobramento de uma outra determinação dele mesmo, lá de agosto, quando o STJ recomendou a perda do cargo de Buzzi após denúncias de assédio e importunação sexual. Lembrando que, apesar de tudo isso, o Buzzi segue recebendo o salário de cerca de 44 mil reais, enquanto a corte não decide se ele será exonerado ou não.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Ele vai ter que devolver o apartamento funcional",
+        "texto": "Marco Buzzi, ministro do STJ acusado de assédio (Band, 18/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      10,
+      70
+    ],
+    "girar": "nao"
+  },
+  "legenda": "Marco Buzzi, ministro do STJ acusado de assédio, tem 90 dias para devolver o apartamento funcional em Brasília.\n\nA ordem é do presidente do STJ, que também mandou devolver equipamentos, credenciais e cartões do tribunal. Em agosto, o próprio STJ já tinha recomendado a perda do cargo, por assédio e importunação sexual.\n\nSó que, enquanto ninguém decide se ele sai, o salário de cerca de R$ 44 mil continua caindo todo mês. Nos 90 dias de prazo para sair do apartamento, são uns R$ 132 mil (conta nossa, com o valor citado pela Band).\n\nVídeo: Band Jornalismo, Bora Brasil (18/11/2026). Fontes: G1; Estadão; CNN Brasil (17/11/2026).\n\n#stj #buzzi #judiciario #brasilia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Ministro do STJ acusado de assédio ==segue recebendo R$ 44 mil por mês==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Band Jornalismo, Bora Brasil: STJ manda Marco Buzzi devolver imóvel funcional (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=vC5rR8U47yk"
+    },
+    {
+      "titulo": "G1: Presidente do STJ dá prazo para Buzzi desocupar apartamento funcional (17/11/2026)",
+      "url": "https://g1.globo.com/"
+    },
+    {
+      "titulo": "Estadão: STJ dá 90 dias para Buzzi deixar imóvel funcional (17/11/2026)",
+      "url": "https://www.estadao.com.br/"
+    },
+    {
+      "titulo": "CNN Brasil: STJ dá 90 dias para Marco Buzzi desocupar imóvel funcional (17/11/2026)",
+      "url": "https://www.cnnbrasil.com.br/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-buzzi-stj-44-mil",
+  "arquivo": "sug-video-buzzi-stj-44-mil-tela-cheia.mp4",
+  "publicado_em": "2026-11-18T15:16:00-03:00",
+  "video_final_id": "18b1115caa0fcf2b19e7e0cd3426a167",
+  "capa_id": "ab67ff85023732d292cb6fb0908eeabd"
+}

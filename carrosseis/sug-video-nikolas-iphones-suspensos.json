@@ -1,0 +1,102 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 18/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-nikolas-iphones-suspensos",
+  "carrossel_id": "sug-video-nikolas-iphones-suspensos",
+  "titulo": "Nikolas comemora: Justiça suspende pregão de R$ 6 milhões em iPhones do Senado",
+  "forca": "alta",
+  "prioridade": 2,
+  "politico": "Nikolas Ferreira",
+  "fato_em": "2026-11-18T13:30:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "criado": "2026-11-18T15:00:00-03:00",
+  "atualizado": "2026-11-18T15:00:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=O0KZU_b0OjM",
+  "trecho_txt": "Vídeo do Nikolas Ferreira nas redes, publicado pela Itatiaia (18/11/2026), de 0:07 a 1:14. Em pé, 1080x1920.",
+  "motivo": "Justiça Federal suspendeu o pregão de R$ 6 milhões para 95 iPhones e outros celulares do Senado a pedido de Nikolas (G1, Folha, Estadão, Poder360, 18/11). Nikolas já tem Reel hoje às 13:00 (carpete), então este vai para amanhã 9:00 (um político por dia).",
+  "promessa": "Ganhamos na justiça",
+  "paga_em": "dá pra eles pagarem aí o próprio iPhone deles",
+  "para_quem": "quem paga imposto e se irrita com mordomia em Brasília",
+  "diferenciacao": "a legenda lembra que a decisão é liminar e pergunta por que o pregão chegou a ser aberto",
+  "trecho": {
+    "inicio": "Ganhamos na justiça",
+    "fim": "é 50 mil reais por dia",
+    "aspa_manchete": "dá pra eles pagarem aí o próprio iPhone deles",
+    "gancho": "com um gordo salário que os senadores ganham, dá pra eles pagarem aí o próprio iPhone deles",
+    "texto": "Ganhamos na justiça, é isso mesmo meus senhores. Foi deferida a nossa liminar pra poder suspender esse pregão de 6 milhões e 45 reais que seria usado do seu dinheiro pra poder comprar 95 iPhones e outros aparelhos para senadores e servidores. Fomos o primeiro a denunciar aqui, fomos o primeiro a entrar na justiça e fomos agora também o primeiro a ganhar isso, ou seja, dinheiro seu sendo economizado. E um ponto importantíssimo, se não fosse a internet, se não fosse esse canal aqui pra poder falar com você e pressionar, a gente jamais teria a economia desse dinheiro. Porque como eu já sempre estou dizendo, não falta dinheiro nesse país, falta boa administração, falta vergonha na cara, falta caráter pra poder ter responsabilidade e respeito com o suado dinheiro seu de imposto que vai pra poder ficar bancando mordomia. Com certeza, com um gordo salário que os senadores ganham, dá pra eles pagarem aí o próprio iPhone deles, beleza? E se não cumprir a decisão, é 50 mil reais por dia, beleza?",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Ganhamos na justiça",
+        "texto": "Nikolas Ferreira, depois da decisão da Justiça Federal (18/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      83
+    ],
+    "girar": "nao",
+    "crop": [
+      1080,
+      1140,
+      0,
+      230
+    ]
+  },
+  "legenda": "Nikolas Ferreira sobre os iPhones do Senado: “dá pra eles pagarem aí o próprio iPhone deles”.\n\nA Justiça Federal suspendeu, a pedido dele, o pregão de cerca de R$ 6 milhões que previa 95 iPhones e mais de 300 outros celulares para senadores e servidores. Ele diz que a multa por descumprir é de R$ 50 mil por dia.\n\nA decisão é liminar e o Senado ainda pode recorrer. A pergunta que fica é por que um pregão desses chegou a ser aberto.\n\nVídeo: Nikolas Ferreira, nas redes, via Itatiaia (18/11/2026). Fontes: G1; Folha de S.Paulo; Estadão; Poder360 (18/11/2026).\n\n#nikolasferreira #senado #iphone #gastopublico",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Justiça barra iPhones do Senado e Nikolas: ==“dá pra eles pagarem o próprio iPhone”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Itatiaia: Nikolas Ferreira celebra decisão que suspende pregão dos iPhones (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=O0KZU_b0OjM"
+    },
+    {
+      "titulo": "G1: Justiça suspende licitação que previa gasto de R$ 6 milhões com iPhones e outros celulares (18/11/2026)",
+      "url": "https://g1.globo.com/"
+    },
+    {
+      "titulo": "Folha: Justiça suspende licitação do Senado que previa 95 iPhones e 330 outros celulares (18/11/2026)",
+      "url": "https://www1.folha.uol.com.br/"
+    },
+    {
+      "titulo": "Poder360: Justiça atende Nikolas e suspende pregão para iPhones do Senado (18/11/2026)",
+      "url": "https://www.poder360.com.br/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-nikolas-iphones-suspensos"
+}

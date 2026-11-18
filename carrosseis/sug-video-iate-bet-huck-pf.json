@@ -1,0 +1,100 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 18/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-iate-bet-huck-pf",
+  "carrossel_id": "sug-video-iate-bet-huck-pf",
+  "titulo": "PF apreende iate de R$ 40 milhões que dono de bet comprou do Luciano Huck",
+  "forca": "alta",
+  "prioridade": 2,
+  "politico": "(operação da PF contra a Esportes da Sorte)",
+  "fato_em": "2026-11-18T07:00:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "criado": "2026-11-18T15:00:00-03:00",
+  "atualizado": "2026-11-18T15:00:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=-Sb-wVmThIc",
+  "trecho_txt": "UOL (18/11/2026), apresentadora no estúdio sobre a operação da PF, de 0:37 a 1:41.",
+  "motivo": "PF fez operação contra a Esportes da Sorte: R$ 2,3 bilhões bloqueados, 5 aeronaves e um iate de R$ 40 milhões, comprado do Luciano Huck em 2024 (Folha, Estadão, VEJA, G1, 18/11). Vídeo do UOL com 33 mil views em 3 h.",
+  "promessa": "A Justiça determinou o bloqueio",
+  "paga_em": "comprado pelo empresário do apresentador Luciano Huck",
+  "para_quem": "quem viu bet patrocinando time e quer saber para onde foi o dinheiro",
+  "diferenciacao": "a legenda põe o meio bilhão de euros em reais (conta nossa com o euro do dia, R$ 6,40)",
+  "trecho": {
+    "inicio": "A Justiça determinou o bloqueio",
+    "fim": "Comprou o iate do apresentador",
+    "aspa_manchete": "comprado pelo empresário Darwin Henrique da Silva, do apresentador Luciano Huck",
+    "gancho": "É um iate que foi comprado pelo empresário Darwin Henrique da Silva, do apresentador Luciano Huck",
+    "texto": "A Justiça determinou o bloqueio de ativos de mais de 2 bilhões e 300 milhões de reais. E a Polícia Federal ainda apreendeu 5 aeronaves, um iate de 40 milhões, 14 veículos, apartamentos em Recife, uma cobertura em São Paulo e uma mansão avaliada em 100 milhões de reais. São 59 mandados de busca e apreensão, um dos alvos é Darwin Henrique da Silva Filho, que é o CEO da BET Esportes da Sorte. Essas investigações indicam que a plataforma operava no Brasil sob a fachada de uma empresa do país caribenho de Curaçau. O esquema utilizava fintechs e instituições de pagamento para ocultar o caminho do dinheiro. E aí é muito curioso, quando eles vão olhar os bens apreendidos, entre os bens apreendidos tem uma embarcação, e essa chamou a atenção, essa aí que a gente está vendo aí. É um iate que foi comprado pelo empresário Darwin Henrique da Silva, do apresentador Luciano Huck, isso que chamou a atenção, né? Comprou o iate do apresentador.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "A Justiça determinou o bloqueio",
+        "texto": "Operação da PF contra a bet Esportes da Sorte (UOL, 18/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      30,
+      109
+    ],
+    "girar": "nao"
+  },
+  "legenda": "A PF apreendeu um iate de R$ 40 milhões do dono da Esportes da Sorte, e o barco foi comprado do Luciano Huck em 2024.\n\nNa operação desta quarta, a Justiça bloqueou mais de R$ 2,3 bilhões. Foram 59 mandados, 5 aeronaves, 14 veículos e uma mansão de R$ 100 milhões. A suspeita é de lavagem: o grupo teria mandado mais de meio bilhão de euros para fora usando fintechs.\n\nO iate chama atenção, mas o número que importa é o outro. Meio bilhão de euros passa de R$ 3 bilhões (conta nossa, com o euro a R$ 6,40). É dinheiro que saiu da aposta de brasileiro.\n\nVídeo: UOL (18/11/2026). Fontes: Folha de S.Paulo; Estadão; VEJA; G1 (18/11/2026).\n\n#bets #pf #esportesdasorte #lucianohuck",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "PF apreende iate de R$ 40 milhões que dono de bet ==comprou do Luciano Huck==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "UOL: Apreendido pela PF, iate de dono de bet foi comprado de Luciano Huck em 2024 (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=-Sb-wVmThIc"
+    },
+    {
+      "titulo": "Folha: Operação mira suspeitas de lavagem do grupo Esportes da Sorte (18/11/2026)",
+      "url": "https://www1.folha.uol.com.br/"
+    },
+    {
+      "titulo": "Estadão: Justiça bloqueia 5 aeronaves e iate de R$ 40 milhões em ação da PF contra Esportes da Sorte (18/11/2026)",
+      "url": "https://www.estadao.com.br/"
+    },
+    {
+      "titulo": "VEJA: Iate, carros de luxo e mais de R$ 2 bilhões bloqueados (18/11/2026)",
+      "url": "https://veja.abril.com.br/"
+    },
+    {
+      "titulo": "G1: Darwin Filho, dono da Esportes da Sorte, investigado em operação da PF (18/11/2026)",
+      "url": "https://g1.globo.com/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-iate-bet-huck-pf"
+}
