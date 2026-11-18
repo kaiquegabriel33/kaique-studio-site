@@ -1,0 +1,64 @@
+{
+  "id": "sug-story-ibovespa-bdr-nubank",
+  "carrossel_id": "sug-story-ibovespa-bdr-nubank",
+  "titulo": "Story: Nubank, XP, Inter e JBS podem entrar no Ibovespa a partir de maio de 2027",
+  "formato": "story",
+  "papel_story": "conteudo",
+  "status": "pronto",
+  "forca": "alta",
+  "criado": "2026-11-18T10:30:00-03:00",
+  "atualizado": "2026-11-18T10:30:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "versao": 1,
+  "sugerido_por": "rotina Quente do dia 18/11 9h15",
+  "comentario": "Nubank, XP, Inter e JBS podem entrar no Ibovespa: a partir de maio de 2027, a B3 aceita brasileira listada lá fora, até 10% do índice. Quem tem fundo que copia o Ibovespa leva junto.",
+  "legenda": "",
+  "para_quem": "quem investe em fundo de índice (BOVA11) ou tem ação de banco digital",
+  "motivo": "Quente do dia 9h15: a B3 anunciou ontem (17/11) a 2ª mudança de metodologia do Ibovespa desde 1968: BDR de empresa brasileira listada no exterior entra no índice no rebalanceamento de maio de 2027, com metade do peso, peso cheio em setembro, teto de 10% para todos os BDRs somados. Pelas regras de hoje, Nubank, XP, JBS e Inter entrariam; Mercado Livre fica fora (é americana). Folha, Estadão, Bloomberg Línea, InvestNews. Quem manda: pro amigo que tem Nubank ou BOVA11. Diferenciação: o ângulo de quem já tem fundo de índice e leva esses nomes sem escolher, que as manchetes não deram.",
+  "confira_na_previa": [
+    "A B3 diz que a lista (Nubank, XP, JBS, Inter) é só o que entraria pelas regras de hoje; a composição final sai no rebalanceamento. O texto usa 'podem entrar'.",
+    "Em maio cada BDR entra com metade do peso; o peso cheio vem em setembro de 2027. Ficou fora do story para caber em 35 palavras."
+  ],
+  "revisar_antes_da_voz": [],
+  "fontes": [
+    {
+      "titulo": "Bloomberg Línea (17/11/2026): B3 vai incorporar ações de empresas brasileiras listadas no exterior ao Ibovespa (print e foto de fundo da matéria)",
+      "url": "https://www.bloomberglinea.com.br/mercados/b3-vai-incorporar-acoes-de-empresas-brasileiras-listadas-no-exterior-ao-ibovespa/"
+    },
+    {
+      "titulo": "Folha (18/11/2026): Ibovespa incluirá ações de empresas brasileiras listadas no exterior a partir de 2027",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/11/ibovespa-incluira-acoes-de-empresas-brasileiras-listadas-no-exterior-a-partir-de-2027.shtml"
+    },
+    {
+      "titulo": "InvestNews: Ibovespa com BDRs passa a valer em maio: Nubank, JBS, XP e Inter são candidatos (teto de 10%, metade do peso em maio, peso cheio em setembro)",
+      "url": "https://investnews.com.br/investimentos/ibovespa-com-bdrs-passa-a-valer-em-maio-nubank-jbs-xp-e-inter-sao-candidatos/"
+    }
+  ],
+  "repost_url": "https://www.bloomberglinea.com.br/mercados/b3-vai-incorporar-acoes-de-empresas-brasileiras-listadas-no-exterior-ao-ibovespa/",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "elementos": [
+        {
+          "texto": "Nubank, XP, Inter e JBS [[verde:podem entrar no Ibovespa]]: a partir de maio de 2027, a B3 aceita brasileira listada lá fora, até 10% do índice. Quem tem fundo que copia o Ibovespa leva junto.",
+          "tipo": "caixa_story"
+        },
+        {
+          "ajuste": "conter",
+          "h": 585,
+          "raio": 18,
+          "src": "midia/sug-story-ibovespa-bdr-nubank/print-bloomberg-linea-b3-vai-incorporar-acoes-de-empre.png",
+          "tipo": "imagem"
+        }
+      ],
+      "fundo": {
+        "clarear": 0.2,
+        "src": "midia/sug-story-ibovespa-bdr-nubank/b3-vai-incorporar-acoes-de-empresas-brasileiras.jpg"
+      },
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro"
+    }
+  ]
+}
