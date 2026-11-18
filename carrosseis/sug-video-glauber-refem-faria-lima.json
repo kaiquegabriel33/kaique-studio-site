@@ -1,0 +1,106 @@
+{
+  "id": "sug-video-glauber-refem-faria-lima",
+  "carrossel_id": "sug-video-glauber-refem-faria-lima",
+  "titulo": "Glauber Braga sobre o ajuste: “não pode ficar refém da chantagem”",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Glauber Braga",
+  "fato_em": "2026-11-17T12:00:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "criado": "2026-11-18T12:02:00-03:00",
+  "atualizado": "2026-11-18T12:02:00-03:00",
+  "sugerido_por": "rotina Reels de teste 18/11 (11h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "video_url": "https://www.youtube.com/watch?v=rjckgiFgSLE",
+  "video_partes": [],
+  "trecho_txt": "Entrevista do Glauber Braga ao UOL News (17/11/2026), canal UOL, de 2:03 a 2:35. Uso só a metade de cima (ele), legenda gravada.",
+  "motivo": "Deputado do PSOL, da base do Lula, diz que o pacote de ajuste não pode ceder à pressão do mercado e que o alvo é o piso de saúde e educação. Mostra o ajuste dividindo a própria base no dia em que o Senado conclui a votação. Fato: ajuste de até R$ 60 bi em 2027 anunciado pelo Planejamento (Agência Senado, G1, CNN, 11/11); críticas da esquerda (Congresso em Foco, Terra). Fala de ontem ainda não cortada (fonte 3).",
+  "promessa": "o governo Lula 4 tem que dar certo",
+  "paga_em": "a gente não pode ficar refém da chantagem que tá sendo feita pela Faria Lima",
+  "para_quem": "quem votou no Lula e não entende por que o governo corta gasto",
+  "diferenciacao": "a legenda põe o tamanho do corte (R$ 60 bi) e mostra que a crítica vem da própria base",
+  "legenda": "Glauber Braga sobre o ajuste: “a gente não pode ficar refém da chantagem que tá sendo feita pela Faria Lima”.\n\nA crítica ao pacote não vem só da oposição. O deputado do PSOL, da base do Lula, diz que o mercado quer menos investimento social e mexer no mínimo que a Constituição manda gastar em saúde e educação. O ajuste anunciado pelo Planejamento é de até R$ 60 bilhões em 2027.\n\nO governo fica entre o mercado, que acha o corte pequeno, e a própria base, que acha grande demais. E você, acha o corte pequeno ou grande?\n\nVídeo: UOL News (17/11/2026). Fontes: Agência Senado; G1; CNN Brasil (11/11/2026); Congresso em Foco (13/11/2026).\n\n#ajustefiscal #glauberbraga #lula #economia",
+  "trecho": {
+    "inicio": "fundamental a gente não ceder",
+    "fim": "pela Faria Lima",
+    "aspa_manchete": "refém da chantagem",
+    "gancho": "a gente não pode ficar refém da chantagem que tá sendo feita pela Faria Lima",
+    "texto": "É fundamental a gente não ceder a chantagens que estão sendo realizadas pelo mercado, que na prática o que querem é diminuição de investimentos sociais para ampliar a tensão, a pressão para desconstitucionalização dos mínimos para saúde e para educação pública. O governo Lula 4 tem que dar certo. E exatamente porque tem que dar certo que a gente não pode ficar refém da chantagem que tá sendo feita pela Faria Lima.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "fundamental a gente não ceder",
+        "texto": "Glauber Braga (PSOL-RJ), ao UOL News, sobre o ajuste fiscal (17/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      42
+    ],
+    "girar": "nao",
+    "legenda": false,
+    "crop": [
+      928,
+      960,
+      68,
+      0
+    ],
+    "enquadrar": false,
+    "preencher": false
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Glauber Braga sobre o ajuste: ==“não pode ficar refém da chantagem”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "UOL News: Glauber Braga diz que governo não pode ceder à Faria Lima (17/11/2026)",
+      "url": "https://www.youtube.com/watch?v=rjckgiFgSLE"
+    },
+    {
+      "titulo": "Agência Senado: Ministro do Planejamento anuncia na CMO ajuste fiscal de R$ 60 bi em 2027 (11/11/2026)",
+      "url": "https://www12.senado.leg.br/noticias"
+    },
+    {
+      "titulo": "G1: impacto pode chegar a R$ 60 bi em 2027, diz ministro (11/11/2026)",
+      "url": "https://g1.globo.com/"
+    },
+    {
+      "titulo": "Congresso em Foco: Pacote fiscal atrai críticas da esquerda à direita no Congresso (13/11/2026)",
+      "url": "https://www.congressoemfoco.com.br/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-glauber-refem-faria-lima",
+  "arquivo": "sug-video-glauber-refem-faria-lima-tela-cheia.mp4"
+}
