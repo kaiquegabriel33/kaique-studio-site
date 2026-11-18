@@ -1,101 +1,102 @@
 {
- "id": "sug-video-hackers-dados-7-milhoes",
- "carrossel_id": "sug-video-hackers-dados-7-milhoes",
- "status": "publicado",
- "publicado_em": "2026-11-14T12:00:00-03:00",
- "arquivo": "sug-video-hackers-dados-7-milhoes-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-hackers-dados-7-milhoes",
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "motivo": "Domingo 15/11, manhã: Jornal da Band (13/11) sobre a onda de ataques hackers (Porto de Santos, Mercado Bitcoin, Caixa, Tesouro) com dados de mais de 7 milhões de pessoas vazados. Notícia de bolso com vídeo real e serviço (como se proteger). Fatos: IstoÉ (Caixa Vida e Previdência, 7,6 mi clientes), Agência Brasil (Tesouro, 30 mil cadastros e 4 mil chaves Pix).",
- "prioridade": 3,
- "versao": 1,
- "video_partes": [],
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "forca": "alta",
- "noticia_grande": true,
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-14T12:00:00-03:00",
- "atualizado": "2026-11-14T12:00",
- "fato_em": "2026-11-13T20:00:00-03:00",
- "vence_em": "2026-11-16T23:59:00-03:00",
- "titulo": "Ataques hackers expõem dados de mais de 7 milhões de brasileiros",
- "para_quem": "quem tem CPF, conta na Caixa, previdência privada ou chave Pix (todo mundo)",
- "promessa": "Dados pessoais de mais de 7 milhões de pessoas, como CPFs, endereços, telefones, e-mails e chaves PIX, foram vazados",
- "paga_em": "Uma epidemia que custa caro",
- "diferenciacao": "o que fazer agora, na legenda: o golpe que vem depois do vazamento (contato que já sabe seu nome e CPF) e o que nunca passar",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "id": "sug-video-hackers-dados-7-milhoes",
+  "carrossel_id": "sug-video-hackers-dados-7-milhoes",
+  "status": "publicado",
+  "publicado_em": "2026-11-14T12:00:00-03:00",
+  "arquivo": "sug-video-hackers-dados-7-milhoes-tela-cheia.mp4",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-hackers-dados-7-milhoes",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "motivo": "Domingo 15/11, manhã: Jornal da Band (13/11) sobre a onda de ataques hackers (Porto de Santos, Mercado Bitcoin, Caixa, Tesouro) com dados de mais de 7 milhões de pessoas vazados. Notícia de bolso com vídeo real e serviço (como se proteger). Fatos: IstoÉ (Caixa Vida e Previdência, 7,6 mi clientes), Agência Brasil (Tesouro, 30 mil cadastros e 4 mil chaves Pix).",
+  "prioridade": 3,
+  "versao": 1,
+  "video_partes": [],
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "alta",
+  "noticia_grande": true,
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-14T12:00:00-03:00",
+  "atualizado": "2026-11-14T12:00",
+  "fato_em": "2026-11-13T20:00:00-03:00",
+  "vence_em": "2026-11-16T23:59:00-03:00",
+  "titulo": "Ataques hackers expõem dados de mais de 7 milhões de brasileiros",
+  "para_quem": "quem tem CPF, conta na Caixa, previdência privada ou chave Pix (todo mundo)",
+  "promessa": "Dados pessoais de mais de 7 milhões de pessoas, como CPFs, endereços, telefones, e-mails e chaves PIX, foram vazados",
+  "paga_em": "Uma epidemia que custa caro",
+  "diferenciacao": "o que fazer agora, na legenda: o golpe que vem depois do vazamento (contato que já sabe seu nome e CPF) e o que nunca passar",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Hackers expõem dados de ==mais de 7 milhões de brasileiros=="
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Hackers expõem dados de ==mais de 7 milhões de brasileiros=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "Dados pessoais de mais de 7 milhões de pessoas, como CPFs, endereços, telefones, e-mails e chaves PIX, foram vazados",
+    "inicio": "Uma epidemia de ataques hackers",
+    "fim": "Uma epidemia que custa caro",
+    "texto": "",
+    "gancho": "Dados pessoais de mais de 7 milhões de pessoas, como CPFs, endereços, telefones, e-mails e chaves PIX, foram vazados",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Caixa",
+        "texto": "Caixa Vida e Previdência: 7,6 milhões de clientes com nome e CPF expostos"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www.youtube.com/watch?v=j1HZcl0UYXA",
+  "cta": true,
+  "legenda": "Se você recebeu ligação ou mensagem de alguém que já sabe seu nome e seu CPF, desconfia em dobro.\n\nSó na Caixa Vida e Previdência foram 7,6 milhões de clientes com nome e CPF expostos; de parte deles saíram também endereço, telefone, e-mail e data de nascimento. A empresa diz que não vazou senha, dado bancário nem saldo de previdência. No Tesouro, o portal e-Serviços teve 30 mil cadastros e 4 mil chaves Pix acessados.\n\nNa prática: não passe senha nem código que chegou por SMS, não faça Pix para \"liberar\" benefício ou indenização e não use site que promete dizer se o seu CPF vazou.\n\nVídeo: Jornal da Band (13/11/2026). Fontes: IstoÉ (13/11/2026); Agência Brasil (11/2026).\n\n#golpe #vazamento #cpf #pix",
+  "fontes": [
+    {
+      "titulo": "IstoÉ (13/11/2026): ataque hacker à Caixa Vida e Previdência",
+      "url": "https://istoe.com.br/ataque-hacker-caixa-vida-previdencia-vazamento-dados"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "Agência Brasil (11/2026): Ataques cibernéticos vazam milhões de dados no Brasil e no mundo",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-11/ataques-ciberneticos-vazam-milhoes-de-dados-no-brasil-e-no-mundo"
+    },
+    {
+      "titulo": "Jornal da Band (YouTube, 13/11/2026)",
+      "url": "https://www.youtube.com/watch?v=j1HZcl0UYXA"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "Dados pessoais de mais de 7 milhões de pessoas, como CPFs, endereços, telefones, e-mails e chaves PIX, foram vazados",
-  "inicio": "Uma epidemia de ataques hackers",
-  "fim": "Uma epidemia que custa caro",
-  "texto": "",
-  "gancho": "Dados pessoais de mais de 7 milhões de pessoas, como CPFs, endereços, telefones, e-mails e chaves PIX, foram vazados",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "Caixa",
-    "texto": "Caixa Vida e Previdência: 7,6 milhões de clientes com nome e CPF expostos"
-   }
   ],
-  "cta": true,
-  "encher": false
- },
- "video_url": "https://www.youtube.com/watch?v=j1HZcl0UYXA",
- "cta": true,
- "legenda": "Se você recebeu ligação ou mensagem de alguém que já sabe seu nome e seu CPF, desconfia em dobro.\n\nSó na Caixa Vida e Previdência foram 7,6 milhões de clientes com nome e CPF expostos; de parte deles saíram também endereço, telefone, e-mail e data de nascimento. A empresa diz que não vazou senha, dado bancário nem saldo de previdência. No Tesouro, o portal e-Serviços teve 30 mil cadastros e 4 mil chaves Pix acessados.\n\nNa prática: não passe senha nem código que chegou por SMS, não faça Pix para \"liberar\" benefício ou indenização e não use site que promete dizer se o seu CPF vazou.\n\nVídeo: Jornal da Band (13/11/2026). Fontes: IstoÉ (13/11/2026); Agência Brasil (11/2026).\n\n#golpe #vazamento #cpf #pix",
- "fontes": [
-  {
-   "titulo": "IstoÉ (13/11/2026): ataque hacker à Caixa Vida e Previdência",
-   "url": "https://istoe.com.br/ataque-hacker-caixa-vida-previdencia-vazamento-dados"
+  "trecho_txt": "Jornal da Band (13/11/2026), reportagem sobre ataques hackers",
+  "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')",
+  "agendado_metricool": {
+    "id": 428256020,
+    "para": "2026-11-15T09:20:00",
+    "tipo": "TRIAL_REEL",
+    "isAiGenerated": false,
+    "tiktok": {
+      "id": 428256414,
+      "para": "2026-11-15T10:20:00"
+    }
   },
-  {
-   "titulo": "Agência Brasil (11/2026): Ataques cibernéticos vazam milhões de dados no Brasil e no mundo",
-   "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-11/ataques-ciberneticos-vazam-milhoes-de-dados-no-brasil-e-no-mundo"
-  },
-  {
-   "titulo": "Jornal da Band (YouTube, 13/11/2026)",
-   "url": "https://www.youtube.com/watch?v=j1HZcl0UYXA"
-  }
- ],
- "trecho_txt": "Jornal da Band (13/11/2026), reportagem sobre ataques hackers",
- "sugerido_por": "conversa 14/11 (sábado, ele: 'pc é todo seu')",
- "agendado_metricool": {
-  "id": 428256020,
-  "para": "2026-11-15T09:20:00",
-  "tipo": "TRIAL_REEL",
-  "isAiGenerated": false,
-  "tiktok": {
-   "id": 428256414,
-   "para": "2026-11-15T10:20:00"
-  }
- },
- "midia_no_metricool": true,
- "nota_lote": "AGENDADO 14/11 (conversa) para domingo 15/11: IG 09:20 e TT 10:20, corte puro em 1,1x com gancho; mídia conferida no Metricool pelo tamanho. Não poste à mão."
+  "midia_no_metricool": true,
+  "nota_lote": "AGENDADO 14/11 (conversa) para domingo 15/11: IG 09:20 e TT 10:20, corte puro em 1,1x com gancho; mídia conferida no Metricool pelo tamanho. Não poste à mão.",
+  "postado_em": "2026-11-15T09:20:00-03:00"
 }

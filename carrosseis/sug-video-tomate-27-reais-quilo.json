@@ -1,102 +1,103 @@
 {
- "id": "sug-video-tomate-27-reais-quilo",
- "carrossel_id": "sug-video-tomate-27-reais-quilo",
- "status": "pronto",
- "publicado_em": "2026-11-15T15:00:00-03:00",
- "arquivo": "sug-video-tomate-27-reais-quilo-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-tomate-27-reais-quilo",
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "motivo": "Domingo 15/11, 19h: Jornal da Band (Aconteceu na Semana, 15/11) com o tomate a R$ 25-27 o quilo. Número conferido no IBGE (SIDRA, tabela 7060): tomate +19,57% em outubro e +89,76% no ano. Notícia de bolso com vídeo real; a Quente do dia pediu 2ª fonte para os 90% (o IBGE confirma).",
- "prioridade": 2,
- "versao": 1,
- "video_partes": [],
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "forca": "media",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-15T15:00:00-03:00",
- "atualizado": "2026-11-15T15:00",
- "fato_em": "2026-11-12T09:00:00-03:00",
- "titulo": "Tomate a R$ 27 o quilo: alta de quase 90% no ano (Jornal da Band)",
- "para_quem": "quem faz a feira e o mercado da semana",
- "promessa": "o consumidor vem tomando um susto atrás do outro",
- "paga_em": "A principal explicação está no clima",
- "diferenciacao": "número oficial do IBGE conferido (89,76% no ano) e o porquê na legenda: clima e área plantada 16% menor",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "id": "sug-video-tomate-27-reais-quilo",
+  "carrossel_id": "sug-video-tomate-27-reais-quilo",
+  "status": "pronto",
+  "publicado_em": "2026-11-15T15:00:00-03:00",
+  "arquivo": "sug-video-tomate-27-reais-quilo-tela-cheia.mp4",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-tomate-27-reais-quilo",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "motivo": "Domingo 15/11, 19h: Jornal da Band (Aconteceu na Semana, 15/11) com o tomate a R$ 25-27 o quilo. Número conferido no IBGE (SIDRA, tabela 7060): tomate +19,57% em outubro e +89,76% no ano. Notícia de bolso com vídeo real; a Quente do dia pediu 2ª fonte para os 90% (o IBGE confirma).",
+  "prioridade": 2,
+  "versao": 1,
+  "video_partes": [],
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "forca": "media",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-15T15:00:00-03:00",
+  "atualizado": "2026-11-15T15:00",
+  "fato_em": "2026-11-12T09:00:00-03:00",
+  "titulo": "Tomate a R$ 27 o quilo: alta de quase 90% no ano (Jornal da Band)",
+  "para_quem": "quem faz a feira e o mercado da semana",
+  "promessa": "o consumidor vem tomando um susto atrás do outro",
+  "paga_em": "A principal explicação está no clima",
+  "diferenciacao": "número oficial do IBGE conferido (89,76% no ano) e o porquê na legenda: clima e área plantada 16% menor",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Tomate sobe ==quase 90%== no ano"
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Tomate sobe ==quase 90%== no ano"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "o preço do tomate já aumentou quase 90%",
+    "inicio": "Ele tá na salada",
+    "fim": "os preços dispararam",
+    "texto": "",
+    "gancho": "Desde janeiro o preço do tomate já aumentou quase 90% no país",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "A principal explicação",
+        "texto": "IBGE: tomate +19,57% em outubro e +89,76% no ano"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
+  "cta": true,
+  "legenda": "Tomate a R$ 27 o quilo: subiu quase 90% desde janeiro, segundo o IBGE.\n\nFoi o alimento que mais subiu em outubro, 19,57% em um mês (89,76% no ano). No mercado, a Band achou o quilo a R$ 25 e a R$ 27.\n\nO motivo é o clima. Chuva demais e frio fora de hora no Sul e no Sudeste atrapalharam a produção, porque o tomate precisa de calor para amadurecer. E, depois de dois anos de prejuízo, a área plantada caiu cerca de 16%.\n\nNa entressafra o preço tende a aliviar, mas o El Niño pode segurar ou até subir. Até lá, a dica da reportagem: comparar ofertas entre mercados.\n\nVídeo: Jornal da Band (15/11/2026). Fonte: IBGE, IPCA de outubro (tabela 7060).\n\n#tomate #inflacao #ipca #mercado",
+  "fontes": [
+    {
+      "titulo": "IBGE SIDRA, tabela 7060 (IPCA outubro/2026): tomate 19,57% no mês e 89,76% no ano",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63,69/p/202610/c315/all/f/n"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "Band Jornalismo (YouTube, 15/11/2026): Preço do tomate dispara quase 90% no ano e chega a R$ 27 o quilo",
+      "url": "https://www.youtube.com/watch?v=5dQUdVKhatA"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "o preço do tomate já aumentou quase 90%",
-  "inicio": "Ele tá na salada",
-  "fim": "os preços dispararam",
-  "texto": "",
-  "gancho": "Desde janeiro o preço do tomate já aumentou quase 90% no país",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "A principal explicação",
-    "texto": "IBGE: tomate +19,57% em outubro e +89,76% no ano"
-   }
   ],
-  "cta": true,
-  "encher": false
- },
- "video_url": "https://www.youtube.com/watch?v=5dQUdVKhatA",
- "cta": true,
- "legenda": "Tomate a R$ 27 o quilo: subiu quase 90% desde janeiro, segundo o IBGE.\n\nFoi o alimento que mais subiu em outubro, 19,57% em um mês (89,76% no ano). No mercado, a Band achou o quilo a R$ 25 e a R$ 27.\n\nO motivo é o clima. Chuva demais e frio fora de hora no Sul e no Sudeste atrapalharam a produção, porque o tomate precisa de calor para amadurecer. E, depois de dois anos de prejuízo, a área plantada caiu cerca de 16%.\n\nNa entressafra o preço tende a aliviar, mas o El Niño pode segurar ou até subir. Até lá, a dica da reportagem: comparar ofertas entre mercados.\n\nVídeo: Jornal da Band (15/11/2026). Fonte: IBGE, IPCA de outubro (tabela 7060).\n\n#tomate #inflacao #ipca #mercado",
- "fontes": [
-  {
-   "titulo": "IBGE SIDRA, tabela 7060 (IPCA outubro/2026): tomate 19,57% no mês e 89,76% no ano",
-   "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63,69/p/202610/c315/all/f/n"
+  "trecho_txt": "Jornal da Band, Aconteceu na Semana (15/11/2026)",
+  "sugerido_por": "rotina Reels de teste 15/11 14h20 (disparou 14:50)",
+  "vence_em": "2026-11-17T23:59:00-03:00",
+  "agendado_metricool": {
+    "id": 429156354,
+    "uuid": "4076217805597262042",
+    "para": "2026-11-15T19:40:00",
+    "tipo": "TRIAL_REEL",
+    "isAiGenerated": false,
+    "em": "2026-11-15T15:45:00-03:00"
   },
-  {
-   "titulo": "Band Jornalismo (YouTube, 15/11/2026): Preço do tomate dispara quase 90% no ano e chega a R$ 27 o quilo",
-   "url": "https://www.youtube.com/watch?v=5dQUdVKhatA"
-  }
- ],
- "trecho_txt": "Jornal da Band, Aconteceu na Semana (15/11/2026)",
- "sugerido_por": "rotina Reels de teste 15/11 14h20 (disparou 14:50)",
- "vence_em": "2026-11-17T23:59:00-03:00",
- "agendado_metricool": {
-  "id": 429156354,
-  "uuid": "4076217805597262042",
-  "para": "2026-11-15T19:40:00",
-  "tipo": "TRIAL_REEL",
-  "isAiGenerated": false,
-  "em": "2026-11-15T15:45:00-03:00"
- },
- "agendado_tiktok": {
-  "id": 429156518,
-  "uuid": "-376430668120176304",
-  "para": "2026-11-15T21:00:00",
-  "tipo": "tiktok",
-  "em": "2026-11-15T15:45:00-03:00"
- },
- "nota_lote": "AGENDADO 15/11 (rotina Reels de teste 14h20): IG 19:40 (Reel de teste) e TT 21:00; corte puro 1,1x; mídia conferida no Metricool pelo tamanho. Não poste à mão.",
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-11-15T15:45:00-03:00"
+  "agendado_tiktok": {
+    "id": 429156518,
+    "uuid": "-376430668120176304",
+    "para": "2026-11-15T21:00:00",
+    "tipo": "tiktok",
+    "em": "2026-11-15T15:45:00-03:00"
+  },
+  "nota_lote": "AGENDADO 15/11 (rotina Reels de teste 14h20): IG 19:40 (Reel de teste) e TT 21:00; corte puro 1,1x; mídia conferida no Metricool pelo tamanho. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-15T15:45:00-03:00",
+  "postado_em": "2026-11-15T19:40:00-03:00"
 }
