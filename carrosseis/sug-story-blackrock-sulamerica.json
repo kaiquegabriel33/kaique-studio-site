@@ -1,0 +1,67 @@
+{
+  "id": "sug-story-blackrock-sulamerica",
+  "carrossel_id": "sug-story-blackrock-sulamerica",
+  "titulo": "Story: a gestora da SulAmérica vai para a BlackRock por R$ 850 milhões",
+  "formato": "story",
+  "papel_story": "educa",
+  "status": "pronto",
+  "sem_ok_dele": "story pela regra de 17/11 (STORY SEM O OK DELE)",
+  "diferenciacao": "o ângulo de quem tem fundo na SulAmérica (o dinheiro é do cotista, muda quem escolhe onde aplicar), que as manchetes de negócio não deram",
+  "forca": "alta",
+  "criado": "2026-11-18T13:55:00-03:00",
+  "atualizado": "2026-11-18T13:55:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "versao": 1,
+  "sugerido_por": "rotina Quente do dia 18/11 13h15",
+  "comentario": "A gestora da SulAmérica vai para a BlackRock, a maior do mundo, por R$ 850 milhões (ainda falta o aval do BC e do Cade). Quem tem fundo lá não perde nada: o dinheiro é do cotista. Com o aval, quem escolhe onde aplicar o seu passa a ser a BlackRock.",
+  "legenda": "",
+  "para_quem": "quem tem fundo ou previdência pela SulAmérica Investimentos",
+  "motivo": "Quente do dia 13h15: hoje (18/11) a Rede D'Or assinou a venda de 100% da SulAmérica Investimentos (gestora e distribuidora) para a BlackRock Brasil por cerca de R$ 850 milhões: R$ 700 milhões à vista e R$ 150 milhões em duas parcelas variáveis no 3º e no 5º ano. Depende do Banco Central e do Cade. CNN Brasil, G1, NeoFeed, Estadão, Exame. Diferenciação: o ângulo do cotista, que as manchetes de negócio não deram.",
+  "confira_na_previa": [
+    "'O dinheiro é do cotista' é a regra geral de fundo (patrimônio separado do da gestora, CVM 175); as matérias de hoje não falam dos cotistas.",
+    "'A maior do mundo' = maior gestora de recursos do mundo (BlackRock), fato conhecido, não está na matéria da CNN.",
+    "Patrimônio sob gestão ficou fora: as fontes não batem (uma fala em US$ 17 bilhões)."
+  ],
+  "revisar_antes_da_voz": [],
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (18/11/2026): Rede D'Or vende Sul América Investimentos para BlackRock por R$ 850 milhões (print e foto de fundo da matéria)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/rede-dor-vende-sul-america-investimentos-para-blackrock-por-r-850-milhoes/"
+    },
+    {
+      "titulo": "NeoFeed (18/11/2026): Rede D'Or vende gestora da SulAmérica para a BlackRock por R$ 850 milhões",
+      "url": "https://neofeed.com.br/negocios/rede-dor-vende-gestora-da-sulamerica-para-a-blackrock-por-r-850-milhoes/"
+    },
+    {
+      "titulo": "Times Brasil (18/11/2026): Rede D'Or fecha acordo para vender área de investimentos da SulAmérica à BlackRock por até R$ 850 milhões",
+      "url": "https://timesbrasil.com.br/empresas-e-negocios/rede-dor-fecha-acordo-para-vender-area-de-investimentos-da-sulamerica-a-blackrock-por-ate-r-850-milhoes/"
+    }
+  ],
+  "repost_url": "https://www.cnnbrasil.com.br/economia/money/negocios/rede-dor-vende-sul-america-investimentos-para-blackrock-por-r-850-milhoes/",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "elementos": [
+        {
+          "texto": "A gestora da SulAmérica vai para a BlackRock, a maior do mundo, por R$ 850 milhões (ainda falta o aval do BC e do Cade). Quem tem fundo lá não perde nada: [[verde:o dinheiro é do cotista]]. Com o aval, quem escolhe onde aplicar o seu passa a ser a BlackRock.",
+          "tipo": "caixa_story"
+        },
+        {
+          "ajuste": "conter",
+          "h": 319,
+          "raio": 18,
+          "src": "midia/sug-story-blackrock-sulamerica/print-cnn-brasil-rede-d-or-vende-sul-america-inve.png",
+          "tipo": "imagem"
+        }
+      ],
+      "fundo": {
+        "clarear": 0.2,
+        "src": "midia/sug-story-blackrock-sulamerica/rede-d-or-vende-sul-america-investimentos-para-b.jpg"
+      },
+      "papel": "post",
+      "semCabecalho": true,
+      "tema": "escuro"
+    }
+  ]
+}
