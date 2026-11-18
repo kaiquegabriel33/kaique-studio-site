@@ -11,16 +11,16 @@
   "video_partes": [],
   "id": "sug-video-bagatoli-vorcaro-nasa",
   "carrossel_id": "sug-video-bagatoli-vorcaro-nasa",
-  "status": "pronto",
+  "status": "publicado",
   "noticia_grande": false,
-  "titulo": "Bagattoli sobre Vorcaro: “nem a NASA consegue entender a inteligência que esse homem tem”",
+  "titulo": "Bagattoli sobre Vorcaro: “Nem a NASA, ninguém consegue entender a inteligência que esse homem tem”",
   "forca": "media",
   "prioridade": 3,
   "politico": "Jaime Bagattoli",
   "fato_em": "2026-11-18T15:55:00-03:00",
   "vence_em": "2026-11-20T23:59:00-03:00",
   "criado": "2026-11-18T16:35:00-03:00",
-  "atualizado": "2026-11-18T16:35:00-03:00",
+  "atualizado": "2026-11-18T16:55:00-03:00",
   "video_url": "https://www.youtube.com/watch?v=5KELbVAEBag",
   "trecho_txt": "TV Senado ao vivo, audiência da CCJ e da CSP com o ministro da Justiça e o diretor da PF sobre o caso Master (18/11/2026), fala do senador Jaime Bagattoli por volta das 15h55.",
   "motivo": "Mesma audiência do corte do Andrei (que sai hoje 19:00); outra pessoa e outra fala, vai amanhã 9:40 (um vídeo por dia). Ironia com o Vorcaro e a pergunta de quem autorizou fundo de previdência a pôr dinheiro em CDB que pagava muito acima do CDI. Fonte primária oficial (TV Senado).",
@@ -49,7 +49,7 @@
     ],
     "girar": "nao"
   },
-  "legenda": "Jaime Bagattoli, no Senado, sobre o Vorcaro: “nem a NASA consegue entender a inteligência que esse homem tem”.\n\nA ironia é com a ideia de que o dono do Master fez tudo sozinho. A pergunta dele ao diretor da PF é outra: como o dinheiro vai voltar para os correntistas e para os fundos de previdência de estados e municípios que aplicaram no banco, e quem autorizou essa aplicação.\n\nO número de 150% a 160% do CDI é dele. O ponto vale com qualquer número: quando o banco paga muito acima de todo mundo, alguém do outro lado precisava perguntar por quê.\n\nVídeo: TV Senado, audiência da CCJ e da CSP (18/11/2026). Fontes: TV Senado; Metrópoles; O Globo (18/11/2026).\n\n#casomaster #vorcaro #senado #previdencia",
+  "legenda": "Jaime Bagattoli, no Senado, sobre o Vorcaro: “Nem a NASA, ninguém consegue entender a inteligência que esse homem tem”.\n\nA ironia é com a ideia de que o dono do Master fez tudo sozinho. A pergunta dele ao diretor da PF é outra: como o dinheiro vai voltar para os correntistas e para os fundos de previdência de estados e municípios que aplicaram no banco, e quem autorizou essa aplicação.\n\nO número de 150% a 160% do CDI é dele. O ponto vale com qualquer número: quando o banco paga muito acima de todo mundo, alguém do outro lado precisava perguntar por quê.\n\nVídeo: TV Senado, audiência da CCJ e da CSP (18/11/2026). Fontes: TV Senado; Metrópoles; O Globo (18/11/2026).\n\n#casomaster #vorcaro #senado #previdencia",
   "slides": [
     {
       "altura": 1920,
@@ -58,7 +58,7 @@
       "elementos": [
         {
           "tipo": "texto",
-          "texto": "Senador sobre o Vorcaro: ==“nem a NASA consegue entender a inteligência desse homem”==",
+          "texto": "Senador sobre o Vorcaro: ==“Nem a NASA, ninguém consegue entender a inteligência que esse homem tem”==",
           "tam": 50,
           "corMarca": "#FFD700",
           "corTextoMarca": "#111111"
@@ -88,5 +88,9 @@
       "url": "https://oglobo.globo.com/"
     }
   ],
-  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-bagatoli-vorcaro-nasa"
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-bagatoli-vorcaro-nasa",
+  "arquivo": "sug-video-bagatoli-vorcaro-nasa-tela-cheia.mp4",
+  "publicado_em": "2026-11-18T16:55:00-03:00",
+  "video_final_id": "a93db6c8f994d87c751c899849996137",
+  "capa_id": "9bafd64d692926432ed5d22e97dd6d76"
 }

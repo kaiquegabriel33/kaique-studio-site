@@ -88,5 +88,23 @@
   "arquivo": "sug-video-andrei-pf-nada-a-esconder-tela-cheia.mp4",
   "publicado_em": "2026-11-18T16:40:00-03:00",
   "video_final_id": "ba08d0e6651ec104d1dc3f462faa47e5",
-  "capa_id": "48da2a92082137ef8d6fb722ec0e9446"
+  "capa_id": "48da2a92082137ef8d6fb722ec0e9446",
+  "agendado_metricool": {
+    "id": 433315974,
+    "uuid": "-7865250410059968756",
+    "para": "2026-11-18T19:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-18T16:40:00-03:00",
+    "isAiGenerated": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-18T16:42:00-03:00",
+  "nota_lote": "AGENDADO 18/11 (rotina Reels de teste 14h20): IG 18/11 19:00 (Reel de teste), corte puro 1,1x, 66 s; auditar_cortes 0; legenda com 'SEI' corrigido (Whisper ouviu 'CEM'); intérprete de Libras no canto da TV Senado. Sem TikTok (cota de 24 h cheia). Short do YouTube 20:00 (teste de Short de corte 16–22/11). Não poste à mão.",
+  "agendado_youtube": {
+    "id": 433316959,
+    "uuid": "-2447989823324729507",
+    "para": "2026-11-18T20:00:00",
+    "tipo": "short",
+    "em": "2026-11-18T16:41:00-03:00"
+  }
 }
