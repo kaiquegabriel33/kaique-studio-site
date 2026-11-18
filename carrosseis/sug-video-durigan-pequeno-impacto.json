@@ -1,0 +1,92 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 18/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-durigan-pequeno-impacto",
+  "carrossel_id": "sug-video-durigan-pequeno-impacto",
+  "status": "publicado",
+  "titulo": "Durigan admite: a reforma tributária pode ter “algum pequeno impacto na inflação”",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Dario Durigan (ministro da Fazenda)",
+  "fato_em": "2026-11-17T17:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-18T16:10:00-03:00",
+  "atualizado": "2026-11-18T16:40:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=FDnDgxA-MEU",
+  "trecho_txt": "Fala de Dario Durigan no Senado (TV Senado, 17/11/2026), publicada pelo UOL em 18/11, de 0:00 a 0:44.",
+  "motivo": "Ministro da Fazenda admite efeito da reforma tributária nos preços no começo (Agência Brasil, UOL, SBT News). Vídeo do UOL com 69 mil views. Fala diferente do 'posto Ipiranga' de 17/11; vai para amanhã de manhã (fonte 3, vale amanhã).",
+  "promessa": "Com relação ao impacto na inflação",
+  "paga_em": "pode ter algum pequeno impacto na inflação",
+  "para_quem": "quem vai pagar o preço novo no mercado quando a CBS começar",
+  "diferenciacao": "a legenda traduz o “pequeno impacto”: o preço novo depende da empresa aprender a conta, e quem testa é o consumidor no caixa",
+  "trecho": {
+    "inicio": "Com relação ao impacto na inflação",
+    "fim": "não tenha nenhuma dúvida quanto a isso",
+    "aspa_manchete": "pode ter algum pequeno impacto na inflação",
+    "gancho": "acho que pode ter algum pequeno impacto na inflação",
+    "texto": "Com relação ao impacto na inflação, eu acho que tem aqui um tema fundamental que é, acho que pode ter algum pequeno impacto na inflação, mas nós estamos passando por um processo em que os empresários vão aprender a precificar o seu bem, o seu serviço, de acordo com a nova legislação tributária, considerando o que há de crédito a ser considerado e o que há de débito de sua responsabilidade a ser feito. Ao entender bem essa precificação, que vai ser feita nos próximos meses com um vagar, nós vamos ter uma redução desse impacto inflacionário, mas nós vamos seguir acompanhando isso muito de perto do lado do Ministério da Fazenda, não tenha nenhuma dúvida quanto a isso.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "pode ter algum pequeno impacto na inflação",
+        "texto": "Dario Durigan, ministro da Fazenda, sobre a reforma tributária (UOL)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "girar": "nao"
+  },
+  "legenda": "Dario Durigan, ministro da Fazenda, sobre a reforma tributária: “pode ter algum pequeno impacto na inflação”.\n\nA explicação dele é que as empresas ainda vão aprender a fazer a conta do preço com o imposto novo, com crédito e débito. Até acertar essa conta, o risco é o preço subir por precaução.\n\nNa prática, o “pequeno” vai depender de quanto tempo a loja leva para aprender. E nesse meio tempo quem testa o preço novo é você, no caixa.\n\nVídeo: TV Senado (17/11/2026), via UOL. Fontes: Agência Brasil; UOL; SBT News (17 e 18/11/2026).\n\n#reformatributaria #inflacao #durigan #economia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Ministro da Fazenda admite: reforma tributária ==“pode ter algum pequeno impacto na inflação”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "UOL: Durigan diz que reforma tributária não deve prejudicar empresas e ter 'pequeno impacto' na inflação (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=FDnDgxA-MEU"
+    },
+    {
+      "titulo": "Agência Brasil: Durigan prevê impacto inicial da reforma tributária sobre inflação (18/11/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao"
+    },
+    {
+      "titulo": "SBT News: Dario Durigan vê “pequeno impacto” da tributária na inflação (17/11/2026)",
+      "url": "https://www.youtube.com/watch?v=UNnho_2ZVO0"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-durigan-pequeno-impacto",
+  "arquivo": "sug-video-durigan-pequeno-impacto-tela-cheia.mp4",
+  "publicado_em": "2026-11-18T16:40:00-03:00",
+  "video_final_id": "6b1401f08cbe66615ca7b31fdc0d7c39",
+  "capa_id": "b9dadf2bc0deea6892178e9801c24e8b"
+}

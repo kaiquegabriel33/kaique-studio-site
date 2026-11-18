@@ -1,0 +1,92 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "noticia_grande": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 18/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-andrei-pf-nada-a-esconder",
+  "carrossel_id": "sug-video-andrei-pf-nada-a-esconder",
+  "status": "publicado",
+  "titulo": "Andrei Rodrigues na CCJ: “a Polícia Federal não tem absolutamente nada para esconder”",
+  "forca": "alta",
+  "prioridade": 1,
+  "politico": "Andrei Rodrigues (diretor-geral da PF)",
+  "fato_em": "2026-11-18T15:08:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "criado": "2026-11-18T15:55:00-03:00",
+  "atualizado": "2026-11-18T16:40:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=5KELbVAEBag",
+  "trecho_txt": "TV Senado ao vivo, CCJ e CSP ouvem o ministro da Justiça e o diretor da PF sobre o caso Master (18/11/2026), resposta de Andrei Rodrigues ao senador Alessandro Vieira, por volta das 15h08.",
+  "motivo": "Fala de hoje, ao vivo, na audiência mais quente do dia (troca de delegados e relatórios da PF sobre ministros do STF no caso Master). Ele anuncia que manda ao STF os relatórios, o HD com todo o material e as versões que considera inadequadas. Fonte primária oficial (TV Senado); chegada à CCJ em Metrópoles e O Globo.",
+  "promessa": "Mas eu vou mais na frente para deixar muito claro isso",
+  "paga_em": "A Polícia Federal não tem absolutamente nada para esconder de ninguém",
+  "para_quem": "quem acompanha o caso Master e desconfia de quem investiga quem",
+  "diferenciacao": "a legenda fecha com a pergunta que a fala deixa: por que tudo só vai inteiro ao STF depois do vazamento e da audiência",
+  "trecho": {
+    "inicio": "Mas eu vou mais na frente para deixar muito claro isso",
+    "fim": "a gente espanca qualquer especulação",
+    "aspa_manchete": "A Polícia Federal não tem absolutamente nada para esconder de ninguém",
+    "gancho": "A Polícia Federal não tem absolutamente nada para esconder de ninguém",
+    "texto": "Mas eu vou mais na frente para deixar muito claro isso. Eu hoje encaminho esses relatórios, os relatórios corretamente produzidos, ao Supremo, nos termos decididos ao Supremo. Eu vou encaminhar também, senadores e senadoras, Eu também vou encaminhar o material, o HD de todo o material que está, de onde saiu, saíram esses relatórios. E eu vou também, senador, colocar à disposição do presidente Fachin esses relatórios que o senhor está falando. Esses relatórios estão num processo SEI. Eu não vou lá, ninguém apaga um processo SEI. Estão lá, assinados, preservados, que na minha avaliação não são adequados. Se o presidente Fachin entender, olha, mas mesmo assim eu quero esses relatórios. Eu vou oficiar hoje, informando isso, está lá à disposição. A Polícia Federal não tem absolutamente nada para esconder de ninguém. Não está perseguindo, não está protegendo. Está cumprindo o seu papel legal e constitucional. Então, eu acho que com isso, a gente espanca qualquer especulação, senador.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Mas eu vou mais na frente para deixar muito claro isso",
+        "texto": "Andrei Rodrigues, diretor-geral da PF, na CCJ do Senado (18/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "girar": "nao"
+  },
+  "legenda": "Andrei Rodrigues, diretor-geral da PF, no Senado: “a Polícia Federal não tem absolutamente nada para esconder de ninguém”.\n\nEle foi à CCJ explicar a troca de delegados no caso Master e os relatórios da PF que citam ministros do Supremo. A resposta foi mandar tudo ao STF: os relatórios que ele considera corretos, um HD com todo o material e também as versões que, segundo ele, passaram dos limites dados pelo ministro Fachin. Na sessão, a entrega foi marcada para hoje, às 19h30.\n\nSe não há nada a esconder, fica a pergunta: por que tudo só vai inteiro ao Supremo depois do vazamento e de uma audiência no Senado?\n\nVídeo: TV Senado, audiência da CCJ e da CSP (18/11/2026). Fontes: TV Senado; Metrópoles; O Globo (18/11/2026).\n\n#pf #casomaster #senado #stf",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Diretor da PF no Senado: ==“não tem absolutamente nada para esconder”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "TV Senado: Ao vivo, CCJ e CSP ouvem ministro da Justiça sobre relatórios da PF no caso Master (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=5KELbVAEBag"
+    },
+    {
+      "titulo": "Metrópoles: Ministro da Justiça e diretor-geral da PF chegam à CCJ do Senado (18/11/2026)",
+      "url": "https://www.metropoles.com/"
+    },
+    {
+      "titulo": "O Globo: Diretor-geral da PF e ministro da Justiça participam de sessão sobre caso Master (18/11/2026)",
+      "url": "https://oglobo.globo.com/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-andrei-pf-nada-a-esconder",
+  "arquivo": "sug-video-andrei-pf-nada-a-esconder-tela-cheia.mp4",
+  "publicado_em": "2026-11-18T16:40:00-03:00",
+  "video_final_id": "ba08d0e6651ec104d1dc3f462faa47e5",
+  "capa_id": "48da2a92082137ef8d6fb722ec0e9446"
+}

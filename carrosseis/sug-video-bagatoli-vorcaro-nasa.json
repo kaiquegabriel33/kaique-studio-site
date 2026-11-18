@@ -1,0 +1,92 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 18/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-bagatoli-vorcaro-nasa",
+  "carrossel_id": "sug-video-bagatoli-vorcaro-nasa",
+  "status": "pronto",
+  "noticia_grande": false,
+  "titulo": "Bagattoli sobre Vorcaro: “nem a NASA consegue entender a inteligência que esse homem tem”",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Jaime Bagattoli",
+  "fato_em": "2026-11-18T15:55:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-18T16:35:00-03:00",
+  "atualizado": "2026-11-18T16:35:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=5KELbVAEBag",
+  "trecho_txt": "TV Senado ao vivo, audiência da CCJ e da CSP com o ministro da Justiça e o diretor da PF sobre o caso Master (18/11/2026), fala do senador Jaime Bagattoli por volta das 15h55.",
+  "motivo": "Mesma audiência do corte do Andrei (que sai hoje 19:00); outra pessoa e outra fala, vai amanhã 9:40 (um vídeo por dia). Ironia com o Vorcaro e a pergunta de quem autorizou fundo de previdência a pôr dinheiro em CDB que pagava muito acima do CDI. Fonte primária oficial (TV Senado).",
+  "promessa": "se o Daniel Vorcaro, ele tivesse feito tudo isso sozinho",
+  "paga_em": "Nem a NASA, ninguém consegue entender a inteligência que esse homem tem",
+  "para_quem": "quem tem dinheiro em previdência de estado ou município e não sabe onde ele foi parar",
+  "diferenciacao": "a legenda leva a pergunta para o bolso: quem autorizou o fundo de previdência do servidor a pôr dinheiro no Master",
+  "trecho": {
+    "inicio": "E nós sabemos que, nesse caso do Banco Master",
+    "fim": "sabiam que ia dar errado",
+    "aspa_manchete": "Nem a NASA, ninguém consegue entender a inteligência que esse homem tem",
+    "gancho": "Nem a NASA, ninguém consegue entender a inteligência que esse homem tem",
+    "texto": "E nós sabemos que, nesse caso do Banco Master, se o Daniel Vorcaro, ele tivesse feito tudo isso sozinho, ninguém consegue analisar a inteligência que esse homem tem. Nem a NASA, ninguém consegue entender a inteligência que esse homem tem. Que esse homem tem para chegar ao ponto, ao que tudo aconteceu dentro do Banco Master. Porque eu só vou dizer para a Vossa Excelência, eu quero ver de que forma que vai ser devolvido esse dinheiro, tanto para os correntistas, quanto para essas instituições de previdências, que colocaram o dinheiro lá. E se colocaram o dinheiro lá, de que forma foram colocados lá, quem que autorizou colocar, porque ninguém paga juros absurdos nesse país, de 150, 160% do CDI, a não ser que era para um sistema que sabiam que ia dar errado.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "E nós sabemos que, nesse caso do Banco Master",
+        "texto": "Senador Jaime Bagattoli ao diretor da PF, na CCJ (18/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      570,
+      660
+    ],
+    "girar": "nao"
+  },
+  "legenda": "Jaime Bagattoli, no Senado, sobre o Vorcaro: “nem a NASA consegue entender a inteligência que esse homem tem”.\n\nA ironia é com a ideia de que o dono do Master fez tudo sozinho. A pergunta dele ao diretor da PF é outra: como o dinheiro vai voltar para os correntistas e para os fundos de previdência de estados e municípios que aplicaram no banco, e quem autorizou essa aplicação.\n\nO número de 150% a 160% do CDI é dele. O ponto vale com qualquer número: quando o banco paga muito acima de todo mundo, alguém do outro lado precisava perguntar por quê.\n\nVídeo: TV Senado, audiência da CCJ e da CSP (18/11/2026). Fontes: TV Senado; Metrópoles; O Globo (18/11/2026).\n\n#casomaster #vorcaro #senado #previdencia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Senador sobre o Vorcaro: ==“nem a NASA consegue entender a inteligência desse homem”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "TV Senado: Ao vivo, CCJ e CSP ouvem ministro da Justiça sobre relatórios da PF no caso Master (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=5KELbVAEBag"
+    },
+    {
+      "titulo": "Metrópoles: Ministro da Justiça e diretor-geral da PF chegam à CCJ do Senado (18/11/2026)",
+      "url": "https://www.metropoles.com/"
+    },
+    {
+      "titulo": "O Globo: Diretor-geral da PF e ministro da Justiça participam de sessão sobre caso Master (18/11/2026)",
+      "url": "https://oglobo.globo.com/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-bagatoli-vorcaro-nasa"
+}
