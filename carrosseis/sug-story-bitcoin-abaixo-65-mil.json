@@ -1,0 +1,38 @@
+{
+  "id": "sug-story-bitcoin-abaixo-65-mil",
+  "titulo": "Story: bitcoin abaixo de US$ 65 mil, 13% a menos em 7 dias",
+  "formato": "story",
+  "status": "pronto",
+  "papel_story": "conteudo",
+  "legenda": "",
+  "fontes": [
+    {
+      "titulo": "Money Times — Com bitcoin (BTC) abaixo dos US$ 65 mil, liquidações superam US$ 1 bilhão em 24h; criptomoedas aceleram perdas (18/11/2026, 8h12): BTC a US$ 64.232; -13,11% em 7 dias e -26,6% no ano (CoinMarketCap); liquidações pelo CoinGlass",
+      "url": "https://www.moneytimes.com.br/com-bitcoin-btc-abaixo-dos-us-65-mil-liquidacoes-superam-us-1-bilhao-em-24h-criptomoedas-aceleram-perdas-rens/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Bitcoin abaixo de US$ 65 mil: [[vermelho:13% a menos em 7 dias]] e 26,6% no ano.\nPode ter lugar na carteira. Na reserva de emergência, não: dinheiro do imprevisto não pode cair 13% numa semana."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bitcoin-abaixo-65-mil/print-money-times-com-bitcoin-btc-abaixo-dos-us-65.png",
+          "h": 562,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-18T10:20:00-03:00",
+  "atualizado": "2026-11-18T10:20:00-03:00"
+}
