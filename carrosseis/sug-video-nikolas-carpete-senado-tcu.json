@@ -1,0 +1,102 @@
+{
+  "id": "sug-video-nikolas-carpete-senado-tcu",
+  "carrossel_id": "sug-video-nikolas-carpete-senado-tcu",
+  "titulo": "Nikolas sobre o carpete de R$ 3,3 milhões do Senado: “falta vergonha na cara”",
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Nikolas Ferreira",
+  "fato_em": "2026-11-17T18:00:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "criado": "2026-11-18T10:25:00-03:00",
+  "atualizado": "2026-11-18T10:52:00-03:00",
+  "sugerido_por": "rotina Reels de teste 18/11 (8h20, atrasada: modo enxuto)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "noticia_grande": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "video_url": "https://www.youtube.com/watch?v=uXgXZ6sXL1E",
+  "video_partes": [],
+  "trecho_txt": "Vídeo do Nikolas Ferreira nas redes (17/11/2026), no Senado; cópia no YouTube (Papo Conservador), de 0:36 a 1:28. Original em pé, 720p.",
+  "motivo": "Nikolas grava um vídeo dentro do Senado contra o pregão de até R$ 3,3 milhões para trocar o carpete e diz que vai acionar o TCU: “não falta dinheiro, falta vergonha na cara”. Fato em CNN, Estadão, UOL, Poder360 e InfoMoney (17/11). Fala de ontem ainda não cortada por nós (fonte 3). No começo do vídeo ele fala “bilhões” por engano: o trecho começa depois disso.",
+  "promessa": "o seu dinheiro sendo colocado aí de forma irresponsável",
+  "paga_em": "não falta dinheiro, falta vergonha na cara",
+  "para_quem": "quem paga imposto e vê gasto do Congresso que não faria na própria casa",
+  "diferenciacao": "a legenda traz o número oficial do pregão e a conta que ele faz com a casa de quem assiste",
+  "legenda": "Nikolas Ferreira, dentro do Senado, sobre o carpete novo: “não falta dinheiro, falta vergonha na cara”.\n\nO Senado abriu pregão de até R$ 3,3 milhões para trocar o carpete azul da Casa. Ele diz que não é contra manutenção, mas que essa não é necessária, e promete acionar o TCU para derrubar a compra.\n\nR$ 3,3 milhões dá para reformar muita casa que está há anos sem pintura. E a conta sai do mesmo imposto que a sua.\n\nVídeo: Nikolas Ferreira, nas redes (17/11/2026). Fontes: CNN Brasil; Estadão (17/11/2026).\n\n#nikolasferreira #senado #carpete #gastopublico",
+  "trecho": {
+    "inicio": "Então é isso, pessoal",
+    "fim": "não precisa trocar nada",
+    "aspa_manchete": "falta vergonha na cara",
+    "gancho": "não falta dinheiro, falta vergonha na cara",
+    "texto": "Então é isso pessoal, a gente percebe que não é exceção de saco né, é o seu dinheiro sendo colocado aí de forma irresponsável, e é claro, não sou contra fazer manutenções do poder público não, mas quando é necessário, e pelo visto não é necessário, enquanto isso como é que tá sua casa né, sua casa você tem dinheiro assim infinito pra poder ir lá fazer uma obra, refazer o carpete, pra poder comprar iPhone pra sua família toda, não né, agora porque eles usam o seu dinheiro pra poder fazer isso pra eles né, então, obviamente mais uma vez vamos acionar o TCU pra poder isso ser derrubado, afinal de contas, do que o Brasil falta não é dinheiro, pelo contrário, com tanta sacanagem e corrupção que existe nesse país aqui, e ainda continuar assim, está literalmente quebrado, é porque o Brasil é praticamente inquebrável né, mas não falta dinheiro, falta vergonha na cara, falta caráter pra poder alocar o dinheiro de forma certa né, agora, sinceramente, tá lindo, não precisa trocar nada não",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Então é isso, pessoal",
+        "texto": "Nikolas Ferreira, no Senado: pregão de até R$ 3,3 milhões para trocar o carpete (17/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      64
+    ],
+    "legenda": false,
+    "crop": [
+      720,
+      1046,
+      0,
+      80
+    ],
+    "enquadrar": false,
+    "preencher": false
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Nikolas sobre o carpete do Senado: ==“falta vergonha na cara”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Vídeo do Nikolas Ferreira (17/11/2026), cópia no YouTube: Papo Conservador",
+      "url": "https://www.youtube.com/watch?v=uXgXZ6sXL1E"
+    },
+    {
+      "titulo": "CNN Brasil: Senado abrirá pregão para troca de carpetes com valor de até R$ 3,3 milhões (17/11/2026)",
+      "url": "https://www.cnnbrasil.com.br/"
+    },
+    {
+      "titulo": "Estadão: Senado abre licitação para instalar novo carpete por R$ 3,3 milhões (17/11/2026)",
+      "url": "https://www.estadao.com.br/"
+    }
+  ],
+  "publicado_em": "2026-11-18T10:52:00-03:00",
+  "arquivo": "sug-video-nikolas-carpete-senado-tcu-tela-cheia.mp4",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-nikolas-carpete-senado-tcu"
+}
