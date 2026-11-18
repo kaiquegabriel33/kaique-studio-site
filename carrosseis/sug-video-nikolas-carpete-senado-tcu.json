@@ -13,7 +13,7 @@
   "fato_em": "2026-11-17T18:00:00-03:00",
   "vence_em": "2026-11-19T23:59:00-03:00",
   "criado": "2026-11-18T10:25:00-03:00",
-  "atualizado": "2026-11-18T10:52:00-03:00",
+  "atualizado": "2026-11-18T10:57:00-03:00",
   "sugerido_por": "rotina Reels de teste 18/11 (8h20, atrasada: modo enxuto)",
   "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
   "noticia_grande": true,
@@ -98,5 +98,25 @@
   ],
   "publicado_em": "2026-11-18T10:52:00-03:00",
   "arquivo": "sug-video-nikolas-carpete-senado-tcu-tela-cheia.mp4",
-  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-nikolas-carpete-senado-tcu"
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-nikolas-carpete-senado-tcu",
+  "video_final_id": "5cd4a1a63bb6028d7c37443f0b107f79",
+  "capa_id": "50b49c0ebd2bb5794fe3797f6fd81de5",
+  "nota_lote": "AGENDADO 18/11 (rotina Reels de teste 8h20, atrasada): IG 13:00 (Reel de teste), TT 17:30. Corte puro 1,1x, ~60 s. auditar_cortes 0 pontos. conferir_video: LOUDNESS -0,9 dB (0,1 acima), FAIXA = clarão do gancho e cartão final, REPETIÇÃO “sua casa” é a fala dele. Legenda gravada na origem (legenda: false). Não poste à mão.",
+  "agendado_metricool": {
+    "id": 432868477,
+    "uuid": "-7696929132429226499",
+    "para": "2026-11-18T13:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-18T10:55:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 432868542,
+    "uuid": "3333631547042646687",
+    "para": "2026-11-18T17:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-18T10:56:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-18T10:57:00-03:00"
 }

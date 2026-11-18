@@ -1,0 +1,106 @@
+{
+  "id": "sug-video-boulos-bets-nunca-mais",
+  "carrossel_id": "sug-video-boulos-bets-nunca-mais",
+  "titulo": "Boulos sobre a volta das bets: “pesadelo da família brasileira”",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Guilherme Boulos",
+  "fato_em": "2026-11-18T10:30:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-18T11:45:00-03:00",
+  "atualizado": "2026-11-18T11:45:00-03:00",
+  "sugerido_por": "rotina Reels de teste 18/11 (11h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "video_url": "https://www.youtube.com/watch?v=DB9Q3ib43nA",
+  "video_partes": [],
+  "trecho_txt": "Vídeo do Guilherme Boulos nas redes (18/11/2026), entrevista no Planalto; YouTube do próprio Boulos, de 0:02 a 0:38. Original em pé, 1080p, legenda gravada.",
+  "motivo": "Boulos, ministro da Secretaria-Geral, diz que a proibição das bets é definitiva e que o dinheiro voltou para o varejo. Fato: MP das bets parada no Congresso (Estadão 18/11: comissão não instalada dois meses depois), CBF calcula R$ 2 bi de perda e clubes fazem lobby (LANCE!, tmc, 17/11). Vídeo de 1 h atrás com 1,1 mil views: quente e pouco visto (fonte 1).",
+  "promessa": "a posição do governo é definitiva",
+  "paga_em": "pesadelo da família brasileira",
+  "para_quem": "família que viu alguém perder dinheiro em aposta e quem acha que a proibição foi exagero",
+  "diferenciacao": "a legenda põe o outro lado (CBF e clubes) e diz onde a briga se decide: no voto do Congresso",
+  "legenda": "Boulos sobre a volta das bets: “é um pesadelo da família brasileira”.\n\nO ministro da Secretaria-Geral diz que a proibição é definitiva e que o dinheiro que ia para a aposta agora está indo para o mercado e o varejo. Só que a medida provisória ainda depende do Congresso, e a comissão que analisa a MP não foi instalada dois meses depois. Do outro lado, a CBF calcula perder R$ 2 bilhões e os clubes fazem pressão em Brasília.\n\nA volta da bet agora se decide no voto de deputado e senador, nas próximas semanas.\n\nVídeo: Guilherme Boulos, nas redes (18/11/2026). Fontes: Estadão (18/11/2026); G1 e LANCE! (17/11/2026).\n\n#bets #boulos #apostas #lula",
+  "trecho": {
+    "inicio": "A posição do governo é definitiva",
+    "fim": "pesadelo da família brasileira",
+    "aspa_manchete": "pesadelo da família brasileira",
+    "gancho": "que é um pesadelo da família brasileira",
+    "texto": "A posição do governo é definitiva. Medida provisória do presidente Lula que acaba, proíbe as bets no Brasil, ela não só é uma medida que atende a saúde pública, que atende a economia popular, você já tem os dados do quanto se aumentou o faturamento dos mercados, do varejo, porque o dinheiro que estava sendo drenado pela bet agora tá indo pra economia popular, como também ela foi chancelada pelas urnas, 64 milhões de votos do povo brasileiro. Então, a posição do nosso governo é garantir que a decisão da medida provisória seja definitiva e a gente não tenha retorno das bets no Brasil, que é um pesadelo da família brasileira.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "A posição do governo é definitiva",
+        "texto": "Guilherme Boulos, ministro da Secretaria-Geral, sobre a MP que proíbe as bets (18/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      40
+    ],
+    "legenda": false,
+    "crop": [
+      1080,
+      1570,
+      0,
+      175
+    ],
+    "enquadrar": false,
+    "preencher": false,
+    "girar": "nao"
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Boulos sobre a volta das bets: ==“pesadelo da família brasileira”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Vídeo do Guilherme Boulos (18/11/2026), YouTube do próprio Boulos",
+      "url": "https://www.youtube.com/watch?v=DB9Q3ib43nA"
+    },
+    {
+      "titulo": "Estadão: Fim das bets: dois meses após Lula proibir apostas, comissão do Congresso ainda não foi instalada (18/11/2026)",
+      "url": "https://www.estadao.com.br/"
+    },
+    {
+      "titulo": "G1: Proibição das bets: levantamento do MJ identifica, em 53 dias, 60 mil conteúdos ilegais sobre apostas (17/11/2026)",
+      "url": "https://g1.globo.com/"
+    },
+    {
+      "titulo": "LANCE!: CBF estima prejuízo bilionário com MP das bets (17/11/2026)",
+      "url": "https://www.lance.com.br/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-boulos-bets-nunca-mais",
+  "arquivo": "sug-video-boulos-bets-nunca-mais-tela-cheia.mp4"
+}
