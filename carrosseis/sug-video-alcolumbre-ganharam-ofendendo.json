@@ -1,0 +1,97 @@
+{
+  "id": "sug-video-alcolumbre-ganharam-ofendendo",
+  "carrossel_id": "sug-video-alcolumbre-ganharam-ofendendo",
+  "titulo": "Alcolumbre sobre quem se elegeu “ofendendo e agredindo as pessoas”",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Davi Alcolumbre",
+  "fato_em": "2026-11-18T10:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-18T12:22:00-03:00",
+  "atualizado": "2026-11-18T12:22:00-03:00",
+  "sugerido_por": "rotina Reels de teste 18/11 (11h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "video_url": "https://www.youtube.com/watch?v=O72l0CUNIZc",
+  "video_partes": [],
+  "trecho_txt": "Discurso do Davi Alcolumbre no plenário do Senado (imagem da TV Senado), cópia no YouTube (S1 Notícias Oficial, publicada em 18/11/2026), 720p. Uso só a parte de cima, sem o título e a marca do canal da cópia. Data exata da fala não confirmada: o crédito não leva data.",
+  "motivo": "Presidente do Senado diz que muita gente se elegeu ofendendo e ameaçando, sem proposta de universidade, instituto federal ou desenvolvimento. Vem no meio da disputa pela presidência do Senado (CNN, 17/11: eleição no Senado pode pôr a liderança dele à prova) e depois de ele reclamar de ofensas no plenário (outra fala, cortada por terceiros há 5 dias). Cópia com 780 views: quente e pouco visto (fonte 3).",
+  "promessa": "Não teve proposta",
+  "paga_em": "ganharam a eleição ofendendo e agredindo as pessoas",
+  "para_quem": "quem cansou de político que só briga na internet, e quem acha que a crítica é com o seu candidato",
+  "diferenciacao": "a legenda lembra que ele não diz nomes e pergunta quem o eleitor acha que ele quis dizer",
+  "legenda": "Davi Alcolumbre, no Senado, sobre quem se elegeu “ofendendo e agredindo as pessoas”.\n\nO presidente do Senado diz que muita gente chegou a Brasília sem proposta de universidade, de instituto federal ou de desenvolvimento, só com ofensa e ameaça. E fecha: “para minha tristeza e de milhões de pessoas, ganharam as eleições”. A fala vem no meio da disputa pela presidência do Senado, em que a liderança dele está à prova.\n\nEle não diz nomes. E cada lado vai achar que o recado é para o outro.\n\nVídeo: Davi Alcolumbre, plenário do Senado (TV Senado), via S1 Notícias. Fonte: CNN Brasil (17/11/2026).\n\n#alcolumbre #senado #politica #eleicoes",
+  "trecho": {
+    "inicio": "muitos atores políticos",
+    "fim": "ganharam as eleições",
+    "aspa_manchete": "ofendendo e agredindo as pessoas",
+    "gancho": "ofendendo e agredindo as pessoas",
+    "texto": "Muitos atores políticos do meu país chamado Brasil, se promoveram e ganharam a eleição ofendendo e agredindo as pessoas. Não teve proposta de universidade, Laécia, a proposta de levar novos institutos federais para formar a juventude e elas teriam futuro. Eles não apresentaram nas propostas nos estados dele que eles iriam vir para Brasília para defender o desenvolvimento econômico do Brasil. Eles não apresentaram pro Brasil que eles iam vir pro Brasília ou deputado ou senador defender a democracia, não apresentaram. Defender o estado de direito, não apresentaram. Defender as instituições democráticas não apresentaram. Mas ofensas, agressões e ameaças foram todos os dias. E o pior de tudo isso, infelizmente, para minha tristeza e de milhões de pessoas ganharam as eleições.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Não teve proposta",
+        "texto": "Davi Alcolumbre, presidente do Senado, no plenário"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      51
+    ],
+    "girar": "nao",
+    "crop": [
+      670,
+      640,
+      25,
+      150
+    ],
+    "enquadrar": false,
+    "preencher": false
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Alcolumbre sobre quem se elegeu: ==“ofendendo e agredindo as pessoas”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Discurso de Davi Alcolumbre no Senado (TV Senado), cópia no YouTube: S1 Notícias Oficial (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=O72l0CUNIZc"
+    },
+    {
+      "titulo": "CNN Brasil: Eleição no Senado pode colocar liderança de Alcolumbre à prova, diz especialista (17/11/2026)",
+      "url": "https://www.youtube.com/watch?v=nm3rPoGdcPY"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-alcolumbre-ganharam-ofendendo",
+  "arquivo": "sug-video-alcolumbre-ganharam-ofendendo-tela-cheia.mp4"
+}
