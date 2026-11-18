@@ -1,0 +1,97 @@
+{
+  "id": "sug-video-marinho-dolar-custo-de-vida",
+  "carrossel_id": "sug-video-marinho-dolar-custo-de-vida",
+  "titulo": "Rogério Marinho: “quando o dólar aumenta, aumenta o custo de vida”",
+  "status": "pronto",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Rogério Marinho",
+  "fato_em": "2026-11-17T18:00:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "criado": "2026-11-18T11:45:00-03:00",
+  "atualizado": "2026-11-18T11:45:00-03:00",
+  "sugerido_por": "rotina Reels de teste 18/11 (11h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "noticia_grande": false,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "video_url": "https://www.youtube.com/watch?v=yEqS0bp440o",
+  "video_partes": [],
+  "trecho_txt": "Discurso do Rogério Marinho no plenário do Senado (17/11/2026), vídeo do canal dele, de 0:39 a 1:38. Gravação em pé, 1080p.",
+  "motivo": "Líder da oposição no Senado explica, no dia em que o ajuste fiscal foi adiado, por que o dólar alto chega no supermercado. Fato: dólar fechou 17/11 a R$ 5,78, maior nível desde abril de 2025, depois de passar de R$ 5,80 no dia (Estadão, CNN, UOL). Fala de ontem ainda não cortada (fonte 3); o Senado vota o ajuste hoje.",
+  "promessa": "as pessoas poderão se perguntar, eu não como dólar",
+  "paga_em": "quando o dólar aumenta, aumenta o custo de vida",
+  "para_quem": "quem acha que dólar só importa para quem viaja",
+  "diferenciacao": "a legenda leva a cotação real do dia e o que vem de importado no carrinho, com fonte",
+  "legenda": "Rogério Marinho, no Senado: “quando o dólar aumenta, aumenta o custo de vida”.\n\nO dólar fechou terça a R$ 5,78, o maior nível desde abril de 2025, depois de passar de R$ 5,80 durante o dia. O argumento dele é que muita gente acha que não tem nada a ver com isso, mas o dólar entra no preço do insumo, do alimento processado e do eletrodoméstico.\n\nQuem sente primeiro é quem ganha salário, que só sobe uma vez por ano, enquanto o preço sobe todo mês.\n\nVídeo: Rogério Marinho, plenário do Senado (17/11/2026). Fontes: Estadão; CNN Brasil; UOL (17/11/2026).\n\n#dolar #inflacao #ajustefiscal #economia",
+  "trecho": {
+    "inicio": "Eu quero chamar a atenção dos senhores",
+    "fim": "Isso não acontece por acaso",
+    "aspa_manchete": "quando o dólar aumenta, aumenta o custo de vida",
+    "gancho": "quando o dólar aumenta, aumenta o custo de vida, aumenta a inflação",
+    "texto": "Eu quero chamar a atenção dos senhores que hoje o dólar abriu a R$ 5,80, eu não sei nem quanto é que tá. R$ 5,80. E as pessoas poderão se perguntar, eu não como dólar, não tenho nada a ver com isso. Talvez não entendam que o dólar é responsável pelo custo dos insumos que move a nossa economia, dos alimentos processados que consumimos, dos eletrodomésticos, dos nossos commodities, enfim, de todas as comodidades que estão à disposição da sociedade. Elas são parametrizadas pelo dólar. E quando o dólar aumenta, aumenta o custo de vida, aumenta a inflação, aumenta a corrosão do poder de compra do trabalhador brasileiro. Isso não acontece por acaso.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Eu quero chamar a atenção dos senhores",
+        "texto": "Rogério Marinho, líder da oposição, no plenário do Senado (17/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      66
+    ],
+    "girar": "nao"
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Marinho no Senado: ==“quando o dólar aumenta, aumenta o custo de vida”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Discurso de Rogério Marinho no Senado (17/11/2026), canal do senador",
+      "url": "https://www.youtube.com/watch?v=yEqS0bp440o"
+    },
+    {
+      "titulo": "Estadão: Dólar chega a R$ 5,78 e fecha no maior nível desde abril de 2025 (17/11/2026)",
+      "url": "https://www.estadao.com.br/"
+    },
+    {
+      "titulo": "CNN Brasil: Dólar fecha em alta e vai a R$ 5,78 com ajuste fiscal no radar (17/11/2026)",
+      "url": "https://www.cnnbrasil.com.br/"
+    },
+    {
+      "titulo": "UOL Economia: Dólar vira para queda e perde os R$ 5,80 (17/11/2026)",
+      "url": "https://economia.uol.com.br/"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-marinho-dolar-custo-de-vida",
+  "arquivo": "sug-video-marinho-dolar-custo-de-vida-tela-cheia.mp4"
+}
