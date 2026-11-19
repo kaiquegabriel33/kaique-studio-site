@@ -1,0 +1,80 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 19/11 (11h20, disparou 13:22: modo enxuto)",
+  "video_partes": [],
+  "id": "sug-video-van-hattem-preso-discurso",
+  "carrossel_id": "sug-video-van-hattem-preso-discurso",
+  "status": "pronto",
+  "titulo": "Marcel van Hattem: “posso vir a ser preso por um discurso que dei na tribuna da Câmara”",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Marcel van Hattem (deputado federal, Novo-RS)",
+  "fato_em": "2026-11-19T11:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-19T13:35:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=ptDKVrTEX1c",
+  "trecho_txt": "Jovem Pan News (19/11/2026), fala de Marcel van Hattem exibida no programa, de 0:16 a 0:52.",
+  "motivo": "Fala dele de hoje (~2 h antes da rodada), pouca gente postou o vídeo dele (Jovem Pan com 743 views). Fato: PGR o denunciou em 28/04/2026 por acusar delegado da PF de criar relatório fraudulento (CNN Brasil, Poder360, Estadão); hoje o STF decide se ele vira réu (Gazeta do Povo, Revista Oeste, Diário do Poder). Fonte em 720p (Jovem Pan não tem 1080p).",
+  "promessa": "posso vir a ser preso por um discurso que dei na tribuna da Câmara dos Deputados",
+  "paga_em": "a defesa da imunidade parlamentar por opinião, palavras e votos",
+  "para_quem": "quem acompanha a briga entre Congresso e STF sobre imunidade parlamentar",
+  "diferenciacao": "a legenda separa o que ele disse do delegado da pergunta que vale para qualquer lado: a defesa tem de ser ouvida em voz alta",
+  "opiniao_sugerida": "O fecho da legenda (dá pra discordar do que ele disse e ainda achar que a defesa tem de ser ouvida) é análise nossa, não fala dele.",
+  "trecho": {
+    "inicio": "posso vir a ser preso por um discurso",
+    "fim": "na democracia mundial e também na brasileira",
+    "aspa_manchete": "posso vir a ser preso por um discurso",
+    "gancho": "posso vir a ser preso por um discurso que dei na tribuna da Câmara dos Deputados",
+    "texto": "posso vir a ser preso por um discurso que dei na tribuna da Câmara dos Deputados e meu advogado não poderá me defender da tribuna do Supremo Tribunal Federal, fazendo a sustentação oral e a defesa da imunidade parlamentar por opinião, palavras e votos, algo que é secular, histórico, na democracia mundial e também na brasileira.",
+    "janela": [0, 45],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "posso vir a ser preso por um discurso",
+        "texto": "Marcel van Hattem, deputado federal (Novo-RS), 19/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "Marcel van Hattem: “posso vir a ser preso por um discurso que dei na tribuna da Câmara”.\n\nO caso começou num discurso de 2024, em que ele acusou um delegado da PF de produzir relatório fraudulento. Em abril, a PGR o denunciou por isso. Agora o STF decide se ele vira réu.\n\nA queixa dele é com o rito: segundo ele, o advogado não vai poder subir à tribuna do Supremo para defender a imunidade parlamentar por opiniões, palavras e votos.\n\nDá pra discordar de tudo o que ele disse do delegado e ainda assim achar que a defesa tem de ser ouvida em voz alta. Imunidade de deputado vale para o lado de que você gosta e para o outro também.\n\nVídeo: Marcel van Hattem, via Jovem Pan News (19/11/2026). Fontes: CNN Brasil, Poder360 e Estadão (28/04/2026); Gazeta do Povo e Revista Oeste (19/11/2026).\n\n#vanhattem #stf #imunidadeparlamentar #camara",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Van Hattem: ==“posso vir a ser preso por um discurso”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {"titulo": "Jovem Pan News: Van Hattem afirma que poderá ser preso por discurso na Câmara (19/11/2026)", "url": "https://www.youtube.com/watch?v=ptDKVrTEX1c"},
+    {"titulo": "CNN Brasil: PGR denuncia Van Hattem por acusar delegado de criar relatório fraudulento (28/04/2026)", "url": "https://www.cnnbrasil.com.br/"},
+    {"titulo": "Poder360: PGR denuncia Marcel van Hattem por discurso contra delegado da PF (28/04/2026)", "url": "https://www.poder360.com.br/"},
+    {"titulo": "Gazeta do Povo: STF decide se Van Hattem vira réu por criticar delegado de Moraes (19/11/2026)", "url": "https://www.gazetadopovo.com.br/"},
+    {"titulo": "Revista Oeste: Van Hattem diz que pode virar réu no STF por discurso na Câmara (19/11/2026)", "url": "https://revistaoeste.com/"}
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-van-hattem-preso-discurso"
+}
