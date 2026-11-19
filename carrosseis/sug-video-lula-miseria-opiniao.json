@@ -55,5 +55,21 @@
         }
       ]
     }
-  ]
+  ],
+  "agendado_metricool": {
+    "id": 433620850,
+    "uuid": "6354945191897547102",
+    "para": "2026-11-19T13:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-18T21:51:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 433620942,
+    "uuid": "-9043709355390842502",
+    "para": "2026-11-19T16:20:00",
+    "em": "2026-11-18T21:51:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-18T21:52:00-03:00",
+  "nota_lote": "AGENDADO 18/11 21h51 (Agenda flexivel): IG 19/11 13:00 (Reel de teste) e TikTok 19/11 16:20. Nao poste a mao."
 }
