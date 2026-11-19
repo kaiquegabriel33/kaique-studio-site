@@ -1,0 +1,95 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 19/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-magno-malta-carne-dos-estados",
+  "carrossel_id": "sug-video-magno-malta-carne-dos-estados",
+  "status": "pronto",
+  "titulo": "Magno Malta: “o governo não corta a sua própria carne, mas vai cortar na carne dos estados”",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Magno Malta (senador, PL-ES)",
+  "fato_em": "2026-11-17T12:00:00-03:00",
+  "vence_em": "2026-11-21T23:59:00-03:00",
+  "criado": "2026-11-19T15:00:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=GJRky2MiWcQ",
+  "trecho_txt": "TV Senado, discurso de Magno Malta no plenário na discussão do ajuste fiscal, via canal Simplesmente Fatos (publicado em 17/11/2026), de 3:53 a 4:59.",
+  "motivo": "Fonte 3 (fala forte da semana, crivo médio): 27 mil views em 2 dias num canal de cortes; nunca cortamos o Magno Malta. A frase da carne própria x carne dos estados é a mais compartilhável do discurso.",
+  "promessa": "o governo faz um ajuste fiscal em que ele não corta a sua própria carne, mas vai cortar na carne dos estados",
+  "paga_em": "por que não cortar ministérios, abrir o cartão corporativo de 100 anos",
+  "para_quem": "quem acha que o ajuste pede sacrifício dos outros e não do governo",
+  "diferenciacao": "a legenda separa a conta (cortar ministério sozinho não fecha R$ 60 bilhões) do ponto que pega: pedir sacrifício sem mostrar o próprio",
+  "opiniao_sugerida": "O fecho da legenda é análise nossa, não fala dele.",
+  "trecho": {
+    "inicio": "por que não cortar nos ministérios",
+    "fim": "sabe que o país está quebrado",
+    "aspa_manchete": "não corta a sua própria carne",
+    "gancho": "o governo faz um ajuste fiscal em que ele não corta a sua própria carne, mas vai cortar na carne dos estados",
+    "texto": "E eu fico pensando, por que não cortar nos ministérios, cortar ministérios, diminuir o número de ministérios? Por que não abrir o cartão corporativo de 100 anos? Por que uma comitiva tão grande nessa viagem que hoje está acontecendo? Guardando as devidas proporções, mas é o exemplo que arrasta. Embora eu não goste da palavra exemplo, porque os maus servem de exemplo, os bons servem para ser copiados. Arrasta. Arrasta. Cortar na carne. Agora, o governo faz um ajuste fiscal em que ele não corta a sua própria carne, mas vai cortar na carne dos estados. A festa que os governadores eleitos fizeram nas suas eleições, daqui 6 meses vão ter se arrependido de ter nascido. O país está quebrado. O mais simples e indouto dos homens nesse país sabe que o país está quebrado.",
+    "janela": [
+      0,
+      78
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "por que não cortar nos ministérios",
+        "texto": "Magno Malta, senador (PL-ES), no plenário do Senado"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "Magno Malta no Senado, sobre o ajuste fiscal: “o governo não corta a sua própria carne, mas vai cortar na carne dos estados”.\n\nEle pergunta por que não cortar ministérios, abrir o cartão corporativo e diminuir as comitivas de viagem. No mesmo discurso, diz que o Espírito Santo, o estado dele, perde R$ 382,1 milhões até 2030 com o corte na compensação da Lei Kandir. O pacote passou no Senado por 69 a 2 e agora vai para a Câmara.\n\nCortar ministério sozinho não fecha uma conta de R$ 60 bilhões. Mas a cobrança acerta no ponto que irrita qualquer um: pedir sacrifício dos outros sem mostrar o próprio.\n\nVídeo: TV Senado, via canal Simplesmente Fatos (17/11/2026). Fontes: TV Senado; Jovem Pan News, votação no Senado (18/11/2026); Valor Econômico (19/11/2026).\n\n#magnomalta #ajustefiscal #senado #gastopublico",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Magno Malta: ==“não corta a sua própria carne”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Simplesmente Fatos: Magno Malta parte pra cima de Braga (TV Senado, publicado em 17/11/2026)",
+      "url": "https://www.youtube.com/watch?v=GJRky2MiWcQ"
+    },
+    {
+      "titulo": "Jovem Pan News: Senado aprova texto final do ajuste fiscal com 69 votos (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=11F6Tqurldc"
+    },
+    {
+      "titulo": "Valor: Lula: “Não é o mercado que deseja o controle fiscal, sou eu” (meta de R$ 60 bi em 2027) (19/11/2026)",
+      "url": "https://valor.globo.com/brasil/noticia/2026/11/19/lula-nao-e-o-mercado-que-deseja-o-controle-fiscal-sou-eu.ghtml"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-magno-malta-carne-dos-estados",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "atualizado": "2026-11-19T15:00"
+}
