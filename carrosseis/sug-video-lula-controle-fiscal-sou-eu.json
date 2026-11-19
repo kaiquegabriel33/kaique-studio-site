@@ -1,0 +1,99 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 19/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-lula-controle-fiscal-sou-eu",
+  "carrossel_id": "sug-video-lula-controle-fiscal-sou-eu",
+  "status": "pronto",
+  "titulo": "Lula: “não é o mercado que deseja o controle fiscal, sou eu”",
+  "forca": "media",
+  "prioridade": 1,
+  "politico": "Lula (presidente da República)",
+  "fato_em": "2026-11-19T11:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-19T14:45:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=ZMMPtFPYnWg",
+  "trecho_txt": "Transmissão do canal do Lula (19/11/2026), assinatura do decreto da escala 5x2 no Planalto, de 54:44 a 55:52.",
+  "motivo": "Fala de hoje, no mesmo dia em que o dólar voltou a passar de R$ 5,92 (Valor). UOL deu a fala (600 views) com moedas e legenda gravada; o corte sai da transmissão oficial (178 mil views); Valor e Poder360 deram em texto. Lula já saiu hoje às 13:00 (Madri), por isso vai para a manhã de 20/11.",
+  "promessa": "não é o mercado que deseja o controle fiscal, quem deseja controle fiscal sou eu",
+  "paga_em": "quem tem que ter responsabilidade fiscal é o governo",
+  "para_quem": "quem acompanha o dólar e o juro subindo com a dúvida sobre as contas do governo",
+  "diferenciacao": "a legenda põe a frase ao lado do que o mercado fez no mesmo dia (dólar acima de R$ 5,92, juro na máxima) e diz onde a frase vai ser cobrada: na votação da Câmara",
+  "opiniao_sugerida": "O fecho da legenda (controle fiscal se prova no número; a prova é a Câmara) é análise nossa, não fala dele.",
+  "trecho": {
+    "inicio": "Eu sei que muitas vezes o mercado reclama",
+    "fim": "vai inventando mentira para criar especulação",
+    "aspa_manchete": "não é o mercado que deseja o controle fiscal",
+    "gancho": "Quem deseja controle fiscal sou eu. Quem deseja economia séria sou eu.",
+    "texto": "Eu sei que muitas vezes o mercado reclama, muitas vezes o mercado também tá interessado, sabe, em fazer a reivindicação dele. O mercado quer que a gente tenha um controle fiscal, mas não é o mercado que deseja o controle fiscal. Quem deseja controle fiscal sou eu. Quem deseja economia séria sou eu. Quem tem que ter responsabilidade fiscal é o governo. E nós já temos muita experiência para mostrar que nós temos responsabilidade fiscal nesse país. Eles sabem. Mas o que na verdade acontece é que tem gente que quer ganhar dinheiro com a especulação, com a boataria. Eu fico meio revoltado. Às vezes eu tô vendo nos jornais as pessoas indicando o ministro, as pessoas dizendo vai ser fulano, vai ser beltrano. Eu nunca conversei com ninguém sobre ministro. É uma coisa minha. É uma coisa minha. Ah, fulano vai para tal lugar, vai para tal lugar. Se não disse não sei o quê, sabe? O cara vai inventando mentira para criar especulação.",
+    "janela": [
+      0,
+      80
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Eu sei que muitas vezes",
+        "texto": "Lula, no Planalto, 19/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "Lula: “não é o mercado que deseja o controle fiscal, sou eu”.\n\nA fala foi no Planalto, na assinatura do decreto da escala 5x2. O ajuste fiscal acabou de passar no Senado e agora vai para a Câmara, com meta de R$ 60 bilhões em 2027, pelas contas do governo. Parte da base do próprio PT reclamou do pacote. Na mesma fala, ele disse que tem gente querendo ganhar dinheiro com especulação e que não conversou com ninguém sobre o próximo ministro.\n\nNo mesmo dia, o dólar voltou a passar de R$ 5,92 e os juros futuros foram às máximas, mesmo com o BC vendendo dólar.\n\nControle fiscal não se prova na frase, se prova no número. A prova vem na Câmara: se o pacote passar inteiro, a frase vale. Se for desidratado, o dólar responde antes de qualquer discurso.\n\nVídeo: transmissão do Planalto, no canal do Lula (19/11/2026). Fontes: Valor Econômico; UOL; Folha de S.Paulo (19/11/2026).\n\n#lula #ajustefiscal #dolar #economia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Lula: ==“quem deseja controle fiscal sou eu”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Lula (canal oficial): Presidente Lula assina decreto que regulamenta o fim da escala 6x1 (19/11/2026)",
+      "url": "https://www.youtube.com/watch?v=ZMMPtFPYnWg"
+    },
+    {
+      "titulo": "Valor: Lula: “Não é o mercado que deseja o controle fiscal, sou eu” (19/11/2026)",
+      "url": "https://valor.globo.com/brasil/noticia/2026/11/19/lula-nao-e-o-mercado-que-deseja-o-controle-fiscal-sou-eu.ghtml"
+    },
+    {
+      "titulo": "Folha: BC intervém no câmbio, e dólar desacelera após superar R$ 5,92 (19/11/2026)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-591-apos-aprovacao-de-pacote-fiscal-no-senado.shtml"
+    },
+    {
+      "titulo": "UOL: Lula defende ajuste fiscal e rebate críticas do mercado (19/11/2026)",
+      "url": "https://www.youtube.com/watch?v=I1DKa46_Fz8"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-controle-fiscal-sou-eu",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "atualizado": "2026-11-19T15:12"
+}
