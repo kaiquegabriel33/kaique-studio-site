@@ -1,0 +1,87 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 19/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-pgr-denuncia-flavio-calunia",
+  "carrossel_id": "sug-video-pgr-denuncia-flavio-calunia",
+  "status": "pronto",
+  "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Flávio Bolsonaro (senador, PL-RJ), reportagem do SBT",
+  "fato_em": "2026-11-18T19:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-19T15:25:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=-CQVzIUKqEo",
+  "trecho_txt": "SBT Brasil (18/11/2026), reportagem de Vitória Melo, de 0:27 a 1:28, com a chamada do âncora no gancho.",
+  "motivo": "Fonte 3 (notícia forte de ontem, telejornal): SBT 28 mil views e CNN 64 mil. Ainda não cortamos essa denúncia.",
+  "promessa": "a Procuradoria-Geral da República denunciou o senador Flávio Bolsonaro por calúnia contra o presidente Lula",
+  "paga_em": "cabe ao Supremo decidir se aceita ou não a denúncia",
+  "para_quem": "quem acompanha a briga sobre até onde vai a imunidade de parlamentar",
+  "diferenciacao": "a legenda põe a regra que serve para os dois lados: imunidade cobre opinião, não acusação de crime sem prova, valha para quem valer",
+  "opiniao_sugerida": "O fecho da legenda é análise nossa.",
+  "trecho": {
+    "inicio": "essa denúncia, ela foi motivada",
+    "fim": "se aceita ou não a denúncia",
+    "aspa_manchete": "denunciou o senador Flávio Bolsonaro por calúnia",
+    "gancho": "A procuradoria da República denunciou o senador Flávio Bolsonaro por calúnia contra o presidente Lula",
+    "texto": "Essa denúncia, ela foi motivada por uma publicação feita pelo senador Flávio Bolsonaro na rede social X em janeiro deste ano. Nessa postagem, Flávio Bolsonaro associou imagens de Lula com o então presidente da Venezuela, Nicolás Maduro, e descreveu que Lula seria delatado por envolvimento em crimes como tráfico internacional de drogas e armas, lavagem de dinheiro e fraudes eleitorais. Para a procuradoria, o senador teve a intenção de atingir a honra do presidente da República. A PGR também argumenta que a imunidade parlamentar não pode ser usada para proteger a prática de atos ilícitos. A denúncia foi apresentada ao Supremo Tribunal Federal e o relator é o ministro Alexandre de Moraes. Agora a PGR pede que Flávio Bolsonaro seja notificado para apresentar uma resposta no prazo de 15 dias e cabe então ao Supremo Tribunal Federal decidir se aceita ou não a denúncia.",
+    "janela": [
+      0,
+      95
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "essa denúncia, ela foi motivada",
+        "texto": "SBT Brasil, 18/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "A PGR denunciou o senador Flávio Bolsonaro por calúnia contra o presidente Lula.\n\nO motivo é um post no X, em janeiro, que juntava imagens de Lula e Maduro e dizia que Lula seria delatado por tráfico de drogas e armas, lavagem de dinheiro e fraude eleitoral. Para a PGR, a imunidade parlamentar não protege ato ilícito. O relator no STF é o Alexandre de Moraes; Flávio tem 15 dias para responder e o Supremo decide se aceita a denúncia.\n\nImunidade de parlamentar existe para proteger opinião. Acusar alguém de crime sem prova é outra coisa, e essa régua tem de valer para qualquer lado, contra o presidente ou contra a oposição.\n\nVídeo: SBT Brasil (18/11/2026). Fontes: SBT News; CNN Brasil (18/11/2026).\n\n#flaviobolsonaro #pgr #stf #lula",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "PGR denuncia ==Flávio Bolsonaro por calúnia contra Lula==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "SBT News: PGR denuncia Flávio Bolsonaro por calúnia contra o presidente Lula (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=-CQVzIUKqEo"
+    },
+    {
+      "titulo": "CNN Brasil: PGR denuncia Flávio Bolsonaro por calúnia contra Lula, HORA H (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=0800BTphbDE"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-pgr-denuncia-flavio-calunia",
+  "atualizado": "2026-11-19T15:36"
+}
