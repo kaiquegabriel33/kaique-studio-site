@@ -1,0 +1,59 @@
+{
+  "arquivo": "sug-video-lula-miseria-opiniao.mp4",
+  "capa_id": "2c4719ec44d754e69c9d42b26e094b2a",
+  "carrossel_id": "sug-video-lula-miseria-opiniao",
+  "criado": "2026-11-18T19:30:00-03:00",
+  "diferenciacao": "a voz e o rosto dele: 12 anos no mercado financeiro, o exemplo da Movida no fim de ano em Floripa, os clientes dele e o Banco do Brasil",
+  "fato_em": "2026-11-16T12:00:00-03:00",
+  "fontes": [
+    {
+      "titulo": "El Mundo (YouTube, 17/11/2026): encontro na íntegra entre Pedro Sánchez e Lula da Silva",
+      "url": "https://www.youtube.com/watch?v=71ft7ms5BDY"
+    },
+    {
+      "titulo": "Poder360 (17/11/2026): Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
+      "url": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/"
+    }
+  ],
+  "forca": "alta",
+  "formato": "video",
+  "formato_corte": "corte_e_opiniao_dele",
+  "id": "sug-video-lula-miseria-opiniao",
+  "legenda": "Trabalho há 12 anos no mercado financeiro e até agora não achei esse mercado que quer o povo na miséria.\n\nO Lula falou isso em Madri, do lado do Pedro Sánchez. Aí fui procurar. Eu ganho mais quando o meu cliente ganha mais. O meu cliente investe em empresa que vende mais quando a galera tem dinheiro pra viajar e alugar carro. E banco com cliente sem dinheiro é calote, olha o Banco do Brasil.\n\nEntão quem é? Se você souber, me fala aqui.\n\nVídeo: El Mundo (17/11/2026), íntegra do encontro.\n\n#lula #mercadofinanceiro #economia",
+  "motivo": "Pedido dele pela Central (18/11 18:51): abrir com a fala do Lula (o mercado quer o povo pobre na miséria) e emendar a opinião que ele gravou; postar como Reel de teste. A mesma fala do Lula saiu como corte puro em 17/11 13:40: aqui a peça é a opinião dele.",
+  "nota_corte": "Abre com 5 s do Lula (gancho do corte de 17/11, El Mundo) e emenda a opinião dele inteira a 1,1x (1:35 no total). A ferramenta de tomadas tinha tirado 3 frases dele (eu / meu cliente / o banco não quer ninguém na miséria e o começo do exemplo da Movida): devolvi. Pronto em qualidade cheia em C:/KaiqueStudioDados/projetos/videos/sug-video-lula-miseria-opiniao-corte e em 3 - Prontos para postar (98 MB).",
+  "noticia_grande": true,
+  "paga_em": "o banco não quer ver ninguém na miséria",
+  "pedido": "xqtgxt5epkehh9bvzvo0",
+  "politico": "Lula",
+  "prioridade": 1,
+  "promessa": "quem é esse mercado financeiro que quer todo mundo na miséria",
+  "publicado_em": "2026-11-18T19:30:00-03:00",
+  "sem_ok_dele": "pedido dele 18/11 18:51: \"manda bala vamos postar como os testes\"",
+  "status": "pronto",
+  "sugerido_por": "rotina Na hora 18/11 19h (pedido dele)",
+  "teste_reel": true,
+  "titulo": "Lula: o mercado quer o povo na miséria. Quem é esse mercado?",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "versao": 1,
+  "video_final_id": "04a7896664b54ad46c1e6f0b35e2851f",
+  "video_partes": [],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-miseria-opiniao",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ]
+}
