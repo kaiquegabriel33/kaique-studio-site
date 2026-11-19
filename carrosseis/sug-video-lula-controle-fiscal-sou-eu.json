@@ -11,8 +11,8 @@
   "video_partes": [],
   "id": "sug-video-lula-controle-fiscal-sou-eu",
   "carrossel_id": "sug-video-lula-controle-fiscal-sou-eu",
-  "status": "pronto",
-  "titulo": "Lula: “não é o mercado que deseja o controle fiscal, sou eu”",
+  "status": "publicado",
+  "titulo": "Lula: “não é o mercado que deseja o controle fiscal. Quem deseja controle fiscal sou eu”",
   "forca": "media",
   "prioridade": 1,
   "politico": "Lula (presidente da República)",
@@ -47,7 +47,7 @@
     "cta": true,
     "encher": false
   },
-  "legenda": "Lula: “não é o mercado que deseja o controle fiscal, sou eu”.\n\nA fala foi no Planalto, na assinatura do decreto da escala 5x2. O ajuste fiscal acabou de passar no Senado e agora vai para a Câmara, com meta de R$ 60 bilhões em 2027, pelas contas do governo. Parte da base do próprio PT reclamou do pacote. Na mesma fala, ele disse que tem gente querendo ganhar dinheiro com especulação e que não conversou com ninguém sobre o próximo ministro.\n\nNo mesmo dia, o dólar voltou a passar de R$ 5,92 e os juros futuros foram às máximas, mesmo com o BC vendendo dólar.\n\nControle fiscal não se prova na frase, se prova no número. A prova vem na Câmara: se o pacote passar inteiro, a frase vale. Se for desidratado, o dólar responde antes de qualquer discurso.\n\nVídeo: transmissão do Planalto, no canal do Lula (19/11/2026). Fontes: Valor Econômico; UOL; Folha de S.Paulo (19/11/2026).\n\n#lula #ajustefiscal #dolar #economia",
+  "legenda": "Lula: “não é o mercado que deseja o controle fiscal. Quem deseja controle fiscal sou eu”.\n\nA fala foi na quinta (19/11), no Planalto, na assinatura do decreto da escala 5x2. O ajuste fiscal acabou de passar no Senado e agora vai para a Câmara, com meta de R$ 60 bilhões em 2027, pelas contas do governo. Parte da base do próprio PT reclamou do pacote. Na mesma fala, ele disse que tem gente querendo ganhar dinheiro com especulação e que não conversou com ninguém sobre o próximo ministro.\n\nNo mesmo dia, o dólar voltou a passar de R$ 5,92 e os juros futuros foram às máximas, mesmo com o BC vendendo dólar.\n\nControle fiscal não se prova na frase, se prova no número. A prova vem na Câmara: se o pacote passar inteiro, a frase vale. Se for desidratado, o dólar responde antes de qualquer discurso.\n\nVídeo: transmissão do Planalto, no canal do Lula (19/11/2026). Fontes: Valor Econômico; UOL; Folha de S.Paulo (19/11/2026).\n\n#lula #ajustefiscal #dolar #economia",
   "slides": [
     {
       "altura": 1920,
@@ -92,8 +92,24 @@
   ],
   "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-controle-fiscal-sou-eu",
   "teste_cta": {
-    "braco": "atual",
-    "texto": "Segue pra ver o próximo corte."
+    "braco": "ninguem",
+    "texto": "Quase ninguém está de olho nisso. Segue pra não perder o próximo."
   },
-  "atualizado": "2026-11-19T15:12"
+  "atualizado": "2026-11-19T15:12",
+  "publicado_em": "2026-11-19T15:14:00-03:00",
+  "arquivo": "sug-video-lula-controle-fiscal-sou-eu-tela-cheia.mp4",
+  "video_final_id": "ebdcff91bbea4b74edb6a6d62bbdfe97",
+  "capa_id": "4b62c288b4cd9a384a92ecd88a62b9eb",
+  "nota_corte": "Transmissão do Planalto (canal do Lula) 54:44–55:52, gancho \"quem deseja controle fiscal sou eu\" na abertura; 1,1x, 69 s; legenda corrigida (boataria; \"vai pra tal lugar\"); auditar_cortes 0; conferir_video: estalos do microfone, repetição dele (\"é uma coisa minha\"), 1,4 s de plano aberto com ele à direita, faixa escura no CTA: nada a corrigir.",
+  "agendado_metricool": {
+    "id": 434579750,
+    "uuid": "-7172825968210261639",
+    "para": "2026-11-20T09:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-19T15:16:00-03:00",
+    "isAiGenerated": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-19T15:17:00-03:00",
+  "nota_lote": "AGENDADO 19/11 (rotina Reels de teste 14h20): IG 20/11 09:00 (Reel de teste, manhã de amanhã), corte puro 1,1x, 69 s; auditar_cortes 0. Se de manhã aparecer fala mais quente, ela toma a vaga e este anda. Não poste à mão."
 }

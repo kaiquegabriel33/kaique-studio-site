@@ -1,0 +1,95 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 19/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-rogerio-marinho-robin-hood-avessas",
+  "carrossel_id": "sug-video-rogerio-marinho-robin-hood-avessas",
+  "status": "pronto",
+  "titulo": "Rogério Marinho: “o PT funciona como o Robin Hood às avessas, dá com a mão e tira com as duas”",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Rogério Marinho (senador, líder do PL, RN)",
+  "fato_em": "2026-11-18T16:00:00-03:00",
+  "vence_em": "2026-11-21T23:59:00-03:00",
+  "criado": "2026-11-19T15:10:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=87eHAe0c0ps",
+  "trecho_txt": "UOL (18/11/2026), discurso de Rogério Marinho no plenário do Senado na votação do ajuste fiscal, de 3:13 a 4:20.",
+  "motivo": "Fonte 3 (fala forte de ontem): o discurso dele no canal próprio passou de 138 mil views e a UOL tem 44 mil. Outro discurso (17/11, dólar) saiu em 18/11; este é o da votação final, com a frase do Robin Hood às avessas e o calote nos estados.",
+  "promessa": "o PT funciona como o Robin Hood às avessas, dá com a mão e tira com as duas",
+  "paga_em": "calote nos estados, calote nas empresas, aumento de impostos e mais uma pedalada fiscal",
+  "para_quem": "quem quer entender por que a oposição chama o ajuste de calote",
+  "diferenciacao": "a legenda mostra o que é acusação dele (calote, pedalada) e o que é número (os R$ 10,5 bilhões do subsídio do diesel fora do primário) e fecha no que decide a briga: a Câmara",
+  "opiniao_sugerida": "O fecho da legenda é análise nossa, não fala dele.",
+  "trecho": {
+    "inicio": "que o PT funciona como o Robin Hood às avessas",
+    "fim": "do subsídio do petróleo, do diesel",
+    "aspa_manchete": "Robin Hood às avessas",
+    "gancho": "o PT funciona como o Robin Hood às avessas, dá com a mão e tira com as duas",
+    "texto": "Por isso tenho dito aqui que o PT funciona como o Robin Hood às avessas, dá com a mão e tira com as duas. O que o governo nos oferece do ponto de vista de ajuste fiscal, aliás, rebatido com veemência por vários dos seus integrantes, pelo menos é o que a gente lê e assiste nas redes sociais como se fosse um estelionato eleitoral, é a mesma receita. Calote nos estados, calote nas empresas, porque se captura um recurso onde a previsibilidade, a segurança jurídica, a possibilidade de se ter um crédito líquido e certo é subtraído porque o governo precisa resolver uma situação que ele mesmo causou, mas não faz parte da sua solução. Aumento de impostos e o pior, mais uma pedalada fiscal, quando se retira do cálculo do primário os 10.5 bilhões do subsídio do petróleo, do diesel.",
+    "janela": [
+      0,
+      76
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Robin Hood às avessas",
+        "texto": "Rogério Marinho, líder do PL no Senado, 18/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "Rogério Marinho, líder do PL no Senado: “o PT funciona como o Robin Hood às avessas, dá com a mão e tira com as duas”.\n\nFoi no plenário, no dia em que o ajuste fiscal passou por 69 a 2. Para ele, o pacote repete a receita de sempre: calote nos estados, calote nas empresas que têm crédito a receber, aumento de imposto e uma pedalada, porque os R$ 10,5 bilhões do subsídio do diesel ficam fora da conta do resultado primário.\n\nCalote e pedalada são palavras dele. O número do diesel é o ponto que dá para conferir: gasto que sai da conta deixa a meta mais fácil no papel, mas o dinheiro sai do caixa do mesmo jeito, e quem paga o juro dessa dívida é você.\n\nVídeo: UOL (18/11/2026), sessão do Senado. Fontes: TV Senado; UOL; Jovem Pan News (18/11/2026).\n\n#rogeriomarinho #ajustefiscal #senado #impostos",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Rogério Marinho: ==“Robin Hood às avessas”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "UOL: Rogério Marinho chama ajuste fiscal do governo Lula de “calote” e é rebatido por Eduardo Braga (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=87eHAe0c0ps"
+    },
+    {
+      "titulo": "Rogério Marinho (canal): Mais uma derrota do Brasil no Senado (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=_LaqkytrjsY"
+    },
+    {
+      "titulo": "Jovem Pan News: Senado aprova texto final do ajuste fiscal com 69 votos (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=11F6Tqurldc"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-rogerio-marinho-robin-hood-avessas",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "atualizado": "2026-11-19T15:19"
+}
