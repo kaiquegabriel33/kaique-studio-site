@@ -11,7 +11,7 @@
   "video_partes": [],
   "id": "sug-video-pgr-denuncia-flavio-calunia",
   "carrossel_id": "sug-video-pgr-denuncia-flavio-calunia",
-  "status": "pronto",
+  "status": "publicado",
   "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
   "forca": "media",
   "prioridade": 3,
@@ -47,7 +47,7 @@
     "cta": true,
     "encher": false
   },
-  "legenda": "A PGR denunciou o senador Flávio Bolsonaro por calúnia contra o presidente Lula.\n\nO motivo é um post no X, em janeiro, que juntava imagens de Lula e Maduro e dizia que Lula seria delatado por tráfico de drogas e armas, lavagem de dinheiro e fraude eleitoral. Para a PGR, a imunidade parlamentar não protege ato ilícito. O relator no STF é o Alexandre de Moraes; Flávio tem 15 dias para responder e o Supremo decide se aceita a denúncia.\n\nImunidade de parlamentar existe para proteger opinião. Acusar alguém de crime sem prova é outra coisa, e essa régua tem de valer para qualquer lado, contra o presidente ou contra a oposição.\n\nVídeo: SBT Brasil (18/11/2026). Fontes: SBT News; CNN Brasil (18/11/2026).\n\n#flaviobolsonaro #pgr #stf #lula",
+  "legenda": "A PGR denunciou o senador Flávio Bolsonaro por calúnia contra o presidente Lula.\n\nO motivo é um post no X, em janeiro, que juntava imagens de Lula e Maduro e dizia que Lula seria delatado por tráfico de drogas e armas, lavagem de dinheiro e fraude eleitoral. Para a PGR, a imunidade parlamentar não protege ato ilícito. O relator no STF é o Alexandre de Moraes; a PGR pede que Flávio responda em 15 dias, e o Supremo decide se aceita a denúncia.\n\nImunidade de parlamentar existe para proteger opinião. Acusar alguém de crime sem prova é outra coisa, e essa régua tem de valer para qualquer lado, contra o presidente ou contra a oposição.\n\nVídeo: SBT Brasil (18/11/2026). Fontes: SBT News; CNN Brasil (18/11/2026).\n\n#flaviobolsonaro #pgr #stf #lula",
   "slides": [
     {
       "altura": 1920,
@@ -83,5 +83,25 @@
     }
   ],
   "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-pgr-denuncia-flavio-calunia",
-  "atualizado": "2026-11-19T15:36"
+  "atualizado": "2026-11-19T15:36",
+  "publicado_em": "2026-11-19T15:40:00-03:00",
+  "arquivo": "sug-video-pgr-denuncia-flavio-calunia-tela-cheia.mp4",
+  "video_final_id": "78a530fd59e69595f38de2068cf8eec9",
+  "capa_id": "2ce0b5d040f1c6e162f679a9058bb2ae",
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  },
+  "nota_corte": "SBT Brasil 0:27–1:28 com a chamada do âncora como gancho; 1,1x, 68 s; auditar_cortes 0; conferir_video: 5 s de imagem de cobertura sem rosto (narração da repórter), estalos, faixa escura no CTA: nada a corrigir.",
+  "agendado_metricool": {
+    "id": 434607984,
+    "uuid": "-556226840532859150",
+    "para": "2026-11-20T10:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-19T15:40:00-03:00",
+    "isAiGenerated": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-19T15:41:00-03:00",
+  "nota_lote": "AGENDADO 19/11 (rotina Reels de teste 14h20): IG 20/11 10:20 (Reel de teste, manhã de amanhã), corte puro 1,1x, 68 s; auditar_cortes 0. Fala quente de amanhã cedo toma a vaga. Não poste à mão."
 }
