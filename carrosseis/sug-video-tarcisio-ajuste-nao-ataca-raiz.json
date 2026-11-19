@@ -1,0 +1,95 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 19/11 (14h20)",
+  "video_partes": [],
+  "id": "sug-video-tarcisio-ajuste-nao-ataca-raiz",
+  "carrossel_id": "sug-video-tarcisio-ajuste-nao-ataca-raiz",
+  "status": "pronto",
+  "titulo": "Tarcísio sobre o ajuste fiscal: “não ataca as raízes do problema”",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Tarcísio de Freitas (governador de SP, Republicanos)",
+  "fato_em": "2026-11-18T17:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-19T14:45:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=YsHofcL0-mc",
+  "trecho_txt": "Poder360 (18/11/2026), entrevista de Tarcísio na inauguração da fábrica da Toyota em Sorocaba, de 3:35 a 4:31.",
+  "motivo": "Fala de ontem, depois da aprovação do ajuste no Senado (69 a 2): o governador de SP diz que o ajuste não ataca o crescimento da despesa e que a conta cai nos estados. Poder360 12 mil views; Os Pingos nos Is (Jovem Pan) também deu. Tarcísio não saiu hoje.",
+  "promessa": "o problema do ajuste fiscal que tá sendo posto é que não ataca as raízes do problema",
+  "paga_em": "quem paga a conta desse ajuste são os estados",
+  "para_quem": "quem paga juro alto e quer saber se o ajuste fiscal muda alguma coisa",
+  "diferenciacao": "a legenda separa a parte que é briga de governador (a conta nos estados) da parte que chega no bolso (sem cortar despesa, o juro não cai)",
+  "opiniao_sugerida": "O fecho da legenda (a reclamação dos estados é previsível; o que pesa no bolso é o juro) é análise nossa, não fala dele.",
+  "trecho": {
+    "inicio": "o problema do ajuste fiscal que tá sendo posto",
+    "fim": "reduzido em 75% até 2030",
+    "aspa_manchete": "não ataca as raízes do problema",
+    "gancho": "o problema do ajuste fiscal que tá sendo posto é que não ataca as raízes do problema",
+    "texto": "o problema do ajuste fiscal que tá sendo posto é que não ataca as raízes do problema, as bases do crescimento da despesa e do endividamento. Esse é o primeiro ponto. E se você não sinaliza que vai atacar as bases do problema, você gera grande desconfiança e a gente vai continuar vendo o Brasil se endividando, a gente não vai ter espaço para redução de taxa de juros. E a taxa de juro elevada, ela é muito ruim, ela dificulta muito a realização desses investimentos. Segundo ponto é que, em alguma medida, esse ajuste impacta os estados. Então, quem paga a conta e grande conta desse ajuste são os estados. Quando existe aquela redução no recurso que vem do acordo judicial da compensação da Lei Kandir, então observem, aquilo que é devido aos estados e municípios está sendo reduzido em 75% até 2030.",
+    "janela": [
+      0,
+      68
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "o problema do ajuste fiscal",
+        "texto": "Tarcísio de Freitas, governador de SP, 18/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "Tarcísio de Freitas sobre o ajuste fiscal do governo: “não ataca as raízes do problema”.\n\nEle falou em Sorocaba, no dia em que o Senado aprovou o pacote por 69 a 2. A crítica tem duas partes. A primeira: o ajuste não mexe no que faz a despesa e a dívida crescerem, e sem isso não sobra espaço para o juro cair. A segunda: segundo ele, quem paga a conta são os estados, com a compensação da Lei Kandir cortada em 75% até 2030.\n\nA segunda parte é briga de governador, e era de esperar. A primeira é a que chega no seu bolso: enquanto a despesa continuar crescendo, o juro do financiamento e do cartão não tem motivo para cair.\n\nVídeo: Poder360 (18/11/2026). Fontes: Poder360; Os Pingos nos Is, Jovem Pan; Jovem Pan News, votação no Senado (18/11/2026).\n\n#tarcisio #ajustefiscal #juros #economia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Tarcísio: ==“não ataca as raízes do problema”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Poder360: Tarcísio diz que ajuste fiscal não ataca raízes da dívida e dos gastos (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=YsHofcL0-mc"
+    },
+    {
+      "titulo": "Os Pingos nos Is: “Muito do que está no ajuste fiscal é condicional”, diz Tarcísio de Freitas (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=s1go4psHzE4"
+    },
+    {
+      "titulo": "Jovem Pan News: Senado aprova texto final do ajuste fiscal com 69 votos (18/11/2026)",
+      "url": "https://www.youtube.com/watch?v=11F6Tqurldc"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-tarcisio-ajuste-nao-ataca-raiz",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "atualizado": "2026-11-19T14:42"
+}

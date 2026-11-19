@@ -11,7 +11,7 @@
   "video_partes": [],
   "id": "sug-video-van-hattem-preso-discurso",
   "carrossel_id": "sug-video-van-hattem-preso-discurso",
-  "status": "pronto",
+  "status": "publicado",
   "titulo": "Marcel van Hattem: “posso vir a ser preso por um discurso que dei na tribuna da Câmara”",
   "forca": "media",
   "prioridade": 2,
@@ -33,7 +33,10 @@
     "aspa_manchete": "posso vir a ser preso por um discurso",
     "gancho": "posso vir a ser preso por um discurso que dei na tribuna da Câmara dos Deputados",
     "texto": "posso vir a ser preso por um discurso que dei na tribuna da Câmara dos Deputados e meu advogado não poderá me defender da tribuna do Supremo Tribunal Federal, fazendo a sustentação oral e a defesa da imunidade parlamentar por opinião, palavras e votos, algo que é secular, histórico, na democracia mundial e também na brasileira.",
-    "janela": [0, 45],
+    "janela": [
+      0,
+      45
+    ],
     "contexto": [
       {
         "cor": "amarelo",
@@ -70,11 +73,46 @@
     }
   ],
   "fontes": [
-    {"titulo": "Jovem Pan News: Van Hattem afirma que poderá ser preso por discurso na Câmara (19/11/2026)", "url": "https://www.youtube.com/watch?v=ptDKVrTEX1c"},
-    {"titulo": "CNN Brasil: PGR denuncia Van Hattem por acusar delegado de criar relatório fraudulento (28/04/2026)", "url": "https://www.cnnbrasil.com.br/"},
-    {"titulo": "Poder360: PGR denuncia Marcel van Hattem por discurso contra delegado da PF (28/04/2026)", "url": "https://www.poder360.com.br/"},
-    {"titulo": "Gazeta do Povo: STF decide se Van Hattem vira réu por criticar delegado de Moraes (19/11/2026)", "url": "https://www.gazetadopovo.com.br/"},
-    {"titulo": "Revista Oeste: Van Hattem diz que pode virar réu no STF por discurso na Câmara (19/11/2026)", "url": "https://revistaoeste.com/"}
+    {
+      "titulo": "Jovem Pan News: Van Hattem afirma que poderá ser preso por discurso na Câmara (19/11/2026)",
+      "url": "https://www.youtube.com/watch?v=ptDKVrTEX1c"
+    },
+    {
+      "titulo": "CNN Brasil: PGR denuncia Van Hattem por acusar delegado de criar relatório fraudulento (28/04/2026)",
+      "url": "https://www.cnnbrasil.com.br/"
+    },
+    {
+      "titulo": "Poder360: PGR denuncia Marcel van Hattem por discurso contra delegado da PF (28/04/2026)",
+      "url": "https://www.poder360.com.br/"
+    },
+    {
+      "titulo": "Gazeta do Povo: STF decide se Van Hattem vira réu por criticar delegado de Moraes (19/11/2026)",
+      "url": "https://www.gazetadopovo.com.br/"
+    },
+    {
+      "titulo": "Revista Oeste: Van Hattem diz que pode virar réu no STF por discurso na Câmara (19/11/2026)",
+      "url": "https://revistaoeste.com/"
+    }
   ],
-  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-van-hattem-preso-discurso"
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-van-hattem-preso-discurso",
+  "publicado_em": "2026-11-19T13:45:00-03:00",
+  "arquivo": "sug-video-van-hattem-preso-discurso-tela-cheia.mp4",
+  "video_final_id": "769e7ab0c42a1f3b00c6dfd5eba6db6c",
+  "capa_id": "5ac644b5ed3afe589d7fb95f96b93c25",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "nota_corte": "Trecho 0:16–0:52 da Jovem Pan (fala dele inteira, fim no ponto final); 1,1x, 31,9 s; auditar_cortes 0; fonte 720p.",
+  "agendado_metricool": {
+    "id": 434479717,
+    "uuid": "-8837891747537795113",
+    "para": "2026-11-19T14:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-19T13:52:00-03:00",
+    "isAiGenerated": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-19T13:53:00-03:00",
+  "nota_lote": "AGENDADO 19/11 (rotina Reels de teste 11h20, disparou 13:22, modo enxuto): IG 19/11 14:40 (Reel de teste), corte puro 1,1x, 31,9 s; auditar_cortes 0. Sem TikTok/Short nesta rodada. Não poste à mão."
 }
