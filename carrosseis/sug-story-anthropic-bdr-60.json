@@ -1,0 +1,59 @@
+{
+  "id": "sug-story-anthropic-bdr-60",
+  "carrossel_id": "sug-story-anthropic-bdr-60",
+  "titulo": "Story: a dona do Claude estreou na bolsa e o BDR sai por uns R$ 60",
+  "formato": "story",
+  "papel_story": "educa",
+  "status": "pronto",
+  "forca": "media",
+  "criado": "2026-11-19T14:05:00-03:00",
+  "atualizado": "2026-11-19T14:05:00-03:00",
+  "vence_em": "2026-11-21T21:00:00-03:00",
+  "versao": 1,
+  "sugerido_por": "rotina Sugestões da manhã 19/11",
+  "comentario": "A dona do Claude estreou na bolsa e o BDR sai por uns R$ 60 (ANTH34). Só que ele anda com a ação lá fora e com o dólar: quem compra leva os dois riscos.",
+  "legenda": "",
+  "para_quem": "quem tem conta em corretora e viu o IPO da Anthropic no noticiário",
+  "diferenciacao": "a leitura do risco duplo (ação + dólar) num dia em que o dólar passou de R$ 5,92 e o BC precisou vender US$ 1 bilhão",
+  "confira_na_previa": [
+    "R$ 60 é o preço de referência do Poder360 (ação a US$ 83 no IPO = cerca de R$ 482, dividido por 8). O preço do pregão pode ter sido outro.",
+    "A B3 tinha divulgado faixa de US$ 70 a US$ 78; o Poder360 diz que a ação saiu a US$ 83. Não pus a comparação na arte."
+  ],
+  "repost_url": "https://www.poder360.com.br/poder-economia/bdr-da-anthropic-estreia-na-b3-por-cerca-de-r-60/",
+  "fontes": [
+    {
+      "titulo": "Poder360 (19/11/2026): BDR da Anthropic estreia na B3 por cerca de R$ 60 (print e foto de fundo da matéria)",
+      "url": "https://www.poder360.com.br/poder-economia/bdr-da-anthropic-estreia-na-b3-por-cerca-de-r-60/"
+    },
+    {
+      "titulo": "B3 (17/11/2026): B3 lança BDR da Anthropic simultaneamente ao IPO com aplicação mínima abaixo de R$ 100 (paridade 1 ação = 8 BDRs; riscos de câmbio e de volatilidade)",
+      "url": "https://www.b3.com.br/pt_br/noticias/produto-permitira-que-investidores-brasileiros-acessem-a-companhia-de-inteligencia-artificial-pelo-codigo-anth34-em-reais-por-meio-das-corretoras-locais.htm"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-anthropic-bdr-60/bdr-da-anthropic-estreia-na-b3-por-cerca-de-r-60.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A dona do Claude estreou na bolsa e o BDR sai por uns R$ 60 (ANTH34). Só que ele anda com a ação lá fora e com o dólar: [[verde:quem compra leva os dois riscos]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-anthropic-bdr-60/print-poder360-bdr-da-anthropic-estreia-na-b3-p.png",
+          "h": 320,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}
