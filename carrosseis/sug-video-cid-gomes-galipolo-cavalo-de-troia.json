@@ -1,0 +1,76 @@
+{
+  "id": "sug-video-cid-gomes-galipolo-cavalo-de-troia",
+  "carrossel_id": "sug-video-cid-gomes-galipolo-cavalo-de-troia",
+  "titulo": "Cid Gomes sobre Galípolo: “cavalo de Troia do mercado financeiro incrustado dentro do governo”",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "status": "publicado",
+  "teste_reel": true,
+  "forca": "alta",
+  "politico": "Cid Gomes",
+  "video_url": "https://www.youtube.com/watch?v=IUeAafRA0cU",
+  "trecho_txt": "Poder360, plenário do Senado na votação do ajuste fiscal (TV Senado, 18/11/2026; corte do Poder360 de 19/11): fala do líder do PSB, Cid Gomes, sobre o Banco Central e Gabriel Galípolo.",
+  "trecho": {
+    "inicio": "Eu quero ver se o dito mercado financeiro brasileiro",
+    "fim": "lidera ou defende aqui nessa casa",
+    "aspa_manchete": "é um cavalo de Troia do mercado financeiro incrustado dentro do governo",
+    "gancho": "é um cavalo de Troia do mercado financeiro incrustado dentro do governo",
+    "girar": "nao",
+    "cta": true,
+    "encher": false,
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Eu quero ver se o dito mercado financeiro brasileiro",
+        "texto": "Cid Gomes, líder do PSB, no plenário do Senado (18/11)"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Líder do PSB sobre o presidente do BC: ==“cavalo de Troia do mercado financeiro incrustado dentro do governo”=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Cid Gomes, líder do PSB, sobre Galípolo: “é um cavalo de Troia do mercado financeiro incrustado dentro do governo”.\n\nA fala foi no plenário do Senado, na votação do ajuste fiscal. O detalhe é quem fala: o PSB é o partido do Alckmin, da base do governo. E o presidente do Banco Central foi escolha do Lula.\n\nA receita dele é o BC vender 10 bilhões de dólares das reservas para derrubar o dólar e o juro. Em 19/11, um dia depois, o dólar bateu R$ 5,92 e o BC vendeu 1 bilhão à vista para segurar. Vender reserva segura o preço por uns dias. Se a desconfiança com as contas do governo continuar, o dólar volta a subir.\n\nVídeo: TV Senado, via Poder360 (18/11/2026). Fontes: TV Senado; Poder360; G1 (18 e 19/11/2026).\n\n#galipolo #bancocentral #dolar #juros",
+  "fontes": [
+    {"titulo": "Poder360: Cid Gomes chama Galípolo de “cavalo de Troia do mercado” (19/11/2026)", "url": "https://www.youtube.com/watch?v=IUeAafRA0cU"},
+    {"titulo": "Poder360: BC vende US$ 1 bilhão em leilão à vista para conter alta do dólar (19/11/2026)", "url": "https://www.poder360.com.br/poder-economia/bc-vende-us-1-bilhao-em-leilao-a-vista-para-conter-alta-do-dolar/"},
+    {"titulo": "G1: Dólar opera em alta e bate R$ 5,92 (19/11/2026)", "url": "https://g1.globo.com/economia/noticia/2026/11/19/dolar-ibovespa.ghtml"}
+  ],
+  "promessa": "Eu quero ver se o dito mercado financeiro brasileiro",
+  "paga_em": "é um cavalo de Troia do mercado financeiro incrustado dentro do governo",
+  "para_quem": "quem sente o dólar e o juro no bolso e quer entender a briga em volta do Banco Central",
+  "diferenciacao": "a legenda mostra que o ataque vem da própria base do governo e põe a receita dele (vender 10 bi) ao lado do que o BC fez hoje (vendeu 1 bi com o dólar a R$ 5,92)",
+  "motivo": "Fala quente de ontem (18/11) no plenário do Senado: líder do PSB, da base do governo, chama o presidente do BC indicado pelo Lula de cavalo de Troia do mercado, na véspera do dólar a R$ 5,92. Fonte primária (sessão do Senado) via Poder360.",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Quente do dia 19/11 (13h15)",
+  "noticia_grande": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "prioridade": 2,
+  "cta": true,
+  "fato_em": "2026-11-18T18:00:00-03:00",
+  "vence_em": "2026-11-20T23:59:00-03:00",
+  "criado": "2026-11-19T13:35:00-03:00",
+  "video_partes": []
+}
