@@ -1,13 +1,251 @@
 {
- "atualizado": "2026-11-20T15:28-03:00",
- "em_alta": [],
+ "atualizado": "2026-11-20T17:07-03:00",
+ "em_alta": [
+  {
+   "termo": "troyes fc",
+   "trafego": "100+",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "noticias": [
+    {
+     "titulo": "Joueur de Bundesliga puis entraîneur grand voyageur, Valérien Ismaël s'apprête à diriger son premier match sur le banc d'un club français avec Le Havre à 51 ans",
+     "url": "https://www.lequipe.fr/Football/Article/Joueur-de-bundesliga-puis-entraineur-grand-voyageur-valerien-ismael-s-apprete-a-diriger-son-premier-match-sur-le-banc-d-un-club-francais-avec-le-havre-a-51-ans/1744724",
+     "veiculo": "L'Équipe"
+    },
+    {
+     "titulo": "Malgré la maladie, Jean-Marc Furlan sera présent à Troyes ce vendredi",
+     "url": "https://www.sofoot.com/breves/malgre-la-maladie-jean-marc-furlan-sera-present-ce-vendredi-au-stade-de-laube-de-troyes",
+     "veiculo": "SO FOOT.com"
+    },
+    {
+     "titulo": "Le Havre AC - Le premier groupe de Valérien Ismaël pour le match face à l'ESTAC Troyes",
+     "url": "https://madeinfoot.ouest-france.fr/infos/article-le-havre-ac-le-premier-groupe-de-valerien-ismael-pour-le-match-face-a-l-estac-troyes-546412.html",
+     "veiculo": "MadeInFoot"
+    }
+   ],
+   "publicado": "2026-11-20T11:40:00-08:00"
+  }
+ ],
  "pautas": [
+  {
+   "id": "8bad522997",
+   "titulo": "Trump diz que não permitirá a empresas construir data centers fora dos EUA",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-diz-que-nao-permitira-que-empresas-construam-datacenters-fora-dos-eua/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-20T20:01:47+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Trump+diz+que+n%C3%A3o+permitir%C3%A1+empresas+construir+data+centers",
+   "veiculos": 9,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Dani Lima ao vivo: Trump barra data centers fora dos EUA; PF: Vorcaro se frustrou com Mendonça e+",
+     "url": "https://www.youtube.com/watch?v=m7uSkOg-urI"
+    },
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Trump proíbe empresas americanas de construir data centers fora dos EUA",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3VENjBwS3l0YnY0eXo4SEJyaDU1N0ZrUkgwTTNkWUkwR0FPNlFGdHBHblhLWEtuRTNZX044MzNQUHBRTE1kWUdtSDNkM1JnT3hGeVREdGN2eG5GRldkSHFaN3JMYkJnU201V3ZiM25kTi1td085VExIOXB5M1JTNkFDcG1HTUtFdWNtREIwYzNzUjhBMjFZMFdoQnpZZ2RsN0pNTTdHdV9UV2dtblVJ?oc=5"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "Trump ameaça impor taxas pesadas a empresas dos EUA que construírem data centers no exterior",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/trump-ameaca-impor-taxas-pesadas-a-empresas-dos-eua-que-construirem-data-centers-no-exterior.shtml"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Trump ameaça proibir empresas dos EUA de construírem data centers no exterior",
+     "url": "https://exame.com/mundo/trump-ameaca-proibir-empresas-dos-eua-de-construirem-data-centers-no-exterior/"
+    }
+   ],
+   "score": 53.0,
+   "video_url": "https://www.youtube.com/watch?v=m7uSkOg-urI",
+   "video_canal": "UOL",
+   "video_por_hora": 30114,
+   "video_acima_mediana": 10.6,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Dani Lima ao vivo: Trump barra data centers fora dos EUA; PF: Vorcaro se frustrou com Mendonça e+",
+     "url": "https://www.youtube.com/watch?v=m7uSkOg-urI",
+     "por_hora": 30114
+    }
+   ]
+  },
+  {
+   "id": "fc7a32512c",
+   "titulo": "Fachin retira sigilo de relatório sobre Mendonça no caso Master",
+   "url": "https://valor.globo.com/politica/noticia/2026/11/20/mendonca-pede-a-fachin-para-tirar-sigilo-de-relatorio-com-mencoes-a-ele-no-caso-master.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-20T19:42:37+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Fachin+retira+sigilo+relat%C3%B3rio+sobre+Mendon%C3%A7a+caso+Master",
+   "veiculos": 10,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Relatório da PF mostra frustração de Vorcaro com voto de Mendonça",
+     "url": "https://www.youtube.com/watch?v=CQAaYs2JUUg"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
+     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI"
+    },
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
+     "url": "https://www.youtube.com/watch?v=gROCumReaQw"
+    },
+    {
+     "veiculo": "Record News",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
+     "url": "https://www.youtube.com/watch?v=rIewO_tXltk"
+    }
+   ],
+   "score": 45.4,
+   "video_url": "https://www.youtube.com/watch?v=CQAaYs2JUUg",
+   "video_canal": "UOL",
+   "video_por_hora": 6370,
+   "video_acima_mediana": 2.2,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Relatório da PF mostra frustração de Vorcaro com voto de Mendonça",
+     "url": "https://www.youtube.com/watch?v=CQAaYs2JUUg",
+     "por_hora": 6370
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
+     "url": "https://www.youtube.com/watch?v=gROCumReaQw",
+     "por_hora": 3228
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
+     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI",
+     "por_hora": 2175
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
+     "url": "https://www.youtube.com/watch?v=vQceU5Oe9DE",
+     "por_hora": 2101
+    },
+    {
+     "canal": "Record News",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
+     "url": "https://www.youtube.com/watch?v=rIewO_tXltk",
+     "por_hora": 1526
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
+     "url": "https://www.youtube.com/watch?v=a4hncXy1020",
+     "por_hora": 1283
+    }
+   ]
+  },
+  {
+   "id": "288b56f062",
+   "titulo": "Bessent defende alta mais moderada dos juros pelo Fed",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bessent-defende-alta-mais-moderada-dos-juros-pelo-fed/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-20T19:52:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Bessent+defende+alta+mais+moderada+dos+juros+pelo+Fed",
+   "veiculos": 11,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Diretora do Fed rejeita espera por mais juros: 'não temos esse luxo' contra inflação",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHBvMGJfX3U0ZFY2S1pKaHhuZzA5R3NuYllobmNzT3RxQnpHcmlZc0hkdGNMMkpncGVwOUZ2VThGVk81VV9WdElTT096bHEzSExwRDFUT0ZURVVjTVRwSmZzZTNMODlWaHpqM3VpRkxCZ05mVHN0MF8wX3MxMEZjUU02bVZIb2hTcWthTl94RVhPN09GcUFHemdhSEliOENFOTJJeHUtV3MxUWsxcy1JaW9rQQ?oc=5"
+    },
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Diretora do Fed rejeita espera por mais juros: 'não temos esse luxo' contra inflação",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHBvMGJfX3U0ZFY2S1pKaHhuZzA5R3NuYllobmNzT3RxQnpHcmlZc0hkdGNMMkpncGVwOUZ2VThGVk81VV9WdElTT096bHEzSExwRDFUT0ZURVVjTVRwSmZzZTNMODlWaHpqM3VpRkxCZ05mVHN0MF8wX3MxMEZjUU02bVZIb2hTcWthTl94RVhPN09GcUFHemdhSEliOENFOTJJeHUtV3MxUWsxcy1JaW9rQQ?oc=5"
+    },
+    {
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Diretora do Fed defende alta de juros nos EUA com inflação em 3,8%",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUE5REE3NGhiWDZfX09JNjl2YVJKaEVsXzhpWWNzQnR1d0xRQjBuUndMTENpYlhkOGxaU2YyRUdQRjBXa01iTXU2UHIwLUtVWkF1Tm1ULUF0S3AwQXJ5WkdZMFYxdTh5T01zd0pzN3lMS1F5bHBlZXU4c2hNc2NFSEd6ODNKNDFnekhYNTNSOUJ6QVlpd3U0ZWlPSlVxNXczNGd4bTFLVjNFQQ?oc=5"
+    },
+    {
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Diretora do Fed defende alta de juros nos EUA com inflação em 3,8%",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUE5REE3NGhiWDZfX09JNjl2YVJKaEVsXzhpWWNzQnR1d0xRQjBuUndMTENpYlhkOGxaU2YyRUdQRjBXa01iTXU2UHIwLUtVWkF1Tm1ULUF0S3AwQXJ5WkdZMFYxdTh5T01zd0pzN3lMS1F5bHBlZXU4c2hNc2NFSEd6ODNKNDFnekhYNTNSOUJ6QVlpd3U0ZWlPSlVxNXczNGd4bTFLVjNFQQ?oc=5"
+    }
+   ],
+   "score": 42.9
+  },
+  {
+   "id": "cd11b0bab3",
+   "titulo": "Ações da Anthropic estreiam com alta de 17% na Nasdaq",
+   "url": "https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-20T18:34:53+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%B5es+Anthropic+estreiam+com+alta+17%25+Nasdaq",
+   "veiculos": 8,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Tombo das ações da Anthropic após estreia vira alerta para mercado de IA",
+     "url": "https://www.cnnbrasil.com.br/economia/money/mercado/tombo-das-acoes-da-anthropic-apos-estreia-vira-alerta-para-mercado-de-ia/"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Ações da Anthropic caem mais de 9% no pré-mercado de NY",
+     "url": "https://valor.globo.com/financas/noticia/2026/11/20/acoes-da-anthropic-caem-mais-de-9percent-no-pre-mercado-de-ny.ghtml"
+    },
+    {
+     "veiculo": "Times Brasil | CNBC",
+     "titulo": "Ações da Anthropic caem mais de 13% após estreia na Nasdaq e se aproximam do preço do IPO",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlctRzBfMjVkMGFzYVFHNEJUMUQ0N2g3akJBNzZJdGFBN2RVbU1KR29GZ3JmaVVCVXA3czhvbXhsSk5xdnNYRG5Eem1EZUE4ZlZzM3RDZk5LWWtITF85ckFYUTZ4NE93UTlBS0hzVnlLbDNOU0h2Tk1VVjdQWUROcm9NWkFVSG8wMkJQbC0xZGI5UEJ2ekpITXBVa0FRZzRwOHRzSnE2ME9NT2d6aU1SWXdkc2FiaGtqRkYwWjNWWHU4ZlEzWGdIekp1dXN5QmNoaVE?oc=5"
+    },
+    {
+     "veiculo": "Expressão Rondônia",
+     "titulo": "Anthropic estreia na Nasdaq com IPO recorde de US$ 81 bilhões e testa apetite de investidores por IA",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb01wZmlvdHY4UlNCUGZlSDZNUVVvWFk2cUhUMFZWcE5YODZlQ0JNVDFIUDdVOFdKaEhDVkFsQy0yTHhHT2xja0E0MWNfZ2hlY1RyMkNXdEZBUTAzTkNtcWJYZ0hWUHVYSVFBWXpGb1ZoUXZyUlR3bE9rQjAxZDdrNER6bERtVUh3N0h6RFdOZ1IzNjVCbVp4MW1Mbm5TcjhocU96OUpRNVRrZzVyUTFMclA4dmtuNUJ1TXlnU2NNUVh0WEEtWlRNaTRMQXNJdw?oc=5"
+    }
+   ],
+   "score": 42.4
+  },
   {
    "id": "cffcb5eb0c",
    "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
    "url": "https://www.youtube.com/watch?v=n6GDM0mQmgc",
    "veiculo": "InfoMoney",
-   "publicado": "2026-11-20T17:57:00+00:00",
+   "publicado": "2026-11-20T15:31:12+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -16,14 +254,9 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Justi%C3%A7a+libera+iPhones+Senado+Nikolas+perde+liminar",
-   "veiculos": 18,
+   "veiculos": 12,
    "rotina": false,
    "outras": [
-    {
-     "veiculo": "Aliados Brasil",
-     "titulo": "Justiça derruba liminar obtida por Nikolas e libera compra de R$ 6 milhões em iPhones para senadores",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmxvT2paLTBzMm1yc05uY2p1aHM3QTB6blBaYTZUYkRjbmhpUktUa1ctSWFNUGcxVmZMcmRBdWd4b2FjRHQycjNfa1RKVWR5NkFlSG54M09ETmF2bjl0VEVkQnV0UkJ4VTA3X21JWlNCUlZaU1gxZml1UkRBWjZQM1JFVkNuNXRHX0JjN1NrcUFWT0EyTkNOR0RNLXgyT1lPcGpqVFdXRGUwa1dJZkNLdTdTUGtGQTUtdXAzYTk0THZUZ09kT2tYZFRUUmpuQ2xRRFF5Mk5NS3ZxTlFlNFZjQg?oc=5"
-    },
     {
      "veiculo": "Jornal Correio",
      "titulo": "Justiça derruba liminar e libera licitação de R$ 4,95 milhões para iPhones no Senado",
@@ -38,272 +271,207 @@
      "veiculo": "Acesse Política",
      "titulo": "Justiça libera licitação do Senado para compra de 95 iPhones 18 Pro",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEJvUzRGOUhIY3VHdzhoa2FfSFNtaVljQ3czSzY3MDVHNHNVQWl1SF9EckVMRFFsc1BPUEktdVFod0thMEk5bUtyOVd5MThSa1FtcnFISjk3MmtoRVFuRmZVdkQ0MEJqaXJ1Ty1yYi11eVZwb3Zaa2I4b2lFMUYyUGoySm5NMExEX3o3dzBDTWQ4UGxoemRvMFo1UEdjem9MNDZ3UlNEUE1xSG1RVnI3Z3V3?oc=5"
+    },
+    {
+     "veiculo": "Jornal Impresso Brasil",
+     "titulo": "Justiça atende Nikolas Ferreira e suspende licitação que previa gasto de R$ 6 milhões com iPhones e outros celulares para parlamentares",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSEg4X3hSaHRRWlFVTkFkSXV4cFZVU0tiTEdOM3VkQ2tyaGpWZVQydnMyNGxPOVRWd3UyRktOQ3ZPd1FjaGdycDhYc05ULWhGX3VrcE5peUhmcTNnTW41bmdpdFRrWjc4cnhnM1BoeDdMdC1IUFV3cDFSalFheHp6MFlsdFVUekhvYnltdjlTbEY1VjlobEVyRmstM3A2UTQxVjhlOFNsc0tQSHlnSzROdmpmdzYwcVNuam9ldFdCRmhfeklwQzY5R2xIaFBpcllReEoxeGc4b0x1STVFRTl2M1pyNGp0ZXNZV1VoZmNTbnJXLXVEc2pVY2NUVVFRekZiOEZJWl9OM1l5cUphYm5r?oc=5"
     }
    ],
-   "score": 50.6,
-   "video_url": "https://www.youtube.com/watch?v=s24IbEOkXuc",
+   "score": 40.9,
+   "video_url": "https://www.youtube.com/watch?v=n6GDM0mQmgc",
    "video_canal": "InfoMoney",
-   "video_por_hora": 2124,
-   "video_acima_mediana": 19.9,
+   "video_por_hora": 2071,
+   "video_acima_mediana": 19.4,
    "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
-     "url": "https://www.youtube.com/watch?v=s24IbEOkXuc",
-     "por_hora": 2124
-    },
     {
      "canal": "InfoMoney",
      "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
      "url": "https://www.youtube.com/watch?v=n6GDM0mQmgc",
-     "por_hora": 1911
+     "por_hora": 2071
     },
     {
-     "canal": "SBT News",
-     "titulo": "Justiça derruba liminar que suspendeu compra de celulares para senadores | #NewsNoite",
-     "url": "https://www.youtube.com/watch?v=4fec-4lr2MY",
-     "por_hora": 1067
+     "canal": "InfoMoney",
+     "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
+     "url": "https://www.youtube.com/watch?v=s24IbEOkXuc",
+     "por_hora": 1750
     }
    ]
   },
   {
-   "id": "fc7a32512c",
-   "titulo": "Fachin retira sigilo de relatório sobre Mendonça no caso Master",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/20/mendonca-pede-a-fachin-para-tirar-sigilo-de-relatorio-com-mencoes-a-ele-no-caso-master.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T18:14:19+00:00",
+   "id": "7c19ac5ffc",
+   "titulo": "Não se pode conter investimento, diz relator do ajuste fiscal na Câmara",
+   "url": "https://www.cnnbrasil.com.br/politica/nao-se-pode-conter-investimento-diz-relator-do-ajuste-fiscal-na-camara/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-20T19:44:53+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=N%C3%A3o+pode+conter+investimento%2C+diz+relator+ajuste+fiscal+C%C3%A2mara",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Relator do ajuste fiscal: Não podemos conter investimento público | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=nHBPWzljvAQ"
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-defende-aprovacao-do-texto-do-senado.ghtml"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
+     "url": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/"
+    }
+   ],
+   "score": 40.4,
+   "video_url": "https://www.youtube.com/watch?v=nHBPWzljvAQ",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1300,
+   "video_acima_mediana": 2.6,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Relator do ajuste fiscal: Não podemos conter investimento público | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=nHBPWzljvAQ",
+     "por_hora": 1300
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Após aprovação no Senado, pacote fiscal vai para a Câmara: Saiba os próximos passos | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=7FOrTUbpcoU",
+     "por_hora": 104
+    }
+   ]
+  },
+  {
+   "id": "d0d875c4f0",
+   "titulo": "Moraes libera lei da dosimetria para o plenário do STF",
+   "url": "https://www.youtube.com/watch?v=MVYZKAyk-_I",
+   "veiculo": "GloboNews",
+   "publicado": "2026-11-20T17:11:04+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fachin+retira+sigilo+relat%C3%B3rio+sobre+Mendon%C3%A7a+caso+Master",
-   "veiculos": 11,
+   "busca_video": "https://www.youtube.com/results?search_query=Moraes+libera+lei+dosimetria+para+plen%C3%A1rio+STF",
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Poder360",
-     "titulo": "Relatório da PF sobre André Mendonça contém só citações de terceiros",
-     "url": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-sobre-andre-mendonca-contem-so-citacoes-de-terceiros/"
+     "veiculo": "UOL",
+     "titulo": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=BPecjeiczDQ"
     },
     {
      "veiculo": "UOL",
-     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
-     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A"
+     "titulo": "Lei da Dosimetria: Moraes marca para 4 de dezembro julgamento no STF",
+     "url": "https://www.youtube.com/watch?v=b8aisTEe-Ds"
     },
     {
-     "veiculo": "Valor",
-     "titulo": "Ao pedir fim do sigilo de relatório, Mendonça tenta se antecipar a críticas sobre sua relatoria no caso Master",
-     "url": "https://valor.globo.com/politica/noticia/2026/11/20/ao-pedir-fim-do-sigilo-de-relatorio-mendonca-tenta-se-antecipar-a-criticas-sobre-sua-relatoria-no-caso-master.ghtml"
+     "veiculo": "Araraquara Agora",
+     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFc1dEt5Vk9aVFd4bmREekY2ZkVRQ3NHWk54akY5TE1tZ0owYllrWXpCeldxTVBmei1iQTVhS016Zm5aVC02NTN3cVNfR0ktcFduUTBDZks4bTdxR21ORlVQbmpsNGRnTk5VeUdWaGFTcmxta2JyYk95ZHBiWHhvbjN6X3MyWU9yUk4tandYRFVoY0JVM1FYNG56amE5UEk2RFZCQVY2Z1NnOERpQmc?oc=5"
     },
     {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
-     "url": "https://www.youtube.com/watch?v=gROCumReaQw"
+     "veiculo": "Jovem Pan News",
+     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
+     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo"
     }
    ],
-   "score": 48.0,
-   "video_url": "https://www.youtube.com/watch?v=gROCumReaQw",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 2788,
-   "video_acima_mediana": 3.6,
+   "score": 39.9,
+   "video_url": "https://www.youtube.com/watch?v=b8aisTEe-Ds",
+   "video_canal": "UOL",
+   "video_por_hora": 2762,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
-     "canal": "Band Jornalismo",
-     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
-     "url": "https://www.youtube.com/watch?v=gROCumReaQw",
-     "por_hora": 2788
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
-     "url": "https://www.youtube.com/watch?v=vQceU5Oe9DE",
-     "por_hora": 2369
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Ana Flor diz que André Mendonça tenta se 'descolar do caso Master' ao liberar sigilo de relatório",
-     "url": "https://www.youtube.com/watch?v=khuZeGoWPAQ",
-     "por_hora": 2118
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
-     "url": "https://www.youtube.com/watch?v=rIewO_tXltk",
-     "por_hora": 1687
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
-     "url": "https://www.youtube.com/watch?v=a4hncXy1020",
-     "por_hora": 1600
+     "canal": "UOL",
+     "titulo": "Lei da Dosimetria: Moraes marca para 4 de dezembro julgamento no STF",
+     "url": "https://www.youtube.com/watch?v=b8aisTEe-Ds",
+     "por_hora": 2762
     },
     {
      "canal": "UOL",
-     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
-     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A",
-     "por_hora": 903
+     "titulo": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=BPecjeiczDQ",
+     "por_hora": 1578
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
+     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo",
+     "por_hora": 886
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Moraes libera lei da dosimetria para o plenário do STF",
+     "url": "https://www.youtube.com/watch?v=MVYZKAyk-_I",
+     "por_hora": 405
     }
    ]
   },
   {
-   "id": "cd11b0bab3",
-   "titulo": "Ações da Anthropic estreiam com alta de 17% na Nasdaq",
-   "url": "https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml",
+   "id": "5572216d1e",
+   "titulo": "Executivo faz fortuna com IPO da Anthropic, mas ganho poderia ser maior",
+   "url": "https://c-level.folha.uol.com.br/ia/2026/11/executivo-faz-fortuna-com-ipo-da-anthropic-mas-ganho-poderia-ser-maior.shtml",
    "veiculo": "Folha",
-   "publicado": "2026-11-20T18:12:00+00:00",
+   "publicado": "2026-11-20T16:29:00-03:00",
    "temas": [
-    "economia",
     "mercado"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%B5es+Anthropic+estreiam+com+alta+17%25+Nasdaq",
-   "veiculos": 14,
+   "busca_video": "https://www.youtube.com/results?search_query=Executivo+faz+fortuna+com+IPO+Anthropic%2C+mas+ganho+poderia",
+   "veiculos": 8,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Balada IN",
-     "titulo": "Ações da Anthropic caem 8% após estreia histórica na Nasdaq e ampliam cautela com setor de IA",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2I0UlptSFgzbjJUOHZDby1UQTJGZm81N193ZGxzUGllTWFDLVdDcHFfUU15dG9haTVPZHlGbVdaTm84UjNiWWs4Nk1xNUJRNE1mOTFZMW1xUnc1OGVOVi1hQ3B4LUNYTzJ3MzRkakVBYjhIUjcxOGNsbFlGTWNNM29ua0JQWmZfX1ViWXhLQVJ4cnVXWHM2WnhiN3NoMTlUaFhVQzVaZDFlaEhlRkxRd0h5bGx0RzBxcHZIT0J6WGVfZENxeVZjMmlR?oc=5"
+     "veiculo": "Correio do Povo Penedo",
+     "titulo": "Anthropic faz maior IPO da história e dispara na Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWhwMlJIdkJzS3JpT2k0ZU50Z1B3LVU3V2VmMl9IYnhoN29vVjZncFpuRHNzaXpmUU1Nbkk5cEJnQWM2XzZUR2cwYXl2bndQSjZDd1hlaHBQNzd6bF9tcy05NEQwYzV0UDV5bVl1Mi1iUGVBMVptdDh4ZnVnTGFweVlOMEU5cjl2VVFmLUFmSlpCS3lISExIZDFpM1FVMWwzazJYamw5YWs?oc=5"
     },
     {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Ações da Anthropic caem 9% um dia após recorde na Nasdaq",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTdVcHA3WV84T0pzUkVjdTlPM2llX0pvV1hBUXZrdUc5ZG9DMXE0OUVlUlBpR1U5X1l0VGdkSWEydW93djZkZGN4cGRxcExYQXlSbWc1UW5lZGhfaDg5NmxZMkxfMGphcEFqRTk4QkF1MG5JeDBrRUNiR2huWTFzTy1heDdxbi12R1ZsMDBqTWlodXR4NkJMVmFJUm12ZWxGdmprMWR0ZEIwOUdrems0Vm1rcmM3a3NtdmlPTA?oc=5"
+     "veiculo": "Correio do Povo Penedo",
+     "titulo": "Anthropic faz maior IPO da história e dispara na Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEI2c2EzWUlBdlZZXzBORFVxSWtNeDJYSHFDdlMxN3E3a2ZpaUJjaGNhRzNQTGZaN2ZjMHVmblFqSEZ2LXdCWW9PUnZuTm5ZeG9yMFZPamU1OTFnMkQ5VFBPWmE5VHVIM2wwNnQ1TXlwVWhWZjM2Rld6dHhIWUpjeks2LXdJaG4wTjhPSDBJa3BvZWVlaUMweFNwaVl3NnVoRG9vc0xKMkVKZF9UTmc?oc=5"
     },
     {
-     "veiculo": "Valor",
-     "titulo": "Ações da Anthropic caem mais de 9% no pré-mercado de NY",
-     "url": "https://valor.globo.com/financas/noticia/2026/11/20/acoes-da-anthropic-caem-mais-de-9percent-no-pre-mercado-de-ny.ghtml"
+     "veiculo": "Expresso",
+     "titulo": "Anthropic dispara 34% na estreia após IPO recorde",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0c0eHhpdElGSEJPTFFTRmI5YzFMX3pERHNfbXdHLU5jQXBoVGx1MHRUS3lSNjAzbXhDN2FYTnFPZWVVRkxnMnRibVI0VC0wU3JZaVJseVRtaFkxb0JuWU1ZbkpsZjNBcnZyNkl2MFpUdHJMZ180aE1yak5sTGFzSHVWY1I5ZVh4N1RXZDN1cmpqblNNZHBPQVVabjdsOHdfQXZ6dFVCUDZKRC1mTmsxVFdmTjh4SjRQUjRr?oc=5"
     },
     {
-     "veiculo": "Times Brasil | CNBC",
-     "titulo": "Ações da Anthropic caem mais de 13% após estreia na Nasdaq e se aproximam do preço do IPO",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlctRzBfMjVkMGFzYVFHNEJUMUQ0N2g3akJBNzZJdGFBN2RVbU1KR29GZ3JmaVVCVXA3czhvbXhsSk5xdnNYRG5Eem1EZUE4ZlZzM3RDZk5LWWtITF85ckFYUTZ4NE93UTlBS0hzVnlLbDNOU0h2Tk1VVjdQWUROcm9NWkFVSG8wMkJQbC0xZGI5UEJ2ekpITXBVa0FRZzRwOHRzSnE2ME9NT2d6aU1SWXdkc2FiaGtqRkYwWjNWWHU4ZlEzWGdIekp1dXN5QmNoaVE?oc=5"
+     "veiculo": "R7",
+     "titulo": "Anthropic estreia na bolsa dos EUA e bate recorde da Space X",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkhuZi1RSGZEVTQ3S3pibThKX3cwNzhZUkl1UnlrS09oUlI2UUJuMlVzSDZkTGV3blllbkRJZ1NJQ0tEczJtaDR6bk9iVTRGUE9ocnVEY2NnWm1GZ2RBeE1yNENsOGhYWXkzTlZoUUMwYWJSN1EyRTlrMW93QWVfSmhPbXpPNndFQXB0anNlWEF5QkR3dENXUHptN1FUSXRaSVJEOWYxcDFwU2FrODQ2MXN1djBlZw?oc=5"
     }
    ],
-   "score": 43.0,
-   "video_url": "https://www.youtube.com/watch?v=eYnTe_QT6z8",
-   "video_canal": "UOL",
-   "video_por_hora": 295,
+   "score": 39.7,
+   "video_url": "https://www.youtube.com/watch?v=xwlJ2dpvkZ0",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 26,
    "video_acima_mediana": 0.2,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Anthropic na Nasdaq: ações sobem mais de 30% e empresa bate US$ 2 trilhões em valor de mercado",
-     "url": "https://www.youtube.com/watch?v=eYnTe_QT6z8",
-     "por_hora": 295
-    }
-   ]
-  },
-  {
-   "id": "4a4a9e9065",
-   "titulo": "Dólar sobe mais de 1% e fecha a R$ 5,93, maior valor desde abril de 2025, apesar de intervenção do BC; Bolsa recua",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-591-apos-aprovacao-de-pacote-fiscal-no-senado.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-20T17:53:23+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+sobe+mais+fecha+5%2C93%2C+maior+valor+desde+abril",
-   "veiculos": 22,
-   "rotina": true,
-   "outras": [
-    {
-     "veiculo": "Prensa Mercosur",
-     "titulo": "Dólar sobe a R$ 5,93 mesmo com intervenção do BC",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREtYVG5qaVhMcGN5TXpGdzl1MHlCLV9VWDNjUEdDMjcxOTJhd2pMbVNMVFU3UndSWTNhLW1hWFd1LVhMZTZ3TTJBS01rVzk5N0tJZUU0Z19kdGl2VEZJSEkyNnBQLTk0azdBVWVTeHFGdTRRX0M1Nl9kM05Tc1IyMWlFbFNJdHlfdEU0UWVB?oc=5"
-    },
-    {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Dólar sobe 1,16% com intervenção do BC e Ibovespa cai",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BaTNDcjhvaXBqclVUVnFpdUtZVW4ySEtXRmZuTFJmLTJaTTNxa3JtSjM0OXA0MWQxcmdSWGluMS1USmo4aWMzN2hQLU9tbXdSYzU2QXB1U25oeFJvYThhSi10OUY3d3otd0VIRWx6OWhQSlRnTXZJ?oc=5"
-    },
-    {
-     "veiculo": "Acia Araçatuba",
-     "titulo": "Dólar sobe a R$ 5,93 mesmo com intervenção do BC",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3YXdvSWViRS01bTBGOFNPVDg5SGJZUW5FVWVMZWNsWlJOWUVTOEFicnREMEVUa1NIUTFxLWM5WElsQTlXaGRqazlxVnZFLWJnaUZ0M0lCb2JHV0FDUU1qNEZERmtLSXh5bzRFTGp3?oc=5"
-    },
-    {
-     "veiculo": "GCMais",
-     "titulo": "Dólar fecha em R$ 5,93 e Ibovespa cai quase 0,7% nesta quinta-feira (19)",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd05CY1JoX0ZrZ3dNR2FwZFZpU1FWSkRpamNQN3dMODMxZkg4Wm5SMUc2T2NzNUl4aklvVlhXa0hBVm1GTW1ocHA1dkktUnFUZG5IbUZCMWVLNGtpSGpleUZXTU5vSC1PdUpKZHdqeTNoUU82OXZmQU9DT2JvQVJSQWVqaHEwY0w0VXpPY0VmM0RyUkNhX1g0NDFxQm5vUUZid2lVWWVsVEtnQlRQNlpB?oc=5"
-    }
-   ],
-   "score": 41.8
-  },
-  {
-   "id": "609a0438a7",
-   "titulo": "Moraes cita fuga de Flávio Bolsonaro e vota para manter medidas cautelares",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/20/moraes-cita-saida-do-brasil-e-vota-para-manter-medidas-cautelares-contra-flavio-bolsonaro.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T17:56:54+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Moraes+cita+fuga+Fl%C3%A1vio+Bolsonaro+vota+para+manter+medidas",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0"
-    },
-    {
-     "veiculo": "SBT News",
-     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
-     "url": "https://www.youtube.com/watch?v=xNOCreBuVrE"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Flávio Bolsonaro: Moraes vota para negar recurso e manter senador sem passaportes",
-     "url": "https://www.youtube.com/watch?v=tTeJJBdRqt4"
-    }
-   ],
-   "score": 41.5,
-   "video_url": "https://www.youtube.com/watch?v=tTeJJBdRqt4",
-   "video_canal": "UOL",
-   "video_por_hora": 4243,
-   "video_acima_mediana": 3.0,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Flávio Bolsonaro: Moraes vota para negar recurso e manter senador sem passaportes",
-     "url": "https://www.youtube.com/watch?v=tTeJJBdRqt4",
-     "por_hora": 4243
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0",
-     "por_hora": 1426
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg",
-     "por_hora": 314
-    },
-    {
      "canal": "InfoMoney",
-     "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
-     "url": "https://www.youtube.com/watch?v=xNOCreBuVrE",
-     "por_hora": 69
+     "titulo": "Anthropic levanta recorde de US$ 81 bi em IPO com avaliação de US$ 1,5 tri | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=xwlJ2dpvkZ0",
+     "por_hora": 26
     }
    ]
   },
@@ -312,7 +480,7 @@
    "titulo": "BNDES injetou R$ 254 bi de crédito na economia de janeiro a setembro",
    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bndes-injetou-r-254-bi-de-credito-na-economia-de-janeiro-setembro",
    "veiculo": "Agência Brasil",
-   "publicado": "2026-11-20T13:53:37+00:00",
+   "publicado": "2026-11-20T18:58:00+00:00",
    "temas": [
     "economia",
     "mercado"
@@ -320,13 +488,13 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=BNDES+injetou+254+cr%C3%A9dito+economia+janeiro+setembro",
-   "veiculos": 7,
+   "veiculos": 6,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "O Tempo",
-     "titulo": "BNDES registra lucro de R$ 20,3 bilhões até setembro, puxado por venda de ações da Petrobras",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFmeWRfdkdpaEk1R2F0MGVSQjBfcmlZcGpCemUzNl9pejRlUlo0ZjVQWlpsTjFNU0tKQkJSNk02OUp3cklkSkU0Vmw2Z28zcUJUWERnZG1ZaGJzS09UYnpGQ1dNNktCX3RuQ1UzS2ZxendvMER3ODhVV2dsVHJhVzQ5c292MEYyR3hadHc5S2RfMVE0NWJ4M0NBc0R3ckVweHIwN05NbU1GMUhhbUl1LXJIVmQ1SU9HY1FmUFhTNDlzcWRuazJsSTBDbTRJMFo4cHc?oc=5"
+     "veiculo": "Economic News Brasil",
+     "titulo": "Crédito do BNDES cresce 33% em recursos liberados para empresas e projetos até setembro",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fQUdZTjFqTURZV2JaQkRPVmtkem5MaTR0anlvQm53b2ZPc3BCblo4MzMwUFVoUUZfNVNYSmdkdzRLcWxtUEtKaXcyUUtoYTNKSmZmZ1A0amhpX2NkMjVWWTBkMFVSRi1abHQ1STNYMUVhYmh5RzFiTFpBaEI1MGM?oc=5"
     },
     {
      "veiculo": "Monitor Mercantil",
@@ -344,260 +512,141 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTlFhNDhkcGdzZ0JjYnlIQlBobExDTjRPR1JSdW1qXzVQVjEwei0xbWlhbnpJdHFsMi1hdGNuUlZlcHVTRml3SVIxSjFtVlZvVWs0ZXlRU0o2b3BEV3FUb0pfSDdQaGlnRG9mODVBaklSRnhDOEk3eWdqS0JYUFR5bTRmOWVINm90OUpYRWVaUzlaanVfVkpNNWxidXY3a3dUS3FPal9Edw?oc=5"
     }
    ],
-   "score": 41.1
+   "score": 39.5
   },
   {
-   "id": "4198a9a008",
-   "titulo": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSFNVcjZVbTN6Qnd0clpxSDkydXhmNlBDS1I1MGJTV3BhRkQwTDFZc1E4QTlXWGJnaEJGNlZjeFdSX25vU3BHcGxkUmVOdWJzMjJzaTVxQk1jcVpkcHVLMUVqNm5Mc1VTZ1oyUjk5d01WTlI2YTNuQTlRUGhHT2JtRUZUc21JalRCMkVXa200dURCWTRwUVJHQVRtUU81UTFlb2cxS281QVdQWnlmTVBQdTlUYmJ3VE1J0gG-AUFVX3lxTFBtYV9HQlBKb0VlN0dBc28tWGh1dGlHMmw3ZnVKbjFSNFhGS2VvMXZXNG9JanFVOXVSNDh0TkM5QUhVM0IyX0xYYmo0ZkRGS2xXejJMczIyYkthczJjdjk4X29Fd0lWOUpxeEl3YUZvaEhHcFE1S0V4VlFvZ204N0ZsV3E2cGNhZktYclNDaW5WQ1U3bmxtRWwtUmxZZFRXbHEyc3lZVllITHZ1SGJVbUJoUDdDRHlzSng1ZklwcVE?oc=5",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-20T18:14:33+00:00",
+   "id": "09e77fecd2",
+   "titulo": "Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilhões com estreia na bolsa; veja ranking",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-fortunas-de-fundadores-disparam-apos-estreia-na-bolsa-veja-ranking.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-20T18:12:00+00:00",
    "temas": [
-    "economia",
     "mercado"
    ],
    "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Bessent+defende+alta+mais+moderada+dos+juros+pelo+Fed",
-   "veiculos": 7,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Anthropic+fortunas+fundadores+disparam+somam+817%2C5+bilh%C3%B5es+com+estreia",
+   "veiculos": 8,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "boca.com.br",
-     "titulo": "Secretário do Tesouro dos EUA critica aumento de juros do Fed",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWVCcEJvWm5iZy1KT1lJWXlnUzdoWXNfTS1mb04zd0s3S3BXR1FSc3pRaVlzTGUyVHI3TlNKVlZ6cmtiSGNLU2VhSDZkR1doU2FWa0dfTmNnUm1rTmRJeXNNWE50TGZSSk9IR2szVTEyNWl2T2FiUjd0N2JEa3VDSEJsSDFDYXkxX05IQUlia3p6TDJk?oc=5"
+     "veiculo": "Balada IN",
+     "titulo": "Ações da Anthropic caem 8% após estreia histórica na Nasdaq e ampliam cautela com setor de IA",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2I0UlptSFgzbjJUOHZDby1UQTJGZm81N193ZGxzUGllTWFDLVdDcHFfUU15dG9haTVPZHlGbVdaTm84UjNiWWs4Nk1xNUJRNE1mOTFZMW1xUnc1OGVOVi1hQ3B4LUNYTzJ3MzRkakVBYjhIUjcxOGNsbFlGTWNNM29ua0JQWmZfX1ViWXhLQVJ4cnVXWHM2WnhiN3NoMTlUaFhVQzVaZDFlaEhlRkxRd0h5bGx0RzBxcHZIT0J6WGVfZENxeVZjMmlR?oc=5"
     },
     {
-     "veiculo": "Canal Rural",
-     "titulo": "Bessent critica Fed por discutir alta maior de juros nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTVjZ2RRUDdCMFVkR3VYVXNfNWFGeVJEY0RYQ0Y1X0V2VFB2ZlZrU3BDQXdhQnhZVTdfYzNPX1EwTi1KZ25Wbll3OWZEVm1Sbmg1RlRYMXVvNm1Fd1R0TVV2YWlLalM3QVh6SWlKUGtiMnZEMWtkWmpQejh6TElick1iOEZ0RW9obExpZGpTX2ZIa1B5dTNIV25hb28xRHhZWUE?oc=5"
+     "veiculo": "www.bra1.com.br",
+     "titulo": "Ações da Anthropic caem após estreia histórica na bolsa, em meio a crise do setor de tecnologia",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUN2U2cxeG9Ya3NEcEc0TG9WOWRKVHlWeHhmVFdYWGw1RnZEaUNQNkRpRXh0QmN6ZzZnczdrWHdMWWltRG5Vc2pUeE1TYlh3NWRucFdMZjF6M1hMM3U0QzhQWUYwX011VW1DWDE3LU5iNFByTDR6LTRHYmxSWTc3YXpXLWxZeVR6d2I1dU45S21lOXdyTWhqWmEtU25GQ3RPRE1xNmh5bzhFMnJwcU83Y0lBWVU0RnNQdVdFVGo5Z3d6YmFTZEFXRnozYnpoVVU1OGgzTQ?oc=5"
     },
     {
-     "veiculo": "UOL Economia",
-     "titulo": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRHFxaW9TOUFhczFOVlZ0eG15dGhLUHJDU0pTVEZRRWhyelU2LWF3NWpKdHBXY2l3Mmt2cEVDV21fakpxcWZUajZkTk1tYU1SdU1HMWZwRW45Y1VyLWJyQnlPemJmZDJxYzV6c0h5QTZsZUtaeHJJQXhuWW52SWV3ek8zUVhoXzZ6eXBiaTE0UDB2SXhSVkRMMWIzb09LYjRJbVpzRDdRaTdzUXUweGZXRHpfT1FEZnplSzN1MHp1eHRUQWtPWXpZNVgwX0pYWGM5LWpuaA?oc=5"
+     "veiculo": "TV Sim Brasil",
+     "titulo": "Ações da Anthropic caem 9% um dia após recorde na Nasdaq",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTdVcHA3WV84T0pzUkVjdTlPM2llX0pvV1hBUXZrdUc5ZG9DMXE0OUVlUlBpR1U5X1l0VGdkSWEydW93djZkZGN4cGRxcExYQXlSbWc1UW5lZGhfaDg5NmxZMkxfMGphcEFqRTk4QkF1MG5JeDBrRUNiR2huWTFzTy1heDdxbi12R1ZsMDBqTWlodXR4NkJMVmFJUm12ZWxGdmprMWR0ZEIwOUdrems0Vm1rcmM3a3NtdmlPTA?oc=5"
     },
     {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia Por Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTldvTHRRTkJyaTlOZzk0TmNMNk96WVlUcGM1LUJyQmZNNHJBOGhHTE1GbjBsU1NxOTJRcDlJLUo1VlFia29hNHFTY1JDNnZqOXVMcGVHSmp1bVB2UkdkXzcyLTdMRHo0cUVSb1J1cExvNTlpMDl4bGRfSXpKc2UyYXFkSmMxc2JHZ1BIZ2hrRDZ5UmlpUTg4REljSDNfUXl1RmNiOXNwSDNMMVd6bWJhRFUyLVA3VnR1d3FzMGhzQnY2OEFXOUdZVw?oc=5"
+     "veiculo": "G1",
+     "titulo": "Anthropic estreia na bolsa de valores batendo recorde",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORmdtZjZzcThTY2UxN2hFSkEyUTRHTFY2WU9XU2ZCRWpFS2J2VEVZRERzWXdoSk1oWTBFTW1TNEdqcVNHa09GcUtJVm1vT240OXJxUzNWOExLYzBlT1J6MXN3WjVFU210TGZFLUlBVk9JQTZYYkRST3YwMEU5X3dPV3VwWm9EekhiUFFqbzlaSGVDVnIwVmFuSHBOZ3RfZ09fTmVSZ3FQU2RYcE9UQkdUVmRxVGFwSVIycElDcTB30gG-AUFVX3lxTE5GZ21mNnNxOFNjZTE3aEVKQTJRNEdMVjZZT1dTZkJFakVLYnZURVlERHNZd2hKTWhZMEVNbVM0R2pxU0drT0ZxS0lWbW9PbjQ5cnFTM1Y4TEtjMGVPUnoxc3daNUVTbXRMZkUtSUFWT0lBNlhiRFJPdjAwRTlfd09XdXBab0R6SGJQUWpvOVpIZUNWcjBWYW5IcE5ndF9nT19OZVJncVBTZFhwT1RCR1RWZHFUYXBJUjJwSUNxMHc?oc=5"
     }
    ],
-   "score": 39.9
+   "score": 39.2
   },
   {
-   "id": "43b76a2593",
-   "titulo": "Alexandre de Moraes pauta para dezembro julgamento sobre Lei da Dosimetria",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/19/alexandre-de-moraes-pauta-julgamento-de-acoes-da-lei-da-dosimetria-para-dezembro.ghtml",
+   "id": "f283ecc37e",
+   "titulo": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/20/galpolo-alertou-pf-sobre-possvel-plano-de-fuga-de-vorcaro.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-20T17:11:04+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alexandre+Moraes+pauta+para+dezembro+julgamento+sobre+Lei+Dosimetria",
-   "veiculos": 10,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=BPecjeiczDQ"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Lei da Dosimetria: Moraes marca para 4 de dezembro julgamento no STF",
-     "url": "https://www.youtube.com/watch?v=b8aisTEe-Ds"
-    },
-    {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
-     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo"
-    },
-    {
-     "veiculo": "Araraquara Agora",
-     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFc1dEt5Vk9aVFd4bmREekY2ZkVRQ3NHWk54akY5TE1tZ0owYllrWXpCeldxTVBmei1iQTVhS016Zm5aVC02NTN3cVNfR0ktcFduUTBDZks4bTdxR21ORlVQbmpsNGRnTk5VeUdWaGFTcmxta2JyYk95ZHBiWHhvbjN6X3MyWU9yUk4tandYRFVoY0JVM1FYNG56amE5UEk2RFZCQVY2Z1NnOERpQmc?oc=5"
-    }
-   ],
-   "score": 39.9,
-   "video_url": "https://www.youtube.com/watch?v=b8aisTEe-Ds",
-   "video_canal": "UOL",
-   "video_por_hora": 1162,
-   "video_acima_mediana": 0.8,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Lei da Dosimetria: Moraes marca para 4 de dezembro julgamento no STF",
-     "url": "https://www.youtube.com/watch?v=b8aisTEe-Ds",
-     "por_hora": 1162
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
-     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo",
-     "por_hora": 1040
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Moraes libera lei da dosimetria para o plenário do STF",
-     "url": "https://www.youtube.com/watch?v=MVYZKAyk-_I",
-     "por_hora": 430
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=BPecjeiczDQ",
-     "por_hora": 384
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Moraes marca data para julgar Lei da Dosimetria",
-     "url": "https://www.youtube.com/watch?v=TvmFjgLwjtQ",
-     "por_hora": 315
-    }
-   ]
-  },
-  {
-   "id": "0590e5940b",
-   "titulo": "Galípolo nega à PF ter pedido 'voto de confiança' sobre solução do Banco Master com BRB",
-   "url": "https://exame.com/brasil/galipolo-nega-a-pf-ter-pedido-voto-de-confianca-sobre-solucao-do-banco-master-com-brb/",
-   "veiculo": "Exame",
-   "publicado": "2026-11-20T17:53:23+00:00",
+   "publicado": "2026-11-20T19:37:58+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+nega+ter+pedido+voto+confian%C3%A7a+sobre+solu%C3%A7%C3%A3o+Banco",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Prensa Mercosur",
-     "titulo": "Galípolo nega ter pedido ‘voto de confiança’ para compra do Master pelo BRB",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGd2VWlYRzc4NzNRNlZqSm1QWjNtb3U5RXRKMmh5b01JeTZEQXpqTUdlZGVPOFBqSEZOLWtWc2FsbFpmd3Zzal9CSy1IUFBwWkRxR2JlcHZMUERad0RxUnI2UnlkV0xsenM1ZVJtVEF3VXZmTlFpb0t1OXFlaWxyU2Q0ZFU3VUx3TTJGVmVhMVN0cERHYXZyNGlZNWRsR0ZrWGRMREswNXFwWTlZOENiMjV3?oc=5"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Galípolo nega à PF ter pedido 'voto de confiança' sobre solução do Banco Master com BRB",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnZ2WUNIbWw4c3ZFMFZvSjVMa3dGcW5jNG1zd0hvM0lJZ0VkQkIwdDl6ck95Q0xrZWVoX3pSUm1Ld29OVDJCV2dVcGZfSFROVnVvMFNDNjJKWWdBdFYwMGRvclhDTWtJUl9wdDV0ckIwWXpoOHdwVjB1TzdRdDRkRUlUYnVPZzJpUFJoZGtWb1pELVhueVMxWFJOSVpaa2lvQUV5UUFpZTFLbGwzdnlXNQ?oc=5"
-    },
-    {
-     "veiculo": "www.radio96fmns.com.br",
-     "titulo": "Compra do Master pelo BRB foi discutida em jantares na casa de Galípolo, diz ex-diretor do BC",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMll5Mk9kLXFvNURzbzM1dVZmeURxb1JHQkIxVXZUMTcxU1c5Rnk2VFlNV2xzcEJ3c091OUh1aXlfZjI3a2pKM2ZqdmJzWjFQUjE1TGRSOWpwSFpSUmRWaUpoa0xGWk00aU9sc0FBeGd1MnVUTzVNNGh2RjVKS01heUZ0SW4yTzhRWUswUU5RNGFNWERSSUhVOU5rUlpEOWFMMHpXSUVDUHhxc1lUbGdsaVF6ZXQ0c3p5VUFWLWo5WHU0MFlnVXc?oc=5"
-    },
-    {
-     "veiculo": "www.radio96fmns.com.br",
-     "titulo": "Compra do Master pelo BRB foi discutida em jantares na casa de Galípolo, diz ex-diretor do BC",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMll5Mk9kLXFvNURzbzM1dVZmeURxb1JHQkIxVXZUMTcxU1c5Rnk2VFlNV2xzcEJ3c091OUh1aXlfZjI3a2pKM2ZqdmJzWjFQUjE1TGRSOWpwSFpSUmRWaUpoa0xGWk00aU9sc0FBeGd1MnVUTzVNNGh2RjVKS01heUZ0SW4yTzhRWUswUU5RNGFNWERSSUhVOU5rUlpEOWFMMHpXSUVDUHhxc1lUbGdsaVF6ZXQ0c3p5VUFWLWo5WHU0MFlnVXc?oc=5"
-    }
-   ],
-   "score": 38.8
-  },
-  {
-   "id": "005df17b89",
-   "titulo": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro | LIVE CNN",
-   "url": "https://www.youtube.com/watch?v=iZYRYmaUYHM",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-20T17:50:00+00:00",
-   "temas": [
-    "economia"
-   ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+diz+que+ligou+para+para+alertar+sobre+poss%C3%ADvel",
-   "veiculos": 28,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+alertou+sobre+poss%C3%ADvel+plano+fuga+Vorcaro",
+   "veiculos": 34,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Pleno.News",
-     "titulo": "Galípolo diz que alertou PF sobre risco de Vorcaro fugir do país",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5Ud040ZnJES0JTZ1J0amc5UW1TZ0tJdHlWRUNlT05YZ1ZyVXpwOWhvMGZBMFM2Yl9WU0wzYUJ5YmtJVHZPRS05bVZJTjlYMFRtaWtfQ2dTVGVxclZ1akROWmY1cEVSU3h1YVhpYVVlOUdYNkg1NFF3MjBwM2VFSlFHT2hPaG9vVkd1Qjdsb1hMdjc0NEpkSURXMA?oc=5"
+     "veiculo": "correiodobrasil.com.br",
+     "titulo": "Vorcaro foi preso depois que Galípolo acionou a PF e alertou para fuga",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnhLTDR6QTVYaXMtWFlqajR5Q0dFYkpXN3d2OEJjWnJXbkVOZUxiX0VTVkhrMWUySlRUMXdlVGxGSDFPVE5takNWVnJ6dGVyTm1EbjlGMHJkSzlfLXRlaXJPSl9EckhUc3hSMGJJcUdFUlNvYlpGLUZEeHNzTlJ1X1NqalhLWGFhYUNhcGcwOA?oc=5"
     },
     {
-     "veiculo": "Pleno.News",
-     "titulo": "Galípolo diz que alertou PF sobre risco de Vorcaro fugir do país",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5Ud040ZnJES0JTZ1J0amc5UW1TZ0tJdHlWRUNlT05YZ1ZyVXpwOWhvMGZBMFM2Yl9WU0wzYUJ5YmtJVHZPRS05bVZJTjlYMFRtaWtfQ2dTVGVxclZ1akROWmY1cEVSU3h1YVhpYVVlOUdYNkg1NFF3MjBwM2VFSlFHT2hPaG9vVkd1Qjdsb1hMdjc0NEpkSURXMA?oc=5"
+     "veiculo": "Valor Econômico",
+     "titulo": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeS1IWlh4UmFvdDFwT3NVLWpRaDZDZEpPaTFGbkFUMzBiOVpaa1JFamIwUDJYTXJfMFBEWjhheHZuSlcyczR5cDVUTEZhT3pZekVlSDJTQlNCNXkxamxDcVlwUTlWNWxPWHdkaVVvbGdxVnhsMWJMeGdDZ1dXWWJObVZsbjR5NGRzdjZVb2VVOUw5b3FMMHRLcUdJbTBva3QtSm85V3V0ajVRWTBZU0ItY2RYNlhZUdIBxAFBVV95cUxPXzRSbjZ0ak9KVzEtNS1YdkdBOEdPOVNCNXg1QnI5bU51N0hPdmhJcnNnMS1SN0JEVlFuT1h6UGM0aHM5akViaXR3THJoSjBxZ2NUbUFFc29Dc0pIcnBya18xd1FOU2Ryekd4cHhIOGQ5SnpSdWVlMmY4cUY2eGJWM0dXeFZJMHN6aHFFWFp2WU8zMmFURG5laENPRk50WkMyczdBalNrMjdzMEtsdTB2c0pyT3Y4aTVTZ0lub1F5enVwbGgx?oc=5"
     },
     {
-     "veiculo": "GloboNews",
-     "titulo": "Gabriel Galípolo diz que alertou PF sobre possível fuga de Daniel Vorcaro",
-     "url": "https://www.youtube.com/watch?v=BDrf8-iYTik"
+     "veiculo": "Área VIP",
+     "titulo": "Galípolo fala que avisou PF sobre fuga de Vorcaro",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjBfallZcWJzWHA2VDNrM2k1S3FLZ2xGQjhSeF9ITWlHdllPUXVNYzJZM29WY1A0Q1NISE9vTld1ekJIbFJsQ1I1QkJ1dG5ZTXhteXc3SFRyOU1KdnNZMGx2VHllNk50UFJrZzRybFhDYjcyNC1JNjlBc2g5UkRyc0NyaU5kZXBYMmNHT1RMQ2MyMm0wdm9DUVZrMA?oc=5"
     },
     {
-     "veiculo": "Times Brasil | CNBC",
-     "titulo": "Caso Master: Galípolo diz à PF ter alertado sobre risco de fuga de Vorcaro",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVNRajVWSEM4REM2SWM3ektwbG1qUmJ2TVFqWEVsU2NtWmRGSS10UDh2WHhaY2VOQzdpRlZpX2pGT2Q5dXhINzczUzFfaWFYQk1HeFJfNHZVaXJyLUNuM3pSNjcwMGx4bk5WLXlEOXM4WjhjS00ySTFNVUpCLThUQTUxUnZIVkN0QXNRQWpuSkpEcDJxbnpLSGpLa2l5c0t2VDBmbXF6dy0wUW8x?oc=5"
+     "veiculo": "Área VIP",
+     "titulo": "Galípolo fala que avisou PF sobre fuga de Vorcaro",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjBfallZcWJzWHA2VDNrM2k1S3FLZ2xGQjhSeF9ITWlHdllPUXVNYzJZM29WY1A0Q1NISE9vTld1ekJIbFJsQ1I1QkJ1dG5ZTXhteXc3SFRyOU1KdnNZMGx2VHllNk50UFJrZzRybFhDYjcyNC1JNjlBc2g5UkRyc0NyaU5kZXBYMmNHT1RMQ2MyMm0wdm9DUVZrMA?oc=5"
     }
    ],
-   "score": 38.5,
-   "video_url": "https://www.youtube.com/watch?v=iZYRYmaUYHM",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 2000,
-   "video_acima_mediana": 3.0,
+   "score": 37.2,
+   "video_url": "https://www.youtube.com/watch?v=3TIEazoEIeM",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 983,
+   "video_acima_mediana": 1.8,
    "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=iZYRYmaUYHM",
-     "por_hora": 2000
-    },
     {
      "canal": "Jovem Pan News",
      "titulo": "Galípolo diz que alertou a PF sobre fuga de Vorcaro e gastos chocam",
      "url": "https://www.youtube.com/watch?v=3TIEazoEIeM",
-     "por_hora": 1125
+     "por_hora": 983
     },
     {
      "canal": "GloboNews",
      "titulo": "Gabriel Galípolo diz que alertou PF sobre possível fuga de Daniel Vorcaro",
      "url": "https://www.youtube.com/watch?v=BDrf8-iYTik",
-     "por_hora": 655
+     "por_hora": 534
     }
    ]
   },
   {
-   "id": "17375139e0",
-   "titulo": "Recuo das ações da Anthropic após estreia na bolsa serve de alerta sobre o setor de IA",
-   "url": "https://valor.globo.com/empresas/noticia/2026/11/20/recuo-das-aes-da-anthropic-aps-estreia-na-bolsa-serve-de-alerta-sobre-o-setor-de-ia.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T14:50:35+00:00",
+   "id": "4921c8b943",
+   "titulo": "Trump chama Fed de “político” e reclama de juros altos",
+   "url": "https://www.poder360.com.br/poder-internacional/trump-chama-fed-de-politico-e-reclama-de-juros-altos/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-20T19:23:25+00:00",
    "temas": [
+    "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Recuo+das+a%C3%A7%C3%B5es+Anthropic+ap%C3%B3s+estreia+bolsa+serve+alerta",
-   "veiculos": 8,
+   "busca_video": "https://www.youtube.com/results?search_query=Trump+chama+Fed+pol%C3%ADtico+reclama+juros+altos",
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "G1",
-     "titulo": "Anthropic estreia na bolsa de valores batendo recorde",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORmdtZjZzcThTY2UxN2hFSkEyUTRHTFY2WU9XU2ZCRWpFS2J2VEVZRERzWXdoSk1oWTBFTW1TNEdqcVNHa09GcUtJVm1vT240OXJxUzNWOExLYzBlT1J6MXN3WjVFU210TGZFLUlBVk9JQTZYYkRST3YwMEU5X3dPV3VwWm9EekhiUFFqbzlaSGVDVnIwVmFuSHBOZ3RfZ09fTmVSZ3FQU2RYcE9UQkdUVmRxVGFwSVIycElDcTB30gG-AUFVX3lxTE5GZ21mNnNxOFNjZTE3aEVKQTJRNEdMVjZZT1dTZkJFakVLYnZURVlERHNZd2hKTWhZMEVNbVM0R2pxU0drT0ZxS0lWbW9PbjQ5cnFTM1Y4TEtjMGVPUnoxc3daNUVTbXRMZkUtSUFWT0lBNlhiRFJPdjAwRTlfd09XdXBab0R6SGJQUWpvOVpIZUNWcjBWYW5IcE5ndF9nT19OZVJncVBTZFhwT1RCR1RWZHFUYXBJUjJwSUNxMHc?oc=5"
+     "veiculo": "Poder360",
+     "titulo": "Trump chama Fed de “político” e reclama de juros altos",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOek5jTldlTDdpWk9YcVZiekxTNy1XbExoY0k1LVlmWU1YWHBQbHFIVjNHUEI0akVBZzRxQTFyd3U3NUdTMVFLUUk2WlFlUVN0RWxjQzQyVDdqRmI1eHM5b2pYeDVQSERvQXlBeUlUTVdvYjEwQ1RONWdVRTZaS0hBWG40MmJGWUVzeG9vamN1bndnVUxvMGpzZnNiblVTam40M2tB?oc=5"
     },
     {
-     "veiculo": "Suno - Investimentos Inteligentes",
-     "titulo": "Anthropic (ANTH34) estreia com recorde: veja quais foram os maiores IPOs de 2026",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSTdOT1NsaVJZN3d1Q0xQSWxudHo4eUFvZVZFN3AxZ2FMRTdKUEw2UWllZXEtVXVfM1gxNUhVaUF0REdfak5vZmN3bEszYUd5bEHSAVdBVV95cUxQRDlMUGIxY3NrR3gyVDNlRFRVQWpDQzd2V1JDaWVtRjBYaHpXcnJ1WGhfTXJLcmVPckJ0M1BVYXFvX0QxUjdjUnYzZGVJMkgzUGZ3MGtTOTQ?oc=5"
+     "veiculo": "UOL Economia",
+     "titulo": "Juros estão muito altos porque temos um Fed muito político, avalia Trump",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcVBnR3Fld2Npc0xLTVlFQlVGN2NuOFo4Sl9jS0tqQ3lGQUxXVTVQZ0tnR3NIajE0cFhsbVBQbnhtR0RhZ0NJTG5mUTNRMUhBNjdPNkZHTk04WWhZXzRxWmE0c0pteFhIeGR0MnhKSlpqRWR0U2cwdlo4Sm5qTmdsOHRQNlpPWE5uUl9HVU02cnhwRkhGODVLck1zTG1mTzZfN1IzbWRUSzVoeUl6MVRNZGdiQ0tVYkpfbmxHYzF5cnpQeDZTbkpEN0tuc2ZXODJmd2ItTFFyTQ?oc=5"
     },
     {
-     "veiculo": "R7",
-     "titulo": "Anthropic estreia na bolsa dos EUA e bate recorde da Space X",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkhuZi1RSGZEVTQ3S3pibThKX3cwNzhZUkl1UnlrS09oUlI2UUJuMlVzSDZkTGV3blllbkRJZ1NJQ0tEczJtaDR6bk9iVTRGUE9ocnVEY2NnWm1GZ2RBeE1yNENsOGhYWXkzTlZoUUMwYWJSN1EyRTlrMW93QWVfSmhPbXpPNndFQXB0anNlWEF5QkR3dENXUHptN1FUSXRaSVJEOWYxcDFwU2FrODQ2MXN1djBlZw?oc=5"
+     "veiculo": "SBT News",
+     "titulo": "Trump diz que juros estão altos porque Fed é político",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk11SlFfc0RmT0JWYmZiVENta3dnRG1BaGlTNEo1TnNHTkxUN0ZpYXF4Y0ZzY2N1UzNEYXR1S1JLY29HRWZWMVQzZ29sXzNSRTV5Q0tsd1R3VHRLa3hpMEtHUVZnazhuelk5R1UtNnhURDVZRzF5N1prNmVsZ2tCdnJzMnhzSnZZYXRyN1BzMVpKaXY3ZmN6b0pn?oc=5"
     },
     {
-     "veiculo": "SIC Notícias",
-     "titulo": "10 minutos: Anthropic bate recorde em estreia em bolsa e ultrapassa marca da SpaceX",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdXBBNzlLUDBScXh0ZjBYYWR1ZGp6SkY3VFdvMXBfcWZZUGRuY29fNTZfWlk1R3hTUnFTVGJxRTBrRDFaY3dyTGJFaXZXTUpTMlNGbnVSSURzNk9LU0JSTGFycFFiZGtyRWFySmNpbTU5TnotMzZJblNtVE9sakZTQVNSZkZPQ25qRVIwZVZ6YnFjMWJnVzFRQ041akdiLURQQU9ublBhTWl5OEJtclBqQl9QY3RTd2dBTjVzUHFWWjQ5T2J4SlVwd2t6RUt6dVcxTEg3VEFYYzRXUE1wOE52cGtnbURPZkZEVWpZRmdBNGpqWFJtQmxkajlPS0FDMkZVV2tfVi1vNEhDa0FBaHc?oc=5"
+     "veiculo": "CNN Brasil",
+     "titulo": "Trump afirma que taxas de juros estão altas porque Fed é “político”",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-afirma-que-taxas-de-juros-estao-altas-porque-fed-e-politico/"
     }
    ],
-   "score": 38.5
+   "score": 36.7
   },
   {
    "id": "a358bdc79d",
@@ -613,18 +662,13 @@
    "video": false,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Banco+Central+amplia+acesso+cooperativas+mercado+aberto",
-   "veiculos": 9,
+   "veiculos": 8,
    "rotina": false,
    "outras": [
     {
      "veiculo": "Jornal Panorama Minas",
      "titulo": "Banco Central amplia acesso de cooperativas ao mercado aberto",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHRnME14MnB4UC1NYjU5Q3lhdWJPb1VzN3NHUnp1N3VXaXBxbjRpMkhDSGtwRW83cjZEYlF3UzZpdHBmNTBseGluNjBUX2puRFoybmwwSGt6QWhLdDJsdGtFUjkzS2dFWTBtblBwbzY2S0Z0eEoxbVVGSWM5SGhORHNweWVkdGhxNXYxVUUwNnRxMjZYOFZRLXp5WmZXZw?oc=5"
-    },
-    {
-     "veiculo": "Impactto News",
-     "titulo": "Banco Central amplia acesso de cooperativas a operações com títulos públicos",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzBjS0dNNjc2SGNBM01aZ0FUOEZSY3YtVjZ5V2stSFBBQzlWV1RldTZaZTRNM1ZJMVdvLW0wQVRLc1NvaEcyaXlnVDFrWm1uVmhzT3ZyR1ZSay1BbGRETzUxdFlselV2WVNYRElpbjlyS2dDb3ZfeDQ1MDY3Rmd1bllVb0hrWWgxMTJYZkkxcEdlVUs0M0dQdFBKUDNUOGhnSFFqUjNjcllmMEJpYnBvVW9ldGd6UEpTNU0wcw?oc=5"
     },
     {
      "veiculo": "Acia Araçatuba",
@@ -635,65 +679,70 @@
      "veiculo": "PlanetaOsasco.com",
      "titulo": "Banco Central aprova mudanças para ampliar acesso ao mercado financeiro",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmxWcF95bEg1dlRlLVl5M2ItSVpjZkR4UTNaRC1va0NCQnd4bERINFYtRXFTLVBrZmhQVk1UdTBHc08xSnJ6aUFuMHRWWlJ6WC1rMXZxakF4NkRhTmJGS25iWnR5ZVRyQlJaY3RYX0Jqam5YZ25UTlRTN0dwUmJhMjhlOGM0NW1OODExMkI5OG1fZ1BlcHlrQW9QbkxHdFQyczdMYmV5YUZNMEVqT3pxMy04TQ?oc=5"
+    },
+    {
+     "veiculo": "Brasil Inovador",
+     "titulo": "Banco Central amplia acesso de cooperativas de crédito ao mercado aberto e moderniza regras do Selic",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMi1NSXh0bEgweGJlTVdPTS1fLW15aDNmWld5aFNlZjFYTVhyOXpYcE1zWXctTm91cjB5OTlua3Q5eXZLMmE0UDNpekFObkxPNUxFeVBHLWNPUndJd1J0R1BRLWZza0l1dmxYemU1VWItSDIxUVljaXFqTGNrTm9sZHdtTWtWWllDZDNsR05MR29JQ3YzY2FkSjZ2Qm41aUd5YzJVc210TUNoMzllVjJMRThZOXZkaHRtbURlcHl3emVURTgwX01tSnVDZw?oc=5"
     }
    ],
-   "score": 37.4
+   "score": 36.7
   },
   {
-   "id": "895cad9674",
-   "titulo": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-defende-aprovacao-do-texto-do-senado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T11:00:17+00:00",
+   "id": "d638a83c4b",
+   "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
+   "url": "https://www.youtube.com/watch?v=xNOCreBuVrE",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-20T18:31:00+00:00",
    "temas": [
-    "economia",
     "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Relator+ajuste+fiscal+C%C3%A2mara+defende+aprova%C3%A7%C3%A3o+texto+Senado",
-   "veiculos": 8,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Moraes+vota+para+deixar+Fl%C3%A1vio+sem+passaportes+proibido+contatar",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Jornal Grande Bahia",
-     "titulo": "Hugo Motta defende ajuste fiscal mais robusto no Governo Lula e anuncia debate de pacote econômico na Câmara dos Deputados",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZXdYZ2NTb1VBSWZfVDlXNTFURGJfeXRKYk5QOGU1SFEzaGdIZWtHVlg3cVotSHpUcUxnM2diQUZ3Z3JjMjlvZGduQXduRU9VakE1cFAxR0NiR3BTUC1hU0o3LUVHMVFjQTJnajYzWUNyRlVrb3BZWU5tMk1MYjNPR09QWHZUNWMwblpITi0wa0NhSFVvVTc3VG44NEdQMFRiLXVSRFFNbzQtQm1QYVFxb1N2SDZxcFRVeFlMY2cxR3RMTGZ3ZjlqRHdhZEFPeVM5ejRQT2t0Nmc3LW03ekVvMng2LTVuaUlCXy1PT2tJUDRtOGtFUlhv?oc=5"
-    },
-    {
-     "veiculo": "Jornal Grande Bahia",
-     "titulo": "Hugo Motta defende ajuste fiscal mais robusto no Governo Lula e anuncia debate de pacote econômico na Câmara dos Deputados",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZXdYZ2NTb1VBSWZfVDlXNTFURGJfeXRKYk5QOGU1SFEzaGdIZWtHVlg3cVotSHpUcUxnM2diQUZ3Z3JjMjlvZGduQXduRU9VakE1cFAxR0NiR3BTUC1hU0o3LUVHMVFjQTJnajYzWUNyRlVrb3BZWU5tMk1MYjNPR09QWHZUNWMwblpITi0wa0NhSFVvVTc3VG44NEdQMFRiLXVSRFFNbzQtQm1QYVFxb1N2SDZxcFRVeFlMY2cxR3RMTGZ3ZjlqRHdhZEFPeVM5ejRQT2t0Nmc3LW03ekVvMng2LTVuaUlCXy1PT2tJUDRtOGtFUlhv?oc=5"
+     "veiculo": "MT HOJE",
+     "titulo": "Moraes mantém prisão de Flávio Bolsonaro e impede uso de passaportes",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFV0SEFEbXJqcGxMdkVwc09jZlJIakI3Y25UOE1nR2V6TC1mTWE2dmY1WWtvbHRmblB0bjRwMFg2QXpNV3BBekpyODZqRW1qT3J1YkxqZVJfdnVPaTRhamF5RVhkdVBObGFrR1dhQlRJZFJSMy1UWElUMzJkYm0tV2F6RUh2bW5feVRfcWJZb3FSUUhUMTNsT3FMZ2VIcmFvbEwxQ2JkSnhsZWxpSldFM2lKRQ?oc=5"
     },
     {
      "veiculo": "UOL",
-     "titulo": "Ajuste fiscal: Tabata Amaral diz que volta do texto ao Senado seria bem recebida, mas improvável",
-     "url": "https://www.youtube.com/watch?v=YPPz--DRJZE"
+     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0"
     },
     {
-     "veiculo": "Estadão",
-     "titulo": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
-     "url": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/"
+     "veiculo": "SBT News",
+     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg"
     }
    ],
-   "score": 37.2,
-   "video_url": "https://www.youtube.com/watch?v=YPPz--DRJZE",
+   "score": 36.6,
+   "video_url": "https://www.youtube.com/watch?v=TrYxGUeuaj0",
    "video_canal": "UOL",
-   "video_por_hora": 905,
-   "video_acima_mediana": 0.6,
+   "video_por_hora": 3243,
+   "video_acima_mediana": 1.1,
    "videos": [
     {
      "canal": "UOL",
-     "titulo": "Ajuste fiscal: Tabata Amaral diz que volta do texto ao Senado seria bem recebida, mas improvável",
-     "url": "https://www.youtube.com/watch?v=YPPz--DRJZE",
-     "por_hora": 905
+     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0",
+     "por_hora": 3243
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg",
+     "por_hora": 2017
     },
     {
      "canal": "InfoMoney",
-     "titulo": "Após aprovação no Senado, pacote fiscal vai para a Câmara: Saiba os próximos passos | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=7FOrTUbpcoU",
-     "por_hora": 104
+     "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
+     "url": "https://www.youtube.com/watch?v=xNOCreBuVrE",
+     "por_hora": 184
     }
    ]
   },
@@ -710,7 +759,7 @@
    "video": false,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+diz+que+relatou+vazamento+reuni%C3%B5es+internas+sobre+Master",
-   "veiculos": 16,
+   "veiculos": 15,
    "rotina": false,
    "outras": [
     {
@@ -734,46 +783,7 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0RnNjFSb2psaGxydnQ0RFFDeDRzZzdndDExR0U0SE03bm5tV1pqSkROWTZYVmFZY1BjX24wVm1FamFBZWRMQXdoc1QzbnhleS1Xclk5cVY0bHB4Mm9SUVR5UU9fT3N3M0FhVGJKMWpwN2UxblZPUlZWaFQ2Um9wV0JXUlNYbkJaSTlXMUxDTU5acGtHV2Q4?oc=5"
     }
    ],
-   "score": 36.9
-  },
-  {
-   "id": "7cda224dfd",
-   "titulo": "Van Hattem diz que acionará o Congresso após voto de Dino para torná-lo réu",
-   "url": "https://www.metropoles.com/colunas/manoela-alcantara/van-hattem-diz-que-acionara-o-congresso-apos-voto-de-dino-para-torna-lo-reu",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-11-20T18:03:31+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Van+Hattem+diz+que+acionar%C3%A1+Congresso+ap%C3%B3s+voto+Dino",
-   "veiculos": 5,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Claudio Dantas",
-     "titulo": "STF decide se torna van Hattem réu por discurso na tribuna da Câmara",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDhuOHpMaTJTbzU4YzdxOHNjY0pqeEJONWRSRTE2UXo4MWlySy1nQmw5Z1dDUkVJVE81QkdyOTVMUTVoY3ZLeWxZcHUtOVZpbDhSX2k1b01RWmpKMzd5bzRvRFNISkNPemJ5TF9WdGhyZzRzQ0h4R2F3bVBBYU5QOXhDWGJOdUFadXNRekhCSUNkZXg2UHdYQ3BoVzd1Vjg?oc=5"
-    },
-    {
-     "veiculo": "Metrópoles",
-     "titulo": "STF decide se Van Hattem vira réu por chamar delegado da PF de bandido",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanZQQjQzWDZnSnVCbWc1VC10c3JaMElSUnBRYXlVa3RTTUhHX0ZaMkJXTlNjbndEbHQ4LUh4VHA0cXI4S21KS09QM0NWa2xkREJETlAyMG9ZdzVuQkZpMWptVVVvZG9RalVqUXYwbVhneFNXN3p5YThzc3owdGJzMHBPdzQyOXdJYmI1WUlOaFR1SFlqemhqVkRQRExSQ1FoUGlydzRmRG1wdXFRb2JBRmxuUTJWWDk4RHE2NDFhOFU?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Primeira Turma do STF decide se torna Marcel van Hattem réu por calúnia e injúria",
-     "url": "https://valor.globo.com/politica/noticia/2026/11/19/primeira-turma-do-stf-decide-se-torna-marcel-van-hattem-reu-por-calunia-e-injuria.ghtml"
-    },
-    {
-     "veiculo": "Valor Econômico",
-     "titulo": "Primeira Turma do STF decide se torna Marcel van Hattem réu por calúnia e injúria",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQazlzUUI5SzF5dTNDMmtPT0hrTDNueXplWWZSaWN5dDc5X2dtTUl2ZWhxZ3FwV2pUV0EySVZKbXNpVmdLdDUtQ19sMWxJYlJaTlFTS1pHRVZnTjZZMU9UR3JKb3FnTXRrV2NOa0U4dUhqeW00dDJ2VlNEWXRMTkZfdm1RYmJfYWJBZ1F2WVViVjBQQXJaNzVFUXVxajhtV2hLUXFIb0lOY01PdHJ6cjVyb3BmQVVKRXY1ajZVek5DRlp2cFV1blUzeVU0QXR3V0dsWWVab0N30gHkAUFVX3lxTE5jMTdIaF9MY1p3eGJjODlYQnZkVkJKMEhBVnBvNVpXSDBld3pVbHJPRzkwWUliNWlPSDJ6eERDOFgxQmxSblhob1c2WmxkVWRyZzJaOGJHOUJQVGtUT3BWTW9MeFFraTZKM09nSTVkeXNvNnk0U3FzWHl0aHBqTlNjak04R25MNEN4QzNEeXBkeEEwdUNwOGFIcXNZbW1XeFg1dVFMNjY3X2dscWZXREo4M2plOWZ6UXI2MU04ZHRoTnB6VUlGTUExdENDZ2lkZXBsenNfLVdKSnp1bW0wMVRUcDJ4Zw?oc=5"
-    }
-   ],
-   "score": 36.8
+   "score": 36.2
   },
   {
    "id": "d3e3eb85f6",
@@ -813,108 +823,125 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3BUNDB4RWdjaGlSekJLcW5xSHJWWGZrdlVKT25iR01iX29hV3A3dUw3cHNiZG9rUVgzUjg4UFMybnAwc0R4QWs3R19leVdXMG1XNjFhSU9MNFA2SV9tMnFOS01DZE50NkdaZktBVXdlamp2QVNYVlUyNkJNNG5aN1dhckJfSDdOVFRsaGdyR0xxSFFYZkhFXzZNUTlQMGZsVUlwQ1dBSEF5bFI1WHhUSXMzVjBrWGF0NGlQdHdWd00xRGZXTUE?oc=5"
     }
    ],
-   "score": 35.6
+   "score": 34.9
   },
   {
-   "id": "357e8e0a66",
-   "titulo": "Nikolas Ferreira ameaça sair do PL se partido apoiar reeleição de Motta na Câmara",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTHByVG9fQ1JHRmo3LUdRX0RVdWpac2NUQ1NFMGo5T01VQ25vYWEyQ1hkZXVtazVJSXMxWjZRVlBGbmRNZ3dpSnVfNl9uMi1qOGxJNmxyeTR2ajcwUDlKd1Z5ZDJPOTM0bzU1ZFZiQmhKVEI5MFYxQk5Mdm5SZjRBZWNsSUM0QnAzNGhyUXBvcUExMHJ5UkRDdnpkQkc0U1ZLeS02SXExZUNpNldTOFJOZWVLeW5jNENMczNBaDlHWE9uVUl0LWFRRkFkOA?oc=5",
-   "veiculo": "Estadão",
-   "publicado": "2026-11-20T16:00:47+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+amea%C3%A7a+sair+partido+apoiar+reelei%C3%A7%C3%A3o+Motta+C%C3%A2mara",
-   "veiculos": 8,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "ecxonline.com.br",
-     "titulo": "Nikolas Ferreira ameaça deixar o PL e pode disputar presidência da Câmara",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHAwQk1GRUpRbFlid0ZDNmh5UDdBZnNXbGVlOXVrdjZVc2lWUHQtNkdreEhLV2tiTnlDZjBNMFFWeXNXbWhvdGhvWEZVUGpTRnNSeEM2RTl6X1ctem9wajBpb1NnRzZEc1lySmUzRFhfcG1wb05wR3pQb19VQmZ0V242UTdrV21lN0pPWkpjajEzaThsSENPSERuY2VSSkN5?oc=5"
-    },
-    {
-     "veiculo": "O Juruá Em Tempo",
-     "titulo": "O objetivo de Nikolas Ferreira ao se lançar para presidência da Câmara sem intenção de concorrer",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUlllWjk4NjhLSThpSElTZnp2UFR4a3VGNzRabWpJdTRGeV8taUZjN2lKQm1lWURGTDliY1dhOWZsS3JmV1hEa3B5QlJXMGRZOFpwTTlLVkdJRzVuZzBnakJFeENsS0MwanJxMHdBRVdEaVVIb0lKWjJzaXVYbi1zX0ExXzcwTWl4aDl3NzlWU0w3cThqNXYyQ013aExPR1pYbkZPQ2xhZXpYcmdURzhsWkFheVJNbFhpUHhSdkJNbnRBT1Nob19SZWFJM3FETUlPXy1XbkN4X19pWDJhRWw2OQ?oc=5"
-    },
-    {
-     "veiculo": "www.plantaobrasil.net",
-     "titulo": "A estratégia por trás do movimento de Nikolas Ferreira na Câmara",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0Q4NW0xMU1FdVkwdkNEa21lQ0dnRnFRWUxQOXdvWnNPc0ZJS3pnQ2F2RUxEZEN1YVp6Um9xNUxDSDFQZTFLUF9RcUUxWDVZX3ZOem56YVdzcTJwa0d0YmZQT2NFWHpPdjZZOVRTcEh6YlhWSGN4RGVKZ3JJa1J3enJfb21qSkVqT3MxM2JMYXNpV0NLMFR6dWdHZHA3WHZqcUUybmNYRUNMdkJ6Y3dz?oc=5"
-    },
-    {
-     "veiculo": "Diário do Centro do Mundo",
-     "titulo": "Por que Nikolas lançou candidatura à Presidência da Câmara",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWlRd3NJNkI5T2dqbjQ5WFdTYzRzbFpEdWxacEtwTVYtNnM1MGlEcXpFdE13WE1VVXpnb1c4M1JlbXN4RTVSX05oQVRVUnVLS0ZOQ2NkbDZJU3hWd1BfaWhSOGMtUEhqYnd2OVlndGFtSnhvMFFybmZ3TnJpOGZmNG1mZElsV1V2eEwtbVZEbUVXMnE4WW1Yb3BIV1JzYjhSakc4UQ?oc=5"
-    }
-   ],
-   "score": 33.0
-  },
-  {
-   "id": "a1f1401903",
-   "titulo": "Fachin mantém prisão preventiva de Daniel Vorcaro",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/20/fachin-mantm-priso-preventiva-de-daniel-vorcaro.ghtml",
+   "id": "7f962350ab",
+   "titulo": "Primeira Turma do STF decide se torna Marcel van Hattem réu por calúnia e injúria",
+   "url": "https://valor.globo.com/politica/noticia/2026/11/19/primeira-turma-do-stf-decide-se-torna-marcel-van-hattem-reu-por-calunia-e-injuria.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-20T17:00:00+00:00",
+   "publicado": "2026-11-20T18:29:38+00:00",
    "temas": [
     "mercado",
     "politica"
    ],
-   "video": true,
+   "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fachin+mant%C3%A9m+pris%C3%A3o+preventiva+Daniel+Vorcaro",
-   "veiculos": 6,
+   "busca_video": "https://www.youtube.com/results?search_query=Primeira+Turma+STF+decide+torna+Marcel+van+Hattem+r%C3%A9u",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "MT HOJE",
-     "titulo": "Fachin mantém prisão de Vorcaro: STF vê risco de novos crimes",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUw5SGN6NW9NWVhQR2hHSFpLejdRanczcENyRUZtZGVlY0hNTnM1NFczZndEd1NMSDVFWGVjN3FPb29tYjdvNU5hUXBXRzM5YTVvc05MOF9CcXpRb01fQlRCcS1oZDFaak1ZMVp0V0NlMGU4bUtUSUNaZkM4a1hubUk4UGt1VnJhUTgzc01JOEdJMmpnMG5FVk9UbkUtOGRKRnJVZHhvT2U5QQ?oc=5"
+     "veiculo": "Claudio Dantas",
+     "titulo": "Van Hattem acusa STF de “justiçamento” após Dino votar para torná-lo réu",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmVtbkhIanhfdG5wakZUSXRBVzJESi1weEs1YVVPZzBaRVRpR2JDejgzYW9vc1ZWbUd1T0xVcktPU3FOR2hLd1kzcEJxell0SElGd1RhQkpIckdDYWV0YmhMWGZ5cUdPeWxhV01KRlI0bF9UdlJNdnY5TUMtWThWLTc5TDNYLW9rRDRFMm81Wi1RaXNhemJGWXVLbkpNRG5ycGc?oc=5"
     },
     {
-     "veiculo": "UOL",
-     "titulo": "Caso Master: Fachin decide mantém prisão de Daniel Vorcaro",
-     "url": "https://www.youtube.com/watch?v=4SWxBcnVJRI"
+     "veiculo": "Claudio Dantas",
+     "titulo": "STF decide se torna van Hattem réu por discurso na tribuna da Câmara",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDhuOHpMaTJTbzU4YzdxOHNjY0pqeEJONWRSRTE2UXo4MWlySy1nQmw5Z1dDUkVJVE81QkdyOTVMUTVoY3ZLeWxZcHUtOVZpbDhSX2k1b01RWmpKMzd5bzRvRFNISkNPemJ5TF9WdGhyZzRzQ0h4R2F3bVBBYU5QOXhDWGJOdUFadXNRekhCSUNkZXg2UHdYQ3BoVzd1Vjg?oc=5"
     },
     {
-     "veiculo": "GloboNews",
-     "titulo": "Edson Fachin mantém prisão de Daniel Vorcaro",
-     "url": "https://www.youtube.com/watch?v=8mqvgAmItJc"
+     "veiculo": "Metrópoles",
+     "titulo": "STF decide se Van Hattem vira réu por chamar delegado da PF de bandido",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanZQQjQzWDZnSnVCbWc1VC10c3JaMElSUnBRYXlVa3RTTUhHX0ZaMkJXTlNjbndEbHQ4LUh4VHA0cXI4S21KS09QM0NWa2xkREJETlAyMG9ZdzVuQkZpMWptVVVvZG9RalVqUXYwbVhneFNXN3p5YThzc3owdGJzMHBPdzQyOXdJYmI1WUlOaFR1SFlqemhqVkRQRExSQ1FoUGlydzRmRG1wdXFRb2JBRmxuUTJWWDk4RHE2NDFhOFU?oc=5"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "Caso Master: Fachin mantém prisão de Daniel Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=IAdihMIOkAE"
+     "veiculo": "Valor Econômico",
+     "titulo": "Primeira Turma do STF decide se torna Marcel van Hattem réu por calúnia e injúria",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQazlzUUI5SzF5dTNDMmtPT0hrTDNueXplWWZSaWN5dDc5X2dtTUl2ZWhxZ3FwV2pUV0EySVZKbXNpVmdLdDUtQ19sMWxJYlJaTlFTS1pHRVZnTjZZMU9UR3JKb3FnTXRrV2NOa0U4dUhqeW00dDJ2VlNEWXRMTkZfdm1RYmJfYWJBZ1F2WVViVjBQQXJaNzVFUXVxajhtV2hLUXFIb0lOY01PdHJ6cjVyb3BmQVVKRXY1ajZVek5DRlp2cFV1blUzeVU0QXR3V0dsWWVab0N30gHkAUFVX3lxTE5jMTdIaF9MY1p3eGJjODlYQnZkVkJKMEhBVnBvNVpXSDBld3pVbHJPRzkwWUliNWlPSDJ6eERDOFgxQmxSblhob1c2WmxkVWRyZzJaOGJHOUJQVGtUT3BWTW9MeFFraTZKM09nSTVkeXNvNnk0U3FzWHl0aHBqTlNjak04R25MNEN4QzNEeXBkeEEwdUNwOGFIcXNZbW1XeFg1dVFMNjY3X2dscWZXREo4M2plOWZ6UXI2MU04ZHRoTnB6VUlGTUExdENDZ2lkZXBsenNfLVdKSnp1bW0wMVRUcDJ4Zw?oc=5"
     }
    ],
-   "score": 32.1,
-   "video_url": "https://www.youtube.com/watch?v=IAdihMIOkAE",
-   "video_canal": "SBT News",
-   "video_por_hora": 1774,
-   "video_acima_mediana": 2.1,
-   "videos": [
+   "score": 33.3
+  },
+  {
+   "id": "615096f2ca",
+   "titulo": "Dólar fecha a R$ 5,93 e Ibovespa cai apesar de ação do Banco Central",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVhNMl9KMmpqeE40UFQ2NTJySlpZZVllR1FKREtSSjM1RC1aNmxJZ2diNGpQeXViMm9KNURBWlNzdUl4cXhXME5FNzZuUUQtMmVzb1FqM3NKREpwOUlSQ3d0ZjhON1VVMVBCWHQtSEVkYnRObm1sTW9jYmxwZ3lQRU1UTW1tYURBRHlQTjZ2NE9GWUpBX1lXSjh4SEd6Um54VW4td3RNMGFMT2RkeldweU5xbGs2UUNzOFMwMlVWeTFUUm0zaHQyeG9mMmlDN0nSAdQBQVVfeXFMTVE1WkF2RGVTTmxJYlBGclp2X2tpUWVjUE9QV2V3ZUMtSDNwS3B4NDMyOGZaWVVnMEhyNEkxbC0yeVp6QUI0amlDckF5MFJkaTlaXy04b1E2ejZrNW5qREFNaFN3WUVHYkx4NHF5YjUwLUJBcmFyQU5WenhpalF6UWYyVUlLN3VJLXRXSGgxVGt4VUZpUlN2azRhT0dXMEFuQnZFSVAxaFdaZFpNRkV0ZE5hQVVHNEg1c1NVUTdTTTc2MEZSMVVrSzd1OEdyRVN6QWRPelM?oc=5",
+   "veiculo": "Correio Braziliense",
+   "publicado": "2026-11-20T17:53:23+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+fecha+5%2C93+Ibovespa+cai+apesar+a%C3%A7%C3%A3o+Banco+Central",
+   "veiculos": 18,
+   "rotina": true,
+   "outras": [
     {
-     "canal": "SBT News",
-     "titulo": "Caso Master: Fachin mantém prisão de Daniel Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=IAdihMIOkAE",
-     "por_hora": 1774
+     "veiculo": "Prensa Mercosur",
+     "titulo": "Dólar sobe a R$ 5,93 mesmo com intervenção do BC",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREtYVG5qaVhMcGN5TXpGdzl1MHlCLV9VWDNjUEdDMjcxOTJhd2pMbVNMVFU3UndSWTNhLW1hWFd1LVhMZTZ3TTJBS01rVzk5N0tJZUU0Z19kdGl2VEZJSEkyNnBQLTk0azdBVWVTeHFGdTRRX0M1Nl9kM05Tc1IyMWlFbFNJdHlfdEU0UWVB?oc=5"
     },
     {
-     "canal": "GloboNews",
-     "titulo": "Edson Fachin mantém prisão de Daniel Vorcaro",
-     "url": "https://www.youtube.com/watch?v=8mqvgAmItJc",
-     "por_hora": 1027
+     "veiculo": "Acia Araçatuba",
+     "titulo": "Dólar sobe 1,16% com intervenção do BC e Ibovespa cai",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BaTNDcjhvaXBqclVUVnFpdUtZVW4ySEtXRmZuTFJmLTJaTTNxa3JtSjM0OXA0MWQxcmdSWGluMS1USmo4aWMzN2hQLU9tbXdSYzU2QXB1U25oeFJvYThhSi10OUY3d3otd0VIRWx6OWhQSlRnTXZJ?oc=5"
     },
     {
-     "canal": "UOL",
-     "titulo": "Caso Master: Fachin decide mantém prisão de Daniel Vorcaro",
-     "url": "https://www.youtube.com/watch?v=4SWxBcnVJRI",
-     "por_hora": 613
+     "veiculo": "Acia Araçatuba",
+     "titulo": "Dólar sobe a R$ 5,93 mesmo com intervenção do BC",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3YXdvSWViRS01bTBGOFNPVDg5SGJZUW5FVWVMZWNsWlJOWUVTOEFicnREMEVUa1NIUTFxLWM5WElsQTlXaGRqazlxVnZFLWJnaUZ0M0lCb2JHV0FDUU1qNEZERmtLSXh5bzRFTGp3?oc=5"
+    },
+    {
+     "veiculo": "GCMais",
+     "titulo": "Dólar fecha em R$ 5,93 e Ibovespa cai quase 0,7% nesta quinta-feira (19)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd05CY1JoX0ZrZ3dNR2FwZFZpU1FWSkRpamNQN3dMODMxZkg4Wm5SMUc2T2NzNUl4aklvVlhXa0hBVm1GTW1ocHA1dkktUnFUZG5IbUZCMWVLNGtpSGpleUZXTU5vSC1PdUpKZHdqeTNoUU82OXZmQU9DT2JvQVJSQWVqaHEwY0w0VXpPY0VmM0RyUkNhX1g0NDFxQm5vUUZid2lVWWVsVEtnQlRQNlpB?oc=5"
     }
-   ]
+   ],
+   "score": 30.1
+  },
+  {
+   "id": "0590e5940b",
+   "titulo": "Galípolo nega à PF ter pedido 'voto de confiança' sobre solução do Banco Master com BRB",
+   "url": "https://exame.com/brasil/galipolo-nega-a-pf-ter-pedido-voto-de-confianca-sobre-solucao-do-banco-master-com-brb/",
+   "veiculo": "Exame",
+   "publicado": "2026-11-20T17:53:23+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+nega+ter+pedido+voto+confian%C3%A7a+sobre+solu%C3%A7%C3%A3o+Banco",
+   "veiculos": 5,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Prensa Mercosur",
+     "titulo": "Galípolo nega ter pedido ‘voto de confiança’ para compra do Master pelo BRB",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGd2VWlYRzc4NzNRNlZqSm1QWjNtb3U5RXRKMmh5b01JeTZEQXpqTUdlZGVPOFBqSEZOLWtWc2FsbFpmd3Zzal9CSy1IUFBwWkRxR2JlcHZMUERad0RxUnI2UnlkV0xsenM1ZVJtVEF3VXZmTlFpb0t1OXFlaWxyU2Q0ZFU3VUx3TTJGVmVhMVN0cERHYXZyNGlZNWRsR0ZrWGRMREswNXFwWTlZOENiMjV3?oc=5"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Galípolo nega à PF ter pedido 'voto de confiança' sobre solução do Banco Master com BRB",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnZ2WUNIbWw4c3ZFMFZvSjVMa3dGcW5jNG1zd0hvM0lJZ0VkQkIwdDl6ck95Q0xrZWVoX3pSUm1Ld29OVDJCV2dVcGZfSFROVnVvMFNDNjJKWWdBdFYwMGRvclhDTWtJUl9wdDV0ckIwWXpoOHdwVjB1TzdRdDRkRUlUYnVPZzJpUFJoZGtWb1pELVhueVMxWFJOSVpaa2lvQUV5UUFpZTFLbGwzdnlXNQ?oc=5"
+    },
+    {
+     "veiculo": "www.radio96fmns.com.br",
+     "titulo": "Compra do Master pelo BRB foi discutida em jantares na casa de Galípolo, diz ex-diretor do BC",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMll5Mk9kLXFvNURzbzM1dVZmeURxb1JHQkIxVXZUMTcxU1c5Rnk2VFlNV2xzcEJ3c091OUh1aXlfZjI3a2pKM2ZqdmJzWjFQUjE1TGRSOWpwSFpSUmRWaUpoa0xGWk00aU9sc0FBeGd1MnVUTzVNNGh2RjVKS01heUZ0SW4yTzhRWUswUU5RNGFNWERSSUhVOU5rUlpEOWFMMHpXSUVDUHhxc1lUbGdsaVF6ZXQ0c3p5VUFWLWo5WHU0MFlnVXc?oc=5"
+    },
+    {
+     "veiculo": "www.radio96fmns.com.br",
+     "titulo": "Compra do Master pelo BRB foi discutida em jantares na casa de Galípolo, diz ex-diretor do BC",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMll5Mk9kLXFvNURzbzM1dVZmeURxb1JHQkIxVXZUMTcxU1c5Rnk2VFlNV2xzcEJ3c091OUh1aXlfZjI3a2pKM2ZqdmJzWjFQUjE1TGRSOWpwSFpSUmRWaUpoa0xGWk00aU9sc0FBeGd1MnVUTzVNNGh2RjVKS01heUZ0SW4yTzhRWUswUU5RNGFNWERSSUhVOU5rUlpEOWFMMHpXSUVDUHhxc1lUbGdsaVF6ZXQ0c3p5VUFWLWo5WHU0MFlnVXc?oc=5"
+    }
+   ],
+   "score": 30.1
   },
   {
    "id": "a99ca8f023",
@@ -953,22 +980,61 @@
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXZLV0NKME5tMFJRc0czS1JsTVlQS2lDN1dlck9HYVFWU1FTd2xJMVZaeHUyNWJFbU9ESGNwOEx5N3BvcUszc1h5N1BOc2hCZXA5YVo0eE9XV3NndjBDdUI0aTItNkt2dlZ3RUc2Qk1rQmtsT3J6bUNsTGo3a013c2szWTA0MmxBeGZsSEtVOTdGQ21XQlhNNE5OWklkR3c?oc=5"
     }
    ],
-   "score": 30.5
+   "score": 29.8
   },
   {
-   "id": "2622620d59",
-   "titulo": "Banco Central vende US$ 1 bilhão, mas dólar fecha novamente em alta | #NewsNoite",
-   "url": "https://www.youtube.com/watch?v=gLRtIRMWxjM",
-   "veiculo": "SBT News",
-   "publicado": "2026-11-20T15:36:33+00:00",
+   "id": "357e8e0a66",
+   "titulo": "Nikolas Ferreira ameaça sair do PL se partido apoiar reeleição de Motta na Câmara",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTHByVG9fQ1JHRmo3LUdRX0RVdWpac2NUQ1NFMGo5T01VQ25vYWEyQ1hkZXVtazVJSXMxWjZRVlBGbmRNZ3dpSnVfNl9uMi1qOGxJNmxyeTR2ajcwUDlKd1Z5ZDJPOTM0bzU1ZFZiQmhKVEI5MFYxQk5Mdm5SZjRBZWNsSUM0QnAzNGhyUXBvcUExMHJ5UkRDdnpkQkc0U1ZLeS02SXExZUNpNldTOFJOZWVLeW5jNENMczNBaDlHWE9uVUl0LWFRRkFkOA?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-20T16:00:47+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Nikolas+Ferreira+amea%C3%A7a+sair+partido+apoiar+reelei%C3%A7%C3%A3o+Motta+C%C3%A2mara",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "ecxonline.com.br",
+     "titulo": "Nikolas Ferreira ameaça deixar o PL e pode disputar presidência da Câmara",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHAwQk1GRUpRbFlid0ZDNmh5UDdBZnNXbGVlOXVrdjZVc2lWUHQtNkdreEhLV2tiTnlDZjBNMFFWeXNXbWhvdGhvWEZVUGpTRnNSeEM2RTl6X1ctem9wajBpb1NnRzZEc1lySmUzRFhfcG1wb05wR3pQb19VQmZ0V242UTdrV21lN0pPWkpjajEzaThsSENPSERuY2VSSkN5?oc=5"
+    },
+    {
+     "veiculo": "Plantão Brasil",
+     "titulo": "A estratégia por trás do movimento de Nikolas Ferreira na Câmara",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0Q4NW0xMU1FdVkwdkNEa21lQ0dnRnFRWUxQOXdvWnNPc0ZJS3pnQ2F2RUxEZEN1YVp6Um9xNUxDSDFQZTFLUF9RcUUxWDVZX3ZOem56YVdzcTJwa0d0YmZQT2NFWHpPdjZZOVRTcEh6YlhWSGN4RGVKZ3JJa1J3enJfb21qSkVqT3MxM2JMYXNpV0NLMFR6dWdHZHA3WHZqcUUybmNYRUNMdkJ6Y3dz?oc=5"
+    },
+    {
+     "veiculo": "O Juruá Em Tempo",
+     "titulo": "O objetivo de Nikolas Ferreira ao se lançar para presidência da Câmara sem intenção de concorrer",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUlllWjk4NjhLSThpSElTZnp2UFR4a3VGNzRabWpJdTRGeV8taUZjN2lKQm1lWURGTDliY1dhOWZsS3JmV1hEa3B5QlJXMGRZOFpwTTlLVkdJRzVuZzBnakJFeENsS0MwanJxMHdBRVdEaVVIb0lKWjJzaXVYbi1zX0ExXzcwTWl4aDl3NzlWU0w3cThqNXYyQ013aExPR1pYbkZPQ2xhZXpYcmdURzhsWkFheVJNbFhpUHhSdkJNbnRBT1Nob19SZWFJM3FETUlPXy1XbkN4X19pWDJhRWw2OQ?oc=5"
+    },
+    {
+     "veiculo": "Diário do Centro do Mundo",
+     "titulo": "Por que Nikolas lançou candidatura à Presidência da Câmara",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWlRd3NJNkI5T2dqbjQ5WFdTYzRzbFpEdWxacEtwTVYtNnM1MGlEcXpFdE13WE1VVXpnb1c4M1JlbXN4RTVSX05oQVRVUnVLS0ZOQ2NkbDZJU3hWd1BfaWhSOGMtUEhqYnd2OVlndGFtSnhvMFFybmZ3TnJpOGZmNG1mZElsV1V2eEwtbVZEbUVXMnE4WW1Yb3BIV1JzYjhSakc4UQ?oc=5"
+    }
+   ],
+   "score": 29.3
+  },
+  {
+   "id": "7096cf5d76",
+   "titulo": "Dólar dispara após falas de Lula, apesar de intervenção do BC",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVlBFQ0JCVkhJeUllV3hCMWw4UTFtQ2RaYTk3akt5YUNYNzQzY3pXYUcxV0hjNmoxcTFZOVQ4U3UwYy05VGdhU2hYYTFxV3d3ZTBkeWI5bW8ybVpnZGdwNDMyZ1A4NklCYW94Z2I0dXEzTUFfUm9JdjlRU3ZYNEk3Sy0xQXZsQ05wTHhGQlB4ZlA2RnIxQmpESWxYNA?oc=5",
+   "veiculo": "Gazeta do Povo",
+   "publicado": "2026-11-20T15:36:06+00:00",
    "temas": [
     "economia",
-    "mercado"
+    "mercado",
+    "politica"
    ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Banco+Central+vende+US%24+bilh%C3%A3o%2C+mas+d%C3%B3lar+fecha+novamente",
-   "veiculos": 9,
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar+dispara+ap%C3%B3s+falas+Lula%2C+apesar+interven%C3%A7%C3%A3o",
+   "veiculos": 7,
    "rotina": true,
    "outras": [
     {
@@ -982,76 +1048,145 @@
      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNU3JWN1N0elQ5bGN1dXZabmtISFpzOHRiQUpLSFI2WmFIRDB2SVdRU1doUG8xT0FzYUk4Z2VfU3l5Z1BNZXR4QjhZdDNYSVJ0TkhJWDYxMzEzdF9XdFhiMk9ITFY3YTRnVDlaOG1OaksxeDZCbVJQZEtuYW5aRjRfNzN6ZjROWVVZdWhQQTk3QnQtRzR1alB6UVZwWFl3TFFVOUU2LTlmUWt2NWZlbm80Z1BmYkVlRWF0emRsYXZmVjFrN01Na1dQZUs4SDFvZjFiMF91bFh4R3VndGpSUmFKTVFQdFhNZWU0bk45QmU5dG9IcHRWU1JEVkQ4Z0NVdlZNaDJ2S1c4SlMwOGE5eXlNSDhFY9IBogJBVV95cUxPYXR6aXRld0FXd1l3UG9abFFWZHA0ajRsalJ1RVYxd3V5MW5Nd1QzN0wzUjllSkliUUZxUFhoTUVINlBGZWlsdk1QWVJOR0tETHlXcld3SGE4OHdGRFVueWhaRzY0TnNmOEZCbGIwSlB6dTJjbFAyR251clFvY3JVcUdCbFd3MUZBMzVnYmQ1dThFRExrT1hlRjV3Yk5FRm81V1BsM0NJeFNaX0J4VWVxVHprbjQxTDJURVBpaTVQU2MyOG5MTmRkU1I1WGhPeXQ0MEpmbVYxN3hCT0ZlQkc2WWpxUW81MEpMUm13U2pNUkFWR0luWmdXYWJyNWxUYzl3T2dKSXkyZzYyZUxiTURZVEl2Q0ljcnc2TzB6QXAwUUpGZw?oc=5"
     },
     {
-     "veiculo": "IstoÉ",
-     "titulo": "Dólar dispara a R$ 5,93 mesmo após Banco Central vender US$ 1 bilhão",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GUHl6SHBJcnBLNUNLTGlKdlZWd3hQOUR2MlEwdHlFU2lYa2YyWEV4LW5TMkF0Y0wyTFFXd2Q1WFUwREJ0dmZUNkhwQ01OS0MzTF9uLTBTV01MYlo2ZEctZm1PLUYwVW9NQVVXaEdPUHJCeXJYS0p1Y0c3WQ?oc=5"
+     "veiculo": "Portal de Camaquã",
+     "titulo": "Preço do Dólar Hoje: moeda dispara para R$ 5,93 após intervenção do Banco Central e acende alerta no mercado financeiro",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUnBKWHNrTHZFVzJsUjl0OU00eFBGVmllTVUybHB2bS0yV3JWWlJTNUFhWVlaY0pYS1pDX3FlOTNVWG8tYVRaOVdwWG9jc3ZnZkJaZTAxR29GdTZSbk1JcEh1VGhYM3Z6bzhHQmt1NThraXpfOG5scm5wcVVHdldaV2NWV09qbzNoakV4MWtEWjVGc096ZXAtdWU1U1NCMmF4VFlhVmp2UzMyaHpfXzlyaGtuVlJ1U01raHktV1BFanQyS2dVd1kzSGVOVS1wTEJQWDM2WTF2OTdkUjFuU0tRUjNSeUVrM25YUU5BenY5Y0d6d0FhQmlVTnJfc3FLTjFJMnE4?oc=5"
     },
     {
-     "veiculo": "IstoÉ",
-     "titulo": "Dólar dispara a R$ 5,93 mesmo após Banco Central vender US$ 1 bilhão",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GUHl6SHBJcnBLNUNLTGlKdlZWd3hQOUR2MlEwdHlFU2lYa2YyWEV4LW5TMkF0Y0wyTFFXd2Q1WFUwREJ0dmZUNkhwQ01OS0MzTF9uLTBTV01MYlo2ZEctZm1PLUYwVW9NQVVXaEdPUHJCeXJYS0p1Y0c3WQ?oc=5"
+     "veiculo": "Portal de Camaquã",
+     "titulo": "Preço do Dólar Hoje: moeda dispara para R$ 5,93 após intervenção do Banco Central e acende alerta no mercado financeiro",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUnBKWHNrTHZFVzJsUjl0OU00eFBGVmllTVUybHB2bS0yV3JWWlJTNUFhWVlaY0pYS1pDX3FlOTNVWG8tYVRaOVdwWG9jc3ZnZkJaZTAxR29GdTZSbk1JcEh1VGhYM3Z6bzhHQmt1NThraXpfOG5scm5wcVVHdldaV2NWV09qbzNoakV4MWtEWjVGc096ZXAtdWU1U1NCMmF4VFlhVmp2UzMyaHpfXzlyaGtuVlJ1U01raHktV1BFanQyS2dVd1kzSGVOVS1wTEJQWDM2WTF2OTdkUjFuU0tRUjNSeUVrM25YUU5BenY5Y0d6d0FhQmlVTnJfc3FLTjFJMnE4?oc=5"
     }
    ],
-   "score": 29.9,
-   "video_url": "https://www.youtube.com/watch?v=gLRtIRMWxjM",
-   "video_canal": "SBT News",
-   "video_por_hora": 253,
-   "video_acima_mediana": 0.3,
+   "score": 29.1
+  },
+  {
+   "id": "accc4f6a1a",
+   "titulo": "Crime organizado gera prejuízo de R$ 440 bi ao país | TEMPO REAL",
+   "url": "https://www.youtube.com/watch?v=gNQQZCgR0ZQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-20T19:05:44+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Crime+organizado+gera+preju%C3%ADzo+440+pa%C3%ADs+TEMPO+REAL",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "PRISÃO DE VORCARO / DOSIMETRIA VAI AO STF / PREJUÍZO DO CRIME ORGANIZADO | TEMPO REAL - 20/11/2026",
+     "url": "https://www.youtube.com/watch?v=lYCzBNowKK8"
+    }
+   ],
+   "score": 29.0,
+   "video_url": "https://www.youtube.com/watch?v=lYCzBNowKK8",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 16139,
+   "video_acima_mediana": 29.3,
    "videos": [
     {
-     "canal": "SBT News",
-     "titulo": "Banco Central vende US$ 1 bilhão, mas dólar fecha novamente em alta | #NewsNoite",
-     "url": "https://www.youtube.com/watch?v=gLRtIRMWxjM",
-     "por_hora": 253
+     "canal": "Jovem Pan News",
+     "titulo": "PRISÃO DE VORCARO / DOSIMETRIA VAI AO STF / PREJUÍZO DO CRIME ORGANIZADO | TEMPO REAL - 20/11/2026",
+     "url": "https://www.youtube.com/watch?v=lYCzBNowKK8",
+     "por_hora": 16139
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Crime organizado gera prejuízo de R$ 440 bi ao país | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=gNQQZCgR0ZQ",
+     "por_hora": 129
     }
    ]
   },
   {
-   "id": "501b637006",
-   "titulo": "Impasse sobre recursos para guerra no Irã pode paralisar governo dos EUA",
-   "url": "https://www.poder360.com.br/poder-internacional/impasse-sobre-recursos-para-guerra-no-ira-pode-paralisar-governo-dos-eua/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-20T18:17:50+00:00",
+   "id": "a1f1401903",
+   "titulo": "Fachin mantém prisão preventiva de Daniel Vorcaro",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/20/fachin-mantm-priso-preventiva-de-daniel-vorcaro.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-20T17:00:00+00:00",
    "temas": [
-    "economia",
     "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Impasse+sobre+recursos+para+guerra+Ir%C3%A3+pode+paralisar+governo",
-   "veiculos": 4,
+   "busca_video": "https://www.youtube.com/results?search_query=Fachin+mant%C3%A9m+pris%C3%A3o+preventiva+Daniel+Vorcaro",
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Valor",
-     "titulo": "Guerra contra o Irã gera impasse no Congresso dos EUA e ameaça paralisar governo",
-     "url": "https://valor.globo.com/mundo/noticia/2026/11/20/guerra-contra-o-ira-gera-impasse-no-congresso-dos-eua-e-ameaca-paralisar-governo.ghtml"
+     "veiculo": "MT HOJE",
+     "titulo": "Fachin mantém prisão de Vorcaro: STF vê risco de novos crimes",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUw5SGN6NW9NWVhQR2hHSFpLejdRanczcENyRUZtZGVlY0hNTnM1NFczZndEd1NMSDVFWGVjN3FPb29tYjdvNU5hUXBXRzM5YTVvc05MOF9CcXpRb01fQlRCcS1oZDFaak1ZMVp0V0NlMGU4bUtUSUNaZkM4a1hubUk4UGt1VnJhUTgzc01JOEdJMmpnMG5FVk9UbkUtOGRKRnJVZHhvT2U5QQ?oc=5"
     },
     {
-     "veiculo": "InfoMoney",
-     "titulo": "Congresso se esforça para evitar paralisação do governo; guerra com Irã divide",
-     "url": "https://www.youtube.com/watch?v=Y2rcRqEidCo"
+     "veiculo": "UOL",
+     "titulo": "Caso Master: Fachin decide mantém prisão de Daniel Vorcaro",
+     "url": "https://www.youtube.com/watch?v=4SWxBcnVJRI"
     },
     {
-     "veiculo": "g1",
-     "titulo": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
-     "url": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml"
+     "veiculo": "GloboNews",
+     "titulo": "Edson Fachin mantém prisão de Daniel Vorcaro",
+     "url": "https://www.youtube.com/watch?v=8mqvgAmItJc"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "Fachin rejeita pedido da defesa e mantém prisão preventiva de Vorcaro",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/fachin-rejeita-pedido-da-defesa-e-mantem-prisao-preventiva-de-vorcaro.shtml"
     }
    ],
-   "score": 29.0,
-   "video_url": "https://www.youtube.com/watch?v=Y2rcRqEidCo",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 73,
+   "score": 28.4,
+   "video_url": "https://www.youtube.com/watch?v=4SWxBcnVJRI",
+   "video_canal": "UOL",
+   "video_por_hora": 1885,
    "video_acima_mediana": 0.7,
    "videos": [
     {
-     "canal": "InfoMoney",
-     "titulo": "Congresso se esforça para evitar paralisação do governo; guerra com Irã divide",
-     "url": "https://www.youtube.com/watch?v=Y2rcRqEidCo",
-     "por_hora": 73
+     "canal": "UOL",
+     "titulo": "Caso Master: Fachin decide mantém prisão de Daniel Vorcaro",
+     "url": "https://www.youtube.com/watch?v=4SWxBcnVJRI",
+     "por_hora": 1885
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Edson Fachin mantém prisão de Daniel Vorcaro",
+     "url": "https://www.youtube.com/watch?v=8mqvgAmItJc",
+     "por_hora": 1061
     }
    ]
+  },
+  {
+   "id": "13469b012d",
+   "titulo": "Secretário do Tesouro dos EUA critica aumento de juros do Fed",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWVCcEJvWm5iZy1KT1lJWXlnUzdoWXNfTS1mb04zd0s3S3BXR1FSc3pRaVlzTGUyVHI3TlNKVlZ6cmtiSGNLU2VhSDZkR1doU2FWa0dfTmNnUm1rTmRJeXNNWE50TGZSSk9IR2szVTEyNWl2T2FiUjd0N2JEa3VDSEJsSDFDYXkxX05IQUlia3p6TDJk?oc=5",
+   "veiculo": "boca.com.br",
+   "publicado": "2026-11-20T19:50:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Secret%C3%A1rio+Tesouro+dos+EUA+critica+aumento+juros+Fed",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Vero Notícias",
+     "titulo": "Trump critica política monetária do Fed e defende redução dos juros nos EUA",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMy1adzR4Vi1PNUJjdHhoRnNKVTBydHU1eUs4ZHd4d0NnUktjR3dBcXVmUTN2NEZGajc3RDBwal9UXzZ6YzFpSjlSQ3p1TnBVX1g2MUxRNHJOdUZVRGJXbXRFdDBIdTdRMHRsOE5pNkgyQW5DSVV3RkR0TEhJZUEyMkZCSFlaZ0JZWFVfTU5ZZE9DMzg0Q0JtWmpqek0wQ1dSb0RnRDAzb3JCMnhJMmQ4?oc=5"
+    },
+    {
+     "veiculo": "Times Brasil | CNBC",
+     "titulo": "Trump critica Fed por juros elevados e diz que economia dos EUA poderia crescer até 20%",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamd3UkJtNktRX2F4SXNucDBuaFF0elo5d0pzTVBMS1RZendfdGdJT0VrVHdLLUdiMzBnRFpCQjN0REZJRWgtUU1xZVI0SGM2RmRPREtjWDRONFdNd2VvSFB2VWFZaGw1MTNCOEtHbVg4aks2azdsWTRDQkwySDFyNTFYd2tLV0o3cW0tYTd3NkRrYUNrbWtnMA?oc=5"
+    }
+   ],
+   "score": 27.9
   },
   {
    "id": "5efce3035e",
@@ -1071,7 +1206,7 @@
    "rotina": true,
    "outras": [
     {
-     "veiculo": "planetaosasco.com",
+     "veiculo": "PlanetaOsasco.com",
      "titulo": "Dólar fecha acima de R$ 5,93 e Ibovespa registra queda de 0,69%",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnl5bko0RmRTS1FVU2lMOGJham1jTUwyVGZ6NkR1TV9XNk1ZMVpyclB2MDhDdXozWnhXTWxFTkRHdzNvaFJDYUlUenczakxjeWsxOWFaYzFTVFZSSTRrNkdxSG9SUkhid3RFTWZjZlVsVVRFaE5uaHVmNUQ2ZEdoZzBnb2Q5dVd1Sk1FbDU5ck9HaDZaeWlsd3JuZmVFZHNBb2g0?oc=5"
     },
@@ -1091,97 +1226,47 @@
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyRkZMckhDczBraXhLOWpWYmxEZWdKNkd3TDJMWFNUQmVIRDFaNHJLdERJUnVsWU1sV0Z0cWpLU2JKT2VVaFFDX0dFc0l2UEpQakJHSUo4NXF5VEpiRGZSc2U2SQ?oc=5"
     }
    ],
-   "score": 28.5
+   "score": 27.9
   },
   {
-   "id": "fa5cdf3624",
-   "titulo": "PF diz não haver indícios de diálogos diretos entre Mendonça e Vorcaro",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/20/pf-diz-no-haver-indcios-de-dilogos-diretos-entre-mendona-e-vorcaro.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T17:44:40+00:00",
+   "id": "c0ad6f9e18",
+   "titulo": "Faria e Vorcaro brincam sobre criar instituto para Moraes em Londres",
+   "url": "https://www.poder360.com.br/poder-justica/faria-e-vorcaro-brincam-sobre-criar-instituto-para-moraes-em-londres/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-20T19:41:38+00:00",
    "temas": [
-    "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=diz+n%C3%A3o+haver+ind%C3%ADcios+di%C3%A1logos+diretos+entre+Mendon%C3%A7a+Vorcaro",
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Faria+Vorcaro+brincam+sobre+criar+instituto+para+Moraes+Londres",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "SBT News",
-     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
-     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI"
+     "veiculo": "UOL",
+     "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
+     "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "PF não encontra mensagens entre Mendonça e Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=qa1hElERmV8"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Caso Master: PF não encontrou troca de mensagens entre André Mendonça e Daniel Vorcaro",
-     "url": "https://exame.com/brasil/caso-master-pf-nao-encontrou-troca-de-mensagens-entre-andre-mendonca-e-daniel-vorcaro/"
+     "veiculo": "Claudio Dantas",
+     "titulo": "Diálogos entre Vorcaro e Fábio Faria mencionam criação de instituto para Moraes",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFducWtCQlV1OVRRZzVkaUpvVlVzUHBiQ0c2c0s1WkxhcGJXQ0djd0FaSEs4UHVJanZEMUQtMFNYTHZSWTY1R08zaHVwbTI3X256ekFSMTJfMVhucnhSLXE1ZFR6RmNlRFhBTTlZRVBJbFhGTFpHSGxXUlhjSXpEdDh0dTlmTElNQUd3ZHoyNEdkWmwtLUxEVUk1VEdDaVNLQlR1YkpDVDQzRTRISFE?oc=5"
     }
    ],
-   "score": 28.1,
-   "video_url": "https://www.youtube.com/watch?v=qa1hElERmV8",
-   "video_canal": "SBT News",
-   "video_por_hora": 3520,
-   "video_acima_mediana": 4.2,
+   "score": 27.5,
+   "video_url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
+   "video_canal": "UOL",
+   "video_por_hora": 9250,
+   "video_acima_mediana": 3.3,
    "videos": [
     {
-     "canal": "SBT News",
-     "titulo": "PF não encontra mensagens entre Mendonça e Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=qa1hElERmV8",
-     "por_hora": 3520
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
-     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI",
-     "por_hora": 1763
+     "canal": "UOL",
+     "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
+     "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
+     "por_hora": 9250
     }
    ]
-  },
-  {
-   "id": "9b6b9afb32",
-   "titulo": "Trump afirma que taxas de juros estão altas porque Fed é “político”",
-   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-afirma-que-taxas-de-juros-estao-altas-porque-fed-e-politico/",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-20T18:10:10+00:00",
-   "temas": [
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Trump+afirma+que+taxas+juros+est%C3%A3o+altas+porque+Fed",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "SBT News",
-     "titulo": "Trump diz que juros estão altos porque Fed é político",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk11SlFfc0RmT0JWYmZiVENta3dnRG1BaGlTNEo1TnNHTkxUN0ZpYXF4Y0ZzY2N1UzNEYXR1S1JLY29HRWZWMVQzZ29sXzNSRTV5Q0tsd1R3VHRLa3hpMEtHUVZnazhuelk5R1UtNnhURDVZRzF5N1prNmVsZ2tCdnJzMnhzSnZZYXRyN1BzMVpKaXY3ZmN6b0pn?oc=5"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Trump afirma que taxas de juros estão altas porque Fed é \"político\"",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzhjWnZsTlBnRm1rMk1LZU5SSEhQYXlfSDdtVDlKaFVGZ2xpQUQyaFMteEJvQ2ptQ2g0anI5cGJud2JYOGUzQzFrc040YWVtN3VQY0daRWlwSUpEdGMzdkQ0SWJKRFc2WEtodmw4QlYwUVBPaHlWVjQwVUdPdmdtT25Welo1OTZvYTlqR2NoTVE0Snhid0ZXWEh4cE5FV2xHWDZhdjlwdVg5YmFDTWJBTUlGUzJTQlEzMV9oVmoybFRaUQ?oc=5"
-    },
-    {
-     "veiculo": "TradingView",
-     "titulo": "Trump afirma que as taxas de juros estão altas demais porque o Fed é “político”",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wVm9IM2d0WXB5ZmxCbDV3NkZtN3B2cTdYVFFWaGc0MHdsSDA0a0J0TmI0NnpHX2VnNDN5WHMxUUdVQU1JMnV1aWRwNGMyUHRWLVY0MFJhWnEyN0xYTmZwQXlDNkVkVk10b042dlpjMTRfeldYeTZj?oc=5"
-    },
-    {
-     "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "titulo": "Mercado sinaliza ao Fed que juros estão \"insustentavelmente altos\", diz Citi",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1EtQk50WGgzZUxwNWVQdE5keHBhWjV1clhmR2twZkVVOUp4VGhTR1Judkl0UDlSLXhlQnhOR1VHS2otbGhlNnB0Wm1qQTBYZDRzQnRtcC0waUtGUzhQejhUUGt2YUZJSHNFWTVaRHZucEtxWkctamJDODJSZGRaT1doSlRVV1IyLUZUbkp0Wk1BVzNkSGdPMDg1Z3lZN0h3bDE0bERMX1otNnNmSlR2cUZqU1JUN3RpamJRYWQxcWNCMWxuMDMzbQ?oc=5"
-    }
-   ],
-   "score": 27.9
   },
   {
    "id": "da6316ffe4",
@@ -1220,37 +1305,7 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbG1UMXIwczRSNGlyb2xmc0o1NFhOTGg1TDNKNXU0RE4wdTJLUDh5cGlBT3Vqb2JNS0F3OS1jTHlzeTk3c3NkSnY0czVSMkR3OFZGamxzZEdIbGs1dlgybUFLSHBWT3M4X0szUWcxa1hSODY3YkNZUno5QjVGY0JZTVlVbG1WUS1maTljNlhONEFWY05YRlBsdkFKQVg?oc=5"
     }
    ],
-   "score": 26.7
-  },
-  {
-   "id": "06328b3c7e",
-   "titulo": "Galípolo rebate versão de ex-diretor sobre compra do Master | TEMPO REAL",
-   "url": "https://www.youtube.com/watch?v=Anm_fYWTmQs",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-20T17:25:19+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+rebate+vers%C3%A3o+diretor+sobre+compra+Master+TEMPO+REAL",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 26.6,
-   "video_url": "https://www.youtube.com/watch?v=Anm_fYWTmQs",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 74,
-   "video_acima_mediana": 0.2,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Galípolo rebate versão de ex-diretor sobre compra do Master | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=Anm_fYWTmQs",
-     "por_hora": 74
-    }
-   ]
+   "score": 26.0
   },
   {
    "id": "3d85654aec",
@@ -1283,92 +1338,148 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRW1YOUs0dnQ3MWJOS0ZQRThld0tVaGRVeDBudTVSajNnYmJmVlptS0FpMTVMNlltSUc4STdNRUUtZnIzNzBqV0Jsejk2YmNnOUdHZGxDRXlsZFJEMExsckpGWjE3UHlwaF9JcXUwa1ktaHhfQkVNTGhxQzdHUVVnMFBtVEFXbmlaZnZtWjQtNDh6ekJwQTQ1eUktbWxmdDlSNzJhbmJjaHl3Z1k?oc=5"
     }
    ],
-   "score": 26.5
+   "score": 25.8
   },
   {
-   "id": "8ba6bbf965",
-   "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1 | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=fMpWDoSp1Ao",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-20T05:30:00-02:00",
+   "id": "732d9796f9",
+   "titulo": "Ao pedir fim do sigilo de relatório, Mendonça tenta se antecipar a críticas sobre sua relatoria no caso Master",
+   "url": "https://valor.globo.com/politica/noticia/2026/11/20/ao-pedir-fim-do-sigilo-de-relatorio-mendonca-tenta-se-antecipar-a-criticas-sobre-sua-relatoria-no-caso-master.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-20T17:07:55.717719+00:00",
    "temas": [
+    "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+assina+decreto+que+regulamenta+fim+escala+6x1+InfoMoney",
-   "veiculos": 5,
+   "busca_video": "https://www.youtube.com/results?search_query=pedir+fim+sigilo+relat%C3%B3rio%2C+Mendon%C3%A7a+tenta+antecipar+cr%C3%ADticas+sobre",
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "UOL Economia",
-     "titulo": "ABF levar� ao governo Lula propostas sobre tributos, Simples e escala 5x2",
-     "url": "https://economia.uol.com.br/empreendedorismo/noticias/redacao/2026/11/20/abf-propostas-governo-reeleito-impactos-escala-5x2.htm"
+     "veiculo": "UOL",
+     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
+     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A"
     },
     {
-     "veiculo": "Record News",
-     "titulo": "Lula assina decreto que regulamenta escala 5x2",
-     "url": "https://www.youtube.com/watch?v=Kc4QmfhDvrc"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
-     "url": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/"
-    },
-    {
-     "veiculo": "Folha",
-     "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1, com hora extra mais cara",
-     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1-acompanhe.shtml"
+     "veiculo": "GloboNews",
+     "titulo": "Ana Flor diz que André Mendonça tenta se 'descolar do caso Master' ao liberar sigilo de relatório",
+     "url": "https://www.youtube.com/watch?v=khuZeGoWPAQ"
     }
    ],
-   "score": 25.8,
-   "video_url": "https://www.youtube.com/watch?v=Kc4QmfhDvrc",
-   "video_canal": "Record News",
-   "video_por_hora": 1000,
-   "video_acima_mediana": 5.7,
+   "score": 24.7,
+   "video_url": "https://www.youtube.com/watch?v=khuZeGoWPAQ",
+   "video_canal": "GloboNews",
+   "video_por_hora": 2382,
+   "video_acima_mediana": 9.6,
    "videos": [
     {
-     "canal": "Record News",
-     "titulo": "Lula assina decreto que regulamenta escala 5x2",
-     "url": "https://www.youtube.com/watch?v=Kc4QmfhDvrc",
-     "por_hora": 1000
+     "canal": "GloboNews",
+     "titulo": "Ana Flor diz que André Mendonça tenta se 'descolar do caso Master' ao liberar sigilo de relatório",
+     "url": "https://www.youtube.com/watch?v=khuZeGoWPAQ",
+     "por_hora": 2382
     },
     {
-     "canal": "InfoMoney",
-     "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1 | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=fMpWDoSp1Ao",
-     "por_hora": 154
+     "canal": "UOL",
+     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
+     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A",
+     "por_hora": 1733
     }
    ]
   },
   {
-   "id": "2e461bca37",
-   "titulo": "BNDES reduz exposição à Petrobras para 20% do patrimônio líquido do banco",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYVpmeUlHeXFfZlMwWXRTYlB4eTlzaGNvalo1cmJYbUJtcmwwSWdHVl9UUmp4SXRfemk4bExia0x2NFJXd0xZci1YREp0U0pLLXdkYkNGdnpCcDdUTE5MVFZoUzBsR0IwMm5jVGk5N1BlWjVfNXM3MzhFMkJ2YkNNTFNlNlNQVTJ0Y0l4TE1qM2p6Y25CVWRxTnpndlh3cldHRFBZYk9oWFVBbHZVUkE?oc=5",
-   "veiculo": "eixos",
-   "publicado": "2026-11-20T02:48:00+00:00",
+   "id": "d842f18343",
+   "titulo": "Bitcoin fica abaixo de US$ 60 mil pela 1ª vez desde julho",
+   "url": "https://www.poder360.com.br/poder-economia/bitcoin-fica-abaixo-de-us-60-mil-pela-1a-vez-desde-julho/",
+   "veiculo": "Poder360",
+   "publicado": "2026-11-20T19:10:15+00:00",
+   "temas": [
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Bitcoin+fica+abaixo+US%24+mil+pela+vez+desde+julho",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Maior tombo mensal desde 2022: bitcoin (BTC) fura o piso, cai abaixo de US$ 60 mil e arrasta outras criptomoedas",
+     "url": "https://www.seudinheiro.com/2026/criptomoedas/maior-tombo-mensal-desde-2022-bitcoin-btc-fura-o-piso-cai-abaixo-de-us-60-mil-e-arrasta-outras-criptomoedas-ccgg/"
+    },
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Maior tombo mensal desde 2022: bitcoin (BTC) fura o piso, cai abaixo de US$ 60 mil e arrasta outras criptomoedas",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNejF1OU84cVVVcDA1Q1ZVT21QYnBWMXNHcEZXMFdjSGRQRTBJYmpiMG5TelltUkhGazUtcl9GcmpEdDZ4MTA5S3E3anZFLTJ2ZHlma0lpbFNTRlZGYm52NDEybkRBTFVlS0ZGSzJtMF9IWmpqakJFUnY3bFVTUDZPdFRzZ2h2N0h1NG1ORFZNLXl6MDVJMGxIRk1KbFZaTm1rZThsdnBETF9JTlBocHRIVnFjRTlBU21kX3QzWFBPTXYydHI0TThIRl9UdUFtRXZoZ3ZsR1NXRjlnSUFoSXotMEVUVk1kdGhsclBmYkYyOE4?oc=5"
+    }
+   ],
+   "score": 24.6
+  },
+  {
+   "id": "305a30386e",
+   "titulo": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
+   "url": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml",
+   "veiculo": "g1",
+   "publicado": "2026-11-20T16:40:52+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Impasse+sobre+guerra+gastos+militares+amea%C3%A7a+paralisar+governo+dos",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Valor",
+     "titulo": "Guerra contra o Irã gera impasse no Congresso dos EUA e ameaça paralisar governo",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/20/guerra-contra-o-ira-gera-impasse-no-congresso-dos-eua-e-ameaca-paralisar-governo.ghtml"
+    },
+    {
+     "veiculo": "InfoMoney",
+     "titulo": "Congresso se esforça para evitar paralisação do governo; guerra com Irã divide",
+     "url": "https://www.youtube.com/watch?v=Y2rcRqEidCo"
+    }
+   ],
+   "score": 24.6,
+   "video_url": "https://www.youtube.com/watch?v=Y2rcRqEidCo",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 70,
+   "video_acima_mediana": 0.7,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Congresso se esforça para evitar paralisação do governo; guerra com Irã divide",
+     "url": "https://www.youtube.com/watch?v=Y2rcRqEidCo",
+     "por_hora": 70
+    }
+   ]
+  },
+  {
+   "id": "af151e2ad1",
+   "titulo": "Mercado reduz previsão de inflação para 2026, mas vê Selic e dólar mais altos em 2027",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVm1PdmJoTTg4U0VyQjc2SGZSbFdXaks5ZWhtYlFtUnJpQ0dlQWhGdWI0UTFSVkkxUmFGVW5FRmdpdDNHNU5kSFJKLW54WmNNV3hfbWp0N2tTR0F4cDh6Rmd0OWFPeGRES2VrRUdEdUJvY2I5dDVvQ1FyM1R3UTNnOWtiX0xwZEs2U04zclRzenNHV24wUWtLQTJJVi1leFJ5UmJxU2h2eDhranBhSWpvR0V1OTRPNGgzbnlzLUxNT0g2WTh5ZXV3RW9SdnR5Z3FFbmFGNDNvV3BBaVM0NmIyWDdza2U?oc=5",
+   "veiculo": "Estadão",
+   "publicado": "2026-11-20T17:33:31+00:00",
    "temas": [
     "economia",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=BNDES+reduz+exposi%C3%A7%C3%A3o+Petrobras+para+20%25+patrim%C3%B4nio+l%C3%ADquido+banco",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=Mercado+reduz+previs%C3%A3o+infla%C3%A7%C3%A3o+para+2026%2C+mas+Selic+d%C3%B3lar",
+   "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "CPG Click Petróleo e Gás",
-     "titulo": "BNDES vende R$ 3,6 bilhões em ações da Petrobras, reduz exposição à estatal para 20% do patrimônio e abre espaço para novos financiamentos após adequação às regras do Banco Central",
-     "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxNN0ctYVVLV2NDMnpSZGlNTUtNelRtLXktNlFjTEFKWXoyRUZrelhlc1BUU2YwSV9NbkJUVDJPV0g4NUttTG9qaXZpeTBLUUlYMU01QWJjWTNRVVB1clRjX3Z4QXQxeXQtUjFEZ1VrYnNlVFVpZmFfZzhsZ0NKMnVQV01qcUNNOXltTXh1ZGFvYlpfOWR2ZTRKUkNJa0RPbi10S2c1ZUF5SllQc21VZEhHNDYyRy1MMno5X3NOc1UzSjNiNU1HNDBWV1pYWHdFM0ZLbU90azZNZTg3NXBHZEtpSTNzbUwweHJGbkJYUlVvdnhPdmpEc2Y4UjVfQ0MtaU1YXzRuRUUxeG9WLTRkVGxuX0IyZ3EtWWJiODJmdDU3alUxZ1UxRVNVSDNVcHk2eHhkc1JfaUlFUUpKOXBSdGlLRDlULXg1N2lvSHhaQWZJeDRvYXB6U2lObGsxWWlMRFZ4LV8tMjhSZWVqWERYV0Jna2hXakFEc3ZTaGJBb1o2SXZFSHNlLWdWOVZydmluQ2hyQURBcC1sVUVmZWFSZkZ2UmQ1SHJuSkI4aGwxZmpDendhMktKLVFmYVVnaEl6dUJ1NnZpY1FWcDY2YVJ6XzNrbkxMWWRBNVk0TGxHMFJkMFloTG5aOV91X3FWaEthRE1RV2JwSFJsZ3V2QTBROWcwa1EzaE96Qm55VWpzRW1xRkhlVEVLM0NLYW96ZmwyUWE4UFI3RERYcnAwYk1ocjE5WS1FakRwV09uVVVwMHNfV0IxUW5Ub2VJcWVqNkt4dHJTcnJxMUtFYTdRd2ZXYnlnMnZISGtULU0?oc=5"
-    },
-    {
-     "veiculo": "BPMoney",
-     "titulo": "BNDES corta exposição à Petrobras para 20% do patrimônio e volta ao limite do BC",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON291Q2Q4N2x0aUZtZXV2OGIybjlMLWpwNTF4MUdWYmxnMkZYWFVUZFFHNWN3cm5fdWFtWlVvWWRKMzh2M0NwVEtCbjdtN0JObzluMXdxcVNuc0hPMWRVRkRaQlpoS3p5TjZGQWpMb0dqcm84STdlekdfY05FbE9aVjBGUXphYjFDSXRyLUVZYw?oc=5"
+     "veiculo": "Acionista.com.br",
+     "titulo": "Alerta: Revisão do cenário de inflação para 2026 e 2027",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEtEWlRPVTlDaEZNZGtzbWZBd1paMS1hY25leUdxb0ZDbzdIYTN0YVRlR09Jbkx2STJIcHZfZG1iRl9lUGFrZjJTSUgycnhRdXBnRzZ5a2FGYlJ2MDlvbGtVaHBsd1Z3am50Zy1yTmRIYXFtU0l3YnIxejJidXJWMlQwa3VjWHc?oc=5"
     }
    ],
-   "score": 24.5
+   "score": 23.9
   },
   {
    "id": "3012f6c562",
@@ -1392,83 +1503,50 @@
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZDlOYTBpZEdaUk5DR2Z0UDZUQ3NRQVNKWVhKdkhVcG5Sdks4dHlOUVNkQXpRUV9idHFtcHB1MHdRZWEyRjNqZzhSR21tU1l1ckllT3Nad2w1WGpnaEFGTkx3dEZxU1B5TXVtOFJENnhRT3BxX3R6SGx6UmhpT28tX2VoU1N5VlJjMzBSV1Y1YXBGY0I5bHpHYURpclZBLUd3Y2YxU05RMXBfNV9VNVlkNjlYcHRhelJhcDBNU2M4eV9MdU94d2dBT1ZpR0JZV01Qc2JJLVh4d185MjdHRG9Nc2ZMNWI1d1c2ckE40gH6AUFVX3lxTE1tWnFwWW1HZFZ5RWxxUFRqeUEwQm5rMDdad19CN09vRnZJR201WEhOcWlJM2RnLUdoTm5CUTRHTEJOclFLUHhEZUlpMV9sTUwzckx1RlRfTEVBU0M0ZXRGVFJZTThkOEZEWTlwcGhNN3dKRVpScVFmZjYwQ2FHNVg4Rjl4cElaZWFSWFRlV3h1UGY3WFVtQkxrU05KUU1aNGFtcjRpTHVuRV9NOE9OQUJnTGF2bF94aDVPMlJhbzFHdTNUYVE0Z1RVejIzTzNOMENOQVR4aDhBVjE0UWQ5N2NweXNYRWVzbDIzTHRGRTNtN0poRlJodlhINWc?oc=5"
     }
    ],
-   "score": 23.8,
+   "score": 23.1,
    "video_url": "https://www.youtube.com/watch?v=ZJcyUO27AXk",
    "video_canal": "InfoMoney",
-   "video_por_hora": 352,
-   "video_acima_mediana": 3.3,
+   "video_por_hora": 322,
+   "video_acima_mediana": 3.0,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Lula diz que diz que 'não tem pressa' para definir ministros | InfoMoney News",
      "url": "https://www.youtube.com/watch?v=ZJcyUO27AXk",
-     "por_hora": 352
+     "por_hora": 322
     }
    ]
   },
   {
-   "id": "ef903be347",
-   "titulo": "Vorcaro e Fábio Faria falaram sobre criar instituto para Moraes em Londres",
-   "url": "https://www.metropoles.com/colunas/manoela-alcantara/vorcaro-e-fabio-faria-falaram-sobre-criar-instituto-para-moraes-em-londres",
-   "veiculo": "Metrópoles",
-   "publicado": "2026-11-20T17:34:18+00:00",
+   "id": "fe8c53fdcd",
+   "titulo": "Me conta + Dep. Pedro Campos: Bets - 20/11/26",
+   "url": "https://www.youtube.com/watch?v=URSDs-ybsRU",
+   "veiculo": "Câmara dos Deputados",
+   "publicado": "2026-11-20T14:00:09+00:00",
    "temas": [
+    "comportamento",
+    "economia",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Vorcaro+F%C3%A1bio+Faria+falaram+sobre+criar+instituto+para+Moraes",
-   "veiculos": 3,
+   "busca_video": "https://www.youtube.com/results?search_query=conta+Dep.+Pedro+Campos+Bets",
+   "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Claudio Dantas",
-     "titulo": "Diálogos entre Vorcaro e Fábio Faria mencionam criação de instituto para Moraes",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFducWtCQlV1OVRRZzVkaUpvVlVzUHBiQ0c2c0s1WkxhcGJXQ0djd0FaSEs4UHVJanZEMUQtMFNYTHZSWTY1R08zaHVwbTI3X256ekFSMTJfMVhucnhSLXE1ZFR6RmNlRFhBTTlZRVBJbFhGTFpHSGxXUlhjSXpEdDh0dTlmTElNQUd3ZHoyNEdkWmwtLUxEVUk1VEdDaVNLQlR1YkpDVDQzRTRISFE?oc=5"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
-     "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw"
-    }
-   ],
-   "score": 23.8,
-   "video_url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
-   "video_canal": "UOL",
-   "video_por_hora": 5333,
-   "video_acima_mediana": 3.7,
+   "outras": [],
+   "score": 22.5,
+   "video_url": "https://www.youtube.com/watch?v=URSDs-ybsRU",
+   "video_canal": "Câmara dos Deputados",
+   "video_por_hora": 103,
+   "video_acima_mediana": 3.0,
    "videos": [
     {
-     "canal": "UOL",
-     "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
-     "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
-     "por_hora": 5333
+     "canal": "Câmara dos Deputados",
+     "titulo": "Me conta + Dep. Pedro Campos: Bets - 20/11/26",
+     "url": "https://www.youtube.com/watch?v=URSDs-ybsRU",
+     "por_hora": 103
     }
    ]
-  },
-  {
-   "id": "0dc3aba4f8",
-   "titulo": "Diretora do Fed diz que alta de juros de setembro pode ser insuficiente",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXM1YWV2UXNOaU9xbjNqY2otbVlSMVVGNFF6S3dodkQwY2ZiT0JrcnA2YWVQUXI5QVBiWG8xZi1sbVM1bmN0M3VWa1p3NXVMZTNDcm5hZ3pkdG1XU1phZ2Z1Y01xbThiRlBLTE10bWExazF5RTl2X3NFVmx5blJJWUJKMkIzcGxtNG5xdlBMWGRrM0d1MGFPcXhmV01KODVqTHNVT0laenVUZlA2RTlIQko2a0hSY2VuX0IzUi03cw?oc=5",
-   "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "publicado": "2026-11-20T17:50:00+00:00",
-   "temas": [
-    "comportamento",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Diretora+Fed+diz+que+alta+juros+setembro+pode+ser",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "IndexBox",
-     "titulo": "Ouro pode cair a US$ 3.500 com apostas em alta de juros do Fed elevando rendimentos e dólar - Notícias e Estatísticas",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTMyY0E1Mi1sdFFQVjI0RjNsakhCWWZ4SUJRYzRlNkUyQ1ZmSGNPQ181cnMtUkJRLVpULVpkQkRFUFItN0hKUC1HeDFBa2Q4YUY2azFNRmN6b2ozVDh0eVhtbGNaTUNnc2cwT05ZVGJlN2w5LXNfakc0ZTNLakZmQUhhWkZyUF9fLVZ2UzJrMVJlclk3cmFScWhFNm51Rzl0NTNBdA?oc=5"
-    }
-   ],
-   "score": 23.7
   },
   {
    "id": "7d8fcb869d",
@@ -1492,124 +1570,24 @@
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNTJwOXRRSXkxa2VjZXV6UVdjWk5wLTI3ZGU2Wk9QZWJMX1VOTjdtMmRfeXhRRnpabGFPUllLaktCZGdpbXpfYWNQQXRLb2x0VElaVF82VS1RcWp6Y0dHZnpmVlRVUjV3cmNxOU1jNXNiY1ljb0NYNWx6NWl1SFZIWDRyUkVOVWZCN1JjdDdFUmVUYjB3bDhPMGs0cXJtcVdIa0RraGdGYnR6cWQzWmc4RHVycmVHZ2dxSDlLTC1IM1Z3WGJzaGotVjFRTjZVNjVlUWtWMmJld3pKZzRkYmwxdTNMbw?oc=5"
     }
    ],
-   "score": 23.2
+   "score": 22.5
   },
   {
-   "id": "2824d90213",
-   "titulo": "Moedas emergentes recuam com dólar forte e apostas em altas de juros pelo Fed",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3lvQk5fSllnS2pydlRqaTlJM3ZFX3dnekFrbXYzVFIybEQ5R1FkaHpPLWtWUTlWOG5oWnN6NEwzNTlnUUtua1R1SENPc1dvSm1QVy10aWk0Qlo4SU15V1pONHdyRGQ2enVjZUtEdlVIcUd0T09uOFdudVR2Z2pXdXk4Yk9GYnFBOW9EOEg4bmNUZzNhQm04VTA3RS1jaVU4MXkwMDB1SlNoUVJuMHJ0Tm1kSV9xREUyMHhVUU9IVlFBeWItNUVMUjd3WHVPdDDSAd4BQVVfeXFMTVZTQ2pBRzl4ZXhyRWxUbUVHWlRudW1zRE16ME1XOTZDTm9CUlNyN0NHQ3VQX2M4WmVQYnhwNzFuWlRLQ18zdGdHek9FSVRNMUVjUzQ0d2FTOUg4SmNNWFkyeXlXbkxwMjlwQXdwOFFMRFRvUEU2TGlJMlVWdEZhTDJwRlRwdkpQT0hDWXhGbmctbkUyRnRZOVdOM3JCXzUxSFFXSXBqS2xFd19lczgtUU9vODRrd3ZHTi1FQUR2VWphYlNkZWNSa1ZfLVFFMTJ2LUFudzVzY2lfZWVxal93?oc=5",
-   "veiculo": "Valor Econômico",
-   "publicado": "2026-11-20T16:21:30+00:00",
+   "id": "5b9a5309ff",
+   "titulo": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos",
+   "url": "https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-20T19:41:41+00:00",
    "temas": [
-    "comportamento",
     "mercado"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Moedas+emergentes+recuam+com+d%C3%B3lar+forte+apostas+altas+juros",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "www.tmgm.com",
-     "titulo": "Euro sob pressão com fortalecimento do dólar em meio a apostas de alta dos juros pelo Fed",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1BVSUpSTER5S3RLQ3pnR2o1Rmh4V1o5UFVOTF9MeW5IX2hSOVV4aXo2RnZ6Skxwc2VmVU1ITi0ybUFYdXRJVUdCNUthTzBtN2VGdVdEd1hOQ2UwYXdWRE1Qaml6dF9MMkRtNDI3QTExN25hT2hBWExqZUVZMFpaNVdLN0lydGE5T2NERFdrQTR5MHNVZjFCSWp0NjQzWG54anhzM3JrR3VPdVN5SFBYN19MRFYwVWw1WFk3UWZ6Rkh2Q2dXTTdN?oc=5"
-    },
-    {
-     "veiculo": "www.tmgm.com",
-     "titulo": "Índice do Dólar Americano (DXY) oscila abaixo de 104,00 com receios sobre IA contrabalançando apostas de alta dos juros pelo Fed",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEdSQlZVVGtqNTNtSko4UkpvY1hWYUhGRlJDR0RXNTZiRGhXbWJMY1VWMm1QV01MblZ4V2FTNjFGSng5OVF1R0RaaTJCNmVBR28yQkJDbUF2N1VQdmxwNDNyVmllSWVPa1lOT0FNWUNScHVsNnZHNjZtQnVJdl9tRUtZSnZuUWVXNDN3UlJVQWhoMDUyOGxFWU1zQm0wdUppM0FhQ196dlhycE5LdEZtQUpiT0RqZ2pVYk4xTDdXTjlRVF85X1ItR2g0NmpLa3Rid3BRTjBPUjlMSklL?oc=5"
-    }
-   ],
-   "score": 23.1
-  },
-  {
-   "id": "0c2ead5a01",
-   "titulo": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF",
-   "url": "https://www.youtube.com/watch?v=8dCZ_zvJ93U",
-   "veiculo": "UOL",
-   "publicado": "2026-11-20T16:45:38+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=PGR+ter%C3%A1+n%C3%BAcleo+com+Gonet+para+avaliar+relat%C3%B3rios+sobre",
-   "veiculos": 3,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF",
-     "url": "https://www.youtube.com/watch?v=AAkbRmz67Xc"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "STF envia à PGR relatórios sobre ministros citados em apuração | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=Ard8J-bIK-w"
-    },
-    {
-     "veiculo": "Agora RN",
-     "titulo": "Fachin encaminha à PGR relatórios da PF sobre ministros do STF no celular de Vorcaro",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iQWFMeUtkUF9ZZXBJOGZsUUhYU2wwLVVCdjF6eWFfQVI1Nlh3TDB0bjhOTXd5R2JoU21jQ0F6YUU1aFNjR25PSXRjby1GaTlSS2VxSEdlcDFISHBhUVpCNnoyWEhxS2ZoZ0xsUFprRHI?oc=5"
-    }
-   ],
-   "score": 23.0,
-   "video_url": "https://www.youtube.com/watch?v=Ard8J-bIK-w",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 1700,
-   "video_acima_mediana": 2.2,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "STF envia à PGR relatórios sobre ministros citados em apuração | Bora Brasil",
-     "url": "https://www.youtube.com/watch?v=Ard8J-bIK-w",
-     "por_hora": 1700
-    },
-    {
-     "canal": "UOL",
-     "titulo": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF",
-     "url": "https://www.youtube.com/watch?v=8dCZ_zvJ93U",
-     "por_hora": 338
-    },
-    {
-     "canal": "UOL",
-     "titulo": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF",
-     "url": "https://www.youtube.com/watch?v=AAkbRmz67Xc",
-     "por_hora": 322
-    }
-   ]
-  },
-  {
-   "id": "be7c25771c",
-   "titulo": "Presidente nega pressa para anunciar novos ministros | TEMPO REAL",
-   "url": "https://www.youtube.com/watch?v=xRusVrxPia8",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-20T17:32:25+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Presidente+nega+pressa+para+anunciar+novos+ministros+TEMPO+REAL",
+   "busca_video": "https://www.youtube.com/results?search_query=Ouro+fecha+menor+n%C3%ADvel+ano%2C+com+commodities+pressionadas+por",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.8,
-   "video_url": "https://www.youtube.com/watch?v=xRusVrxPia8",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 538,
-   "video_acima_mediana": 1.3,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Presidente nega pressa para anunciar novos ministros | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=xRusVrxPia8",
-     "por_hora": 538
-    }
-   ]
+   "score": 21.8
   },
   {
    "id": "73e6548fa9",
@@ -1634,106 +1612,227 @@
      "url": "https://www.youtube.com/watch?v=N1jivpPyyu0"
     }
    ],
-   "score": 22.4,
+   "score": 21.7,
    "video_url": "https://www.youtube.com/watch?v=N1jivpPyyu0",
    "video_canal": "SBT News",
-   "video_por_hora": 21,
-   "video_acima_mediana": 0.0,
+   "video_por_hora": 126,
+   "video_acima_mediana": 0.1,
    "videos": [
     {
      "canal": "SBT News",
      "titulo": "Orçamento da Igualdade Racial cresce 129%, mas execução fica abaixo de 50% | #RadarNews",
      "url": "https://www.youtube.com/watch?v=N1jivpPyyu0",
-     "por_hora": 21
+     "por_hora": 126
     },
     {
      "canal": "SBT News",
      "titulo": "Igualdade Racial: orçamento da pasta cresce 129% desde 2023 | #NewsPrimeiraEdição",
      "url": "https://www.youtube.com/watch?v=RerHf2job9I",
-     "por_hora": 0
+     "por_hora": 122
     }
    ]
   },
   {
-   "id": "665ea2c690",
-   "titulo": "Por que o dólar disparou e o mercado financeiro está em queda de braço com o governo?",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHF4aUZ3VXpuOG53bDc1RElIYWp0Tm91YVZTZk5BYU5vNWZFdkJlSXVIUEV1U01SZHZraHpYQnZDUHhHSDRkVlYxeHJvS2FpU1ZqQnZyc2dzQXRuNHphNXRySFFuNU92c3hEZ3MySFc4SnRySDlpXzNsa0xURTI1c29NZFdVYk42a1NXdkp3OWhya1pRV1VpTFprU3ZDU3E3a2dqV0FIQjRvSW5jSUhlSnF6LVhVZGo3cV91Nmx5a01BbW1NbTh0WXJCQWpCU05nMEY2Tw?oc=5",
-   "veiculo": "R7",
-   "publicado": "2026-11-20T01:59:08+00:00",
+   "id": "efe79d231b",
+   "titulo": "Governo articula manter ajuste e religa alerta sobre créditos tributários | CNN 360°",
+   "url": "https://www.youtube.com/watch?v=z0Vq0JUXOnA",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-20T19:03:21+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+articula+manter+ajuste+religa+alerta+sobre+cr%C3%A9ditos+tribut%C3%A1rios",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.6,
+   "video_url": "https://www.youtube.com/watch?v=z0Vq0JUXOnA",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 223,
+   "video_acima_mediana": 0.4,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Governo articula manter ajuste e religa alerta sobre créditos tributários | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=z0Vq0JUXOnA",
+     "por_hora": 223
+    }
+   ]
+  },
+  {
+   "id": "f6e90e0ef4",
+   "titulo": "PF diz não ter achado registro de diálogo direto entre Mendonça e Vorcaro | CNN 360°",
+   "url": "https://www.youtube.com/watch?v=jgCTt9NF23s",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-20T18:41:43+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=diz+n%C3%A3o+ter+achado+registro+di%C3%A1logo+direto+entre+Mendon%C3%A7a",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.5,
+   "video_url": "https://www.youtube.com/watch?v=jgCTt9NF23s",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 2863,
+   "video_acima_mediana": 5.7,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "PF diz não ter achado registro de diálogo direto entre Mendonça e Vorcaro | CNN 360°",
+     "url": "https://www.youtube.com/watch?v=jgCTt9NF23s",
+     "por_hora": 2863
+    }
+   ]
+  }
+ ],
+ "falas_e_videos": [
+  {
+   "id": "8bad522997",
+   "titulo": "Trump diz que não permitirá a empresas construir data centers fora dos EUA",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-diz-que-nao-permitira-que-empresas-construam-datacenters-fora-dos-eua/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-20T20:01:47+00:00",
    "temas": [
     "economia",
     "mercado",
     "politica"
    ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Por+que+d%C3%B3lar+disparou+mercado+financeiro+est%C3%A1+queda+bra%C3%A7o",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Grupo Portal de Notícias",
-     "titulo": "DEBATE ECONÔMICO: O EMBATE ENTRE O GOVERNO FEDERAL E O MERCADO FINANCEIRO SOBRE DÓLAR, JUROS E RESPONSABILIDADE FISCAL",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLW5iZkxUdnBQZUF3cF9kVF9lVjh4QU1UTmhtOEdIZmhCcDZGRmVPREEzeUZmbkdLUnhhbDByREZENW9Sc3FOdkNkaExkLTdpS1VubmstTE91amR6Um1OOGpOSzZOb2hUVXc4WEF6dU1zaWVNNS1LRE80UTVZR2owdEZDRnZZeWhvT1R0X21Ib3JfUTJ3alhfNHl5RXU1Rlk5eXRJbVVxR3JBTXo3Sl9GUW5EcUFxSy1Hb3Atdm9jd0hNSWRvT0VtZ0RKbWttVWJCMGZvZ0xrUUxzRVVDS1N1OS1RTFp5OFlONUE?oc=5"
-    }
-   ],
-   "score": 22.1
-  },
-  {
-   "id": "4d22ce8812",
-   "titulo": "BTG desistiu de comprar Master por falta de garantias, diz Esteves",
-   "url": "https://www.poder360.com.br/poder-economia/btg-desistiu-de-comprar-master-por-falta-de-garantias-diz-esteves/",
-   "veiculo": "Poder360",
-   "publicado": "2026-11-20T18:23:40+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
+   "video": true,
    "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=BTG+desistiu+comprar+Master+por+falta+garantias%2C+diz+Esteves",
-   "veiculos": 2,
+   "busca_video": "https://www.youtube.com/results?search_query=Trump+diz+que+n%C3%A3o+permitir%C3%A1+empresas+construir+data+centers",
+   "veiculos": 9,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Valor",
-     "titulo": "BTG desistiu de 'solução de mercado' para o Master e BC foi alertado sobre dúvidas, diz Esteves",
-     "url": "https://valor.globo.com/financas/noticia/2026/11/20/btg-desistiu-de-soluo-de-mercado-para-o-master-e-bc-foi-alertado-sobre-dvidas-diz-esteves.ghtml"
+     "veiculo": "UOL",
+     "titulo": "Dani Lima ao vivo: Trump barra data centers fora dos EUA; PF: Vorcaro se frustrou com Mendonça e+",
+     "url": "https://www.youtube.com/watch?v=m7uSkOg-urI"
+    },
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Trump proíbe empresas americanas de construir data centers fora dos EUA",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3VENjBwS3l0YnY0eXo4SEJyaDU1N0ZrUkgwTTNkWUkwR0FPNlFGdHBHblhLWEtuRTNZX044MzNQUHBRTE1kWUdtSDNkM1JnT3hGeVREdGN2eG5GRldkSHFaN3JMYkJnU201V3ZiM25kTi1td085VExIOXB5M1JTNkFDcG1HTUtFdWNtREIwYzNzUjhBMjFZMFdoQnpZZ2RsN0pNTTdHdV9UV2dtblVJ?oc=5"
+    },
+    {
+     "veiculo": "Folha",
+     "titulo": "Trump ameaça impor taxas pesadas a empresas dos EUA que construírem data centers no exterior",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/trump-ameaca-impor-taxas-pesadas-a-empresas-dos-eua-que-construirem-data-centers-no-exterior.shtml"
+    },
+    {
+     "veiculo": "Exame",
+     "titulo": "Trump ameaça proibir empresas dos EUA de construírem data centers no exterior",
+     "url": "https://exame.com/mundo/trump-ameaca-proibir-empresas-dos-eua-de-construirem-data-centers-no-exterior/"
     }
    ],
-   "score": 22.0
+   "score": 53.0,
+   "video_url": "https://www.youtube.com/watch?v=m7uSkOg-urI",
+   "video_canal": "UOL",
+   "video_por_hora": 30114,
+   "video_acima_mediana": 10.6,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Dani Lima ao vivo: Trump barra data centers fora dos EUA; PF: Vorcaro se frustrou com Mendonça e+",
+     "url": "https://www.youtube.com/watch?v=m7uSkOg-urI",
+     "por_hora": 30114
+    }
+   ]
   },
   {
-   "id": "fdc8e370b1",
-   "titulo": "Maior tombo mensal desde 2022: bitcoin (BTC) fura o piso, cai abaixo de US$ 60 mil e arrasta outras criptomoedas",
-   "url": "https://www.seudinheiro.com/2026/criptomoedas/maior-tombo-mensal-desde-2022-bitcoin-btc-fura-o-piso-cai-abaixo-de-us-60-mil-e-arrasta-outras-criptomoedas-ccgg/",
-   "veiculo": "Seu Dinheiro",
-   "publicado": "2026-11-20T18:20:33+00:00",
+   "id": "fc7a32512c",
+   "titulo": "Fachin retira sigilo de relatório sobre Mendonça no caso Master",
+   "url": "https://valor.globo.com/politica/noticia/2026/11/20/mendonca-pede-a-fachin-para-tirar-sigilo-de-relatorio-com-mencoes-a-ele-no-caso-master.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-20T19:42:37+00:00",
    "temas": [
-    "mercado"
+    "mercado",
+    "politica"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Maior+tombo+mensal+desde+2022+bitcoin+BTC+fura+piso%2C",
-   "veiculos": 1,
+   "busca_video": "https://www.youtube.com/results?search_query=Fachin+retira+sigilo+relat%C3%B3rio+sobre+Mendon%C3%A7a+caso+Master",
+   "veiculos": 10,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Seu Dinheiro",
-     "titulo": "Maior tombo mensal desde 2022: bitcoin (BTC) fura o piso, cai abaixo de US$ 60 mil e arrasta outras criptomoedas",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNejF1OU84cVVVcDA1Q1ZVT21QYnBWMXNHcEZXMFdjSGRQRTBJYmpiMG5TelltUkhGazUtcl9GcmpEdDZ4MTA5S3E3anZFLTJ2ZHlma0lpbFNTRlZGYm52NDEybkRBTFVlS0ZGSzJtMF9IWmpqakJFUnY3bFVTUDZPdFRzZ2h2N0h1NG1ORFZNLXl6MDVJMGxIRk1KbFZaTm1rZThsdnBETF9JTlBocHRIVnFjRTlBU21kX3QzWFBPTXYydHI0TThIRl9UdUFtRXZoZ3ZsR1NXRjlnSUFoSXotMEVUVk1kdGhsclBmYkYyOE4?oc=5"
+     "veiculo": "UOL",
+     "titulo": "Relatório da PF mostra frustração de Vorcaro com voto de Mendonça",
+     "url": "https://www.youtube.com/watch?v=CQAaYs2JUUg"
+    },
+    {
+     "veiculo": "SBT News",
+     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
+     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI"
+    },
+    {
+     "veiculo": "Band Jornalismo",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
+     "url": "https://www.youtube.com/watch?v=gROCumReaQw"
+    },
+    {
+     "veiculo": "Record News",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
+     "url": "https://www.youtube.com/watch?v=rIewO_tXltk"
     }
    ],
-   "score": 21.9
-  }
- ],
- "falas_e_videos": [
+   "score": 45.4,
+   "video_url": "https://www.youtube.com/watch?v=CQAaYs2JUUg",
+   "video_canal": "UOL",
+   "video_por_hora": 6370,
+   "video_acima_mediana": 2.2,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Relatório da PF mostra frustração de Vorcaro com voto de Mendonça",
+     "url": "https://www.youtube.com/watch?v=CQAaYs2JUUg",
+     "por_hora": 6370
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
+     "url": "https://www.youtube.com/watch?v=gROCumReaQw",
+     "por_hora": 3228
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
+     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI",
+     "por_hora": 2175
+    },
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
+     "url": "https://www.youtube.com/watch?v=vQceU5Oe9DE",
+     "por_hora": 2101
+    },
+    {
+     "canal": "Record News",
+     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
+     "url": "https://www.youtube.com/watch?v=rIewO_tXltk",
+     "por_hora": 1526
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
+     "url": "https://www.youtube.com/watch?v=a4hncXy1020",
+     "por_hora": 1283
+    }
+   ]
+  },
   {
    "id": "cffcb5eb0c",
    "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
    "url": "https://www.youtube.com/watch?v=n6GDM0mQmgc",
    "veiculo": "InfoMoney",
-   "publicado": "2026-11-20T17:57:00+00:00",
+   "publicado": "2026-11-20T15:31:12+00:00",
    "temas": [
     "economia",
     "mercado",
@@ -1742,14 +1841,9 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Justi%C3%A7a+libera+iPhones+Senado+Nikolas+perde+liminar",
-   "veiculos": 18,
+   "veiculos": 12,
    "rotina": false,
    "outras": [
-    {
-     "veiculo": "Aliados Brasil",
-     "titulo": "Justiça derruba liminar obtida por Nikolas e libera compra de R$ 6 milhões em iPhones para senadores",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZmxvT2paLTBzMm1yc05uY2p1aHM3QTB6blBaYTZUYkRjbmhpUktUa1ctSWFNUGcxVmZMcmRBdWd4b2FjRHQycjNfa1RKVWR5NkFlSG54M09ETmF2bjl0VEVkQnV0UkJ4VTA3X21JWlNCUlZaU1gxZml1UkRBWjZQM1JFVkNuNXRHX0JjN1NrcUFWT0EyTkNOR0RNLXgyT1lPcGpqVFdXRGUwa1dJZkNLdTdTUGtGQTUtdXAzYTk0THZUZ09kT2tYZFRUUmpuQ2xRRFF5Mk5NS3ZxTlFlNFZjQg?oc=5"
-    },
     {
      "veiculo": "Jornal Correio",
      "titulo": "Justiça derruba liminar e libera licitação de R$ 4,95 milhões para iPhones no Senado",
@@ -1764,240 +1858,96 @@
      "veiculo": "Acesse Política",
      "titulo": "Justiça libera licitação do Senado para compra de 95 iPhones 18 Pro",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEJvUzRGOUhIY3VHdzhoa2FfSFNtaVljQ3czSzY3MDVHNHNVQWl1SF9EckVMRFFsc1BPUEktdVFod0thMEk5bUtyOVd5MThSa1FtcnFISjk3MmtoRVFuRmZVdkQ0MEJqaXJ1Ty1yYi11eVZwb3Zaa2I4b2lFMUYyUGoySm5NMExEX3o3dzBDTWQ4UGxoemRvMFo1UEdjem9MNDZ3UlNEUE1xSG1RVnI3Z3V3?oc=5"
+    },
+    {
+     "veiculo": "Jornal Impresso Brasil",
+     "titulo": "Justiça atende Nikolas Ferreira e suspende licitação que previa gasto de R$ 6 milhões com iPhones e outros celulares para parlamentares",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSEg4X3hSaHRRWlFVTkFkSXV4cFZVU0tiTEdOM3VkQ2tyaGpWZVQydnMyNGxPOVRWd3UyRktOQ3ZPd1FjaGdycDhYc05ULWhGX3VrcE5peUhmcTNnTW41bmdpdFRrWjc4cnhnM1BoeDdMdC1IUFV3cDFSalFheHp6MFlsdFVUekhvYnltdjlTbEY1VjlobEVyRmstM3A2UTQxVjhlOFNsc0tQSHlnSzROdmpmdzYwcVNuam9ldFdCRmhfeklwQzY5R2xIaFBpcllReEoxeGc4b0x1STVFRTl2M1pyNGp0ZXNZV1VoZmNTbnJXLXVEc2pVY2NUVVFRekZiOEZJWl9OM1l5cUphYm5r?oc=5"
     }
    ],
-   "score": 50.6,
-   "video_url": "https://www.youtube.com/watch?v=s24IbEOkXuc",
+   "score": 40.9,
+   "video_url": "https://www.youtube.com/watch?v=n6GDM0mQmgc",
    "video_canal": "InfoMoney",
-   "video_por_hora": 2124,
-   "video_acima_mediana": 19.9,
+   "video_por_hora": 2071,
+   "video_acima_mediana": 19.4,
    "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
-     "url": "https://www.youtube.com/watch?v=s24IbEOkXuc",
-     "por_hora": 2124
-    },
     {
      "canal": "InfoMoney",
      "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
      "url": "https://www.youtube.com/watch?v=n6GDM0mQmgc",
-     "por_hora": 1911
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Justiça derruba liminar que suspendeu compra de celulares para senadores | #NewsNoite",
-     "url": "https://www.youtube.com/watch?v=4fec-4lr2MY",
-     "por_hora": 1067
-    }
-   ]
-  },
-  {
-   "id": "fc7a32512c",
-   "titulo": "Fachin retira sigilo de relatório sobre Mendonça no caso Master",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/20/mendonca-pede-a-fachin-para-tirar-sigilo-de-relatorio-com-mencoes-a-ele-no-caso-master.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T18:14:19+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fachin+retira+sigilo+relat%C3%B3rio+sobre+Mendon%C3%A7a+caso+Master",
-   "veiculos": 11,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Poder360",
-     "titulo": "Relatório da PF sobre André Mendonça contém só citações de terceiros",
-     "url": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-sobre-andre-mendonca-contem-so-citacoes-de-terceiros/"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
-     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Ao pedir fim do sigilo de relatório, Mendonça tenta se antecipar a críticas sobre sua relatoria no caso Master",
-     "url": "https://valor.globo.com/politica/noticia/2026/11/20/ao-pedir-fim-do-sigilo-de-relatorio-mendonca-tenta-se-antecipar-a-criticas-sobre-sua-relatoria-no-caso-master.ghtml"
-    },
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
-     "url": "https://www.youtube.com/watch?v=gROCumReaQw"
-    }
-   ],
-   "score": 48.0,
-   "video_url": "https://www.youtube.com/watch?v=gROCumReaQw",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 2788,
-   "video_acima_mediana": 3.6,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça e Vorcaro",
-     "url": "https://www.youtube.com/watch?v=gROCumReaQw",
-     "por_hora": 2788
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Edson Fachin aceita pedido de Mendonça e levanta sigilo de relatório",
-     "url": "https://www.youtube.com/watch?v=vQceU5Oe9DE",
-     "por_hora": 2369
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Ana Flor diz que André Mendonça tenta se 'descolar do caso Master' ao liberar sigilo de relatório",
-     "url": "https://www.youtube.com/watch?v=khuZeGoWPAQ",
-     "por_hora": 2118
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Fachin derruba sigilo de relatório da PF sobre Mendonça",
-     "url": "https://www.youtube.com/watch?v=rIewO_tXltk",
-     "por_hora": 1687
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Mendonça abre mão de sigilo no STF sobre relatório da PF no caso Master",
-     "url": "https://www.youtube.com/watch?v=a4hncXy1020",
-     "por_hora": 1600
-    },
-    {
-     "canal": "UOL",
-     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
-     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A",
-     "por_hora": 903
-    }
-   ]
-  },
-  {
-   "id": "cd11b0bab3",
-   "titulo": "Ações da Anthropic estreiam com alta de 17% na Nasdaq",
-   "url": "https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-20T18:12:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=A%C3%A7%C3%B5es+Anthropic+estreiam+com+alta+17%25+Nasdaq",
-   "veiculos": 14,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Balada IN",
-     "titulo": "Ações da Anthropic caem 8% após estreia histórica na Nasdaq e ampliam cautela com setor de IA",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2I0UlptSFgzbjJUOHZDby1UQTJGZm81N193ZGxzUGllTWFDLVdDcHFfUU15dG9haTVPZHlGbVdaTm84UjNiWWs4Nk1xNUJRNE1mOTFZMW1xUnc1OGVOVi1hQ3B4LUNYTzJ3MzRkakVBYjhIUjcxOGNsbFlGTWNNM29ua0JQWmZfX1ViWXhLQVJ4cnVXWHM2WnhiN3NoMTlUaFhVQzVaZDFlaEhlRkxRd0h5bGx0RzBxcHZIT0J6WGVfZENxeVZjMmlR?oc=5"
-    },
-    {
-     "veiculo": "TV Sim Brasil",
-     "titulo": "Ações da Anthropic caem 9% um dia após recorde na Nasdaq",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTdVcHA3WV84T0pzUkVjdTlPM2llX0pvV1hBUXZrdUc5ZG9DMXE0OUVlUlBpR1U5X1l0VGdkSWEydW93djZkZGN4cGRxcExYQXlSbWc1UW5lZGhfaDg5NmxZMkxfMGphcEFqRTk4QkF1MG5JeDBrRUNiR2huWTFzTy1heDdxbi12R1ZsMDBqTWlodXR4NkJMVmFJUm12ZWxGdmprMWR0ZEIwOUdrems0Vm1rcmM3a3NtdmlPTA?oc=5"
-    },
-    {
-     "veiculo": "Valor",
-     "titulo": "Ações da Anthropic caem mais de 9% no pré-mercado de NY",
-     "url": "https://valor.globo.com/financas/noticia/2026/11/20/acoes-da-anthropic-caem-mais-de-9percent-no-pre-mercado-de-ny.ghtml"
-    },
-    {
-     "veiculo": "Times Brasil | CNBC",
-     "titulo": "Ações da Anthropic caem mais de 13% após estreia na Nasdaq e se aproximam do preço do IPO",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlctRzBfMjVkMGFzYVFHNEJUMUQ0N2g3akJBNzZJdGFBN2RVbU1KR29GZ3JmaVVCVXA3czhvbXhsSk5xdnNYRG5Eem1EZUE4ZlZzM3RDZk5LWWtITF85ckFYUTZ4NE93UTlBS0hzVnlLbDNOU0h2Tk1VVjdQWUROcm9NWkFVSG8wMkJQbC0xZGI5UEJ2ekpITXBVa0FRZzRwOHRzSnE2ME9NT2d6aU1SWXdkc2FiaGtqRkYwWjNWWHU4ZlEzWGdIekp1dXN5QmNoaVE?oc=5"
-    }
-   ],
-   "score": 43.0,
-   "video_url": "https://www.youtube.com/watch?v=eYnTe_QT6z8",
-   "video_canal": "UOL",
-   "video_por_hora": 295,
-   "video_acima_mediana": 0.2,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Anthropic na Nasdaq: ações sobem mais de 30% e empresa bate US$ 2 trilhões em valor de mercado",
-     "url": "https://www.youtube.com/watch?v=eYnTe_QT6z8",
-     "por_hora": 295
-    }
-   ]
-  },
-  {
-   "id": "609a0438a7",
-   "titulo": "Moraes cita fuga de Flávio Bolsonaro e vota para manter medidas cautelares",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/20/moraes-cita-saida-do-brasil-e-vota-para-manter-medidas-cautelares-contra-flavio-bolsonaro.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T17:56:54+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Moraes+cita+fuga+Fl%C3%A1vio+Bolsonaro+vota+para+manter+medidas",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "UOL",
-     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0"
-    },
-    {
-     "veiculo": "SBT News",
-     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
-     "url": "https://www.youtube.com/watch?v=xNOCreBuVrE"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Flávio Bolsonaro: Moraes vota para negar recurso e manter senador sem passaportes",
-     "url": "https://www.youtube.com/watch?v=tTeJJBdRqt4"
-    }
-   ],
-   "score": 41.5,
-   "video_url": "https://www.youtube.com/watch?v=tTeJJBdRqt4",
-   "video_canal": "UOL",
-   "video_por_hora": 4243,
-   "video_acima_mediana": 3.0,
-   "videos": [
-    {
-     "canal": "UOL",
-     "titulo": "Flávio Bolsonaro: Moraes vota para negar recurso e manter senador sem passaportes",
-     "url": "https://www.youtube.com/watch?v=tTeJJBdRqt4",
-     "por_hora": 4243
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
-     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0",
-     "por_hora": 1426
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg",
-     "por_hora": 314
+     "por_hora": 2071
     },
     {
      "canal": "InfoMoney",
-     "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
-     "url": "https://www.youtube.com/watch?v=xNOCreBuVrE",
-     "por_hora": 69
+     "titulo": "Justiça libera iPhones do Senado; Nikolas perde liminar",
+     "url": "https://www.youtube.com/watch?v=s24IbEOkXuc",
+     "por_hora": 1750
     }
    ]
   },
   {
-   "id": "43b76a2593",
-   "titulo": "Alexandre de Moraes pauta para dezembro julgamento sobre Lei da Dosimetria",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/19/alexandre-de-moraes-pauta-julgamento-de-acoes-da-lei-da-dosimetria-para-dezembro.ghtml",
-   "veiculo": "Valor",
+   "id": "7c19ac5ffc",
+   "titulo": "Não se pode conter investimento, diz relator do ajuste fiscal na Câmara",
+   "url": "https://www.cnnbrasil.com.br/politica/nao-se-pode-conter-investimento-diz-relator-do-ajuste-fiscal-na-camara/",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-20T19:44:53+00:00",
+   "temas": [
+    "economia",
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=N%C3%A3o+pode+conter+investimento%2C+diz+relator+ajuste+fiscal+C%C3%A2mara",
+   "veiculos": 7,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "CNN Brasil",
+     "titulo": "Relator do ajuste fiscal: Não podemos conter investimento público | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=nHBPWzljvAQ"
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-defende-aprovacao-do-texto-do-senado.ghtml"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
+     "url": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/"
+    }
+   ],
+   "score": 40.4,
+   "video_url": "https://www.youtube.com/watch?v=nHBPWzljvAQ",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 1300,
+   "video_acima_mediana": 2.6,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "Relator do ajuste fiscal: Não podemos conter investimento público | BASTIDORES CNN",
+     "url": "https://www.youtube.com/watch?v=nHBPWzljvAQ",
+     "por_hora": 1300
+    },
+    {
+     "canal": "InfoMoney",
+     "titulo": "Após aprovação no Senado, pacote fiscal vai para a Câmara: Saiba os próximos passos | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=7FOrTUbpcoU",
+     "por_hora": 104
+    }
+   ]
+  },
+  {
+   "id": "d0d875c4f0",
+   "titulo": "Moraes libera lei da dosimetria para o plenário do STF",
+   "url": "https://www.youtube.com/watch?v=MVYZKAyk-_I",
+   "veiculo": "GloboNews",
    "publicado": "2026-11-20T17:11:04+00:00",
    "temas": [
     "mercado",
@@ -2005,8 +1955,8 @@
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alexandre+Moraes+pauta+para+dezembro+julgamento+sobre+Lei+Dosimetria",
-   "veiculos": 10,
+   "busca_video": "https://www.youtube.com/results?search_query=Moraes+libera+lei+dosimetria+para+plen%C3%A1rio+STF",
+   "veiculos": 7,
    "rotina": false,
    "outras": [
     {
@@ -2020,171 +1970,252 @@
      "url": "https://www.youtube.com/watch?v=b8aisTEe-Ds"
     },
     {
-     "veiculo": "Jovem Pan News",
-     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
-     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo"
-    },
-    {
      "veiculo": "Araraquara Agora",
      "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFc1dEt5Vk9aVFd4bmREekY2ZkVRQ3NHWk54akY5TE1tZ0owYllrWXpCeldxTVBmei1iQTVhS016Zm5aVC02NTN3cVNfR0ktcFduUTBDZks4bTdxR21ORlVQbmpsNGRnTk5VeUdWaGFTcmxta2JyYk95ZHBiWHhvbjN6X3MyWU9yUk4tandYRFVoY0JVM1FYNG56amE5UEk2RFZCQVY2Z1NnOERpQmc?oc=5"
+    },
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
+     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo"
     }
    ],
    "score": 39.9,
    "video_url": "https://www.youtube.com/watch?v=b8aisTEe-Ds",
    "video_canal": "UOL",
-   "video_por_hora": 1162,
-   "video_acima_mediana": 0.8,
+   "video_por_hora": 2762,
+   "video_acima_mediana": 1.0,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Lei da Dosimetria: Moraes marca para 4 de dezembro julgamento no STF",
      "url": "https://www.youtube.com/watch?v=b8aisTEe-Ds",
-     "por_hora": 1162
-    },
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
-     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo",
-     "por_hora": 1040
-    },
-    {
-     "canal": "GloboNews",
-     "titulo": "Moraes libera lei da dosimetria para o plenário do STF",
-     "url": "https://www.youtube.com/watch?v=MVYZKAyk-_I",
-     "por_hora": 430
+     "por_hora": 2762
     },
     {
      "canal": "UOL",
      "titulo": "Moraes marca para 4 de dezembro julgamento sobre dosimetria que pode beneficiar Bolsonaro",
      "url": "https://www.youtube.com/watch?v=BPecjeiczDQ",
-     "por_hora": 384
+     "por_hora": 1578
     },
     {
-     "canal": "Record News",
-     "titulo": "Moraes marca data para julgar Lei da Dosimetria",
-     "url": "https://www.youtube.com/watch?v=TvmFjgLwjtQ",
-     "por_hora": 315
+     "canal": "Jovem Pan News",
+     "titulo": "Moraes marca julgamento da Lei da Dosimetria para 4 de dezembro",
+     "url": "https://www.youtube.com/watch?v=2QMuJe96jKo",
+     "por_hora": 886
+    },
+    {
+     "canal": "GloboNews",
+     "titulo": "Moraes libera lei da dosimetria para o plenário do STF",
+     "url": "https://www.youtube.com/watch?v=MVYZKAyk-_I",
+     "por_hora": 405
     }
    ]
   },
   {
-   "id": "005df17b89",
-   "titulo": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro | LIVE CNN",
-   "url": "https://www.youtube.com/watch?v=iZYRYmaUYHM",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-20T17:50:00+00:00",
+   "id": "5572216d1e",
+   "titulo": "Executivo faz fortuna com IPO da Anthropic, mas ganho poderia ser maior",
+   "url": "https://c-level.folha.uol.com.br/ia/2026/11/executivo-faz-fortuna-com-ipo-da-anthropic-mas-ganho-poderia-ser-maior.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-20T16:29:00-03:00",
    "temas": [
-    "economia"
+    "mercado"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+diz+que+ligou+para+para+alertar+sobre+poss%C3%ADvel",
-   "veiculos": 28,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Executivo+faz+fortuna+com+IPO+Anthropic%2C+mas+ganho+poderia",
+   "veiculos": 8,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Pleno.News",
-     "titulo": "Galípolo diz que alertou PF sobre risco de Vorcaro fugir do país",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5Ud040ZnJES0JTZ1J0amc5UW1TZ0tJdHlWRUNlT05YZ1ZyVXpwOWhvMGZBMFM2Yl9WU0wzYUJ5YmtJVHZPRS05bVZJTjlYMFRtaWtfQ2dTVGVxclZ1akROWmY1cEVSU3h1YVhpYVVlOUdYNkg1NFF3MjBwM2VFSlFHT2hPaG9vVkd1Qjdsb1hMdjc0NEpkSURXMA?oc=5"
+     "veiculo": "Correio do Povo Penedo",
+     "titulo": "Anthropic faz maior IPO da história e dispara na Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWhwMlJIdkJzS3JpT2k0ZU50Z1B3LVU3V2VmMl9IYnhoN29vVjZncFpuRHNzaXpmUU1Nbkk5cEJnQWM2XzZUR2cwYXl2bndQSjZDd1hlaHBQNzd6bF9tcy05NEQwYzV0UDV5bVl1Mi1iUGVBMVptdDh4ZnVnTGFweVlOMEU5cjl2VVFmLUFmSlpCS3lISExIZDFpM1FVMWwzazJYamw5YWs?oc=5"
     },
     {
-     "veiculo": "Pleno.News",
-     "titulo": "Galípolo diz que alertou PF sobre risco de Vorcaro fugir do país",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5Ud040ZnJES0JTZ1J0amc5UW1TZ0tJdHlWRUNlT05YZ1ZyVXpwOWhvMGZBMFM2Yl9WU0wzYUJ5YmtJVHZPRS05bVZJTjlYMFRtaWtfQ2dTVGVxclZ1akROWmY1cEVSU3h1YVhpYVVlOUdYNkg1NFF3MjBwM2VFSlFHT2hPaG9vVkd1Qjdsb1hMdjc0NEpkSURXMA?oc=5"
+     "veiculo": "Correio do Povo Penedo",
+     "titulo": "Anthropic faz maior IPO da história e dispara na Bolsa",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEI2c2EzWUlBdlZZXzBORFVxSWtNeDJYSHFDdlMxN3E3a2ZpaUJjaGNhRzNQTGZaN2ZjMHVmblFqSEZ2LXdCWW9PUnZuTm5ZeG9yMFZPamU1OTFnMkQ5VFBPWmE5VHVIM2wwNnQ1TXlwVWhWZjM2Rld6dHhIWUpjeks2LXdJaG4wTjhPSDBJa3BvZWVlaUMweFNwaVl3NnVoRG9vc0xKMkVKZF9UTmc?oc=5"
     },
     {
-     "veiculo": "GloboNews",
-     "titulo": "Gabriel Galípolo diz que alertou PF sobre possível fuga de Daniel Vorcaro",
-     "url": "https://www.youtube.com/watch?v=BDrf8-iYTik"
+     "veiculo": "Expresso",
+     "titulo": "Anthropic dispara 34% na estreia após IPO recorde",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0c0eHhpdElGSEJPTFFTRmI5YzFMX3pERHNfbXdHLU5jQXBoVGx1MHRUS3lSNjAzbXhDN2FYTnFPZWVVRkxnMnRibVI0VC0wU3JZaVJseVRtaFkxb0JuWU1ZbkpsZjNBcnZyNkl2MFpUdHJMZ180aE1yak5sTGFzSHVWY1I5ZVh4N1RXZDN1cmpqblNNZHBPQVVabjdsOHdfQXZ6dFVCUDZKRC1mTmsxVFdmTjh4SjRQUjRr?oc=5"
     },
     {
-     "veiculo": "Times Brasil | CNBC",
-     "titulo": "Caso Master: Galípolo diz à PF ter alertado sobre risco de fuga de Vorcaro",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVNRajVWSEM4REM2SWM3ektwbG1qUmJ2TVFqWEVsU2NtWmRGSS10UDh2WHhaY2VOQzdpRlZpX2pGT2Q5dXhINzczUzFfaWFYQk1HeFJfNHZVaXJyLUNuM3pSNjcwMGx4bk5WLXlEOXM4WjhjS00ySTFNVUpCLThUQTUxUnZIVkN0QXNRQWpuSkpEcDJxbnpLSGpLa2l5c0t2VDBmbXF6dy0wUW8x?oc=5"
+     "veiculo": "R7",
+     "titulo": "Anthropic estreia na bolsa dos EUA e bate recorde da Space X",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkhuZi1RSGZEVTQ3S3pibThKX3cwNzhZUkl1UnlrS09oUlI2UUJuMlVzSDZkTGV3blllbkRJZ1NJQ0tEczJtaDR6bk9iVTRGUE9ocnVEY2NnWm1GZ2RBeE1yNENsOGhYWXkzTlZoUUMwYWJSN1EyRTlrMW93QWVfSmhPbXpPNndFQXB0anNlWEF5QkR3dENXUHptN1FUSXRaSVJEOWYxcDFwU2FrODQ2MXN1djBlZw?oc=5"
     }
    ],
-   "score": 38.5,
-   "video_url": "https://www.youtube.com/watch?v=iZYRYmaUYHM",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 2000,
-   "video_acima_mediana": 3.0,
+   "score": 39.7,
+   "video_url": "https://www.youtube.com/watch?v=xwlJ2dpvkZ0",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 26,
+   "video_acima_mediana": 0.2,
    "videos": [
     {
-     "canal": "CNN Brasil",
-     "titulo": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro | LIVE CNN",
-     "url": "https://www.youtube.com/watch?v=iZYRYmaUYHM",
-     "por_hora": 2000
+     "canal": "InfoMoney",
+     "titulo": "Anthropic levanta recorde de US$ 81 bi em IPO com avaliação de US$ 1,5 tri | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=xwlJ2dpvkZ0",
+     "por_hora": 26
+    }
+   ]
+  },
+  {
+   "id": "f283ecc37e",
+   "titulo": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/20/galpolo-alertou-pf-sobre-possvel-plano-de-fuga-de-vorcaro.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-20T19:37:58+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+alertou+sobre+poss%C3%ADvel+plano+fuga+Vorcaro",
+   "veiculos": 34,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "correiodobrasil.com.br",
+     "titulo": "Vorcaro foi preso depois que Galípolo acionou a PF e alertou para fuga",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnhLTDR6QTVYaXMtWFlqajR5Q0dFYkpXN3d2OEJjWnJXbkVOZUxiX0VTVkhrMWUySlRUMXdlVGxGSDFPVE5takNWVnJ6dGVyTm1EbjlGMHJkSzlfLXRlaXJPSl9EckhUc3hSMGJJcUdFUlNvYlpGLUZEeHNzTlJ1X1NqalhLWGFhYUNhcGcwOA?oc=5"
     },
+    {
+     "veiculo": "Valor Econômico",
+     "titulo": "Galípolo alertou PF sobre possível plano de fuga de Vorcaro",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeS1IWlh4UmFvdDFwT3NVLWpRaDZDZEpPaTFGbkFUMzBiOVpaa1JFamIwUDJYTXJfMFBEWjhheHZuSlcyczR5cDVUTEZhT3pZekVlSDJTQlNCNXkxamxDcVlwUTlWNWxPWHdkaVVvbGdxVnhsMWJMeGdDZ1dXWWJObVZsbjR5NGRzdjZVb2VVOUw5b3FMMHRLcUdJbTBva3QtSm85V3V0ajVRWTBZU0ItY2RYNlhZUdIBxAFBVV95cUxPXzRSbjZ0ak9KVzEtNS1YdkdBOEdPOVNCNXg1QnI5bU51N0hPdmhJcnNnMS1SN0JEVlFuT1h6UGM0aHM5akViaXR3THJoSjBxZ2NUbUFFc29Dc0pIcnBya18xd1FOU2Ryekd4cHhIOGQ5SnpSdWVlMmY4cUY2eGJWM0dXeFZJMHN6aHFFWFp2WU8zMmFURG5laENPRk50WkMyczdBalNrMjdzMEtsdTB2c0pyT3Y4aTVTZ0lub1F5enVwbGgx?oc=5"
+    },
+    {
+     "veiculo": "Área VIP",
+     "titulo": "Galípolo fala que avisou PF sobre fuga de Vorcaro",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjBfallZcWJzWHA2VDNrM2k1S3FLZ2xGQjhSeF9ITWlHdllPUXVNYzJZM29WY1A0Q1NISE9vTld1ekJIbFJsQ1I1QkJ1dG5ZTXhteXc3SFRyOU1KdnNZMGx2VHllNk50UFJrZzRybFhDYjcyNC1JNjlBc2g5UkRyc0NyaU5kZXBYMmNHT1RMQ2MyMm0wdm9DUVZrMA?oc=5"
+    },
+    {
+     "veiculo": "Área VIP",
+     "titulo": "Galípolo fala que avisou PF sobre fuga de Vorcaro",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjBfallZcWJzWHA2VDNrM2k1S3FLZ2xGQjhSeF9ITWlHdllPUXVNYzJZM29WY1A0Q1NISE9vTld1ekJIbFJsQ1I1QkJ1dG5ZTXhteXc3SFRyOU1KdnNZMGx2VHllNk50UFJrZzRybFhDYjcyNC1JNjlBc2g5UkRyc0NyaU5kZXBYMmNHT1RMQ2MyMm0wdm9DUVZrMA?oc=5"
+    }
+   ],
+   "score": 37.2,
+   "video_url": "https://www.youtube.com/watch?v=3TIEazoEIeM",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 983,
+   "video_acima_mediana": 1.8,
+   "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Galípolo diz que alertou a PF sobre fuga de Vorcaro e gastos chocam",
      "url": "https://www.youtube.com/watch?v=3TIEazoEIeM",
-     "por_hora": 1125
+     "por_hora": 983
     },
     {
      "canal": "GloboNews",
      "titulo": "Gabriel Galípolo diz que alertou PF sobre possível fuga de Daniel Vorcaro",
      "url": "https://www.youtube.com/watch?v=BDrf8-iYTik",
-     "por_hora": 655
+     "por_hora": 534
     }
    ]
   },
   {
-   "id": "895cad9674",
-   "titulo": "Relator do ajuste fiscal na Câmara defende aprovação do texto do Senado",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-defende-aprovacao-do-texto-do-senado.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T11:00:17+00:00",
+   "id": "d638a83c4b",
+   "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
+   "url": "https://www.youtube.com/watch?v=xNOCreBuVrE",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-20T18:31:00+00:00",
    "temas": [
-    "economia",
     "mercado",
     "politica"
    ],
    "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Relator+ajuste+fiscal+C%C3%A2mara+defende+aprova%C3%A7%C3%A3o+texto+Senado",
-   "veiculos": 8,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Moraes+vota+para+deixar+Fl%C3%A1vio+sem+passaportes+proibido+contatar",
+   "veiculos": 4,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Jornal Grande Bahia",
-     "titulo": "Hugo Motta defende ajuste fiscal mais robusto no Governo Lula e anuncia debate de pacote econômico na Câmara dos Deputados",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZXdYZ2NTb1VBSWZfVDlXNTFURGJfeXRKYk5QOGU1SFEzaGdIZWtHVlg3cVotSHpUcUxnM2diQUZ3Z3JjMjlvZGduQXduRU9VakE1cFAxR0NiR3BTUC1hU0o3LUVHMVFjQTJnajYzWUNyRlVrb3BZWU5tMk1MYjNPR09QWHZUNWMwblpITi0wa0NhSFVvVTc3VG44NEdQMFRiLXVSRFFNbzQtQm1QYVFxb1N2SDZxcFRVeFlMY2cxR3RMTGZ3ZjlqRHdhZEFPeVM5ejRQT2t0Nmc3LW03ekVvMng2LTVuaUlCXy1PT2tJUDRtOGtFUlhv?oc=5"
-    },
-    {
-     "veiculo": "Jornal Grande Bahia",
-     "titulo": "Hugo Motta defende ajuste fiscal mais robusto no Governo Lula e anuncia debate de pacote econômico na Câmara dos Deputados",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZXdYZ2NTb1VBSWZfVDlXNTFURGJfeXRKYk5QOGU1SFEzaGdIZWtHVlg3cVotSHpUcUxnM2diQUZ3Z3JjMjlvZGduQXduRU9VakE1cFAxR0NiR3BTUC1hU0o3LUVHMVFjQTJnajYzWUNyRlVrb3BZWU5tMk1MYjNPR09QWHZUNWMwblpITi0wa0NhSFVvVTc3VG44NEdQMFRiLXVSRFFNbzQtQm1QYVFxb1N2SDZxcFRVeFlMY2cxR3RMTGZ3ZjlqRHdhZEFPeVM5ejRQT2t0Nmc3LW03ekVvMng2LTVuaUlCXy1PT2tJUDRtOGtFUlhv?oc=5"
+     "veiculo": "MT HOJE",
+     "titulo": "Moraes mantém prisão de Flávio Bolsonaro e impede uso de passaportes",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFV0SEFEbXJqcGxMdkVwc09jZlJIakI3Y25UOE1nR2V6TC1mTWE2dmY1WWtvbHRmblB0bjRwMFg2QXpNV3BBekpyODZqRW1qT3J1YkxqZVJfdnVPaTRhamF5RVhkdVBObGFrR1dhQlRJZFJSMy1UWElUMzJkYm0tV2F6RUh2bW5feVRfcWJZb3FSUUhUMTNsT3FMZ2VIcmFvbEwxQ2JkSnhsZWxpSldFM2lKRQ?oc=5"
     },
     {
      "veiculo": "UOL",
-     "titulo": "Ajuste fiscal: Tabata Amaral diz que volta do texto ao Senado seria bem recebida, mas improvável",
-     "url": "https://www.youtube.com/watch?v=YPPz--DRJZE"
+     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0"
     },
     {
-     "veiculo": "Estadão",
-     "titulo": "Oposição defende mudar ajuste fiscal na Câmara, mas esbarra em acordo de Motta com governo",
-     "url": "https://www.estadao.com.br/economia/oposicao-defende-mudar-ajuste-fiscal-na-camara-mas-esbarra-em-acordo-de-motta-com-governo/"
+     "veiculo": "SBT News",
+     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg"
     }
    ],
-   "score": 37.2,
-   "video_url": "https://www.youtube.com/watch?v=YPPz--DRJZE",
+   "score": 36.6,
+   "video_url": "https://www.youtube.com/watch?v=TrYxGUeuaj0",
    "video_canal": "UOL",
-   "video_por_hora": 905,
-   "video_acima_mediana": 0.6,
+   "video_por_hora": 3243,
+   "video_acima_mediana": 1.1,
    "videos": [
     {
      "canal": "UOL",
-     "titulo": "Ajuste fiscal: Tabata Amaral diz que volta do texto ao Senado seria bem recebida, mas improvável",
-     "url": "https://www.youtube.com/watch?v=YPPz--DRJZE",
-     "por_hora": 905
+     "titulo": "Moraes vota para negar recurso e manter suspensão de passaportes de Flávio Bolsonaro",
+     "url": "https://www.youtube.com/watch?v=TrYxGUeuaj0",
+     "por_hora": 3243
+    },
+    {
+     "canal": "SBT News",
+     "titulo": "Moraes vota para manter passaportes cancelados de Flávio Bolsonaro | #RadarNews",
+     "url": "https://www.youtube.com/watch?v=S-agox7-Rjg",
+     "por_hora": 2017
     },
     {
      "canal": "InfoMoney",
-     "titulo": "Após aprovação no Senado, pacote fiscal vai para a Câmara: Saiba os próximos passos | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=7FOrTUbpcoU",
-     "por_hora": 104
+     "titulo": "Moraes vota para deixar Flávio sem passaportes e proibido de contatar Willer Tomaz",
+     "url": "https://www.youtube.com/watch?v=xNOCreBuVrE",
+     "por_hora": 184
+    }
+   ]
+  },
+  {
+   "id": "accc4f6a1a",
+   "titulo": "Crime organizado gera prejuízo de R$ 440 bi ao país | TEMPO REAL",
+   "url": "https://www.youtube.com/watch?v=gNQQZCgR0ZQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-20T19:05:44+00:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Crime+organizado+gera+preju%C3%ADzo+440+pa%C3%ADs+TEMPO+REAL",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "PRISÃO DE VORCARO / DOSIMETRIA VAI AO STF / PREJUÍZO DO CRIME ORGANIZADO | TEMPO REAL - 20/11/2026",
+     "url": "https://www.youtube.com/watch?v=lYCzBNowKK8"
+    }
+   ],
+   "score": 29.0,
+   "video_url": "https://www.youtube.com/watch?v=lYCzBNowKK8",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 16139,
+   "video_acima_mediana": 29.3,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "PRISÃO DE VORCARO / DOSIMETRIA VAI AO STF / PREJUÍZO DO CRIME ORGANIZADO | TEMPO REAL - 20/11/2026",
+     "url": "https://www.youtube.com/watch?v=lYCzBNowKK8",
+     "por_hora": 16139
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Crime organizado gera prejuízo de R$ 440 bi ao país | TEMPO REAL",
+     "url": "https://www.youtube.com/watch?v=gNQQZCgR0ZQ",
+     "por_hora": 129
     }
    ]
   },
@@ -2201,7 +2232,7 @@
    "video": true,
    "declaracao": false,
    "busca_video": "https://www.youtube.com/results?search_query=Fachin+mant%C3%A9m+pris%C3%A3o+preventiva+Daniel+Vorcaro",
-   "veiculos": 6,
+   "veiculos": 5,
    "rotina": false,
    "outras": [
     {
@@ -2220,233 +2251,154 @@
      "url": "https://www.youtube.com/watch?v=8mqvgAmItJc"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "Caso Master: Fachin mantém prisão de Daniel Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=IAdihMIOkAE"
+     "veiculo": "Folha",
+     "titulo": "Fachin rejeita pedido da defesa e mantém prisão preventiva de Vorcaro",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/fachin-rejeita-pedido-da-defesa-e-mantem-prisao-preventiva-de-vorcaro.shtml"
     }
    ],
-   "score": 32.1,
-   "video_url": "https://www.youtube.com/watch?v=IAdihMIOkAE",
-   "video_canal": "SBT News",
-   "video_por_hora": 1774,
-   "video_acima_mediana": 2.1,
+   "score": 28.4,
+   "video_url": "https://www.youtube.com/watch?v=4SWxBcnVJRI",
+   "video_canal": "UOL",
+   "video_por_hora": 1885,
+   "video_acima_mediana": 0.7,
    "videos": [
     {
-     "canal": "SBT News",
-     "titulo": "Caso Master: Fachin mantém prisão de Daniel Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=IAdihMIOkAE",
-     "por_hora": 1774
+     "canal": "UOL",
+     "titulo": "Caso Master: Fachin decide mantém prisão de Daniel Vorcaro",
+     "url": "https://www.youtube.com/watch?v=4SWxBcnVJRI",
+     "por_hora": 1885
     },
     {
      "canal": "GloboNews",
      "titulo": "Edson Fachin mantém prisão de Daniel Vorcaro",
      "url": "https://www.youtube.com/watch?v=8mqvgAmItJc",
-     "por_hora": 1027
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Caso Master: Fachin decide mantém prisão de Daniel Vorcaro",
-     "url": "https://www.youtube.com/watch?v=4SWxBcnVJRI",
-     "por_hora": 613
+     "por_hora": 1061
     }
    ]
   },
   {
-   "id": "501b637006",
-   "titulo": "Impasse sobre recursos para guerra no Irã pode paralisar governo dos EUA",
-   "url": "https://www.poder360.com.br/poder-internacional/impasse-sobre-recursos-para-guerra-no-ira-pode-paralisar-governo-dos-eua/",
+   "id": "c0ad6f9e18",
+   "titulo": "Faria e Vorcaro brincam sobre criar instituto para Moraes em Londres",
+   "url": "https://www.poder360.com.br/poder-justica/faria-e-vorcaro-brincam-sobre-criar-instituto-para-moraes-em-londres/",
    "veiculo": "Poder360",
-   "publicado": "2026-11-20T18:17:50+00:00",
+   "publicado": "2026-11-20T19:41:38+00:00",
    "temas": [
-    "economia",
-    "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Impasse+sobre+recursos+para+guerra+Ir%C3%A3+pode+paralisar+governo",
-   "veiculos": 4,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Valor",
-     "titulo": "Guerra contra o Irã gera impasse no Congresso dos EUA e ameaça paralisar governo",
-     "url": "https://valor.globo.com/mundo/noticia/2026/11/20/guerra-contra-o-ira-gera-impasse-no-congresso-dos-eua-e-ameaca-paralisar-governo.ghtml"
-    },
-    {
-     "veiculo": "InfoMoney",
-     "titulo": "Congresso se esforça para evitar paralisação do governo; guerra com Irã divide",
-     "url": "https://www.youtube.com/watch?v=Y2rcRqEidCo"
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
-     "url": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml"
-    }
-   ],
-   "score": 29.0,
-   "video_url": "https://www.youtube.com/watch?v=Y2rcRqEidCo",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 73,
-   "video_acima_mediana": 0.7,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Congresso se esforça para evitar paralisação do governo; guerra com Irã divide",
-     "url": "https://www.youtube.com/watch?v=Y2rcRqEidCo",
-     "por_hora": 73
-    }
-   ]
-  },
-  {
-   "id": "fa5cdf3624",
-   "titulo": "PF diz não haver indícios de diálogos diretos entre Mendonça e Vorcaro",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/20/pf-diz-no-haver-indcios-de-dilogos-diretos-entre-mendona-e-vorcaro.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-20T17:44:40+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=diz+n%C3%A3o+haver+ind%C3%ADcios+di%C3%A1logos+diretos+entre+Mendon%C3%A7a+Vorcaro",
+   "busca_video": "https://www.youtube.com/results?search_query=Faria+Vorcaro+brincam+sobre+criar+instituto+para+Moraes+Londres",
    "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "SBT News",
-     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
-     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI"
+     "veiculo": "UOL",
+     "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
+     "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw"
     },
     {
-     "veiculo": "SBT News",
-     "titulo": "PF não encontra mensagens entre Mendonça e Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=qa1hElERmV8"
-    },
-    {
-     "veiculo": "Exame",
-     "titulo": "Caso Master: PF não encontrou troca de mensagens entre André Mendonça e Daniel Vorcaro",
-     "url": "https://exame.com/brasil/caso-master-pf-nao-encontrou-troca-de-mensagens-entre-andre-mendonca-e-daniel-vorcaro/"
+     "veiculo": "Claudio Dantas",
+     "titulo": "Diálogos entre Vorcaro e Fábio Faria mencionam criação de instituto para Moraes",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFducWtCQlV1OVRRZzVkaUpvVlVzUHBiQ0c2c0s1WkxhcGJXQ0djd0FaSEs4UHVJanZEMUQtMFNYTHZSWTY1R08zaHVwbTI3X256ekFSMTJfMVhucnhSLXE1ZFR6RmNlRFhBTTlZRVBJbFhGTFpHSGxXUlhjSXpEdDh0dTlmTElNQUd3ZHoyNEdkWmwtLUxEVUk1VEdDaVNLQlR1YkpDVDQzRTRISFE?oc=5"
     }
    ],
-   "score": 28.1,
-   "video_url": "https://www.youtube.com/watch?v=qa1hElERmV8",
-   "video_canal": "SBT News",
-   "video_por_hora": 3520,
-   "video_acima_mediana": 4.2,
+   "score": 27.5,
+   "video_url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
+   "video_canal": "UOL",
+   "video_por_hora": 9250,
+   "video_acima_mediana": 3.3,
    "videos": [
     {
-     "canal": "SBT News",
-     "titulo": "PF não encontra mensagens entre Mendonça e Vorcaro | #RadarNews",
-     "url": "https://www.youtube.com/watch?v=qa1hElERmV8",
-     "por_hora": 3520
-    },
-    {
-     "canal": "SBT News",
-     "titulo": "PF não encontrou conversas diretas entre Mendonça e Vorcaro, mostra relatório | #CentraldeNotícias",
-     "url": "https://www.youtube.com/watch?v=QrjN-xQieYI",
-     "por_hora": 1763
+     "canal": "UOL",
+     "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
+     "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
+     "por_hora": 9250
     }
    ]
   },
   {
-   "id": "06328b3c7e",
-   "titulo": "Galípolo rebate versão de ex-diretor sobre compra do Master | TEMPO REAL",
-   "url": "https://www.youtube.com/watch?v=Anm_fYWTmQs",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-20T17:25:19+00:00",
+   "id": "732d9796f9",
+   "titulo": "Ao pedir fim do sigilo de relatório, Mendonça tenta se antecipar a críticas sobre sua relatoria no caso Master",
+   "url": "https://valor.globo.com/politica/noticia/2026/11/20/ao-pedir-fim-do-sigilo-de-relatorio-mendonca-tenta-se-antecipar-a-criticas-sobre-sua-relatoria-no-caso-master.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-20T17:07:55.717719+00:00",
    "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Gal%C3%ADpolo+rebate+vers%C3%A3o+diretor+sobre+compra+Master+TEMPO+REAL",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 26.6,
-   "video_url": "https://www.youtube.com/watch?v=Anm_fYWTmQs",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 74,
-   "video_acima_mediana": 0.2,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Galípolo rebate versão de ex-diretor sobre compra do Master | TEMPO REAL",
-     "url": "https://www.youtube.com/watch?v=Anm_fYWTmQs",
-     "por_hora": 74
-    }
-   ]
-  },
-  {
-   "id": "8ba6bbf965",
-   "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1 | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=fMpWDoSp1Ao",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-20T05:30:00-02:00",
-   "temas": [
+    "mercado",
     "politica"
    ],
    "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+assina+decreto+que+regulamenta+fim+escala+6x1+InfoMoney",
-   "veiculos": 5,
+   "busca_video": "https://www.youtube.com/results?search_query=pedir+fim+sigilo+relat%C3%B3rio%2C+Mendon%C3%A7a+tenta+antecipar+cr%C3%ADticas+sobre",
+   "veiculos": 3,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "UOL Economia",
-     "titulo": "ABF levar� ao governo Lula propostas sobre tributos, Simples e escala 5x2",
-     "url": "https://economia.uol.com.br/empreendedorismo/noticias/redacao/2026/11/20/abf-propostas-governo-reeleito-impactos-escala-5x2.htm"
+     "veiculo": "UOL",
+     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
+     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A"
     },
     {
-     "veiculo": "Record News",
-     "titulo": "Lula assina decreto que regulamenta escala 5x2",
-     "url": "https://www.youtube.com/watch?v=Kc4QmfhDvrc"
-    },
-    {
-     "veiculo": "Estadão",
-     "titulo": "Lula assina decreto que regulamenta fim da escala 6x1 em meio a disputa no STF",
-     "url": "https://www.estadao.com.br/economia/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-em-meio-a-disputa-no-stf/"
-    },
-    {
-     "veiculo": "Folha",
-     "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1, com hora extra mais cara",
-     "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1-acompanhe.shtml"
+     "veiculo": "GloboNews",
+     "titulo": "Ana Flor diz que André Mendonça tenta se 'descolar do caso Master' ao liberar sigilo de relatório",
+     "url": "https://www.youtube.com/watch?v=khuZeGoWPAQ"
     }
    ],
-   "score": 25.8,
-   "video_url": "https://www.youtube.com/watch?v=Kc4QmfhDvrc",
-   "video_canal": "Record News",
-   "video_por_hora": 1000,
-   "video_acima_mediana": 5.7,
+   "score": 24.7,
+   "video_url": "https://www.youtube.com/watch?v=khuZeGoWPAQ",
+   "video_canal": "GloboNews",
+   "video_por_hora": 2382,
+   "video_acima_mediana": 9.6,
    "videos": [
     {
-     "canal": "Record News",
-     "titulo": "Lula assina decreto que regulamenta escala 5x2",
-     "url": "https://www.youtube.com/watch?v=Kc4QmfhDvrc",
-     "por_hora": 1000
+     "canal": "GloboNews",
+     "titulo": "Ana Flor diz que André Mendonça tenta se 'descolar do caso Master' ao liberar sigilo de relatório",
+     "url": "https://www.youtube.com/watch?v=khuZeGoWPAQ",
+     "por_hora": 2382
     },
     {
-     "canal": "InfoMoney",
-     "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1 | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=fMpWDoSp1Ao",
-     "por_hora": 154
+     "canal": "UOL",
+     "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele no caso Master",
+     "url": "https://www.youtube.com/watch?v=j5eT2bUms7A",
+     "por_hora": 1733
     }
    ]
   }
  ],
  "youtube": [
   {
+   "titulo": "Dani Lima ao vivo: Trump barra data centers fora dos EUA; PF: Vorcaro se frustrou com Mendonça e+",
+   "url": "https://www.youtube.com/watch?v=m7uSkOg-urI",
+   "canal": "UOL",
+   "publicado": "2026-11-20T20:01:47+00:00",
+   "views": 15057,
+   "por_hora": 30114,
+   "acima_mediana": 10.6,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
    "titulo": "FLÁVIO BOLSONARO ESTÁ AO VIVO - 19.11.26",
    "url": "https://www.youtube.com/watch?v=FzXPumhn6wY",
    "canal": "Flávio Bolsonaro",
    "publicado": "2026-11-20T00:08:07+00:00",
-   "views": 494208,
-   "por_hora": 26943,
-   "acima_mediana": 64.2,
+   "views": 503261,
+   "por_hora": 25167,
+   "acima_mediana": 60.9,
    "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "PRISÃO DE VORCARO / DOSIMETRIA VAI AO STF / PREJUÍZO DO CRIME ORGANIZADO | TEMPO REAL - 20/11/2026",
+   "url": "https://www.youtube.com/watch?v=lYCzBNowKK8",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-20T19:05:44+00:00",
+   "views": 16729,
+   "por_hora": 16139,
+   "acima_mediana": 29.3,
+   "temas": [
+    "economia",
     "politica"
    ]
   },
@@ -2455,10 +2407,72 @@
    "url": "https://www.youtube.com/watch?v=ngDrjCFGlJc",
    "canal": "Poder360",
    "publicado": "2026-11-20T13:27:03+00:00",
-   "views": 47641,
-   "por_hora": 9477,
-   "acima_mediana": 27.3,
+   "views": 76942,
+   "por_hora": 11516,
+   "acima_mediana": 35.6,
    "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Trump faz balanço após encontro histórica com Xi e Putin; Brasil é citado | BandNews TV",
+   "url": "https://www.youtube.com/watch?v=88dAdCXgWmc",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-11-20T18:25:15+00:00",
+   "views": 16116,
+   "por_hora": 9417,
+   "acima_mediana": 11.4,
+   "temas": [
+    "economia"
+   ]
+  },
+  {
+   "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
+   "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
+   "canal": "UOL",
+   "publicado": "2026-11-20T16:07:55.717719+00:00",
+   "views": 37000,
+   "por_hora": 9250,
+   "acima_mediana": 3.3,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Relatório da PF mostra frustração de Vorcaro com voto de Mendonça",
+   "url": "https://www.youtube.com/watch?v=CQAaYs2JUUg",
+   "canal": "UOL",
+   "publicado": "2026-11-20T19:42:37+00:00",
+   "views": 3185,
+   "por_hora": 6370,
+   "acima_mediana": 2.2,
+   "temas": [
+    "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Polícia Federal descarta conversa de Mendonça e Vorcaro | TEMPO REAL",
+   "url": "https://www.youtube.com/watch?v=otoJxRVtiI4",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-20T18:07:55.717719+00:00",
+   "views": 11000,
+   "por_hora": 5500,
+   "acima_mediana": 10.0,
+   "temas": [
+    "mercado"
+   ]
+  },
+  {
+   "titulo": "Única senadora do PDT pode deixar partido após federação | #NewsManhã",
+   "url": "https://www.youtube.com/watch?v=3RkKexTomV4",
+   "canal": "SBT News",
+   "publicado": "2026-11-20T15:07:55.717719+00:00",
+   "views": 26000,
+   "por_hora": 5200,
+   "acima_mediana": 4.8,
+   "temas": [
+    "mercado",
     "politica"
    ]
   },
@@ -2466,49 +2480,12 @@
    "titulo": "Lula negocia ajuste fiscal; guerra às drogas tem custo bilionário; Trump pressiona Brasil e+ |A Hora",
    "url": "https://www.youtube.com/watch?v=T71KrYZn6HY",
    "canal": "UOL",
-   "publicado": "2026-11-20T15:28:39.684655+00:00",
-   "views": 17000,
-   "por_hora": 5667,
-   "acima_mediana": 4.0,
+   "publicado": "2026-11-20T15:07:55.717719+00:00",
+   "views": 26000,
+   "por_hora": 5200,
+   "acima_mediana": 1.8,
    "temas": [
     "economia",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Vorcaro e Fábio Faria planejaram criar instituto para Alexandre de Moraes em Londres",
-   "url": "https://www.youtube.com/watch?v=VzlnxtdJuyw",
-   "canal": "UOL",
-   "publicado": "2026-11-20T15:28:39.684655+00:00",
-   "views": 16000,
-   "por_hora": 5333,
-   "acima_mediana": 3.7,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "AO VIVO: TRUMP, XI E PUTIN DISCUTEM ARMAS NUCLEARES, GUERRAS E PETRÓLEO - FORA DA ORDEM",
-   "url": "https://www.youtube.com/watch?v=KKElQoqblEQ",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-20T17:04:39+00:00",
-   "views": 7397,
-   "por_hora": 5283,
-   "acima_mediana": 7.9,
-   "temas": [
-    "mercado"
-   ]
-  },
-  {
-   "titulo": "Mendonça posa de valente ao abrir mão do sigilo e constrange colegas do STF | Josias de Souza",
-   "url": "https://www.youtube.com/watch?v=-UjUnFdbltU",
-   "canal": "UOL",
-   "publicado": "2026-11-20T16:28:39.684655+00:00",
-   "views": 9800,
-   "por_hora": 4900,
-   "acima_mediana": 3.4,
-   "temas": [
-    "mercado",
     "politica"
    ]
   },
@@ -2517,83 +2494,9 @@
    "url": "https://www.youtube.com/watch?v=jfEi2_rgCFY",
    "canal": "Estadão",
    "publicado": "2026-11-19T22:23:00+00:00",
-   "views": 96824,
-   "por_hora": 4818,
-   "acima_mediana": 21.5,
-   "temas": [
-    "mercado"
-   ]
-  },
-  {
-   "titulo": "STF se aproxima do recesso com 6x1, dosimetria e relatórios da PF em aberto | LIVE CNN",
-   "url": "https://www.youtube.com/watch?v=5e89_ZqLQLk",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-20T15:28:39.684655+00:00",
-   "views": 14000,
-   "por_hora": 4667,
-   "acima_mediana": 7.0,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Sou eu que vou indicar os ministros, não a imprensa, diz Lula",
-   "url": "https://www.youtube.com/watch?v=9DLVjVrzaYA",
-   "canal": "Poder360",
-   "publicado": "2026-11-19T21:31:15+00:00",
-   "views": 92151,
-   "por_hora": 4397,
-   "acima_mediana": 12.7,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Flávio Bolsonaro: Moraes vota para negar recurso e manter senador sem passaportes",
-   "url": "https://www.youtube.com/watch?v=tTeJJBdRqt4",
-   "canal": "UOL",
-   "publicado": "2026-11-20T16:06:37+00:00",
-   "views": 10046,
-   "por_hora": 4243,
-   "acima_mediana": 3.0,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Única senadora do PDT pode deixar partido após federação | #NewsManhã",
-   "url": "https://www.youtube.com/watch?v=3RkKexTomV4",
-   "canal": "SBT News",
-   "publicado": "2026-11-20T14:28:39.684655+00:00",
-   "views": 16000,
-   "por_hora": 4000,
-   "acima_mediana": 4.7,
-   "temas": [
-    "mercado",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "PF não encontra mensagens entre Mendonça e Vorcaro | #RadarNews",
-   "url": "https://www.youtube.com/watch?v=qa1hElERmV8",
-   "canal": "SBT News",
-   "publicado": "2026-11-20T14:45:01+00:00",
-   "views": 13121,
-   "por_hora": 3520,
-   "acima_mediana": 4.2,
-   "temas": [
-    "mercado",
-    "politica"
-   ]
-  },
-  {
-   "titulo": "GTA 6 bate recorde e movimenta bilhões na indústria dos games | #NewsManhã",
-   "url": "https://www.youtube.com/watch?v=PGoRUfQlCvw",
-   "canal": "SBT News",
-   "publicado": "2026-11-20T13:28:39.684655+00:00",
-   "views": 17000,
-   "por_hora": 3400,
-   "acima_mediana": 4.0,
+   "views": 101187,
+   "por_hora": 4653,
+   "acima_mediana": 17.2,
    "temas": [
     "mercado"
    ]
@@ -2602,12 +2505,36 @@
    "titulo": "Senado Federal retoma compra de iPhones após decisão do TRF-1 | Bora Brasil",
    "url": "https://www.youtube.com/watch?v=hpl8CAH3qRI",
    "canal": "Band Jornalismo",
-   "publicado": "2026-11-20T13:45:55+00:00",
-   "views": 15408,
-   "por_hora": 3270,
-   "acima_mediana": 4.2,
+   "publicado": "2026-11-20T14:07:55.717719+00:00",
+   "views": 25000,
+   "por_hora": 4167,
+   "acima_mediana": 5.0,
    "temas": [
     "mercado",
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Aliados de Marinho não contam com voto de Michelle | BASTIDORES CNN",
+   "url": "https://www.youtube.com/watch?v=xmDRSuSULGI",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-20T18:07:55.717719+00:00",
+   "views": 7400,
+   "por_hora": 3700,
+   "acima_mediana": 7.4,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Machado de Xangô, símbolo de orixá da Justiça, é inaugurado no STF",
+   "url": "https://www.youtube.com/watch?v=M3gUd0pqUSo",
+   "canal": "Poder360",
+   "publicado": "2026-11-20T12:49:11+00:00",
+   "views": 26501,
+   "por_hora": 3624,
+   "acima_mediana": 11.2,
+   "temas": [
     "politica"
    ]
   },
@@ -2616,9 +2543,9 @@
    "url": "https://www.youtube.com/watch?v=gROCumReaQw",
    "canal": "Band Jornalismo",
    "publicado": "2026-11-20T15:04:10+00:00",
-   "views": 9502,
-   "por_hora": 2788,
-   "acima_mediana": 3.6,
+   "views": 16342,
+   "por_hora": 3228,
+   "acima_mediana": 3.9,
    "temas": [
     "mercado",
     "politica"
@@ -2628,81 +2555,52 @@
  "faro": [
   {
    "tipo": "pauta",
-   "titulo": "Moraes cita fuga de Flávio Bolsonaro e vota para manter medidas cautelares",
-   "url": "https://valor.globo.com/politica/noticia/2026/11/20/moraes-cita-saida-do-brasil-e-vota-para-manter-medidas-cautelares-contra-flavio-bolsonaro.ghtml",
+   "titulo": "Secretário do Tesouro dos EUA critica aumento de juros do Fed",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWVCcEJvWm5iZy1KT1lJWXlnUzdoWXNfTS1mb04zd0s3S3BXR1FSc3pRaVlzTGUyVHI3TlNKVlZ6cmtiSGNLU2VhSDZkR1doU2FWa0dfTmNnUm1rTmRJeXNNWE50TGZSSk9IR2szVTEyNWl2T2FiUjd0N2JEa3VDSEJsSDFDYXkxX05IQUlia3p6TDJk?oc=5",
    "veiculos": [
-    "Valor"
+    "Times Brasil | CNBC",
+    "Vero Notícias",
+    "boca.com.br"
    ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-20T14:56-03:00",
+   "qtd_veiculos": 3,
+   "primeira_vez": "2026-11-20T14:58-03:00",
    "temas": [
-    "mercado",
-    "politica"
+    "economia",
+    "mercado"
    ],
-   "forca": 49.5,
-   "porque": "só 1 veículo (Valor); apareceu às 14h56"
+   "forca": 31.9,
+   "porque": "só 3 veículos (Times Brasil | CNBC, Vero Notícias, boca.com.br); apareceu às 14h58"
   },
   {
    "tipo": "pauta",
-   "titulo": "Lula diz que diz que 'não tem pressa' para definir ministros | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=ZJcyUO27AXk",
+   "titulo": "Bitcoin fica abaixo de US$ 60 mil pela 1ª vez desde julho",
+   "url": "https://www.poder360.com.br/poder-economia/bitcoin-fica-abaixo-de-us-60-mil-pela-1a-vez-desde-julho/",
    "veiculos": [
-    "G1"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-20T14:34-03:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "forca": 31.8,
-   "porque": "só 1 veículo (G1); apareceu às 14h34"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Maior tombo mensal desde 2022: bitcoin (BTC) fura o piso, cai abaixo de US$ 60 mil e arrasta outras criptomoedas",
-   "url": "https://www.seudinheiro.com/2026/criptomoedas/maior-tombo-mensal-desde-2022-bitcoin-btc-fura-o-piso-cai-abaixo-de-us-60-mil-e-arrasta-outras-criptomoedas-ccgg/",
-   "veiculos": [
+    "Poder360",
     "Seu Dinheiro"
    ],
-   "qtd_veiculos": 1,
+   "qtd_veiculos": 2,
    "primeira_vez": "2026-11-20T15:20-03:00",
    "temas": [
     "mercado"
    ],
-   "forca": 29.9,
-   "porque": "só 1 veículo (Seu Dinheiro); apareceu às 15h20"
+   "forca": 30.6,
+   "porque": "só 2 veículos (Poder360, Seu Dinheiro); apareceu às 15h20"
   },
   {
    "tipo": "pauta",
-   "titulo": "Vorcaro e Fábio Faria falaram sobre criar instituto para Moraes em Londres",
-   "url": "https://www.metropoles.com/colunas/manoela-alcantara/vorcaro-e-fabio-faria-falaram-sobre-criar-instituto-para-moraes-em-londres",
+   "titulo": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos",
+   "url": "https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/",
    "veiculos": [
-    "Claudio Dantas",
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 2,
-   "primeira_vez": "2026-11-20T13:04-03:00",
-   "temas": [
-    "politica"
-   ],
-   "forca": 29.8,
-   "porque": "só 2 veículos (Claudio Dantas, Metrópoles); apareceu às 13h04"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic despenca 13% e Wall Street entra em correção",
-   "url": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/",
-   "veiculos": [
-    "Seu Dinheiro"
+    "InfoMoney"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-20T14:35-03:00",
+   "primeira_vez": "2026-11-20T16:41-03:00",
    "temas": [
     "mercado"
    ],
-   "forca": 29.6,
-   "porque": "só 1 veículo (Seu Dinheiro); apareceu às 14h35"
+   "forca": 29.8,
+   "porque": "só 1 veículo (InfoMoney); apareceu às 16h41"
   },
   {
    "tipo": "video",
@@ -2710,81 +2608,119 @@
    "url": "https://www.youtube.com/watch?v=ngDrjCFGlJc",
    "video_url": "https://www.youtube.com/watch?v=ngDrjCFGlJc",
    "canal": "Poder360",
-   "views_h": 9477,
-   "acima_mediana": 27.3,
+   "views_h": 11516,
+   "acima_mediana": 35.6,
    "publicado": "2026-11-20T10:27-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
+   "forca": 29.8,
+   "porque": "vídeo do Poder360 com 11.516 views/h (35.6x o normal do canal); nenhum veículo deu ainda"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Trump faz balanço após encontro histórica com Xi e Putin; Brasil é citado | BandNews TV",
+   "url": "https://www.youtube.com/watch?v=88dAdCXgWmc",
+   "video_url": "https://www.youtube.com/watch?v=88dAdCXgWmc",
+   "canal": "Band Jornalismo",
+   "views_h": 9417,
+   "acima_mediana": 11.4,
+   "publicado": "2026-11-20T15:25-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
+   "temas": [
+    "economia"
+   ],
    "forca": 28.7,
-   "porque": "vídeo do Poder360 com 9.477 views/h (27.3x o normal do canal); nenhum veículo deu ainda"
+   "porque": "vídeo do Band Jornalismo com 9.417 views/h (11.4x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "pauta",
-   "titulo": "41% das famílias com crianças na Argentina não conseguem pagar as despesas básicas",
-   "url": "https://exame.com/mundo/41-das-familias-com-criancas-na-argentina-nao-conseguem-pagar-as-despesas-basicas/",
+   "titulo": "Polônia suspeita de provocação russa após queda de míssil",
+   "url": "https://www.youtube.com/watch?v=AaWjy_bedpk",
    "veiculos": [
-    "Exame"
+    "BBC News Brasil"
    ],
    "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-20T14:35-03:00",
+   "primeira_vez": "2026-11-20T16:59-03:00",
    "temas": [
-    "economia",
-    "politica"
-   ],
-   "forca": 28.6,
-   "porque": "só 1 veículo (Exame); apareceu às 14h35"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "BTG desistiu de comprar Master por falta de garantias, diz Esteves",
-   "url": "https://www.poder360.com.br/poder-economia/btg-desistiu-de-comprar-master-por-falta-de-garantias-diz-esteves/",
-   "veiculos": [
-    "Poder360",
-    "Valor"
-   ],
-   "qtd_veiculos": 2,
-   "primeira_vez": "2026-11-20T13:59-03:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "forca": 28.0,
-   "porque": "só 2 veículos (Poder360, Valor); apareceu às 13h59"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Nikolas Ferreira critica projeto do PT que pune discriminação por voto ou convicção política",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG5wV192LWpjWTYxdzJEeWRBeUtCQmVBV1d5U1oyVVljcVVvb2VBcmJ6TTVyYzhzVjNnMFJlNHYxb3VWQk9hRGl5MVU2ODY2X1FBeXdzN1I1bUNIMWRkQ1B4b2dDQURHYWlkcExQRDd1cVR0aGx3RHdXU3dzenVfaHVyd2ttS215bXA3T2lHNEx0VEZZMjFISXhUekF3SnZNTFpBdGxtVFJ3ZjctWUJRWUtOWk83Xy02TFM3MGpDdUo?oc=5",
-   "veiculos": [
-    "sentidohorario.com.br"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-20T15:14-03:00",
-   "temas": [
-    "politica"
-   ],
-   "forca": 27.9,
-   "porque": "só 1 veículo (sentidohorario.com.br); apareceu às 15h14"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Ajuste fiscal preserva emendas e deixa a pesquisa em segundo plano",
-   "url": "https://www.metropoles.com/colunas/matheus-leitao/ajuste-fiscal-preserva-emendas-e-deixa-a-pesquisa-em-segundo-plano",
-   "veiculos": [
-    "Metrópoles"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-20T15:04-03:00",
-   "temas": [
-    "economia",
     "mercado",
     "politica"
    ],
+   "forca": 28.1,
+   "porque": "só 1 veículo (BBC News Brasil); apareceu às 16h59"
+  },
+  {
+   "tipo": "video",
+   "titulo": "PRISÃO DE VORCARO / DOSIMETRIA VAI AO STF / PREJUÍZO DO CRIME ORGANIZADO | TEMPO REAL - 20/11/2026",
+   "url": "https://www.youtube.com/watch?v=lYCzBNowKK8",
+   "video_url": "https://www.youtube.com/watch?v=lYCzBNowKK8",
+   "canal": "Jovem Pan News",
+   "views_h": 16139,
+   "acima_mediana": 29.3,
+   "publicado": "2026-11-20T16:05-03:00",
+   "veiculos": [
+    "MT HOJE",
+    "VEJA"
+   ],
+   "qtd_veiculos": 2,
+   "temas": [
+    "economia",
+    "politica"
+   ],
+   "forca": 28.1,
+   "porque": "vídeo do Jovem Pan News com 16.139 views/h (29.3x o normal do canal); só 2 veículos deram"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Deputados questionam gasto de R$ 3,3 milhões do Senado com troca de carpetes",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORUxqSDQtOURLREYwck9KNHBwMFRUNW9NejAyZ3B4TnhrRWNyWmNIdXFLRU04Y2VRa1NERXBzV2VrdmV0VFBiTmhHZEV2OE1RQ3pETGJVQVc4SGdVVWdQMzVLazJYSFA1WHNJS3ZnMnd4RWpxTVFLQjdXMnFJTHJLSkktWC1CeXc0XzU5R0JyTXBOd1MyY2hFTnhuQjhGcGZSV0pIMHlXMENFZllZaVF6bEQ4Y0ZhNGVDVUV5SDZ2UWxqOUdYaE1jN24wM1F3UjBCd0tRLWNQTHBkYXdHc0otLW4xck0zLXN3eFZfRDhpTWlVN2ZiTXhCTnZqdjFSWTg?oc=5",
+   "veiculos": [
+    "Terra"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-20T16:44-03:00",
+   "temas": [
+    "economia",
+    "politica"
+   ],
    "forca": 27.8,
-   "porque": "só 1 veículo (Metrópoles); apareceu às 15h04"
+   "porque": "só 1 veículo (Terra); apareceu às 16h44"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Dino vota para tornar Van Hattem réu por calúnia; Zanin suspende julgamento",
+   "url": "https://valor.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-zanin-suspende-julgamento.ghtml",
+   "veiculos": [
+    "Valor"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-20T16:55-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 26.9,
+   "porque": "só 1 veículo (Valor); apareceu às 16h55"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Machado de Xangô, símbolo de orixá da Justiça, é inaugurado no STF",
+   "url": "https://www.youtube.com/watch?v=M3gUd0pqUSo",
+   "video_url": "https://www.youtube.com/watch?v=M3gUd0pqUSo",
+   "canal": "Poder360",
+   "views_h": 3624,
+   "acima_mediana": 11.2,
+   "publicado": "2026-11-20T09:49-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
+   "temas": [
+    "politica"
+   ],
+   "forca": 25.8,
+   "porque": "vídeo do Poder360 com 3.624 views/h (11.2x o normal do canal); nenhum veículo deu ainda"
   }
  ],
  "fontes_ok": 64,
