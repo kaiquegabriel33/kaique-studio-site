@@ -1,0 +1,84 @@
+{
+  "ab_formato": "puro-x-comentario",
+  "abertura": null,
+  "carrossel_id": "sug-video-galipolo-alertou-pf-fuga-vorcaro",
+  "criado": "2026-11-20T15:40:00-03:00",
+  "cta": true,
+  "diferenciacao": "a legenda põe lado a lado as duas versões da mesma reunião: a defesa usou uma certidão do próprio BC para dizer que Vorcaro ia viajar atrás de investidores; o presidente do BC achou que era fuga e ligou para a PF",
+  "fato_em": "2026-11-20T10:00:00-03:00",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (YouTube, 20/11/2026): Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro (trecho do depoimento à PF de 07/10/2026)",
+      "url": "https://www.youtube.com/watch?v=iZYRYmaUYHM"
+    },
+    {
+      "titulo": "Poder360 (20/11/2026): Galípolo diz que alertou PF sobre possível fuga de Vorcaro (depoimento como testemunha em 07/10/2026; pedido urgente de reunião no dia da prisão; certidão do BC usada pela defesa)",
+      "url": "https://www.poder360.com.br/poder-justica/galipolo-diz-que-alertou-pf-sobre-possivel-fuga-de-vorcaro/"
+    }
+  ],
+  "forca": "alta",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "id": "sug-video-galipolo-alertou-pf-fuga-vorcaro",
+  "legenda": "Galípolo à PF sobre o último pedido de reunião do Master: “me pareceu que ele possa estar tentando fugir”.\n\nO presidente do Banco Central achou o pedido tão urgente e estranho que ligou para a Polícia Federal. Foi no dia da prisão do Vorcaro. Depois, a defesa dele usou uma certidão do próprio BC sobre essa reunião para dizer que ele só ia viajar para encontrar investidores lá fora. Galípolo disse à PF que o documento fugia do padrão do Banco Central e mandou o servidor que assinou sair de férias.\n\nMesma reunião, duas versões: viagem de negócios para a defesa, risco de fuga para o presidente do BC. O depoimento é de 7 de outubro de 2026 e só veio a público em novembro.\n\nVídeo: CNN Brasil (20/11/2026). Fontes: CNN Brasil; Poder360 (20/11/2026).\n\n#galipolo #bancomaster #vorcaro #bancocentral",
+  "motivo": "Fala de fonte primária (vídeo do depoimento do presidente do BC à PF) que virou a notícia mais repercutida da tarde de 20/11 (24 veículos no radar). Vorcaro é assunto que rende no perfil; essa aspa ainda não tem corte nosso.",
+  "noticia_grande": true,
+  "opiniao_sugerida": "Mesma reunião, duas versões (frase da legenda, não é fala dele)",
+  "paga_em": "me pareceu que ele possa estar tentando fugir ou alguma coisa do tipo",
+  "para_quem": "quem acompanha o caso Master e quer saber o que o presidente do BC disse à PF",
+  "politico": "Gabriel Galípolo",
+  "prioridade": 1,
+  "promessa": "A própria última pedida de reunião",
+  "reserva": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sempre_verde": false,
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 50,
+          "texto": "Presidente do BC no depoimento à PF sobre Vorcaro: ==“me pareceu que ele possa estar tentando fugir”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "status": "pronto",
+  "video_final_id": "0c312a546975b0f200018b713ec22128",
+  "sugerido_por": "rotina Quente do dia 20/11 (13h15, disparou 15:04)",
+  "teste_reel": true,
+  "titulo": "Galípolo à PF sobre Vorcaro: “me pareceu que ele possa estar tentando fugir”",
+  "trecho": {
+    "aspa_manchete": "me pareceu que ele possa estar tentando fugir ou alguma coisa do tipo",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "A própria última pedida de reunião",
+        "texto": "Galípolo, presidente do BC, em depoimento à PF (07/10)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "fim": "tentando fugir ou alguma coisa do tipo",
+    "gancho": "me pareceu que ele possa estar tentando fugir ou alguma coisa do tipo",
+    "girar": "nao",
+    "inicio": "A própria última pedida de reunião"
+  },
+  "trecho_txt": "CNN Brasil (LIVE CNN, 20/11/2026): trecho do vídeo do depoimento de Gabriel Galípolo à Polícia Federal em 07/10/2026, sobre o pedido de reunião do Banco Master no dia da prisão de Daniel Vorcaro.",
+  "vence_em": "2026-11-21T23:59:00-03:00",
+  "video_partes": [],
+  "video_url": "https://www.youtube.com/watch?v=iZYRYmaUYHM"
+}
