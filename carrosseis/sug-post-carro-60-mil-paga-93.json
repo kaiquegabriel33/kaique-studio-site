@@ -1,0 +1,54 @@
+{
+  "id": "sug-post-carro-60-mil-paga-93",
+  "titulo": "Post: o carro de R$ 60 mil financiado sai por R$ 93 mil",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-11-19T14:20",
+  "atualizado": "2026-11-19T14:20",
+  "slides": [
+    {
+      "papel": "post",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 46,
+          "texto": "Na loja, a pergunta é se a parcela cabe. Ninguém pergunta quanto o carro ==custa no fim==."
+        },
+        {
+          "tipo": "comparacao",
+          "itens": [
+            {
+              "titulo": "R$ 60 mil",
+              "texto": "o preço do carro"
+            },
+            {
+              "titulo": "R$ 93 mil",
+              "texto": "o que você paga em 48 parcelas de R$ 1.940"
+            }
+          ]
+        },
+        {
+          "tipo": "texto",
+          "tam": 30,
+          "texto": "São R$ 33 mil só de juro, com a taxa média do financiamento de carro em setembro: 1,96% ao mês (26,2% ao ano), segundo o Banco Central. IOF e seguro ficam fora da conta."
+        }
+      ]
+    }
+  ],
+  "legenda": "A parcela de R$ 1.940 cabe. O carro de R$ 60 mil que sai por R$ 93 mil é que ninguém faz a conta.\n\nO Banco Central mostra que, em setembro de 2026, o juro médio de quem financiou carro foi de 1,96% ao mês, 26,2% ao ano. E o prazo médio dos contratos ficou perto de 48 meses.\n\nCom essas duas coisas, um carro de R$ 60 mil financiado inteiro vira 48 parcelas de R$ 1.940. No fim, você pagou R$ 93,1 mil: R$ 33 mil a mais, mais da metade de outro carro, só de juro. E isso antes do IOF, do seguro e da tarifa de cadastro, que entram no custo efetivo total do contrato.\n\nTem caso em que financiar faz sentido: o carro que é ferramenta de trabalho e se paga no mês, ou quem dá uma entrada grande e financia pouco. O problema é a compra decidida pela parcela, sem olhar o total.\n\nAntes de assinar, pede o CET por escrito e multiplica a parcela pelo número de meses. É uma conta de celular que muda a decisão.\n\nDados: Banco Central, séries 25471 e 20749 (taxa média de juros, aquisição de veículos, pessoa física, setembro de 2026) e 20886 (prazo médio das concessões, 48,6 meses). Parcela e total são cálculo nosso pela tabela Price.\n\n#financiamento #carro #juros #educacaofinanceira #dinheiro",
+  "fontes": [
+    {
+      "titulo": "Banco Central (SGS 25471) — Taxa média mensal de juros, recursos livres, pessoas físicas, aquisição de veículos: 1,96% a.m. em set/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.25471/dados/ultimos/1?formato=json"
+    },
+    {
+      "titulo": "Banco Central (SGS 20749) — Taxa média de juros, recursos livres, pessoas físicas, aquisição de veículos: 26,18% a.a. em set/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20749/dados/ultimos/3?formato=json"
+    },
+    {
+      "titulo": "Banco Central (SGS 20886) — Prazo médio das concessões, pessoas físicas, aquisição de veículos: 48,63 meses em set/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20886/dados/ultimos/1?formato=json"
+    }
+  ]
+}
