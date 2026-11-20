@@ -1,0 +1,98 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 20/11 (14h20, disparou 15:12)",
+  "video_partes": [],
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  },
+  "id": "sug-video-lindbergh-acordao-dosimetria",
+  "carrossel_id": "sug-video-lindbergh-acordao-dosimetria",
+  "status": "publicado",
+  "titulo": "Lindbergh: “acordão” de Motta e Alcolumbre com Moraes na dosimetria",
+  "forca": "alta",
+  "prioridade": 2,
+  "politico": "Lindbergh Farias (deputado federal, líder do PT na Câmara)",
+  "fato_em": "2026-11-20T13:00:00-03:00",
+  "vence_em": "2026-11-22T23:59:00-03:00",
+  "criado": "2026-11-20T15:47:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=01hbbav13kc",
+  "trecho_txt": "Mídia NINJA (20/11/2026), vídeo de Lindbergh Farias sobre a Lei da Dosimetria, do começo até 1:10.",
+  "motivo": "Fala de hoje do líder do PT na Câmara acusando os presidentes da Câmara e do Senado de pedir a Moraes que pautasse a Lei da Dosimetria; Moraes marcou o julgamento para 4/12 (UOL). Ataque de dentro da base aos aliados do governo, poucas views ainda (4,4 mil na Mídia NINJA).",
+  "promessa": "isso me parece um acordão envolvendo o bolsonarismo",
+  "paga_em": "a dosimetria é uma anistia para generais golpistas e para Jair Bolsonaro",
+  "para_quem": "quem acompanha a briga da anistia e da dosimetria e quer saber o que o PT está dizendo dos próprios aliados",
+  "diferenciacao": "a legenda separa o que é fato (Moraes marcou o julgamento para 4 de dezembro) do que é acusação dele (o pedido de Motta e Alcolumbre), e mostra que o tiro vem de dentro da base",
+  "opiniao_sugerida": "O fecho da legenda (o tiro vem de dentro da base, a 3 meses da eleição da Mesa) é leitura nossa, não fala dele.",
+  "trecho": {
+    "inicio": "Acordão não, pessoal",
+    "fim": "Supremo Tribunal Federal",
+    "aspa_manchete": "isso me parece um acordão envolvendo o bolsonarismo",
+    "gancho": "isso me parece um acordão envolvendo o bolsonarismo",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Acordão não",
+        "texto": "Lindbergh Farias, líder do PT na Câmara, 20/11"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "crop": [
+      1080,
+      930,
+      0,
+      102
+    ]
+  },
+  "legenda": "Lindbergh Farias, líder do PT na Câmara: “isso me parece um acordão envolvendo o bolsonarismo”.\n\nSegundo ele, Hugo Motta e Davi Alcolumbre foram ao ministro Alexandre de Moraes pedir que pautasse a Lei da Dosimetria, que ele chama de anistia para Bolsonaro e para os generais. O fato confirmado é a outra metade: Moraes marcou o julgamento no STF para 4 de dezembro. O pedido dos dois presidentes é acusação dele.\n\nO detalhe que pesa é de onde vem o tiro. Motta e Alcolumbre são os aliados que o governo precisa para aprovar o ajuste fiscal na segunda. Quando o líder do PT acusa os dois de acordão, a briga deixou de ser só governo contra oposição.\n\nVídeo: Mídia NINJA (20/11/2026). Fonte: UOL (20/11/2026).\n\n#dosimetria #stf #lindbergh #camara",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Lindbergh: ==“isso me parece um acordão”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Mídia NINJA: Lindbergh diz que Motta e Alcolumbre trocariam anistia a Bolsonaro por votos para se reelegerem (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=01hbbav13kc"
+    },
+    {
+      "titulo": "UOL: Lei da Dosimetria: Moraes marca para 4 de dezembro julgamento no STF (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=b8aisTEe-Ds"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lindbergh-acordao-dosimetria",
+  "noticia_grande": false,
+  "atualizado": "2026-11-20T16:14",
+  "publicado_em": "2026-11-20T16:14:00-03:00",
+  "arquivo": "sug-video-lindbergh-acordao-dosimetria-tela-cheia.mp4",
+  "video_final_id": "28ba0229067833175b486bc65227e01d",
+  "capa_id": "6767ed0109cb00631a7364b9fb571c4a",
+  "nota_corte": "Vídeo inteiro da Mídia NINJA até “Supremo Tribunal Federal.” (1:10), fim no ponto final; gancho “isso me parece um acordão envolvendo o bolsonarismo” na abertura; 1,1x, ~69 s; legenda corrigida na transcrição (Whisper: “Hugo Motti”, “da Via Columbre”, “cordão”); recorte [1080,930,0,102] tira a tarja da Mídia NINJA. auditar_cortes 0. conferir_video: repetições são dele, faixa escura no CTA, pele: rosto achado em 2 de 8 quadros (selfie no carro, cor ok a olho)."
+}
