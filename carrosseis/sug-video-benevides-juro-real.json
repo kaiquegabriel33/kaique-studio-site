@@ -1,0 +1,91 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 20/11 (14h20, disparou 15:12)",
+  "video_partes": [],
+  "id": "sug-video-benevides-juro-real",
+  "carrossel_id": "sug-video-benevides-juro-real",
+  "status": "publicado",
+  "titulo": "Relator do ajuste: “não são 40 bilhões de déficit que justificam a maior taxa de juros real do mundo”",
+  "forca": "alta",
+  "prioridade": 1,
+  "politico": "Mauro Benevides Filho (deputado federal, relator do ajuste fiscal na Câmara)",
+  "fato_em": "2026-11-20T13:00:00-03:00",
+  "vence_em": "2026-11-23T23:59:00-03:00",
+  "criado": "2026-11-20T15:45:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=nHBPWzljvAQ",
+  "trecho_txt": "CNN Brasil, Bastidores CNN (20/11/2026), entrevista ao vivo com o relator do ajuste fiscal na Câmara, de 14:33 a 15:32.",
+  "motivo": "Fala de hoje do relator do pacote na Câmara, que vota segunda: ele diz que o déficit não justifica o juro real mais alto do mundo e cita R$ 1,2 trilhão de juros. É o próprio relator do ajuste falando contra o juro, e a entrevista tem pouca repercussão ainda (1,1 mil views em 2 h).",
+  "promessa": "não são 40 bilhões de déficit primário que justifica a maior taxa de juro real do mundo",
+  "paga_em": "o Brasil tá despendendo 1 trilhão e 200 bilhões de reais de juros",
+  "para_quem": "quem paga juro de cartão, financiamento e empréstimo e quer entender a briga do ajuste fiscal",
+  "diferenciacao": "a legenda mostra que o relator do ajuste, da base do governo, usa a entrevista do pacote para atacar o juro, e põe a conta dele ao lado do que o mercado diz",
+  "opiniao_sugerida": "O fecho da legenda (a conta dos juros é a que pesa e quase ninguém fala dela) é leitura nossa, não fala dele.",
+  "trecho": {
+    "inicio": "não são 40 bilhões de déficit primário que justifica",
+    "fim": "continuar eternamente",
+    "aspa_manchete": "a maior taxa de juros real do mundo",
+    "gancho": "",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "não são 40 bilhões",
+        "texto": "Mauro Benevides Filho, relator do ajuste fiscal na Câmara, 20/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "“Não são 40 bilhões de déficit que justificam a maior taxa de juros real do mundo.”\n\nQuem disse foi o relator do ajuste fiscal na Câmara, Mauro Benevides Filho, hoje na CNN.\n\nEle é da base do governo e vai defender o pacote na votação de segunda. Mesmo assim, usou a entrevista para falar do juro. Disse que conhece países com déficit maior e inflação maior que a nossa pagando juros reais menores, e que o Brasil gasta 1 trilhão e 200 bilhões de reais com juros, segundo a conta dele.\n\nO mercado diz que o ajuste é pequeno. O relator diz que o problema é outro. Os dois podem ter um pedaço de razão, mas quem sente primeiro é quem tem parcela de cartão, carro ou casa: com a Selic onde está, o juro dessas contas não cai.\n\nVídeo: CNN Brasil, Bastidores CNN (20/11/2026).\n\n#ajustefiscal #juros #selic #economia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Relator do ajuste: ==“a maior taxa de juros real do mundo”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "CNN Brasil, Bastidores CNN: Relator do ajuste fiscal: Não podemos conter investimento público (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=nHBPWzljvAQ"
+    },
+    {
+      "titulo": "Jovem Pan News: Relator do ajuste fiscal mantém texto do Senado (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=mjG2ZQLnUZQ"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-benevides-juro-real",
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  },
+  "atualizado": "2026-11-20T15:37",
+  "publicado_em": "2026-11-20T15:37:00-03:00",
+  "arquivo": "sug-video-benevides-juro-real-tela-cheia.mp4",
+  "video_final_id": "35180c70d78e69d32c3ca5aedcfe10c3",
+  "capa_id": "7fe2596082bcdb8d98216af8a39cea7c",
+  "nota_corte": "Trecho 14:33–15:32 da CNN (fala inteira, começa em “não são 40 bilhões”, fim no ponto final “continuar eternamente”); 1,1x, ~55 s; 1ª montagem começou em “são” e comia o “não” (invertia a frase): corrigido com trecho.inicio e sem gancho. auditar_cortes 0 pontos; aviso GANCHO: a frase da manchete é a própria abertura (a aspa curta cai aos 7 s dentro dela), não há gancho melhor. conferir_video: repetições são do jeito dele falar (retórica), faixa escura e estalo no CTA: nada a corrigir."
+}

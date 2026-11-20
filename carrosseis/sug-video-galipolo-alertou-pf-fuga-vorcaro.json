@@ -56,7 +56,15 @@
       "tema": "escuro"
     }
   ],
-  "status": "pronto",
+  "status": "publicado",
+  "publicado_em": "2026-11-20T15:21:00-03:00",
+  "arquivo": "sug-video-galipolo-alertou-pf-fuga-vorcaro-tela-cheia.mp4",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-20T15:21:00-03:00",
+  "agendado_metricool": {"em": "2026-11-20T15:20:00-03:00", "id": 435923052, "isAiGenerated": false, "para": "2026-11-20T19:00:00", "tipo": "TRIAL_REEL", "uuid": "-1037449938642253016"},
+  "agendado_tiktok": {"em": "2026-11-20T15:21:00-03:00", "id": 435923152, "para": "2026-11-20T19:00:00", "tipo": "TIKTOK", "uuid": "-2754934604680704341"},
+  "nota_lote": "AGENDADO pela Quente do dia 20/11 (rodada das 13h15, disparou 15:04): Reel de teste 20/11 19:00 e TikTok 20/11 19:00 (pauta quente no TikTok na hora). Não poste à mão. auditar_cortes 0; sem_cara_de_ia 0. conferir_video: PELE rosada (luz do vídeo do depoimento, não é HDR do iPhone) e 1 ESTALO no áudio da origem: nada a corrigir. Sem abertura dele. 29 s em 1,1x.",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-galipolo-alertou-pf-fuga-vorcaro",
   "video_final_id": "0c312a546975b0f200018b713ec22128",
   "sugerido_por": "rotina Quente do dia 20/11 (13h15, disparou 15:04)",
   "teste_reel": true,
