@@ -94,5 +94,24 @@
   "arquivo": "sug-video-alcolumbre-pitada-eleitoral-tela-cheia.mp4",
   "video_final_id": "ff639dc3b1f3c44e10f7b83b550866e8",
   "capa_id": "a4667cb1db3fff78dc57e7d3f4db3898",
-  "nota_corte": "Itatiaia, 0:35–1:45 (fala no plenário depois da aprovação do PLP 299, 18/11), fim no ponto final; 1,1x, ~64 s; recorte [1080,1060,0,240] tira o logo e a tarja da Itatiaia; 1ª gravação veio truncada e foi refeita. auditar_cortes 0; aviso GANCHO: a aspa da manchete cai aos 9 s, na 1ª frase; com o gancho no começo o vídeo passava de 75 s. conferir_video: loudness -15,2 LUFS e repetições dele, nada a corrigir."
+  "nota_corte": "Itatiaia, 0:35–1:45 (fala no plenário depois da aprovação do PLP 299, 18/11), fim no ponto final; 1,1x, ~64 s; recorte [1080,1060,0,240] tira o logo e a tarja da Itatiaia; 1ª gravação veio truncada e foi refeita. auditar_cortes 0; aviso GANCHO: a aspa da manchete cai aos 9 s, na 1ª frase; com o gancho no começo o vídeo passava de 75 s. conferir_video: loudness -15,2 LUFS e repetições dele, nada a corrigir.",
+  "agendado_metricool": {
+    "id": 436028746,
+    "uuid": "5566197911474030846",
+    "para": "2026-11-21T09:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-20T17:01:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 436029179,
+    "uuid": "5732398568149238946",
+    "para": "2026-11-21T10:50:00",
+    "tipo": "tiktok",
+    "em": "2026-11-20T17:01:00-03:00",
+    "isAigc": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-20T17:02:00-03:00",
+  "nota_lote": "AGENDADO 20/11 (rotina Reels de teste 14h20): IG 21/11 09:40 (Reel de teste), TikTok 10:50; corte puro 1,1x; auditar_cortes 0 (aviso GANCHO com motivo na nota_corte). Não poste à mão."
 }

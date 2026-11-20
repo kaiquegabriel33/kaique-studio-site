@@ -92,5 +92,24 @@
   "arquivo": "sug-video-cnn-pf-relatorios-ministros-master-tela-cheia.mp4",
   "video_final_id": "12c5e8662fa64af772bddca8bac5c74a",
   "capa_id": "2f1577d72ef0f57e036e1ca575b30c06",
-  "nota_corte": "Trecho 1:20–2:19 da LIVE CNN (repórter Téo Cury), fim no ponto final; 1,1x, ~55 s; legenda: “Cássio” corrigido para “Kassio” na transcrição. auditar_cortes 0; aviso GANCHO: a manchete (relatórios citam todos os ministros, menos Fux) é a frase de abertura do próprio trecho, sem aspa. conferir_video: pele rosada é a luz do estúdio (fonte SDR), repetições do repórter, nada a corrigir."
+  "nota_corte": "Trecho 1:20–2:19 da LIVE CNN (repórter Téo Cury), fim no ponto final; 1,1x, ~55 s; legenda: “Cássio” corrigido para “Kassio” na transcrição. auditar_cortes 0; aviso GANCHO: a manchete (relatórios citam todos os ministros, menos Fux) é a frase de abertura do próprio trecho, sem aspa. conferir_video: pele rosada é a luz do estúdio (fonte SDR), repetições do repórter, nada a corrigir.",
+  "agendado_metricool": {
+    "id": 436028644,
+    "uuid": "-5856972059541025977",
+    "para": "2026-11-21T09:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-20T17:01:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 436029040,
+    "uuid": "2262385748114950715",
+    "para": "2026-11-21T09:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-20T17:01:00-03:00",
+    "isAigc": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-20T17:02:00-03:00",
+  "nota_lote": "AGENDADO 20/11 (rotina Reels de teste 14h20): IG 21/11 09:00 (Reel de teste), TikTok 09:30; corte puro 1,1x; auditar_cortes 0 (aviso GANCHO com motivo na nota_corte). Não poste à mão."
 }

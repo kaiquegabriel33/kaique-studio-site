@@ -83,5 +83,24 @@
   "arquivo": "sug-video-benevides-selic-doutorado-tela-cheia.mp4",
   "video_final_id": "f7585a232560e3a9f649dfa49bc8e5ff",
   "capa_id": "d224ed8cdde3077aff0d0353f4a5442c",
-  "nota_corte": "Trecho 15:35–16:33 da CNN (mesma entrevista do corte de 20/11 19:40, fala diferente), gancho “consegue baixar a taxa de juros que ninguém aguenta mais”; 1,1x, ~56 s. auditar_cortes 0. conferir_video: pausa de 0,44 s e faixa escura no CTA, nada a corrigir."
+  "nota_corte": "Trecho 15:35–16:33 da CNN (mesma entrevista do corte de 20/11 19:40, fala diferente), gancho “consegue baixar a taxa de juros que ninguém aguenta mais”; 1,1x, ~56 s. auditar_cortes 0. conferir_video: pausa de 0,44 s e faixa escura no CTA, nada a corrigir.",
+  "agendado_metricool": {
+    "id": 436028836,
+    "uuid": "1366391871412126898",
+    "para": "2026-11-21T10:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-20T17:01:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 436029293,
+    "uuid": "-1754699660075708893",
+    "para": "2026-11-21T12:10:00",
+    "tipo": "tiktok",
+    "em": "2026-11-20T17:01:00-03:00",
+    "isAigc": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-20T17:02:00-03:00",
+  "nota_lote": "AGENDADO 20/11 (rotina Reels de teste 14h20): IG 21/11 10:20 (Reel de teste), TikTok 12:10; corte puro 1,1x; auditar_cortes 0 (aviso GANCHO com motivo na nota_corte). Não poste à mão."
 }
