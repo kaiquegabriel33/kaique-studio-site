@@ -1,0 +1,50 @@
+{
+  "id": "sug-story-pao-de-acucar-72-vezes",
+  "carrossel_id": "sug-story-pao-de-acucar-72-vezes",
+  "titulo": "Story: o Pão de Açúcar vai pagar R$ 140 milhões de dívida trabalhista em até 72 meses",
+  "formato": "story",
+  "papel_story": "educa",
+  "status": "pronto",
+  "forca": "media",
+  "criado": "2026-11-20T15:20:00-03:00",
+  "atualizado": "2026-11-20T15:20:00-03:00",
+  "vence_em": "2026-11-22T21:00:00-03:00",
+  "versao": 1,
+  "sugerido_por": "rotina Sugestões da manhã 20/11",
+  "comentario": "O Pão de Açúcar ganhou o direito de pagar R$ 140 milhões de dívida trabalhista em até 72 meses. Quem ia receber até o fim de 2027 agora pode esperar até 6 anos, corrigido pela Selic.",
+  "legenda": "",
+  "para_quem": "quem tem processo trabalhista ganho contra empresa grande, ou ação do GPA",
+  "diferenciacao": "o lado de quem tem o dinheiro a receber (o prazo que sai de 2027 para até 6 anos), que as manchetes de empresa contam pelo lado do caixa do GPA",
+  "confira_na_previa": [
+    "Decisão do TRT-2 (São Paulo); os planos nos TRTs da 10ª e da 15ª regiões ainda estão para aprovar, por isso a arte não diz 'todos os trabalhadores'.",
+    "A matéria não tinha foto própria (só o logo) e o print do site trazia botões ou um anúncio político no meio: fundo escuro com o cartão da notícia (veículo, data e manchete iguais aos da matéria)."
+  ],
+  "repost_url": "https://www.poder360.com.br/poder-economia/justica-autoriza-pao-de-acucar-a-parcelar-divida-trabalhista-em-72-vezes/",
+  "fontes": [
+    {
+      "titulo": "Poder360 (20/11/2026): Justiça autoriza Pão de Açúcar a parcelar dívida trabalhista em 72 vezes (R$ 140 milhões, até 72 meses, Selic; dívidas venciam até o fim de 2027; fato relevante do GPA de 19/11)",
+      "url": "https://www.poder360.com.br/poder-economia/justica-autoriza-pao-de-acucar-a-parcelar-divida-trabalhista-em-72-vezes/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Pão de Açúcar ganhou o direito de pagar R$ 140 milhões de dívida trabalhista em até 72 meses. Quem ia receber até o fim de 2027 agora [[verde:pode esperar até 6 anos]], corrigido pela Selic."
+        },
+        {
+          "tipo": "noticia",
+          "veiculo": "Poder360",
+          "data": "20/11/2026",
+          "manchete": "Justiça autoriza Pão de Açúcar a parcelar dívida trabalhista em 72 vezes"
+        }
+      ]
+    }
+  ]
+}

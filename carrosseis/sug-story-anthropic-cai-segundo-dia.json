@@ -1,0 +1,59 @@
+{
+  "id": "sug-story-anthropic-cai-segundo-dia",
+  "carrossel_id": "sug-story-anthropic-cai-segundo-dia",
+  "titulo": "Story: a Anthropic caiu forte no segundo dia de bolsa (o risco do BDR apareceu)",
+  "formato": "story",
+  "papel_story": "educa",
+  "status": "pronto",
+  "forca": "alta",
+  "criado": "2026-11-20T15:20:00-03:00",
+  "atualizado": "2026-11-20T15:20:00-03:00",
+  "vence_em": "2026-11-21T21:00:00-03:00",
+  "versao": 1,
+  "sugerido_por": "rotina Sugestões da manhã 20/11",
+  "comentario": "No story do BDR da Anthropic eu disse que quem compra leva dois riscos. O primeiro veio no segundo dia: a ação caiu forte. Ela vale umas 40 vezes o que vendeu em 12 meses.",
+  "legenda": "",
+  "para_quem": "quem viu o IPO da Anthropic e pensou em comprar o BDR (ANTH34) pela corretora",
+  "diferenciacao": "continua a opinião dele no story do BDR que saiu hoje às 10h (o risco duplo ação + dólar): agora com o primeiro risco acontecendo e o número de quanto a empresa vale perto do que vende",
+  "confira_na_previa": [
+    "A queda do dia mudou ao longo do pregão (cerca de 8% às 11h48 na Reuters/InfoMoney, 11% às 13h58 no InfoMoney com Bloomberg). Por isso a arte diz 'caiu forte', sem número.",
+    "'40 vezes as vendas dos últimos 12 meses' é da matéria (Reuters via InfoMoney)."
+  ],
+  "repost_url": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/",
+  "fontes": [
+    {
+      "titulo": "InfoMoney/Reuters (20/11/2026): Ação da Anthropic cai forte após estreia e traz choque de realidade para setor de IA (print e foto de fundo da matéria; valor de cerca de 40 vezes as vendas de 12 meses)",
+      "url": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/"
+    },
+    {
+      "titulo": "InfoMoney/Bloomberg (20/11/2026): Nasdaq cai cerca de 3% e vira para queda no ano; Dow Jones entra em correção (Anthropic -11% no segundo dia)",
+      "url": "https://www.infomoney.com.br/mercados/nasdaq-registra-queda-seguindo-baixa-de-acoes-da-anthropic/"
+    }
+  ],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-anthropic-cai-segundo-dia/acao-da-anthropic-cai-forte-apos-estreia-e-traz.jpg",
+        "clarear": 0.2
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "No story do BDR da Anthropic eu disse que quem compra leva dois riscos. O primeiro veio no segundo dia: a ação caiu forte. Ela vale [[verde:umas 40 vezes o que vendeu em 12 meses]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-anthropic-cai-segundo-dia/print-infomoney-acao-da-anthropic-cai-forte-apos.png",
+          "h": 520,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ]
+}
