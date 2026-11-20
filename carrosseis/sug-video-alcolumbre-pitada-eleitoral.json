@@ -1,0 +1,98 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 20/11 (14h20, disparou 15:12)",
+  "video_partes": [],
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  },
+  "id": "sug-video-alcolumbre-pitada-eleitoral",
+  "carrossel_id": "sug-video-alcolumbre-pitada-eleitoral",
+  "status": "publicado",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-alcolumbre-pitada-eleitoral",
+  "titulo": "Alcolumbre sobre as críticas ao ajuste fiscal: “alguma pitada também da questão eleitoral”",
+  "forca": "media",
+  "prioridade": 4,
+  "politico": "Davi Alcolumbre (presidente do Senado, União Brasil)",
+  "fato_em": "2026-11-18T22:00:00-03:00",
+  "vence_em": "2026-11-23T23:59:00-03:00",
+  "criado": "2026-11-20T16:30:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=STlKDNxcsHk",
+  "trecho_txt": "Itatiaia (vídeo publicado em 20/11/2026): fala de Davi Alcolumbre no plenário do Senado depois da aprovação do PLP 299, de 0:35 a 1:45.",
+  "motivo": "O presidente do Senado diz que parte das críticas ao ajuste vem de quem perdeu a eleição; a fala saiu hoje na Itatiaia e quase ninguém viu (12 views). A Câmara vota o mesmo texto na segunda, então a briga continua valendo no sábado.",
+  "promessa": "aqueles que não tiveram êxito na eleição tentam de toda sorte desqualificar matérias que são importantes para o Brasil",
+  "paga_em": "as críticas ao projeto eram críticas desse ambiente de disputa eleitoral",
+  "para_quem": "quem ouviu que o ajuste fiscal é fraco e quer saber o que o presidente do Senado responde",
+  "diferenciacao": "a legenda põe lado a lado a resposta do Alcolumbre e o que quem critica o ajuste aponta, sem tomar o lado de nenhum",
+  "opiniao_sugerida": "O fecho da legenda (chamar crítica de eleitoral não responde se o ajuste corta gasto) é leitura nossa, não fala dele.",
+  "trecho": {
+    "inicio": "muitas das vezes as críticas em relação a um determinado projeto",
+    "fim": "polarização e de embate",
+    "aspa_manchete": "alguma pitada também da questão eleitoral",
+    "gancho": "",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "muitas das vezes",
+        "texto": "Davi Alcolumbre, presidente do Senado, 18/11"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "girar": "nao",
+    "crop": [
+      1080,
+      1060,
+      0,
+      240
+    ]
+  },
+  "legenda": "Crítica ao ajuste fiscal vem com “alguma pitada também da questão eleitoral”.\n\nQuem disse foi Davi Alcolumbre, presidente do Senado.\n\nEle falou no plenário depois de aprovar o pacote. Segundo ele, quem não teve êxito na eleição tenta desqualificar projeto importante para o país, e parte das críticas ao texto nasceu da disputa e da polarização.\n\nSó que a crítica mais dura ao ajuste não veio só de candidato derrotado. Veio do mercado, que acha o pacote pequeno, e até do relator na Câmara, que reclama do juro. Chamar a crítica de eleitoral não responde a pergunta que importa: o texto corta gasto ou só aumenta arrecadação?\n\nA Câmara vota o mesmo texto na segunda.\n\nVídeo: Itatiaia (20/11/2026). Fontes: Itatiaia; Jovem Pan News (20/11/2026).\n\n#alcolumbre #ajustefiscal #senado #economia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Alcolumbre sobre as críticas ao ajuste: ==“alguma pitada também da questão eleitoral”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Itatiaia: Alcolumbre sobre críticas ao ajuste fiscal de Lula: 'pitada eleitoral' (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=STlKDNxcsHk"
+    },
+    {
+      "titulo": "Jovem Pan News: Relator do ajuste fiscal mantém texto do Senado (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=mjG2ZQLnUZQ"
+    }
+  ],
+  "atualizado": "2026-11-20T16:55",
+  "publicado_em": "2026-11-20T16:55:00-03:00",
+  "arquivo": "sug-video-alcolumbre-pitada-eleitoral-tela-cheia.mp4",
+  "video_final_id": "ff639dc3b1f3c44e10f7b83b550866e8",
+  "capa_id": "a4667cb1db3fff78dc57e7d3f4db3898",
+  "nota_corte": "Itatiaia, 0:35–1:45 (fala no plenário depois da aprovação do PLP 299, 18/11), fim no ponto final; 1,1x, ~64 s; recorte [1080,1060,0,240] tira o logo e a tarja da Itatiaia; 1ª gravação veio truncada e foi refeita. auditar_cortes 0; aviso GANCHO: a aspa da manchete cai aos 9 s, na 1ª frase; com o gancho no começo o vídeo passava de 75 s. conferir_video: loudness -15,2 LUFS e repetições dele, nada a corrigir."
+}

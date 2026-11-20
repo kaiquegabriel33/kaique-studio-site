@@ -1,0 +1,87 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 20/11 (14h20, disparou 15:12)",
+  "video_partes": [],
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  },
+  "id": "sug-video-benevides-selic-doutorado",
+  "carrossel_id": "sug-video-benevides-selic-doutorado",
+  "status": "publicado",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-benevides-selic-doutorado",
+  "titulo": "Relator do ajuste: Selic poderia estar “no mínimo 4 pontos percentuais a menos”",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Mauro Benevides Filho (deputado federal, relator do ajuste fiscal na Câmara)",
+  "fato_em": "2026-11-20T13:00:00-03:00",
+  "vence_em": "2026-11-24T23:59:00-03:00",
+  "criado": "2026-11-20T16:30:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=nHBPWzljvAQ",
+  "trecho_txt": "CNN Brasil, Bastidores CNN (20/11/2026), entrevista ao vivo com o relator do ajuste fiscal na Câmara, de 15:35 a 16:33.",
+  "motivo": "Segunda fala da mesma entrevista (a primeira saiu em 20/11 às 19:40): o relator diz que simulou no doutorado e que a Selic poderia estar ao menos 4 pontos abaixo, e que vai levar isso ao Galípolo. Fala de bolso que vale para o fim de semana.",
+  "promessa": "no mínimo quatro pontos percentuais a menos",
+  "paga_em": "baixar a taxa de juros que ninguém aguenta mais essa taxa tão alta",
+  "para_quem": "quem paga juro de cartão, financiamento e empréstimo",
+  "diferenciacao": "a legenda mostra o tamanho da conta: 4 pontos de Selic a menos é a diferença que aparece na parcela de quem financia",
+  "opiniao_sugerida": "O fecho da legenda (é a conta dele, o BC não concorda) é leitura nossa, não fala dele.",
+  "trecho": {
+    "inicio": "de 1999",
+    "fim": "essa taxa tão alta",
+    "aspa_manchete": "no mínimo 4 pontos percentuais a menos",
+    "gancho": "consegue baixar a taxa de juros que ninguém aguenta mais essa taxa tão alta",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "de 1999",
+        "texto": "Mauro Benevides Filho, relator do ajuste fiscal na Câmara, 20/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "A Selic poderia estar “no mínimo 4 pontos percentuais a menos”.\n\nQuem diz é o relator do ajuste fiscal na Câmara, Mauro Benevides Filho.\n\nNa CNN, ele contou que simulou no doutorado como o Banco Central fixa a Selic e não achou o que justifique o nível de hoje. Disse também que, desde 1999, o resultado primário nunca foi capaz de pagar nem os juros da dívida. E que vai levar a conta ao Galípolo.\n\nIsso é a conta dele, não a do Banco Central. Mas é raro ouvir o relator do pacote fiscal, da base do governo, dizer em voz alta que o problema do país também está no juro, e não só no gasto.\n\nVídeo: CNN Brasil, Bastidores CNN (20/11/2026).\n\n#selic #juros #ajustefiscal #bancocentral",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Relator do ajuste: Selic ==“no mínimo 4 pontos percentuais a menos”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "CNN Brasil, Bastidores CNN: Relator do ajuste fiscal: Não podemos conter investimento público (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=nHBPWzljvAQ"
+    }
+  ],
+  "atualizado": "2026-11-20T16:55",
+  "publicado_em": "2026-11-20T16:55:00-03:00",
+  "arquivo": "sug-video-benevides-selic-doutorado-tela-cheia.mp4",
+  "video_final_id": "f7585a232560e3a9f649dfa49bc8e5ff",
+  "capa_id": "d224ed8cdde3077aff0d0353f4a5442c",
+  "nota_corte": "Trecho 15:35–16:33 da CNN (mesma entrevista do corte de 20/11 19:40, fala diferente), gancho “consegue baixar a taxa de juros que ninguém aguenta mais”; 1,1x, ~56 s. auditar_cortes 0. conferir_video: pausa de 0,44 s e faixa escura no CTA, nada a corrigir."
+}

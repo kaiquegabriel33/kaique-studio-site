@@ -1,0 +1,96 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 20/11 (14h20, disparou 15:12)",
+  "video_partes": [],
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  },
+  "id": "sug-video-cnn-pf-relatorios-ministros-master",
+  "carrossel_id": "sug-video-cnn-pf-relatorios-ministros-master",
+  "status": "publicado",
+  "titulo": "CNN: a PF entregou ao STF relatórios do caso Master que citam todos os ministros, menos Fux",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Téo Cury (repórter da CNN) sobre André Mendonça e o STF",
+  "fato_em": "2026-11-20T10:00:00-03:00",
+  "vence_em": "2026-11-22T23:59:00-03:00",
+  "criado": "2026-11-20T16:22:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=WYlCYJjkG0U",
+  "trecho_txt": "CNN Brasil, LIVE CNN (20/11/2026), repórter Téo Cury sobre o relatório do caso Master que cita André Mendonça, de 1:20 a 2:19.",
+  "motivo": "O caso Master foi o assunto mais visto do dia (CNN 87 mil e SBT 87 mil views em 6 h). O repórter da CNN conta o que quase ninguém explicou: a PF levou ao STF 10 relatórios com menções a todos os ministros, menos Fux, e quatro seguiram para a PF (Mendonça, Moraes, Nunes Marques e Toffoli). Só Mendonça pediu para tirar o sigilo do dele.",
+  "promessa": "a Polícia Federal apresenta 10 relatórios com menções a todos os ministros do Supremo, exceção do ministro Luiz Fux",
+  "paga_em": "André Mendonça, Alexandre de Moraes, Nunes Marques e Dias Toffoli",
+  "para_quem": "quem acompanha o caso Master e quer entender por que o STF inteiro entrou na história",
+  "diferenciacao": "a legenda põe o detalhe que muda a leitura: dos quatro ministros com relatório, só um pediu para o dele ficar público",
+  "opiniao_sugerida": "O fecho da legenda (a pergunta sobre os outros três) é leitura nossa, não fala do repórter.",
+  "noticia_grande": true,
+  "trecho": {
+    "inicio": "a Polícia Federal vai até o Supremo",
+    "fim": "nas investigações do caso master",
+    "aspa_manchete": "menções a todos os ministros do Supremo",
+    "gancho": "",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "a Polícia Federal vai até",
+        "texto": "Téo Cury, repórter da CNN, 20/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "A PF levou ao STF 10 relatórios do caso Master com menções a todos os ministros do Supremo. A única exceção é Luiz Fux.\n\nQuem conta é o repórter Téo Cury, da CNN. Edson Fachin arquivou parte e mandou quatro relatórios seguirem com a PF: os que falam de André Mendonça, Alexandre de Moraes, Nunes Marques e Dias Toffoli. Cada um recebeu o seu. Todos ficaram com sigilo máximo.\n\nAí veio o movimento de ontem: Mendonça abriu mão do sigilo do dele e pediu que o relatório fosse público. Fachin aceitou.\n\nSobram três relatórios em segredo. Se não tem nada que pese, fica a pergunta de por que os outros não fizeram o mesmo.\n\nVídeo: CNN Brasil (20/11/2026). Fontes: CNN Brasil; SBT News; g1 (20/11/2026).\n\n#stf #bancomaster #mendonca #moraes",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Caso Master: ==relatórios da PF citam todos os ministros do STF, menos Fux==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "CNN Brasil: Caso Master: Fachin retira sigilo de relatório que cita André Mendonça | LIVE CNN (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=WYlCYJjkG0U"
+    },
+    {
+      "titulo": "SBT News: Fachin atende Mendonça e libera relatório da PF sobre caso Master (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=oF8df33BUYQ"
+    },
+    {
+      "titulo": "g1: Master: Mendonça pede à presidência do STF que torne público relatório da PF com menções a ele (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=_2zR35Tgafk"
+    }
+  ],
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-pf-relatorios-ministros-master",
+  "atualizado": "2026-11-20T16:55",
+  "publicado_em": "2026-11-20T16:55:00-03:00",
+  "arquivo": "sug-video-cnn-pf-relatorios-ministros-master-tela-cheia.mp4",
+  "video_final_id": "12c5e8662fa64af772bddca8bac5c74a",
+  "capa_id": "2f1577d72ef0f57e036e1ca575b30c06",
+  "nota_corte": "Trecho 1:20–2:19 da LIVE CNN (repórter Téo Cury), fim no ponto final; 1,1x, ~55 s; legenda: “Cássio” corrigido para “Kassio” na transcrição. auditar_cortes 0; aviso GANCHO: a manchete (relatórios citam todos os ministros, menos Fux) é a frase de abertura do próprio trecho, sem aspa. conferir_video: pele rosada é a luz do estúdio (fonte SDR), repetições do repórter, nada a corrigir."
+}
