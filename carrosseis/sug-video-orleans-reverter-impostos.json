@@ -1,0 +1,84 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Quente do dia 21/11 (disparou 12:31)",
+  "video_partes": [],
+  "id": "sug-video-orleans-reverter-impostos",
+  "carrossel_id": "sug-video-orleans-reverter-impostos",
+  "status": "pronto",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-orleans-reverter-impostos",
+  "titulo": "Luiz Philippe de Orléans: “reverter todas as medidas tributárias” dos últimos 4 anos",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Luiz Philippe de Orléans e Bragança (deputado federal, PL-SP)",
+  "fato_em": "2026-11-21T09:30:00-03:00",
+  "vence_em": "2026-11-24T23:59:00-03:00",
+  "criado": "2026-11-21T12:45:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=2RiaiYJdhDo",
+  "trecho_txt": "Jovem Pan News (vídeo publicado em 21/11/2026): entrevista do deputado Luiz Philippe de Orléans e Bragança sobre o ajuste fiscal que a Câmara vota na segunda, de 1:05 a 1:55.",
+  "motivo": "Deputado que lançou candidatura à presidência da Câmara diz que é preciso reverter todo imposto criado nos últimos 4 anos e que esses projetos passaram com compra de parlamentar. Saiu hoje cedo na Jovem Pan (5 mil views) e a Câmara vota o ajuste na segunda.",
+  "promessa": "Todos os projetos de reforma tributária, de ajuste tributário, de criação de novas alíquotas, novos impostos, tudo isso passou no Congresso Nacional sem qualquer resistência",
+  "paga_em": "reverter todas as medidas tributárias que foram tomadas nos últimos 4 anos",
+  "para_quem": "quem paga imposto e ouviu que o ajuste fiscal vai à Câmara na segunda",
+  "diferenciacao": "a legenda põe a fala ao lado do que a Câmara vota na segunda e pergunta o que daria para reverter de verdade, sem tomar o lado dele",
+  "opiniao_sugerida": "A pergunta do fecho da legenda (reverter tudo inclui a reforma tributária que já está em teste?) é leitura nossa, não fala dele.",
+  "trecho": {
+    "inicio": "Todos os projetos de reforma tributária",
+    "fim": "temos que rever tudo isso",
+    "aspa_manchete": "reverter todas as medidas tributárias",
+    "gancho": "reverter todas as medidas tributárias que foram tomadas nos últimos quatro anos",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Todos os projetos",
+        "texto": "Luiz Philippe de Orléans, deputado federal (PL-SP), 21/11"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "girar": "nao",
+    "janela": [0, 62]
+  },
+  "legenda": "“Reverter todas as medidas tributárias que foram tomadas nos últimos 4 anos.”\n\nQuem disse foi o deputado Luiz Philippe de Orléans e Bragança (PL-SP), que lançou candidatura à presidência da Câmara.\n\nSegundo ele, todo projeto que criou imposto ou alíquota nova passou no Congresso sem resistência, e passou porque, nas palavras dele, existe uma compra de parlamentares com emenda e cargo. Ele também quer frear a implantação da reforma tributária.\n\nA Câmara vota o ajuste fiscal do governo na segunda (23/11), com o mesmo texto que saiu do Senado.\n\nReverter tudo inclui a reforma tributária, que ele mesmo diz estar em implantação. Dá para desfazer isso ou é promessa de campanha para a presidência da Câmara?\n\nVídeo: Jovem Pan News (21/11/2026).\n\n#impostos #ajustefiscal #camara #economia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Deputado quer ==“reverter todas as medidas tributárias”== dos últimos 4 anos",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News: Luiz Philippe de Orléans: “Temos que reverter todas as medidas tributárias dos últimos 4 anos” (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=2RiaiYJdhDo"
+    },
+    {
+      "titulo": "O Antagonista: Orleans e Bragança lança candidatura à presidência da Câmara (20/11/2026)",
+      "url": "https://www.youtube.com/watch?v=BFT3m_bFwwk"
+    }
+  ],
+  "atualizado": "2026-11-21T12:45"
+}
