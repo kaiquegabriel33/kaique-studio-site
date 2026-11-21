@@ -1,0 +1,78 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Senador sobre o ajuste: ==“esse remédio amargo”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 21/11 (11h20, disparou 12:35, modo enxuto)",
+  "status": "pronto",
+  "criado": "2026-11-21T12:50:00-03:00",
+  "id": "sug-video-hiran-remedio-amargo",
+  "carrossel_id": "sug-video-hiran-remedio-amargo",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-hiran-remedio-amargo",
+  "titulo": "Senador Dr. Hiran: o governo “manda esse remédio amargo” para quem trabalha pagar a conta",
+  "forca": "media",
+  "prioridade": 1,
+  "politico": "Dr. Hiran (senador, PP-RR)",
+  "fato_em": "2026-11-21T08:00:00-03:00",
+  "vence_em": "2026-11-23T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=pI7ubYjweyE",
+  "trecho_txt": "Jovem Pan News, Jornal da Manhã (21/11/2026), entrevista ao vivo com o senador Dr. Hiran (PP-RR), de 4:10 a 5:05.",
+  "motivo": "Fala de hoje cedo de um senador que votou contra o ajuste fiscal: diz que o governo fez pedalada para ganhar a eleição e agora manda o remédio amargo para quem trabalha e produz. A Câmara vota o ajuste na segunda; vídeo com 2 mil views.",
+  "promessa": "o governo manda esse remédio amargo para a sociedade brasileira",
+  "paga_em": "para que nós paguemos essa conta",
+  "para_quem": "quem trabalha, produz e paga imposto e quer saber quem paga o ajuste fiscal",
+  "diferenciacao": "a legenda separa o que é fala do senador (pedalada, remédio amargo) do que é fato (o texto passou no Senado sem mudança e a Câmara vota na segunda) e fecha com a pergunta de quem paga primeiro",
+  "opiniao_sugerida": "O fecho da legenda (quem paga primeiro, o Estado ou quem trabalha) é leitura nossa, não fala dele.",
+  "trecho": {
+    "inicio": "eu votei contra essa proposta de ajuste",
+    "fim": "à sociedade e a economia brasileira",
+    "aspa_manchete": "remédio amargo",
+    "gancho": "o governo manda esse remédio amargo para a sociedade brasileira",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "eu votei contra",
+        "texto": "Senador Dr. Hiran (PP-RR), sobre o ajuste fiscal, 21/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "“O governo manda esse remédio amargo para a sociedade brasileira (...) para que nós paguemos essa conta.”\n\nQuem disse foi o senador Dr. Hiran (PP-RR), hoje cedo na Jovem Pan. Ele votou contra o ajuste fiscal no Senado.\n\nA leitura dele: o governo gastou para ganhar a eleição, ele chama isso de pedalada fiscal, e agora a conta vem para quem trabalha. O texto passou no Senado sem mudança grande e a Câmara vota na segunda.\n\nAjuste sempre tem alguém pagando. A pergunta é quem paga primeiro: o governo cortando o próprio gasto ou você.\n\nVídeo: Jovem Pan News, Jornal da Manhã (21/11/2026).\n\n#ajustefiscal #senado #economia #impostos",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News: Senador propõe apuração sobre queda de 66,5% no lucro do Banco do Brasil e critica ajuste fiscal (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=pI7ubYjweyE"
+    }
+  ],
+  "arquivo": "sug-video-hiran-remedio-amargo-tela-cheia.mp4"
+}
