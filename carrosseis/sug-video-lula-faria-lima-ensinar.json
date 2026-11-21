@@ -1,0 +1,96 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Quente do dia 21/11 (13h15, disparou 13:20)",
+  "video_partes": [],
+  "id": "sug-video-lula-faria-lima-ensinar",
+  "carrossel_id": "sug-video-lula-faria-lima-ensinar",
+  "status": "pronto",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-faria-lima-ensinar",
+  "titulo": "Lula na live com Janones: “não é o sistema financeiro que vai me ensinar a dirigir o país”",
+  "forca": "alta",
+  "prioridade": 2,
+  "politico": "Luiz Inácio Lula da Silva (presidente da República)",
+  "fato_em": "2026-11-21T12:00:00-03:00",
+  "vence_em": "2026-11-23T23:59:00-03:00",
+  "criado": "2026-11-21T13:40:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=5KN_kL1tDpg",
+  "trecho_txt": "UOL (vídeo publicado em 21/11/2026): Lula na live com André Janones defendendo o ajuste fiscal, de 5:02 a 5:48.",
+  "motivo": "Lula defendeu o ajuste fiscal na live com Janones e mandou recado à Faria Lima: o mercado não vai ensinar o governo a dirigir o país. Radar das 13h07: 18 veículos (Metrópoles, CNN, UOL, Terra); a Câmara vota o ajuste na segunda.",
+  "promessa": "Eu fui o presidente que mais fez superávit primário nesse país",
+  "paga_em": "Não é o sistema financeiro que vai me ensinar a dirigir o país",
+  "para_quem": "quem ouviu que o ajuste fiscal vai à Câmara na segunda e quer saber quem paga",
+  "diferenciacao": "a legenda põe a fala ao lado do que o próprio ajuste faz (corte de 15 bi em renúncia fiscal de empresa e limite de 18 bi em compensação de crédito, números que ele leu na live) e pergunta se o mercado desconfia do ajuste ou do resto do gasto",
+  "opiniao_sugerida": "A pergunta do fecho da legenda é leitura nossa, não fala dele.",
+  "trecho": {
+    "inicio": "Eu não sou o presidente pela primeira vez",
+    "fim": "Quem vai me ensinar a dirigir o país é o povo",
+    "aspa_manchete": "sistema financeiro que vai me ensinar a dirigir o país",
+    "gancho": "Não é o sistema financeiro que vai me ensinar a dirigir o país",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Eu não sou o presidente",
+        "texto": "Lula, presidente, na live com Janones, 21/11"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "girar": "nao",
+    "janela": [
+      0,
+      58
+    ]
+  },
+  "legenda": "“Não é o sistema financeiro que vai me ensinar a dirigir o país.”\n\nFoi o recado do Lula à Faria Lima hoje, na live com André Janones. Ele chamou quem critica o ajuste de “bando de yuppie” e disse que o mercado não está preocupado com os pobres, está preocupado em ganhar mais dinheiro.\n\nNa mesma live, ele leu o que o ajuste faz: corta R$ 15 bilhões em renúncia fiscal de empresa e limita o uso de crédito tributário para pagar outros impostos, o que dá mais R$ 18 bilhões. Segundo ele, educação, saúde e salário mínimo ficam de fora.\n\nA Câmara vota o ajuste na segunda (23/11).\n\nO mercado desconfia desse ajuste ou do resto do gasto que ficou de fora dele?\n\nVídeo: UOL, live de Lula com André Janones (21/11/2026).\n\n#lula #ajustefiscal #farialima #economia",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Lula sobre o ajuste: ==“não é o sistema financeiro que vai me ensinar”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "UOL: Lula defende ajuste fiscal, diz estar 'triste' com esquerda e nega que vai tirar dinheiro dos pobres (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=5KN_kL1tDpg"
+    },
+    {
+      "titulo": "Revista Oeste: 'Não é o sistema financeiro que vai me ensinar a dirigir o país', diz Lula (21/11/2026)",
+      "url": "https://revistaoeste.com/politica/nao-e-o-sistema-financeiro-que-vai-me-ensinar-a-dirigir-o-pais-diz-lula/"
+    }
+  ],
+  "publicado_em": "2026-11-21T14:05:00-03:00",
+  "arquivo": "sug-video-lula-faria-lima-ensinar-tela-cheia.mp4",
+  "video_final_id": "dd0d7c228ed74b7a9ec9aafcfa7c7917",
+  "capa_id": "f2e823cecfd8939fb6164da54c0306d5",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "nota_corte": "UOL, 5:02–5:48 da live de Lula com Janones (21/11), gancho no começo (\"não é o sistema financeiro que vai me ensinar a dirigir o país\"), fim em \"quem vai me ensinar a dirigir o país é o povo\" (ponto final na legenda do YouTube); 1,1x, ~47 s. Fonte só em 720p. Whisper corrigido: \"mando de IUP\" → \"bando de yuppie\" (imprensa cita \"bando de yuppies\"), \"com a justiça, fiscal\" → \"com o ajuste fiscal\". conferir_video: pausas naturais da fala dele, faixa escura = topo do modelo, trilha 20 dB abaixo (padrão da tela cheia); auditar só pedia legenda (feita). Central guarda cópia de 3 Mb/s (18 MB); o Metricool recebe a de 30 MB.",
+  "atualizado": "2026-11-21T13:35"
+}
