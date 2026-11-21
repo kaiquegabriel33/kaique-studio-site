@@ -74,5 +74,27 @@
       "url": "https://www.youtube.com/watch?v=pI7ubYjweyE"
     }
   ],
-  "arquivo": "sug-video-hiran-remedio-amargo-tela-cheia.mp4"
+  "arquivo": "sug-video-hiran-remedio-amargo-tela-cheia.mp4",
+  "agendado_metricool": {
+    "id": 436804004,
+    "uuid": "7741169366308900136",
+    "para": "2026-11-21T14:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-21T13:11:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 436804201,
+    "uuid": "-8060299777939651329",
+    "para": "2026-11-21T16:50:00",
+    "tipo": "tiktok",
+    "em": "2026-11-21T13:11:00-03:00",
+    "isAigc": false
+  },
+  "nota_lote": "AGENDADO 21/11 (rotina Reels de teste 11h20, disparou 12:35, modo enxuto): IG 21/11 14:20 (Reel de teste), TikTok 16:50; corte puro 1,1x, 55 s; auditar_cortes 0. Fonte em 720p (a Jovem Pan não tem mais). Não poste à mão.",
+  "nota_corte": "Jovem Pan, Jornal da Manhã, de 4:12 a 5:05 (começa em “porque eu votei contra”, fim no ponto final “economia brasileira”); gancho “o governo manda esse remédio amargo para a sociedade brasileira”; 1,1x, 55 s; conferir_video: pausa de 0,4 s, estalo aos 8 s e faixa escura no CTA, nada a corrigir.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-21T13:11:00-03:00",
+  "video_final_id": "37947c12e31d24a72073a7f91a196fc9",
+  "publicado_em": "2026-11-21T13:08:00-03:00"
 }

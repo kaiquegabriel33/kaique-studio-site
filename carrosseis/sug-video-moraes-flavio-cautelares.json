@@ -74,5 +74,34 @@
     }
   ],
   "noticia_grande": true,
-  "arquivo": "sug-video-moraes-flavio-cautelares-tela-cheia.mp4"
+  "arquivo": "sug-video-moraes-flavio-cautelares-tela-cheia.mp4",
+  "agendado_metricool": {
+    "id": 436803945,
+    "uuid": "8571133004704663908",
+    "para": "2026-11-21T14:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-21T13:11:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 436804170,
+    "uuid": "-5754406530387851594",
+    "para": "2026-11-21T15:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-21T13:11:00-03:00",
+    "isAigc": false
+  },
+  "agendado_youtube": {
+    "id": 436804232,
+    "uuid": "4348175150461896256",
+    "para": "2026-11-21T15:00:00",
+    "tipo": "short",
+    "em": "2026-11-21T13:11:00-03:00"
+  },
+  "nota_lote": "AGENDADO 21/11 (rotina Reels de teste 11h20, disparou 12:35, modo enxuto): IG 21/11 14:00 (Reel de teste), Short 15:00, TikTok 15:30; corte puro 1,1x, 52 s; auditar_cortes 0; conferir_video: FALANTE 0–5 s é a narração da repórter sobre foto (off), faixa escura no CTA. Não poste à mão.",
+  "nota_corte": "CNN Prime Time, de 0:52 a 1:48 (começa em “Flávio Bolsonaro fugiu do Brasil”, fim no ponto final “documentos de viagem”); 1,1x, 52 s; aspa da manchete abre o corte (sem gancho separado); noticia_grande: CTA atual.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-21T13:11:00-03:00",
+  "video_final_id": "ef01df848ca6a4603090fb552acb9723",
+  "publicado_em": "2026-11-21T13:08:00-03:00"
 }
