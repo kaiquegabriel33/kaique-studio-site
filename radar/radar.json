@@ -1,61 +1,6 @@
 {
- "atualizado": "2026-11-22T16:43-03:00",
- "em_alta": [
-  {
-   "termo": "criptomoeda",
-   "trafego": "100+",
-   "temas": [
-    "mercado",
-    "economia"
-   ],
-   "video": false,
-   "noticias": [
-    {
-     "titulo": "Bitcoin hoje: acompanhe ao vivo a cotação",
-     "url": "https://gauchazh.clicrbs.com.br/viral/noticia/2026/11/bitcoin-hoje-acompanhe-ao-vivo-a-cotacao-cmwr92fec024v017a7y5q5zzl.html",
-     "veiculo": "GZH"
-    },
-    {
-     "titulo": "Bitcoin hoje: cotação em reais e dólares e como funciona",
-     "url": "https://istoedinheiro.com.br/bitcoin-hoje-queda-cotacao-entenda",
-     "veiculo": "ISTOÉ DINHEIRO"
-    },
-    {
-     "titulo": "Cotação bitcoin: de onde vem o preço em tempo real",
-     "url": "https://sempreupdate.com.br/de-onde-vem-a-cotacao-do-bitcoin-que-muda-a-cada-segundo/",
-     "veiculo": "SempreUpdate"
-    }
-   ],
-   "publicado": "2026-11-22T11:20:00-08:00"
-  },
-  {
-   "termo": "porto murtinho",
-   "trafego": "100+",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "noticias": [
-    {
-     "titulo": "VÍDEO: Chuvas deixam 40% de cidade alagada, diz prefeito; equipes usam barcos para ajudar famílias em MS",
-     "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/21/sequencia-de-chuvas-historicas-deixa-40percent-de-cidade-alagada-em-ms-diz-prefeito.ghtml",
-     "veiculo": "G1"
-    },
-    {
-     "titulo": "Porto Murtinho deve decretar emergência após chuva de 160 mm",
-     "url": "https://www.campograndenews.com.br/meio-ambiente/nova-chuva-de-160-mm-leva-porto-murtinho-a-decretar-emergencia",
-     "veiculo": "Campo Grande News"
-    },
-    {
-     "titulo": "Camila Jara e Zeca articulam recursos com o Governo Federal para Porto Murtinho",
-     "url": "https://midiamax.com.br/politica/2026/camila-jara-zeca-articulam-recursos-governo-federal-porto-murtinho/",
-     "veiculo": "Midiamax"
-    }
-   ],
-   "publicado": "2026-11-22T11:20:00-08:00"
-  }
- ],
+ "atualizado": "2026-11-22T17:06-03:00",
+ "em_alta": [],
  "pautas": [
   {
    "id": "08e762e45c",
@@ -70,7 +15,7 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Bolsonaro+apresenta+quadro+clinicamente+est%C3%A1vel%2C+diz+m%C3%A9dico",
-   "veiculos": 7,
+   "veiculos": 6,
    "rotina": false,
    "outras": [
     {
@@ -94,35 +39,23 @@
      "url": "https://exame.com/brasil/bolsonaro-segue-na-uti-com-obstrucao-intestinal-e-sem-previsao-de-alta/"
     }
    ],
-   "score": 55.5,
+   "score": 52.3,
    "video_url": "https://www.youtube.com/watch?v=FjivCxRWjvM",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 41896,
-   "video_acima_mediana": 16.0,
+   "video_por_hora": 38786,
+   "video_acima_mediana": 13.0,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "BOLSONARO SEGUE INTERNADO EM UTI PELO TERCEIRO DIA - CNN AGORA MANHÃ",
      "url": "https://www.youtube.com/watch?v=FjivCxRWjvM",
-     "por_hora": 41896
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Bolsonaro segue internado pelo terceiro dia em UTI e sem previsão de alta | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=pDHCSy3S2Wo",
-     "por_hora": 14714
+     "por_hora": 38786
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Jair Bolsonaro segue internado na UTI sem previsão de alta",
      "url": "https://www.youtube.com/watch?v=NzYUa4-lxSo",
-     "por_hora": 5040
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Bolsonaro é transferido para UTI com quadro de obstrução intestinal",
-     "url": "https://www.youtube.com/watch?v=ezokJcCfs78",
-     "por_hora": 3543
+     "por_hora": 4277
     }
    ]
   },
@@ -131,7 +64,7 @@
    "titulo": "Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti",
    "url": "https://valor.globo.com/politica/noticia/2026/11/21/lula-rebate-crticas-ao-ajuste-fiscal-diz-que-no-far-cortes-em-educao-e-sade-e-elogia-moretti.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-22T19:12:36+00:00",
+   "publicado": "2026-11-22T19:51:45+00:00",
    "temas": [
     "comportamento",
     "economia",
@@ -141,9 +74,14 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Lula+rebate+cr%C3%ADticas+ajuste+fiscal%2C+diz+que+n%C3%A3o+far%C3%A1",
-   "veiculos": 36,
+   "veiculos": 30,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Governo e mercado divergem sobre ajuste fiscal, especialista comenta",
+     "url": "https://www.youtube.com/watch?v=cYadrtbI9ZM"
+    },
     {
      "veiculo": "Jovem Pan News",
      "titulo": "Lula rebate cobranças do mercado sobre ajuste fiscal",
@@ -155,42 +93,82 @@
      "url": "https://www.youtube.com/watch?v=l6lpgJiCqZQ"
     },
     {
-     "veiculo": "Blog do Waldiney Passos",
-     "titulo": "Lula defende ministro Bruno Moretti, nega cortes sociais em ajuste fiscal e critica mercado financeiro",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUFrMEkwZnZ4WDFhNmNJZG1RUVN6THZMSmRVcGdXSnNVUE0yaGVyelI0aHFUMFN6ajZCWFd5UmZaNHIxVkN0c0pLUHNBcS1nSFdxYVVkNHg1SFpHSjdxRkVGMmxzOW9HSFJPYVNnblBzOUVXSnFvRDFtM2J5NUtXM0NCN0Q3Q2FQYlEzcmZ1TTBvTzhxN2x2M1FVYm9NcVFVMTRwZTloWWhEdDc1Tmx5b2lQdXZXZUJjdmRYNTlidXBIdkFldGhCZkw4ZW4?oc=5"
-    },
-    {
-     "veiculo": "News Rondônia",
-     "titulo": "Lula defende ajuste fiscal e critica pressão do mercado financeiro",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGJkU1pPNWtRUHg0d3E2ajUwaWJQQkxFR3ZLbEtuMzk2MnVGSU1MQnBXMkVfUzI1dy1vQm4xUmxiRU14TGd5LVVKSlhqNkJTQUI2aGFNSXNDXzdJeTZDcFV1RlBDWnNIakx3d3YxRG1UVjR0Q3ZWYXBiU1JTSkdod2diVGluY1h2b3V1V1E3TEJfcDl4SnF0eU83cGwyTXA5UFVIZlFMOW9sREtadWFWT1VnMTZWdw?oc=5"
+     "veiculo": "Pernambuco Notícias",
+     "titulo": "Lula defende ajuste fiscal e rebate críticas do mercado financeiro em live",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmVVSDV4Q2VqRklQVXBPa1Jhc3Fnd3FjeHV4d1UyYmVpNVhIZnY1MXZNdkVTYS15Ul9LejVzSGZ5MWxxYXhoTFQ4X3V3aHJvRkFrQkJPY2Fvb0xfQVpWdjZONzR5NFJaM2JGbFFBd0FreW1ZbkpZSWFHRGhtalFDMEdyNTU0VXN5ZUU4VnJ0SGNSdnJnU3ZXOFdVRG1tZk42QXRNekhPdkhBaW4wSUE?oc=5"
     }
    ],
-   "score": 53.9,
+   "score": 52.0,
    "video_url": "https://www.youtube.com/watch?v=l6lpgJiCqZQ",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 370,
+   "video_por_hora": 303,
    "video_acima_mediana": 0.6,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Ajuste fiscal entra no radar do Mercado",
      "url": "https://www.youtube.com/watch?v=l6lpgJiCqZQ",
-     "por_hora": 370
+     "por_hora": 303
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Lula rebate cobranças do mercado sobre ajuste fiscal",
      "url": "https://www.youtube.com/watch?v=siX7U8-oI28",
-     "por_hora": 337
+     "por_hora": 301
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Governo e mercado divergem sobre ajuste fiscal, especialista comenta",
+     "url": "https://www.youtube.com/watch?v=cYadrtbI9ZM",
+     "por_hora": 200
     }
    ]
+  },
+  {
+   "id": "c5b95835bb",
+   "titulo": "AGENDA DE MERCADOS: Dados de inflação são destaque no Brasil e nos EUA",
+   "url": "https://valor.globo.com/financas/noticia/2026/11/22/agenda-de-mercados-dados-de-inflacao-sao-destaque-no-brasil-e-nos-eua.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-22T20:00:00+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=AGENDA+MERCADOS+Dados+infla%C3%A7%C3%A3o+s%C3%A3o+destaque+Brasil+nos+EUA",
+   "veiculos": 6,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "BPMoney",
+     "titulo": "Agenda da semana: IPCA-15, desemprego no Brasil e inflação dos EUA movimentam mercados",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDNXSzRzZmlGdmFhNGJheTJXNnNWTUVmWEF4NkR2THRSVzJHak1Kb3BVY0J4VGZIdGZhLUhvdUNxZ09tZlN2UFBQaTNTTkhxanpJaG45aTRKdWFySjJRN0Jna0EtY1k0QWRDTnJqVVoxRko2c2hEd05vbldLbVlsUE5rUEV6YWFVZHdmX1hocTZoeEl3a0NpQXM4Vk1qSTlPT0NPdmNjRGRFMF9pcFlQeEl1SUhMTjhz?oc=5"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
+     "url": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/"
+    },
+    {
+     "veiculo": "Money Times",
+     "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1lxQ1Z0TjhVQkltOGc4VnNyVFp2eXdaWnVvOGlBb3FHanNqX2pyOEdHMUZmMjVaODdyUFBOenl2TDBkcWNtdHFUM3pUUkNXRnJDanZlWjJBWVdCQnRMU0tEVGNrM0x5aW1ySDJBaDFkLTMtT1R1S0Jkd0g1bkV4dUhOYkRnbkY2Ynp4dTlLYU54NGFOT2dhVWlIeVpzYmxGbDA4dkF6Sll3RkVG?oc=5"
+    },
+    {
+     "veiculo": "Valor Investe",
+     "titulo": "Dados de inflação no Brasil e nos EUA são destaque da semana",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb1lBUEg4a0ZOdlNLZl8tV3NiVVVEd3ZrVnlHaWx2TnFLUUZMbTlCNERlalNNbEljdk5ucTU0bmQwZ3FnR2sxTElVYW12Q1JiRUg1V1dncHRrUU0wdEMtOERlMmxJSGthN2plWkREMmd4d3VlenlJeXNEWl9BRk1VaS1MNGduaGpOeld4d2NZYXdHVy1xbzRCZjhJMk9PN3dwT2tfSDRXV0I4RnBtVUY3VmhOWThvRmJhRUNkMDhidC1FbTZMOUNzYnFuN3RleXAxWFNGT3F4SW9pU2FvZThXX3c0QWU5MEpXTlHSAeoBQVVfeXFMTW9ZQVBIOGtGTnZTS2ZfLVdzYlVVRHd2a1Z5R2lsdk5xS1FGTG05QjREZWpTTWxJY3ZObnE1NG5kMGdxZ0drMUxJVWFtdkNSYkVINVdXZ3B0a1FNMHRDLThEZTJsSUhrYTdqZVpERDJneHd1ZXp5SXlzRFpfQUZNVWktTDRnbmhqTnpXeHdjWWF3R1ctcW80QmY4STJPTzd3cE9rX0g0V1dCOEZwbVVGN1ZoTlk4b0ZiYUVDZDA4YnQtRW02TDlDc2Jxbjd0ZXlwMVhTRk9xeElvaVNhb2U4V193NEFlOTBKV05R?oc=5"
+    }
+   ],
+   "score": 37.0
   },
   {
    "id": "23bb6e81ed",
    "titulo": "Pastores oram por melhora de Bolsonaro em frente a hospital",
    "url": "https://www.youtube.com/watch?v=tgyag1YwmU4",
    "veiculo": "Poder360",
-   "publicado": "2026-11-22T18:44:46+00:00",
+   "publicado": "2026-11-22T19:47:17+00:00",
    "temas": [
     "politica"
    ],
@@ -201,44 +179,55 @@
    "rotina": false,
    "outras": [
     {
+     "veiculo": "Poder360",
+     "titulo": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
+     "url": "https://www.youtube.com/watch?v=nwnV2lPQq_I"
+    },
+    {
      "veiculo": "Jovem Pan News",
      "titulo": "Apoiadores de Jair Bolsonaro fazem oração em frente ao Hospital DF Star, em Brasília #shorts",
      "url": "https://www.youtube.com/watch?v=0ANq5w9apGE"
     },
     {
+     "veiculo": "UOL",
+     "titulo": "Bolsonaro na UTI: Pastores e Padre Kelmon oram por ex-presidente em frente a hospital; veja vídeo",
+     "url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE"
+    },
+    {
      "veiculo": "Valor",
      "titulo": "Michelle chega a Brasília para visitar Bolsonaro no hospital",
      "url": "https://valor.globo.com/politica/noticia/2026/11/21/michelle-chega-a-braslia-para-visitar-bolsonaro-no-hospital.ghtml"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Michelle chega ao Brasil após internação de Jair Bolsonaro | CNN PRIME TIME",
-     "url": "https://www.youtube.com/watch?v=6rXzP0ZhRnw"
     }
    ],
-   "score": 35.0,
-   "video_url": "https://www.youtube.com/watch?v=6rXzP0ZhRnw",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 16000,
-   "video_acima_mediana": 6.1,
+   "score": 34.0,
+   "video_url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE",
+   "video_canal": "UOL",
+   "video_por_hora": 12932,
+   "video_acima_mediana": 4.7,
    "videos": [
     {
-     "canal": "CNN Brasil",
-     "titulo": "Michelle chega ao Brasil após internação de Jair Bolsonaro | CNN PRIME TIME",
-     "url": "https://www.youtube.com/watch?v=6rXzP0ZhRnw",
-     "por_hora": 16000
+     "canal": "UOL",
+     "titulo": "Bolsonaro na UTI: Pastores e Padre Kelmon oram por ex-presidente em frente a hospital; veja vídeo",
+     "url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE",
+     "por_hora": 12932
     },
     {
      "canal": "Poder360",
      "titulo": "Pastores oram por melhora de Bolsonaro em frente a hospital",
      "url": "https://www.youtube.com/watch?v=tgyag1YwmU4",
-     "por_hora": 2160
+     "por_hora": 2145
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Apoiadores de Jair Bolsonaro fazem oração em frente ao Hospital DF Star, em Brasília #shorts",
      "url": "https://www.youtube.com/watch?v=0ANq5w9apGE",
-     "por_hora": 1768
+     "por_hora": 1748
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
+     "url": "https://www.youtube.com/watch?v=nwnV2lPQq_I",
+     "por_hora": 1650
     }
    ]
   },
@@ -274,58 +263,59 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORndEbWtwTDVLVFpPc2pOWHBRcnVPekJaRHJ0ZGlKOHZPM2VGN0gtdDRQMWc2ODRxSE5QOWVGZ2g0bkxxek9JeE5qUGlqWG1ZeTdoejhiUUdyckl1dm1fbDFzd21LaWt6NjBfRnhpYmQ1bFpIWHRYX2FraUpJR0pvTlhicFZPb2RMeTFPbS1MUEU0LWR6T0lCeFpOcF9LeXdfZVA4SU1kSHdqYXJKRFdHdFJHSzFJZXg3Mk9BVkVBZFZ4ZFFvOXB2U1RQdkVKbXUtbzBqX203OXJzSUHSAeABQVVfeXFMTld5d0ZpQngwbjVyU2FpRm5RR21pWEVvNTlLZUZKMEpKSjRLUHFkR09zMm1QTjU1VzcyRDloTnhxWGhhWE1qTUFqTDk2WjhIajVSdTdGUWNiSWpaNXJWY1hkbmdqUVduVTBDUEVnd2EyZDhqZ1djZnZpN282ZFkwZGZiQnlicGU4bkEwZjQ5SVBlalZveEo0eGl3MWwweVc4V1NGT1ZVeF9uR2dSQnBqa3pBUEpRZGJmSFdUV2ZnTlNNNUlGMG5kTUlrMW5malRCdElhTm83SDJSSzJYYWEyMVI?oc=5"
     }
    ],
-   "score": 34.0,
+   "score": 33.9,
    "video_url": "https://www.youtube.com/watch?v=bbxryifk0iQ",
    "video_canal": "UOL",
-   "video_por_hora": 709,
+   "video_por_hora": 697,
    "video_acima_mediana": 0.3,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Haddad defende taxar bilionários e alerta contra oligarquia global em Paris",
      "url": "https://www.youtube.com/watch?v=bbxryifk0iQ",
-     "por_hora": 709
+     "por_hora": 697
     }
    ]
   },
   {
-   "id": "c5b95835bb",
-   "titulo": "AGENDA DE MERCADOS: Dados de inflação são destaque no Brasil e nos EUA",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/22/agenda-de-mercados-dados-de-inflacao-sao-destaque-no-brasil-e-nos-eua.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-22T14:50:00+00:00",
+   "id": "daa61de87c",
+   "titulo": "Lula ataca 'yuppies da Faria Lima' e diz que mercado financeiro não vai ensiná-lo a governar",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-ataca-yuppies-da-faria-lima-e-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-22T13:36:40+00:00",
    "temas": [
     "economia",
-    "mercado"
+    "mercado",
+    "politica"
    ],
    "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=AGENDA+MERCADOS+Dados+infla%C3%A7%C3%A3o+s%C3%A3o+destaque+Brasil+nos+EUA",
-   "veiculos": 5,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Lula+ataca+yuppies+Faria+Lima+diz+que+mercado+financeiro",
+   "veiculos": 6,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Money Times",
-     "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
-     "url": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/"
+     "veiculo": "Tribuna de Jundiaí",
+     "titulo": "‘O sistema financeiro não vai me ensinar a dirigir o Brasil’, diz Lula",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42b3lvLXlFX0lVVXlqWGZSbzRIdGV4MnZUUTRvWkRUNF83UjV5bTdQSWhwQUl1UTVNZHM0bzR3R2E2SG5IRVdVUk5iT3dQalhtcEpJMlkzU2pPQlBSSHZnUlpoX1haeVpTZmpsWQ?oc=5"
     },
     {
-     "veiculo": "Money Times",
-     "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1lxQ1Z0TjhVQkltOGc4VnNyVFp2eXdaWnVvOGlBb3FHanNqX2pyOEdHMUZmMjVaODdyUFBOenl2TDBkcWNtdHFUM3pUUkNXRnJDanZlWjJBWVdCQnRMU0tEVGNrM0x5aW1ySDJBaDFkLTMtT1R1S0Jkd0g1bkV4dUhOYkRnbkY2Ynp4dTlLYU54NGFOT2dhVWlIeVpzYmxGbDA4dkF6Sll3RkVG?oc=5"
+     "veiculo": "Ric.com.br",
+     "titulo": "\"Mercado financeiro não vai me ensinar a governar\", diz Lula",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVlrYTdpS3h2bFJfZERSSDh2NXJnd09kRl96S3c5WWdnb3gxbFMwVXdtTzhjQTRuRC15TVo5eExueHZqM3l0WFcwV29sZFpCeUtnSkFtY2g4dVI5eEMtaGN1bEZTZm8yNHhNeWZBV1pRWFg0VzRvYm1tOW1BN21MVEowMF9fSUVjVGtkcG10MA?oc=5"
     },
     {
-     "veiculo": "Valor Investe",
-     "titulo": "Dados de inflação no Brasil e nos EUA são destaque da semana",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb1lBUEg4a0ZOdlNLZl8tV3NiVVVEd3ZrVnlHaWx2TnFLUUZMbTlCNERlalNNbEljdk5ucTU0bmQwZ3FnR2sxTElVYW12Q1JiRUg1V1dncHRrUU0wdEMtOERlMmxJSGthN2plWkREMmd4d3VlenlJeXNEWl9BRk1VaS1MNGduaGpOeld4d2NZYXdHVy1xbzRCZjhJMk9PN3dwT2tfSDRXV0I4RnBtVUY3VmhOWThvRmJhRUNkMDhidC1FbTZMOUNzYnFuN3RleXAxWFNGT3F4SW9pU2FvZThXX3c0QWU5MEpXTlHSAeoBQVVfeXFMTW9ZQVBIOGtGTnZTS2ZfLVdzYlVVRHd2a1Z5R2lsdk5xS1FGTG05QjREZWpTTWxJY3ZObnE1NG5kMGdxZ0drMUxJVWFtdkNSYkVINVdXZ3B0a1FNMHRDLThEZTJsSUhrYTdqZVpERDJneHd1ZXp5SXlzRFpfQUZNVWktTDRnbmhqTnpXeHdjWWF3R1ctcW80QmY4STJPTzd3cE9rX0g0V1dCOEZwbVVGN1ZoTlk4b0ZiYUVDZDA4YnQtRW02TDlDc2Jxbjd0ZXlwMVhTRk9xeElvaVNhb2U4V193NEFlOTBKV05R?oc=5"
+     "veiculo": "ICL Notícias",
+     "titulo": "‘O sistema financeiro não vai me ensinar a dirigir o Brasil’, diz presidente Lula",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY29KdFBST29jUm9uZVB4OHVxRGRERmF6azlJQzNYYzZMRldIRWFrenNHVE5QdGVsVFdfM0dTaFRhQ19WV3ZBWGRyX1AwdVlqTFFRU2FiMTVqNFItOWRxbHkzcGVkMllvSkNKWXBMMXFGR1VrZDdTajMxektQcVBZeFdwTXItVXlWLTNlUUtyWVBkU2prbDd2ZjFzcHlpNlBvNVlFTjg0aEo5dw?oc=5"
     },
     {
-     "veiculo": "Valor Econômico",
-     "titulo": "AGENDA DE MERCADOS: Dados de inflação são destaque no Brasil e nos EUA",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM2dKSHNJVHd3RXlkTGlTLVh0VDBPS1VfUWVFd1RGRDNNamhoLWFWVHBhYXhVb21PaVhNQzhwQ1VmUzBRcHVjaTA2REFZcTVxT1BwOHk4WlBMMENGY3Y3SWZ3N0s5OG5jQ0FCM3NKMmhFMHdEdWsyakhvZDZIY2xyT2o3aXJNUnNPRzV2enNZMUpVSE15UDBfYWJhM05UdnR2NzVLc0ZxS3dyS0V4aUphQUFEOVlOWnFoeXhNMWQ2VjVkeHRJOGNVVWpLTlJLTm5TN2czb9IB1AFBVV95cUxPM2dKSHNJVHd3RXlkTGlTLVh0VDBPS1VfUWVFd1RGRDNNamhoLWFWVHBhYXhVb21PaVhNQzhwQ1VmUzBRcHVjaTA2REFZcTVxT1BwOHk4WlBMMENGY3Y3SWZ3N0s5OG5jQ0FCM3NKMmhFMHdEdWsyakhvZDZIY2xyT2o3aXJNUnNPRzV2enNZMUpVSE15UDBfYWJhM05UdnR2NzVLc0ZxS3dyS0V4aUphQUFEOVlOWnFoeXhNMWQ2VjVkeHRJOGNVVWpLTlJLTm5TN2czbw?oc=5"
+     "veiculo": "CartaCapital",
+     "titulo": "‘O sistema financeiro não vai me ensinar a dirigir o Brasil’, diz Lula",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVNMUHRuSTNYSU00S3VEa01JdHY2QjU0TUVhV2JHbDZVVUI4UEZRNzNfcng5cnB6bFgtN2RWQXNTdDZNakpOZ2JCY1hGRmI2RHZxTFk1UGdvUWZsNk5RRWQtYmVJMC1qYklLUU4xNjBsMkJQYk4zSGxwbl9aczRqQWJCXzFGRlEyWWgxcDgzNTR3ODZDeXBxYWxVVjFxNmRaN2lBQmYzbHF1d2poMUE?oc=5"
     }
    ],
-   "score": 32.0
+   "score": 33.3
   },
   {
    "id": "fd694f1a45",
@@ -364,100 +354,7 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGZYWXpVazRWbGNqd2szcTRzUUEtWUVsZlZBM2d2M1NPVFVJTk9HMHNtSzlXaXBLbUdSYkhnM3RXTXNCVFBNVFp3MERObFVLc3dGVlZPS3dpRVJsUWg2aW1ndTZ2SkJwcUEzSE8yd043MVZ1c29DX0QyMTlKQUpscjBMZFJEQXBBbzhtNy04N3NsMDBnNWktTElnb1FFc3ZWcGdrcTJjV0VoOW16Wm9LMlZZRUczaWRJSGfSAb8BQVVfeXFMTjVubk1JX2FxZ2NEWU5COFMwU1FRSExMcmItTlF5RndRZXE4V1pxbzFkNlVQRC0td0QzLUU1QmFxWXNIbHRsaEx5S3lRa1RLUDRwNkE0MTBDWkp4anNQdzNJN1VqSHEyUkhVcjJsejdpY20tVUttazZDdmhqdkhiWm9uSmZRbldZSWh3NVZoaGF2Y1ZsWXloVmd2WWp6NTBCTEVGSmFvRkFUVzNkMzFsS3VadkZjYVV5dkY3MDNpcGc?oc=5"
     }
    ],
-   "score": 30.0
-  },
-  {
-   "id": "aade1d6003",
-   "titulo": "Moraes manda retirar tornozeleira de Bolsonaro internado na UTI | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-22T18:03:34+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Moraes+manda+retirar+tornozeleira+Bolsonaro+internado+UTI+InfoMoney+News",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 28.4,
-   "video_url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 2740,
-   "video_acima_mediana": 12.7,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Moraes manda retirar tornozeleira de Bolsonaro internado na UTI | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
-     "por_hora": 2740
-    }
-   ]
-  },
-  {
-   "id": "12b1eb525f",
-   "titulo": "GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
-   "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-22T18:00:45+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=GOVERNO+ENVIA+PLANO+PARA+RECONSTRUIR+TUPANCIRET%C3%83+CNN+AGORA+TARDE",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Governo reconhece calamidade pública em Tupanciretã (RS) após temporal | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=Lh2D0YJ6nZE"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
-     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula presta solidariedade e garante esforços após temporal em Tupanciretã (RS) | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=3iqm3Cd4WJY"
-    }
-   ],
-   "score": 28.4,
-   "video_url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 12835,
-   "video_acima_mediana": 4.9,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
-     "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
-     "por_hora": 12835
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Governo reconhece calamidade pública em Tupanciretã (RS) após temporal | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=Lh2D0YJ6nZE",
-     "por_hora": 10446
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
-     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc",
-     "por_hora": 9064
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula presta solidariedade e garante esforços após temporal em Tupanciretã (RS) | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=3iqm3Cd4WJY",
-     "por_hora": 2043
-    }
-   ]
+   "score": 29.8
   },
   {
    "id": "0800efdbb8",
@@ -486,17 +383,17 @@
      "url": "https://www.cnnbrasil.com.br/politica/michelle-diz-que-bolsonaro-esta-sem-dor-e-faz-novos-exames-neste-domingo/"
     }
    ],
-   "score": 27.2,
+   "score": 27.1,
    "video_url": "https://www.youtube.com/watch?v=_Ao4Ft8S2bY",
    "video_canal": "GloboNews",
-   "video_por_hora": 2412,
-   "video_acima_mediana": 4.4,
+   "video_por_hora": 2501,
+   "video_acima_mediana": 4.8,
    "videos": [
     {
      "canal": "GloboNews",
      "titulo": "Bolsonaro passou a noite sem dor, diz Michell",
      "url": "https://www.youtube.com/watch?v=_Ao4Ft8S2bY",
-     "por_hora": 2412
+     "por_hora": 2501
     }
    ]
   },
@@ -517,85 +414,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 27.0
-  },
-  {
-   "id": "8a12aea2a3",
-   "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
-   "url": "https://www.youtube.com/watch?v=ShatBTJj8FM",
-   "veiculo": "Band Jornalismo",
-   "publicado": "2026-11-22T17:00:09+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7o+carne+sobe+12%25+ano+faz+consumo+interno+cair",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
-     "url": "https://www.youtube.com/watch?v=lylfeKwYhXk"
-    }
-   ],
-   "score": 26.1,
-   "video_url": "https://www.youtube.com/watch?v=lylfeKwYhXk",
-   "video_canal": "Band Jornalismo",
-   "video_por_hora": 3056,
-   "video_acima_mediana": 8.2,
-   "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
-     "url": "https://www.youtube.com/watch?v=lylfeKwYhXk",
-     "por_hora": 3056
-    },
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
-     "url": "https://www.youtube.com/watch?v=ShatBTJj8FM",
-     "por_hora": 1039
-    }
-   ]
-  },
-  {
-   "id": "d70e4aca7e",
-   "titulo": "Preços do milho seguem em alta no mercado interno",
-   "url": "https://www.youtube.com/watch?v=PCZtanLGu1I",
-   "veiculo": "Record News",
-   "publicado": "2026-11-22T14:12:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7os+milho+seguem+alta+mercado+interno",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "bra1.com.br",
-     "titulo": "Soja sobe 2% na semana, enquanto milho e boi gordo têm alta modesta no mercado brasileiro",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTk3THVqOG9pX0E3ejNSV3Z4RVBLN3pXSnc3eUNvX25BSFgxZEZ0UXZ5TEVERkhIaVJkbmxRcFI1QlpLYV8xZkdfaFQ3c3A3Q0x0QkhkckJpMWVTMEFQR1hycVkzSk1RU2FMbXpaQmRUNndGV2JoMlRRbTlxTWpmaVlzYi1IRktVUU5kSTZmWkh4U0d5bjI1OXJnQXZYQ1h1VkZXbTFkQXVKc2lCa2ZqSDU1RDkzWFUzSG1HbkNlczY1bWJzS2RnTjFPcC1fTGUw?oc=5"
-    }
-   ],
-   "score": 26.0,
-   "video_url": "https://www.youtube.com/watch?v=PCZtanLGu1I",
-   "video_canal": "Record News",
-   "video_por_hora": 645,
-   "video_acima_mediana": 2.2,
-   "videos": [
-    {
-     "canal": "Record News",
-     "titulo": "Preços do milho seguem em alta no mercado interno",
-     "url": "https://www.youtube.com/watch?v=PCZtanLGu1I",
-     "por_hora": 645
-    }
-   ]
+   "score": 26.8
   },
   {
    "id": "20b044de2d",
@@ -614,14 +433,44 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 26.0
+   "score": 25.8
+  },
+  {
+   "id": "8a12aea2a3",
+   "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
+   "url": "https://www.youtube.com/watch?v=ShatBTJj8FM",
+   "veiculo": "Band Jornalismo",
+   "publicado": "2026-11-22T17:00:09+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7o+carne+sobe+12%25+ano+faz+consumo+interno+cair",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 25.5,
+   "video_url": "https://www.youtube.com/watch?v=ShatBTJj8FM",
+   "video_canal": "Band Jornalismo",
+   "video_por_hora": 1984,
+   "video_acima_mediana": 5.7,
+   "videos": [
+    {
+     "canal": "Band Jornalismo",
+     "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
+     "url": "https://www.youtube.com/watch?v=ShatBTJj8FM",
+     "por_hora": 1984
+    }
+   ]
   },
   {
    "id": "bfa13fb3f5",
    "titulo": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
    "url": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
    "veiculo": "g1",
-   "publicado": "2026-11-22T19:42:22.077504+00:00",
+   "publicado": "2026-11-22T19:41:48+00:00",
    "temas": [
     "economia",
     "politica"
@@ -643,42 +492,85 @@
      "url": "https://valor.globo.com/politica/noticia/2026/11/22/agenda-de-politica-camara-deve-votar-ajuste-fiscal-e-lula-discute-nome-para-stf.ghtml"
     }
    ],
-   "score": 25.0,
+   "score": 24.9,
    "video_url": "https://www.youtube.com/watch?v=iZiwadaJ2yA",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 0,
-   "video_acima_mediana": 0.0,
+   "video_por_hora": 192,
+   "video_acima_mediana": 0.3,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Câmara deve votar ajuste fiscal na próxima segunda-feira (23)",
      "url": "https://www.youtube.com/watch?v=iZiwadaJ2yA",
-     "por_hora": 0
+     "por_hora": 192
     }
    ]
   },
   {
-   "id": "7119e58fb9",
-   "titulo": "Novo plano da Petrobras ronda os US$ 115 bilhões, com dividendos no radar",
-   "url": "https://valor.globo.com/empresas/noticia/2026/11/22/novo-plano-da-petrobras-ronda-os-us-115-bilhoes-com-dividendos-no-radar.ghtml",
-   "veiculo": "Valor",
-   "publicado": "2026-11-22T18:41:00+00:00",
+   "id": "4f3db7fc31",
+   "titulo": "Juros do cartão a 10%: a proposta de Trump que une rivais e assusta bancos",
+   "url": "https://www.infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos/",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-22T19:42:44+00:00",
    "temas": [
-    "mercado"
+    "economia",
+    "mercado",
+    "politica"
    ],
    "video": false,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Novo+plano+Petrobras+ronda+US%24+115+bilh%C3%B5es%2C+com+dividendos",
+   "busca_video": "https://www.youtube.com/results?search_query=Juros+cart%C3%A3o+10%25+proposta+Trump+que+une+rivais+assusta",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "SpaceMoney",
+     "titulo": "Trump retoma teto de 10% para juros do cartão de crédito",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Na1lmamRtOG1wOVpUaDRlLTJrWGliQVRCbktEMVVCZTNIcGZzUmd4c1Q5d0x1aFExVTNjWFZXWkJVeHF2SnZZOVh2OHY0Z2w1V2hwR3U3X3FIMnlXYl8yZ2JJamkwRmtnZzlySlhfODBidEdLOHNGb0V3?oc=5"
+    },
+    {
+     "veiculo": "Valor",
+     "titulo": "Trump diz que trabalhará com Democratas para limitar juros do cartão de crédito",
+     "url": "https://valor.globo.com/mundo/noticia/2026/11/21/trump-diz-que-trabalhara-com-democratas-para-limitar-juros-do-cartao-de-credito.ghtml"
+    }
+   ],
+   "score": 24.8
+  },
+  {
+   "id": "dd4ac3df6c",
+   "titulo": "Governo federal reconhece calamidade em cidade do RS após temporal que deixou 5 mortos",
+   "url": "https://valor.globo.com/brasil/noticia/2026/11/22/governo-federal-reconhece-calamidade-em-cidade-do-rs-aps-temporal-que-deixou-5-mortos.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-22T16:54:08+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+federal+reconhece+calamidade+cidade+ap%C3%B3s+temporal+que+deixou",
    "veiculos": 2,
    "rotina": false,
    "outras": [
     {
-     "veiculo": "Times Brasil | CNBC",
-     "titulo": "Petrobras pode elevar investimentos a US$ 115 bilhões; dividendos entram no radar",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzJzNUg0QlJxLTA0WERFRUI1VHY4SUVxS2plZEdXalV5SVBKN2pjeENIVkUtMk53WXZTTFFXMHBzU01qTnh6empZRW81dHlXOHZrYnVzcEpSdDN2bTJ5eWxMTkhieDZYZEN5NHFoMlNZUWFTQ2dRa3A4cmRuSUI0TXVWdTN0dUxZX0c3S0swNFQ3UEphM1NkTXN3RE1GQmM0cGc?oc=5"
+     "veiculo": "UOL",
+     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
+     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc"
     }
    ],
-   "score": 24.6
+   "score": 24.7,
+   "video_url": "https://www.youtube.com/watch?v=H8kzn67-dyc",
+   "video_canal": "UOL",
+   "video_por_hora": 10085,
+   "video_acima_mediana": 3.6,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
+     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc",
+     "por_hora": 10085
+    }
+   ]
   },
   {
    "id": "9afb94fcf4",
@@ -696,17 +588,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.1,
+   "score": 23.0,
    "video_url": "https://www.youtube.com/watch?v=pheUXkdgOZg",
    "video_canal": "PL",
-   "video_por_hora": 167,
-   "video_acima_mediana": 6.0,
+   "video_por_hora": 183,
+   "video_acima_mediana": 6.8,
    "videos": [
     {
      "canal": "PL",
      "titulo": "Todas as escolhas de Lula custam caro... para o povo!",
      "url": "https://www.youtube.com/watch?v=pheUXkdgOZg",
-     "por_hora": 167
+     "por_hora": 183
     }
    ]
   },
@@ -732,7 +624,7 @@
      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ3hDVnhwM2VGZDBuWGpqaDFSU3ZhVEhIRG5OVGtXb2dBMm1UV3NxLXBWSlRuTzBOZVF1eHVNREZBMWR3TmVRQlBLUl9fYmFsaVByYzNuT3lHdy1lLUlocHdWTXR4SDc2cXlZS1NPbEdOamhLM2h3ZEdBLWF2THBreGI4RWx0X2dOMGpESGxxRzZuUEg1VjRpRHpzeldNUG4tRFJHXzhqdlA1LXY4eXc0UnB0cjZhdlpVa2pDVXVRSml1QUJGVGVha1ZjdHJ0b3RyQXNQRElXam85QjRGRzNlM3R2NjE4S0VBeld4U1ozT081T2pJdEE?oc=5"
     }
    ],
-   "score": 22.9
+   "score": 22.8
   },
   {
    "id": "43a4e35774",
@@ -751,17 +643,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.8,
+   "score": 22.7,
    "video_url": "https://www.youtube.com/watch?v=XqZZOSWr8EA",
    "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 92,
-   "video_acima_mediana": 6.9,
+   "video_por_hora": 94,
+   "video_acima_mediana": 7.1,
    "videos": [
     {
      "canal": "Câmara dos Deputados",
      "titulo": "Perspectivas de votações na próxima semana no Plenário da Câmara - 22/11/26",
      "url": "https://www.youtube.com/watch?v=XqZZOSWr8EA",
-     "por_hora": 92
+     "por_hora": 94
     }
    ]
   },
@@ -792,7 +684,95 @@
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZV9teXZOdWZQVXFfaFdjZzdTbXV5YWtEUk1rNjZ3RUp5Z2h1bGo1MkRIMDJTdXlzMU5qYXA5LUYxckNOLXIxSGx6c0wySE5hMWYtd1dqdDlmdkJueVZyRmdkRHZuQWk0YWdZVzBnV2pSa1J6QmlaUTV6NEVPVW02Z0ZXZDQ5Tno0TjJqVHhNVHJSS1RFTEpGd0l3N3VINWZKNDBZd29aVHA2ZVBqWlBsYmRqQ29LU3ZTTGV0QVpaSEpjOGtvX1hHcmNNWl9mSVdhWTI3cHRlTzd0UdIB2gFBVV95cUxNZV9teXZOdWZQVXFfaFdjZzdTbXV5YWtEUk1rNjZ3RUp5Z2h1bGo1MkRIMDJTdXlzMU5qYXA5LUYxckNOLXIxSGx6c0wySE5hMWYtd1dqdDlmdkJueVZyRmdkRHZuQWk0YWdZVzBnV2pSa1J6QmlaUTV6NEVPVW02Z0ZXZDQ5Tno0TjJqVHhNVHJSS1RFTEpGd0l3N3VINWZKNDBZd29aVHA2ZVBqWlBsYmRqQ29LU3ZTTGV0QVpaSEpjOGtvX1hHcmNNWl9mSVdhWTI3cHRlTzd0UQ?oc=5"
     }
    ],
-   "score": 22.3
+   "score": 22.1
+  },
+  {
+   "id": "33f27694ad",
+   "titulo": "Limite a crédito tributário em ajuste fiscal preocupa empresas",
+   "url": "https://www.youtube.com/watch?v=_847c_-ELSQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-22T20:03:18+00:00",
+   "temas": [
+    "economia"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Limite+cr%C3%A9dito+tribut%C3%A1rio+ajuste+fiscal+preocupa+empresas",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.0,
+   "video_url": "https://www.youtube.com/watch?v=_847c_-ELSQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 6,
+   "video_acima_mediana": 0.0,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Limite a crédito tributário em ajuste fiscal preocupa empresas",
+     "url": "https://www.youtube.com/watch?v=_847c_-ELSQ",
+     "por_hora": 6
+    }
+   ]
+  },
+  {
+   "id": "2e8ff22075",
+   "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
+   "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-22T13:06:42.467461+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Copom+alerta+para+impacto+Ni%C3%B1o+infla%C3%A7%C3%A3o+conta+luz",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.9,
+   "video_url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 4571,
+   "video_acima_mediana": 8.3,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
+     "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+     "por_hora": 4571
+    }
+   ]
+  },
+  {
+   "id": "12b1eb525f",
+   "titulo": "GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
+   "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
+   "veiculo": "CNN Brasil",
+   "publicado": "2026-11-22T18:00:45+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=GOVERNO+ENVIA+PLANO+PARA+RECONSTRUIR+TUPANCIRET%C3%83+CNN+AGORA+TARDE",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.8,
+   "video_url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
+   "video_canal": "CNN Brasil",
+   "video_por_hora": 16639,
+   "video_acima_mediana": 5.6,
+   "videos": [
+    {
+     "canal": "CNN Brasil",
+     "titulo": "GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
+     "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
+     "por_hora": 16639
+    }
+   ]
   },
   {
    "id": "d66bb7bc8a",
@@ -816,7 +796,7 @@
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU09UMzE4TGY3OTRvSWlveEI4NDA3STlpOHhJejZzTllnTjN3eDRIbVY0Q0licDNCV0VsdmhSMDgzWlRyNDQ2bVJfaHdCaDdBZkNUV096MHYtYWw5SlhZalVtZW1fVDBiZlN3M0RZaWp5Q0JuOXJLbzM0TEFxYlRjWjdXVWxfMzRhM0VkdjlSZmdLMVRtRnpMbHhiRGdjckh2VnEwS1RwM2dKcV93dnNDRTFENE5xVFN4YzBHS0NBOE12VkVNa29PSnNSb1NqV0EwNThsQXh1WUJfNjFVbWJ4SURYaThKZFBN?oc=5"
     }
    ],
-   "score": 22.0
+   "score": 21.8
   },
   {
    "id": "7b6bae2074",
@@ -840,55 +820,7 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRjFNZUZOYTZtWWJ1SmZGLU5LNDZxUko3VTQ5a0pGSXVoUWQxVE9sa3JmWnpPY1ZLZWdfYWFzVVhBazY3RE1GOEJLMVBXQVhUUkg3aWVkRnRBOVdkNDJmQ3BNeG50WnhDRTlQYjlnT3l0MDlFM2lzMnJnMWJiWnpuNWJiZGdDZ21zUVRjdUhHVzlJRDhhTHgxMFhQM2JrdndyMHJOZnA3aHA3ZDQ0WXNodFdKOE9WYW5TeHM0TVJjdzhTaEpJVHVQbWI4Tm5SY1lpbTlpTVRRREdBZGxjUUHSAd4BQVVfeXFMTUYxTWVGTmE2bVlidUpmRi1OSzQ2cVJKN1U0OWtKRkl1aFFkMVRPbGtyZlp6T2NWS2VnX2Fhc1VYQWs2N0RNRjhCSzFQV0FYVFJIN2llZEZ0QTlXZDQyZkNwTXhudFp4Q0U5UGI5Z095dDA5RTNpczJyZzFiYlp6bjViYmRnQ2dtc1FUY3VIR1c5SUQ4YUx4MTBYUDNia3Z3cjByTmZwN2hwN2Q0NFlzaHRXSjhPVmFuU3hzNE1SY3c4U2hKSVR1UG1iOE5uUmNZaW05aU1UUURHQWRsY1FB?oc=5"
     }
    ],
-   "score": 21.9
-  },
-  {
-   "id": "2e8ff22075",
-   "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
-   "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-22T12:43:22.077504+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Copom+alerta+para+impacto+Ni%C3%B1o+infla%C3%A7%C3%A3o+conta+luz",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.9,
-   "video_url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 4429,
-   "video_acima_mediana": 7.3,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
-     "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
-     "por_hora": 4429
-    }
-   ]
-  },
-  {
-   "id": "3c50487c33",
-   "titulo": "Fed simula impacto da inteligência artificial na economia, incluindo desemprego e crise nas bolsas",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZi1zUVBaekFLTm1yOHdzY0owWmZrbDFEZWdjek40RFNwVFVnWllFNGtva0ZOdVE0VDhDYkdJWFFYd3lWRG8wN2hJNXBOWW9abHN1czNRUlg0UmxyRXlxT3JRWE1QZURlT09yQVR0VFFiN2I5cDJxd29QNVpYcnROQmhSQTJtaDM0NE9nbGlKNmN3SVlvaHV5UjJQMG5nY0lwcmxQY1V2U1FWVTA0MkNEdG9odjBlejVKTmRCY0dFdmhCSk9BQ2ViUDBVcXRpZ9IB0wFBVV95cUxNODlCaHZKUW10V0hYY25od2xITnd0RlFURVhqNjFRX2dyQ1RhV3BIV2VZSlBhSnlwUTl2RXRTbHlJQnJnNkRPY09valpJcGM1NHJlR0FfNHI2OWFrWHVCUXRaMzRMOW5JX1c2YTV0MHY2NlpDWXNPTzBqOHZZLXBTSXl4RXJVWDRlU0xfUVRiNWlxT0hIT01YTU9OVWlEQ2NEV29JUmdZUHdWRURxUk1NcjBQVFJ4Y2VpaW9abXkzM3Q3SXpyT3VnbFdKb2NjX19ZNFo0?oc=5",
-   "veiculo": "Portal do Bitcoin",
-   "publicado": "2026-11-22T12:01:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Fed+simula+impacto+intelig%C3%AAncia+artificial+economia%2C+incluindo+desemprego+crise",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.8
+   "score": 21.7
   },
   {
    "id": "4c845b7caf",
@@ -916,32 +848,7 @@
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTdjS2t1ODlUR0kxdkFtVmZtTE1nTVBiTjhQUnU3Ti0zRjVZVWdodV9FdW5sQjlKVHd3QlJZWmZhMHRXWjk3eXB4YkNiYTZ4c2RXY0JQeHhPb21KeXBKT0dTZUxTTkpITTNzUEk4RmNydXNUeXBCNnJ1WVBZUTNYUUFNNDhOcERpTURMR3J6SmFqZEVGLThVNHNPRW84aVJseUh3aXhUWDUxeF9feVo4bkxUdTlnbG03V1ZQaVZKSzF5aFItaFBF?oc=5"
     }
    ],
-   "score": 21.8
-  },
-  {
-   "id": "0338246626",
-   "titulo": "Quem é Bruno Moretti, o ministro 'mágico' de Lula que tenta agradar à esquerda e ao mercado",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/quem-e-bruno-moretti-o-ministro-magico-de-lula-que-tenta-agradar-a-esquerda-e-ao-mercado.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-22T16:32:00+00:00",
-   "temas": [
-    "economia",
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Quem+Bruno+Moretti%2C+ministro+m%C3%A1gico+Lula+que+tenta+agradar",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Bem Paraná",
-     "titulo": "Quem é o ministro “mágico” de Lula incumbido de agradar à esquerda e ao mercado",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGl3aUZ5RUR5QXAzZFc2UlQtZ3FZRERJMnpzR3pCUjZDek1OM0NnYXRJTUtlaWlqekczeW4wblplblRyTG9xdDB0Mms0Z3FGZUR2Qkx0MEwzM19LWWpYWWMwR2lhUV9xUmtISS1NdVdZSEVvOWpoUFVBSUFTczJNWlBaeWItSEVGRTM5Yk5TdmxpOUR2bWV6dHlFSWcxd3ltbDZQOXA2R2sxOE51QUdQMnpXZ1p6Z3JGakJCd0lROFNlVW_SAcgBQVVfeXFMUER0ZEtPYjl2WWdWUU44U0RZMDVYZnRBLW1ValFLdHdQU0xrV2QxZzA3NVJLLU5GVDVyOV9vaDdZeVVsbnVfT0pUbF9iX3NDMm5MRHRtOVZoTzZydHZ0WTBiQkY0aHlRMGFHd01IQ2RQOExmUXBDaU9HUl9NV3NHdG1FWG82NjZzSFM1S0dsNmtsMlF3RUFGX1BhMTZHWnNTNHhybVhUdGtCdkZFUkMxRVZtM2Nhc1hrRTlSR2ZsNVlfSFZYQlh1ZHk?oc=5"
-    }
-   ],
-   "score": 21.7
+   "score": 21.6
   },
   {
    "id": "497e90ab42",
@@ -959,7 +866,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.6
+   "score": 21.5
   },
   {
    "id": "b9fa27f92b",
@@ -977,7 +884,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.6
+   "score": 21.4
   },
   {
    "id": "8cc330f708",
@@ -994,8 +901,14 @@
    "busca_video": "https://www.youtube.com/results?search_query=D%C3%B3lar%2C+ouro+at%C3%A9+real+entram+jogo+onde+UBS+oportunidades",
    "veiculos": 1,
    "rotina": false,
-   "outras": [],
-   "score": 21.4
+   "outras": [
+    {
+     "veiculo": "Seu Dinheiro",
+     "titulo": "Dólar, ouro e até o real entram no jogo: onde o UBS vê oportunidades para ganhar dinheiro — e se proteger — em 2027",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaDd3dnRBeWVySFFxWTRMRjdMUXlxNVR2RWJ2SF9YczRid1lhZE9XMW13NHhrdkxuWk05UzF1dWNkTTh5MW1MUDN4Mm9rR1BmczZ5SjI5ZzFOMFBzbmJmNzNXN3NIeC1zVDkzSVBJcXk2T1ZDTEJxQV9wWkJxYlJ4TXNrNTZVdWw4ZDZSVjZ1cXZnU2p6VW5fRUhRYlFMeDh6MGN6NVdIRnNIUUdhM1A2b0JDMlpMSWM0Mkx6eGxCbmNaVmZQd2VmQlF4UUlFaDcyTHhQQkI5cFVoaFM4OFljOEIyWDRtY2hYSVhzZ2l4MHpmdw?oc=5"
+    }
+   ],
+   "score": 21.2
   },
   {
    "id": "55450d3efd",
@@ -1013,37 +926,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.4
-  },
-  {
-   "id": "d35ee98ae3",
-   "titulo": "Gesner Oliveira analisa impacto do ajuste fiscal e alta do dólar",
-   "url": "https://www.youtube.com/watch?v=VciWly5iGFA",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-22T11:43:22.077504+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Gesner+Oliveira+analisa+impacto+ajuste+fiscal+alta+d%C3%B3lar",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 21.4,
-   "video_url": "https://www.youtube.com/watch?v=VciWly5iGFA",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 4250,
-   "video_acima_mediana": 7.0,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Gesner Oliveira analisa impacto do ajuste fiscal e alta do dólar",
-     "url": "https://www.youtube.com/watch?v=VciWly5iGFA",
-     "por_hora": 4250
-    }
-   ]
+   "score": 21.2
   },
   {
    "id": "64a378f32d",
@@ -1061,17 +944,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.4,
+   "score": 21.2,
    "video_url": "https://www.youtube.com/watch?v=y-Hd3LDre70",
    "video_canal": "InfoMoney",
-   "video_por_hora": 17,
+   "video_por_hora": 16,
    "video_acima_mediana": 0.1,
    "videos": [
     {
      "canal": "InfoMoney",
      "titulo": "Americanas: \"A gente optou então, abrir mão de uma companhia de R$ 20 bi\", diz presidente| FurlaCast",
      "url": "https://www.youtube.com/watch?v=y-Hd3LDre70",
-     "por_hora": 17
+     "por_hora": 16
     }
    ]
   },
@@ -1101,11 +984,11 @@
      "url": "https://www.youtube.com/watch?v=CEiwGEKRa_s"
     }
    ],
-   "score": 21.3,
+   "score": 21.1,
    "video_url": "https://www.youtube.com/watch?v=CEiwGEKRa_s",
    "video_canal": "UOL",
    "video_por_hora": 4524,
-   "video_acima_mediana": 1.8,
+   "video_acima_mediana": 1.6,
    "videos": [
     {
      "canal": "UOL",
@@ -1137,7 +1020,7 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFJKRkJ5b3R2VEVPNENqM1hWQXlCYjlXZ3VPTXM4THFZZjUyZG1UTFVZRkZoZHFVYks5TVBTNW1wVUM3NkU2cjRPUS1kRmVTS2MwMjhUSDVxOGJ0UnlXSVNvY0p0dmw3TGswbWJFRHFudHBDMGVnbWIyOGEzQl9scmU5V2pYem51cm5EUnhPMDVYSlV3QmdvMzVWQl9uc25tdFR6dUZXWU85ekVfdTRWVFNDRzhaSlE?oc=5"
     }
    ],
-   "score": 21.2
+   "score": 21.0
   },
   {
    "id": "3ad34d53fc",
@@ -1154,7 +1037,7 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 21.0
+   "score": 20.8
   },
   {
    "id": "9155a0bf81",
@@ -1178,61 +1061,7 @@
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlFPdklqdmtZaW1ITUNKQjEyNG8yN3NNbVZFQjNxbEJoVHE1MjJJVUphMEhWaUZPRUJlcm8xVkdteW03MEFnRjZUUDFXSzc4RHFMUHl1SW1RSnVPVVF4M1FkUTRQTDFqVng0dGo1N0RBZTNqUzRlR1gxZTdLYV9rU3R1ZjFFVmt2bXVlM1NjMjg0eEJZV2FFaFZfeS1fSHdNSFFrNmJjN3hYaU5Jd3FiVGxuR3Y0LWd4ZjhvVkpaelV3Skw3OUZsSVhxMkZKdU9qbmfSAeABQVVfeXFMTkk5Z1J6OTMybWlUV2FDLTk5eHVRNnJ4clZYODBUdHpVN3BhVm9LLTN6QXRxaHhoZTFocC1KOW9LcVlGcGMyNFM0bE5YYXBWNHMzMGFYbVItT1I2RVd2REdremNmaTFYSlNqdnJ0cUx0TUFNUHRNYTF2cEVxMWRPa21reTBtalBlSGVTTzBWbEswRldkTnJXQXpLc19VeExCWXRVMlY4NWtaT2RIMTRPM0NSS1VsR3pQLUVxQ1YwSzk2UFFOd3VSWVBhQk5iNWtoR3ctUjItS2pOUFhZYW1ybWU?oc=5"
     }
    ],
-   "score": 20.9
-  },
-  {
-   "id": "5602cfafce",
-   "titulo": "Alta dos alimentos pressiona inflação; Denise Campos de Toledo analisa",
-   "url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
-   "veiculo": "Jovem Pan News",
-   "publicado": "2026-11-22T16:43:22.077504+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Alta+dos+alimentos+pressiona+infla%C3%A7%C3%A3o+Denise+Campos+Toledo+analisa",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 20.6,
-   "video_url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
-   "video_canal": "Jovem Pan News",
-   "video_por_hora": 4667,
-   "video_acima_mediana": 7.7,
-   "videos": [
-    {
-     "canal": "Jovem Pan News",
-     "titulo": "Alta dos alimentos pressiona inflação; Denise Campos de Toledo analisa",
-     "url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
-     "por_hora": 4667
-    }
-   ]
-  },
-  {
-   "id": "daa61de87c",
-   "titulo": "Lula ataca 'yuppies da Faria Lima' e diz que mercado financeiro não vai ensiná-lo a governar",
-   "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-ataca-yuppies-da-faria-lima-e-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-22T13:36:40+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": false,
-   "declaracao": true,
-   "busca_video": "https://www.youtube.com/results?search_query=Lula+ataca+yuppies+Faria+Lima+diz+que+mercado+financeiro",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Tribuna de Jundiaí",
-     "titulo": "‘O sistema financeiro não vai me ensinar a dirigir o Brasil’, diz Lula",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42b3lvLXlFX0lVVXlqWGZSbzRIdGV4MnZUUTRvWkRUNF83UjV5bTdQSWhwQUl1UTVNZHM0bzR3R2E2SG5IRVdVUk5iT3dQalhtcEpJMlkzU2pPQlBSSHZnUlpoX1haeVpTZmpsWQ?oc=5"
-    }
-   ],
-   "score": 20.5
+   "score": 20.8
   },
   {
    "id": "feb3d32229",
@@ -1250,7 +1079,119 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.3
+   "score": 20.2
+  },
+  {
+   "id": "aade1d6003",
+   "titulo": "Moraes manda retirar tornozeleira de Bolsonaro internado na UTI | InfoMoney News",
+   "url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
+   "veiculo": "InfoMoney",
+   "publicado": "2026-11-22T18:03:34+00:00",
+   "temas": [
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Moraes+manda+retirar+tornozeleira+Bolsonaro+internado+UTI+InfoMoney+News",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.1,
+   "video_url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
+   "video_canal": "InfoMoney",
+   "video_por_hora": 2478,
+   "video_acima_mediana": 10.8,
+   "videos": [
+    {
+     "canal": "InfoMoney",
+     "titulo": "Moraes manda retirar tornozeleira de Bolsonaro internado na UTI | InfoMoney News",
+     "url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
+     "por_hora": 2478
+    }
+   ]
+  },
+  {
+   "id": "47257b6676",
+   "titulo": "Donald Trump assina lei que extingue moeda de US$ 0,01",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/11/donald-trump-assina-lei-que-extingue-moeda-de-us-001.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-22T17:00:00-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Donald+Trump+assina+lei+que+extingue+moeda+US%24+0%2C01",
+   "veiculos": 3,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "Exame",
+     "titulo": "Trump sanciona lei que encerra a produção da moeda de 1 centavo nos EUA",
+     "url": "https://exame.com/mundo/trump-sanciona-lei-que-encerra-a-producao-da-moeda-de-1-centavo-nos-eua/"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Trump sanciona lei que encerra oficialmente produção de moeda de um centavo de dólar",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGkwbXZ6b1k2OHQyQlIyUTh0Ty0tb0tvYXhoWWxGRjQ5ZGNTSl9LWHoweTg3bGpNSWtKT3V3WkI0am5EWFJpY1RUdlpMRXZoYmFCNkpzamVRc2YzbmRKSG1uRmxXeUpBaWpCTWNWWGE0ZzN2RWJlUUtwdVNtMGVsVVNpbGl0UzlWZ1FSQVpVTkNUMVA2d0NLNUthMU5wN0NxTGp2a2NjcXNoWlU?oc=5"
+    },
+    {
+     "veiculo": "Estadão",
+     "titulo": "Trump sanciona lei que encerra oficialmente produção de moeda de um centavo de dólar",
+     "url": "https://www.estadao.com.br/economia/trump-assina-lei-formaliza-fim-producao-moeda-um-centavo-dolar/"
+    }
+   ],
+   "score": 20.0
+  },
+  {
+   "id": "5602cfafce",
+   "titulo": "Alta dos alimentos pressiona inflação; Denise Campos de Toledo analisa",
+   "url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-22T16:06:42.467461+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Alta+dos+alimentos+pressiona+infla%C3%A7%C3%A3o+Denise+Campos+Toledo+analisa",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 20.0,
+   "video_url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 4250,
+   "video_acima_mediana": 7.7,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Alta dos alimentos pressiona inflação; Denise Campos de Toledo analisa",
+     "url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
+     "por_hora": 4250
+    }
+   ]
+  },
+  {
+   "id": "9ba11028fe",
+   "titulo": "Petrobras deve elevar meta de investimentos em novo plano para cinco anos",
+   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-deve-elevar-meta-de-investimentos-em-novo-plano-para-cinco-anos.shtml",
+   "veiculo": "Folha",
+   "publicado": "2026-11-22T14:26:00-03:00",
+   "temas": [
+    "comportamento",
+    "economia",
+    "mercado"
+   ],
+   "video": false,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+deve+elevar+meta+investimentos+novo+plano+para+cinco",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 19.9
   },
   {
    "id": "3a33ce846f",
@@ -1273,26 +1214,36 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUhZUGk3ZDJGMC1ZTUFpWDVPeVBVd0Y2UFFXVjU0SHBaV2ZuSlYzLU44SUFqQzFrSkVKdUpRYmRFM1FSRkpfSlQwemxsdlRtcXVtZElBWHFVSUZJQWRRMExuRVhjWEx0aHUzTkkxZ29CMjdvYjhfT1RnNEs3R2lkLVByYlBMWldmX2lWXzVVRTVUX2hlbFlaYUQtbFRzaHFNYV9EcDY4Y3BEQW9hZjREZlRmSEtvWnpKc1M3Z3B3?oc=5"
     }
    ],
-   "score": 20.1
+   "score": 19.9
   },
   {
-   "id": "9ba11028fe",
-   "titulo": "Petrobras deve elevar meta de investimentos em novo plano para cinco anos",
-   "url": "https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-deve-elevar-meta-de-investimentos-em-novo-plano-para-cinco-anos.shtml",
-   "veiculo": "Folha",
-   "publicado": "2026-11-22T14:26:00-03:00",
+   "id": "066a9e1e3f",
+   "titulo": "Enchente isola oito pessoas em comunidade rural de Aimorés no Vale do Rio Doce (MG); vídeo",
+   "url": "https://www.youtube.com/watch?v=OmMK7zEg7v0",
+   "veiculo": "UOL",
+   "publicado": "2026-11-22T14:58:55+00:00",
    "temas": [
-    "comportamento",
-    "economia",
     "mercado"
    ],
-   "video": false,
+   "video": true,
    "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Petrobras+deve+elevar+meta+investimentos+novo+plano+para+cinco",
+   "busca_video": "https://www.youtube.com/results?search_query=Enchente+isola+oito+pessoas+comunidade+rural+Aimor%C3%A9s+Vale+Rio",
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 20.0
+   "score": 19.8,
+   "video_url": "https://www.youtube.com/watch?v=OmMK7zEg7v0",
+   "video_canal": "UOL",
+   "video_por_hora": 12440,
+   "video_acima_mediana": 4.5,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Enchente isola oito pessoas em comunidade rural de Aimorés no Vale do Rio Doce (MG); vídeo",
+     "url": "https://www.youtube.com/watch?v=OmMK7zEg7v0",
+     "por_hora": 12440
+    }
+   ]
   }
  ],
  "falas_e_videos": [
@@ -1309,7 +1260,7 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Bolsonaro+apresenta+quadro+clinicamente+est%C3%A1vel%2C+diz+m%C3%A9dico",
-   "veiculos": 7,
+   "veiculos": 6,
    "rotina": false,
    "outras": [
     {
@@ -1333,35 +1284,23 @@
      "url": "https://exame.com/brasil/bolsonaro-segue-na-uti-com-obstrucao-intestinal-e-sem-previsao-de-alta/"
     }
    ],
-   "score": 55.5,
+   "score": 52.3,
    "video_url": "https://www.youtube.com/watch?v=FjivCxRWjvM",
    "video_canal": "CNN Brasil",
-   "video_por_hora": 41896,
-   "video_acima_mediana": 16.0,
+   "video_por_hora": 38786,
+   "video_acima_mediana": 13.0,
    "videos": [
     {
      "canal": "CNN Brasil",
      "titulo": "BOLSONARO SEGUE INTERNADO EM UTI PELO TERCEIRO DIA - CNN AGORA MANHÃ",
      "url": "https://www.youtube.com/watch?v=FjivCxRWjvM",
-     "por_hora": 41896
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Bolsonaro segue internado pelo terceiro dia em UTI e sem previsão de alta | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=pDHCSy3S2Wo",
-     "por_hora": 14714
+     "por_hora": 38786
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Jair Bolsonaro segue internado na UTI sem previsão de alta",
      "url": "https://www.youtube.com/watch?v=NzYUa4-lxSo",
-     "por_hora": 5040
-    },
-    {
-     "canal": "Record News",
-     "titulo": "Bolsonaro é transferido para UTI com quadro de obstrução intestinal",
-     "url": "https://www.youtube.com/watch?v=ezokJcCfs78",
-     "por_hora": 3543
+     "por_hora": 4277
     }
    ]
   },
@@ -1370,7 +1309,7 @@
    "titulo": "Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti",
    "url": "https://valor.globo.com/politica/noticia/2026/11/21/lula-rebate-crticas-ao-ajuste-fiscal-diz-que-no-far-cortes-em-educao-e-sade-e-elogia-moretti.ghtml",
    "veiculo": "Valor",
-   "publicado": "2026-11-22T19:12:36+00:00",
+   "publicado": "2026-11-22T19:51:45+00:00",
    "temas": [
     "comportamento",
     "economia",
@@ -1380,9 +1319,14 @@
    "video": true,
    "declaracao": true,
    "busca_video": "https://www.youtube.com/results?search_query=Lula+rebate+cr%C3%ADticas+ajuste+fiscal%2C+diz+que+n%C3%A3o+far%C3%A1",
-   "veiculos": 36,
+   "veiculos": 30,
    "rotina": false,
    "outras": [
+    {
+     "veiculo": "Jovem Pan News",
+     "titulo": "Governo e mercado divergem sobre ajuste fiscal, especialista comenta",
+     "url": "https://www.youtube.com/watch?v=cYadrtbI9ZM"
+    },
     {
      "veiculo": "Jovem Pan News",
      "titulo": "Lula rebate cobranças do mercado sobre ajuste fiscal",
@@ -1394,33 +1338,34 @@
      "url": "https://www.youtube.com/watch?v=l6lpgJiCqZQ"
     },
     {
-     "veiculo": "Blog do Waldiney Passos",
-     "titulo": "Lula defende ministro Bruno Moretti, nega cortes sociais em ajuste fiscal e critica mercado financeiro",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUFrMEkwZnZ4WDFhNmNJZG1RUVN6THZMSmRVcGdXSnNVUE0yaGVyelI0aHFUMFN6ajZCWFd5UmZaNHIxVkN0c0pLUHNBcS1nSFdxYVVkNHg1SFpHSjdxRkVGMmxzOW9HSFJPYVNnblBzOUVXSnFvRDFtM2J5NUtXM0NCN0Q3Q2FQYlEzcmZ1TTBvTzhxN2x2M1FVYm9NcVFVMTRwZTloWWhEdDc1Tmx5b2lQdXZXZUJjdmRYNTlidXBIdkFldGhCZkw4ZW4?oc=5"
-    },
-    {
-     "veiculo": "News Rondônia",
-     "titulo": "Lula defende ajuste fiscal e critica pressão do mercado financeiro",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGJkU1pPNWtRUHg0d3E2ajUwaWJQQkxFR3ZLbEtuMzk2MnVGSU1MQnBXMkVfUzI1dy1vQm4xUmxiRU14TGd5LVVKSlhqNkJTQUI2aGFNSXNDXzdJeTZDcFV1RlBDWnNIakx3d3YxRG1UVjR0Q3ZWYXBiU1JTSkdod2diVGluY1h2b3V1V1E3TEJfcDl4SnF0eU83cGwyTXA5UFVIZlFMOW9sREtadWFWT1VnMTZWdw?oc=5"
+     "veiculo": "Pernambuco Notícias",
+     "titulo": "Lula defende ajuste fiscal e rebate críticas do mercado financeiro em live",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmVVSDV4Q2VqRklQVXBPa1Jhc3Fnd3FjeHV4d1UyYmVpNVhIZnY1MXZNdkVTYS15Ul9LejVzSGZ5MWxxYXhoTFQ4X3V3aHJvRkFrQkJPY2Fvb0xfQVpWdjZONzR5NFJaM2JGbFFBd0FreW1ZbkpZSWFHRGhtalFDMEdyNTU0VXN5ZUU4VnJ0SGNSdnJnU3ZXOFdVRG1tZk42QXRNekhPdkhBaW4wSUE?oc=5"
     }
    ],
-   "score": 53.9,
+   "score": 52.0,
    "video_url": "https://www.youtube.com/watch?v=l6lpgJiCqZQ",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 370,
+   "video_por_hora": 303,
    "video_acima_mediana": 0.6,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Ajuste fiscal entra no radar do Mercado",
      "url": "https://www.youtube.com/watch?v=l6lpgJiCqZQ",
-     "por_hora": 370
+     "por_hora": 303
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Lula rebate cobranças do mercado sobre ajuste fiscal",
      "url": "https://www.youtube.com/watch?v=siX7U8-oI28",
-     "por_hora": 337
+     "por_hora": 301
+    },
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Governo e mercado divergem sobre ajuste fiscal, especialista comenta",
+     "url": "https://www.youtube.com/watch?v=cYadrtbI9ZM",
+     "por_hora": 200
     }
    ]
   },
@@ -1429,7 +1374,7 @@
    "titulo": "Pastores oram por melhora de Bolsonaro em frente a hospital",
    "url": "https://www.youtube.com/watch?v=tgyag1YwmU4",
    "veiculo": "Poder360",
-   "publicado": "2026-11-22T18:44:46+00:00",
+   "publicado": "2026-11-22T19:47:17+00:00",
    "temas": [
     "politica"
    ],
@@ -1440,44 +1385,55 @@
    "rotina": false,
    "outras": [
     {
+     "veiculo": "Poder360",
+     "titulo": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
+     "url": "https://www.youtube.com/watch?v=nwnV2lPQq_I"
+    },
+    {
      "veiculo": "Jovem Pan News",
      "titulo": "Apoiadores de Jair Bolsonaro fazem oração em frente ao Hospital DF Star, em Brasília #shorts",
      "url": "https://www.youtube.com/watch?v=0ANq5w9apGE"
     },
     {
+     "veiculo": "UOL",
+     "titulo": "Bolsonaro na UTI: Pastores e Padre Kelmon oram por ex-presidente em frente a hospital; veja vídeo",
+     "url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE"
+    },
+    {
      "veiculo": "Valor",
      "titulo": "Michelle chega a Brasília para visitar Bolsonaro no hospital",
      "url": "https://valor.globo.com/politica/noticia/2026/11/21/michelle-chega-a-braslia-para-visitar-bolsonaro-no-hospital.ghtml"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Michelle chega ao Brasil após internação de Jair Bolsonaro | CNN PRIME TIME",
-     "url": "https://www.youtube.com/watch?v=6rXzP0ZhRnw"
     }
    ],
-   "score": 35.0,
-   "video_url": "https://www.youtube.com/watch?v=6rXzP0ZhRnw",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 16000,
-   "video_acima_mediana": 6.1,
+   "score": 34.0,
+   "video_url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE",
+   "video_canal": "UOL",
+   "video_por_hora": 12932,
+   "video_acima_mediana": 4.7,
    "videos": [
     {
-     "canal": "CNN Brasil",
-     "titulo": "Michelle chega ao Brasil após internação de Jair Bolsonaro | CNN PRIME TIME",
-     "url": "https://www.youtube.com/watch?v=6rXzP0ZhRnw",
-     "por_hora": 16000
+     "canal": "UOL",
+     "titulo": "Bolsonaro na UTI: Pastores e Padre Kelmon oram por ex-presidente em frente a hospital; veja vídeo",
+     "url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE",
+     "por_hora": 12932
     },
     {
      "canal": "Poder360",
      "titulo": "Pastores oram por melhora de Bolsonaro em frente a hospital",
      "url": "https://www.youtube.com/watch?v=tgyag1YwmU4",
-     "por_hora": 2160
+     "por_hora": 2145
     },
     {
      "canal": "Jovem Pan News",
      "titulo": "Apoiadores de Jair Bolsonaro fazem oração em frente ao Hospital DF Star, em Brasília #shorts",
      "url": "https://www.youtube.com/watch?v=0ANq5w9apGE",
-     "por_hora": 1768
+     "por_hora": 1748
+    },
+    {
+     "canal": "Poder360",
+     "titulo": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
+     "url": "https://www.youtube.com/watch?v=nwnV2lPQq_I",
+     "por_hora": 1650
     }
    ]
   },
@@ -1513,110 +1469,17 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORndEbWtwTDVLVFpPc2pOWHBRcnVPekJaRHJ0ZGlKOHZPM2VGN0gtdDRQMWc2ODRxSE5QOWVGZ2g0bkxxek9JeE5qUGlqWG1ZeTdoejhiUUdyckl1dm1fbDFzd21LaWt6NjBfRnhpYmQ1bFpIWHRYX2FraUpJR0pvTlhicFZPb2RMeTFPbS1MUEU0LWR6T0lCeFpOcF9LeXdfZVA4SU1kSHdqYXJKRFdHdFJHSzFJZXg3Mk9BVkVBZFZ4ZFFvOXB2U1RQdkVKbXUtbzBqX203OXJzSUHSAeABQVVfeXFMTld5d0ZpQngwbjVyU2FpRm5RR21pWEVvNTlLZUZKMEpKSjRLUHFkR09zMm1QTjU1VzcyRDloTnhxWGhhWE1qTUFqTDk2WjhIajVSdTdGUWNiSWpaNXJWY1hkbmdqUVduVTBDUEVnd2EyZDhqZ1djZnZpN282ZFkwZGZiQnlicGU4bkEwZjQ5SVBlalZveEo0eGl3MWwweVc4V1NGT1ZVeF9uR2dSQnBqa3pBUEpRZGJmSFdUV2ZnTlNNNUlGMG5kTUlrMW5malRCdElhTm83SDJSSzJYYWEyMVI?oc=5"
     }
    ],
-   "score": 34.0,
+   "score": 33.9,
    "video_url": "https://www.youtube.com/watch?v=bbxryifk0iQ",
    "video_canal": "UOL",
-   "video_por_hora": 709,
+   "video_por_hora": 697,
    "video_acima_mediana": 0.3,
    "videos": [
     {
      "canal": "UOL",
      "titulo": "Haddad defende taxar bilionários e alerta contra oligarquia global em Paris",
      "url": "https://www.youtube.com/watch?v=bbxryifk0iQ",
-     "por_hora": 709
-    }
-   ]
-  },
-  {
-   "id": "aade1d6003",
-   "titulo": "Moraes manda retirar tornozeleira de Bolsonaro internado na UTI | InfoMoney News",
-   "url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
-   "veiculo": "InfoMoney",
-   "publicado": "2026-11-22T18:03:34+00:00",
-   "temas": [
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Moraes+manda+retirar+tornozeleira+Bolsonaro+internado+UTI+InfoMoney+News",
-   "veiculos": 1,
-   "rotina": false,
-   "outras": [],
-   "score": 28.4,
-   "video_url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
-   "video_canal": "InfoMoney",
-   "video_por_hora": 2740,
-   "video_acima_mediana": 12.7,
-   "videos": [
-    {
-     "canal": "InfoMoney",
-     "titulo": "Moraes manda retirar tornozeleira de Bolsonaro internado na UTI | InfoMoney News",
-     "url": "https://www.youtube.com/watch?v=JfTP45hL__Q",
-     "por_hora": 2740
-    }
-   ]
-  },
-  {
-   "id": "12b1eb525f",
-   "titulo": "GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
-   "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
-   "veiculo": "CNN Brasil",
-   "publicado": "2026-11-22T18:00:45+00:00",
-   "temas": [
-    "mercado",
-    "politica"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=GOVERNO+ENVIA+PLANO+PARA+RECONSTRUIR+TUPANCIRET%C3%83+CNN+AGORA+TARDE",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Governo reconhece calamidade pública em Tupanciretã (RS) após temporal | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=Lh2D0YJ6nZE"
-    },
-    {
-     "veiculo": "UOL",
-     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
-     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc"
-    },
-    {
-     "veiculo": "CNN Brasil",
-     "titulo": "Lula presta solidariedade e garante esforços após temporal em Tupanciretã (RS) | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=3iqm3Cd4WJY"
-    }
-   ],
-   "score": 28.4,
-   "video_url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
-   "video_canal": "CNN Brasil",
-   "video_por_hora": 12835,
-   "video_acima_mediana": 4.9,
-   "videos": [
-    {
-     "canal": "CNN Brasil",
-     "titulo": "GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
-     "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
-     "por_hora": 12835
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Governo reconhece calamidade pública em Tupanciretã (RS) após temporal | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=Lh2D0YJ6nZE",
-     "por_hora": 10446
-    },
-    {
-     "canal": "UOL",
-     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
-     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc",
-     "por_hora": 9064
-    },
-    {
-     "canal": "CNN Brasil",
-     "titulo": "Lula presta solidariedade e garante esforços após temporal em Tupanciretã (RS) | CNN AGORA",
-     "url": "https://www.youtube.com/watch?v=3iqm3Cd4WJY",
-     "por_hora": 2043
+     "por_hora": 697
     }
    ]
   },
@@ -1647,17 +1510,17 @@
      "url": "https://www.cnnbrasil.com.br/politica/michelle-diz-que-bolsonaro-esta-sem-dor-e-faz-novos-exames-neste-domingo/"
     }
    ],
-   "score": 27.2,
+   "score": 27.1,
    "video_url": "https://www.youtube.com/watch?v=_Ao4Ft8S2bY",
    "video_canal": "GloboNews",
-   "video_por_hora": 2412,
-   "video_acima_mediana": 4.4,
+   "video_por_hora": 2501,
+   "video_acima_mediana": 4.8,
    "videos": [
     {
      "canal": "GloboNews",
      "titulo": "Bolsonaro passou a noite sem dor, diz Michell",
      "url": "https://www.youtube.com/watch?v=_Ao4Ft8S2bY",
-     "por_hora": 2412
+     "por_hora": 2501
     }
    ]
   },
@@ -1676,66 +1539,18 @@
    "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7o+carne+sobe+12%25+ano+faz+consumo+interno+cair",
    "veiculos": 1,
    "rotina": false,
-   "outras": [
-    {
-     "veiculo": "Band Jornalismo",
-     "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
-     "url": "https://www.youtube.com/watch?v=lylfeKwYhXk"
-    }
-   ],
-   "score": 26.1,
-   "video_url": "https://www.youtube.com/watch?v=lylfeKwYhXk",
+   "outras": [],
+   "score": 25.5,
+   "video_url": "https://www.youtube.com/watch?v=ShatBTJj8FM",
    "video_canal": "Band Jornalismo",
-   "video_por_hora": 3056,
-   "video_acima_mediana": 8.2,
+   "video_por_hora": 1984,
+   "video_acima_mediana": 5.7,
    "videos": [
-    {
-     "canal": "Band Jornalismo",
-     "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
-     "url": "https://www.youtube.com/watch?v=lylfeKwYhXk",
-     "por_hora": 3056
-    },
     {
      "canal": "Band Jornalismo",
      "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
      "url": "https://www.youtube.com/watch?v=ShatBTJj8FM",
-     "por_hora": 1039
-    }
-   ]
-  },
-  {
-   "id": "d70e4aca7e",
-   "titulo": "Preços do milho seguem em alta no mercado interno",
-   "url": "https://www.youtube.com/watch?v=PCZtanLGu1I",
-   "veiculo": "Record News",
-   "publicado": "2026-11-22T14:12:00+00:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "video": true,
-   "declaracao": false,
-   "busca_video": "https://www.youtube.com/results?search_query=Pre%C3%A7os+milho+seguem+alta+mercado+interno",
-   "veiculos": 2,
-   "rotina": false,
-   "outras": [
-    {
-     "veiculo": "bra1.com.br",
-     "titulo": "Soja sobe 2% na semana, enquanto milho e boi gordo têm alta modesta no mercado brasileiro",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTk3THVqOG9pX0E3ejNSV3Z4RVBLN3pXSnc3eUNvX25BSFgxZEZ0UXZ5TEVERkhIaVJkbmxRcFI1QlpLYV8xZkdfaFQ3c3A3Q0x0QkhkckJpMWVTMEFQR1hycVkzSk1RU2FMbXpaQmRUNndGV2JoMlRRbTlxTWpmaVlzYi1IRktVUU5kSTZmWkh4U0d5bjI1OXJnQXZYQ1h1VkZXbTFkQXVKc2lCa2ZqSDU1RDkzWFUzSG1HbkNlczY1bWJzS2RnTjFPcC1fTGUw?oc=5"
-    }
-   ],
-   "score": 26.0,
-   "video_url": "https://www.youtube.com/watch?v=PCZtanLGu1I",
-   "video_canal": "Record News",
-   "video_por_hora": 645,
-   "video_acima_mediana": 2.2,
-   "videos": [
-    {
-     "canal": "Record News",
-     "titulo": "Preços do milho seguem em alta no mercado interno",
-     "url": "https://www.youtube.com/watch?v=PCZtanLGu1I",
-     "por_hora": 645
+     "por_hora": 1984
     }
    ]
   },
@@ -1744,7 +1559,7 @@
    "titulo": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
    "url": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
    "veiculo": "g1",
-   "publicado": "2026-11-22T19:42:22.077504+00:00",
+   "publicado": "2026-11-22T19:41:48+00:00",
    "temas": [
     "economia",
     "politica"
@@ -1766,17 +1581,53 @@
      "url": "https://valor.globo.com/politica/noticia/2026/11/22/agenda-de-politica-camara-deve-votar-ajuste-fiscal-e-lula-discute-nome-para-stf.ghtml"
     }
    ],
-   "score": 25.0,
+   "score": 24.9,
    "video_url": "https://www.youtube.com/watch?v=iZiwadaJ2yA",
    "video_canal": "Jovem Pan News",
-   "video_por_hora": 0,
-   "video_acima_mediana": 0.0,
+   "video_por_hora": 192,
+   "video_acima_mediana": 0.3,
    "videos": [
     {
      "canal": "Jovem Pan News",
      "titulo": "Câmara deve votar ajuste fiscal na próxima segunda-feira (23)",
      "url": "https://www.youtube.com/watch?v=iZiwadaJ2yA",
-     "por_hora": 0
+     "por_hora": 192
+    }
+   ]
+  },
+  {
+   "id": "dd4ac3df6c",
+   "titulo": "Governo federal reconhece calamidade em cidade do RS após temporal que deixou 5 mortos",
+   "url": "https://valor.globo.com/brasil/noticia/2026/11/22/governo-federal-reconhece-calamidade-em-cidade-do-rs-aps-temporal-que-deixou-5-mortos.ghtml",
+   "veiculo": "Valor",
+   "publicado": "2026-11-22T16:54:08+00:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Governo+federal+reconhece+calamidade+cidade+ap%C3%B3s+temporal+que+deixou",
+   "veiculos": 2,
+   "rotina": false,
+   "outras": [
+    {
+     "veiculo": "UOL",
+     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
+     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc"
+    }
+   ],
+   "score": 24.7,
+   "video_url": "https://www.youtube.com/watch?v=H8kzn67-dyc",
+   "video_canal": "UOL",
+   "video_por_hora": 10085,
+   "video_acima_mediana": 3.6,
+   "videos": [
+    {
+     "canal": "UOL",
+     "titulo": "Temporal em Tupanciretã: Governo Federal reconhece calamidade após temporal que deixou 5 mortos",
+     "url": "https://www.youtube.com/watch?v=H8kzn67-dyc",
+     "por_hora": 10085
     }
    ]
   },
@@ -1796,17 +1647,17 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 23.1,
+   "score": 23.0,
    "video_url": "https://www.youtube.com/watch?v=pheUXkdgOZg",
    "video_canal": "PL",
-   "video_por_hora": 167,
-   "video_acima_mediana": 6.0,
+   "video_por_hora": 183,
+   "video_acima_mediana": 6.8,
    "videos": [
     {
      "canal": "PL",
      "titulo": "Todas as escolhas de Lula custam caro... para o povo!",
      "url": "https://www.youtube.com/watch?v=pheUXkdgOZg",
-     "por_hora": 167
+     "por_hora": 183
     }
    ]
   },
@@ -1827,17 +1678,76 @@
    "veiculos": 1,
    "rotina": false,
    "outras": [],
-   "score": 22.8,
+   "score": 22.7,
    "video_url": "https://www.youtube.com/watch?v=XqZZOSWr8EA",
    "video_canal": "Câmara dos Deputados",
-   "video_por_hora": 92,
-   "video_acima_mediana": 6.9,
+   "video_por_hora": 94,
+   "video_acima_mediana": 7.1,
    "videos": [
     {
      "canal": "Câmara dos Deputados",
      "titulo": "Perspectivas de votações na próxima semana no Plenário da Câmara - 22/11/26",
      "url": "https://www.youtube.com/watch?v=XqZZOSWr8EA",
-     "por_hora": 92
+     "por_hora": 94
+    }
+   ]
+  },
+  {
+   "id": "33f27694ad",
+   "titulo": "Limite a crédito tributário em ajuste fiscal preocupa empresas",
+   "url": "https://www.youtube.com/watch?v=_847c_-ELSQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-22T20:03:18+00:00",
+   "temas": [
+    "economia"
+   ],
+   "video": true,
+   "declaracao": false,
+   "busca_video": "https://www.youtube.com/results?search_query=Limite+cr%C3%A9dito+tribut%C3%A1rio+ajuste+fiscal+preocupa+empresas",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 22.0,
+   "video_url": "https://www.youtube.com/watch?v=_847c_-ELSQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 6,
+   "video_acima_mediana": 0.0,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Limite a crédito tributário em ajuste fiscal preocupa empresas",
+     "url": "https://www.youtube.com/watch?v=_847c_-ELSQ",
+     "por_hora": 6
+    }
+   ]
+  },
+  {
+   "id": "2e8ff22075",
+   "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
+   "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+   "veiculo": "Jovem Pan News",
+   "publicado": "2026-11-22T13:06:42.467461+00:00",
+   "temas": [
+    "economia",
+    "mercado"
+   ],
+   "video": true,
+   "declaracao": true,
+   "busca_video": "https://www.youtube.com/results?search_query=Copom+alerta+para+impacto+Ni%C3%B1o+infla%C3%A7%C3%A3o+conta+luz",
+   "veiculos": 1,
+   "rotina": false,
+   "outras": [],
+   "score": 21.9,
+   "video_url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+   "video_canal": "Jovem Pan News",
+   "video_por_hora": 4571,
+   "video_acima_mediana": 8.3,
+   "videos": [
+    {
+     "canal": "Jovem Pan News",
+     "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
+     "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+     "por_hora": 4571
     }
    ]
   }
@@ -1848,21 +1758,9 @@
    "url": "https://www.youtube.com/watch?v=FjivCxRWjvM",
    "canal": "CNN Brasil",
    "publicado": "2026-11-22T16:14:20+00:00",
-   "views": 145963,
-   "por_hora": 41896,
-   "acima_mediana": 16.0,
-   "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Michelle chega ao Brasil após internação de Jair Bolsonaro | CNN PRIME TIME",
-   "url": "https://www.youtube.com/watch?v=6rXzP0ZhRnw",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-21T23:43:22.077504+00:00",
-   "views": 320000,
-   "por_hora": 16000,
-   "acima_mediana": 6.1,
+   "views": 150213,
+   "por_hora": 38786,
+   "acima_mediana": 13.0,
    "temas": [
     "politica"
    ]
@@ -1872,23 +1770,10 @@
    "url": "https://www.youtube.com/watch?v=4PttrgL6mdE",
    "canal": "Lula",
    "publicado": "2026-11-22T12:30:09+00:00",
-   "views": 114489,
-   "por_hora": 15857,
-   "acima_mediana": 13.5,
+   "views": 131550,
+   "por_hora": 17288,
+   "acima_mediana": 14.7,
    "temas": [
-    "politica"
-   ]
-  },
-  {
-   "titulo": "Bolsonaro segue internado pelo terceiro dia em UTI e sem previsão de alta | CNN AGORA",
-   "url": "https://www.youtube.com/watch?v=pDHCSy3S2Wo",
-   "canal": "CNN Brasil",
-   "publicado": "2026-11-22T12:43:22.077504+00:00",
-   "views": 103000,
-   "por_hora": 14714,
-   "acima_mediana": 5.6,
-   "temas": [
-    "mercado",
     "politica"
    ]
   },
@@ -1897,10 +1782,35 @@
    "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
    "canal": "CNN Brasil",
    "publicado": "2026-11-22T18:00:45+00:00",
-   "views": 21951,
-   "por_hora": 12835,
-   "acima_mediana": 4.9,
+   "views": 34930,
+   "por_hora": 16639,
+   "acima_mediana": 5.6,
    "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Bolsonaro na UTI: Pastores e Padre Kelmon oram por ex-presidente em frente a hospital; veja vídeo",
+   "url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE",
+   "canal": "UOL",
+   "publicado": "2026-11-22T16:16:54+00:00",
+   "views": 49533,
+   "por_hora": 12932,
+   "acima_mediana": 4.7,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Chuvas no Rio Grande do Sul: prefeito fala ao vivo; COP31 fracassa; Bolsonaro segue em UTI e mais",
+   "url": "https://www.youtube.com/watch?v=Q2_f7JxNnNA",
+   "canal": "UOL",
+   "publicado": "2026-11-22T20:01:22+00:00",
+   "views": 6337,
+   "por_hora": 12674,
+   "acima_mediana": 4.6,
+   "temas": [
+    "mercado",
     "politica"
    ]
   },
@@ -1909,23 +1819,11 @@
    "url": "https://www.youtube.com/watch?v=OmMK7zEg7v0",
    "canal": "UOL",
    "publicado": "2026-11-22T14:58:55+00:00",
-   "views": 46624,
-   "por_hora": 9835,
-   "acima_mediana": 3.8,
+   "views": 63816,
+   "por_hora": 12440,
+   "acima_mediana": 4.5,
    "temas": [
     "mercado"
-   ]
-  },
-  {
-   "titulo": "Bolsonaro na UTI: Pastores e Padre Kelmon oram por ex-presidente em frente a hospital; veja vídeo",
-   "url": "https://www.youtube.com/watch?v=jbD1ZRbJnpE",
-   "canal": "UOL",
-   "publicado": "2026-11-22T16:16:54+00:00",
-   "views": 32758,
-   "por_hora": 9520,
-   "acima_mediana": 3.7,
-   "temas": [
-    "politica"
    ]
   },
   {
@@ -1933,34 +1831,22 @@
    "url": "https://www.youtube.com/watch?v=H8kzn67-dyc",
    "canal": "UOL",
    "publicado": "2026-11-22T12:04:00+00:00",
-   "views": 69395,
-   "por_hora": 9064,
-   "acima_mediana": 3.5,
+   "views": 81139,
+   "por_hora": 10085,
+   "acima_mediana": 3.6,
    "temas": [
     "mercado",
     "politica"
    ]
   },
   {
-   "titulo": "CONFLITO UCRÂNIA E RÚSSIA / BALANÇO DA COP31 / EFEITOS ESCALA 5X2 | FAST NEWS - 1° EDIÇÃO - 22/11/26",
-   "url": "https://www.youtube.com/watch?v=It9vXbFsw6A",
-   "canal": "Jovem Pan News",
-   "publicado": "2026-11-22T16:05:14+00:00",
-   "views": 29487,
-   "por_hora": 8111,
-   "acima_mediana": 13.4,
-   "temas": [
-    "economia"
-   ]
-  },
-  {
-   "titulo": "Gilmar Mendes defende fim de sigilo em relatórios sobre ministros do STF | Jornal da Band",
-   "url": "https://www.youtube.com/watch?v=SV3JMogAxWs",
-   "canal": "Band Jornalismo",
-   "publicado": "2026-11-21T23:43:22.077504+00:00",
-   "views": 147000,
-   "por_hora": 7350,
-   "acima_mediana": 19.8,
+   "titulo": "Inspirado em Bukele, governo do Haiti anuncia construção de três prisões | CNN AGORA",
+   "url": "https://www.youtube.com/watch?v=_majkCrEMu8",
+   "canal": "CNN Brasil",
+   "publicado": "2026-11-22T15:25:16+00:00",
+   "views": 41698,
+   "por_hora": 8890,
+   "acima_mediana": 3.0,
    "temas": [
     "politica"
    ]
@@ -1970,9 +1856,21 @@
    "url": "https://www.youtube.com/watch?v=epjzIwZt_V8",
    "canal": "Flávio Bolsonaro",
    "publicado": "2026-11-22T14:15:38+00:00",
-   "views": 38900,
-   "por_hora": 7122,
-   "acima_mediana": 17.4,
+   "views": 47988,
+   "por_hora": 8201,
+   "acima_mediana": 20.0,
+   "temas": [
+    "politica"
+   ]
+  },
+  {
+   "titulo": "Gilmar Mendes defende fim de sigilo em relatórios sobre ministros do STF | Jornal da Band",
+   "url": "https://www.youtube.com/watch?v=SV3JMogAxWs",
+   "canal": "Band Jornalismo",
+   "publicado": "2026-11-22T00:06:42.467461+00:00",
+   "views": 158000,
+   "por_hora": 7900,
+   "acima_mediana": 22.6,
    "temas": [
     "politica"
    ]
@@ -1982,10 +1880,35 @@
    "url": "https://www.youtube.com/watch?v=gCj4t7WvjrQ",
    "canal": "SBT News",
    "publicado": "2026-11-22T00:07:03+00:00",
-   "views": 99276,
-   "por_hora": 5064,
-   "acima_mediana": 6.8,
+   "views": 99645,
+   "por_hora": 4984,
+   "acima_mediana": 5.9,
    "temas": [
+    "economia"
+   ]
+  },
+  {
+   "titulo": "Restrição a compensação fiscal gera alerta no setor produtivo",
+   "url": "https://www.youtube.com/watch?v=TxoDRLF1ddQ",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-22T15:06:42.467461+00:00",
+   "views": 23000,
+   "por_hora": 4600,
+   "acima_mediana": 8.4,
+   "temas": [
+    "economia"
+   ]
+  },
+  {
+   "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
+   "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+   "canal": "Jovem Pan News",
+   "publicado": "2026-11-22T13:06:42.467461+00:00",
+   "views": 32000,
+   "por_hora": 4571,
+   "acima_mediana": 8.3,
+   "temas": [
+    "mercado",
     "economia"
    ]
   },
@@ -1994,9 +1917,9 @@
    "url": "https://www.youtube.com/watch?v=NzYUa4-lxSo",
    "canal": "Jovem Pan News",
    "publicado": "2026-11-22T18:28:23+00:00",
-   "views": 6299,
-   "por_hora": 5040,
-   "acima_mediana": 8.3,
+   "views": 7009,
+   "por_hora": 4277,
+   "acima_mediana": 7.8,
    "temas": [
     "mercado",
     "politica"
@@ -2006,25 +1929,13 @@
    "titulo": "Alta dos alimentos pressiona inflação; Denise Campos de Toledo analisa",
    "url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
    "canal": "Jovem Pan News",
-   "publicado": "2026-11-22T16:43:22.077504+00:00",
-   "views": 14000,
-   "por_hora": 4667,
+   "publicado": "2026-11-22T16:06:42.467461+00:00",
+   "views": 17000,
+   "por_hora": 4250,
    "acima_mediana": 7.7,
    "temas": [
     "mercado",
     "economia"
-   ]
-  },
-  {
-   "titulo": "Jair Bolsonaro está na UTI com quadro 'estável clinicamente e consciente', diz hospital",
-   "url": "https://www.youtube.com/watch?v=CEiwGEKRa_s",
-   "canal": "UOL",
-   "publicado": "2026-11-21T22:43:22.077504+00:00",
-   "views": 95000,
-   "por_hora": 4524,
-   "acima_mediana": 1.8,
-   "temas": [
-    "politica"
    ]
   }
  ],
@@ -2035,49 +1946,33 @@
    "url": "https://www.youtube.com/watch?v=4PttrgL6mdE",
    "video_url": "https://www.youtube.com/watch?v=4PttrgL6mdE",
    "canal": "Lula",
-   "views_h": 15857,
-   "acima_mediana": 13.5,
+   "views_h": 17288,
+   "acima_mediana": 14.7,
    "publicado": "2026-11-22T09:30-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
-   "forca": 31.9,
-   "porque": "vídeo do Lula com 15.857 views/h (13.5x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "FT/ANÁLISE: A febre da IA nos mercados está passando",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/22/ftanlise-a-febre-da-ia-nos-mercados-est-passando.ghtml",
-   "veiculos": [
-    "Valor"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-22T15:48-03:00",
-   "temas": [
-    "economia",
-    "mercado"
-   ],
-   "forca": 29.6,
-   "porque": "só 1 veículo (Valor); apareceu às 15h48"
+   "forca": 32.6,
+   "porque": "vídeo do Lula com 17.288 views/h (14.7x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "video",
-   "titulo": "CONFLITO UCRÂNIA E RÚSSIA / BALANÇO DA COP31 / EFEITOS ESCALA 5X2 | FAST NEWS - 1° EDIÇÃO - 22/11/26",
-   "url": "https://www.youtube.com/watch?v=It9vXbFsw6A",
-   "video_url": "https://www.youtube.com/watch?v=It9vXbFsw6A",
-   "canal": "Jovem Pan News",
-   "views_h": 8111,
-   "acima_mediana": 13.4,
-   "publicado": "2026-11-22T13:05-03:00",
+   "titulo": "Meu pai é um herói! Um ano da prisão injusta de Jair Bolsonaro",
+   "url": "https://www.youtube.com/watch?v=epjzIwZt_V8",
+   "video_url": "https://www.youtube.com/watch?v=epjzIwZt_V8",
+   "canal": "Flávio Bolsonaro",
+   "views_h": 8201,
+   "acima_mediana": 20.0,
+   "publicado": "2026-11-22T11:15-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
-    "economia"
+    "politica"
    ],
    "forca": 28.1,
-   "porque": "vídeo do Jovem Pan News com 8.111 views/h (13.4x o normal do canal); nenhum veículo deu ainda"
+   "porque": "vídeo do Flávio Bolsonaro com 8.201 views/h (20.0x o normal do canal); nenhum veículo deu ainda"
   },
   {
    "tipo": "pauta",
@@ -2093,25 +1988,91 @@
     "economia",
     "mercado"
    ],
-   "forca": 27.9,
+   "forca": 27.7,
    "porque": "só 2 veículos (Jornal de Negócios, pressnet.pt); apareceu às 15h10"
   },
   {
    "tipo": "video",
-   "titulo": "Meu pai é um herói! Um ano da prisão injusta de Jair Bolsonaro",
-   "url": "https://www.youtube.com/watch?v=epjzIwZt_V8",
-   "video_url": "https://www.youtube.com/watch?v=epjzIwZt_V8",
-   "canal": "Flávio Bolsonaro",
-   "views_h": 7122,
-   "acima_mediana": 17.4,
-   "publicado": "2026-11-22T11:15-03:00",
+   "titulo": "GOVERNO ENVIA PLANO PARA RECONSTRUIR TUPANCIRETÃ - CNN AGORA TARDE I",
+   "url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
+   "video_url": "https://www.youtube.com/watch?v=OdmlbUdpLoc",
+   "canal": "CNN Brasil",
+   "views_h": 16639,
+   "acima_mediana": 5.6,
+   "publicado": "2026-11-22T15:00-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
     "politica"
    ],
-   "forca": 27.6,
-   "porque": "vídeo do Flávio Bolsonaro com 7.122 views/h (17.4x o normal do canal); nenhum veículo deu ainda"
+   "forca": 27.5,
+   "porque": "vídeo do CNN Brasil com 16.639 views/h (5.6x o normal do canal); nenhum veículo deu ainda"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Petrobras prepara novo plano quinquenal com alta de investimentos e foco em diesel",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05dzJqaUJXVVQ2eTZJbUVqVEJrYk50YkF2SnZ3R21xYXpFTEZwTDMxb0JIa282c2hhV3YwV2Ria1Q2dzQ4R2ZJcjdFWmdLQ2xMd050VEJmazBBSk55QW90S2U4RHNoelNtUnY1RVNGT0hzVnAtdXBzb2tYNkY?oc=5",
+   "veiculos": [
+    "Fato Paulista"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-22T16:54-03:00",
+   "temas": [
+    "mercado"
+   ],
+   "forca": 26.9,
+   "porque": "só 1 veículo (Fato Paulista); apareceu às 16h54"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Restrição a compensação fiscal gera alerta no setor produtivo",
+   "url": "https://www.youtube.com/watch?v=TxoDRLF1ddQ",
+   "video_url": "https://www.youtube.com/watch?v=TxoDRLF1ddQ",
+   "canal": "Jovem Pan News",
+   "views_h": 4600,
+   "acima_mediana": 8.4,
+   "publicado": "2026-11-22T12:06-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
+   "temas": [
+    "economia"
+   ],
+   "forca": 26.3,
+   "porque": "vídeo do Jovem Pan News com 4.600 views/h (8.4x o normal do canal); nenhum veículo deu ainda"
+  },
+  {
+   "tipo": "video",
+   "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
+   "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+   "video_url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+   "canal": "Jovem Pan News",
+   "views_h": 4571,
+   "acima_mediana": 8.3,
+   "publicado": "2026-11-22T10:06-03:00",
+   "veiculos": [],
+   "qtd_veiculos": 0,
+   "temas": [
+    "mercado",
+    "economia"
+   ],
+   "forca": 26.3,
+   "porque": "vídeo do Jovem Pan News com 4.571 views/h (8.3x o normal do canal); nenhum veículo deu ainda"
+  },
+  {
+   "tipo": "pauta",
+   "titulo": "Fazenda histórica de SP deve receber R$ 63,2 milhões do governo",
+   "url": "https://www.metropoles.com/sao-paulo/fazenda-historica-de-sp-deve-receber-r-632-milhoes-do-governo",
+   "veiculos": [
+    "Metrópoles"
+   ],
+   "qtd_veiculos": 1,
+   "primeira_vez": "2026-11-22T16:41-03:00",
+   "temas": [
+    "mercado",
+    "politica"
+   ],
+   "forca": 25.8,
+   "porque": "só 1 veículo (Metrópoles); apareceu às 16h41"
   },
   {
    "tipo": "pauta",
@@ -2126,7 +2087,7 @@
     "mercado",
     "politica"
    ],
-   "forca": 25.8,
+   "forca": 25.7,
    "porque": "só 1 veículo (InfoMoney); apareceu às 16h19"
   },
   {
@@ -2135,27 +2096,9 @@
    "url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
    "video_url": "https://www.youtube.com/watch?v=6EqK-Ei9l5c",
    "canal": "Jovem Pan News",
-   "views_h": 4667,
+   "views_h": 4250,
    "acima_mediana": 7.7,
-   "publicado": "2026-11-22T13:43-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "mercado",
-    "economia"
-   ],
-   "forca": 25.7,
-   "porque": "vídeo do Jovem Pan News com 4.667 views/h (7.7x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Preço da carne sobe 12% em um ano e faz consumo interno cair no Brasil | Aconteceu na Semana",
-   "url": "https://www.youtube.com/watch?v=lylfeKwYhXk",
-   "video_url": "https://www.youtube.com/watch?v=lylfeKwYhXk",
-   "canal": "Band Jornalismo",
-   "views_h": 3056,
-   "acima_mediana": 8.2,
-   "publicado": "2026-11-22T12:00-03:00",
+   "publicado": "2026-11-22T13:06-03:00",
    "veiculos": [],
    "qtd_veiculos": 0,
    "temas": [
@@ -2163,40 +2106,7 @@
     "economia"
    ],
    "forca": 25.5,
-   "porque": "vídeo do Band Jornalismo com 3.056 views/h (8.2x o normal do canal); nenhum veículo deu ainda"
-  },
-  {
-   "tipo": "pauta",
-   "titulo": "Maus-tratos a animais crescem 15,54% em MG até setembro de 2026",
-   "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/maus-tratos-a-animais-crescem-1554-em-mg-ate-setembro-de-2026/",
-   "veiculos": [
-    "CNN Brasil"
-   ],
-   "qtd_veiculos": 1,
-   "primeira_vez": "2026-11-22T16:38-03:00",
-   "temas": [
-    "politica"
-   ],
-   "forca": 25.0,
-   "porque": "só 1 veículo (CNN Brasil); apareceu às 16h38"
-  },
-  {
-   "tipo": "video",
-   "titulo": "Copom alerta para impacto do El Niño na inflação e na conta de luz",
-   "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
-   "video_url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
-   "canal": "Jovem Pan News",
-   "views_h": 4429,
-   "acima_mediana": 7.3,
-   "publicado": "2026-11-22T09:43-03:00",
-   "veiculos": [],
-   "qtd_veiculos": 0,
-   "temas": [
-    "mercado",
-    "economia"
-   ],
-   "forca": 24.8,
-   "porque": "vídeo do Jovem Pan News com 4.429 views/h (7.3x o normal do canal); nenhum veículo deu ainda"
+   "porque": "vídeo do Jovem Pan News com 4.250 views/h (7.7x o normal do canal); nenhum veículo deu ainda"
   }
  ],
  "fontes_ok": 64,
