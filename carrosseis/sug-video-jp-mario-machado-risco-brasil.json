@@ -1,0 +1,95 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Dólar: investidor pergunta se ==“vale a pena”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (11h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T11:30:00-03:00",
+  "id": "sug-video-jp-mario-machado-risco-brasil",
+  "carrossel_id": "sug-video-jp-mario-machado-risco-brasil",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-jp-mario-machado-risco-brasil",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "noticia_grande": false,
+  "titulo": "Mário Machado: com juro alto nos EUA, investidor pergunta se vale arriscar no Brasil",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Mário Machado (InvestSmart) na Jovem Pan",
+  "fato_em": "2026-11-21T17:00:00-03:00",
+  "vence_em": "2026-11-24T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=LUj8n3jVeac",
+  "trecho_txt": "Jovem Pan News (21/11/2026): Mário Machado, especialista da InvestSmart, ao vivo, de 0:45 a 1:51.",
+  "motivo": "Fala forte de ontem ainda não cortada (fonte 3): por que o dólar sobe na semana do ajuste. O vídeo longo dele teve 69 mil views na JP; o radar das 8h20 já apontava.",
+  "para_quem": "quem viu o dólar subir na semana e não entendeu o porquê",
+  "diferenciacao": "a legenda põe o número que ele não diz: Selic hoje em 13,75% e o mercado já precificando 15,50% em 2027 (Valor), e o que isso faz com o seu dinheiro",
+  "opiniao_sugerida": "A frase final da legenda (prêmio que sobe o dólar e o juro do financiamento) é explicação nossa.",
+  "trecho": {
+    "inicio": "São basicamente",
+    "fim": "seguro junto aos Estados Unidos",
+    "aspa_manchete": "vale a pena",
+    "gancho": "a dúvida que os investidores aqui têm é se vale a pena fazer o investimento no Brasil",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "São basicamente",
+        "texto": "Por que o dólar subiu na semana do ajuste fiscal"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "São basicamente duas questões, segurança Brasil e a pertinência dos investimentos nos Estados Unidos. com juro dos Estados Unidos mais alto, sendo um país considerado primeira linha ou o melhor que que se existiria, a tendência com que o juro lá torne a o investimento lá mais atrativo e seguro. enquanto que no Brasil existe uma uma dúvida muito grande sobre a capacidade de execução do do governo para organizar um endividamento para o ano que vem e conseguir ter eh superavit, né? Então o ponto é que investir no Brasil existe um prêmio de risco muito grande para com que vale a pena o risco desse investimento. O que que isso quer dizer? Mesmo com o juro subindo para 15, a dúvida que os investidores aqui têm é se vale a pena fazer o investimento no Brasil nas taxas que se tem, dado que com pouco risco, teoricamente pouco risco, se pode ter um retorno muito eh seguro junto aos Estados Unidos."
+  },
+  "legenda": "Mesmo com o juro indo pra 15%, o investidor ainda pergunta se vale a pena ficar no Brasil.\n\nFoi o que o Mário Machado, da InvestSmart, explicou na Jovem Pan sobre a semana do dólar.\n\nA Selic hoje é 13,75%. O mercado já precifica 15,50% em 2027 (Valor). Mesmo assim o dinheiro sai, porque nos Estados Unidos o juro também está alto e o risco é quase zero.\n\nA dúvida, segundo ele, é se o governo consegue fechar as contas do ano que vem. Enquanto isso não fica claro, o investidor cobra mais pra ficar aqui. É esse prêmio que sobe o dólar e o juro do seu financiamento.\n\nVídeo: Jovem Pan News (21/11/2026).\n\n#dolar #juros #ajustefiscal #investimentos",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News: Lula desafia mercado, dólar dispara e bolsa em queda; Mário Machado analisa (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=LUj8n3jVeac"
+    },
+    {
+      "titulo": "Valor Econômico: Mercado precifica possibilidade de alta de juros em dezembro e Selic de 15,50% em 2027",
+      "url": "https://news.google.com/rss/search?q=Selic+15%25+Copom"
+    },
+    {
+      "titulo": "Agência Brasil: Copom mantém Selic em 13,75% ao ano",
+      "url": "https://news.google.com/rss/search?q=Selic+13%2C75"
+    }
+  ],
+  "publicado_em": "2026-11-22T11:45:00-03:00",
+  "atualizado": "2026-11-22T11:45",
+  "video_final_id": "a5421afa82e349df6ff264570230ab62",
+  "capa_id": "ed7acb12a9047e14fab1b7115836a434",
+  "arquivo": "sug-video-jp-mario-machado-risco-brasil-tela-cheia.mp4",
+  "nota_corte": "Jovem Pan News (21/11/2026), Mário Machado (InvestSmart) ao vivo, de 0:45 a 1:51 do vídeo deitado (o Short da JP tinha título e tarja gravados por cima; troquei pela versão deitada); começa em “São basicamente”, fim no ponto final “seguro junto aos Estados Unidos”; gancho “a dúvida que os investidores aqui têm é se vale a pena”; bate 80%; 1,1x, 68,6 s; fonte 720p. conferir_video: 1 ESTALO de 21 dB, 2 pausas curtas e REPETIÇÃO de “vale a pena” (é o gancho e depois a fala inteira). auditar_cortes 0 (manchete trocada para a aspa literal “vale a pena”)."
+}

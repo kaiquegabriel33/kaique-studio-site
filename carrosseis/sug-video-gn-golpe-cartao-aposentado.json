@@ -83,5 +83,24 @@
   "video_final_id": "b3aadfd4d3aadc89d33ca78b29188f12",
   "capa_id": "fb3e0f80d83f7f746b6fbbb168c83791",
   "arquivo": "sug-video-gn-golpe-cartao-aposentado-tela-cheia.mp4",
-  "nota_corte": "Jornal GloboNews (21/11/2026), reportagem do golpe do falso atendimento, de 0:00 a 1:13 (começa em “Aos 89 anos”, fim no ponto final “não foi o caso do seu Silvestre”); gancho “trocou o cartão do aposentado e ele levou um prejuízo de quase R$ 17 mil”; 1,1x, 73,5 s, 1080p. O montar mede 40% de batida com a fala, mas a transcrição confere inteira (a diferença é a fala do seu Silvestre, que o Whisper escreve diferente). conferir_video: FALANTE nos trechos de narração sobre a câmera de segurança (sem rosto, é a reportagem); REPETIÇÃO em 0:39 é o seu Silvestre repetindo “esse cartão não” (fala real, não tomada); FAIXA escura no alto é o padrão --topo escura. auditar_cortes 0."
+  "nota_corte": "Jornal GloboNews (21/11/2026), reportagem do golpe do falso atendimento, de 0:00 a 1:13 (começa em “Aos 89 anos”, fim no ponto final “não foi o caso do seu Silvestre”); gancho “trocou o cartão do aposentado e ele levou um prejuízo de quase R$ 17 mil”; 1,1x, 73,5 s, 1080p. O montar mede 40% de batida com a fala, mas a transcrição confere inteira (a diferença é a fala do seu Silvestre, que o Whisper escreve diferente). conferir_video: FALANTE nos trechos de narração sobre a câmera de segurança (sem rosto, é a reportagem); REPETIÇÃO em 0:39 é o seu Silvestre repetindo “esse cartão não” (fala real, não tomada); FAIXA escura no alto é o padrão --topo escura. auditar_cortes 0.",
+  "agendado_metricool": {
+    "id": 437624848,
+    "uuid": "689019103328028508",
+    "para": "2026-11-22T13:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-22T11:46:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 437624938,
+    "uuid": "7643105293614272051",
+    "para": "2026-11-22T14:50:00",
+    "tipo": "tiktok",
+    "em": "2026-11-22T11:46:00-03:00",
+    "isAigc": false
+  },
+  "nota_lote": "AGENDADO 22/11 11:45 (rotina Reels de teste 22/11 11h20): IG 22/11 13:20 (Reel de teste), TikTok 14:50; corte puro 1,1x, 73,5 s; auditar_cortes 0. Sem Short (teste de Short de corte já tem 3 hoje). Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-22T11:46:00-03:00"
 }

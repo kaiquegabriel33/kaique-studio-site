@@ -1,0 +1,95 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "El Niño: ==arroz, café e luz== mais caros",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (11h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T11:30:00-03:00",
+  "id": "sug-video-jp-copom-el-nino-conta-luz",
+  "carrossel_id": "sug-video-jp-copom-el-nino-conta-luz",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-jp-copom-el-nino-conta-luz",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "noticia_grande": false,
+  "titulo": "El Niño entra na conta do Copom: arroz, café, carne e luz mais caros em 2027",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Jovem Pan (reportagem; Felipe Serigati, FGV Agro)",
+  "fato_em": "2026-11-22T09:00:00-03:00",
+  "vence_em": "2026-11-26T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ",
+  "trecho_txt": "Jovem Pan News (22/11/2026): reportagem sobre o El Niño na ata do Copom, de 0:26 a 1:33.",
+  "motivo": "Notícia de bolso com vídeo: a ata do Copom pôs o El Niño entre os riscos da inflação de 2027 (Terra, Estadão, InfoMoney); a reportagem lista arroz, café, açúcar, carne e energia e o professor da FGV diz quando pesa.",
+  "para_quem": "quem faz mercado e paga conta de luz",
+  "diferenciacao": "a legenda traduz o “quando”: não é na compra de hoje, é a partir do começo de 2027, e por que a seca no Norte encarece a luz de todo mundo (menos hidrelétrica, mais térmica)",
+  "opiniao_sugerida": "A frase sobre se preparar antes de janeiro é leitura nossa.",
+  "trecho": {
+    "inicio": "O próprio Banco Central",
+    "fim": "lá em 2027",
+    "aspa_manchete": "aumento no preço de produtos como arroz, café, açúcar e carne",
+    "gancho": "pode haver um aumento no preço de produtos como arroz, café, açúcar e carne",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "O próprio Banco Central",
+        "texto": "Ata do Copom põe o El Niño entre os riscos da inflação de 2027"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "O próprio Banco Central, na última ata do COPOM, classificou o fenômeno como um dos riscos para a inflação de 2027. O fenômeno climático pode pressionar commodities agrícolas e encarecer a energia elétrica. Analistas falam que para os primeiros meses do ano que vem pode haver um aumento no preço de produtos como arroz, café, açúcar e carne. O Elninho tem efeitos diferentes nas regiões do país. Enquanto provoca estiagem no norte, o sul tende a ter um volume de chuva maior. O professor e pesquisador do FGV Agro, Felipe Serigate, ressalta que o possível impacto nos preços não é projetado para agora. pensando em quando esse impacto pode ser sentido, em geral, não é agora, tá? Então, pensando na safra brasileira, no momento que a gente conversa, a gente tá muito mais no período de plantil da nossa safra de verão. Se for haver, então, o produto que hoje tá no mercado foi um produto que foi plantado ao longo do ano de 2025, plantado e colhida ao longo do ano de 2026, tá? Ou seja, eh, é o impacto mais forte. Se vier, na intensidade que vier, a gente deve sentir isso muito mais forte lá em 2027."
+  },
+  "legenda": "Arroz, café, açúcar, carne e conta de luz. O Banco Central pôs o El Niño na lista do que pode subir a inflação de 2027.\n\nTá na última ata do Copom. A seca no Norte derruba a colheita e enche menos as hidrelétricas; aí liga térmica, que é energia mais cara, e a conta chega na luz de todo mundo.\n\nO professor da FGV Agro explica o “quando”: o arroz de hoje já foi plantado e colhido. O peso vem com a safra que está sendo plantada agora, nos primeiros meses de 2027.\n\nQuer dizer que dá tempo de se mexer: reserva pra janeiro e olho na bandeira da conta de luz.\n\nVídeo: Jovem Pan News (22/11/2026). Ata do Copom citada por Terra, Estadão e InfoMoney.\n\n#elnino #inflacao #contadeluz #copom",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News: Copom alerta para impacto do El Niño na inflação e na conta de luz (22/11/2026)",
+      "url": "https://www.youtube.com/watch?v=Gt2PgFnNmNQ"
+    },
+    {
+      "titulo": "Terra: BC vê choques do petróleo, El Niño, fim da escala 6x1 e câmbio pressionando a inflação (16/11/2026)",
+      "url": "https://news.google.com/rss/search?q=El+Ni%C3%B1o+Copom+infla%C3%A7%C3%A3o"
+    },
+    {
+      "titulo": "Estadão: Inflação: efeitos do El Niño nos preços devem se intensificar em 2027 (17/11/2026)",
+      "url": "https://news.google.com/rss/search?q=El+Ni%C3%B1o+conta+de+luz+2027"
+    }
+  ],
+  "publicado_em": "2026-11-22T11:45:00-03:00",
+  "atualizado": "2026-11-22T11:45",
+  "video_final_id": "2c798a170b459c1d9201a9b1d42e6d52",
+  "capa_id": "f7d6a094f9a1cb61892769bb1a1eefdd",
+  "arquivo": "sug-video-jp-copom-el-nino-conta-luz-tela-cheia.mp4",
+  "nota_corte": "Jovem Pan News (22/11/2026), reportagem sobre o El Niño na ata do Copom, de 0:26 a 1:33 (começa em “O próprio Banco Central”, fim no ponto final “lá em 2027”); gancho “pode haver um aumento no preço de produtos como arroz, café, açúcar e carne”; bate 96% com a fala; 1,1x, 71,8 s. Fonte em 720p (a JP não tem 1080p deste vídeo). conferir_video: FALANTE nas imagens de mercado sob a narração (sem rosto, é a reportagem); ESTALOS de 19–22 dB dentro da narração contínua (sem emenda ali; é o som da fonte); FAIXA escura no alto é o padrão. auditar_cortes 0."
+}
