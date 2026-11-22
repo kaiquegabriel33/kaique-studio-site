@@ -1,0 +1,82 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Dívida pública: ==118% do PIB em 2034==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 21/11 (14h20, disparou 22/11 00:06, modo enxuto)",
+  "status": "pronto",
+  "criado": "2026-11-22T00:30:00-03:00",
+  "id": "sug-video-cnn-btg-divida-118",
+  "carrossel_id": "sug-video-cnn-btg-divida-118",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-btg-divida-118",
+  "titulo": "CNN: com o plano Moretti, a dívida chega a 118% do PIB em 2034, nas contas do BTG",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Lucinda Pinto (CNN Brasil)",
+  "fato_em": "2026-11-21T20:00:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=SR1oaJnRLmc",
+  "trecho_txt": "CNN Brasil, CNN Agora (21/11/2026): a analista Lucinda Pinto sobre o relatório do BTG, de 2:47 a 3:51.",
+  "motivo": "Número que quase ninguém deu: nas contas do BTG (Tiago Berriel), com o plano Moretti como está a dívida vai a 118% do PIB em 2034, sem ele a 121%, com ajuste de verdade a 96%. Bolso: dívida maior = juro alto por mais tempo.",
+  "promessa": "a dívida em relação ao PIB vai atingir o patamar de 118% em 2034",
+  "paga_em": "121% em 2034 sem o plano",
+  "para_quem": "quem paga juro em financiamento e cartão e ouve falar do ajuste sem saber o tamanho do buraco",
+  "diferenciacao": "a legenda põe os três números do BTG lado a lado, faz a conta da diferença (dita como conta nossa) e liga a dívida ao juro da parcela",
+  "opiniao_sugerida": "A diferença de 3 pontos é conta nossa sobre os números do BTG; a ligação dívida e juro na parcela é leitura nossa.",
+  "trecho": {
+    "inicio": "esse plano Moret",
+    "fim": "121% em 2034",
+    "aspa_manchete": "118% em 2034",
+    "gancho": "a dívida em relação ao PIB vai atingir o patamar de 118% em 2034",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "esse plano",
+        "texto": "Lucinda Pinto, analista de economia da CNN, sobre relatório do BTG, 21/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "“A dívida em relação ao PIB vai atingir o patamar de 118% em 2034.”\n\nÉ a conta do BTG Pactual, num relatório do economista-chefe Tiago Berriel, ex-diretor do Banco Central, explicada pela analista Lucinda Pinto na CNN. Com o plano Moretti aprovado como está: 118%. Sem nem ele: 121%. Com um ajuste de verdade, mexendo em gasto que hoje sobe sozinho: 96%.\n\nFazendo a conta com os números do BTG: o pacote que rachou a base do governo segura 3 pontos de dívida em oito anos.\n\nE dívida que cresce vira juro alto por mais tempo. Juro alto aparece na parcela do carro e no financiamento da casa.\n\nVídeo: CNN Brasil, CNN Agora (21/11/2026).\n\n#divida #ajustefiscal #economia #juros",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil: Falta de pressa de Lula faz preço do dólar subir; veja análise, CNN Agora (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=SR1oaJnRLmc"
+    },
+    {
+      "titulo": "Jovem Pan News: Lula desafia mercado, dólar dispara e bolsa em queda; Mário Machado analisa (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=LUj8n3jVeac"
+    }
+  ],
+  "atualizado": "2026-11-22T03:32"
+}

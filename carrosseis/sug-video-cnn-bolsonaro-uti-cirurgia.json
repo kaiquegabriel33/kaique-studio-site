@@ -1,0 +1,85 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Bolsonaro na UTI: ==cirurgia não está descartada==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 21/11 (14h20, disparou 22/11 00:06, modo enxuto)",
+  "status": "pronto",
+  "criado": "2026-11-22T00:30:00-03:00",
+  "id": "sug-video-cnn-bolsonaro-uti-cirurgia",
+  "carrossel_id": "sug-video-cnn-bolsonaro-uti-cirurgia",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-bolsonaro-uti-cirurgia",
+  "titulo": "Bolsonaro na UTI: equipe médica não descarta cirurgia, diz repórter da CNN no hospital",
+  "forca": "alta",
+  "prioridade": 1,
+  "politico": "Danilo Moliterno (CNN Brasil) sobre Jair Bolsonaro",
+  "fato_em": "2026-11-21T15:00:00-03:00",
+  "vence_em": "2026-11-22T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=tMOGZlwJkvo",
+  "trecho_txt": "CNN Brasil, Boletim CNN (21/11/2026): o repórter Danilo Moliterno no hospital DF Star, de 2:34 a 3:40.",
+  "motivo": "Assunto mais visto da noite (CNN 43 mil views/h, Record 13 mil views/h no radar): Bolsonaro na UTI com abdômen agudo obstrutivo. O repórter diz que a equipe não descarta cirurgia e que Moraes autorizou visita dos filhos sem celular.",
+  "promessa": "a equipe médica não descarta a possibilidade de uma intervenção cirúrgica",
+  "paga_em": "visitas sem celular",
+  "para_quem": "quem quer saber como está Bolsonaro e o que muda com a internação",
+  "diferenciacao": "a legenda traduz o diagnóstico em linguagem simples e junta dois fatos que saíram separados (tornozeleira tirada na UTI, Poder360; visita só com autorização do Supremo)",
+  "trecho": {
+    "inicio": "Mais cedo conversei com dois médicos",
+    "fim": "as regras do hospital",
+    "aspa_manchete": "não descarta",
+    "gancho": "a equipe médica até esse momento não descarta a possibilidade de haver necessidade de uma intervenção cirúrgica",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Mais cedo conversei",
+        "texto": "Repórter Danilo Moliterno (CNN), no hospital DF Star, Brasília, 21/11"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "legenda": "“A equipe médica até esse momento não descarta a possibilidade de haver necessidade de uma intervenção cirúrgica.”\n\nÉ o repórter Danilo Moliterno, da CNN, na porta do hospital DF Star, em Brasília, ontem à tarde. Jair Bolsonaro está na UTI com abdômen agudo obstrutivo: aderências, uma espécie de cicatriz, bloqueiam partes do intestino. Pelo boletim, está estável, respira sem aparelho, segue em jejum, com sonda, e sem previsão de alta.\n\nNa UTI tiraram até a tornozeleira dele (Poder360). E a visita dos filhos no hospital precisou de autorização de Alexandre de Moraes: sem celular, sem nada que grave áudio ou vídeo.\n\nVídeo: CNN Brasil, Boletim CNN (21/11/2026).\n\n#bolsonaro #brasilia #noticias #politica",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil: Moraes autoriza visita de familiares a Jair Bolsonaro, Boletim CNN (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=tMOGZlwJkvo"
+    },
+    {
+      "titulo": "Poder360: Bolsonaro tem tornozeleira retirada durante internação na UTI (21/11/2026)",
+      "url": "https://www.poder360.com.br/poder-justica/bolsonaro-tem-tornozeleira-retirada-durante-internacao-na-uti/"
+    },
+    {
+      "titulo": "CNN Brasil: Abdômen agudo obstrutivo: entenda quadro que atinge Jair Bolsonaro (21/11/2026)",
+      "url": "https://www.cnnbrasil.com.br/saude/abdomen-agudo-obstrutivo-entenda-quadro-que-atinge-jair-bolsonaro/"
+    }
+  ],
+  "atualizado": "2026-11-22T03:32"
+}
