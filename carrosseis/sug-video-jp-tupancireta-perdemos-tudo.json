@@ -82,8 +82,8 @@
       "url": "https://news.google.com/rss/search?q=Tupanciret%C3%A3"
     }
   ],
-  "publicado_em": "2026-11-22T11:25:00-03:00",
-  "atualizado": "2026-11-22T11:25",
+  "publicado_em": "2026-11-22T10:55:00-03:00",
+  "atualizado": "2026-11-22T10:58",
   "video_final_id": "354344d0a2df7fa3d84def1c724d4561",
   "capa_id": "3a61c72f4e6cc5366652d9e326ab4a0c",
   "arquivo": "sug-video-jp-tupancireta-perdemos-tudo-tela-cheia.mp4",
@@ -91,5 +91,31 @@
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
   },
-  "nota_corte": "Jovem Pan News, reportagem de Pedro Trito em Tupanciretã, de 0:22 a 1:29 (começa em “O cenário em Tupanciretã é desolador”, fim no ponto final “estamos com vida”); gancho “Perdemos tudo”; bate 97% com a fala; 1,1x, 63 s. Fonte em 720p. conferir_video: PELE rosada em 0:11–0:43 é a pele queimada de sol do morador (não é HDR); ESTALO 0:48 é som do ambiente da reportagem; FAIXA quase preta no CTA (padrão); FALANTE sem medir (muita cena aérea e de escombros). auditar_cortes 0."
+  "nota_corte": "Jovem Pan News, reportagem de Pedro Trito em Tupanciretã, de 0:22 a 1:29 (começa em “O cenário em Tupanciretã é desolador”, fim no ponto final “estamos com vida”); gancho “Perdemos tudo”; bate 97% com a fala; 1,1x, 63 s. Fonte em 720p. conferir_video: PELE rosada em 0:11–0:43 é a pele queimada de sol do morador (não é HDR); ESTALO 0:48 é som do ambiente da reportagem; FAIXA quase preta no CTA (padrão); FALANTE sem medir (muita cena aérea e de escombros). auditar_cortes 0.",
+  "nota_lote": "AGENDADO 22/11 10:57 (rotina Reels de teste 22/11 8h20, disparou 10:39, modo enxuto): IG 22/11 13:00 (Reel de teste), TikTok 13:30, Short 14:00; corte puro 1,1x, 63 s; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-22T10:57:00-03:00",
+  "agendado_metricool": {
+    "id": 437586916,
+    "uuid": "-1395927156602156866",
+    "para": "2026-11-22T13:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-22T10:57:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 437586949,
+    "uuid": "4187712147442911890",
+    "para": "2026-11-22T13:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-22T10:57:00-03:00",
+    "isAigc": false
+  },
+  "agendado_youtube": {
+    "id": 437586995,
+    "uuid": "-7821107882325685194",
+    "para": "2026-11-22T14:00:00",
+    "tipo": "short",
+    "em": "2026-11-22T10:57:00-03:00"
+  }
 }

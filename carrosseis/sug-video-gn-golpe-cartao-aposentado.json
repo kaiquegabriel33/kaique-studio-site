@@ -1,0 +1,87 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Golpe no caixa: ==quase R$ 17 mil==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (11h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T11:30:00-03:00",
+  "id": "sug-video-gn-golpe-cartao-aposentado",
+  "carrossel_id": "sug-video-gn-golpe-cartao-aposentado",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-gn-golpe-cartao-aposentado",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "noticia_grande": false,
+  "titulo": "Golpe no caixa eletrônico: aposentado de 89 anos perde quase R$ 17 mil",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "GloboNews (reportagem do Jornal GloboNews sobre golpe do falso atendimento)",
+  "fato_em": "2026-11-21T11:00:00-03:00",
+  "vence_em": "2026-11-24T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=kVboB-GY7CE",
+  "trecho_txt": "Jornal GloboNews (21/11/2026): reportagem sobre o golpe do falso atendimento, de 0:00 a 1:13.",
+  "motivo": "Gente comum + bolso: seu Silvestre, 89 anos, aceita ajuda de um estranho no caixa eletrônico da farmácia, tem o cartão trocado e perde quase R$ 17 mil. Câmera de segurança mostra a troca. Serve de aviso que a pessoa manda pros pais.",
+  "para_quem": "quem tem pai, mãe ou avô que saca dinheiro sozinho no caixa",
+  "diferenciacao": "a legenda fecha com o que fazer na hora (o que a reportagem não lista) e com o que a Febraban disse sobre ressarcimento: depende do banco",
+  "opiniao_sugerida": "As dicas de segurança da legenda são orientação geral nossa, não fala da reportagem.",
+  "trecho": {
+    "inicio": "Aos 89 anos",
+    "fim": "caso do seu Silvestre",
+    "aspa_manchete": "prejuízo de quase R$ 17.000",
+    "gancho": "trocou o cartão do aposentado e ele levou um prejuízo de quase R$ 17.000",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Aos 89 anos",
+        "texto": "Golpe do falso atendimento no caixa eletrônico"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "Aos 89 anos, seu Silvestre tem uma rotina tranquila, vai ao mercado e à farmácia, onde costuma pegar um dinheirinho no caixa eletrônico. Foi numa dessas idas que ele caiu num golpe. O cartão dele não funcionou e, de repente, uma pessoa apareceu para ajudá-lo, como dá para ver nessas imagens da câmera de segurança. O homem que disse estar ali para ajudar trocou o cartão do aposentado e ele levou um prejuízo de quase R$ 17.000. Aí eu peguei esse cartão, eu falei eu vou no supermercado para saber o que aconteceu com o cartão. Fui lá, não, seu cartão não tá funcionando, aí porque fui na Caixa Econômica. Fui lá, mas esse cartão não é seu, foi roubado então. Lá que eu fiquei sabendo. Seu Silvestre foi à delegacia e fez o boletim de ocorrência. Ele caiu no golpe conhecido como do falso atendimento. Não existe uma estatística específica sobre isso, mas os meios policiais dizem que é um tipo comum de estelionato. A Febraban, Federação Brasileira dos Bancos, informa que algumas instituições podem ressarcir o valor. Agora, a política de cada banco varia, podendo ou não devolver o dinheiro. Mas esse não foi o caso do seu Silvestre."
+  },
+  "legenda": "Um estranho “ajudou” no caixa eletrônico. Trocou o cartão, viu a senha e levou quase R$ 17 mil de um aposentado de 89 anos.\n\nO seu Silvestre só descobriu no banco: “esse cartão não é seu”. É o golpe do falso atendimento. A Febraban diz que alguns bancos podem devolver o dinheiro, mas a regra muda de banco pra banco. Ele não recebeu de volta.\n\nO cartão travou no caixa? Não aceita ajuda de ninguém. Liga pro número que está atrás do cartão e bloqueia ali mesmo. Senha se digita com a mão por cima, sempre.\n\nManda pra quem saca dinheiro sozinho na sua família.\n\nVídeo: Jornal GloboNews (21/11/2026).\n\n#golpe #aposentado #seguranca #dinheiro",
+  "fontes": [
+    {
+      "titulo": "GloboNews: Homem troca cartão de aposentado em caixa eletrônico | Jornal GloboNews (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=kVboB-GY7CE"
+    }
+  ],
+  "publicado_em": "2026-11-22T11:45:00-03:00",
+  "atualizado": "2026-11-22T11:45",
+  "video_final_id": "b3aadfd4d3aadc89d33ca78b29188f12",
+  "capa_id": "fb3e0f80d83f7f746b6fbbb168c83791",
+  "arquivo": "sug-video-gn-golpe-cartao-aposentado-tela-cheia.mp4",
+  "nota_corte": "Jornal GloboNews (21/11/2026), reportagem do golpe do falso atendimento, de 0:00 a 1:13 (começa em “Aos 89 anos”, fim no ponto final “não foi o caso do seu Silvestre”); gancho “trocou o cartão do aposentado e ele levou um prejuízo de quase R$ 17 mil”; 1,1x, 73,5 s, 1080p. O montar mede 40% de batida com a fala, mas a transcrição confere inteira (a diferença é a fala do seu Silvestre, que o Whisper escreve diferente). conferir_video: FALANTE nos trechos de narração sobre a câmera de segurança (sem rosto, é a reportagem); REPETIÇÃO em 0:39 é o seu Silvestre repetindo “esse cartão não” (fala real, não tomada); FAIXA escura no alto é o padrão --topo escura. auditar_cortes 0."
+}
