@@ -33,7 +33,7 @@
     }
   ],
   "sugerido_por": "rotina Reels de teste 21/11 (14h20, disparou 22/11 00:06, modo enxuto)",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-11-22T00:30:00-03:00",
   "id": "sug-video-cnn-bolsonaro-uti-cirurgia",
   "carrossel_id": "sug-video-cnn-bolsonaro-uti-cirurgia",
@@ -66,7 +66,7 @@
     "cta": true,
     "encher": false
   },
-  "legenda": "“A equipe médica até esse momento não descarta a possibilidade de haver necessidade de uma intervenção cirúrgica.”\n\nÉ o repórter Danilo Moliterno, da CNN, na porta do hospital DF Star, em Brasília, ontem à tarde. Jair Bolsonaro está na UTI com abdômen agudo obstrutivo: aderências, uma espécie de cicatriz, bloqueiam partes do intestino. Pelo boletim, está estável, respira sem aparelho, segue em jejum, com sonda, e sem previsão de alta.\n\nNa UTI tiraram até a tornozeleira dele (Poder360). E a visita dos filhos no hospital precisou de autorização de Alexandre de Moraes: sem celular, sem nada que grave áudio ou vídeo.\n\nVídeo: CNN Brasil, Boletim CNN (21/11/2026).\n\n#bolsonaro #brasilia #noticias #politica",
+  "legenda": "“A equipe médica até esse momento não descarta a possibilidade de haver necessidade de uma intervenção cirúrgica.”\n\nÉ o repórter Danilo Moliterno, da CNN, na porta do hospital DF Star, em Brasília, no sábado (21/11) à tarde. Jair Bolsonaro está na UTI com abdômen agudo obstrutivo: aderências, uma espécie de cicatriz, bloqueiam partes do intestino. Pelo boletim, está estável, respira sem aparelho, segue em jejum, com sonda, e sem previsão de alta.\n\nNa UTI tiraram até a tornozeleira dele (Poder360). E a visita dos filhos no hospital precisou de autorização de Alexandre de Moraes: sem celular, sem nada que grave áudio ou vídeo.\n\nVídeo: CNN Brasil, Boletim CNN (21/11/2026).\n\n#bolsonaro #brasilia #noticias #politica",
   "fontes": [
     {
       "titulo": "CNN Brasil: Moraes autoriza visita de familiares a Jair Bolsonaro, Boletim CNN (21/11/2026)",
@@ -81,5 +81,36 @@
       "url": "https://www.cnnbrasil.com.br/saude/abdomen-agudo-obstrutivo-entenda-quadro-que-atinge-jair-bolsonaro/"
     }
   ],
-  "atualizado": "2026-11-22T03:32"
+  "atualizado": "2026-11-22T03:32",
+  "video_final_id": "d1ff27a7d9c863cd8fbbcca5b17de56e",
+  "capa_id": "28b0b47bdcd026500db7683fa92aeccf",
+  "arquivo": "sug-video-cnn-bolsonaro-uti-cirurgia-tela-cheia.mp4",
+  "nota_corte": "Boletim CNN, repórter Danilo Moliterno no DF Star, de 2:34 a 3:40 (começa em “Mais cedo conversei com dois médicos”, fim no ponto final “as regras do hospital”); gancho “a equipe médica até esse momento não descarta a possibilidade de haver necessidade de uma intervenção cirúrgica”; 1,1x, 71 s (encurtado para caber nos 75 s; o “sem celular” ficou na legenda). conferir_video: estalos leves (só aviso) e faixa escura no CTA; nada a corrigir.",
+  "publicado_em": "2026-11-22T01:20:00-03:00",
+  "nota_lote": "AGENDADO 22/11 00:40 (rotina Reels de teste 21/11 14h20, disparou 22/11 00:06, modo enxuto): IG 22/11 09:40 (Reel de teste), Short 10:40, TikTok 10:50; corte puro 1,1x, 71 s; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-22T00:40:00-03:00",
+  "agendado_metricool": {
+    "id": 437314840,
+    "uuid": "-3158794936914196596",
+    "para": "2026-11-22T09:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-22T00:40:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 437315007,
+    "uuid": "2031649101261258839",
+    "para": "2026-11-22T10:50:00",
+    "tipo": "tiktok",
+    "em": "2026-11-22T00:40:00-03:00",
+    "isAigc": false
+  },
+  "agendado_youtube": {
+    "id": 437315148,
+    "uuid": "5783939425176208550",
+    "para": "2026-11-22T10:40:00",
+    "tipo": "short",
+    "em": "2026-11-22T00:40:00-03:00"
+  }
 }

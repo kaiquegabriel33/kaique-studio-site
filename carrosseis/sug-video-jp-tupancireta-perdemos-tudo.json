@@ -1,0 +1,95 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "noticia_grande": true,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Temporal no RS: ==“perdemos tudo”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (8h20, disparou 10:39, modo enxuto)",
+  "status": "publicado",
+  "criado": "2026-11-22T11:00:00-03:00",
+  "id": "sug-video-jp-tupancireta-perdemos-tudo",
+  "carrossel_id": "sug-video-jp-tupancireta-perdemos-tudo",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-jp-tupancireta-perdemos-tudo",
+  "titulo": "Tupanciretã (RS) depois do temporal: “perdemos tudo”",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Jovem Pan (repórter Pedro Trito) em Tupanciretã",
+  "fato_em": "2026-11-21T18:00:00-03:00",
+  "vence_em": "2026-11-23T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=N7xR0V47txE",
+  "trecho_txt": "Jovem Pan News (22/11/2026): reportagem de Pedro Trito em Tupanciretã, de 0:22 a 1:29.",
+  "motivo": "Gente comum afetada + cena: a cidade gaúcha destelhada pelo temporal, moradora contando como a parede caiu em cima do parente, morador que perdeu tudo. 5 mortos (Defesa Civil RS; CNN, G1, GZH), 265 feridos, calamidade reconhecida pelo governo federal. Fonte em 720p (Jovem Pan não tem 1080p deste vídeo).",
+  "para_quem": "quem viu as enchentes de 2024 e sabe o que é recomeçar do zero",
+  "diferenciacao": "a legenda junta o balanço oficial (5 mortos, 265 feridos, 8 mil casas destelhadas) com o que muda no bolso de quem perdeu tudo: os R$ 2.500 do Volta por Cima, quando caem e para quem",
+  "opiniao_sugerida": "A frase final sobre recomeçar sem seguro é leitura nossa, não fala de ninguém do vídeo.",
+  "trecho": {
+    "inicio": "O cenário em Tup",
+    "fim": "temos com vida",
+    "aspa_manchete": "Perdemos tudo",
+    "gancho": "Perdemos tudo",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "O cenário",
+        "texto": "Tupanciretã (RS), depois do temporal de sexta (20/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "O cenário em Tupanciretã é desolador. Em todos os locais, a destruição depois do temporal com ventos de mais de 100 km/h. Aproximadamente 5 mil residências foram destelhadas. O vendaval afetou o município inteiro, provocando queda de árvores, bloqueios em diversas vias, danos à rede elétrica e a prédios públicos. No meio do que sobrou da casa destruída, a Franciele se espanta ao relembrar da tragédia. Quando vi, começou a desabar tudo. Começou a desabar tudo, daí caiu essa porta. Tinha uma parede aqui, caiu em cima dele e nós puxamos. Daí veio meu genro, puxou ela, puxou ela lá para fora. Vendo o lugar onde morava, devastado, o seu Ito agradece por ninguém da família ter se ferido. Perdemos tudo. Olha o estado que tá a casa. Graças a Deus, estamos bem. Ninguém tá machucado, estamos com vida."
+  },
+  "legenda": "“Perdemos tudo. Olha o estado que tá a casa.”\n\nÉ Tupanciretã, no interior do Rio Grande do Sul, depois do temporal da madrugada de sexta (20/11), com vento de mais de 100 km/h. Pelo último balanço da Defesa Civil gaúcha: 5 mortos, 265 feridos, 38 municípios com estragos e cerca de 8 mil casas destelhadas no estado. O governo federal reconheceu a calamidade pública na cidade.\n\nO governador Eduardo Leite anunciou R$ 5 milhões para obras emergenciais e R$ 2.500 do programa Volta por Cima para cerca de 2 mil famílias de baixa renda da cidade, no cartão do programa, em até 10 dias.\n\nR$ 2.500 não paga um telhado. Quem perde a casa sem seguro recomeça devendo.\n\nVídeo: Jovem Pan News (22/11/2026).\n\n#riograndedosul #tupancireta #temporal #noticias",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News: Sobe para cinco o número de mortes após chuvas em Tupanciretã (22/11/2026)",
+      "url": "https://www.youtube.com/watch?v=N7xR0V47txE"
+    },
+    {
+      "titulo": "CNN Brasil: Sobe para 5 número de mortos em Tupanciretã (RS); 265 ficaram feridos (21/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Tupanciret%C3%A3"
+    },
+    {
+      "titulo": "GOV.BR: Governo Federal reconhece estado de calamidade em Tupanciretã (RS) (22/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Tupanciret%C3%A3"
+    }
+  ],
+  "publicado_em": "2026-11-22T11:25:00-03:00",
+  "atualizado": "2026-11-22T11:25",
+  "video_final_id": "354344d0a2df7fa3d84def1c724d4561",
+  "capa_id": "3a61c72f4e6cc5366652d9e326ab4a0c",
+  "arquivo": "sug-video-jp-tupancireta-perdemos-tudo-tela-cheia.mp4",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "nota_corte": "Jovem Pan News, reportagem de Pedro Trito em Tupanciretã, de 0:22 a 1:29 (começa em “O cenário em Tupanciretã é desolador”, fim no ponto final “estamos com vida”); gancho “Perdemos tudo”; bate 97% com a fala; 1,1x, 63 s. Fonte em 720p. conferir_video: PELE rosada em 0:11–0:43 é a pele queimada de sol do morador (não é HDR); ESTALO 0:48 é som do ambiente da reportagem; FAIXA quase preta no CTA (padrão); FALANTE sem medir (muita cena aérea e de escombros). auditar_cortes 0."
+}

@@ -33,7 +33,7 @@
     }
   ],
   "sugerido_por": "rotina Reels de teste 21/11 (14h20, disparou 22/11 00:06, modo enxuto)",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-11-22T00:30:00-03:00",
   "id": "sug-video-cnn-btg-divida-118",
   "carrossel_id": "sug-video-cnn-btg-divida-118",
@@ -78,5 +78,29 @@
       "url": "https://www.youtube.com/watch?v=LUj8n3jVeac"
     }
   ],
-  "atualizado": "2026-11-22T03:32"
+  "atualizado": "2026-11-22T03:32",
+  "video_final_id": "3ebccff9dcffc52bcbbd2dda446d1b99",
+  "capa_id": "51982faef8b06bf6aeaa6e2c69e1e53b",
+  "arquivo": "sug-video-cnn-btg-divida-118-tela-cheia.mp4",
+  "nota_corte": "CNN Agora, Lucinda Pinto, de 2:47 a 3:51 (começa em “Uma coisa importante é que esse plano Moretti”, fim no ponto final “121% em 2034”); gancho “a dívida em relação ao PIB vai atingir o patamar de 118% em 2034”; 1,1x, 67 s. conferir_video: FALANTE sem rosto de 0:24 a 1:05 é a arte da CNN com os números do BTG em tela (voz dela por cima), e a tela cheia corta as bordas da arte; faixa escura no CTA; aceito assim no modo enxuto.",
+  "publicado_em": "2026-11-22T01:20:00-03:00",
+  "nota_lote": "AGENDADO 22/11 00:40 (rotina Reels de teste 21/11 14h20, disparou 22/11 00:06, modo enxuto): IG 22/11 10:20 (Reel de teste), TikTok 12:10; corte puro 1,1x, 67 s; auditar_cortes 0 (a arte da CNN fica cortada nas bordas na tela cheia, ver nota_corte). Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-22T00:40:00-03:00",
+  "agendado_metricool": {
+    "id": 437314860,
+    "uuid": "-4386927788469434192",
+    "para": "2026-11-22T10:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-22T00:40:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 437315087,
+    "uuid": "-4620840446966020004",
+    "para": "2026-11-22T12:10:00",
+    "tipo": "tiktok",
+    "em": "2026-11-22T00:40:00-03:00",
+    "isAigc": false
+  }
 }

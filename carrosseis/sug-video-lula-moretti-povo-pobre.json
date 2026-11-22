@@ -33,7 +33,7 @@
     }
   ],
   "sugerido_por": "rotina Reels de teste 21/11 (14h20, disparou 22/11 00:06, modo enxuto)",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-11-22T00:30:00-03:00",
   "id": "sug-video-lula-moretti-povo-pobre",
   "carrossel_id": "sug-video-lula-moretti-povo-pobre",
@@ -68,7 +68,7 @@
     "encher": false,
     "girar": "nao"
   },
-  "legenda": "“Ele jamais, jamais iria me propor cortar um centavo do povo pobre.”\n\nLula, ontem, na live com o deputado André Janones, respondendo a companheiros de partido que criticaram o ajuste fiscal do ministro do Planejamento, Bruno Moretti. O pacote já passou no Senado e a Câmara analisa nesta semana.\n\nO curioso é de onde vem a pancada. O mercado diz que o plano é pouco. Parte da base do governo diz que é demais. E o presidente defende o ministro dos dois lados ao mesmo tempo.\n\nAjuste que desagrada todo mundo às vezes é sinal de que está no meio. Às vezes é sinal de que não resolve nada.\n\nVídeo: Estadão (21/11/2026).\n\n#lula #ajustefiscal #economia #politica",
+  "legenda": "“Ele jamais, jamais iria me propor cortar um centavo do povo pobre.”\n\nLula, no sábado (21/11), na live com o deputado André Janones, respondendo a companheiros de partido que criticaram o ajuste fiscal do ministro do Planejamento, Bruno Moretti. O pacote já passou no Senado e a Câmara analisa nesta semana.\n\nO curioso é de onde vem a pancada. O mercado diz que o plano é pouco. Parte da base do governo diz que é demais. E o presidente defende o ministro dos dois lados ao mesmo tempo.\n\nAjuste que desagrada todo mundo às vezes é sinal de que está no meio. Às vezes é sinal de que não resolve nada.\n\nVídeo: Estadão (21/11/2026).\n\n#lula #ajustefiscal #economia #politica",
   "fontes": [
     {
       "titulo": "Estadão: Lula diz que críticas de aliados a pacote de ajuste fiscal são injustas (21/11/2026)",
@@ -79,5 +79,36 @@
       "url": "https://www.youtube.com/watch?v=SR1oaJnRLmc"
     }
   ],
-  "atualizado": "2026-11-22T03:32"
+  "atualizado": "2026-11-22T03:32",
+  "video_final_id": "e3c7792d53d856ac34541215e3108903",
+  "capa_id": "0c5d82e2dc99c924242786888f874925",
+  "arquivo": "sug-video-lula-moretti-povo-pobre-tela-cheia.mp4",
+  "nota_corte": "Estadão, live de Lula com Janones, de 0:00 a 0:53 (começa em “quando você tem pressa”, fim no ponto final “para o Moretti e para o Brasil”); gancho “ele jamais, jamais iria me propor cortar um centavo do povo pobre”; 1,1x, 57 s. Vídeo em pé do Estadão (com a manchete deles no alto). conferir_video: pausas de 0,4–0,7 s e repetição aos 25 s vêm das emendas do próprio Estadão; faixa escura no CTA; nada a corrigir.",
+  "publicado_em": "2026-11-22T01:20:00-03:00",
+  "nota_lote": "AGENDADO 22/11 00:40 (rotina Reels de teste 21/11 14h20, disparou 22/11 00:06, modo enxuto): IG 22/11 09:00 (Reel de teste), TikTok 09:30, Short 10:00; corte puro 1,1x, 57 s; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-22T00:40:00-03:00",
+  "agendado_metricool": {
+    "id": 437314820,
+    "uuid": "-1043431993068204359",
+    "para": "2026-11-22T09:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-22T00:40:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 437314962,
+    "uuid": "1843230845728606614",
+    "para": "2026-11-22T09:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-22T00:40:00-03:00",
+    "isAigc": false
+  },
+  "agendado_youtube": {
+    "id": 437315117,
+    "uuid": "-2935340564047380109",
+    "para": "2026-11-22T10:00:00",
+    "tipo": "short",
+    "em": "2026-11-22T00:40:00-03:00"
+  }
 }
