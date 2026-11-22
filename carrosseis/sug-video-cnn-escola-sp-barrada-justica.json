@@ -1,0 +1,95 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Escola pública que dá certo: ==Justiça suspendeu==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (11h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T12:25:00-03:00",
+  "id": "sug-video-cnn-escola-sp-barrada-justica",
+  "carrossel_id": "sug-video-cnn-escola-sp-barrada-justica",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-escola-sp-barrada-justica",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "noticia_grande": false,
+  "titulo": "Escola pública e gratuita com nota acima da média: Justiça barra o modelo na periferia de SP",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "CNN Brasil (reportagem; pai de aluna do Liceu Coração de Jesus)",
+  "fato_em": "2026-11-21T22:00:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=tIQ84SadAhg",
+  "trecho_txt": "CNN Brasil, Destaques da Semana (21/11/2026): reportagem sobre o Liceu Coração de Jesus, de 0:00 a 1:10.",
+  "motivo": "Fato que um lado compartilha como voz dele: escola pública, gratuita, gerida por entidade sem fins lucrativos, com nota acima da média da rede; a prefeitura queria levar o modelo a 3 escolas novas da periferia e a Justiça suspendeu o edital. Confirmado em Gazeta do Povo, CBN e na própria reportagem (MP, Defensoria e sindicatos contra).",
+  "para_quem": "pai e mãe de escola pública da periferia",
+  "diferenciacao": "a legenda mostra os dois lados com o argumento de cada um (concurso público × 2.500 creches já geridas por entidades) e fecha com a ideia: o critério devia ser o quanto o aluno aprende",
+  "opiniao_sugerida": "A frase final (o critério devia ser o quanto o aluno aprende) é leitura nossa.",
+  "trecho": {
+    "inicio": "Uma escola pública e gratuita",
+    "fim": "ela não quer sair",
+    "aspa_manchete": "a justiça suspendeu o projeto",
+    "gancho": "A prefeitura queria levá-lo para a periferia da capital paulista, mas a justiça suspendeu o projeto",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Uma escola pública",
+        "texto": "Liceu Coração de Jesus, centro de São Paulo"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "Uma escola pública e gratuita, mas administrada por uma entidade sem fins lucrativos. No centro de São Paulo, esse modelo tem notas acima da média da rede municipal. A prefeitura queria levá-lo para a periferia da capital paulista, mas a justiça suspendeu o projeto. O repórter mostra como funciona o modelo e por que alunos mais pobres podem ficar sem essa chance. No centro de São Paulo, um colégio católico com mais de 100 anos de história ia fechar as portas em 2022. A prefeitura assumiu a escola, mas deixou a gestão com os salesianos, que já administravam o Liceu Coração de Jesus. Hoje, quase 600 alunos da rede municipal estudam ali, de graça. Na prova São Paulo, avaliação da própria prefeitura, a escola ficou acima da média da rede. O modelo da escola ela é perfeita, né? O que seria legal, interessante, era ampliar, mas assim, os professores são totalmente qualificados, a escola, a estrutura da escola é perfeita, as crianças elas amam aí. A minha filha ela tá desde do começo e ela não quer sair."
+  },
+  "legenda": "Escola pública, de graça, com nota acima da média da rede.\n\nA prefeitura de São Paulo queria levar o modelo pra periferia. A Justiça suspendeu.\n\nÉ o Liceu Coração de Jesus, no centro: quase 600 alunos da rede municipal, gestão dos salesianos, professores contratados pela entidade. A ideia era abrir 3 escolas novas assim em Parelheiros, na Pedreira e no Jaraguá, com meta de aprendizagem e dinheiro cortado se não cumprir.\n\nO Ministério Público, a Defensoria e sindicatos de professores dizem que a Constituição exige concurso e que isso é privatizar o ensino. Um desembargador suspendeu o edital. A prefeitura lembra que a cidade já tem cerca de 2.500 creches tocadas por entidades parceiras, e recorreu.\n\nEnquanto isso, quem mora na periferia segue sem as vagas. O critério devia ser um só: o quanto o aluno aprende.\n\nVídeo: CNN Brasil, Destaques da Semana (21/11/2026).\n\n#educacao #escolapublica #saopaulo #noticias",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil: Modelo de ensino público bem-sucedido é barrado pela Justiça em SP | Destaques da Semana (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=tIQ84SadAhg"
+    },
+    {
+      "titulo": "Gazeta do Povo: Justiça barra plano da prefeitura de São Paulo de levar escola-modelo para a periferia (13/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Justi%C3%A7a+barra+escola+modelo+periferia+S%C3%A3o+Paulo"
+    },
+    {
+      "titulo": "CBN: Justiça suspende análise sobre projeto de terceirização de escolas em SP (16/11/2026)",
+      "url": "https://news.google.com/rss/search?q=terceiriza%C3%A7%C3%A3o+escolas+SP+CBN"
+    }
+  ],
+  "publicado_em": "2026-11-22T11:45:00-03:00",
+  "atualizado": "2026-11-22T11:45",
+  "video_final_id": "2fb75212507dce9d9c1387fe29ea1bd5",
+  "capa_id": "acea417aa2e56ec3cc4e526445110e72",
+  "arquivo": "sug-video-cnn-escola-sp-barrada-justica-tela-cheia.mp4",
+  "nota_corte": "CNN Brasil, Destaques da Semana (21/11/2026), reportagem sobre o Liceu Coração de Jesus, de 0:00 a 1:10 (começa em “Uma escola pública e gratuita”, fim no ponto final do pai de aluna, “ela não quer sair”); gancho “A prefeitura queria levá-lo para a periferia da capital paulista, mas a justiça suspendeu o projeto”; bate 91%; 1,1x, 70,8 s; fonte 720p. conferir_video: FALANTE nas imagens da escola sob a narração (sem rosto, é a reportagem); 3 pausas curtas; FAIXA escura no alto é o padrão. auditar_cortes 0."
+}
