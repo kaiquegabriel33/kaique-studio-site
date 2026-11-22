@@ -12,9 +12,30 @@
   "id": "sug-video-lula-faria-lima-ensinar",
   "carrossel_id": "sug-video-lula-faria-lima-ensinar",
   "status": "publicado",
-  "agendado_metricool": {"id": 436828747, "uuid": "-590621731709566420", "para": "2026-11-21T19:00:00", "tipo": "TRIAL_REEL", "em": "2026-11-21T13:42:00-03:00", "isAiGenerated": false},
-  "agendado_tiktok": {"id": 436828910, "uuid": "7603904354668529736", "para": "2026-11-21T19:30:00", "tipo": "tiktok", "em": "2026-11-21T13:42:00-03:00", "isAigc": false},
-  "agendado_youtube": {"id": 436828961, "uuid": "6295798442268970407", "para": "2026-11-21T20:00:00", "tipo": "short", "em": "2026-11-21T13:42:00-03:00", "isAiGeneratedContent": false},
+  "agendado_metricool": {
+    "id": 436828747,
+    "uuid": "-590621731709566420",
+    "para": "2026-11-21T19:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-21T13:42:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 436828910,
+    "uuid": "7603904354668529736",
+    "para": "2026-11-21T19:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-21T13:42:00-03:00",
+    "isAigc": false
+  },
+  "agendado_youtube": {
+    "id": 436828961,
+    "uuid": "6295798442268970407",
+    "para": "2026-11-21T20:00:00",
+    "tipo": "short",
+    "em": "2026-11-21T13:42:00-03:00",
+    "isAiGeneratedContent": false
+  },
   "nota_lote": "AGENDADO 21/11 (rotina Quente do dia): IG 21/11 19:00 (Reel de teste), TikTok 19:30, Short 20:00. Não poste à mão.",
   "midia_no_metricool": true,
   "midia_no_metricool_em": "2026-11-21T13:43:00-03:00",
@@ -98,5 +119,6 @@
     "texto": "Segue pra ver o próximo corte."
   },
   "nota_corte": "UOL, 5:02–5:48 da live de Lula com Janones (21/11), gancho no começo (\"não é o sistema financeiro que vai me ensinar a dirigir o país\"), fim em \"quem vai me ensinar a dirigir o país é o povo\" (ponto final na legenda do YouTube); 1,1x, ~47 s. Fonte só em 720p. Whisper corrigido: \"mando de IUP\" → \"bando de yuppie\" (imprensa cita \"bando de yuppies\"), \"com a justiça, fiscal\" → \"com o ajuste fiscal\". conferir_video: pausas naturais da fala dele, faixa escura = topo do modelo, trilha 20 dB abaixo (padrão da tela cheia); auditar só pedia legenda (feita). Central guarda cópia de 3 Mb/s (18 MB); o Metricool recebe a de 30 MB.",
-  "atualizado": "2026-11-21T13:35"
+  "atualizado": "2026-11-21T13:35",
+  "postado_em": "2026-11-21T19:00:00-03:00"
 }
