@@ -1,0 +1,99 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "5x2: ==“24 minutos de trabalho a mais”== por dia, sem hora extra",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (14h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T14:50:00-03:00",
+  "id": "sug-video-mt-escala-5x2-24-minutos",
+  "carrossel_id": "sug-video-mt-escala-5x2-24-minutos",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-mt-escala-5x2-24-minutos",
+  "noticia_grande": false,
+  "titulo": "Escala 5x2: a partir de 16/12, 8h24 por dia e os 24 minutos a mais sem hora extra",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Metrópoles (advogada trabalhista Márcia Ribeiro)",
+  "fato_em": "2026-11-22T10:00:00-03:00",
+  "vence_em": "2026-12-16T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=u4423R6-Yg4",
+  "trecho_txt": "Metrópoles (22/11/2026): a advogada trabalhista Márcia Ribeiro explica a escala 5x2, de 1:13 a 2:17.",
+  "motivo": "Notícia de bolso com vídeo (fonte 2): a 5x2 começa em 16/12 e quase ninguém explicou que, na transição, o dia fica 24 minutos mais longo sem hora extra. Vídeo do Metrópoles de hoje (domingo).",
+  "para_quem": "quem trabalha de carteira assinada e vai mudar de escala em dezembro",
+  "diferenciacao": "a legenda faz a conta que a fala não faz: 44 para 42 horas na semana, mas 8h24 por dia; e diz de onde vem a regra de transição (Dino, STF)",
+  "opiniao_sugerida": "A frase da legenda “no fim da semana você trabalha menos” é conta nossa (44 h para 42 h).",
+  "trecho": {
+    "inicio": "então a partir do dia 16 de dezembro",
+    "fim": "esse período de transição",
+    "aspa_manchete": "24 minutos de trabalho a mais",
+    "gancho": "esses 24 minutos de trabalho a mais sem pagamento de horas extras",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "então a partir do dia 16",
+        "texto": "Escala 5x2 começa em 16 de dezembro"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "Eh, então a partir do dia 16 de dezembro, né, nós temos aí o início da nossa transição. Então, que hoje nós temos 44 horas de trabalho semanais, nós passaremos para 42 horas de trabalho semanais. E a o que acontece primeiro é que essas 42 horas semanais, né, a principal novidade é que elas deverão ser distribuídas em cinco dias da semana. Então, o trabalhador, isso já tem uma uma decisão a respeito disso, né? Ele vai trabalhar 8:24 de segunda a sexta. Não ocorrerá o pagamento eh como hora extra porque nós temos um limite constitucional de trabalho de 8 horas diárias, né? Então isso foi flexibilizado para que conseguisse ocorrer aí essa transição. Então ocorrerá eh esses 24 minutos de trabalho a mais sem pagamento de horas extras para viabilizar essa esse período de transição.",
+    "janela": [
+      0,
+      76
+    ]
+  },
+  "legenda": "A partir de 16 de dezembro, quem é CLT vai trabalhar 8h24 por dia. E os 24 minutos a mais não contam como hora extra.\n\nFoi o que a advogada trabalhista Márcia Ribeiro explicou no Metrópoles neste domingo.\n\nA conta: a semana cai de 44 para 42 horas e as duas folgas passam a ser regra. Então, no fim da semana, você trabalha menos. Só que o dia fica mais comprido, e esse pedaço não entra na hora extra porque o ministro Flávio Dino, do STF, liberou a jornada de até 8h24 durante a transição.\n\nO decreto que regulamenta a 5x2 foi assinado pelo Lula na quinta (19/11). Se a sua empresa propuser outra escala, confere se ela está no acordo ou na convenção do seu sindicato.\n\nVídeo: Metrópoles (22/11/2026).\n\n#escala5x2 #fimda6x1 #trabalho #clt",
+  "fontes": [
+    {
+      "titulo": "Metrópoles: ESCALA 5x2, o que muda na vida dos trabalhadores a partir de 16 de dezembro? (22/11/2026)",
+      "url": "https://www.youtube.com/watch?v=u4423R6-Yg4"
+    },
+    {
+      "titulo": "Agência Brasil: Dino mantém prazo inicial da 5x2, mas flexibiliza regra de transição (12/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Dino+mant%C3%A9m+prazo+inicial+da+5x2"
+    },
+    {
+      "titulo": "Ministério do Trabalho e Emprego: Governo do Brasil regulamenta jornada de trabalho na escala 5x2 (19/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Governo+do+Brasil+regulamenta+jornada+escala+5x2"
+    }
+  ],
+  "atualizado": "2026-11-22T15:30",
+  "video_final_id": "1f561fc03795cb682a8371f2c830b243",
+  "capa_id": "e9ed323fd0be7fe30c93d26c515c8f8f",
+  "arquivo": "sug-video-mt-escala-5x2-24-minutos-tela-cheia.mp4",
+  "publicado_em": "2026-11-22T15:30:00-03:00",
+  "nota_corte": "Metrópoles (22/11/2026), advogada trabalhista Márcia Ribeiro ao vivo, de 1:13 a 2:17; começa em “então a partir do dia 16 de dezembro”, fim no ponto final “esse período de transição”; gancho “esses 24 minutos de trabalho a mais sem pagamento de horas extras”; bate 94%; 1,1x, 68,1 s; fonte 1080p (a advogada aparece em janela menor no quadro do Metrópoles, com Brasília ao fundo). conferir_video: 3 pausas dela (fala natural), 1 travada de 3 ms em 0:57 (conexão dela, o próprio Metrópoles avisa que travou), loudness -15,1 LUFS, faixa escura no CTA (padrão). auditar_cortes 0 (1ª linha da legenda encurtada).",
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  }
+}

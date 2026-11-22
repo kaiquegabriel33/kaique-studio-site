@@ -1,0 +1,99 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Gesner: ajuste ==“não é suficiente para reequilibrar as contas”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (14h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T14:50:00-03:00",
+  "id": "sug-video-jp-gesner-juro-real-maior-do-mundo",
+  "carrossel_id": "sug-video-jp-gesner-juro-real-maior-do-mundo",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-jp-gesner-juro-real-maior-do-mundo",
+  "noticia_grande": false,
+  "titulo": "Gesner Oliveira (FGV): o ajuste de R$ 50 a 60 bilhões não basta, e o Brasil tem o maior juro real do mundo",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Gesner Oliveira (FGV) na Jovem Pan",
+  "fato_em": "2026-11-22T08:30:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=VciWly5iGFA",
+  "trecho_txt": "Jovem Pan News, Jornal da Manhã (22/11/2026): o economista Gesner Oliveira (FGV), de 0:39 a 1:41.",
+  "motivo": "Fala forte da semana ainda não cortada (fonte 3) para a manhã da votação do ajuste na Câmara (segunda, 23/11): um ex-presidente do Cade dizendo que o pacote não basta e por quê. 30 mil views na JP.",
+  "para_quem": "quem paga juro de cartão, financiamento ou cheque especial e ouve falar do ajuste sem saber o que muda",
+  "diferenciacao": "a legenda traduz juro real em uma frase e liga o ajuste ao juro do financiamento da pessoa",
+  "opiniao_sugerida": "A frase final da legenda (enquanto a conta não fecha, o juro do seu financiamento não cai) é leitura nossa.",
+  "trecho": {
+    "inicio": "Olha, existe sim",
+    "fim": "pelo uso do dinheiro",
+    "aspa_manchete": "não é suficiente para reequilibrar as contas",
+    "gancho": "o que foi anunciado até agora não é suficiente para reequilibrar as contas",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Aquilo que foi aprovado na última versão",
+        "texto": "Gesner Oliveira, economista da FGV"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "Eh, olha, existe sim, eh, na verdade, o que foi anunciado até agora não é suficiente para reequilibrar as contas, né? Nós estamos aquilo que foi aprovado e na última versão pelo Senado representa algo entre 50 e 60 bilhões. Eh, e nós estimamos que é preciso um ajuste muito mais profundo eh para realmente equilibrar as contas públicas. Quando a gente fala, Márcia, equilibrar as contas públicas, é para impedir que haja essa bola de neve da dívida crescendo de uma maneira assustadora sobre as empresas, sobre as famílias, com altíssimas taxas de juros. Hoje o Brasil tem a maior taxa real de juros do mundo. Isto é, a taxa real de juros é a taxa de juros descontando a inflação. Em termos reais se paga pelo uso do dinheiro.",
+    "janela": [
+      0,
+      75
+    ]
+  },
+  "legenda": "O ajuste que a Câmara começa a votar nesta segunda vale de R$ 50 a 60 bilhões. E não basta.\n\nPro economista Gesner Oliveira, da FGV, não chega perto do necessário.\n\nFoi o que ele disse no Jornal da Manhã da Jovem Pan. A conta dele: sem um ajuste mais fundo, a dívida vira bola de neve e o juro fica lá em cima, pra empresa e pra família.\n\nJuro real é o juro tirando a inflação: o que sobra de verdade pra quem empresta, e o que pesa de verdade pra quem deve. Com a Selic em 13,75%, ele diz que o nosso é o maior do mundo.\n\nEnquanto a conta do governo não fecha, o juro do seu financiamento e do seu cartão não tem motivo pra cair.\n\nVídeo: Jovem Pan News (22/11/2026).\n\n#ajustefiscal #juros #selic #economia",
+  "fontes": [
+    {
+      "titulo": "Jovem Pan News: Gesner Oliveira analisa impacto do ajuste fiscal e alta do dólar (22/11/2026)",
+      "url": "https://www.youtube.com/watch?v=VciWly5iGFA"
+    },
+    {
+      "titulo": "g1/GloboNews: Ajuste fiscal deve ser votado na segunda-feira; governo estima impacto de R$ 60 bilhões (21/11/2026)",
+      "url": "https://www.youtube.com/watch?v=EDBS_Chqe_8"
+    },
+    {
+      "titulo": "Agência Brasil: Copom mantém Selic em 13,75% ao ano",
+      "url": "https://news.google.com/rss/search?q=Selic+13%2C75"
+    }
+  ],
+  "atualizado": "2026-11-22T15:30",
+  "video_final_id": "61a56ffc27c7f122b14ac471dad591ec",
+  "capa_id": "7b8c7ec6665ac84e73d625ca1e4ad09b",
+  "arquivo": "sug-video-jp-gesner-juro-real-maior-do-mundo-tela-cheia.mp4",
+  "publicado_em": "2026-11-22T15:30:00-03:00",
+  "nota_corte": "Jovem Pan News, Jornal da Manhã (22/11/2026), Gesner Oliveira (FGV) ao vivo, de 0:39 a 1:41; começa na aspa “o que foi anunciado até agora não é suficiente para reequilibrar as contas”, fim no ponto final “pelo uso do dinheiro”; 1,1x, 55,7 s; fonte 720p. conferir_video: FALANTE de 1,4 s no começo (entrada do enquadramento), repetições são dele explicando juro real, faixa escura no CTA (padrão). auditar_cortes 0 (1ª linha da legenda encurtada).",
+  "teste_cta": {
+    "braco": "ninguem",
+    "texto": "Quase ninguém está de olho nisso. Segue pra não perder o próximo."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "ab_formato": "puro-x-comentario",
+  "busca_video": "https://www.youtube.com/watch?v=HcMpIc_yQL8&t=5017s",
+  "carrossel_id": "sug-video-lula-live-idade-aposentadoria",
+  "criado": "2026-11-22T10:55:00-03:00",
+  "diferenciacao": "a legenda traz o que a fala não diz: a idade mínima que já vale desde 2019, o mínimo de 2026 (R$ 1.621) com a trava de 2,5% de ganho real, e avisa que os R$ 900 não têm fonte",
+  "fato_em": "2026-11-21T12:00:00-03:00",
+  "fontes": [
+    {
+      "titulo": "Lula (YouTube): Presidente Lula e Janones falam com o Exército (live de 21/11/2026; a fala vai de 1:23:37 a 1:24:24, pela transcrição do YouTube)",
+      "url": "https://www.youtube.com/watch?v=HcMpIc_yQL8&t=5017s"
+    },
+    {
+      "titulo": "Planalto: Decreto nº 12.797, de 23/12/2025 (salário mínimo de R$ 1.621 em 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12797.htm"
+    },
+    {
+      "titulo": "Agência Gov: decreto reajusta o mínimo para R$ 1.621 (6,79%; ganho real limitado a 2,5%; sem a trava seriam R$ 1.636, segundo a Folha)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202512/publicado-decreto-que-reajusta-salario-minimo-para-r-1-621-a-partir-de-1o-de-janeiro"
+    },
+    {
+      "titulo": "Emenda Constitucional 103/2019 (reforma da Previdência: idade mínima de 65 anos para homem e 62 para mulher)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    }
+  ],
+  "forca": "media",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "id": "sug-video-lula-live-idade-aposentadoria",
+  "legenda": "Lula: “Nesse mandato não haverá aumento de idade” para se aposentar. E diz que, sem a política dele, o mínimo seria R$ 900.\n\nFoi na live com o Janones (21/11), respondendo a uma seguidora que perguntou se vem reforma da Previdência.\n\nO que já vale hoje: desde a reforma de 2019, a idade mínima é 65 anos para homem e 62 para mulher. A promessa é não mexer nisso até 2030.\n\nO mínimo de 2026 é R$ 1.621. Subiu 6,79%, mas o ganho acima da inflação ficou travado em 2,5% pela regra fiscal. Sem a trava, seriam R$ 1.636.\n\nDe onde vêm os R$ 900 ele não disse. A conta muda com o ano que você escolhe como ponto de partida.\n\nQuem tá perto de se aposentar: a regra de transição continua subindo todo ano, mesmo sem reforma nova.\n\nVídeo: live de Lula no YouTube (21/11/2026). Fontes: Decreto 12.797/2025 (Planalto); Agência Gov; Emenda Constitucional 103/2019.\n\n#aposentadoria #salariominimo #inss #lula",
+  "motivo": "Prateleira vídeo (estava com 2 de 10). Promessa com palavra forte no bolso (aposentadoria, idade, salário mínimo), o tipo (b)+(d) que passou de mil nos Reels de teste; lição do resumo vivo: fala do próprio político, quente e pouco vista (live de 21/11 com 1 mi de views no canal do Lula; os veículos cortaram a parte da Faria Lima, não esta). Mesmo vídeo do corte da Faria Lima (21/11) e do Moretti (22/11), mas trecho e assunto diferentes: agendar em outro dia. Quem compartilha: aposentado e quem tá perto de se aposentar, para dizer que a idade não muda; quem critica o governo, para mostrar os R$ 900 sem fonte. Grave a tela da live de 1:23:37 a 1:24:24 e, se quiser, 5 a 10 s de reação sua.",
+  "nota_lote": "Sugestão da Produção 22/11 (rodada da manhã). Sem horário.",
+  "opiniao_sugerida": "A conta dos R$ 900 muda com o ano que você escolhe como ponto de partida (frase da legenda, não é fala dele)",
+  "paga_em": "você sabe quanto seria o salário mínimo hoje? R$ 900",
+  "para_quem": "aposentado e quem tá a poucos anos de se aposentar pelo INSS",
+  "politico": "Lula",
+  "prioridade": 1,
+  "promessa": "nesse mandato não haverá aumento de idade para as pessoas",
+  "reserva": false,
+  "sempre_verde": false,
+  "slides": [
+    {
+      "altura": 1920,
+      "elementos": [
+        {
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "tam": 52,
+          "texto": "Lula: ==“Nesse mandato não haverá aumento de idade”==",
+          "tipo": "texto"
+        },
+        {
+          "ajuste": "conter",
+          "h": "resto",
+          "raio": 0,
+          "tipo": "video",
+          "w": 1080,
+          "x": 0
+        }
+      ],
+      "papel": "vídeo",
+      "tema": "escuro"
+    }
+  ],
+  "status": "publicado",
+  "atualizado": "2026-11-22T15:30",
+  "teste_reel": true,
+  "titulo": "Lula na live: “Nesse mandato não haverá aumento de idade” para aposentar, e diz que sem a política dele o mínimo seria R$ 900",
+  "trecho": {
+    "aspa_manchete": "Nesse mandato não haverá aumento de idade",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "não haverá aumento de idade",
+        "texto": "Idade mínima desde 2019: 65 (homem) e 62 (mulher)"
+      },
+      {
+        "cor": "vermelho",
+        "desde": "900 reais",
+        "texto": "Mínimo em 2026: R$ 1.621. Os R$ 900 ficaram sem fonte"
+      }
+    ],
+    "cta": true,
+    "fim": "salário mínimo hoje? 900 reais",
+    "gancho": "Nesse mandato não haverá aumento de idade",
+    "inicio": "Agora eu quero dizer que nesse mandato",
+    "texto": "Agora eu quero dizer que nesse mandato não haverá aumento de idade para as pessoas. Não haverá. O que nós precisamos é cuidar de uma fiscalização correta para que a gente evite que haja abuso com o dinheiro da previdência. É só isso que vamos fazer e vamos continuar dando aumento real do salário mínimo para as pessoas. Além da reposição inflacionária, a gente vai dar aquilo que foi o crescimento da economia para que o povo possa ter um aumento de salário. Só para você ter ideia, Pat, se não fosse a nossa política de aumento real do salário mínimo para o aposentado, você sabe quanto seria o salário mínimo hoje? R$ 900.",
+    "janela": [
+      0,
+      62
+    ]
+  },
+  "trecho_txt": "Live de Lula no canal dele no YouTube (21/11/2026), de 1:23:37 a 1:24:24 (transcrição do YouTube conferida).",
+  "vence_em": "2026-11-26T23:59:00-03:00",
+  "versao": 1,
+  "video_partes": [],
+  "video_url": "https://www.youtube.com/watch?v=HcMpIc_yQL8&t=5017s",
+  "sugerido_por": "Produção 22/11",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_final_id": "5241d31e8604d01f1aa082c97c11073d",
+  "capa_id": "a57f164504b6985cc43314b1b134f617",
+  "arquivo": "sug-video-lula-live-idade-aposentadoria-tela-cheia.mp4",
+  "publicado_em": "2026-11-22T15:30:00-03:00",
+  "nota_corte": "Live de Lula no YouTube (21/11/2026), de 1:23:37 a 1:24:24; começa em “nesse mandato não haverá aumento de idade” (o gancho já abre o corte), fim no ponto final “900 reais”; Whisper trocou “previdência” por “presidência” na legenda, corrigido; 1,1x, 42,8 s; fonte 1080p. conferir_video: só a faixa escura no CTA (padrão); rosto inteiro em 75 de 75 momentos. auditar_cortes 0. A medição do montar (bate 2%) é falso alarme: a fala saiu inteira, uma vez só (conferido na transcrição).",
+  "teste_cta": {
+    "braco": "importa",
+    "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
+  }
+}

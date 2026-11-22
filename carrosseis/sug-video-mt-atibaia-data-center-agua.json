@@ -1,0 +1,100 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Atibaia: data center de R$ 3 bi e ==“moradores com medo de ficar sem água”==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (14h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T14:50:00-03:00",
+  "id": "sug-video-mt-atibaia-data-center-agua",
+  "carrossel_id": "sug-video-mt-atibaia-data-center-agua",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-mt-atibaia-data-center-agua",
+  "noticia_grande": false,
+  "titulo": "Atibaia: data center de R$ 3 bilhões e moradores com medo de ficar sem água",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "Metrópoles (reportagem)",
+  "fato_em": "2026-11-22T05:10:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=wZO_VCzgRJo",
+  "trecho_txt": "Metrópoles (22/11/2026): reportagem sobre o data center em Atibaia (SP), de 0:00 a 1:09.",
+  "motivo": "Notícia do dia com vídeo (fonte 1): data center de R$ 3 bilhões, moradores com medo de faltar água nos poços e prefeitura que diz não ter pedido de licença. Metrópoles, Brasil 247, BNews e ncnews deram hoje; pouca gente postou em vídeo.",
+  "para_quem": "quem mora perto de onde a IA vai buscar água e luz",
+  "diferenciacao": "a legenda junta o que a reportagem não diz: o ONS liberou a ligação de energia mesmo com alerta de risco na geração (Metrópoles), e explica em uma frase por que data center gasta água",
+  "opiniao_sugerida": "A frase final da legenda (investimento é bem-vindo, mas a cidade tem de saber antes quanta água e luz ele vai usar) é opinião nossa.",
+  "trecho": {
+    "inicio": "Investimento de 3 bilhões",
+    "fim": "relacionado ao data center",
+    "aspa_manchete": "moradores com medo de ficar sem água",
+    "gancho": "moradores com medo de ficar sem água",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "O que está acontecendo em Atibaia",
+        "texto": "Atibaia (SP), 160 mil habitantes"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "Um investimento de R$ 3 bilhões, um terreno do tamanho de 50 campos de futebol e moradores com medo de ficar sem água. O que está acontecendo em Atibaia, no interior de São Paulo. A cidade com pouco mais de 160.000 habitantes, pode receber um gigantesco data center, estrutura responsável por armazenar e processar dados digitais. Mas o projeto está provocando uma onda de protestos. Moradores temem a retirada da vegetação da Mata Atlântica, contaminação do lençol freático, aumento da temperatura e poluição sonora. E a preocupação com a água é ainda maior. Muitas famílias dependem de poços que já sofrem durante a seca, mas tem um detalhe importante nessa história. Segundo os moradores, uma obra de transmissão de energia foi apresentada em audiência pública como uma melhoria na infraestrutura da região, sem aprofundar sua ligação com os data centers. Só que a empresa Dataspots já apresenta o empreendimento como aprovado e estruturado. E uma conexão de energia para atender ao projeto foi autorizada em 2025. Enquanto isso, a prefeitura de Atibaia afirma que não identificou nenhum pedido de licenciamento ambiental relacionado ao data center.",
+    "janela": [
+      0,
+      80
+    ],
+    "girar": "nao"
+  },
+  "legenda": "Um data center de R$ 3 bilhões e os moradores de Atibaia (SP) com medo de ficar sem água.\n\nO terreno tem o tamanho de 50 campos de futebol. Muita família lá depende de poço, que já sofre na seca. A ligação de energia pro projeto foi autorizada em 2025, a empresa trata a obra como aprovada, e a prefeitura diz que não recebeu nenhum pedido de licença ambiental. O abaixo-assinado contra já passou de 4 mil nomes.\n\nO Metrópoles também mostrou que o ONS liberou a conexão mesmo com alerta de risco na geração de energia.\n\nData center é o prédio que guarda e processa os dados da internet e da IA. Gasta muita luz e, pra resfriar, muita água. Investimento é bem-vindo, mas a cidade tem de saber antes quanto ele vai usar de cada um.\n\nVídeo: Metrópoles (22/11/2026).\n\n#atibaia #datacenter #agua #saopaulo",
+  "fontes": [
+    {
+      "titulo": "Metrópoles: Moradores de Atibaia se mobilizam contra chegada de data center na cidade (22/11/2026)",
+      "url": "https://www.youtube.com/watch?v=wZO_VCzgRJo"
+    },
+    {
+      "titulo": "Metrópoles: ONS permite data center em Atibaia apesar de risco na geração de energia (22/11/2026)",
+      "url": "https://news.google.com/rss/search?q=ONS+permite+data+center+em+Atibaia"
+    },
+    {
+      "titulo": "BNews SP e ncnews: data center de R$ 3 bilhões em Atibaia gera revolta de moradores (22/11/2026)",
+      "url": "https://news.google.com/rss/search?q=data+center+Atibaia+R%243+bilh%C3%B5es"
+    }
+  ],
+  "atualizado": "2026-11-22T15:30",
+  "video_final_id": "2f869d9200e2ed3fe89d2d4ced1257b9",
+  "capa_id": "91597108836b5a2a7f8b8b214da50f87",
+  "arquivo": "sug-video-mt-atibaia-data-center-agua-tela-cheia.mp4",
+  "publicado_em": "2026-11-22T15:30:00-03:00",
+  "nota_corte": "Metrópoles (22/11/2026), reportagem em pé sobre o data center de Atibaia, de 0:00 a 1:09; começa em “Investimento de 3 bilhões” (a aspa “moradores com medo de ficar sem água” já abre o corte), fim no ponto final “relacionado ao data center”; 1,1x, 61,6 s; fonte 720x1280 (Short do Metrópoles, sem versão maior). conferir_video: FALANTE em 0:45–0:59 é a repórter em off sobre documentos e imagens (sem rosto, normal em reportagem), pele rosada acusada pelo vestido vermelho e a luz da fonte, faixa escura no CTA (padrão); estalos só aviso. auditar_cortes 0 (1ª linha da legenda encurtada).",
+  "teste_cta": {
+    "braco": "ninguem",
+    "texto": "Quase ninguém está de olho nisso. Segue pra não perder o próximo."
+  }
+}

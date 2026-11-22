@@ -1,0 +1,99 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Vorcaro tinha ==“planos de criar uma instituição financeira”== com a Virginia",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 22/11 (14h20)",
+  "status": "publicado",
+  "criado": "2026-11-22T14:50:00-03:00",
+  "id": "sug-video-opovo-vorcaro-banco-virginia",
+  "carrossel_id": "sug-video-opovo-vorcaro-banco-virginia",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-opovo-vorcaro-banco-virginia",
+  "noticia_grande": true,
+  "titulo": "Caso Master: Vorcaro planejava criar um banco com Virginia Fonseca, o WeBank",
+  "forca": "alta",
+  "prioridade": 1,
+  "politico": "O POVO (reportagem sobre Daniel Vorcaro e Virginia Fonseca)",
+  "fato_em": "2026-11-22T09:00:00-03:00",
+  "vence_em": "2026-11-23T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=LSqciEAAY8k",
+  "trecho_txt": "O POVO (22/11/2026): reportagem sobre o banco que Vorcaro planejava com Virginia Fonseca, de 0:00 a 1:07.",
+  "motivo": "Fato quente do dia com vídeo (fonte 1): o caso Master encontra a maior influenciadora do país. O Globo deu de manhã e mais de 10 veículos repetiram; em vídeo, só O POVO e perfis de fofoca.",
+  "para_quem": "quem segue a Virginia e quem perdeu dinheiro ou ouviu falar do Banco Master",
+  "diferenciacao": "a legenda diz o que a reportagem deixa para o fim e o que pouca gente vai contar: as assessorias confirmam só conversa, sem contrato nem pagamento; e por que um banco queria o rosto de uma influenciadora (cliente novo em massa)",
+  "opiniao_sugerida": "A frase da legenda sobre banco querer seguidor como cliente é leitura nossa.",
+  "trecho": {
+    "inicio": "O empresário Daniel",
+    "fim": "o cantor Zé Felipe",
+    "aspa_manchete": "planos de criar uma instituição financeira",
+    "gancho": "O empresário Daniel Vorcaro, ex-controlador do Banco Master, tinha planos de criar uma instituição financeira",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Vorcaro queria criar uma marca financeira",
+        "texto": "Daniel Vorcaro, ex-dono do Banco Master"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "texto": "O empresário Daniel Vorcaro, ex-controlador do Banco Master, tinha planos de criar uma instituição financeira em parceria com a influenciadora Virgínia Fonseca. O projeto batizado de WeBank pretendia unir a popularidade da apresentadora nas redes sociais a estrutura financeira do banco. A proposta e além de uma simples campanha publicitária, Vorcaro queria criar uma marca financeira associada à imagem de Virgínia, que já é sócia da empresa de cosméticos WePink. No entanto, o projeto nunca saiu do papel. A iniciativa chegou a avançar na parte burocrática. Em 29 de janeiro de 2024, o Banco Master protocolou quatro pedidos de registros da marca o WeBank no Instituto Nacional da Propriedade Industrial, os pedidos foram feitos em nome do Banco e não de Virgínia, que seria o principal rosto da marca. Vorcaro também negociou uma campanha publicitária de R$ 25 milhões de reais com Virgínia e o então marido, o cantor Zé Felipe.",
+    "janela": [
+      0,
+      75
+    ]
+  },
+  "legenda": "O Vorcaro, do Banco Master, queria abrir um banco com a cara da Virginia Fonseca. Nome: WeBank.\n\nO Master chegou a pedir o registro da marca no INPI em janeiro de 2024, em nome do banco. E negociou uma campanha de R$ 25 milhões com a Virginia e o Zé Felipe, segundo mensagens do celular dele divulgadas pelo Metrópoles.\n\nAs assessorias dos dois confirmam que houve conversa, mas dizem que não teve contrato assinado, pagamento nem gravação. O banco nunca saiu do papel.\n\nPor que um banco quer o rosto de uma influenciadora? Porque cada seguidor vira um cliente em potencial. É o mesmo motivo de tanto banco digital pagar famoso pra aparecer na sua tela.\n\nVídeo: O POVO (22/11/2026). Também em O Globo, Revista Oeste e Diário do Nordeste.\n\n#bancomaster #vorcaro #virginia #dinheiro",
+  "fontes": [
+    {
+      "titulo": "O POVO: Caso Master, Daniel Vorcaro planejava criar banco com Virginia Fonseca (22/11/2026)",
+      "url": "https://www.youtube.com/watch?v=LSqciEAAY8k"
+    },
+    {
+      "titulo": "O Globo: Vorcaro quis criar banco com Virginia Fonseca, o 'Webank' (22/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Vorcaro+quis+criar+banco+com+Virginia+Fonseca+Webank"
+    },
+    {
+      "titulo": "Revista Oeste e Diário do Nordeste: Vorcaro planejou criar banco com Virginia Fonseca (22/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Vorcaro+planejou+criar+banco+com+Virginia+Fonseca"
+    }
+  ],
+  "atualizado": "2026-11-22T15:30",
+  "video_final_id": "af082603d68d91f8f64d18050a4ab3a2",
+  "capa_id": "1f9ecca3df2ccaf1d0e4b4a938e4d09e",
+  "arquivo": "sug-video-opovo-vorcaro-banco-virginia-tela-cheia.mp4",
+  "publicado_em": "2026-11-22T15:30:00-03:00",
+  "nota_corte": "O POVO (22/11/2026), reportagem de Dyego Viana sobre o WeBank, de 0:00 a 1:07; começa em “O empresário Daniel Vorcaro” (a aspa “planos de criar uma instituição financeira” vem nos primeiros 5 s; abrir só nela deixava a frase sem sujeito), fim no ponto final “o cantor Zé Felipe”; Whisper trocou INPI por INPE, corrigido; 1,1x, 62,3 s; fonte 1080p. conferir_video: FALANTE em 0:33–0:50 é o repórter em off sobre fotos da Virginia e da fachada do Master (normal em reportagem), pico real -0,4 dB, faixa escura no CTA (padrão). auditar_cortes 0. A resposta das assessorias (sem contrato nem pagamento) vai na legenda.",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  }
+}
