@@ -29,7 +29,7 @@
   "id": "sug-video-lula-live-idade-aposentadoria",
   "legenda": "Lula: “Nesse mandato não haverá aumento de idade” para se aposentar. E diz que, sem a política dele, o mínimo seria R$ 900.\n\nFoi na live com o Janones (21/11), respondendo a uma seguidora que perguntou se vem reforma da Previdência.\n\nO que já vale hoje: desde a reforma de 2019, a idade mínima é 65 anos para homem e 62 para mulher. A promessa é não mexer nisso até 2030.\n\nO mínimo de 2026 é R$ 1.621. Subiu 6,79%, mas o ganho acima da inflação ficou travado em 2,5% pela regra fiscal. Sem a trava, seriam R$ 1.636.\n\nDe onde vêm os R$ 900 ele não disse. A conta muda com o ano que você escolhe como ponto de partida.\n\nQuem tá perto de se aposentar: a regra de transição continua subindo todo ano, mesmo sem reforma nova.\n\nVídeo: live de Lula no YouTube (21/11/2026). Fontes: Decreto 12.797/2025 (Planalto); Agência Gov; Emenda Constitucional 103/2019.\n\n#aposentadoria #salariominimo #inss #lula",
   "motivo": "Prateleira vídeo (estava com 2 de 10). Promessa com palavra forte no bolso (aposentadoria, idade, salário mínimo), o tipo (b)+(d) que passou de mil nos Reels de teste; lição do resumo vivo: fala do próprio político, quente e pouco vista (live de 21/11 com 1 mi de views no canal do Lula; os veículos cortaram a parte da Faria Lima, não esta). Mesmo vídeo do corte da Faria Lima (21/11) e do Moretti (22/11), mas trecho e assunto diferentes: agendar em outro dia. Quem compartilha: aposentado e quem tá perto de se aposentar, para dizer que a idade não muda; quem critica o governo, para mostrar os R$ 900 sem fonte. Grave a tela da live de 1:23:37 a 1:24:24 e, se quiser, 5 a 10 s de reação sua.",
-  "nota_lote": "Sugestão da Produção 22/11 (rodada da manhã). Sem horário.",
+  "nota_lote": "AGENDADO 22/11 15:05 (rotina Reels de teste 22/11 14h20): IG 23/11 9:00 (Reel de teste), TikTok 23/11 10:00; corte puro 1,1x, 42,8 s; auditar_cortes 0. Não poste à mão.",
   "opiniao_sugerida": "A conta dos R$ 900 muda com o ano que você escolhe como ponto de partida (frase da legenda, não é fala dele)",
   "paga_em": "você sabe quanto seria o salário mínimo hoje? R$ 900",
   "para_quem": "aposentado e quem tá a poucos anos de se aposentar pelo INSS",
@@ -105,5 +105,23 @@
   "teste_cta": {
     "braco": "importa",
     "texto": "Pouca gente está de olho no que realmente importa. Segue o perfil."
-  }
+  },
+  "agendado_metricool": {
+    "id": 437801700,
+    "uuid": "-2238122032126342849",
+    "para": "2026-11-23T09:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-22T15:05:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 437801877,
+    "uuid": "6144144572887092015",
+    "para": "2026-11-23T10:00:00",
+    "tipo": "tiktok",
+    "em": "2026-11-22T15:05:00-03:00",
+    "isAigc": false
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-22T15:05:00-03:00"
 }

@@ -96,5 +96,24 @@
   "teste_cta": {
     "braco": "ninguem",
     "texto": "Quase ninguém está de olho nisso. Segue pra não perder o próximo."
-  }
+  },
+  "agendado_metricool": {
+    "id": 437801426,
+    "uuid": "-405277116081879839",
+    "para": "2026-11-22T19:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-22T15:05:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 437802053,
+    "uuid": "5495788641023510473",
+    "para": "2026-11-23T14:00:00",
+    "tipo": "tiktok",
+    "em": "2026-11-22T15:05:00-03:00",
+    "isAigc": false
+  },
+  "nota_lote": "AGENDADO 22/11 15:05 (rotina Reels de teste 22/11 14h20): IG 22/11 19:40 (Reel de teste), TikTok 23/11 14:00; corte puro 1,1x, 61,6 s; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-22T15:05:00-03:00"
 }
