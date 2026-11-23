@@ -100,5 +100,24 @@
   "video_final_id": "4885cdb6bb890a2dc328e66faf3c4d22",
   "capa_id": "8aa6d87edafcee159c132f37a8990022",
   "arquivo": "sug-video-metropoles-pimenta-gasolina-10-tela-cheia.mp4",
-  "nota_corte": "Metrópoles (23/11/2026), entrevista com Paulo Pimenta, de 2:45 a 3:54 (começa em “É um ajuste necessário”, fim no ponto final “na Câmara dos Deputados”); gancho “como a questão do subsídio... gasolina não tenha chegado a R$ 10, o diesel a R$ 9,50”; bate 100% (Whisper corrigido: “dízimo” era “diesel”); 1,1x, 69,8 s. A fonte alterna tela dividida (apresentadora × Pimenta), Pimenta sozinho e Pimenta × imagem do Lula: o foco automático ficava no meio da tela dividida, então a gravação foi deslocada por plano para Pimenta no centro (gravacao-orig.mp4 guardada) e `foco_x` 0,5. conferir_video: FALANTE de 0:23.8 a 0:25.8 (troca de plano), 2 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0."
+  "nota_corte": "Metrópoles (23/11/2026), entrevista com Paulo Pimenta, de 2:45 a 3:54 (começa em “É um ajuste necessário”, fim no ponto final “na Câmara dos Deputados”); gancho “como a questão do subsídio... gasolina não tenha chegado a R$ 10, o diesel a R$ 9,50”; bate 100% (Whisper corrigido: “dízimo” era “diesel”); 1,1x, 69,8 s. A fonte alterna tela dividida (apresentadora × Pimenta), Pimenta sozinho e Pimenta × imagem do Lula: o foco automático ficava no meio da tela dividida, então a gravação foi deslocada por plano para Pimenta no centro (gravacao-orig.mp4 guardada) e `foco_x` 0,5. conferir_video: FALANTE de 0:23.8 a 0:25.8 (troca de plano), 2 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0.",
+  "agendado_metricool": {
+    "id": 439031880,
+    "uuid": "4986567725779927384",
+    "para": "2026-11-23T14:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-23T13:11:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 439032049,
+    "uuid": "6756454138881787677",
+    "para": "2026-11-23T16:40:00",
+    "tipo": "tiktok",
+    "em": "2026-11-23T13:12:00-03:00",
+    "isAigc": false
+  },
+  "nota_lote": "AGENDADO 23/11 13:11 (rotina Reels de teste 23/11 11h20, modo enxuto): IG 23/11 14:20 (Reel de teste), TikTok 16:40 (10º em 24 h corridas). Corte puro 1,1x, 69,8 s; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-23T13:13:00-03:00"
 }

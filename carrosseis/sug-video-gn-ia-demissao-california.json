@@ -1,0 +1,103 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "A IA não pode mais ==te demitir sozinha==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 23/11 (11h20, modo enxuto)",
+  "status": "publicado",
+  "criado": "2026-11-23T13:18:00-03:00",
+  "id": "sug-video-gn-ia-demissao-california",
+  "carrossel_id": "sug-video-gn-ia-demissao-california",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-gn-ia-demissao-california",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "noticia_grande": false,
+  "titulo": "Califórnia proíbe empresa de demitir só com base em sistema de IA: precisa de uma pessoa conferindo",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "GloboNews (Carla Albuquerque, editora especialista em IA)",
+  "fato_em": "2026-11-22T21:00:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=iooi30cBb-E",
+  "trecho_txt": "GloboNews, Especial de Domingo (22/11/2026): Lei freia demissões por IA, de 1:03 a 2:05.",
+  "motivo": "Tema que todo trabalhador já sente (ser vigiado e avaliado por programa): a Califórnia, onde nasce a tecnologia, proibiu demitir ou punir só com base em sistema automatizado e obriga avisar quando o corte em massa vem da automação. Confirmado em UOL e R7 (01 e 02/10/2026).",
+  "para_quem": "quem trabalha com meta, ponto e produtividade medidos por sistema",
+  "diferenciacao": "a legenda traz o caso real do Itaú (programa que vigiava teclado e cliques, Intercept Brasil, 2025) e pergunta se a sua empresa mede você por sistema",
+  "opiniao_sugerida": "A frase final da legenda (no Brasil ainda não tem regra assim e devia ter) é leitura nossa.",
+  "trecho": {
+    "inicio": "Esses dados podem influenciar",
+    "fim": "sem uma justificativa",
+    "aspa_manchete": "não podem depender apenas de sistemas automatizados para demitir",
+    "gancho": "As empresas não podem depender apenas de sistemas automatizados para demitir ou punir funcionários",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Esses dados podem influenciar",
+        "texto": "Novas leis da Califórnia (EUA) para IA no trabalho"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      82
+    ],
+    "texto": "Esses dados podem influenciar uma decisão sobre o futuro desse funcionário na empresa. Mas gente, e se esse sistema errar? Uma das novas leis determina que as empresas não podem, a gente vê aqui, eu fiz um esqueminha aqui de arte para a gente. As empresas não podem depender apenas de sistemas automatizados para demitir ou punir funcionários. Quando a decisão for baseada principalmente nesses sistemas, uma pessoa vai ter que conferir os dados, obviamente, né? Tem que ter supervisão humana. Essa regra começa a valer no ano que vem. Outra mudança atinge determinadas demissões coletivas. A gente vem ouvindo muito desde o advento, né, que se começou a falar mais sobre inteligência artificial, sobre as demissões, porque muitas tarefas vêm sendo automatizadas. Então as empresas, elas vão ter que avisar quando os cortes foram causados totalmente ou em grande parte pela automação de postos de trabalho, porque muitas vezes isso não é informado para o trabalhador. Ele simplesmente é cortado e fica sem uma justificativa."
+  },
+  "legenda": "Na Califórnia, a IA não pode mais demitir ninguém sozinha.\n\nA empresa não pode demitir ou punir alguém só porque o sistema mandou: uma pessoa vai ter de conferir os dados.\n\nE se o corte em massa vier da automação, a empresa vai ter de avisar e dizer quantas funções foram afetadas. A regra de supervisão humana começa a valer no ano que vem.\n\nIsso não é coisa de filme. Em 2025 o Intercept Brasil mostrou que um programa no Itaú registrava teclado, cliques e navegação dos funcionários, sem aviso.\n\nNo Brasil ainda não tem uma regra assim. Devia ter.\n\nA sua empresa mede o seu trabalho por sistema?\n\nVídeo: GloboNews (22/11/2026). Também em UOL e R7.\n\n#inteligenciaartificial #trabalho #emprego #ia",
+  "fontes": [
+    {
+      "titulo": "GloboNews: Lei freia demissões por IA (22/11/2026)",
+      "url": "https://www.youtube.com/watch?v=iooi30cBb-E"
+    },
+    {
+      "titulo": "UOL: Califórnia proíbe demissão de funcionário por decisão exclusiva de IA (01/10/2026)",
+      "url": "https://news.google.com/rss/search?q=Calif%C3%B3rnia+pro%C3%ADbe+demiss%C3%A3o+de+funcion%C3%A1rio+por+decis%C3%A3o+exclusiva+de+IA"
+    },
+    {
+      "titulo": "R7: Califórnia, nos EUA, proíbe demissão de funcionário decidida por inteligência artificial (02/10/2026)",
+      "url": "https://news.google.com/rss/search?q=Calif%C3%B3rnia+EUA+pro%C3%ADbe+demiss%C3%A3o+decidida+por+intelig%C3%AAncia+artificial"
+    },
+    {
+      "titulo": "Intercept Brasil: Demissões no Itaú: programa que vigia funcionários foi usado sem aviso e monitorava teclado, cliques e navegação (14/09/2025)",
+      "url": "https://news.google.com/rss/search?q=Demiss%C3%B5es+no+Ita%C3%BA+programa+que+vigia+funcion%C3%A1rios+Intercept"
+    }
+  ],
+  "publicado_em": "2026-11-23T13:30:00-03:00",
+  "atualizado": "2026-11-23T13:30",
+  "video_final_id": "f0b81b1d78173b9baf9994e8299a8283",
+  "capa_id": "7545ac2c6d414c0842216511d290c91b",
+  "arquivo": "sug-video-gn-ia-demissao-california-tela-cheia.mp4",
+  "nota_corte": "GloboNews, Especial de Domingo (22/11/2026), Carla Albuquerque sobre as leis da Califórnia, de 1:03 a 2:05 (começa em “Esses dados podem influenciar”, fim no ponto final “sem uma justificativa”; começo encurtado para caber no teto de 75 s); gancho “As empresas não podem depender apenas de sistemas automatizados para demitir ou punir funcionários”; bate 100%; 1,1x, 64,4 s. Quase todo o trecho mostra a arte da GloboNews (sem rosto): na tela cheia as laterais da arte ficam cortadas, título e cartões do meio legíveis (mesma ressalva do BTG de 22/11). conferir_video: REPETIÇÃO 0:19 é a própria apresentadora repetindo “as empresas não podem”; 3 estalos do áudio da fonte; FAIXA escura no CTA (padrão). auditar_cortes 0 (1ª linha da legenda encurtada)."
+}
