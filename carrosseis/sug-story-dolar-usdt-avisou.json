@@ -1,0 +1,31 @@
+{
+  "id": "sug-story-dolar-usdt-avisou",
+  "carrossel_id": "sug-story-dolar-usdt-avisou",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: o dólar digital avisou no domingo",
+  "criado": "2026-11-23T12:45:00-03:00",
+  "atualizado": "2026-11-23T12:45:00-03:00",
+  "vence_em": "2026-11-23T23:59:00-03:00",
+  "papel_story": "conteudo_do_dia",
+  "comentario": "No domingo, com a bolsa fechada, o dólar digital marcava R$ 6,10 na Binance. Hoje o mercado abriu e o dólar de verdade foi pra perto de R$ 6. Acertou a direção, mas exagerou: o USDT já voltou pra R$ 5,98.",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {"tipo": "caixa_story", "texto": "No domingo, com a bolsa fechada, o dólar digital marcava [[vermelho:R$ 6,10]] na Binance. Hoje o mercado abriu e o dólar de verdade foi pra perto de R$ 6. Acertou a direção, mas exagerou: o USDT já voltou pra R$ 5,98."},
+        {"tipo": "imagem", "src": "midia/sug-story-dolar-usdt-avisou/print-www-otempo-com-br-dolar-abre-em-alta-e-supera-r-6.png", "h": 640, "ajuste": "conter", "raio": 18}
+      ]
+    }
+  ],
+  "fontes": [
+    {"titulo": "O Tempo (23/11/2026): Dólar abre em alta e supera R$ 6 com votação de pacote fiscal", "url": "https://www.otempo.com.br/economia/2026/11/23/dolar-abre-em-alta-e-supera-r-6-com-votacao-de-pacote-fiscal-e-aversao-global-ao-risco-no-radar"},
+    {"titulo": "Binance: USDT/BRL (22/11 21h: 6,10; 23/11 12h40: 5,98)", "url": "https://www.binance.com/pt-BR/trade/USDT_BRL"}
+  ],
+  "motivo": "Pedido dele: story do post do dólar 6x1. Diferenciação: continua o post dele de ontem (o print da Binance dele) e confere a previsão contra a abertura real."
+}
