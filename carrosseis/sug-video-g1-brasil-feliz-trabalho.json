@@ -1,0 +1,82 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Brasil é o ==4º mais feliz do mundo== no trabalho",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 23/11 (14h20)",
+  "status": "pronto",
+  "criado": "2026-11-23T14:55:00-03:00",
+  "id": "sug-video-g1-brasil-feliz-trabalho",
+  "carrossel_id": "sug-video-g1-brasil-feliz-trabalho",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-g1-brasil-feliz-trabalho",
+  "noticia_grande": true,
+  "titulo": "Brasil é o 4º país mais feliz no trabalho, atrás só de Índia, México e Peru, à frente de EUA, Alemanha e Japão",
+  "forca": "media",
+  "prioridade": 3,
+  "politico": "g1 (reportagem sobre ranking de felicidade no trabalho)",
+  "fato_em": "2026-11-23T08:00:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=DF4KOxCnRaw",
+  "trecho_txt": "g1 (23/11/2026), reportagem sobre ranking global de felicidade no trabalho.",
+  "motivo": "Pauta que a pessoa compartilha (marca o colega, discorda nos comentários): ranking da Ticket com a Happy Force, 21.106 pessoas em 27 países (g1, 23/11). Não vence amanhã, enche a manhã de terça.",
+  "para_quem": "quem trabalha CLT ou por conta e vive o dia a dia do escritório",
+  "diferenciacao": "a legenda puxa a contradição: 4º mais feliz num ano de escala 6x1 em debate e de esgotamento entre os critérios, e pergunta se a pessoa se reconhece",
+  "trecho": {
+    "inicio": "Brasil ocupa a quarta posição",
+    "fim": "em 27 países",
+    "aspa_manchete": "quarta posição",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Brasil ocupa a quarta posição",
+        "texto": "Pesquisa Ticket com a Happy Force, 27 países"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      48
+    ],
+    "girar": "nao",
+    "gancho": "supera as nações mais ricas, como Estados Unidos, Alemanha e Japão"
+  },
+  "legenda": "O brasileiro está entre os mais felizes do mundo no trabalho.\n\nQuarto lugar, atrás só de Índia, México e Peru, e na frente de Estados Unidos, Alemanha e Japão.\n\nA pesquisa ouviu 21.106 pessoas em 27 países e mede reconhecimento, relação com os colegas e engajamento, mas também esgotamento e frustração.\n\nOs três primeiros e o Brasil não estão entre os países mais ricos da lista. Então felicidade no trabalho não é só salário.\n\nVocê se reconhece nesse 4º lugar ou acha que a pesquisa não chegou na sua empresa?\n\nVídeo: g1 (23/11/2026). Pesquisa: Ticket com a Happy Force.\n\n#trabalho #emprego #carreira #brasil",
+  "fontes": [
+    {
+      "titulo": "g1: Brasil é o quarto mais feliz do mundo no trabalho (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=DF4KOxCnRaw"
+    }
+  ],
+  "opiniao_sugerida": "A leitura de que felicidade no trabalho e salário baixo podem andar juntas no Brasil é nossa.",
+  "atualizado": "2026-11-23T15:34"
+}

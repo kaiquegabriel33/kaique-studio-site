@@ -1,0 +1,89 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Huang volta à Nvidia e a ação ==sobe quase 30%==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 23/11 (14h20)",
+  "status": "pronto",
+  "criado": "2026-11-23T14:55:00-03:00",
+  "id": "sug-video-infomoney-huang-volta-nvidia",
+  "carrossel_id": "sug-video-infomoney-huang-volta-nvidia",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-infomoney-huang-volta-nvidia",
+  "noticia_grande": true,
+  "titulo": "Jensen Huang volta ao comando da Nvidia menos de duas semanas depois de sair, e a ação salta quase 30%",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "InfoMoney (reportagem sobre Jensen Huang e a Nvidia)",
+  "fato_em": "2026-11-23T09:00:00-03:00",
+  "vence_em": "2026-11-24T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=3fkGPgIo4H0",
+  "trecho_txt": "InfoMoney News (23/11/2026), reportagem sobre a volta de Jensen Huang à Nvidia.",
+  "motivo": "Notícia de mercado mais vista do dia lá fora: Huang reconduzido CEO por unanimidade, ação perto de +28% às 11h09 (InfoMoney, CNN Brasil, UOL, CNBC, 23/11). Já tínhamos o story da saída (sug-story-nvidia-huang-sai), então a volta fecha a história.",
+  "para_quem": "quem investe em ações americanas ou acompanha IA",
+  "diferenciacao": "a legenda lembra que a ação tinha caído 14% na sexta e mostra o tamanho do sobe e desce em dois pregões, com a investigação ainda aberta",
+  "trecho": {
+    "inicio": "Jansen Huang voltou ao comando",
+    "fim": "perto de US$ 161",
+    "aspa_manchete": "subiram quase 30%",
+    "gancho": "as ações da fabricante de chips subiram quase 30%",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Jansen Huang voltou ao comando",
+        "texto": "Jensen Huang, CEO da Nvidia"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      88
+    ]
+  },
+  "legenda": "Menos de duas semanas depois de sair, Jensen Huang voltou ao comando da Nvidia. E a ação subiu quase 30% no mesmo dia.\n\nEle tinha deixado o cargo em 12/11, no meio de uma investigação sobre suspeita de tentativa de espionagem ligada à China. O conselho aprovou a volta por unanimidade e diz que consultou o governo americano.\n\nA investigação continua aberta.\n\nNa sexta, a ação tinha caído 14%. Em dois pregões, o mercado tirou e devolveu bilhões por causa de uma pessoa só.\n\nVídeo: InfoMoney (23/11/2026).\n\n#nvidia #acoes #bolsa #investimentos",
+  "fontes": [
+    {
+      "titulo": "InfoMoney: Jensen Huang é reconduzido ao cargo de CEO da Nvidia e ação salta cerca de 30% (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=3fkGPgIo4H0"
+    },
+    {
+      "titulo": "CNN Brasil: Jensen Huang é reconduzido ao cargo de CEO da Nvidia (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=e2r-4z9eQvw"
+    },
+    {
+      "titulo": "UOL: Nvidia anuncia retorno de Jensen Huang como CEO (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=leRLX18UB4Q"
+    }
+  ],
+  "opiniao_sugerida": "A leitura de que o mercado votou no CEO, não na investigação, é nossa.",
+  "atualizado": "2026-11-23T15:34"
+}
