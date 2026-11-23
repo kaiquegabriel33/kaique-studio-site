@@ -33,7 +33,7 @@
     }
   ],
   "sugerido_por": "rotina Reels de teste 23/11 (14h20)",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-11-23T14:55:00-03:00",
   "id": "sug-video-gn-leblon-rua-mais-cara",
   "carrossel_id": "sug-video-gn-leblon-rua-mais-cara",
@@ -84,5 +84,25 @@
       "url": "https://www.youtube.com/watch?v=tTnSPUx3QNk"
     }
   ],
-  "atualizado": "2026-11-23T15:34"
+  "atualizado": "2026-11-23T15:40",
+  "publicado_em": "2026-11-23T15:40:00-03:00",
+  "video_final_id": "a14e39071e80a7421528e7295d4b0d4f",
+  "capa_id": "b199fc6fb4cb8992063bd5ddaca198fd",
+  "arquivo": "sug-video-gn-leblon-rua-mais-cara-tela-cheia.mp4",
+  "nota_corte": "GloboNews (23/11/2026), de 0:00 a ~0:53 (fim no ponto final “17% de aumento em um ano”: a piada da Camila Bonfim e o valor da Paulista, que o apresentador disse “reais” e o gráfico mostra US$ 1.087, ficaram fora); vídeo em pé com legenda gravada embaixo: crop 1080x1560 sem ampliar; Whisper corrigido (“Taúfa” → Ataulfo); 1,1x, 50,9 s. GANCHO (aviso) sem gancho: a frase da manchete (“a rua comercial mais cara do Brasil”) já abre o vídeo. conferir_video: FALANTE no gráfico (narração), FAIXA no CTA. auditar_cortes 0 (só o aviso de gancho).",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "agendado_metricool": {
+    "id": 439253274,
+    "uuid": "1676341902796079447",
+    "para": "2026-11-24T09:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-23T15:42:00-03:00",
+    "isAiGenerated": false
+  },
+  "nota_lote": "AGENDADO 23/11 15:42 (rotina Reels de teste 23/11 14h20): IG 24/11 09:40 (Reel de teste) (TikTok fica para a rodada das 8h20: hoje o TikTok fecha 10 em 24 h às 22:20). Corte puro 1,1x; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-23T15:45:00-03:00"
 }

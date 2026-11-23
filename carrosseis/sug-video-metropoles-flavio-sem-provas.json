@@ -33,7 +33,7 @@
     }
   ],
   "sugerido_por": "rotina Reels de teste 23/11 (14h20)",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-11-23T14:55:00-03:00",
   "id": "sug-video-metropoles-flavio-sem-provas",
   "carrossel_id": "sug-video-metropoles-flavio-sem-provas",
@@ -85,5 +85,33 @@
     }
   ],
   "opiniao_sugerida": "A pergunta final sobre acusar sem prova é leitura nossa.",
-  "atualizado": "2026-11-23T15:34"
+  "atualizado": "2026-11-23T15:40",
+  "publicado_em": "2026-11-23T15:40:00-03:00",
+  "video_final_id": "4e9fde87aed96ed4c156f0efbbb9dcc6",
+  "capa_id": "57e76ff7fef2e82383944335489ef0b7",
+  "arquivo": "sug-video-metropoles-flavio-sem-provas-tela-cheia.mp4",
+  "nota_corte": "Metrópoles (23/11/2026), reportagem sobre a entrevista de Flávio à Fox News (a fala dele é em inglês), de 0:00 a ~1:11 (fim no ponto final “não cumpriu o acordo”); gancho “porque segundo ele, abre aspas, é proibido de investigar”; Whisper corrigido (“Mota” → Motta); noticia_grande; 1,1x, 69,2 s. conferir_video: FALANTE na vinheta do programa no começo, pico real -0,9 dB, FAIXA no CTA. auditar_cortes 0.",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "agendado_metricool": {
+    "id": 439253041,
+    "uuid": "-7942441574178012624",
+    "para": "2026-11-23T19:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-23T15:42:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 439253724,
+    "uuid": "-7759462618771207461",
+    "para": "2026-11-23T22:20:00",
+    "tipo": "tiktok",
+    "em": "2026-11-23T15:42:00-03:00",
+    "isAigc": false
+  },
+  "nota_lote": "AGENDADO 23/11 15:42 (rotina Reels de teste 23/11 14h20): IG 23/11 19:40 (Reel de teste), TikTok 22:20. Corte puro 1,1x; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-23T15:45:00-03:00"
 }

@@ -33,7 +33,7 @@
     }
   ],
   "sugerido_por": "rotina Reels de teste 23/11 (14h20)",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-11-23T14:55:00-03:00",
   "id": "sug-video-infomoney-huang-volta-nvidia",
   "carrossel_id": "sug-video-infomoney-huang-volta-nvidia",
@@ -85,5 +85,33 @@
     }
   ],
   "opiniao_sugerida": "A leitura de que o mercado votou no CEO, não na investigação, é nossa.",
-  "atualizado": "2026-11-23T15:34"
+  "atualizado": "2026-11-23T15:40",
+  "publicado_em": "2026-11-23T15:40:00-03:00",
+  "video_final_id": "601b066e00886982513a2a5b7f749ae4",
+  "capa_id": "ea18e5439251e05409f2993c35a3ee64",
+  "arquivo": "sug-video-infomoney-huang-volta-nvidia-tela-cheia.mp4",
+  "nota_corte": "InfoMoney News (23/11/2026), reportagem de 0:00 a ~1:14 (fim no ponto final “perto de US$ 161”; a queda de 14% na sexta foi para a legenda para caber no teto); gancho “as ações... subiram quase 30%”; Whisper corrigido (“Vincent Hwang” era Jensen Huang); noticia_grande (cartão neutro); 1,1x, 73,2 s. conferir_video: FALANTE/ROSTO CORTADO nas imagens de apoio (narração por cima de Huang na rua e na multidão), FAIXA no CTA. auditar_cortes 0.",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "agendado_metricool": {
+    "id": 439252880,
+    "uuid": "6670897293149029283",
+    "para": "2026-11-23T19:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-23T15:42:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 439253624,
+    "uuid": "4767061278294691704",
+    "para": "2026-11-23T21:00:00",
+    "tipo": "tiktok",
+    "em": "2026-11-23T15:42:00-03:00",
+    "isAigc": false
+  },
+  "nota_lote": "AGENDADO 23/11 15:42 (rotina Reels de teste 23/11 14h20): IG 23/11 19:20 (Reel de teste), TikTok 21:00. Corte puro 1,1x; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-23T15:45:00-03:00"
 }

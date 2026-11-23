@@ -33,7 +33,7 @@
     }
   ],
   "sugerido_por": "rotina Reels de teste 23/11 (14h20)",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-11-23T14:55:00-03:00",
   "id": "sug-video-cnn-galipolo-corte-absoluto",
   "carrossel_id": "sug-video-cnn-galipolo-corte-absoluto",
@@ -85,5 +85,33 @@
     }
   ],
   "opiniao_sugerida": "A leitura de que ele fala de mexer na regra que faz o gasto crescer sozinho, e não no benefício, é nossa.",
-  "atualizado": "2026-11-23T15:34"
+  "atualizado": "2026-11-23T15:40",
+  "publicado_em": "2026-11-23T15:40:00-03:00",
+  "video_final_id": "dd8328ddf2d65aea6a68d90c1b10ef20",
+  "capa_id": "a371a5084c8500b4d078c04988607408",
+  "arquivo": "sug-video-cnn-galipolo-corte-absoluto-tela-cheia.mp4",
+  "nota_corte": "CNN Brasil Money (23/11/2026), fala de Galípolo em evento em SP (começa em “Então, acho que são essas coisas”, fim no ponto final “tensão entre as políticas econômicas”); gancho “É possível preservar programas, benefícios...”; vídeo em pé da CNN Money recortado no rosto; 1,1x, 57,4 s. conferir_video: repetição “corte absoluto” é da própria fala dele, 5 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0.",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "agendado_metricool": {
+    "id": 439252645,
+    "uuid": "-5684287138134208771",
+    "para": "2026-11-23T19:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-23T15:42:00-03:00",
+    "isAiGenerated": false
+  },
+  "agendado_tiktok": {
+    "id": 439253503,
+    "uuid": "-4383508355473848419",
+    "para": "2026-11-23T19:40:00",
+    "tipo": "tiktok",
+    "em": "2026-11-23T15:42:00-03:00",
+    "isAigc": false
+  },
+  "nota_lote": "AGENDADO 23/11 15:42 (rotina Reels de teste 23/11 14h20): IG 23/11 19:00 (Reel de teste), TikTok 19:40. Corte puro 1,1x; auditar_cortes 0. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-23T15:45:00-03:00"
 }
