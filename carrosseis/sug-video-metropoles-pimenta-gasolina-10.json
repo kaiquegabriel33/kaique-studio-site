@@ -1,0 +1,104 @@
+{
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "cta": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "video_partes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Líder do governo: sem o ajuste, ==gasolina a R$ 10==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "sugerido_por": "rotina Reels de teste 23/11 (11h20, modo enxuto)",
+  "status": "publicado",
+  "criado": "2026-11-23T12:35:00-03:00",
+  "id": "sug-video-metropoles-pimenta-gasolina-10",
+  "carrossel_id": "sug-video-metropoles-pimenta-gasolina-10",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-metropoles-pimenta-gasolina-10",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "noticia_grande": false,
+  "titulo": "Pimenta: o subsídio é o que segura a gasolina longe dos R$ 10, e depende do ajuste votado hoje",
+  "forca": "media",
+  "prioridade": 2,
+  "politico": "Paulo Pimenta (líder do governo na Câmara)",
+  "fato_em": "2026-11-23T08:30:00-03:00",
+  "vence_em": "2026-11-24T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=IKwaXWnnP2k",
+  "trecho_txt": "Metrópoles (23/11/2026), entrevista com Paulo Pimenta, de 2:45 a 3:54.",
+  "motivo": "Fala de bolso do líder do governo no dia da votação do ajuste fiscal na Câmara: o subsídio aos combustíveis seguraria a gasolina longe de R$ 10 e o diesel de R$ 9,50, e depende da aprovação do ajuste. O pacote retira até R$ 10,5 bi de subsídio ao diesel do cálculo da meta (Agência Brasil e O Globo, 11/11); subvenção de R$ 2,12 por litro de diesel renovada em 27/10 (G1, CNN).",
+  "para_quem": "quem abastece e sente o preço da gasolina e do diesel",
+  "diferenciacao": "a legenda separa o que é fato (o pacote tira até R$ 10,5 bi do subsídio ao diesel da meta) do que é a conta do governo (gasolina a R$ 10 sem subsídio) e pergunta quem paga o subsídio",
+  "opiniao_sugerida": "A pergunta final (subsídio também é gasto, e alguém paga) é leitura nossa.",
+  "trecho": {
+    "inicio": "É um ajuste necessário",
+    "fim": "na Câmara dos Deputados",
+    "aspa_manchete": "o preço da gasolina não tenha chegado a R$ 10",
+    "gancho": "a questão do subsídio, que hoje garante que o preço da gasolina não tenha chegado a R$ 10, o diesel a R$ 9,50",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "É um ajuste necessário",
+        "texto": "Paulo Pimenta, líder do governo na Câmara"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      85
+    ],
+    "texto": "É um ajuste necessário para que a gente possa organizar, né, o orçamento em 2027. Nós temos temas urgentes que precisam ser enfrentados, como a questão do subsídio, que hoje garante que o preço da gasolina não tenha chegado a R$ 10, o diesel a R$ 9,50, R$ 9,70. Alguns países optaram por deixar livre o preço da gasolina e o preço do combustível. E as consequências foram desastrosas para a inflação, pro preço dos alimentos. O presidente Lula determinou aqui que a gente mantivesse o preço do combustível num patamar adequado à realidade da economia do Brasil. Por isso que hoje a gente insiste tanto na importância de manter esse subsídio para que a gasolina continue nesse patamar que está, para que o diesel também não comprometa a inflação, as contas do país. Tudo isso depende muito da aprovação desse ajuste que a gente fará com certeza ainda na noite de hoje na Câmara dos Deputados.",
+    "foco_x": 0.5
+  },
+  "legenda": "O líder do governo na Câmara diz que, sem o subsídio, a gasolina já teria chegado a R$ 10 e o diesel a R$ 9,50.\n\nE liga isso ao ajuste fiscal que a Câmara vota hoje: o governo quer aprovar o texto do jeito que veio do Senado, sem nenhuma emenda.\n\nO que está no papel: o pacote tira até R$ 10,5 bilhões em subsídio ao diesel do cálculo da meta fiscal de 2026. A subvenção de R$ 2,12 por litro de diesel foi renovada em outubro.\n\nO R$ 10 na bomba é a conta do governo, não um número oficial. E subsídio também é gasto: segura o preço hoje, mas alguém paga a conta depois.\n\nVídeo: Metrópoles (23/11/2026).\n\n#gasolina #diesel #ajustefiscal #economia",
+  "fontes": [
+    {
+      "titulo": "Metrópoles: Pimenta: governo brigará na Câmara para aprovar ajuste fiscal sem emendas (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=IKwaXWnnP2k"
+    },
+    {
+      "titulo": "Agência Brasil: Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal (11/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Projeto+quer+retirar+R%24+10%2C5+bi+em+subs%C3%ADdios+ao+diesel+da+meta+fiscal"
+    },
+    {
+      "titulo": "O Globo: Pacote do governo prevê retirar até R$ 10,5 bilhões em subsídios ao diesel do cálculo da meta fiscal de 2026 (11/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Pacote+do+governo+prev%C3%AA+retirar+at%C3%A9+R%24+10%2C5+bilh%C3%B5es+em+subs%C3%ADdios+ao+diesel"
+    },
+    {
+      "titulo": "G1 / CNN Brasil: Governo renova subvenção de R$ 2,12 do diesel por mais 30 dias (27/10/2026)",
+      "url": "https://news.google.com/rss/search?q=Governo+renova+subven%C3%A7%C3%A3o+de+R%24+2%2C12+do+diesel"
+    }
+  ],
+  "publicado_em": "2026-11-23T13:05:00-03:00",
+  "atualizado": "2026-11-23T13:05",
+  "video_final_id": "4885cdb6bb890a2dc328e66faf3c4d22",
+  "capa_id": "8aa6d87edafcee159c132f37a8990022",
+  "arquivo": "sug-video-metropoles-pimenta-gasolina-10-tela-cheia.mp4",
+  "nota_corte": "Metrópoles (23/11/2026), entrevista com Paulo Pimenta, de 2:45 a 3:54 (começa em “É um ajuste necessário”, fim no ponto final “na Câmara dos Deputados”); gancho “como a questão do subsídio... gasolina não tenha chegado a R$ 10, o diesel a R$ 9,50”; bate 100% (Whisper corrigido: “dízimo” era “diesel”); 1,1x, 69,8 s. A fonte alterna tela dividida (apresentadora × Pimenta), Pimenta sozinho e Pimenta × imagem do Lula: o foco automático ficava no meio da tela dividida, então a gravação foi deslocada por plano para Pimenta no centro (gravacao-orig.mp4 guardada) e `foco_x` 0,5. conferir_video: FALANTE de 0:23.8 a 0:25.8 (troca de plano), 2 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0."
+}
