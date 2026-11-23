@@ -1,0 +1,51 @@
+{
+  "id": "sug-story-tesouro-ipca-793",
+  "carrossel_id": "sug-story-tesouro-ipca-793",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: Tesouro IPCA+ 2032 a 7,93% com o dólar em R$ 6",
+  "criado": "2026-11-23T13:05:00-03:00",
+  "atualizado": "2026-11-23T13:05:00-03:00",
+  "vence_em": "2026-11-24T23:59:00-03:00",
+  "forca": "alta",
+  "papel_story": "conteudo_do_dia",
+  "para_quem": "quem tem dinheiro parado e ouviu falar de Tesouro Direto",
+  "comentario": "Quase 8% ao ano acima da inflação até 2032. É quanto o governo topa pagar pra pegar dinheiro emprestado quando o mercado duvida da conta. Quem empresta é você, pelo Tesouro Direto.",
+  "repost_url": "https://einvestidor.estadao.com.br/",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Quase [[vermelho:8% ao ano acima da inflação]] até 2032. É quanto o governo topa pagar pra pegar dinheiro emprestado quando o mercado duvida da conta. Quem empresta é você, pelo Tesouro Direto."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-tesouro-ipca-793/print-news-google-com-tesouro-volta-a-abrir-premio-com.png",
+          "h": 600,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Estadão E-Investidor (23/11/2026): Tesouro volta a abrir prêmio com dólar a R$ 6 antes de votação fiscal; IPCA+ 2032 chega a 7,93%",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNWtFSTlwcDZTem1FWW9vb2JnNGtwMHhrRWxtczRmUE5jSWlXWU8tN0JHa2dQUkNWejhTYTN0Q1pLcGJfdlBjcnlUM3FHbHNwb21XSi1MMWdwNHZzd3dzVXk1a3AtSXYzanRWNnJoNUh1NGFlLXY5blBtd3l2LU1pbk5VQTRHMmYwc3hFUXRUb3RyZS01RkdIUHhQMlBZdTA1V1o0X3M3ZHp2UTA3WlRPTXZpdkRGRmppckEtd3RTaE53MmZpbjZvT0N0a01ieWQzZGNZSGhZd0otWUlxR3hMM3BtTdIB6AFBVV95cUxOWEdCVHBkNTNXbjNiMjV5ZHZmT3AyRnhVeEZmM0tSSXRfSU1aNVIzOHFQWXRUWTYyS0J6MERXSmVJWktRYkYxX2w4UmdlZUdZdDBHbFAxS1pUZFBYV2JuazNqdHE1djZ2Q2lhcHBGQWNEYkdfYUlJRVI3Vk1WTm1SR3FsTlp5QUFXa2NtRWp2ZzBpMzdKeHBlZENCQTR0WFluMHM5ckRURktrTTdOdDdYdDYtdG1GaWJWMjVjcWZLd19iaHUzUVYtZTdiMTk5TVB4VjRvenQ0dnhIdjJVTDBOdWs0VGJpSHNs?oc=5"
+    }
+  ],
+  "motivo": "Confirmar antes: a taxa do IPCA+ 2032 na hora de postar. Prateleira story (InfoMoney/oportunidade, 12:30 ou 15:00): o Tesouro pagando quase 8% de juro real no dia em que a Câmara vota o ajuste. Quem manda pra quem tem dinheiro parado na poupança. Diferenciação: a leitura dele (o juro alto é o preço da desconfiança), não o print sozinho.",
+  "confira_na_previa": [
+    "A taxa do Tesouro muda ao longo do dia; se na hora de postar o IPCA+ 2032 estiver bem diferente de 7,93%, trocar o número.",
+    "Não é recomendação: o story descreve o juro, não diz para comprar. Quem vende antes de 2032 pode ganhar ou perder (marcação a mercado)."
+  ],
+  "revisar_antes_da_voz": [],
+  "versao": 1
+}
