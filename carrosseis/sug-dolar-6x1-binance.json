@@ -1,0 +1,25 @@
+{
+  "id": "sug-dolar-6x1-binance",
+  "titulo": "A escala 6x1 do dólar",
+  "status": "publicado",
+  "formato": "post",
+  "criado": "2026-11-22T21:05:00-03:00",
+  "atualizado": "2026-11-22T21:05",
+  "slides": [
+    {
+      "tema": "claro",
+      "papel": "post",
+      "elementos": [
+        {"tipo": "texto", "tam": 50, "texto": "A B3 só abre amanhã. ==O dólar digital já passou de R$ 6,10.=="},
+        {"tipo": "texto", "tam": 32, "texto": "O último fechamento aqui foi R$ 5,93, na quinta. Com o feriado e o fim de semana, quem quis dólar foi pra cripto: na Binance, o USDT rodou nas últimas 24 horas entre R$ 6,08 e R$ 6,15."},
+        {"tipo": "imagem", "src": "midia/sug-dolar-6x1-binance/print-binance-usdt-brl.jpg", "h": 430, "ajuste": "conter", "raio": 18}
+      ]
+    }
+  ],
+  "legenda": "Amanhã começa a escala 6x1 do dólar. O fim da 6x1 de verdade só vale a partir de 16 de dezembro, mas o dólar já tirou a folga dele: fechou na quinta a R$ 5,93 e, com o feriado de sexta e o fim de semana, a B3 só volta amanhã.\n\nSó que cripto não fecha. Na Binance, o USDT, a moeda digital atrelada ao dólar, passou o domingo perto de R$ 6,10. É quase 3% acima de quinta, e funciona como uma prévia de como o dólar pode abrir na segunda.\n\nNão é o dólar comercial, tá? O USDT costuma rodar um pouco acima. Mas com três dias sem pregão, é ali que dá pra ver o humor do mercado.\n\nVocê acha que abre perto disso amanhã?\n\nFontes: Binance (USDT/BRL, 22/11/2026, 21h); fechamento do dólar comercial em 19/11/2026 (R$ 5,93). Print: Binance.\n\n#dolar #cambio #cripto #usdt #binance #6x1",
+  "fontes": [
+    {"titulo": "Binance: USDT/BRL (22/11/2026)", "url": "https://www.binance.com/pt-BR/trade/USDT_BRL"},
+    {"titulo": "Dólar sobe pela sexta sessão e fecha a R$ 5,93 (19/11/2026)", "url": "https://itabiraonline.com.br/2026/11/20/dolar-sobe-pela-sexta-sessao-consecutiva-fecha-a-r-593-e-atinge-maior-cotacao-desde-de-2025/"},
+    {"titulo": "Senado aprova fim da escala 6x1 (14/10/2026)", "url": "https://www12.senado.leg.br/noticias/materias/2026/10/14/senado-aprova-fim-da-escala-6x1-1"}
+  ]
+}
