@@ -13,7 +13,7 @@
   "vence_em": "2026-11-25T23:59:00-03:00",
   "video_url": "https://www.youtube.com/watch?v=7YKPBBYTsKI",
   "video_partes": [],
-  "status": "pronto",
+  "status": "publicado",
   "sugerido_por": "rotina Reels de teste 24/11 (8h20, disparou 11h04: modo enxuto)",
   "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
   "para_quem": "quem paga juro alto e quer entender por que o BC não baixa a Selic",
@@ -84,5 +84,22 @@
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
   },
-  "opiniao_sugerida": "A leitura de bolso (juro sem pressa de cair com o dólar acima de R$ 6) é nossa."
+  "opiniao_sugerida": "A leitura de bolso (juro sem pressa de cair com o dólar acima de R$ 6) é nossa.",
+  "video_final_id": "1b6a7cb5bc52a53420626874484e9afa",
+  "capa_id": "178f58dfd64d8b21dce4e10ca12d7593",
+  "agendado_metricool": {
+    "id": 440415275,
+    "uuid": "-4379030205626432661",
+    "para": "2026-11-24T13:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-24T11:57:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 440415456,
+    "uuid": "8531566456729849131",
+    "para": "2026-11-24T18:20:00-03:00",
+    "em": "2026-11-24T11:57:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-24T11:58:00-03:00"
 }
