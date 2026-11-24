@@ -95,5 +95,21 @@
   "capa_id": "3c5db746228f83a90a0dd4987f0e1acc",
   "arquivo": "sug-video-cnn-dolar-cai-pec-tela-cheia.mp4",
   "publicado_em": "2026-11-24T15:15:00-03:00",
-  "nota_corte": "CNN Mercado (24/11/2026), abertura da 2ª edição (começa em “Já o dólar cai com força”, fim no ponto final “o texto que o Congresso aprovar”); gancho “o presidente Lula autorizou a equipe econômica a enviar ao Congresso uma PEC”; 1,1x, 36,2 s. conferir_video: 2 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0."
+  "nota_corte": "CNN Mercado (24/11/2026), abertura da 2ª edição (começa em “Já o dólar cai com força”, fim no ponto final “o texto que o Congresso aprovar”); gancho “o presidente Lula autorizou a equipe econômica a enviar ao Congresso uma PEC”; 1,1x, 36,2 s. conferir_video: 2 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0.",
+  "agendado_metricool": {
+    "id": 440722227,
+    "uuid": "3734097756653242213",
+    "para": "2026-11-24T19:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-24T15:38:00-03:00"
+  },
+  "nota_lote": "AGENDADO 24/11 15:38 (rotina Reels de teste 24/11 14h20): IG 24/11 19:00 (Reel de teste), TikTok 22:20. Corte puro 1,1x; auditar_cortes 0. Não poste à mão.",
+  "agendado_tiktok": {
+    "id": 440722873,
+    "uuid": "2336017265261563381",
+    "para": "2026-11-24T22:20:00-03:00",
+    "em": "2026-11-24T15:38:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-24T15:40:00-03:00"
 }
