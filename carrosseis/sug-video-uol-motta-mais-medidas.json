@@ -13,7 +13,7 @@
   "vence_em": "2026-11-25T23:59:00-03:00",
   "video_url": "https://www.youtube.com/watch?v=_GvH_a_3nkw",
   "video_partes": [],
-  "status": "pronto",
+  "status": "publicado",
   "sugerido_por": "rotina Reels de teste 24/11 (8h20, disparou 11h04: modo enxuto)",
   "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
   "para_quem": "quem sente o dólar alto no preço e quer saber se o ajuste aprovado resolve",
@@ -97,5 +97,22 @@
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
-  }
+  },
+  "agendado_metricool": {
+    "id": 440374925,
+    "uuid": "2240278080695191569",
+    "para": "2026-11-24T14:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-24T11:30:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 440376083,
+    "uuid": "-5306370678784766183",
+    "para": "2026-11-24T15:40:00-03:00",
+    "em": "2026-11-24T11:30:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-24T11:31:00-03:00",
+  "video_final_id": "13b482566805def0ee2210d17d52e809",
+  "capa_id": "7e1bd25c539541ee8fa9e569c4198d1e"
 }

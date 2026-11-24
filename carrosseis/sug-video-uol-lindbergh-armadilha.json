@@ -13,7 +13,7 @@
   "vence_em": "2026-11-25T23:59:00-03:00",
   "video_url": "https://www.youtube.com/watch?v=CG_3LkgMc64",
   "video_partes": [],
-  "status": "pronto",
+  "status": "publicado",
   "sugerido_por": "rotina Reels de teste 24/11 (8h20, disparou 11h04: modo enxuto)",
   "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
   "para_quem": "quem quer entender por que até deputado do PT ficou fora do ajuste do próprio governo",
@@ -37,7 +37,7 @@
     }
   ],
   "motivo": "Fala de ontem à noite na tribuna da Câmara, na votação do ajuste fiscal: deputado do PT se abstém no pacote do governo Lula e diz que a equipe econômica caiu no discurso de que 'não há alternativa' por causa de uma 'armadilha no mercado'. 44 veículos no radar em menos de 1 h (G1, O Globo, Poder360, Terra). Os números (0,34% de déficit, quinto menor do G20; R$ 1,25 tri de juros) são dele, sem fonte no discurso: vão como fala dele.",
-  "legenda": "“Tem uma armadilha no mercado.”\n\nQuem disse foi o Lindbergh Farias, deputado do PT, na noite de 23/11 na Câmara, logo antes de se abster na votação do ajuste fiscal do governo Lula.\n\nEle diz que continua sendo Lula, mas que parte da equipe econômica comprou o discurso de que não há alternativa: ou corta, ou o dólar sobe e vem inflação.\n\nNo resto do discurso, ele compara: déficit de 0,34% do PIB, que ele diz ser o 5º menor do G20, contra R$ 1,25 trilhão pagos em juros. Os números são dele.\n\nO ajuste passou mesmo assim e vai à sanção. E a briga agora é dentro da própria base.\n\nVídeo: UOL (23/11/2026).\n\n#ajustefiscal #lindbergh #lula #economia",
+  "legenda": "“Tem uma armadilha no mercado.”\n\nQuem disse foi o Lindbergh Farias, deputado do PT, na noite de 23/11 na Câmara, logo antes de se abster na votação do ajuste fiscal do governo Lula.\n\nEle diz que continua sendo Lula, mas que parte da equipe econômica comprou o discurso de que não há alternativa: ou corta, ou o dólar sobe e vem inflação.\n\nNo resto do discurso, ele compara o déficit primário do Brasil, que ele diz ser o 5º menor do G20, com o R$ 1,25 trilhão que o país paga em juros. Os números são dele.\n\nO ajuste passou mesmo assim e vai à sanção. E a briga agora é dentro da própria base.\n\nVídeo: UOL (23/11/2026).\n\n#ajustefiscal #lindbergh #lula #economia",
   "trecho": {
     "inicio": "Mas eu me",
     "fim": "Não há gastança",
@@ -97,5 +97,22 @@
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
-  }
+  },
+  "agendado_metricool": {
+    "id": 440374460,
+    "uuid": "-8696126489561184824",
+    "para": "2026-11-24T13:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-24T11:29:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 440375798,
+    "uuid": "-3577809383609971647",
+    "para": "2026-11-24T14:20:00-03:00",
+    "em": "2026-11-24T11:30:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-24T11:31:00-03:00",
+  "video_final_id": "0d7bf5139b7671a697bc796769730085",
+  "capa_id": "e4a723d097f2c893de322b8352192c16"
 }
