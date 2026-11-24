@@ -1,0 +1,101 @@
+{
+  "id": "sug-video-uol-motta-mais-medidas",
+  "titulo": "Hugo Motta, depois de aprovar o ajuste: \"é necessário, ainda neste ano, tomarmos mais algumas medidas\"",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "alta",
+  "prioridade": 2,
+  "cta": true,
+  "politico": "Hugo Motta (presidente da Câmara, Republicanos-PB)",
+  "fato_em": "2026-11-23T22:00:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=_GvH_a_3nkw",
+  "video_partes": [],
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 24/11 (8h20, disparou 11h04: modo enxuto)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "para_quem": "quem sente o dólar alto no preço e quer saber se o ajuste aprovado resolve",
+  "diferenciacao": "a legenda mostra o contraste: quem acabou de aprovar o pacote do governo já diz no microfone que ele não basta, e liga o dólar à inflação de quem mais precisa",
+  "fontes": [
+    {
+      "titulo": "UOL: Hugo Motta pede novas medidas econômicas após aprovação do ajuste fiscal de Lula (24/11/2026)",
+      "url": "https://www.youtube.com/watch?v=_GvH_a_3nkw"
+    },
+    {
+      "titulo": "G1: Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026 (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Hugo+Motta+defende+novas+medidas+ainda+em+2026"
+    },
+    {
+      "titulo": "Congresso em Foco: Hugo Motta celebra aprovação do ajuste fiscal: \"primeiro passo\" (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Hugo+Motta+celebra+aprova%C3%A7%C3%A3o+ajuste+fiscal+primeiro+passo"
+    },
+    {
+      "titulo": "SBT News: Pacote fiscal é só o primeiro passo do ajuste, afirma Durigan (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=EiJySRk4dcQ"
+    }
+  ],
+  "motivo": "Fala de ontem à noite, no fim da votação do ajuste fiscal: o presidente da Câmara, logo depois de aprovar o pacote de Lula, pede ao governo mais medidas ainda em 2026 e cita a alta do dólar e a inflação. G1, UOL e Congresso em Foco.",
+  "legenda": "“É necessário, ainda neste ano, tomarmos mais algumas medidas.”\n\nQuem disse foi o Hugo Motta, presidente da Câmara, minutos depois de aprovar o ajuste fiscal do governo Lula, na noite de 23/11.\n\nO pacote passou e vai à sanção. E o próprio presidente da Casa já avisa no microfone que ele não basta.\n\nO motivo que ele deu é o dólar: a alta dos últimos dias chega na inflação, e a inflação pesa mais em quem ganha menos.\n\nO governo chamou o pacote de primeiro passo. Falta saber qual é o segundo e quem paga por ele.\n\nVídeo: UOL (23/11/2026).\n\n#ajustefiscal #hugomotta #dolar #economia",
+  "trecho": {
+    "inicio": "e espero, deputado Paulo Pimenta",
+    "fim": "dependem da mão do governo",
+    "gancho": "é necessário, ainda neste ano, tomarmos mais algumas medidas",
+    "aspa_manchete": "é necessário, ainda neste ano, tomarmos mais algumas medidas",
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      75
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Eu espero",
+        "texto": "Hugo Motta, presidente da Câmara, ao fim da votação do ajuste"
+      }
+    ],
+    "texto": "e espero, deputado Paulo Pimenta, Vossa Excelência, que é líder do governo aqui nesta casa, que o governo possa se conscientizar que é necessário, ainda neste ano, tomarmos mais algumas medidas no que diz respeito à economia do país. Eu não estou aqui defendendo que prejudiquemos os mais pobres ou que o presidente abra mão daquilo que é, para ele, um pilar de sustentação da sua trajetória política, mas que tenhamos condições de ter um ambiente econômico mais saudável, com a queda na taxa de juros, com o controle daquilo que vimos nos últimos dias, infelizmente, acontecer, que foi a alta do preço do dólar. Isso impacta diretamente na inflação, prejudica os que mais precisam e tira aquilo que é mais importante para todos nós, que é proteger as pessoas mais carentes, proteger socialmente aqueles que dependem da mão do governo.",
+    "girar": "nao",
+    "legenda": false,
+    "crop": [
+      1080,
+      1570,
+      0,
+      0
+    ],
+    "enquadrar": false,
+    "preencher": false
+  },
+  "trecho_txt": "UOL (23/11/2026), Hugo Motta no plenário da Câmara, no fim da votação do ajuste fiscal, de 0:15 a 1:12.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Motta: ==“é necessário, ainda neste ano, tomarmos mais algumas medidas”=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  }
+}

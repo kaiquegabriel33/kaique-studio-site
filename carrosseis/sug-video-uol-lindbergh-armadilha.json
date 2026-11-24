@@ -1,0 +1,101 @@
+{
+  "id": "sug-video-uol-lindbergh-armadilha",
+  "titulo": "Lindbergh se abstém no ajuste fiscal de Lula: \"tem uma armadilha no mercado\"",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "alta",
+  "prioridade": 1,
+  "cta": true,
+  "politico": "Lindbergh Farias (deputado federal, PT-RJ)",
+  "fato_em": "2026-11-23T22:00:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=CG_3LkgMc64",
+  "video_partes": [],
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 24/11 (8h20, disparou 11h04: modo enxuto)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "para_quem": "quem quer entender por que até deputado do PT ficou fora do ajuste do próprio governo",
+  "diferenciacao": "a legenda põe a conta que ele mesmo citou (R$ 1,25 tri de juros contra déficit de 0,34% do PIB) do lado de quem chama isso de gastança, e lembra que o ajuste passou mesmo assim",
+  "fontes": [
+    {
+      "titulo": "UOL: Lindbergh evita votação e se abstém sobre ajuste fiscal: 'Armadilha' (24/11/2026)",
+      "url": "https://www.youtube.com/watch?v=CG_3LkgMc64"
+    },
+    {
+      "titulo": "G1: Nenhum deputado do PSOL votou a favor do ajuste fiscal na Câmara; 2 parlamentares do PT criticaram projeto e se abstiveram (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Nenhum+deputado+do+PSOL+votou+a+favor+do+ajuste+fiscal"
+    },
+    {
+      "titulo": "O Globo: Abstenções de Lindbergh (PT) e Erika Hilton (PSOL) chamam a atenção na votação do pacote fiscal de Lula (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Absten%C3%A7%C3%B5es+de+Lindbergh+Erika+Hilton+pacote+fiscal"
+    },
+    {
+      "titulo": "Terra: Lindbergh vai na contramão do PT, abstém voto e diz que ajuste fiscal é ‘armadilha do mercado’ (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Lindbergh+contram%C3%A3o+do+PT+armadilha+do+mercado"
+    }
+  ],
+  "motivo": "Fala de ontem à noite na tribuna da Câmara, na votação do ajuste fiscal: deputado do PT se abstém no pacote do governo Lula e diz que a equipe econômica caiu no discurso de que 'não há alternativa' por causa de uma 'armadilha no mercado'. 44 veículos no radar em menos de 1 h (G1, O Globo, Poder360, Terra). Os números (0,34% de déficit, quinto menor do G20; R$ 1,25 tri de juros) são dele, sem fonte no discurso: vão como fala dele.",
+  "legenda": "“Tem uma armadilha no mercado.”\n\nQuem disse foi o Lindbergh Farias, deputado do PT, na noite de 23/11 na Câmara, logo antes de se abster na votação do ajuste fiscal do governo Lula.\n\nEle diz que continua sendo Lula, mas que parte da equipe econômica comprou o discurso de que não há alternativa: ou corta, ou o dólar sobe e vem inflação.\n\nNo resto do discurso, ele compara: déficit de 0,34% do PIB, que ele diz ser o 5º menor do G20, contra R$ 1,25 trilhão pagos em juros. Os números são dele.\n\nO ajuste passou mesmo assim e vai à sanção. E a briga agora é dentro da própria base.\n\nVídeo: UOL (23/11/2026).\n\n#ajustefiscal #lindbergh #lula #economia",
+  "trecho": {
+    "inicio": "Mas eu me",
+    "fim": "Não há gastança",
+    "gancho": "tem uma armadilha no mercado",
+    "aspa_manchete": "tem uma armadilha no mercado",
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      84
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Mas eu me",
+        "texto": "Lindbergh Farias (PT-RJ), na votação do ajuste fiscal"
+      }
+    ],
+    "texto": "Mas eu me sujo contra porque em alguns momentos da história a gente tem que saber se posicionar para defender da melhor forma o Lula. E o governo Lula vai ter que dar certo. Margaret Thatcher, no início do neoliberalismo, ela expressou uma frase, não há alternativas, Tina. Parece que uma parte da equipe econômica está entrando nesse discurso, não há alternativa, tem uma armadilha no mercado. Eles vão botar o dólar lá para cima, eles vão nos quebrar, vai ter inflação, não há alternativa. Eu me sujo nesse momento porque tem outro caminho, tem outro caminho. Aproveitar a energia das ruas, apresentar um projeto de desenvolvimento nacional, dizer que dá para tirar investimentos do arcabouço das regras fiscais. Nós já fizemos isso. Tinha um outro caminho, que é de enfrentar esse discurso falso da gastança. Não há gastança.",
+    "girar": "nao",
+    "legenda": false,
+    "crop": [
+      1080,
+      1570,
+      0,
+      0
+    ],
+    "enquadrar": false,
+    "preencher": false
+  },
+  "trecho_txt": "UOL (23/11/2026), discurso de Lindbergh Farias no plenário da Câmara, de 0:31 a 1:41.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Lindbergh: ==“tem uma armadilha no mercado”=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  }
+}
