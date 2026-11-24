@@ -1,0 +1,103 @@
+{
+  "id": "sug-video-cbn-petrobras-plano-recorde",
+  "carrossel_id": "sug-video-cbn-petrobras-plano-recorde",
+  "titulo": "CBN: Petrobras anuncia plano recorde de US$ 122 bilhões e R$ 15,6 bilhões em dividendos extras",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "forca": "media",
+  "prioridade": 2,
+  "cta": true,
+  "politico": "Rádio CBN (repórter Diogo Bugalho)",
+  "fato_em": "2026-11-23T19:00:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=mV5jf7dL0dk",
+  "video_partes": [],
+  "status": "publicado",
+  "sugerido_por": "rotina Reels de teste 24/11 (14h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "para_quem": "quem tem ou pensa em ter PETR4 e quem quer saber se a Petrobras vai pagar menos dividendo daqui pra frente",
+  "diferenciacao": "a legenda mostra o dilema do acionista: dinheiro que vai para investimento recorde é dinheiro que não volta como dividendo, e por isso parte do mercado gostou mais do dividendo extra do que do plano",
+  "fontes": [
+    {
+      "titulo": "Rádio CBN: Petrobras anuncia plano de investimentos recorde de US$ 122 bilhões (24/11/2026)",
+      "url": "https://www.youtube.com/watch?v=mV5jf7dL0dk"
+    },
+    {
+      "titulo": "UOL Economia: Petrobras eleva investimento a US$ 122 bilhões e projeta dividendos (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Petrobras+eleva+investimento+122+bilh%C3%B5es+UOL"
+    },
+    {
+      "titulo": "NeoFeed: Plano de US$ 122 bilhões da Petrobras agrada menos que o dividendo extra (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Plano+de+US%24+122+bilh%C3%B5es+da+Petrobras+agrada+menos+que+o+dividendo+extra"
+    },
+    {
+      "titulo": "Agência Brasil: Petrobras aprova pagamento de R$ 15,6 bilhões a acionistas (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Petrobras+aprova+pagamento+de+R%24+15%2C6+bilh%C3%B5es+a+acionistas"
+    }
+  ],
+  "motivo": "Plano de negócios 2027-2031 da Petrobras, anunciado em 23/11: US$ 122 bilhões, 12% acima do plano atual, e dividendos extraordinários. CBN, UOL, NeoFeed, Exame. Vale para amanhã cedo.",
+  "legenda": "A Petrobras vai investir 122 bilhões de dólares entre 2027 e 2031. É o maior plano da história dela, 12% acima do atual.\n\nNo mesmo anúncio, ela aprovou R$ 15,6 bilhões em dividendos extras para os acionistas.\n\nO detalhe que o acionista precisa olhar: dinheiro que vai para plataforma e refinaria é dinheiro que não volta como dividendo. Por isso o NeoFeed resumiu assim: o plano agradou menos que o dividendo extra.\n\nMais de 70% vai para exploração e produção, incluindo a Margem Equatorial, no litoral do Norte e do Nordeste.\n\nVídeo: Rádio CBN (24/11/2026). Informações: UOL, NeoFeed e Agência Brasil.\n\n#petrobras #petr4 #dividendos #investimentos",
+  "trecho": {
+    "inicio": "A Petrobras anunciou nesta segunda",
+    "fim": "pagamento de dividendos extraordinários",
+    "gancho": "",
+    "aspa_manchete": "US$ 122 bilhões",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "A Petrobras anunciou nesta",
+        "texto": "Rádio CBN, 24/11: plano da Petrobras"
+      }
+    ],
+    "texto": "A Petrobras anunciou nessa segunda-feira investimentos totais de 122 bilhões de dólares pros anos de 2027 a 2031, sendo 113 bilhões em projetos da carteira em implantação e 9 bilhões de dólares dentro do portfólio de avaliação, que é o termo que a companhia usa para falar das oportunidades ainda em fase inicial, em fase de desenvolvimento. Esse valor total do plano de investimentos é recorde e 12% maior que os 109 bilhões de dólares do plano atual, que vai de 2026 a 2030. A companhia também anunciou o pagamento de dividendos extraordinários.",
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      75
+    ]
+  },
+  "trecho_txt": "Rádio CBN (24/11/2026), repórter Diogo Bugalho sobre o plano 2027-2031 da Petrobras.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Petrobras: ==plano recorde de US$ 122 bi== e dividendo extra",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "criado": "2026-11-24T14:50:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cbn-petrobras-plano-recorde",
+  "opiniao_sugerida": "'Dinheiro que vai para investimento não volta como dividendo' é leitura nossa (o NeoFeed diz que o plano agradou menos que o dividendo).",
+  "atualizado": "2026-11-24T15:15",
+  "video_final_id": "ae8aca299ff0b9aefbb313d59d6a711a",
+  "capa_id": "498e85d3f384f99feb70965c8ac2fc0c",
+  "arquivo": "sug-video-cbn-petrobras-plano-recorde-tela-cheia.mp4",
+  "publicado_em": "2026-11-24T15:15:00-03:00",
+  "nota_corte": "Rádio CBN (24/11/2026), repórter Diogo Bugalho ao telefone, estúdio na tela (começa em “A Petrobras anunciou nesta segunda-feira”, fim no ponto final “dividendos extraordinários”); sem gancho separado: “US$ 122 bilhões” já está nos primeiros 2 s; cartão “Rádio CBN, 24/11” (não o nome dele, porque na tela aparece a apresentadora); 1,1x, 40,3 s. conferir_video: 1 estalo da fonte, pausa de 0,36 s natural, FAIXA escura no CTA (padrão). auditar_cortes 0 (aviso GANCHO: a manchete não tem aspa, o número abre o vídeo)."
+}

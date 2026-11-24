@@ -1,0 +1,98 @@
+{
+  "id": "sug-video-cnn-5x2-fiscalizacao-multa",
+  "carrossel_id": "sug-video-cnn-5x2-fiscalizacao-multa",
+  "titulo": "CNN: portaria da escala 5x2 prevê fiscalização nos primeiros 90 dias e multa para empresa que não cumprir",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "forca": "media",
+  "prioridade": 2,
+  "cta": true,
+  "politico": "CNN Novo Dia (repórter Duda Cambraia)",
+  "fato_em": "2026-11-23T18:00:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=yEEFWl2OLtU",
+  "video_partes": [],
+  "status": "publicado",
+  "sugerido_por": "rotina Reels de teste 24/11 (14h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "para_quem": "quem trabalha na escala 6x1 hoje e quer saber se a empresa vai mesmo cumprir a 5x2 em 16/12",
+  "diferenciacao": "a legenda diz o que fazer se a empresa não mudar a escala: os 90 dias são de orientação, depois vem a multa, e o trabalhador pode denunciar",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil: Governo prevê fiscalizar empresas nos primeiros 90 dias da escala 5x2 | CNN Novo Dia (24/11/2026)",
+      "url": "https://www.youtube.com/watch?v=yEEFWl2OLtU"
+    },
+    {
+      "titulo": "Rádio Itatiaia: Governo Lula prevê fiscalizar empresas nos primeiros 90 dias da 'escala 5x2'; saiba detalhes (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Governo+Lula+prev%C3%AA+fiscalizar+empresas+90+dias+escala+5x2"
+    },
+    {
+      "titulo": "O POVO: Escala 5x2: governo vai fiscalizar empresas e prevê multas (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=N7eo6JbMaXQ"
+    }
+  ],
+  "motivo": "Portaria do Ministério do Trabalho publicada em 23/11 com as regras complementares do fim da 6x1: fiscalização nos 90 dias depois de 16/12 e multa para quem não cumprir. CNN, Itatiaia, O POVO, Record.",
+  "legenda": "A escala 5x2 começa em 16 de dezembro. E agora tem fiscal e multa.\n\nO Ministério do Trabalho publicou ontem uma portaria: nos primeiros 90 dias o auditor passa na empresa para orientar. Depois ele volta para conferir. Quem não cumprir leva multa.\n\nNa primeira fase, a semana cai de 44 para 42 horas, com duas folgas por semana para todo mundo.\n\nSe a sua empresa disser que \"ainda não chegou a hora\", ela tem até 16/12. Depois disso, é com o fiscal.\n\nVídeo: CNN Brasil (24/11/2026). Informações: Itatiaia e O POVO.\n\n#escala5x2 #fimda6x1 #trabalho #clt",
+  "trecho": {
+    "inicio": "dois pontos novos",
+    "fim": "não respeitem essa nova regra de escala de trabalho",
+    "gancho": "a aplicação da multa a esses empregadores, caso essas empresas não respeitem essa nova regra",
+    "aspa_manchete": "aplicação da multa",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "dois pontos novos",
+        "texto": "Duda Cambraia, repórter da CNN"
+      }
+    ],
+    "texto": "dois pontos novos que vieram através dessa portaria publicada pelo Ministério do Trabalho. Primeiro, um ponto que prevê então a fiscalização por parte do governo federal num prazo de até 90 dias após o início da implementação e uma fiscalização desses empregadores para garantir que as empresas vão aderir à nova escala de trabalho. A fiscalização vai acontecer nas duas etapas de implementação, tanto no dia 16 de dezembro como também em dezembro de 2027. Um outro ponto de novidade que complementa então o decreto da presidência que regulamentou o fim da escala 6x1 é a aplicação da multa a esses empregadores, caso essas empresas não respeitem essa nova regra de escala de trabalho.",
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      75
+    ]
+  },
+  "trecho_txt": "CNN Brasil, CNN Novo Dia (24/11/2026), repórter Duda Cambraia sobre a portaria do Ministério do Trabalho.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Escala 5x2: ==fiscal nos 90 dias== e multa para empresa",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": false,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "criado": "2026-11-24T14:50:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-5x2-fiscalizacao-multa",
+  "atualizado": "2026-11-24T15:15",
+  "video_final_id": "b80ff2de1f7a059586f0d14d7bc2e05c",
+  "capa_id": "b7b22e3f581344bd7897c6dd7948d5f9",
+  "arquivo": "sug-video-cnn-5x2-fiscalizacao-multa-tela-cheia.mp4",
+  "publicado_em": "2026-11-24T15:15:00-03:00",
+  "nota_corte": "CNN Novo Dia (24/11/2026), repórter Duda Cambraia (começa em “dois pontos novos”, fim no ponto final “essa nova regra de escala de trabalho”); gancho “a aplicação da multa a esses empregadores...”; 1,1x, 50,0 s. conferir_video: 2 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0."
+}

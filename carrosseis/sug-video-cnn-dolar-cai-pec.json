@@ -1,0 +1,99 @@
+{
+  "id": "sug-video-cnn-dolar-cai-pec",
+  "carrossel_id": "sug-video-cnn-dolar-cai-pec",
+  "titulo": "CNN Mercado: dólar cai com força depois que Lula autoriza PEC para conter despesas obrigatórias",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "forca": "alta",
+  "prioridade": 1,
+  "cta": true,
+  "politico": "CNN Mercado (âncora)",
+  "fato_em": "2026-11-24T10:00:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=Ia3cdScTTM4",
+  "video_partes": [],
+  "status": "publicado",
+  "sugerido_por": "rotina Reels de teste 24/11 (14h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "para_quem": "quem sente o dólar no preço do mercado e da gasolina e quer saber por que ele caiu hoje",
+  "diferenciacao": "a legenda traduz 'despesa obrigatória' (o gasto que a lei manda pagar todo ano e cresce sozinho) e diz por que a promessa de travar esse gasto mexe no dólar no mesmo dia",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil: Dólar despenca quase 2% com expectativa de PEC sobre despesas obrigatórias | CNN Mercado (24/11/2026)",
+      "url": "https://www.youtube.com/watch?v=Ia3cdScTTM4"
+    },
+    {
+      "titulo": "UOL Economia: Após abrir em alta, dólar chega a cair 2% com PEC de controle de despesas (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=d%C3%B3lar+chega+a+cair+2%25+PEC+controle+de+despesas"
+    },
+    {
+      "titulo": "InfoMoney: Dólar se distancia das mínimas do dia, mas ainda cai forte com notícias sobre PEC (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=D%C3%B3lar+se+distancia+das+m%C3%ADnimas+PEC"
+    }
+  ],
+  "motivo": "Virada do câmbio de hoje: o dólar abriu em alta e chegou a cair 2% depois da notícia de que Lula autorizou a Fazenda a mandar uma PEC para conter as despesas obrigatórias. CNN, UOL, InfoMoney e VEJA.",
+  "legenda": "O dólar abriu em alta hoje e chegou a cair 2% em poucas horas.\n\nO motivo veio de Brasília: segundo a CNN, Lula autorizou a equipe econômica a mandar ao Congresso uma PEC para conter as despesas obrigatórias.\n\nDespesa obrigatória é o gasto que a lei manda pagar todo ano, como aposentadoria e salário de servidor. Ela cresce sozinha e engole o espaço do resto do orçamento.\n\nO mercado gostou porque o ajuste aprovado ontem fecha a conta de 2027. A PEC mexeria nos anos seguintes.\n\nSó que é promessa: o efeito depende do texto que o Congresso aprovar. Se a PEC vier fraca, o dólar volta.\n\nVídeo: CNN Brasil (24/11/2026). Cotação: UOL e InfoMoney.\n\n#dolar #economia #PEC #cambio",
+  "trecho": {
+    "inicio": "Já o dólar cai com força",
+    "fim": "depender do texto que o Congresso aprovar",
+    "gancho": "o presidente Lula autorizou a equipe econômica a enviar ao Congresso uma PEC",
+    "aspa_manchete": "o dólar cai com força",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Já o dólar",
+        "texto": "CNN Mercado, 24/11"
+      }
+    ],
+    "texto": "Já o dólar cai com força, enquanto os juros futuros também recuam. A virada no câmbio veio com a notícia de Brasília. Segundo a apuração da nossa analista de política, Isabel Mega, o presidente Lula autorizou a equipe econômica a enviar ao Congresso uma PEC para conter o crescimento das despesas obrigatórias. O pacote aprovado ontem pela Câmara segue para sanção e ajuda a fechar as contas o ano que vem. A nova proposta anima o mercado porque pode frear o avanço dos gastos também nos anos seguintes. O efeito vai depender do texto que o Congresso aprovar.",
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      75
+    ]
+  },
+  "trecho_txt": "CNN Brasil, CNN Mercado (24/11/2026), abertura da segunda edição.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "CNN: ==o dólar cai com força== com a PEC dos gastos",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "criado": "2026-11-24T14:50:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-dolar-cai-pec",
+  "opiniao_sugerida": "'Se a PEC vier fraca, o dólar volta' é leitura nossa, não da CNN.",
+  "atualizado": "2026-11-24T15:15",
+  "video_final_id": "41ec5634a627b4107859a9a52e2245d5",
+  "capa_id": "3c5db746228f83a90a0dd4987f0e1acc",
+  "arquivo": "sug-video-cnn-dolar-cai-pec-tela-cheia.mp4",
+  "publicado_em": "2026-11-24T15:15:00-03:00",
+  "nota_corte": "CNN Mercado (24/11/2026), abertura da 2ª edição (começa em “Já o dólar cai com força”, fim no ponto final “o texto que o Congresso aprovar”); gancho “o presidente Lula autorizou a equipe econômica a enviar ao Congresso uma PEC”; 1,1x, 36,2 s. conferir_video: 2 estalos do áudio da fonte, FAIXA escura no CTA (padrão). auditar_cortes 0."
+}
