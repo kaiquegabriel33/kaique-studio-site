@@ -1,0 +1,88 @@
+{
+  "id": "sug-video-p360-galipolo-local-quantico",
+  "titulo": "Galípolo: \"o Banco Central é um local quântico\", onde dá para errar fazendo e não fazendo",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "forca": "media",
+  "prioridade": 4,
+  "cta": true,
+  "politico": "Gabriel Galípolo (presidente do Banco Central)",
+  "fato_em": "2026-11-23T10:00:00-03:00",
+  "vence_em": "2026-11-25T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=7YKPBBYTsKI",
+  "video_partes": [],
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 24/11 (8h20, disparou 11h04: modo enxuto)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "para_quem": "quem paga juro alto e quer entender por que o BC não baixa a Selic",
+  "diferenciacao": "a legenda traduz a piada do 'local quântico' para o bolso: com o dólar a R$ 6, o BC fica entre segurar o juro e deixar a inflação subir",
+  "fontes": [
+    {
+      "titulo": "Poder360: Galípolo diz que controle da inflação é prioridade do Banco Central (23/11/2026)",
+      "url": "https://www.youtube.com/watch?v=7YKPBBYTsKI"
+    },
+    {
+      "titulo": "G1: Galípolo reforça prioridade do BC no combate à inflação: 'Se só couber um, é estabilidade de preços' (23/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Gal%C3%ADpolo+refor%C3%A7a+prioridade+do+BC+combate+%C3%A0+infla%C3%A7%C3%A3o"
+    },
+    {
+      "titulo": "R7: Galípolo diz que prioridade do Banco Central é o controle da inflação (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Gal%C3%ADpolo+prioridade+Banco+Central+controle+da+infla%C3%A7%C3%A3o+R7"
+    }
+  ],
+  "motivo": "Fala de Galípolo no evento Macro Vision (23/11): se só couber um mandato, é estabilidade de preços, e o BC é 'o local quântico' onde dá para errar por fazer e por não fazer. G1, Poder360, R7 e mais 2. Frase diferente do corte de ontem (corte absoluto não está na mesa).",
+  "legenda": "“O Banco Central é um local quântico.”\n\nO Galípolo explicou assim o trabalho do BC, em 23/11: é um dos poucos lugares onde você pode estar errado por ter feito e por não ter feito alguma coisa, ao mesmo tempo.\n\nE deixou a ordem clara: se só couber um mandato, é a estabilidade de preços.\n\nNo bolso, isso quer dizer que com o dólar acima de R$ 6 e a inflação pressionada, o juro não tem pressa nenhuma de cair.\n\nVídeo: Poder360 (23/11/2026).\n\n#galipolo #bancocentral #juros #inflacao",
+  "trecho": {
+    "inicio": "a função de reação",
+    "fim": "ao mesmo tempo",
+    "gancho": "o Banco Central é um local quântico",
+    "aspa_manchete": "o Banco Central é um local quântico",
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      54
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "a função de reação",
+        "texto": "Gabriel Galípolo, presidente do Banco Central, em 23/11"
+      }
+    ],
+    "texto": "Essa a função de reação do Banco Central não mudou. Tá muito claro que se só couber um mandato, o mandato é estabilidade de preços. Isso ninguém tem dúvida disso. É estabilidade de preços. Esse é o nosso mandato principal, né? Mas a gente sempre tem esse cuidado de tentar passar com os dois. O que acaba acontecendo com o Banco Central numa situação que ela vai esticando essa corda e vai ficando mais extrema para você não conseguir passar, essa porta vai ficando mais estreita e você não conseguir passar com os dois. Eu tenho brincado que o Banco Central é o local quântico, né, onde a superposição quântica aparece de maneira mais clara, porque é um dos poucos lugares que você pode estar errado por ter feito e não ter feito alguma coisa ao mesmo tempo."
+  },
+  "trecho_txt": "Poder360 (23/11/2026), Galípolo no Macro Vision, de 0:04 a 0:48.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Galípolo: ==“o Banco Central é um local quântico”=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "opiniao_sugerida": "A leitura de bolso (juro sem pressa de cair com o dólar acima de R$ 6) é nossa."
+}
