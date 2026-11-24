@@ -13,7 +13,7 @@
   "vence_em": "2026-11-25T23:59:00-03:00",
   "video_url": "https://www.youtube.com/watch?v=DpO63FVtCiQ",
   "video_partes": [],
-  "status": "pronto",
+  "status": "publicado",
   "sugerido_por": "rotina Reels de teste 24/11 (8h20, disparou 11h04: modo enxuto)",
   "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
   "para_quem": "quem ouve falar em ajuste fiscal e quer saber o que a esquerda que não votou a favor está dizendo",
@@ -95,5 +95,22 @@
   "teste_cta": {
     "braco": "atual",
     "texto": "Segue pra ver o próximo corte."
-  }
+  },
+  "video_final_id": "dd98e7a3fa976ca2a5cd56245e2fb9b4",
+  "capa_id": "05d9abebfcb28f307c3cd575ed7aba01",
+  "agendado_metricool": {
+    "id": 440396996,
+    "uuid": "-4851007058266994732",
+    "para": "2026-11-24T14:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-24T11:45:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 440397155,
+    "uuid": "-8947128375731861574",
+    "para": "2026-11-24T17:00:00-03:00",
+    "em": "2026-11-24T11:45:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-24T11:46:00-03:00"
 }
