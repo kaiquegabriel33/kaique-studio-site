@@ -1,0 +1,99 @@
+{
+  "id": "sug-video-cnn-arrecadacao-recorde",
+  "carrossel_id": "sug-video-cnn-arrecadacao-recorde",
+  "titulo": "CNN Mercado: arrecadação federal chega a R$ 2,645 trilhões até outubro, maior da série desde 1995",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "forca": "media",
+  "prioridade": 2,
+  "cta": true,
+  "politico": "CNN Mercado (âncora)",
+  "fato_em": "2026-11-24T10:30:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=Ia3cdScTTM4",
+  "video_partes": [],
+  "status": "publicado",
+  "sugerido_por": "rotina Reels de teste 24/11 (14h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "para_quem": "quem paga imposto e ouve todo dia que falta dinheiro para fechar a conta do governo",
+  "diferenciacao": "a legenda põe lado a lado o recorde de arrecadação e o ajuste fiscal aprovado ontem: o governo nunca arrecadou tanto e mesmo assim precisou cortar, então o problema está no gasto",
+  "fontes": [
+    {
+      "titulo": "CNN Brasil: CNN Mercado (24/11/2026), arrecadação até outubro",
+      "url": "https://www.youtube.com/watch?v=Ia3cdScTTM4"
+    },
+    {
+      "titulo": "Agência Brasil: Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Arrecada%C3%A7%C3%A3o+federal+atinge+R%24+294+bilh%C3%B5es+recorde+outubro"
+    },
+    {
+      "titulo": "Poder360: Arrecadação federal sobe 7,3% e bate recorde em outubro (24/11/2026)",
+      "url": "https://news.google.com/rss/search?q=Arrecada%C3%A7%C3%A3o+federal+sobe+7%2C3%25+recorde+outubro"
+    }
+  ],
+  "motivo": "Receita Federal divulgou hoje a arrecadação: R$ 2,645 trilhões de janeiro a outubro, alta real de 7%, a maior da série desde 1995; só outubro, R$ 293,9 bilhões, recorde para o mês. CNN, Agência Brasil, Poder360, Valor.",
+  "legenda": "O governo nunca arrecadou tanto.\n\nDe janeiro a outubro, foram R$ 2,645 trilhões em impostos e contribuições federais, alta real de 7%. É o maior valor para o período desde 1995, quando a série da Receita começa. Só em outubro, R$ 293,9 bilhões.\n\nNa mesma semana, o Congresso aprovou um ajuste fiscal para fechar a conta de 2027.\n\nRecorde de imposto e ajuste ao mesmo tempo só tem uma explicação: o gasto cresce mais rápido do que a arrecadação. E quem paga os dois lados é o mesmo contribuinte.\n\nVídeo: CNN Brasil (24/11/2026). Dados: Receita Federal, via Agência Brasil e Poder360.\n\n#impostos #receitafederal #economia #ajustefiscal",
+  "trecho": {
+    "inicio": "a arrecadação de impostos e contribuições federais",
+    "fim": "com alta real de 6,09%",
+    "gancho": "É o maior resultado para os 10 primeiros meses do ano desde o início da série histórica em 1995",
+    "aspa_manchete": "maior resultado",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "a arrecadação",
+        "texto": "CNN Mercado, dados da Receita"
+      }
+    ],
+    "texto": "a arrecadação de impostos e contribuições federais chegou a 2 trilhões 645 bilhões de reais até outubro desse ano. O valor representa uma alta real de 7% em relação ao mesmo período do ano passado. É o maior resultado para os 10 primeiros meses do ano desde o início da série histórica em 1995. Segundo a Receita Federal, um dos destaques foi a arrecadação previdenciária, que somou R$ 640 bilhões de reais, crescimento real de 5,06%. O imposto de renda das empresas e a contribuição social sobre o lucro líquido também contribuíram para o resultado. Juntos somaram 516 bilhões com alta real de 6,09%.",
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      75
+    ]
+  },
+  "trecho_txt": "CNN Brasil, CNN Mercado (24/11/2026), dados da Receita Federal.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Arrecadação: ==o maior valor desde 1995==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "criado": "2026-11-24T14:50:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-cnn-arrecadacao-recorde",
+  "opiniao_sugerida": "'Recorde de imposto e ajuste ao mesmo tempo: o gasto cresce mais rápido' é leitura nossa.",
+  "atualizado": "2026-11-24T15:36",
+  "video_final_id": "16e8ed93207e3bd1664abb5e8bf04b8a",
+  "capa_id": "245e00c685812b7e2b1eb1fc29da6d19",
+  "arquivo": "sug-video-cnn-arrecadacao-recorde-tela-cheia.mp4",
+  "publicado_em": "2026-11-24T15:36:00-03:00",
+  "nota_corte": "CNN Mercado (24/11/2026), dados da Receita (começa em “a arrecadação de impostos e contribuições federais”, fim no ponto final “com alta real de 6,09%”); gancho “É o maior resultado para os 10 primeiros meses do ano desde... 1995”; legenda corrigida à mão: o Whisper escreveu “R$ 2,645 bilhões”, o certo é trilhões; 1,1x, 48,1 s. conferir_video: PELE rosada é a luz do estúdio da CNN (não é HDR de iPhone), FAIXA escura no CTA (padrão). auditar_cortes 0."
+}
