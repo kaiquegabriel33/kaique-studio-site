@@ -47,7 +47,14 @@
     }
   ],
   "motivo": "Fala quente de ontem à noite no plenário da Câmara, na votação do ajuste fiscal: Nikolas abre com “é hexa, porque o dólar bateu R$ 6” e pergunta de quem é a culpa. Saiu em UOL, O Antagonista, Pleno.News e outros 2 veículos de manhã; no YouTube do UOL, ~1 mil views por hora. O dólar passou de R$ 6 e o real foi a pior moeda entre 32 no mês (InfoMoney). Os R$ 420 bi “saindo” são número dele, sem fonte no discurso: vão como alegação na legenda.",
-  "agendado_metricool": {"id": 440366165, "uuid": "7159007280762341396", "para": "2026-11-24T13:00:00", "tipo": "TRIAL_REEL", "isAiGenerated": false, "em": "2026-11-24T11:24:00-03:00"},
+  "agendado_metricool": {
+    "id": 440366165,
+    "uuid": "7159007280762341396",
+    "para": "2026-11-24T13:00:00",
+    "tipo": "TRIAL_REEL",
+    "isAiGenerated": false,
+    "em": "2026-11-24T11:24:00-03:00"
+  },
   "nota_lote": "AGENDADO 24/11 11:24 (rotina Quente do dia): IG 24/11 13:00 (Reel de teste, corte puro 1,1x). TikTok não agendado: 11:40 e 13:00 já ocupados e o limite de 10 em 24 h corridas não foi conferido; fica para a próxima rodada com vaga. Não poste à mão.",
   "legenda": "“É hexa, porque o dólar bateu seis reais.” Assim o Nikolas abriu o discurso do ajuste fiscal na Câmara.\n\nFoi ontem à noite (23/11), na votação que aprovou o texto e mandou para a sanção.\n\nO dólar passou mesmo de R$ 6. Em um mês, o real caiu 14,6% e teve o pior desempenho entre 32 moedas (InfoMoney).\n\nOs R$ 420 bilhões que ele diz que saíram do país são número dele: no discurso não aparece a fonte.\n\nDólar alto chega no mercado, na gasolina e no remédio importado. A briga de quem é a culpa fica no plenário; a conta fica com quem compra.\n\nVídeo: UOL (23/11/2026).\n\n#dolar #NikolasFerreira #ajustefiscal #economia",
   "teste_cta": {
@@ -61,7 +68,10 @@
     "aspa_manchete": "é hexa, porque o dólar bateu seis reais",
     "cta": true,
     "encher": false,
-    "janela": [0, 72],
+    "janela": [
+      0,
+      72
+    ],
     "contexto": [
       {
         "cor": "amarelo",
@@ -95,5 +105,6 @@
         }
       ]
     }
-  ]
+  ],
+  "postado_em": "2026-11-24T13:00:00"
 }
