@@ -1,0 +1,108 @@
+{
+  "id": "sug-video-galipolo-salario-pressiona-inflacao",
+  "carrossel_id": "sug-video-galipolo-salario-pressiona-inflacao",
+  "titulo": "Galípolo, presidente do BC, sobre a alta do poder de compra do salário: \"sem dúvida isso pressiona a inflação\"",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_visual": "topo-escura-x-branca",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "forca": "alta",
+  "prioridade": 1,
+  "cta": true,
+  "politico": "Gabriel Galípolo (presidente do Banco Central)",
+  "assunto": "juros e inflação",
+  "fato_em": "2026-11-23T12:00:00-03:00",
+  "vence_em": "2026-11-28T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=LwvW3Rsdr-8",
+  "video_partes": [],
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 25/11 (14h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "filtro_6_fortes": "1) presidente do Banco Central com a própria voz; 2) salário mínimo e renda do trabalhador contra inflação e juro; 3) frase que os dois lados mandam no grupo: um para dizer que o BC acha ruim o salário subir, outro para dizer que o juro alto tem motivo",
+  "para_quem": "quem recebe salário e quer saber por que o juro não cai",
+  "diferenciacao": "a legenda traduz a fala para o bolso (salário que sobe vira argumento para segurar o juro) e lembra que ele disse que não é 'por maldade'; fala de segunda ainda pouco cortada com a voz dele (só ICL e repercussão)",
+  "fontes": [
+    {
+      "titulo": "ICL Mercado e Investimentos: Galípolo diz que salários dos trabalhadores pressionam a inflação (24/11/2026), trecho do evento do Itaú",
+      "url": "https://www.youtube.com/watch?v=LwvW3Rsdr-8"
+    },
+    {
+      "titulo": "UOL: Galípolo diz ser possível conciliar programas sociais e regras fiscais, em evento do Itaú em São Paulo (24/11/2026)",
+      "url": "https://www.youtube.com/watch?v=whitDDxx8pQ"
+    },
+    {
+      "titulo": "Poder360: Galípolo diz que controle da inflação é prioridade do Banco Central (24/11/2026)",
+      "url": "https://www.youtube.com/watch?v=7YKPBBYTsKI"
+    }
+  ],
+  "motivo": "Fala do presidente do BC no evento do Itaú (Macro Vision, segunda 23/11), repercutida por ICL, UOL, Poder360 e Jovem Pan; com a voz dele, só no ICL. Fonte 3 (fala forte da semana ainda não cortada); o corte de 24/11 do mesmo evento foi outra fala ('local quântico').",
+  "legenda": "\"Sem dúvida isso pressiona a inflação.\"\n\nO \"isso\" é o salário comprando mais. O Gabriel Galípolo, presidente do Banco Central, falou num evento do Itaú que o poder de compra do salário mínimo e da renda média cresceu muito de 2022 a 2026, e que essa recuperação pressiona os preços.\n\nEle mesmo disse que não é \"por maldade\". Mas no bolso a leitura é uma só: enquanto o BC enxergar salário subindo como risco de inflação, o juro do seu cartão, do financiamento e do crediário não tem pressa para cair.\n\nSalário subir é problema ou é o país funcionando?\n\nVídeo: ICL Mercado e Investimentos (24/11/2026), trecho do evento do Itaú. Informações: UOL e Poder360.\n\n#bancocentral #galipolo #inflacao #juros #salario",
+  "trecho": {
+    "inicio": "Mas vamos pegar esses quatro anos específicos agora",
+    "fim": "que impõem essa condição",
+    "gancho": "Mas sem dúvida isso pressiona a inflação",
+    "aspa_manchete": "sem dúvida isso pressiona a inflação",
+    "janela": [
+      0,
+      72
+    ],
+    "crop": [
+      1920,
+      720,
+      0,
+      0
+    ],
+    "foco_falante": true,
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Mas vamos pegar esses quatro anos",
+        "texto": "Gabriel Galípolo, presidente do Banco Central"
+      }
+    ],
+    "texto": "Mas vamos pegar esses quatro anos específicos agora. Se a gente olhar o poder de compra do salário mínimo ou o poder de compra da renda média do trabalhador, ela cresceu muito, né? De 22 até 26 ela teve um grande crescimento. E é uma discussão global, né? A discussão dos limites do Banco Central que tá mirando inflação, perdão, e as pessoas vivem no nível de preço. E esse desconforto que existe com isso. Com certeza muito desse desconforto foi atenuado por esse sucesso de recompor o poder aquisitivo das pessoas ao longo desses quatro anos. Mas sem dúvida isso pressiona a inflação, né? Se você deixar a inflação correr, você vai chutar o balde que você tá querendo alcançar ainda mais longe. Você vai ficar ainda mais distante. Então isso coloca um mix de política que tensiona ali as duas políticas, mas não é por maldade ou qualquer coisa desse tipo. Existem demandas efetivamente que são legítimas, democraticamente legítimas, que impõem essa condição.",
+    "cta": true,
+    "encher": false
+  },
+  "trecho_txt": "ICL Mercado e Investimentos (24/11/2026), Gabriel Galípolo no evento do Itaú (23/11) sobre salário e inflação.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Presidente do BC sobre o salário: ==\"sem dúvida isso pressiona a inflação\"==",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "video_final_id": "f52bae6e8e1af6c80ad7f86eaf89cb13",
+  "capa_id": "50bc7ac5a388042fb034f7a8d9b22a85",
+  "arquivo": "sug-video-galipolo-salario-pressiona-inflacao.mp4",
+  "nota_corte": "ICL Mercado 0:57–2:02 (Galípolo no evento do Itaú, 23/11); bateu 94% com a fala; gancho 'mas sem dúvida isso pressiona a inflação'; recorte acima da tarja do ICL; 64,3 s em 1,1x; auditar_cortes 0; conferir_video: plano aberto do auditório (6–12 s) e estalos vêm da origem",
+  "criado": "2026-11-25T14:40:00-03:00",
+  "publicado_em": "2026-11-25T14:40:00-03:00",
+  "atualizado": "2026-11-25T14:40",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-galipolo-salario-pressiona-inflacao"
+}
