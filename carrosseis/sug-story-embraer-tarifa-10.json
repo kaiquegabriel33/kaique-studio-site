@@ -1,0 +1,60 @@
+{
+  "id": "sug-story-embraer-tarifa-10",
+  "carrossel_id": "sug-story-embraer-tarifa-10",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: EUA propõem tarifa de 10% em avião e a Embraer chega a cair 9%",
+  "criado": "2026-11-25T13:05:00-03:00",
+  "atualizado": "2026-11-25T13:05:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "forca": "media",
+  "papel_story": "conteudo_do_dia",
+  "para_quem": "quem tem ação da Embraer ou acompanha a bolsa",
+  "comentario": "Avião pronto escapava da tarifa americana. Agora os EUA propõem 10% e a ação da Embraer chegou a cair 9%. Ainda é proposta, mas o mercado não espera virar lei pra cobrar o preço.",
+  "repost_url": "https://www.infomoney.com.br/mercados/embraer-embj3-acao-cai-forte-com-proposta-dos-eua-para-taxar-aeronaves-brasileiras/",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-embraer-tarifa-10/embraer-embj3-acao-cai-forte-com-proposta-dos-eu.jpg",
+        "clarear": 0.2,
+        "foco": {"x": 0.4, "y": 0.6}
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Avião pronto escapava da tarifa americana. Agora os EUA propõem [[vermelho:10%]] e a ação da Embraer chegou a cair 9%. Ainda é proposta, mas o mercado não espera virar lei pra cobrar o preço."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-embraer-tarifa-10/print-infomoney-embraer-embj3-acao-cai-forte-com.png",
+          "h": 560,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "InfoMoney (25/11/2026, 10h49, com Reuters): Embraer (EMBJ3) chegou a perder 9% nas mínimas e caía cerca de 6% às 10h37, a R$ 100,66, depois de os EUA proporem alíquota de 10% sobre aeronaves prontas",
+      "url": "https://www.infomoney.com.br/mercados/embraer-embj3-acao-cai-forte-com-proposta-dos-eua-para-taxar-aeronaves-brasileiras/"
+    },
+    {
+      "titulo": "InfoMoney/Reuters (25/11/2026, 10h33): EUA (USTR) propõem modificar a tarifa da Seção 301 sobre o Brasil, com alíquota de 10% para aeronaves prontas, hoje isentas",
+      "url": "https://www.infomoney.com.br/mundo/eua-propoem-mais-tarifa-sobre-importacoes-do-brasil-com-aliquota-de-10-de-aeronaves/"
+    }
+  ],
+  "motivo": "Prateleira story (finanças, bolsa no dia): a proposta saiu hoje cedo e a Embraer chegou a cair 9% na mínima (InfoMoney). Ideia: o preço da ação já cobra a tarifa antes de ela existir. Por que alguém manda: quem tem Embraer manda pro amigo que também comprou. Diferenciação: a leitura dele (o mercado não espera virar lei) em cima do print real e da foto da cauda com o logo.",
+  "confira_na_previa": [
+    "O 9% é a queda na mínima do dia; às 10h37 caía cerca de 6% (R$ 100,66). Se na hora de postar o fechamento for bem diferente, trocar para o número do fechamento.",
+    "É proposta do USTR, ainda não está valendo; o texto diz isso.",
+    "Foto de fundo é a da matéria (cauda de avião com o logo Embraer); no story o print já mostra o veículo."
+  ],
+  "versao": 1
+}
