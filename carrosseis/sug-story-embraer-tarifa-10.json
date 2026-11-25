@@ -2,6 +2,7 @@
   "id": "sug-story-embraer-tarifa-10",
   "carrossel_id": "sug-story-embraer-tarifa-10",
   "status": "pronto",
+  "agendado_metricool": {"id": 442174147, "uuid": "-499586886293765469", "para": "2026-11-26T12:30:00-03:00", "tipo": "STORY", "em": "2026-11-25T15:53:00-03:00"},
   "formato": "story",
   "titulo": "Story: EUA propõem tarifa de 10% em avião e a Embraer chega a cair 9%",
   "criado": "2026-11-25T13:05:00-03:00",
@@ -23,7 +24,10 @@
       "fundo": {
         "src": "midia/sug-story-embraer-tarifa-10/embraer-embj3-acao-cai-forte-com-proposta-dos-eu.jpg",
         "clarear": 0.2,
-        "foco": {"x": 0.4, "y": 0.6}
+        "foco": {
+          "x": 0.4,
+          "y": 0.6
+        }
       },
       "elementos": [
         {
