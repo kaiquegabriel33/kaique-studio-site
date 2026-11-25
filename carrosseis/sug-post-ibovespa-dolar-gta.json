@@ -1,0 +1,55 @@
+{
+  "id": "sug-post-ibovespa-dolar-gta",
+  "titulo": "Post: do GTA V ao GTA VI, o Ibovespa em dólar andou 18% em 13 anos",
+  "status": "pronto",
+  "formato": "post",
+  "criado": "2026-11-23T12:45",
+  "atualizado": "2026-11-23T17:15",
+  "slides": [
+    {
+      "papel": "post",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 36,
+          "texto": "Treze anos esperando o GTA VI. A bolsa brasileira, em ==dólar==, andou 18% nesse tempo. A americana (S&P 500), ==321%==."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-post-ibovespa-dolar-gta/gta-v-ao-vi-ibovespa-em-dolar.jpg",
+          "ajuste": "conter",
+          "h": 800,
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "legenda": "Treze anos esperando o GTA VI. A bolsa brasileira, medida em dólar, andou 18% nesse tempo.\n\nNo dia em que o GTA V saiu, 17/09/2013, o Ibovespa fechou em 54.271 pontos com o dólar a R$ 2,26. Dá uns US$ 24 mil.\n\nNa quinta passada, 19/11, dia em que o GTA VI chegou, o índice fechou em 166.376 pontos com o dólar a R$ 5,89. Uns US$ 28,3 mil.\n\nEm reais, a bolsa mais que triplicou (+207%). Só que o dólar subiu 160% no mesmo caminho e comeu quase tudo. Em dólar, sobraram 18% em 13 anos.\n\nO S&P 500 saiu de 1.705 para 7.176 pontos no mesmo período: +321% em dólar. E ainda com uma vantagem para o lado de cá: o Ibovespa já soma os dividendos reinvestidos, o S&P 500 desse número não.\n\nIsso não quer dizer que a bolsa daqui não presta. Quer dizer que olhar o patrimônio só em reais esconde quanto ele perdeu de poder de compra lá fora. Quem tem tudo num país só e numa moeda só está apostando nesse país, mesmo sem perceber.\n\nDados: fechamentos do Ibovespa e do S&P 500 (B3 e S&P, via Yahoo Finance) e dólar Ptax do Banco Central (série 1) nos dois dias. As contas em dólar e as variações são nossas. Arte do GTA VI: divulgação Rockstar Games.\n\nPara abrir sua conta Avenue: https://pit.avenue.us/onboarding/foreign-finder/AVE600894 (ou use o código AVE600894 no cadastro). Já tem Avenue? Dá pra trocar a assessoria pra mim.\n\n#ibovespa #dolar #gta6 #investimentos #bolsadevalores",
+  "fontes": [
+    {
+      "titulo": "Yahoo Finance (^BVSP): Ibovespa fechou em 54.271 pontos em 17/09/2013 e 166.376 em 19/11/2026 (este bate com a notícia do TradeMap do dia)",
+      "url": "https://finance.yahoo.com/quote/%5EBVSP/history/"
+    },
+    {
+      "titulo": "Yahoo Finance (^GSPC): S&P 500 fechou em 1.704,76 em 17/09/2013 e 7.175,83 em 19/11/2026",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/history/"
+    },
+    {
+      "titulo": "Banco Central, SGS série 1 (dólar Ptax venda): R$ 2,2617 em 17/09/2013 e R$ 5,8889 em 19/11/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=17/09/2013&dataFinal=19/11/2026"
+    },
+    {
+      "titulo": "TradeMap: Ibovespa fecha em queda de 0,69%, aos 166.376 pontos (19/11/2026)",
+      "url": "https://trademap.com.br/noticias/news-8624542"
+    },
+    {
+      "titulo": "Diario de Pernambuco: 'Grand Theft Auto VI' é lançado após 13 anos de espera (19/11/2026); GTA V saiu em 17/09/2013",
+      "url": "https://www.diariodepernambuco.com.br/tecnologia/2026/11/11729483-grand-theft-auto-vi-e-lancado-apos-13-anos-de-espera.html"
+    },
+    {
+      "titulo": "Rockstar Games: arte oficial de divulgação do GTA VI",
+      "url": "https://www.rockstargames.com/VI"
+    }
+  ]
+}
