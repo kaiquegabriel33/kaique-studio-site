@@ -1,0 +1,59 @@
+{
+  "id": "sug-video-uol-marinho-ninguem-morre",
+  "carrossel_id": "sug-video-uol-marinho-ninguem-morre",
+  "titulo": "Marinho, ministro do Trabalho: \"Ninguém vai morrer se fechar um dia\" (comércio e o fim da 6x1)",
+  "formato": "video",
+  "formato_corte": "tela_cheia_branca",
+  "ab_visual": "topo-escura-x-branca",
+  "teste_reel": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "forca": "alta",
+  "prioridade": 1,
+  "cta": true,
+  "politico": "Luiz Marinho (ministro do Trabalho)",
+  "assunto": "6x1",
+  "fato_em": "2026-11-24T09:00:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=k5oEeIoryg8",
+  "video_partes": [],
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 25/11 (11h20, atrasada: disparou 12:48, modo enxuto)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "filtro_6_fortes": "1) ministro do Trabalho falando com a própria voz; 2) comércio fechando um dia e a folha das empresas com a 5x2 (emprego e preço); 3) frase que divide: quem defende a folga manda, quem é contra também",
+  "para_quem": "quem trabalha no comércio no domingo e quem tem loja e está fazendo a conta da 5x2",
+  "diferenciacao": "a legenda põe o outro lado com número: o supervisor de um grupo de varejo com mais de 2 mil funcionários estima a folha até 25% mais cara (SBT News), e lembra o prazo de 16/12 para acordo coletivo",
+  "fontes": [
+    {"titulo": "UOL: Fim da escala 6x1: 'Ninguém morre se comércio fechar aos domingos', diz ministro Luiz Marinho (24/11/2026)", "url": "https://www.youtube.com/watch?v=k5oEeIoryg8"},
+    {"titulo": "SBT News: Fim da 6x1: Marinho critica 'chororô' de empresas (24/11/2026)", "url": "https://www.youtube.com/watch?v=ldtgOwTHwa8"},
+    {"titulo": "g1: 'Ninguém vai morrer se fechar um dia', diz ministro sobre fim da escala 6x1 (25/11/2026)", "url": "https://g1.globo.com/"}
+  ],
+  "motivo": "Fala do ministro do Trabalho no Bom Dia, Ministro (Canal Gov, 24/11), repercutida por UOL, SBT News, TV Jornal, g1 e O POVO. Em vídeo com a voz dele: UOL.",
+  "legenda": "\"Ninguém vai morrer se fechar um dia.\"\n\nQuem fala é o Luiz Marinho, ministro do Trabalho, sobre o comércio depois do fim da 6x1. Para ele, abrir todo dia, o ano inteiro, é \"uma loucura americana\", e a Europa fecha domingo e feriado.\n\nO outro lado: o supervisor de um grupo de varejo com mais de 2 mil funcionários disse ao SBT News que a nova jornada pode deixar a folha até 25% mais cara, e que isso pode virar demissão.\n\nA 5x2 começa em 16 de dezembro. Setor que quiser escala diferente tem até lá para fechar acordo coletivo.\n\nVocê deixaria de ir ao mercado no domingo?\n\nVídeo: UOL (24/11/2026). Informações: SBT News e Canal Gov.\n\n#fimda6x1 #escala5x2 #comercio #trabalho",
+  "trecho": {
+    "inicio": "nós adotamos uma loucura americana",
+    "fim": "funciona 24 horas por dia mercado brasileiro",
+    "gancho": "ninguém vai morrer se fechar um dia",
+    "aspa_manchete": "ninguém vai morrer se fechar um dia",
+    "contexto": [
+      {"cor": "amarelo", "desde": "nós adotamos uma loucura americana", "texto": "Luiz Marinho, ministro do Trabalho"}
+    ],
+    "texto": "nós adotamos uma loucura americana de que tem que estar aberto 24 horas por dia, todos os dias do ano no comércio, porque senão não sei o que, tal. Ninguém vai morrer se fechar um dia, né? A Europa fecha os domingos, a Europa fecha os feriados. Eu nunca soube ninguém que morreu por falta de alimento na Europa, tal. Então aqui eu acho que é preciso que o empresariado brasileiro tenha uma responsabilidade de analisar como uma conquista histórica da classe trabalhadora e da empresa. Porque uma empresa saudável, um ambiente saudável melhora a produtividade, melhora a qualidade. Eu vejo a história dos comércios funcionar 24 horas por dia. Você vai na madrugada nos mercados, tá às moscas. Será que não é improdutivo ter esse sistema que funciona 24 horas por dia mercado brasileiro?",
+    "cta": true,
+    "encher": false
+  },
+  "trecho_txt": "UOL (24/11/2026), Luiz Marinho no Bom Dia, Ministro (Canal Gov) sobre o comércio e o fim da 6x1.",
+  "slides": [
+    {
+      "altura": 1920, "papel": "vídeo", "tema": "claro",
+      "elementos": [
+        {"tipo": "texto", "texto": "Ministro do Trabalho: ==\"ninguém vai morrer se fechar um dia\"==", "tam": 50, "corMarca": "#FFD700", "corTextoMarca": "#111111"},
+        {"tipo": "video", "x": 0, "w": 1080, "h": "resto", "ajuste": "conter", "raio": 0}
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {"braco": "atual", "texto": "Segue pra ver o próximo corte."},
+  "criado": "2026-11-25T12:55:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-uol-marinho-ninguem-morre"
+}
