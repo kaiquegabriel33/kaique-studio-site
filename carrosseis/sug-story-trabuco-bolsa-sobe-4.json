@@ -1,0 +1,68 @@
+{
+  "id": "sug-story-trabuco-bolsa-sobe-4",
+  "carrossel_id": "sug-story-trabuco-bolsa-sobe-4",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: Lula sonda o Trabuco pra Fazenda, a bolsa chega a subir mais de 4% e o dólar vai a R$ 5,71",
+  "criado": "2026-11-26T13:30:00-03:00",
+  "atualizado": "2026-11-26T13:30:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "forca": "alta",
+  "papel_story": "conteudo_do_dia",
+  "para_quem": "quem tem ação, dólar ou Tesouro e viu a bolsa disparar sem entender o motivo",
+  "comentario": "O Lula sondou o Trabuco, do Bradesco, pra Fazenda. Ele nem respondeu e a bolsa chegou a subir mais de 4% na quinta, com o dólar a R$ 5,71. Mercado paga adiantado. Se o convite não virar, ele pega de volta.",
+  "repost_url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-26-novembro-2026/",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-trabuco-bolsa-sobe-4/ibovespa-dispara-mais-de-4-e-dolar-despenca-apos.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.6,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Lula sondou o Trabuco, do Bradesco, pra Fazenda. Ele nem respondeu e a bolsa chegou a subir [[verde:mais de 4%]] na quinta, com o dólar a R$ 5,71. Mercado paga adiantado. Se o convite não virar, ele pega de volta."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-trabuco-bolsa-sobe-4/print-cnn-brasil-ibovespa-dispara-mais-de-4-e-dol.png",
+          "h": 540,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (26/11/2026, atualizada 11h31): Ibovespa dispara mais de 4% e dólar cedia mais de 1,80%, a R$ 5,71, depois de Lula sondar Luiz Carlos Trabuco, presidente do conselho do Bradesco, para a Fazenda a partir de 2027; Trabuco vai avaliar",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-26-novembro-2026/"
+    },
+    {
+      "titulo": "Estadão (25/11/2026, 20h55): Lula sondou Trabuco para o Ministério da Fazenda; banqueiro ainda avalia proposta",
+      "url": "https://www.estadao.com.br/economia/lula-sondou-trabuco-para-o-ministerio-da-fazenda-banqueiro-ainda-avalia-proposta/"
+    },
+    {
+      "titulo": "Poder360 (26/11/2026): dólar abre em queda e Ibovespa em alta com Trabuco cotado para a Fazenda (às 10h05, dólar a R$ 5,773)",
+      "url": "https://www.poder360.com.br/poder-economia/dolar-abre-em-queda-e-ibovespa-em-alta-com-trabuco-cotado-para-fazenda/"
+    }
+  ],
+  "motivo": "Quente do dia (26/11): o assunto de mercado mais forte da manhã, 25 veículos no radar. Não há vídeo com a fala de quem decide (é sondagem, só relato de auxiliares), então não vira corte; vira story de finanças. Ideia: o mercado paga pela expectativa antes de o fato existir e devolve se ela não se confirma. Por que alguém manda: quem viu a carteira subir manda pro amigo perguntando se vende. Diferenciação: a leitura dele (opinião sugerida: 'mercado paga adiantado') em cima do print real da CNN e da foto da matéria.",
+  "confira_na_previa": [
+    "'Mais de 4%' e 'R$ 5,71' são números do meio do pregão (CNN, 11h31); o texto diz 'chegou a'. Se o fechamento for muito diferente, trocar pelo número do fechamento.",
+    "'Ele nem respondeu': CNN e Estadão dizem que Trabuco ainda avalia. Se ele aceitar ou recusar antes de o story sair, o texto perde o sentido e precisa mudar.",
+    "'Mercado paga adiantado. Se o convite não virar, ele pega de volta' é opinião sugerida, não fala dele."
+  ],
+  "opiniao_sugerida": "Mercado paga adiantado. Se o convite não virar, ele pega de volta.",
+  "versao": 1
+}
