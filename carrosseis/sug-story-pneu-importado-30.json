@@ -1,0 +1,32 @@
+{
+  "id": "sug-story-pneu-importado-30",
+  "titulo": "Story: imposto do pneu importado sobe de 16% pra 30% a partir de amanhã",
+  "formato": "story",
+  "status": "pronto",
+  "legenda": "",
+  "fontes": [],
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A tarifa do pneu importado de carro quase dobra amanhã: de 16% pra [[verde:30%]]. A fábrica daqui ganha fôlego, e quem precisar trocar pneu no fim do ano tende a pagar a conta."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-pneu-importado-30/print-economia-uol-com-br-governo-eleva-imposto-sobre-pneu.png",
+          "h": 420,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "criado": "2026-11-09T18:45:00-03:00",
+  "atualizado": "2026-11-09T18:45:00-03:00"
+}

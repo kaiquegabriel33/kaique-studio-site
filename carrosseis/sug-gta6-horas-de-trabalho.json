@@ -1,0 +1,107 @@
+{
+  "id": "sug-gta6-horas-de-trabalho",
+  "titulo": "GTA 6 em horas de trabalho",
+  "status": "pronto",
+  "formato": "carrossel",
+  "criado": "2026-10-11T13:00",
+  "atualizado": "2026-10-11T13:00",
+  "slides": [
+    {
+      "tema": "claro",
+      "papel": "capa",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 54,
+          "texto": "O GTA 6 chega em novembro por R$ 449,90.\n\n==Pra quem ganha o mínimo, são 61 horas de trabalho.=="
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-gta6-horas-de-trabalho/print-www-omelete-com-br-gta-6-tem-preco-no-brasil-revela.png",
+          "h": 484,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "evidência",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 48,
+          "texto": "O próprio decreto do salário mínimo diz quanto vale uma hora: R$ 7,37.\n\nR$ 449,90 dividido por R$ 7,37 dá ==61 horas.==\n\nÉ uma semana inteira de 44 horas e mais dois dias de batente."
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "evidência",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 50,
+          "texto": "Nos EUA, o jogo sai por US$ 80 e o mínimo federal é US$ 7,25 a hora.\n\nLá são ==11 horas.=="
+        },
+        {
+          "tipo": "grafico",
+          "formato": "barras_h",
+          "titulo": "Horas de mínimo pra comprar o jogo",
+          "subtitulo": "conta: preço do jogo dividido pelo mínimo por hora",
+          "rotulos": [
+            "Brasil",
+            "EUA"
+          ],
+          "valores": [
+            61,
+            11
+          ],
+          "sufixo": " h",
+          "casas": 0,
+          "destaques": [
+            0
+          ],
+          "h": 640
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "post",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 46,
+          "texto": "\"Mas lá quase ninguém ganha o mínimo federal.\"\n\nVerdade. Muito estado paga mais que isso. O que deixa a conta ainda pior pra cá.\n\n\"É só um jogo.\"\n\nÉ. Por isso mesmo: é o jeito mais fácil de ==ver quanto vale a sua hora.=="
+        }
+      ]
+    },
+    {
+      "tema": "claro",
+      "papel": "conclusão",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 48,
+          "texto": "Em Vice City, R$ 449,90 se resolve num assalto a banco. Aqui, é semana e meia de trabalho.\n\nAntes de qualquer compra grande, eu faço essa conta. Não pra deixar de comprar. Pra saber ==quantas horas da minha vida custa.==\n\nE o seu jogo, custa quantas horas?"
+        }
+      ]
+    }
+  ],
+  "legenda": "O GTA 6 chega em 19 de novembro por R$ 449,90. Pra quem ganha o mínimo, são 61 horas de trabalho.\n\nA conta é simples. O decreto do salário mínimo de 2026 diz que uma hora vale R$ 7,37. É só dividir o preço por isso.\n\nNos EUA, o jogo sai por US$ 80 e o mínimo federal é US$ 7,25 por hora. Dá 11 horas. E muito estado americano paga mais que o federal.\n\nNão é pra deixar de comprar. É pra saber quanto da sua semana vai em cada coisa. Quantas horas custa?\n\nFontes: Omelete (25/06/2026), preço na PlayStation Store e na Xbox Store; Decreto 12.797/2025 (salário mínimo e valor por hora); Departamento do Trabalho dos EUA (mínimo federal). Horas: conta nossa, preço dividido pelo mínimo por hora.\n\n#GTA6 #GTAVI #games #salario #dinheiro",
+  "fontes": [
+    {
+      "titulo": "Omelete: GTA 6 tem preço no Brasil revelado; veja quanto custa em reais (25/06/2026)",
+      "url": "https://www.omelete.com.br/games/gta-6-preco-brasil"
+    },
+    {
+      "titulo": "Decreto 12.797, de 23/12/2025: salário mínimo de R$ 1.621 e valor horário de R$ 7,37",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm"
+    },
+    {
+      "titulo": "U.S. Department of Labor: federal minimum wage (US$ 7,25 por hora)",
+      "url": "https://www.dol.gov/agencies/whd/minimum-wage"
+    }
+  ]
+}

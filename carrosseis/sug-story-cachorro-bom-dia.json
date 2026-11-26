@@ -1,0 +1,34 @@
+{
+  "id": "sug-story-cachorro-bom-dia",
+  "titulo": "Story: bom dia de quem manda aqui em casa",
+  "status": "pronto",
+  "formato": "story",
+  "criado": "2026-10-15T12:50",
+  "atualizado": "2026-10-15T12:50",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "centralizar": true,
+      "fundo": {
+        "src": "midia/sug-story-cachorro-bom-dia/cachorro-varanda.jpg",
+        "escurecer": 0.05,
+        "foco": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "y": 1060,
+          "texto": "Bom dia de quem manda aqui em casa."
+        }
+      ]
+    }
+  ],
+  "fontes": []
+}
