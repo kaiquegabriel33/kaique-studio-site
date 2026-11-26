@@ -1,0 +1,105 @@
+{
+  "id": "sug-video-bc-limite-rotativo-reducao",
+  "carrossel_id": "sug-video-bc-limite-rotativo-reducao",
+  "titulo": "Diretor do BC: quem usou o rotativo 3 vezes em 6 meses terá o limite do cartão reduzido pelo banco",
+  "formato": "video",
+  "formato_corte": "tela_cheia_branca",
+  "ab_visual": "topo-escura-x-branca",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "reserva": false,
+  "sempre_verde": false,
+  "forca": "alta",
+  "prioridade": 1,
+  "cta": true,
+  "politico": "Gilneu Vivan (diretor de Regulação do Banco Central)",
+  "assunto": "limite do cartão e rotativo",
+  "fato_em": "2026-11-26T11:00:00-03:00",
+  "vence_em": "2026-11-28T23:59:00-03:00",
+  "video_url": "https://www.youtube.com/watch?v=eSm5fK_ueMg",
+  "video_partes": [],
+  "status": "pronto",
+  "sugerido_por": "rotina Reels de teste 26/11 (14h20)",
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "filtro_6_fortes": "1) diretor do Banco Central, que assinou a regra, com a própria voz; 2) limite do cartão de crédito de quem cai no rotativo; 3) manda no grupo quem acha que o banco tem de frear o endividado e quem acha que vão cortar o limite de quem já está apertado",
+  "para_quem": "quem paga só uma parte da fatura do cartão de vez em quando",
+  "diferenciacao": "a voz de quem decidiu (coletiva do BC, que quase ninguém cortou: os telejornais só narraram) e a legenda traduzindo a regra para a fatura da pessoa, com data e a pergunta dos dois lados",
+  "fontes": [
+    {
+      "titulo": "Poder360, ao vivo (26/11/2026): BC fala sobre medidas para combater o endividamento (coletiva de Gilneu Vivan), trecho em 16:13",
+      "url": "https://www.youtube.com/watch?v=eSm5fK_ueMg"
+    },
+    {
+      "titulo": "Banco Central do Brasil (26/11/2026): Coletiva sobre Novas Medidas para Lidar com Riscos Associados ao Endividamento",
+      "url": "https://www.youtube.com/watch?v=Y4zwfV2Rw_U"
+    },
+    {
+      "titulo": "CNN Brasil (26/11/2026): pacote de restrição de crédito do BC pode afetar 20 milhões de brasileiros",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-restricao-de-credito-do-bc-pode-afetar-20-milhoes-de-brasileiros/"
+    },
+    {
+      "titulo": "SBT News (26/11/2026): BC e CMN apertam regras ao rotativo do cartão de crédito (3 ou mais faturas em 6 meses; em vigor em 1º de julho de 2027)",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/bc-e-cmn-apertam-regras-ao-rotativo-do-cartao-de-credito"
+    }
+  ],
+  "motivo": "Fala do diretor do BC na coletiva de hoje sobre as medidas do endividamento, aprovadas em 25/11. Os telejornais deram a regra com repórter narrando; a voz de quem decidiu só está na transmissão do BC e do Poder360. Fonte 1 (fala quente do dia).",
+  "legenda": "O banco vai cortar o limite do cartão de quem vive no rotativo.\n\nQuem explicou foi o Gilneu Vivan, diretor do Banco Central, sobre a regra aprovada ontem: pagou só uma parte da fatura em 3 meses de 6, o banco não aumenta mais o seu limite e começa a reduzir. De quanto é o corte, cada banco decide.\n\nVale a partir de 1º de julho de 2027. Na mesma coletiva ele disse que o pacote inteiro pega até 20 milhões de pessoas.\n\nO banco tem que frear quem está se enrolando ou vai apertar quem já está sem saída?\n\nVídeo: Poder360 (26/11/2026), coletiva do Banco Central. Informações: CNN Brasil e SBT News.\n\n#bancocentral #cartaodecredito #rotativo #limite #dividas",
+  "trecho": {
+    "inicio": "em relação à redução de limites",
+    "fim": "cada um vai poder definir",
+    "gancho": "o banco não deve aumentar o limite dele e deve iniciar um processo de redução",
+    "aspa_manchete": "deve iniciar um processo de redução",
+    "janela": [
+      0,
+      36
+    ],
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "em relação à redução de limites",
+        "texto": "Gilneu Vivan, diretor do Banco Central"
+      }
+    ],
+    "texto": "Natália, em relação à redução de limites, o que a gente definiu agora é que se o cliente usou nos últimos seis meses, três vezes o rotativo, o banco não deve aumentar o limite dele e deve iniciar um processo de redução. O processo de redução vai ser definido por cada instituição, como eu falei, com os diferentes critérios que cada um vai poder definir.",
+    "cta": true,
+    "encher": false
+  },
+  "trecho_txt": "Poder360 (26/11/2026), Gilneu Vivan, diretor do Banco Central, na coletiva sobre as medidas contra o endividamento.",
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Diretor do BC: caiu no rotativo 3 vezes em 6 meses, o banco ==\"deve iniciar um processo de redução\"== do limite",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "noticia_grande": true,
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
+  },
+  "video_final_id": "8e2d09561716c5553a9b2c1b2d217c68",
+  "capa_id": "f6509e95796a4231ce37fd19f49b3eae",
+  "arquivo": "sug-video-bc-limite-rotativo-reducao.mp4",
+  "nota_corte": "Poder360 16:13–16:41 (coletiva do BC, 26/11); bateu 98% com a fala; gancho 'o banco não deve aumentar o limite dele e deve iniciar um processo de redução'; 31,6 s em 1,1x; auditar_cortes 0; conferir_video: falante 51 de 53 e nenhum rosto cortado, pausa de 0,7 s, estalo e repetição de 'processo de redução' vêm da fala (o gancho repete a frase). Na fala ele diz 'nos últimos seis vezes, três vezes' (quis dizer seis meses); a legenda gravada segue o que ele disse.",
+  "criado": "2026-11-26T14:40:00-03:00",
+  "publicado_em": "2026-11-26T14:40:00-03:00",
+  "atualizado": "2026-11-26T14:40",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-bc-limite-rotativo-reducao"
+}
