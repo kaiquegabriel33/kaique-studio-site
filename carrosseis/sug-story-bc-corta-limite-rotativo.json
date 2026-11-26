@@ -1,0 +1,69 @@
+{
+  "id": "sug-story-bc-corta-limite-rotativo",
+  "carrossel_id": "sug-story-bc-corta-limite-rotativo",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: BC manda banco cortar o limite do cartão de quem vive no rotativo",
+  "criado": "2026-11-26T13:40:00-03:00",
+  "atualizado": "2026-11-26T13:40:00-03:00",
+  "vence_em": "2026-11-28T23:59:00-03:00",
+  "forca": "alta",
+  "papel_story": "conteudo_do_dia",
+  "para_quem": "quem paga só uma parte da fatura do cartão de vez em quando",
+  "bordao": "Limite nunca foi dinheiro seu",
+  "comentario": "Pagou só parte da fatura em 3 meses de 6? Pela regra nova do BC, de julho de 2027 em diante o banco corta seu limite. Limite nunca foi dinheiro seu, e agora o BC assinou embaixo.",
+  "repost_url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-restricao-de-credito-do-bc-pode-afetar-20-milhoes-de-brasileiros/",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-bc-corta-limite-rotativo/pacote-de-restricao-de-credito-do-bc-pode-afetar.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.45,
+          "y": 0.6
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "Pagou só parte da fatura em 3 meses de 6? Pela regra nova do BC, de julho de 2027 em diante o banco [[vermelho:corta seu limite]]. Limite nunca foi dinheiro seu, e agora o BC assinou embaixo."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-bc-corta-limite-rotativo/print-cnn-brasil-pacote-de-restricao-de-credito-d.png",
+          "h": 640,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "CNN Brasil (26/11/2026, 12h32): pacote do BC e do CMN inclui redução obrigatória do limite do cartão de quem recorre com frequência ao rotativo; Gilneu Vivan, diretor de Regulação do BC, diz que o pacote pode afetar até 20 milhões de pessoas; consulta pública de 90 dias",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-de-restricao-de-credito-do-bc-pode-afetar-20-milhoes-de-brasileiros/"
+    },
+    {
+      "titulo": "SBT News (26/11/2026, 11h45): limite reduzido de forma gradual para quem, em seis meses, deixou de pagar o total de três ou mais faturas e financiou o resto no rotativo; a restrição acaba com seis faturas seguidas pagas inteiras ou a dívida do rotativo quitada; regras em vigor em 1º de julho de 2027",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/bc-e-cmn-apertam-regras-ao-rotativo-do-cartao-de-credito"
+    },
+    {
+      "titulo": "CNN Brasil, ao vivo (26/11/2026): mesma regra (3 ou mais meses em 6; vigência em julho de 2027, contando operações desde janeiro de 2027)",
+      "url": "https://www.youtube.com/watch?v=cXB4t3TA_zY"
+    }
+  ],
+  "motivo": "Prateleira story (finanças, regra que mexe no bolso; gaveta c, segundo assunto do dia). O BC e o CMN aprovaram em 25/11 a regra: quem cai no rotativo em 3 meses de 6 tem o limite reduzido pelo banco, a partir de julho de 2027. Só 6 veículos deram a regra em detalhe. Ideia: limite não é dinheiro seu. Por que alguém manda: pra quem vive pagando o mínimo. Diferenciação: o bordão dele do limite do cartão, em cima do print real da CNN e da fachada do BC.",
+  "opiniao_sugerida": "Limite nunca foi dinheiro seu, e agora o BC assinou embaixo.",
+  "confira_na_previa": [
+    "A regra vale a partir de 1º de julho de 2027 (SBT News e CNN ao vivo); a CNN em texto diz que parte do pacote ainda passa por consulta pública de 90 dias e que os bancos definem o tamanho do corte.",
+    "Os 20 milhões da manchete são do pacote inteiro (limite do cartão + trava de empréstimo novo para quem deve há 90 dias), por isso o número não está no comentário.",
+    "Fundo é a foto da matéria: fachada com o nome Banco Central do Brasil."
+  ],
+  "versao": 1
+}

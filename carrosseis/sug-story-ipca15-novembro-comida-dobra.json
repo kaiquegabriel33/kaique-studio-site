@@ -1,0 +1,63 @@
+{
+  "id": "sug-story-ipca15-novembro-comida-dobra",
+  "carrossel_id": "sug-story-ipca15-novembro-comida-dobra",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: prévia da inflação em 0,22%, mas a comida em casa subiu o dobro de outubro",
+  "criado": "2026-11-26T13:40:00-03:00",
+  "atualizado": "2026-11-26T13:40:00-03:00",
+  "vence_em": "2026-11-27T23:59:00-03:00",
+  "forca": "media",
+  "papel_story": "conteudo_do_dia",
+  "para_quem": "quem faz a compra do mês e não sente a inflação baixa no carrinho",
+  "comentario": "A prévia da inflação de novembro veio em 0,22%, abaixo do esperado. Só que a comida em casa subiu 2,02%, o dobro de outubro. Quem segurou o índice foi o transporte. No carrinho, o tomate subiu 38,92%.",
+  "repost_url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-novembro-2026/",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-ipca15-novembro-comida-dobra/ipca-15-previa-da-inflacao-sobe-0-22-em-novembro.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.6,
+          "y": 0.4
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "A prévia da inflação de novembro veio em 0,22%, abaixo do esperado. Só que a comida em casa subiu [[vermelho:2,02%]], o dobro de outubro. Quem segurou o índice foi o transporte. No carrinho, o tomate subiu 38,92%."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-ipca15-novembro-comida-dobra/print-infomoney-ipca-15-previa-da-inflacao-sobe.png",
+          "h": 600,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Agência Brasil (26/11/2026, 9h30, dados do IBGE): IPCA-15 de novembro 0,22% (outubro 0,32%); 4,64% em 12 meses; alimentação no domicílio 2,02% (1,01% em outubro); tomate 38,92%, cebola 17,43%, carnes 3,65%, arroz 3,38%; transportes -0,71%",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro"
+    },
+    {
+      "titulo": "InfoMoney (26/11/2026): IPCA-15 sobe 0,22% em novembro, abaixo do esperado (pesquisa da Reuters apontava 0,34%)",
+      "url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-novembro-2026/"
+    }
+  ],
+  "motivo": "Prateleira story (finanças, número novo do IBGE no dia; gaveta c). IPCA-15 de novembro saiu hoje: 0,22%, abaixo do esperado, mas a comida em casa foi de 1,01% para 2,02%. 15 veículos deram o índice; quase ninguém abriu pela comida. Ideia: índice baixo não é carrinho barato. Por que alguém manda: 'viu, não é coisa da minha cabeça'. Diferenciação: a conta nossa (comida em casa dobrou de um mês pro outro) e o exemplo do tomate, em cima do print real e da foto do açougue do mercado.",
+  "confira_na_previa": [
+    "'O dobro de outubro' é conta nossa: 2,02% contra 1,01% (Agência Brasil/IBGE).",
+    "'Quem segurou o índice foi o transporte': o grupo caiu 0,71% e tirou 0,14 ponto do índice (Agência Brasil); a matéria não diz qual item puxou.",
+    "'Abaixo do esperado': a pesquisa da Reuters apontava 0,34% (InfoMoney)."
+  ],
+  "versao": 1
+}
