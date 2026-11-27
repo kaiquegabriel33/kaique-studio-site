@@ -1,0 +1,63 @@
+{
+  "id": "sug-story-tesouro-ipca-9-efeito-trabuco",
+  "carrossel_id": "sug-story-tesouro-ipca-9-efeito-trabuco",
+  "status": "pronto",
+  "formato": "story",
+  "titulo": "Story: Tesouro IPCA+ 2050 sobe 9,1% numa semana com o Trabuco na Fazenda, mas quem comprou agora deixa o ganho no imposto",
+  "criado": "2026-11-27T16:10:00-03:00",
+  "vence_em": "2026-11-29T23:59:00-03:00",
+  "forca": "alta",
+  "papel_story": "conteudo_do_dia",
+  "para_quem": "quem tem Tesouro IPCA+ ou prefixado e abriu o app essa semana, e quem viu a manchete e pensou em comprar pra vender logo",
+  "comentario": "O Tesouro IPCA+ 2050 subiu 9,1% numa semana com o Trabuco na Fazenda. Esse ganho é de quem já tinha. Quem comprou essa semana e vender agora deixa a maior parte no imposto.",
+  "repost_url": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-quanto-rende-efeito-trabuco/",
+  "legenda": "",
+  "slides": [
+    {
+      "altura": 1920,
+      "centralizar": true,
+      "semCabecalho": true,
+      "tema": "escuro",
+      "papel": "post",
+      "fundo": {
+        "src": "midia/sug-story-tesouro-ipca-9-efeito-trabuco/tesouro-ipca-rende-mais-de-9-em-menos-de-uma-sem.jpg",
+        "clarear": 0.2,
+        "foco": {
+          "x": 0.45,
+          "y": 0.5
+        }
+      },
+      "elementos": [
+        {
+          "tipo": "caixa_story",
+          "texto": "O Tesouro IPCA+ 2050 subiu [[verde:9,1%]] numa semana com o Trabuco na Fazenda. Esse ganho é de quem já tinha. Quem comprou essa semana e vender agora deixa a maior parte no [[vermelho:imposto]]."
+        },
+        {
+          "tipo": "imagem",
+          "src": "midia/sug-story-tesouro-ipca-9-efeito-trabuco/print-infomoney-tesouro-ipca-rende-mais-de-9-em.png",
+          "h": 600,
+          "ajuste": "conter",
+          "raio": 18
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "InfoMoney (27/11/2026, 14h30): Tesouro IPCA+ rende mais de 9% em menos de uma semana com \"efeito Trabuco\". Tesouro IPCA+ 2050: preço de R$ 858,87 (abertura de segunda, 23/11) para R$ 937,24 (sexta, 27/11, perto do meio-dia), alta de 9,1%; taxa de IPCA + 7,55% para IPCA + 7,16%. Quem vende em menos de 30 dias paga IOF, que pode consumir mais de 80% do rendimento em poucos dias, e IR de 22,5% até 180 dias",
+      "url": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-quanto-rende-efeito-trabuco/"
+    },
+    {
+      "titulo": "Agência Brasil (26/11/2026, 21h51): o Planalto confirmou em nota que Luiz Carlos Trabuco, presidente do conselho do Bradesco, assume a Fazenda em 2027",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda"
+    }
+  ],
+  "motivo": "Prateleira story, notícia do dia (oportunidade do InfoMoney; só ele deu às 14h30, estava no faro do radar). Ideia: alta de título público numa semana é ganho de quem já estava dentro; quem entra pela manchete e sai logo entrega o ganho no IOF e no IR. Por que alguém manda: pra quem viu os 9% e falou em comprar. Diferenciação: a leitura dele em cima do print real do InfoMoney, virando a manchete do avesso. Gaveta c (segundo assunto do radar).",
+  "confira_na_previa": [
+    "'9,1%' é a alta do preço do Tesouro IPCA+ 2050 entre a abertura de segunda (23/11) e sexta ao meio-dia (27/11), conta do InfoMoney. Se sair depois de segunda, o número já é outro.",
+    "'A maior parte no imposto': o InfoMoney diz que o IOF pode levar mais de 80% do rendimento de quem vende em poucos dias, e ainda tem IR de 22,5%. Vale para quem vende em menos de 30 dias.",
+    "'Esse ganho é de quem já tinha' é leitura sugerida, não fala sua."
+  ],
+  "opiniao_sugerida": "Esse ganho é de quem já tinha.",
+  "versao": 1
+}
