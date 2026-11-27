@@ -106,10 +106,26 @@
     }
   ],
   "criado": "2026-11-26T19:58:00-03:00",
-  "atualizado": "2026-11-27T16:20",
+  "atualizado": "2026-11-27T16:15",
   "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-macron-carne-dopada",
   "teste_cta": {
     "braco": "atual",
     "texto": null
-  }
+  },
+  "agendado_metricool": {
+    "id": 444763143,
+    "uuid": "-6828364291377969297",
+    "para": "2026-11-28T09:00:00-03:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-27T16:12:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 444763371,
+    "uuid": "-8434851476615246210",
+    "para": "2026-11-27T18:40:00-03:00",
+    "tipo": "tiktok",
+    "em": "2026-11-27T16:13:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-27T16:15:00-03:00"
 }
