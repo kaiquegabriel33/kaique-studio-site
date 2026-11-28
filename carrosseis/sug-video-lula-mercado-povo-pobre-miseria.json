@@ -1,104 +1,118 @@
 {
- "status": "publicado",
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-17T09:55:00-03:00",
- "versao": 1,
- "video_partes": [],
- "cta": true,
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "sugerido_por": "rotina Quente do dia 17/11 9h15",
- "id": "sug-video-lula-mercado-povo-pobre-miseria",
- "titulo": "Lula na Espanha: “o mercado financeiro quer que o povo pobre viva na miséria”",
- "motivo": "Fala do presidente a Pedro Sánchez em Madri (16/11), manchete em 8 veículos hoje (Poder360, Revista Oeste...). Íntegra no El Mundo (YouTube, 17/11, menos de mil views): quente e pouco visto. Mesmo dia do dólar a R$ 5,77 e da votação dos destaques do ajuste no Senado.",
- "prioridade": 1,
- "forca": "alta",
- "noticia_grande": true,
- "fato_em": "2026-11-16T12:00:00-03:00",
- "vence_em": "2026-11-18T23:59:00-03:00",
- "para_quem": "quem ganha salário mínimo e quem sente o dólar alto no mercado e no posto",
- "promessa": "o salário mínimo só aumenta acima da inflação quando eu ganho as eleições",
- "paga_em": "o mercado financeiro quer que o povo pobre viva na miséria",
- "diferenciacao": "a legenda põe a fala do lado do número do mesmo dia (dólar a R$ 5,77, maior desde abril de 2025) e da votação do ajuste no Senado, com a leitura do Valor do outro lado",
- "opiniao_sugerida": "Com o dólar a R$ 5,77, quem sente antes da Faria Lima é a padaria.",
- "arquivo": "sug-video-lula-mercado-povo-pobre-miseria-tela-cheia.mp4",
- "nota_conferencia": "auditar_cortes 0 pontos; conferir_video: REPETIÇÃO é anáfora da fala (“o mercado financeiro não quer. O mercado financeiro quer”), 3 pausas curtas são o “Claro” do Sánchez, estalo de 0:00.3 na emenda do gancho; fala confere 1.0 com a transcrição; corte puro 1,1x, 34,4 s; sem abertura dele.",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-17T09:55:00-03:00",
+  "versao": 1,
+  "video_partes": [],
+  "cta": true,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Quente do dia 17/11 9h15",
+  "id": "sug-video-lula-mercado-povo-pobre-miseria",
+  "titulo": "Lula na Espanha: “o mercado financeiro quer que o povo pobre viva na miséria”",
+  "motivo": "Fala do presidente a Pedro Sánchez em Madri (16/11), manchete em 8 veículos hoje (Poder360, Revista Oeste...). Íntegra no El Mundo (YouTube, 17/11, menos de mil views): quente e pouco visto. Mesmo dia do dólar a R$ 5,77 e da votação dos destaques do ajuste no Senado.",
+  "prioridade": 1,
+  "forca": "alta",
+  "noticia_grande": true,
+  "fato_em": "2026-11-16T12:00:00-03:00",
+  "vence_em": "2026-11-18T23:59:00-03:00",
+  "para_quem": "quem ganha salário mínimo e quem sente o dólar alto no mercado e no posto",
+  "promessa": "o salário mínimo só aumenta acima da inflação quando eu ganho as eleições",
+  "paga_em": "o mercado financeiro quer que o povo pobre viva na miséria",
+  "diferenciacao": "a legenda põe a fala do lado do número do mesmo dia (dólar a R$ 5,77, maior desde abril de 2025) e da votação do ajuste no Senado, com a leitura do Valor do outro lado",
+  "opiniao_sugerida": "Com o dólar a R$ 5,77, quem sente antes da Faria Lima é a padaria.",
+  "arquivo": "sug-video-lula-mercado-povo-pobre-miseria-tela-cheia.mp4",
+  "nota_conferencia": "auditar_cortes 0 pontos; conferir_video: REPETIÇÃO é anáfora da fala (“o mercado financeiro não quer. O mercado financeiro quer”), 3 pausas curtas são o “Claro” do Sánchez, estalo de 0:00.3 na emenda do gancho; fala confere 1.0 com a transcrição; corte puro 1,1x, 34,4 s; sem abertura dele.",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Lula na Espanha: ==o mercado quer que o povo pobre viva na miséria=="
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Lula na Espanha: ==o mercado quer que o povo pobre viva na miséria=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "o mercado financeiro quer que o povo pobre viva na miséria",
+    "inicio": "no Brasil o salário mínimo",
+    "fim": "viva na miséria",
+    "texto": "No Brasil, o salário mínimo só aumenta acima da inflação quando eu ganho as eleições. Porque eu reponho a inflação e dou o crescimento do PIB. Se o PIB crescer 3% é o crescimento da riqueza. Eu tenho que distribuir a riqueza com o povo brasileiro. Mas a direita não quer. O mercado financeiro não quer. O mercado financeiro quer que o povo pobre viva na miséria.",
+    "gancho": "o mercado financeiro quer que o povo pobre viva na miséria",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Se o PIB crescer",
+        "texto": "Lula a Pedro Sánchez, em Madri (16/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false
+  },
+  "video_url": "https://www.youtube.com/watch?v=71ft7ms5BDY",
+  "trecho_txt": "El Mundo (YouTube, 17/11/2026), íntegra do encontro de Pedro Sánchez e Lula em Madri; de 24:05 a 24:43",
+  "legenda": "Lula, em Madri, ao lado do Pedro Sánchez: o mercado financeiro quer que o povo pobre viva na miséria.\n\nA conversa foi gravada na segunda (16/11) e publicada inteira pelo próprio Sánchez, que disputa eleição na Espanha no dia 29. Lula falava do salário mínimo: diz que ele só sobe acima da inflação quando ele ganha a eleição, porque repõe a inflação e soma o crescimento do PIB.\n\nNo mesmo dia, o dólar fechou a R$ 5,77, o maior valor desde abril de 2025. E hoje o Senado vota os destaques do ajuste fiscal.\n\nO outro lado: o Valor atribui a alta do dólar ao temor do mercado com o quarto mandato, e o Morgan Stanley rebaixou a recomendação para a Bolsa brasileira.\n\nCom o dólar a R$ 5,77, quem sente antes da Faria Lima é a padaria: o Brasil compra lá fora boa parte do trigo que usa.\n\nVídeo: El Mundo (17/11/2026), íntegra do encontro. Fontes: Poder360 (17/11/2026); Agência Brasil (16/11/2026); Valor Econômico (17/11/2026).\n\n#lula #mercado #salariominimo #economia",
+  "fontes": [
+    {
+      "titulo": "Poder360 (17/11/2026): Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
+      "url": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "Agência Brasil (16/11/2026): Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-577-e-fecha-no-maior-valor-desde-abril-de-2025"
+    },
+    {
+      "titulo": "Valor (17/11/2026): Temor com Lula 4 leva dólar a R$ 5,77 e gera disparada dos juros",
+      "url": "https://valor.globo.com/financas/noticia/2026/11/17/temor-com-lula-4-leva-dolar-a-r-577-e-gera-disparada-dos-juros.ghtml"
+    },
+    {
+      "titulo": "El Mundo (YouTube, 17/11/2026): Encontro na íntegra entre Pedro Sánchez e Lula da Silva",
+      "url": "https://www.youtube.com/watch?v=71ft7ms5BDY"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "o mercado financeiro quer que o povo pobre viva na miséria",
-  "inicio": "no Brasil o salário mínimo",
-  "fim": "viva na miséria",
-  "texto": "No Brasil, o salário mínimo só aumenta acima da inflação quando eu ganho as eleições. Porque eu reponho a inflação e dou o crescimento do PIB. Se o PIB crescer 3% é o crescimento da riqueza. Eu tenho que distribuir a riqueza com o povo brasileiro. Mas a direita não quer. O mercado financeiro não quer. O mercado financeiro quer que o povo pobre viva na miséria.",
-  "gancho": "o mercado financeiro quer que o povo pobre viva na miséria",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "Se o PIB crescer",
-    "texto": "Lula a Pedro Sánchez, em Madri (16/11)"
-   }
   ],
-  "cta": true,
-  "encher": false
- },
- "video_url": "https://www.youtube.com/watch?v=71ft7ms5BDY",
- "trecho_txt": "El Mundo (YouTube, 17/11/2026), íntegra do encontro de Pedro Sánchez e Lula em Madri; de 24:05 a 24:43",
- "legenda": "Lula, em Madri, ao lado do Pedro Sánchez: o mercado financeiro quer que o povo pobre viva na miséria.\n\nA conversa foi gravada na segunda (16/11) e publicada inteira pelo próprio Sánchez, que disputa eleição na Espanha no dia 29. Lula falava do salário mínimo: diz que ele só sobe acima da inflação quando ele ganha a eleição, porque repõe a inflação e soma o crescimento do PIB.\n\nNo mesmo dia, o dólar fechou a R$ 5,77, o maior valor desde abril de 2025. E hoje o Senado vota os destaques do ajuste fiscal.\n\nO outro lado: o Valor atribui a alta do dólar ao temor do mercado com o quarto mandato, e o Morgan Stanley rebaixou a recomendação para a Bolsa brasileira.\n\nCom o dólar a R$ 5,77, quem sente antes da Faria Lima é a padaria: o Brasil compra lá fora boa parte do trigo que usa.\n\nVídeo: El Mundo (17/11/2026), íntegra do encontro. Fontes: Poder360 (17/11/2026); Agência Brasil (16/11/2026); Valor Econômico (17/11/2026).\n\n#lula #mercado #salariominimo #economia",
- "fontes": [
-  {
-   "titulo": "Poder360 (17/11/2026): Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
-   "url": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/"
+  "carrossel_id": "sug-video-lula-mercado-povo-pobre-miseria",
+  "publicado_em": "2026-11-17T09:55:00-03:00",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-mercado-povo-pobre-miseria",
+  "agendado_metricool": {
+    "id": 431392392,
+    "uuid": "6482316000048729827",
+    "para": "2026-11-17T13:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-17T09:37:00-03:00",
+    "isAiGenerated": false
   },
-  {
-   "titulo": "Agência Brasil (16/11/2026): Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
-   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-577-e-fecha-no-maior-valor-desde-abril-de-2025"
+  "agendado_tiktok": {
+    "id": 431392568,
+    "uuid": "7162085814627222268",
+    "para": "2026-11-17T17:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-17T09:37:00-03:00"
   },
-  {
-   "titulo": "Valor (17/11/2026): Temor com Lula 4 leva dólar a R$ 5,77 e gera disparada dos juros",
-   "url": "https://valor.globo.com/financas/noticia/2026/11/17/temor-com-lula-4-leva-dolar-a-r-577-e-gera-disparada-dos-juros.ghtml"
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-17T09:37:00-03:00",
+  "nota_lote": "AGENDADO 17/11 (rotina Quente do dia 9h15): IG 13:40 (Reel de teste; 13:00 já era do Nikolas), TT 17:30 (16:10 já era do Nikolas). Sem Short: o dia já tem 3 Shorts de corte. Corte puro 1,1x, 34,4 s; auditar_cortes 0 pontos; conferir_video: REPETIÇÃO é anáfora da fala, pausas = “Claro” do Sánchez. Não poste à mão.",
+  "atualizado": "2026-11-17T09:38:00-03:00",
+  "teste_cta": {
+    "braco": "atual",
+    "texto": "Segue pra ver o próximo corte."
   },
-  {
-   "titulo": "El Mundo (YouTube, 17/11/2026): Encontro na íntegra entre Pedro Sánchez e Lula da Silva",
-   "url": "https://www.youtube.com/watch?v=71ft7ms5BDY"
-  }
- ],
- "carrossel_id": "sug-video-lula-mercado-povo-pobre-miseria",
- "publicado_em": "2026-11-17T09:55:00-03:00",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-mercado-povo-pobre-miseria",
- "agendado_metricool": {"id": 431392392, "uuid": "6482316000048729827", "para": "2026-11-17T13:40:00", "tipo": "TRIAL_REEL", "em": "2026-11-17T09:37:00-03:00", "isAiGenerated": false},
- "agendado_tiktok": {"id": 431392568, "uuid": "7162085814627222268", "para": "2026-11-17T17:30:00", "tipo": "tiktok", "em": "2026-11-17T09:37:00-03:00"},
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-11-17T09:37:00-03:00",
- "nota_lote": "AGENDADO 17/11 (rotina Quente do dia 9h15): IG 13:40 (Reel de teste; 13:00 já era do Nikolas), TT 17:30 (16:10 já era do Nikolas). Sem Short: o dia já tem 3 Shorts de corte. Corte puro 1,1x, 34,4 s; auditar_cortes 0 pontos; conferir_video: REPETIÇÃO é anáfora da fala, pausas = “Claro” do Sánchez. Não poste à mão.",
- "atualizado": "2026-11-17T09:38:00-03:00",
- "teste_cta": {
-  "braco": "atual",
-  "texto": "Segue pra ver o próximo corte."
- }
+  "postado_em": "2026-11-17T13:40-03:00"
 }

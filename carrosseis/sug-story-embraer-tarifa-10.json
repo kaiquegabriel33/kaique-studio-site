@@ -2,7 +2,13 @@
   "id": "sug-story-embraer-tarifa-10",
   "carrossel_id": "sug-story-embraer-tarifa-10",
   "status": "pronto",
-  "agendado_metricool": {"id": 442174147, "uuid": "-499586886293765469", "para": "2026-11-26T12:30:00-03:00", "tipo": "STORY", "em": "2026-11-25T15:53:00-03:00"},
+  "agendado_metricool": {
+    "id": 442174147,
+    "uuid": "-499586886293765469",
+    "para": "2026-11-26T12:30:00-03:00",
+    "tipo": "STORY",
+    "em": "2026-11-25T15:53:00-03:00"
+  },
   "formato": "story",
   "titulo": "Story: EUA propõem tarifa de 10% em avião e a Embraer chega a cair 9%",
   "criado": "2026-11-25T13:05:00-03:00",
@@ -60,5 +66,6 @@
     "É proposta do USTR, ainda não está valendo; o texto diz isso.",
     "Foto de fundo é a da matéria (cauda de avião com o logo Embraer); no story o print já mostra o veículo."
   ],
-  "versao": 1
+  "versao": 1,
+  "postado_em": "2026-11-26T12:30:00-03:00"
 }

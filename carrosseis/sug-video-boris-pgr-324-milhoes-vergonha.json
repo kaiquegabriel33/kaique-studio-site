@@ -1,128 +1,129 @@
 {
- "status": "publicado",
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-17T11:35:00-03:00",
- "versao": 1,
- "video_partes": [],
- "cta": true,
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "sugerido_por": "rotina Reels de teste 17/11 11h20",
- "id": "sug-video-boris-pgr-324-milhoes-vergonha",
- "titulo": "Boris Casoy sobre o pedido de R$ 324 milhões da PGR: “isso é uma vergonha”",
- "motivo": "Âncora com frase forte sobre dinheiro público, hoje no Jornal do Boris (SBT News, 1 h no ar, pouco visto). Fato: a PGR reforçou ao STF o pedido de crédito extra de R$ 324 milhões para penduricalhos do Ministério Público (G1, Folha, Poder360, Metrópoles, 14 a 16/11); editorial do Estadão de hoje: “A PGR insulta os brasileiros”.",
- "prioridade": 2,
- "forca": "alta",
- "fato_em": "2026-11-17T09:00:00-03:00",
- "vence_em": "2026-11-18T23:59:00-03:00",
- "politico": "Boris Casoy",
- "para_quem": "quem paga imposto e ouve falar de corte de gasto enquanto o topo do serviço público pede mais",
- "promessa": "pedido de 324 milhões fora do arcabouço fiscal para bancar penduricalhos",
- "paga_em": "isso é uma vergonha",
- "diferenciacao": "a legenda põe o momento: o mesmo Senado que vota hoje os destaques do ajuste fiscal (corte de até R$ 56 bi) e a PGR pedindo R$ 324 milhões a mais para benefícios fora do salário",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-17T11:35:00-03:00",
+  "versao": 1,
+  "video_partes": [],
+  "cta": true,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 17/11 11h20",
+  "id": "sug-video-boris-pgr-324-milhoes-vergonha",
+  "titulo": "Boris Casoy sobre o pedido de R$ 324 milhões da PGR: “isso é uma vergonha”",
+  "motivo": "Âncora com frase forte sobre dinheiro público, hoje no Jornal do Boris (SBT News, 1 h no ar, pouco visto). Fato: a PGR reforçou ao STF o pedido de crédito extra de R$ 324 milhões para penduricalhos do Ministério Público (G1, Folha, Poder360, Metrópoles, 14 a 16/11); editorial do Estadão de hoje: “A PGR insulta os brasileiros”.",
+  "prioridade": 2,
+  "forca": "alta",
+  "fato_em": "2026-11-17T09:00:00-03:00",
+  "vence_em": "2026-11-18T23:59:00-03:00",
+  "politico": "Boris Casoy",
+  "para_quem": "quem paga imposto e ouve falar de corte de gasto enquanto o topo do serviço público pede mais",
+  "promessa": "pedido de 324 milhões fora do arcabouço fiscal para bancar penduricalhos",
+  "paga_em": "isso é uma vergonha",
+  "diferenciacao": "a legenda põe o momento: o mesmo Senado que vota hoje os destaques do ajuste fiscal (corte de até R$ 56 bi) e a PGR pedindo R$ 324 milhões a mais para benefícios fora do salário",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Boris sobre os R$ 324 milhões da PGR: ==“isso é uma vergonha”=="
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Boris sobre os R$ 324 milhões da PGR: ==“isso é uma vergonha”=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "isso é uma vergonha",
+    "inicio": "A PGR insulta",
+    "fim": "uma vergonha",
+    "texto": "A PGR insulta os brasileiros com pedido de 324 milhões fora do arcabouço fiscal para bancar penduricalhos. No momento em que o país discute cortes de despesa para evitar um colapso nas contas, é um acinte. E eu digo, isso é uma vergonha.",
+    "gancho": "E eu digo, isso é uma vergonha",
+    "girar": "nao",
+    "crop": [
+      1010,
+      700,
+      35,
+      512
+    ],
+    "enquadrar": false,
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "No momento em que",
+        "texto": "Boris Casoy no SBT News, hoje (17/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      46
+    ]
+  },
+  "video_url": "https://www.youtube.com/watch?v=N6QUgoHE93M",
+  "trecho_txt": "SBT News (YouTube, 17/11/2026), Jornal do Boris, comentário de Boris Casoy",
+  "legenda": "Boris Casoy sobre o pedido de R$ 324 milhões da PGR: “isso é uma vergonha”.\n\nA Procuradoria-Geral da República reforçou ao STF o pedido de crédito extra de R$ 324 milhões para pagar penduricalhos do Ministério Público em 2026, os benefícios que ficam fora do salário. Hoje o Estadão abriu editorial com o título “A PGR insulta os brasileiros”, e o Boris leu.\n\nE o calendário pesa. Hoje mesmo o Senado vota os destaques do ajuste fiscal, que corta até R$ 56 bilhões, com conta para estados e municípios.\n\nQuando o corte chega no posto de saúde antes de chegar no penduricalho, o recado está dado.\n\nVídeo: SBT News (17/11/2026). Fontes: G1 (16/11/2026); Folha de S.Paulo (15/11/2026); Poder360 (16/11/2026); Estadão (17/11/2026).\n\n#pgr #penduricalhos #ajustefiscal #boriscasoy",
+  "fontes": [
+    {
+      "titulo": "G1: PGR indica que manterá pedido de R$ 324 milhões extras para bancar penduricalhos",
+      "url": "https://news.google.com/search?q=PGR%20324%20milh%C3%B5es%20penduricalhos%20G1"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "Folha de S.Paulo: PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
+      "url": "https://news.google.com/search?q=PGR%20refor%C3%A7a%20ao%20STF%20pedido%20de%20cr%C3%A9dito%20extra%20de%20R%24%20324%20milh%C3%B5es"
+    },
+    {
+      "titulo": "Poder360: PGR mantém pedido de R$ 324 mi extras para bancar penduricalhos",
+      "url": "https://news.google.com/search?q=PGR%20mant%C3%A9m%20pedido%20de%20R%24%20324%20mi%20Poder360"
+    },
+    {
+      "titulo": "Estadão (editorial): A PGR insulta os brasileiros",
+      "url": "https://news.google.com/search?q=A%20PGR%20insulta%20os%20brasileiros%20Estad%C3%A3o"
+    },
+    {
+      "titulo": "SBT News (YouTube, 17/11/2026)",
+      "url": "https://www.youtube.com/watch?v=N6QUgoHE93M"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "isso é uma vergonha",
-  "inicio": "A PGR insulta",
-  "fim": "uma vergonha",
-  "texto": "A PGR insulta os brasileiros com pedido de 324 milhões fora do arcabouço fiscal para bancar penduricalhos. No momento em que o país discute cortes de despesa para evitar um colapso nas contas, é um acinte. E eu digo, isso é uma vergonha.",
-  "gancho": "E eu digo, isso é uma vergonha",
-  "girar": "nao",
-  "crop": [
-   1010,
-   700,
-   35,
-   512
   ],
-  "enquadrar": false,
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "No momento em que",
-    "texto": "Boris Casoy no SBT News, hoje (17/11)"
-   }
-  ],
-  "cta": true,
-  "encher": false,
-  "janela": [
-   0,
-   46
-  ]
- },
- "video_url": "https://www.youtube.com/watch?v=N6QUgoHE93M",
- "trecho_txt": "SBT News (YouTube, 17/11/2026), Jornal do Boris, comentário de Boris Casoy",
- "legenda": "Boris Casoy sobre o pedido de R$ 324 milhões da PGR: “isso é uma vergonha”.\n\nA Procuradoria-Geral da República reforçou ao STF o pedido de crédito extra de R$ 324 milhões para pagar penduricalhos do Ministério Público em 2026, os benefícios que ficam fora do salário. Hoje o Estadão abriu editorial com o título “A PGR insulta os brasileiros”, e o Boris leu.\n\nE o calendário pesa. Hoje mesmo o Senado vota os destaques do ajuste fiscal, que corta até R$ 56 bilhões, com conta para estados e municípios.\n\nQuando o corte chega no posto de saúde antes de chegar no penduricalho, o recado está dado.\n\nVídeo: SBT News (17/11/2026). Fontes: G1 (16/11/2026); Folha de S.Paulo (15/11/2026); Poder360 (16/11/2026); Estadão (17/11/2026).\n\n#pgr #penduricalhos #ajustefiscal #boriscasoy",
- "fontes": [
-  {
-   "titulo": "G1: PGR indica que manterá pedido de R$ 324 milhões extras para bancar penduricalhos",
-   "url": "https://news.google.com/search?q=PGR%20324%20milh%C3%B5es%20penduricalhos%20G1"
+  "carrossel_id": "sug-video-boris-pgr-324-milhoes-vergonha",
+  "noticia_grande": true,
+  "arquivo": "sug-video-boris-pgr-324-milhoes-vergonha-tela-cheia.mp4",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-boris-pgr-324-milhoes-vergonha",
+  "publicado_em": "2026-11-17T12:20:00-03:00",
+  "agendado_metricool": {
+    "id": 431585522,
+    "uuid": "2101625080756391392",
+    "para": "2026-11-17T14:00:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-17T12:08:00-03:00",
+    "isAiGenerated": false
   },
-  {
-   "titulo": "Folha de S.Paulo: PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
-   "url": "https://news.google.com/search?q=PGR%20refor%C3%A7a%20ao%20STF%20pedido%20de%20cr%C3%A9dito%20extra%20de%20R%24%20324%20milh%C3%B5es"
+  "agendado_tiktok": {
+    "id": 431585671,
+    "uuid": "3162613362429676156",
+    "para": "2026-11-17T20:10:00",
+    "tipo": "tiktok",
+    "em": "2026-11-17T12:08:00-03:00"
   },
-  {
-   "titulo": "Poder360: PGR mantém pedido de R$ 324 mi extras para bancar penduricalhos",
-   "url": "https://news.google.com/search?q=PGR%20mant%C3%A9m%20pedido%20de%20R%24%20324%20mi%20Poder360"
-  },
-  {
-   "titulo": "Estadão (editorial): A PGR insulta os brasileiros",
-   "url": "https://news.google.com/search?q=A%20PGR%20insulta%20os%20brasileiros%20Estad%C3%A3o"
-  },
-  {
-   "titulo": "SBT News (YouTube, 17/11/2026)",
-   "url": "https://www.youtube.com/watch?v=N6QUgoHE93M"
-  }
- ],
- "carrossel_id": "sug-video-boris-pgr-324-milhoes-vergonha",
- "noticia_grande": true,
- "arquivo": "sug-video-boris-pgr-324-milhoes-vergonha-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-boris-pgr-324-milhoes-vergonha",
- "publicado_em": "2026-11-17T12:20:00-03:00",
- "agendado_metricool": {
-  "id": 431585522,
-  "uuid": "2101625080756391392",
-  "para": "2026-11-17T14:00:00",
-  "tipo": "TRIAL_REEL",
-  "em": "2026-11-17T12:08:00-03:00",
-  "isAiGenerated": false
- },
- "agendado_tiktok": {
-  "id": 431585671,
-  "uuid": "3162613362429676156",
-  "para": "2026-11-17T20:10:00",
-  "tipo": "tiktok",
-  "em": "2026-11-17T12:08:00-03:00"
- },
- "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 14:00 (Reel de teste) e TT 20:10. Corte puro 1,1x, 33,7 s, gancho “isso é uma vergonha” na abertura. auditar_cortes 0 pontos. conferir_video: 3 de 4 estalos suavizados; sobra 1 aos 29 s (perto do fim da fala, pico 20 dB); FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-11-17T12:10:00-03:00",
- "atualizado": "2026-11-17T12:10:00-03:00"
+  "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 14:00 (Reel de teste) e TT 20:10. Corte puro 1,1x, 33,7 s, gancho “isso é uma vergonha” na abertura. auditar_cortes 0 pontos. conferir_video: 3 de 4 estalos suavizados; sobra 1 aos 29 s (perto do fim da fala, pico 20 dB); FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-17T12:10:00-03:00",
+  "atualizado": "2026-11-17T12:10:00-03:00",
+  "postado_em": "2026-11-17T14:13-03:00"
 }

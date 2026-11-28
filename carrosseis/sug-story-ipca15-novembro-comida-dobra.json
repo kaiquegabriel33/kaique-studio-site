@@ -2,7 +2,13 @@
   "id": "sug-story-ipca15-novembro-comida-dobra",
   "carrossel_id": "sug-story-ipca15-novembro-comida-dobra",
   "status": "publicado",
-  "agendado_metricool": {"id": 443732548, "uuid": "282768087871605650", "para": "2026-11-27T12:30:00-03:00", "tipo": "STORY", "em": "2026-11-26T19:50:00-03:00"},
+  "agendado_metricool": {
+    "id": 443732548,
+    "uuid": "282768087871605650",
+    "para": "2026-11-27T12:30:00-03:00",
+    "tipo": "STORY",
+    "em": "2026-11-26T19:50:00-03:00"
+  },
   "nota_lote": "AGENDADO para 27/11 às 12:30 no Metricool (story sai sozinho): não poste à mão.",
   "formato": "story",
   "titulo": "Story: prévia da inflação em 0,22%, mas a comida em casa subiu o dobro de outubro",
@@ -61,5 +67,6 @@
     "'Quem segurou o índice foi o transporte': o grupo caiu 0,71% e tirou 0,14 ponto do índice (Agência Brasil); a matéria não diz qual item puxou.",
     "'Abaixo do esperado': a pesquisa da Reuters apontava 0,34% (InfoMoney)."
   ],
-  "versao": 1
+  "versao": 1,
+  "postado_em": "2026-11-27T12:30:00-03:00"
 }

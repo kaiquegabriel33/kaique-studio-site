@@ -1,113 +1,114 @@
 {
- "status": "publicado",
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-17T12:20:00-03:00",
- "versao": 1,
- "video_partes": [],
- "cta": true,
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "sugerido_por": "rotina Reels de teste 17/11 11h20",
- "id": "sug-video-pimenta-estelionato-eleitoral",
- "titulo": "Paulo Pimenta: “não vamos aceitar coisas do tipo estelionato eleitoral”",
- "motivo": "Líder do governo na Câmara rebate quem chama o ajuste fiscal de estelionato eleitoral, com números da saúde e da educação; vídeo dele (16/11) no Canal UOL, 23 mil views. Hoje o Senado vota os destaques; contraponto do lado do governo aos cortes de Tarcísio e Lindbergh de hoje.",
- "prioridade": 2,
- "forca": "media",
- "fato_em": "2026-11-16T17:00:00-03:00",
- "vence_em": "2026-11-18T23:59:00-03:00",
- "politico": "Paulo Pimenta",
- "para_quem": "quem ouviu que o ajuste vai cortar saúde, educação e salário mínimo e quer saber o que o governo responde",
- "promessa": "Lula quer tirar o dinheiro da saúde, da educação. Pelo amor de Deus.",
- "paga_em": "esta pessoa se chama Luís Inácio Lula da Silva",
- "diferenciacao": "a legenda põe os dois lados do mesmo dia: o governo diz que saúde e educação crescem; a oposição e parte da esquerda chamam o pacote de estelionato eleitoral; e lembra que quem decide hoje é o Senado",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-17T12:20:00-03:00",
+  "versao": 1,
+  "video_partes": [],
+  "cta": true,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 17/11 11h20",
+  "id": "sug-video-pimenta-estelionato-eleitoral",
+  "titulo": "Paulo Pimenta: “não vamos aceitar coisas do tipo estelionato eleitoral”",
+  "motivo": "Líder do governo na Câmara rebate quem chama o ajuste fiscal de estelionato eleitoral, com números da saúde e da educação; vídeo dele (16/11) no Canal UOL, 23 mil views. Hoje o Senado vota os destaques; contraponto do lado do governo aos cortes de Tarcísio e Lindbergh de hoje.",
+  "prioridade": 2,
+  "forca": "media",
+  "fato_em": "2026-11-16T17:00:00-03:00",
+  "vence_em": "2026-11-18T23:59:00-03:00",
+  "politico": "Paulo Pimenta",
+  "para_quem": "quem ouviu que o ajuste vai cortar saúde, educação e salário mínimo e quer saber o que o governo responde",
+  "promessa": "Lula quer tirar o dinheiro da saúde, da educação. Pelo amor de Deus.",
+  "paga_em": "esta pessoa se chama Luís Inácio Lula da Silva",
+  "diferenciacao": "a legenda põe os dois lados do mesmo dia: o governo diz que saúde e educação crescem; a oposição e parte da esquerda chamam o pacote de estelionato eleitoral; e lembra que quem decide hoje é o Senado",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Líder do governo: ==“não vamos aceitar coisas do tipo estelionato eleitoral”=="
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Líder do governo: ==“não vamos aceitar coisas do tipo estelionato eleitoral”=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "não vamos aceitar coisas do tipo estelionato eleitoral",
+    "inicio": "nós não vamos aceitar, né",
+    "fim": "Luís Inácio Lula da Silva",
+    "texto": "nós não vamos aceitar, né, coisas do tipo estelionato eleitoral. Lula quer tirar o dinheiro da saúde, da educação. Pelo amor de Deus. Quem conhece o presidente Lula, a sua trajetória sabe que de 2023 até agora, nós já aumentamos quase R bilhões de reais no orçamento da saúde e da educação. O orçamento da saúde pro ano que vem prevê um incremento de quase 18 bilhões de reais. O orçamento da educação pro ano que vem prevê um incremento de R$ 11 bilhões de reais. Então, se tem alguém nesse país que tem compromisso com o SUS e que tem compromisso com a educação pública, esta pessoa se chama Luís Inácio Lula da Silva.",
+    "girar": "nao",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "Quem conhece o presidente",
+        "texto": "Paulo Pimenta, líder do governo na Câmara (16/11)"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      55,
+      112
+    ],
+    "foco_falante": true
+  },
+  "video_url": "https://www.youtube.com/watch?v=zqhigBjRAHY",
+  "trecho_txt": "Canal UOL (YouTube, 16/11/2026), vídeo de Paulo Pimenta (Instagram dele, 16/11/2026)",
+  "legenda": "Paulo Pimenta, líder do governo na Câmara: “nós não vamos aceitar coisas do tipo estelionato eleitoral”.\n\nEle responde a quem acusa Lula de enganar o eleitor com o ajuste fiscal anunciado depois da eleição. Pela conta dele, o orçamento da saúde sobe quase R$ 18 bilhões no ano que vem e o da educação, R$ 11 bilhões.\n\nDo outro lado, a oposição chama o pacote de tesouraço, e até parte do PT, como o Lindbergh, critica o corte. Hoje o Senado vota os destaques.\n\nO número que decide a discussão não é o da saúde: é quanto do ajuste cai em cima de estados e municípios.\n\nVídeo: Canal UOL (16/11/2026), com imagens do Instagram de Paulo Pimenta. Fontes: UOL (16/11/2026); Gazeta do Povo (17/11/2026); Diário de Curitiba (16/11/2026).\n\n#paulopimenta #lula #ajustefiscal #economia",
+  "fontes": [
+    {
+      "titulo": "UOL (YouTube, 16/11/2026): Líder do governo defende Lula: Não vamos aceitar acusação de estelionato eleitoral",
+      "url": "https://www.youtube.com/watch?v=zqhigBjRAHY"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "Diário de Curitiba: Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
+      "url": "https://news.google.com/search?q=L%C3%ADder%20do%20governo%20afirma%20que%20ajuste%20fiscal%20n%C3%A3o%20retira%20recursos%20da%20sa%C3%BAde%20e%20da%20educa%C3%A7%C3%A3o"
+    },
+    {
+      "titulo": "Gazeta do Povo: Governo mobiliza líderes para concluir votação do ajuste fiscal ainda nesta terça",
+      "url": "https://news.google.com/search?q=Governo%20mobiliza%20l%C3%ADderes%20para%20concluir%20vota%C3%A7%C3%A3o%20do%20ajuste%20fiscal"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "não vamos aceitar coisas do tipo estelionato eleitoral",
-  "inicio": "nós não vamos aceitar, né",
-  "fim": "Luís Inácio Lula da Silva",
-  "texto": "nós não vamos aceitar, né, coisas do tipo estelionato eleitoral. Lula quer tirar o dinheiro da saúde, da educação. Pelo amor de Deus. Quem conhece o presidente Lula, a sua trajetória sabe que de 2023 até agora, nós já aumentamos quase R bilhões de reais no orçamento da saúde e da educação. O orçamento da saúde pro ano que vem prevê um incremento de quase 18 bilhões de reais. O orçamento da educação pro ano que vem prevê um incremento de R$ 11 bilhões de reais. Então, se tem alguém nesse país que tem compromisso com o SUS e que tem compromisso com a educação pública, esta pessoa se chama Luís Inácio Lula da Silva.",
-  "girar": "nao",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "Quem conhece o presidente",
-    "texto": "Paulo Pimenta, líder do governo na Câmara (16/11)"
-   }
   ],
-  "cta": true,
-  "encher": false,
-  "janela": [
-   55,
-   112
-  ],
-  "foco_falante": true
- },
- "video_url": "https://www.youtube.com/watch?v=zqhigBjRAHY",
- "trecho_txt": "Canal UOL (YouTube, 16/11/2026), vídeo de Paulo Pimenta (Instagram dele, 16/11/2026)",
- "legenda": "Paulo Pimenta, líder do governo na Câmara: “nós não vamos aceitar coisas do tipo estelionato eleitoral”.\n\nEle responde a quem acusa Lula de enganar o eleitor com o ajuste fiscal anunciado depois da eleição. Pela conta dele, o orçamento da saúde sobe quase R$ 18 bilhões no ano que vem e o da educação, R$ 11 bilhões.\n\nDo outro lado, a oposição chama o pacote de tesouraço, e até parte do PT, como o Lindbergh, critica o corte. Hoje o Senado vota os destaques.\n\nO número que decide a discussão não é o da saúde: é quanto do ajuste cai em cima de estados e municípios.\n\nVídeo: Canal UOL (16/11/2026), com imagens do Instagram de Paulo Pimenta. Fontes: UOL (16/11/2026); Gazeta do Povo (17/11/2026); Diário de Curitiba (16/11/2026).\n\n#paulopimenta #lula #ajustefiscal #economia",
- "fontes": [
-  {
-   "titulo": "UOL (YouTube, 16/11/2026): Líder do governo defende Lula: Não vamos aceitar acusação de estelionato eleitoral",
-   "url": "https://www.youtube.com/watch?v=zqhigBjRAHY"
+  "carrossel_id": "sug-video-pimenta-estelionato-eleitoral",
+  "noticia_grande": true,
+  "arquivo": "sug-video-pimenta-estelionato-eleitoral-tela-cheia.mp4",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-pimenta-estelionato-eleitoral",
+  "publicado_em": "2026-11-17T12:45:00-03:00",
+  "agendado_metricool": {
+    "id": 431638176,
+    "uuid": "-6737579946022910173",
+    "para": "2026-11-17T14:40:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-17T12:45:00-03:00",
+    "isAiGenerated": false
   },
-  {
-   "titulo": "Diário de Curitiba: Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
-   "url": "https://news.google.com/search?q=L%C3%ADder%20do%20governo%20afirma%20que%20ajuste%20fiscal%20n%C3%A3o%20retira%20recursos%20da%20sa%C3%BAde%20e%20da%20educa%C3%A7%C3%A3o"
+  "agendado_tiktok": {
+    "id": 431638718,
+    "uuid": "-8249488808208085080",
+    "para": "2026-11-18T09:30:00",
+    "tipo": "tiktok",
+    "em": "2026-11-17T12:45:00-03:00"
   },
-  {
-   "titulo": "Gazeta do Povo: Governo mobiliza líderes para concluir votação do ajuste fiscal ainda nesta terça",
-   "url": "https://news.google.com/search?q=Governo%20mobiliza%20l%C3%ADderes%20para%20concluir%20vota%C3%A7%C3%A3o%20do%20ajuste%20fiscal"
-  }
- ],
- "carrossel_id": "sug-video-pimenta-estelionato-eleitoral",
- "noticia_grande": true,
- "arquivo": "sug-video-pimenta-estelionato-eleitoral-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-pimenta-estelionato-eleitoral",
- "publicado_em": "2026-11-17T12:45:00-03:00",
- "agendado_metricool": {
-  "id": 431638176,
-  "uuid": "-6737579946022910173",
-  "para": "2026-11-17T14:40:00",
-  "tipo": "TRIAL_REEL",
-  "em": "2026-11-17T12:45:00-03:00",
-  "isAiGenerated": false
- },
- "agendado_tiktok": {
-  "id": 431638718,
-  "uuid": "-8249488808208085080",
-  "para": "2026-11-18T09:30:00",
-  "tipo": "tiktok",
-  "em": "2026-11-17T12:45:00-03:00"
- },
- "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 14:40 (Reel de teste) e TT 18/11 09:30 (TikTok de hoje já fecha 10 em 24 h às 21:30). Corte puro 1,1x, 38,9 s, abre na aspa. auditar_cortes 0 pontos. conferir_video: REPETIÇÃO é a anáfora da fala dele (“o orçamento da saúde… o orçamento da educação”), não tomada; PELE rosada é a cor do vídeo original do UOL/Instagram dele (não é HDR nosso); 2 momentos de 72 com rosto na borda (câmera na mão); FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-11-17T12:47:00-03:00",
- "atualizado": "2026-11-17T12:47:00-03:00"
+  "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 14:40 (Reel de teste) e TT 18/11 09:30 (TikTok de hoje já fecha 10 em 24 h às 21:30). Corte puro 1,1x, 38,9 s, abre na aspa. auditar_cortes 0 pontos. conferir_video: REPETIÇÃO é a anáfora da fala dele (“o orçamento da saúde… o orçamento da educação”), não tomada; PELE rosada é a cor do vídeo original do UOL/Instagram dele (não é HDR nosso); 2 momentos de 72 com rosto na borda (câmera na mão); FAIXA no fim é o cartão. Mídia conferida no Metricool. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-17T12:47:00-03:00",
+  "atualizado": "2026-11-17T12:47:00-03:00",
+  "postado_em": "2026-11-17T14:41-03:00"
 }

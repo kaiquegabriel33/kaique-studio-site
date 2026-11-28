@@ -3,7 +3,13 @@
   "titulo": "Story: atrasou a parcela? A multa não passa de 2%",
   "formato": "story",
   "status": "pronto",
-  "agendado_metricool": {"id": 431557392, "uuid": "-5381283695481369281", "para": "2026-11-17T18:00:00-03:00", "tipo": "STORY", "em": "2026-11-17T11:50:00-03:00"},
+  "agendado_metricool": {
+    "id": 431557392,
+    "uuid": "-5381283695481369281",
+    "para": "2026-11-17T18:00:00-03:00",
+    "tipo": "STORY",
+    "em": "2026-11-17T11:50:00-03:00"
+  },
   "atualizado": "2026-11-11T18:25:00-03:00",
   "comentario": "Atrasou a parcela do carro ou do crediário? A multa por atraso não pode passar de 2% da parcela, tá no Código do Consumidor. Multa maior que isso no boleto é cobrança errada.",
   "legenda": "",
@@ -27,5 +33,6 @@
         }
       ]
     }
-  ]
+  ],
+  "postado_em": "2026-11-17T18:00:00-03:00"
 }

@@ -2,7 +2,13 @@
   "id": "sug-story-bc-corta-limite-rotativo",
   "carrossel_id": "sug-story-bc-corta-limite-rotativo",
   "status": "publicado",
-  "agendado_metricool": {"id": 443732534, "uuid": "-6965699954761839256", "para": "2026-11-26T21:00:00-03:00", "tipo": "STORY", "em": "2026-11-26T19:50:00-03:00"},
+  "agendado_metricool": {
+    "id": 443732534,
+    "uuid": "-6965699954761839256",
+    "para": "2026-11-26T21:00:00-03:00",
+    "tipo": "STORY",
+    "em": "2026-11-26T19:50:00-03:00"
+  },
   "nota_lote": "AGENDADO para 26/11 às 21:00 no Metricool (story sai sozinho): não poste à mão.",
   "formato": "story",
   "titulo": "Story: BC manda banco cortar o limite do cartão de quem vive no rotativo",
@@ -67,5 +73,6 @@
     "Os 20 milhões da manchete são do pacote inteiro (limite do cartão + trava de empréstimo novo para quem deve há 90 dias), por isso o número não está no comentário.",
     "Fundo é a foto da matéria: fachada com o nome Banco Central do Brasil."
   ],
-  "versao": 1
+  "versao": 1,
+  "postado_em": "2026-11-26T21:00:00-03:00"
 }

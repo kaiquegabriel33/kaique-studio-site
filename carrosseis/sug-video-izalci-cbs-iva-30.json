@@ -1,115 +1,116 @@
 {
- "status": "publicado",
- "formato": "video",
- "formato_corte": "tela_cheia_escura",
- "ab_formato": "puro-x-comentario",
- "teste_reel": true,
- "sempre_verde": false,
- "reserva": false,
- "criado": "2026-11-17T11:55:00-03:00",
- "versao": 1,
- "video_partes": [],
- "cta": true,
- "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
- "sugerido_por": "rotina Reels de teste 17/11 11h20",
- "id": "sug-video-izalci-cbs-iva-30",
- "titulo": "Izalci: com a CBS de 11,3%, o imposto sobre consumo chega a quase 30%",
- "motivo": "Fala de senador com número que mexe no bolso, hoje na CAE, antes da audiência com o ministro Durigan; TV Senado, 32 views (quente e pouco visto). Fato: TCU calculou a CBS em 11,3% e o Senado tem até 15/12 para fixar a alíquota (Agência Brasil, O Globo, UOL, 17/11).",
- "prioridade": 1,
- "forca": "alta",
- "fato_em": "2026-11-17T10:00:00-03:00",
- "vence_em": "2026-11-19T23:59:00-03:00",
- "politico": "Izalci Lucas",
- "para_quem": "quem compra qualquer coisa no Brasil e vai pagar o novo imposto sobre consumo a partir de 2027",
- "promessa": "vai chegar a quase 30%",
- "paga_em": "o Brasil tá correndo risco de chegar a 30",
- "diferenciacao": "a legenda traduz o 11,3% em preço: de cada R$ 100 de compra, quase R$ 30 de imposto se a soma CBS + IBS fechar perto de 30%, contra os 26,5% que a lei previa",
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "escuro",
-   "elementos": [
+  "status": "publicado",
+  "formato": "video",
+  "formato_corte": "tela_cheia_escura",
+  "ab_formato": "puro-x-comentario",
+  "teste_reel": true,
+  "sempre_verde": false,
+  "reserva": false,
+  "criado": "2026-11-17T11:55:00-03:00",
+  "versao": 1,
+  "video_partes": [],
+  "cta": true,
+  "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
+  "sugerido_por": "rotina Reels de teste 17/11 11h20",
+  "id": "sug-video-izalci-cbs-iva-30",
+  "titulo": "Izalci: com a CBS de 11,3%, o imposto sobre consumo chega a quase 30%",
+  "motivo": "Fala de senador com número que mexe no bolso, hoje na CAE, antes da audiência com o ministro Durigan; TV Senado, 32 views (quente e pouco visto). Fato: TCU calculou a CBS em 11,3% e o Senado tem até 15/12 para fixar a alíquota (Agência Brasil, O Globo, UOL, 17/11).",
+  "prioridade": 1,
+  "forca": "alta",
+  "fato_em": "2026-11-17T10:00:00-03:00",
+  "vence_em": "2026-11-19T23:59:00-03:00",
+  "politico": "Izalci Lucas",
+  "para_quem": "quem compra qualquer coisa no Brasil e vai pagar o novo imposto sobre consumo a partir de 2027",
+  "promessa": "vai chegar a quase 30%",
+  "paga_em": "o Brasil tá correndo risco de chegar a 30",
+  "diferenciacao": "a legenda traduz o 11,3% em preço: de cada R$ 100 de compra, quase R$ 30 de imposto se a soma CBS + IBS fechar perto de 30%, contra os 26,5% que a lei previa",
+  "slides": [
     {
-     "tipo": "texto",
-     "tam": 52,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111",
-     "texto": "Izalci: com a CBS de 11,3%, o imposto no consumo ==chega a quase 30%=="
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "escuro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "tam": 52,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111",
+          "texto": "Izalci: com a CBS de 11,3%, o imposto no consumo ==chega a quase 30%=="
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "trecho": {
+    "aspa_manchete": "vai chegar a quase 30%",
+    "inicio": "Se for mantido",
+    "fim": "reavaliar isso",
+    "texto": "Se for mantido esse 11,3 da CBS, quando entrar o IBS, vai chegar a quase 30%. O maior IVA do mundo é da Hungria, 27%, a média da OCDE 19 e o Brasil tá correndo risco de chegar a 30. Então, é uma coisa absurda. Que nós agora que nós temos que definir. O Senado tem que fazer um projeto de resolução definir a alíquota. A sugestão do Tribunal de Contas, como determina a Constituição, é 11,3, mas cabe ao Senado reavaliar isso.",
+    "contexto": [
+      {
+        "cor": "amarelo",
+        "desde": "O maior IVA",
+        "texto": "Senador Izalci Lucas (PL-DF), hoje (17/11), na CAE do Senado"
+      }
+    ],
+    "cta": true,
+    "encher": false,
+    "janela": [
+      0,
+      50
+    ]
+  },
+  "video_url": "https://www.youtube.com/watch?v=R1phiD6a_74",
+  "trecho_txt": "TV Senado (YouTube, 17/11/2026), entrevista coletiva do senador Izalci Lucas",
+  "legenda": "Izalci Lucas: com a CBS de 11,3%, o imposto sobre o consumo chega a quase 30%.\n\nA CBS é o imposto federal novo que entra no lugar de PIS e Cofins em 2027. A reforma foi feita com a conta de 9,21%; o TCU calculou 11,3%. Somado ao IBS, dos estados e municípios, o total passa dos 26,5% que a lei previa e fica perto de 30%. O Senado tem até 15 de dezembro para fixar a alíquota, e hoje ouve o ministro Dario Durigan na CAE.\n\nNa conta de padaria: de cada R$ 100 que você gasta, quase R$ 30 seriam imposto. A Hungria, recordista mundial, cobra 27%.\n\nVídeo: TV Senado (17/11/2026). Fontes: Agência Brasil (17/11/2026); O Globo (17/11/2026); UOL (17/11/2026); TV Senado (17/11/2026).\n\n#reformatributaria #cbs #imposto #economia",
+  "fontes": [
+    {
+      "titulo": "Agência Brasil: Durigan explica no Senado alíquota de 11,3% da CBS",
+      "url": "https://news.google.com/search?q=Durigan%20explica%20no%20Senado%20al%C3%ADquota%20de%2011%2C3%25%20da%20CBS"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "titulo": "O Globo: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
+      "url": "https://news.google.com/search?q=ministro%20da%20Fazenda%20vai%20ao%20Senado%20explicar%20al%C3%ADquota%20de%2011%2C3%25%20O%20Globo"
+    },
+    {
+      "titulo": "TV Senado: CAE realiza audiência pública para debater alíquota da CBS (carga conjunta próxima de 30%, acima dos 26,5% da lei; prazo 15/12)",
+      "url": "https://www.youtube.com/watch?v=4KiW64Jn3DE"
+    },
+    {
+      "titulo": "TV Senado (YouTube, 17/11/2026): Izalci Lucas",
+      "url": "https://www.youtube.com/watch?v=R1phiD6a_74"
     }
-   ]
-  }
- ],
- "trecho": {
-  "aspa_manchete": "vai chegar a quase 30%",
-  "inicio": "Se for mantido",
-  "fim": "reavaliar isso",
-  "texto": "Se for mantido esse 11,3 da CBS, quando entrar o IBS, vai chegar a quase 30%. O maior IVA do mundo é da Hungria, 27%, a média da OCDE 19 e o Brasil tá correndo risco de chegar a 30. Então, é uma coisa absurda. Que nós agora que nós temos que definir. O Senado tem que fazer um projeto de resolução definir a alíquota. A sugestão do Tribunal de Contas, como determina a Constituição, é 11,3, mas cabe ao Senado reavaliar isso.",
-  "contexto": [
-   {
-    "cor": "amarelo",
-    "desde": "O maior IVA",
-    "texto": "Senador Izalci Lucas (PL-DF), hoje (17/11), na CAE do Senado"
-   }
   ],
-  "cta": true,
-  "encher": false,
-  "janela": [
-   0,
-   50
-  ]
- },
- "video_url": "https://www.youtube.com/watch?v=R1phiD6a_74",
- "trecho_txt": "TV Senado (YouTube, 17/11/2026), entrevista coletiva do senador Izalci Lucas",
- "legenda": "Izalci Lucas: com a CBS de 11,3%, o imposto sobre o consumo chega a quase 30%.\n\nA CBS é o imposto federal novo que entra no lugar de PIS e Cofins em 2027. A reforma foi feita com a conta de 9,21%; o TCU calculou 11,3%. Somado ao IBS, dos estados e municípios, o total passa dos 26,5% que a lei previa e fica perto de 30%. O Senado tem até 15 de dezembro para fixar a alíquota, e hoje ouve o ministro Dario Durigan na CAE.\n\nNa conta de padaria: de cada R$ 100 que você gasta, quase R$ 30 seriam imposto. A Hungria, recordista mundial, cobra 27%.\n\nVídeo: TV Senado (17/11/2026). Fontes: Agência Brasil (17/11/2026); O Globo (17/11/2026); UOL (17/11/2026); TV Senado (17/11/2026).\n\n#reformatributaria #cbs #imposto #economia",
- "fontes": [
-  {
-   "titulo": "Agência Brasil: Durigan explica no Senado alíquota de 11,3% da CBS",
-   "url": "https://news.google.com/search?q=Durigan%20explica%20no%20Senado%20al%C3%ADquota%20de%2011%2C3%25%20da%20CBS"
+  "carrossel_id": "sug-video-izalci-cbs-iva-30",
+  "noticia_grande": true,
+  "arquivo": "sug-video-izalci-cbs-iva-30-tela-cheia.mp4",
+  "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-izalci-cbs-iva-30",
+  "publicado_em": "2026-11-17T12:20:00-03:00",
+  "agendado_metricool": {
+    "id": 431585024,
+    "uuid": "8350708384120194681",
+    "para": "2026-11-17T13:20:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-17T12:08:00-03:00",
+    "isAiGenerated": false
   },
-  {
-   "titulo": "O Globo: ministro da Fazenda vai ao Senado explicar alíquota de 11,3% para a CBS",
-   "url": "https://news.google.com/search?q=ministro%20da%20Fazenda%20vai%20ao%20Senado%20explicar%20al%C3%ADquota%20de%2011%2C3%25%20O%20Globo"
+  "agendado_tiktok": {
+    "id": 431585196,
+    "uuid": "1121584392931003814",
+    "para": "2026-11-17T18:50:00",
+    "tipo": "tiktok",
+    "em": "2026-11-17T12:08:00-03:00"
   },
-  {
-   "titulo": "TV Senado: CAE realiza audiência pública para debater alíquota da CBS (carga conjunta próxima de 30%, acima dos 26,5% da lei; prazo 15/12)",
-   "url": "https://www.youtube.com/watch?v=4KiW64Jn3DE"
-  },
-  {
-   "titulo": "TV Senado (YouTube, 17/11/2026): Izalci Lucas",
-   "url": "https://www.youtube.com/watch?v=R1phiD6a_74"
-  }
- ],
- "carrossel_id": "sug-video-izalci-cbs-iva-30",
- "noticia_grande": true,
- "arquivo": "sug-video-izalci-cbs-iva-30-tela-cheia.mp4",
- "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-izalci-cbs-iva-30",
- "publicado_em": "2026-11-17T12:20:00-03:00",
- "agendado_metricool": {
-  "id": 431585024,
-  "uuid": "8350708384120194681",
-  "para": "2026-11-17T13:20:00",
-  "tipo": "TRIAL_REEL",
-  "em": "2026-11-17T12:08:00-03:00",
-  "isAiGenerated": false
- },
- "agendado_tiktok": {
-  "id": 431585196,
-  "uuid": "1121584392931003814",
-  "para": "2026-11-17T18:50:00",
-  "tipo": "tiktok",
-  "em": "2026-11-17T12:08:00-03:00"
- },
- "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 13:20 (Reel de teste) e TT 18:50. Corte puro 1,1x, 29,2 s. auditar_cortes 0 pontos; aviso GANCHO aceito: o vídeo já abre na frase dos 30% (aspa nos primeiros 4 s). conferir_video: 1 estalo suavizado (suavizar_estalos.py), FAIXA no fim é o cartão. 2ª versão da notícia da CBS (o Izalci de 16/11 era outra fala, em outra sessão); hoje com a audiência da CAE. Mídia conferida no Metricool. Não poste à mão.",
- "midia_no_metricool": true,
- "midia_no_metricool_em": "2026-11-17T12:10:00-03:00",
- "atualizado": "2026-11-17T12:10:00-03:00"
+  "nota_lote": "AGENDADO 17/11 (rotina Reels de teste 11h20): IG 13:20 (Reel de teste) e TT 18:50. Corte puro 1,1x, 29,2 s. auditar_cortes 0 pontos; aviso GANCHO aceito: o vídeo já abre na frase dos 30% (aspa nos primeiros 4 s). conferir_video: 1 estalo suavizado (suavizar_estalos.py), FAIXA no fim é o cartão. 2ª versão da notícia da CBS (o Izalci de 16/11 era outra fala, em outra sessão); hoje com a audiência da CAE. Mídia conferida no Metricool. Não poste à mão.",
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-17T12:10:00-03:00",
+  "atualizado": "2026-11-17T12:10:00-03:00",
+  "postado_em": "2026-11-17T13:21-03:00"
 }

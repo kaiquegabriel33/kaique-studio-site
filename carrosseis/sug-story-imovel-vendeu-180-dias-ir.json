@@ -2,7 +2,13 @@
   "id": "sug-story-imovel-vendeu-180-dias-ir",
   "carrossel_id": "sug-story-imovel-vendeu-180-dias-ir",
   "status": "pronto",
-  "agendado_metricool": {"id": 431557342, "uuid": "9036331588900767579", "para": "2026-11-17T15:00:00-03:00", "tipo": "STORY", "em": "2026-11-17T11:50:00-03:00"},
+  "agendado_metricool": {
+    "id": 431557342,
+    "uuid": "9036331588900767579",
+    "para": "2026-11-17T15:00:00-03:00",
+    "tipo": "STORY",
+    "em": "2026-11-17T11:50:00-03:00"
+  },
   "formato": "story",
   "titulo": "Story: vendeu a casa com lucro? Comprando outra em 180 dias, o ganho fica isento de IR",
   "criado": "2026-11-11T14:55:00-03:00",
@@ -44,5 +50,6 @@
     "Fundo liso: se você tiver uma foto sua de casa, prédio ou chave, mando com ela."
   ],
   "revisar_antes_da_voz": [],
-  "versao": 1
+  "versao": 1,
+  "postado_em": "2026-11-17T15:00:00-03:00"
 }
