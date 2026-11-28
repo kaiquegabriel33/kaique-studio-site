@@ -139,16 +139,51 @@ def ler_trends(url: str) -> list[dict]:
     return saida
 
 
+# 27/11: a palavra inteira vem ANTES de "mil" e de "mi". Até 27/11 o padrão era (mil|mi|bi) e "milhão" casava como "mil":
+# no @primorico "1,6 milhão de visualizações" saía 1.600 (real 1.631.575) e "3,3 milhões" saía 3.300 (real 3.315.969);
+# eram 6 de 30 vídeos, justamente os 6 maiores. A unidade só vale se não continuar em letra ("3 minutos" não é "3 mi").
+UNIDADE_YT = r"(?:milh[õo]es|milh[ãa]o|bilh[õo]es|bilh[ãa]o|mil|mi|bi|k|m|b)(?![a-zà-ÿ])"
+_NUMERO_YT = re.compile(rf"(\d[\d.,]*)\s*({UNIDADE_YT})?", re.I)
+_SO_PALAVRA_YT = re.compile(rf"(?:uma?\s+)?({UNIDADE_YT})", re.I)
+
+
+def _peso_yt(unidade: str) -> int:
+    u = (unidade or "").lower()
+    if u.startswith("bi") or u == "b":
+        return 10 ** 9
+    if u in ("mil", "k"):
+        return 10 ** 3
+    return 10 ** 6 if u else 1           # milhão, milhões, mi, m
+
+
 def numero_yt(texto: str) -> int:
-    """'20 mil visualizações' → 20000; '9,4 mil' → 9400; '1,2 mi' → 1200000; '812' → 812."""
-    m = re.search(r"([\d.,]+)\s*(mil|mi|bi)?", texto or "")
+    """'20 mil visualizações' → 20000; '9,4 mil' → 9400; '1,2 mi' → 1200000; '1,6 milhão' → 1600000; '2 milhões' →
+    2000000; '812' → 812; 'mil visualizações' → 1000 e 'milhão de visualizações' → 1000000 (o YouTube escreve o número
+    redondo sem algarismo); inglês '1.2M views' → 1200000 e '15K' → 15000."""
+    t = (texto or "").strip()
+    so = _SO_PALAVRA_YT.match(t)
+    if so and len(so.group(1)) > 1:              # "mil", "um milhão": letra solta (k, m, b) sem número não é views
+        return _peso_yt(so.group(1))
+    m = _NUMERO_YT.search(t)
     if not m:
         return 0
-    n = m.group(1).replace(".", "").replace(",", ".")
+    n, u = m.group(1).rstrip(".,"), (m.group(2) or "").lower()
+    if not u:                                    # número inteiro: ponto e vírgula são só separador de milhar
+        n = n.replace(".", "").replace(",", "")
+    elif u in ("k", "m", "b") and "." in n:      # inglês: "1.2M", "1,234.5K"
+        n = n.replace(",", "")
+    else:                                        # português: "1,2 mi", "1.234,5 mil"
+        n = n.replace(".", "").replace(",", ".")
     try:
-        return int(float(n) * {"mil": 1e3, "mi": 1e6, "bi": 1e9}.get(m.group(2), 1))
+        return round(float(n) * _peso_yt(u))
     except ValueError:
         return 0
+
+
+def tem_views_yt(parte: str) -> bool:
+    """A parte do rótulo que fala de views, em português ("visualizações") ou inglês ("views")."""
+    p = (parte or "").lower()
+    return "visualiza" in p or "view" in p
 
 
 def ler_pagina_videos(canal: str, channel_id: str, agora: datetime) -> list[dict]:
@@ -180,7 +215,7 @@ def ler_pagina_videos(canal: str, channel_id: str, agora: datetime) -> list[dict
                       for p in md["metadata"]["contentMetadataViewModel"]["metadataRows"][0]["metadataParts"]]
         except (KeyError, IndexError, TypeError):
             continue
-        vistas = next((p for p in partes if "visualiza" in p), None)
+        vistas = next((p for p in partes if tem_views_yt(p)), None)
         quando = next((p for p in partes if p.startswith("há ")), None)
         if not vistas or not quando:            # estreia, ao vivo agora
             continue

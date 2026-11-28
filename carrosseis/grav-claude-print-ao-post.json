@@ -1,152 +1,153 @@
 {
- "ajustes_anteriores": [
-  "no começo do video \" nao vai ser pra...\" corta o vc, sempre da esses cortes, veja o que esta acontecendo pra nao repetir isso, 24 segundos eu engasgo e nao sai na edição, va direto pro \"o trabuco\" do segundo 25 segunddo 32 tbm ja tava no meu feed da um bug",
-  "segundo 24 eu vou falar o tra... engasgo e começo de novo o trabuco, aprenda isso pra nao ter que te corrigir mais",
-  "\"esse video nao vai ser pra....\" de novo cortou o voce"
- ],
- "ajustes_pedidos": [
-  {
-   "em": "2026-11-27T20:11:57.267Z",
-   "print_ids": [],
-   "texto": "no começo do video \" nao vai ser pra...\" corta o vc, sempre da esses cortes, veja o que esta acontecendo pra nao repetir isso, 24 segundos eu engasgo e nao sai na edição, va direto pro \"o trabuco\" do segundo 25 segunddo 32 tbm ja tava no meu feed da um bug"
-  },
-  {
-   "em": "2026-11-27T20:27:32.344Z",
-   "print_ids": [],
-   "texto": "segundo 24 eu vou falar o tra... engasgo e começo de novo o trabuco, aprenda isso pra nao ter que te corrigir mais"
-  },
-  {
-   "em": "2026-11-27T20:32:06.555Z",
-   "print_ids": [],
-   "texto": "\"esse video nao vai ser pra....\" de novo cortou o voce"
-  }
- ],
- "alertas_fala": [
-  "Você falou \"30 minutinhos do print até o post\": pela Central foram 48 (pedido 19h29, feed 20h17). A fala ficou como você gravou e a legenda corrige.",
-  "Você falou \"aprovei às 8h17 e já tava no meu feed\": a aprovação foi 19h43 e o post entrou 20h17.",
-  "Você falou \"faz uns 3 meses que eu tô ensinando a máquina\": o Studio começou em outubro, uns 2 meses. Não mexi."
- ],
- "arquivo": "2026-11-27-grav-claude-print-ao-post.mp4",
- "capa_id": "65714839c935a454e2e49871ea754269",
- "cartao_gancho": "DO PRINT AO POST EM MENOS DE 1 HORA",
- "contas_nossas": "\"8 e 17\" na fala = 20h17 (8 horas e 17 minutos da noite). 48 minutos =do pedido na Central (19h29) ao horário do post no feed (20h17), em 26/11. Menos de 15 minutos = do pedido (19h29) à sua aprovação (19h43).",
- "criado": "2026-11-27T15:50:00-03:00",
- "decidido_em": "2026-11-27T20:32:06.555Z",
- "dicas": [
-  "Grave na mesa, do jeito que você trabalha, com o celular na mão.",
-  "Mostre na tela o seu print do dólar (19h28) e o pedido que você mandou na Central às 19h29. Sem chave e sem nome de cliente.",
-  "Os passos 1, 2 e 3 entram na lateral enquanto você fala, como no Reel de 83 mil da referência que você mandou.",
-  "Se gravar depois de sexta, a fala continua certa (\"quinta-feira\")."
- ],
- "duracao": "45 a 55 s",
- "edicao": [
-  "0:00 faixa no alto por 4,5 s: DO PRINT AO POST EM MENOS DE 1 HORA",
-  "0:06 \"pra você\" agora sai inteiro (o trecho acabava no meio da palavra)",
-  "0:07 corte: tirei 4 s (recomeço \"Olha que curioso, ontem...\")",
-  "0:18 corte: tirei 6 s (\"mas olha que legal, ele corrigiu\" repetido)",
-  "0:23 corte novo: tirei 2 s (o engasgo \"o tra...\"); vai direto para \"O Trabuco tinha aceitado\"",
-  "0:28 corte: tirei 6 s (\"e eu aprovei ali às 8h...\" recomeçado)",
-  "0:31 \"no meu feed\" inteiro, com folga antes da passagem; depois corte de 7 s (\"30 minutos pra tudo sair\" repetido)",
-  "velocidade 1,2x, legenda branca, zoom de 4% em cortes alternados"
- ],
- "editado": {
-  "em": "2026-11-27T17:46:00-03:00",
-  "o_que": "3 correções suas: o \"você\" inteiro no começo, o engasgo do Trabuco fora e o fim do \"feed\" sem sujeira"
- },
- "fala": "Quinta à noite, eu vi o dólar caindo forte no meu celular.\nMandei o print pro Claude com uma frase: dólar caindo com o Trabuco oficializado ministro.\nEm menos de 15 minutos o post tava pronto. Mas olha que curioso, ele me corrigiu.\nFoi atrás de duas matérias e viu que não tinha anúncio oficial nenhum. O Trabuco tinha aceitado o convite. O texto saiu com aceitou no lugar de oficializado.\nAprovei e às 8 e 17 tava no feed. 48 minutos do print ao post.\nA pauta fui eu que trouxe. A checagem ficou com a máquina. E quem aprova e aperta o botão sou eu.\nQuer ver essa tela por dentro? Segue o perfil.",
- "fecho": "Quer ver essa tela por dentro? Segue o perfil.",
- "fontes": [
-  {
-   "titulo": "Central: seu pedido de 26/11 às 19h29 e o post sug-post-dolar-trabuco-aceita (aprovado 19h43, no feed 20h17 pelo Metricool)",
-   "url": "https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys"
-  },
-  {
-   "titulo": "CartaCapital (26/11/2026, 18h57): Trabuco aceita convite de Lula e será ministro da Fazenda no quarto mandato",
-   "url": "https://www.cartacapital.com.br/politica/trabuco-aceita-convite-de-lula-e-sera-ministro-da-fazenda-no-quarto-mandato/"
-  },
-  {
-   "titulo": "JOTA (26/11/2026, 19h07): Trabuco aceita convite e será o ministro da Fazenda do novo mandato de Lula",
-   "url": "https://www.jota.info/executivo/lula-e-trabuco-definem-acordo-para-o-comando-da-fazenda"
-  }
- ],
- "forca": "media",
- "formato": "video",
- "gancho": "Quinta à noite, o dólar caindo forte.",
- "hashtags": [
-  "#inteligenciaartificial",
-  "#claude",
-  "#bastidores",
-  "#criadordeconteudo",
-  "#financas"
- ],
- "id": "grav-claude-print-ao-post",
- "legenda": "Do print ao post em menos de 1 hora. E no meio do caminho a IA me corrigiu.\n\nQuinta (26/11), 19h29: mandei pro Claude o print do dólar caindo e escrevi que o Trabuco tinha sido oficializado ministro. Ele abriu a CartaCapital e o JOTA, viu que as duas falavam em convite aceito, por fontes, sem anúncio oficial naquela hora, e trocou a palavra.\n\nAprovei pelo celular e o post entrou no feed às 20h17. No vídeo eu falei 30 minutinhos, mas do pedido até o feed foram 48.\n\nÉ assim que eu uso: eu trago a pauta, leio tudo e decido o que vai ao ar. A parte de conferir fonte e montar fica com ele.\n\nQuer o comando? Segue o perfil e me chama no direct.\n\n#inteligenciaartificial #claude #bastidores #criadordeconteudo #financas",
- "modo_edicao": "dinamico",
- "motivo": "Seu recado de 27/11 (perfil @natmoraesd: finanças + Claude, Reels de 9 a 83 mil): você pediu roteiros para gravar mostrando seus testes com o Claude. Este é o primeiro, com um caso de ontem: horários, print e correção estão na Central (pedido 19h29, aprovado 19h43, feed 20h17; CartaCapital 18h57 e JOTA 19h07). Quem manda para outro: quem acha que IA só inventa, ou quem quer usar no trabalho e não sabe por onde. Diferenciação: o caso é seu, com o print do seu celular e a tela da sua Central. A frase 'a pauta fui eu que trouxe... o botão sou eu' é sugestão nossa; mude se não for o que você pensa. Lição usada: bastidor pessoal com IA (Perini e Oney) e, da referência, título em cima + passos numerados na lateral.",
- "nota_corte": "Versão 2, 52 s em 1,2x. O que mudou: (0:06) o \"pra você\" cortava porque o trecho acabava em 9,12 s da gravação e a sua voz vai até 9,36 s; agora vai até 9,45 s. (0:23) saiu o \"o tra...\" engasgado e entra direto \"O Trabuco tinha aceitado o convite\". (0:31) o \"feed\" você fala baixinho depois de uma pausa e a passagem para \"30 minutinhos\" comia o fim; dei folga. Conferi ouvindo o pronto de novo: \"pra você.\", \"ali. O Trabuco tinha\" e \"no meu feed. 30 minutinhos\" saem inteiros. Na troca para \"30 minutinhos\" ainda há a passagem suave de 0,1 s entre dois enquadramentos (você mudou de lugar); se for isso o \"bug\", me diga que eu troco por corte seco. Sem imagens por cima ainda.",
- "nota_lote": "Esperando a sua revisão",
- "paga_em": "O texto saiu com aceitou no lugar de oficializado.",
- "para_quem": "quem tem curiosidade de ver IA sendo usada de verdade no trabalho, não em tutorial",
- "previa_nota": "Versão 2: o \"pra você\" sai inteiro, tirei o \"o tra...\" engasgado e o \"feed\" não é mais comido na passagem.",
- "previas": [
-  {
-   "asset_id": "b9c421b99f82f37623638fbe1dab47f7",
-   "em": "2026-11-27T17:46:00-03:00",
-   "tipo": "video",
-   "titulo": "Do print ao post, versão 2 (52 s)"
-  }
- ],
- "promessa": "Mas olha que curioso, ele me corrigiu.",
- "publicado_em": "2026-11-27T17:50:00-03:00",
- "roteiro": [
-  "Cena: quinta 19h30, o dólar caindo na tela",
-  "1 - Mandei o print com uma frase",
-  "2 - Ele conferiu em duas matérias e me corrigiu (aceitou, não oficializado)",
-  "3 - Li, aprovei e saiu às 20h17: 48 minutos",
-  "Quem faz o quê: a pauta e o botão são meus; a checagem é da máquina",
-  "Chamada para seguir"
- ],
- "status": "pronto",
- "titulo": "Você grava: do print ao post em 48 minutos (e o Claude me corrigiu)",
- "vence_em": "2026-12-04T23:59:00-03:00",
- "versao": 2,
- "video_enviado_em": "2026-11-27T19:08:43.029Z",
- "video_final_id": "b9c421b99f82f37623638fbe1dab47f7",
- "video_nome": "982528AC-D153-46CD-9E99-81686300B443.mp4",
- "video_partes": [
-  "bbbd54065d70146e4c775e78c764af9b",
-  "3f4469c694a11be9799985946dd1c747",
-  "2cb09074d47cc8395df4de1bfd41101a",
-  "31ebf62b225fdfa2da4307505775a287",
-  "e443229c3fcc34992e523ed6b8b97889",
-  "626e578660242c86883276024c560cd9",
-  "1d4596a6eca6b5475a96c97ba79359c9",
-  "111e6f50ac6a9328372a700257ce61e8",
-  "7b70319b700ac0785c17d04f1d3539e5"
- ],
- "video_tamanho": 163070768,
- "slides": [
-  {
-   "altura": 1920,
-   "papel": "vídeo",
-   "tema": "claro",
-   "elementos": [
+  "ajustes_anteriores": [
+    "no começo do video \" nao vai ser pra...\" corta o vc, sempre da esses cortes, veja o que esta acontecendo pra nao repetir isso, 24 segundos eu engasgo e nao sai na edição, va direto pro \"o trabuco\" do segundo 25 segunddo 32 tbm ja tava no meu feed da um bug",
+    "segundo 24 eu vou falar o tra... engasgo e começo de novo o trabuco, aprenda isso pra nao ter que te corrigir mais",
+    "\"esse video nao vai ser pra....\" de novo cortou o voce"
+  ],
+  "ajustes_pedidos": [
     {
-     "tipo": "texto",
-     "texto": "Do print ao post em menos de 1 hora",
-     "tam": 50,
-     "corMarca": "#FFD700",
-     "corTextoMarca": "#111111"
+      "em": "2026-11-27T20:11:57.267Z",
+      "print_ids": [],
+      "texto": "no começo do video \" nao vai ser pra...\" corta o vc, sempre da esses cortes, veja o que esta acontecendo pra nao repetir isso, 24 segundos eu engasgo e nao sai na edição, va direto pro \"o trabuco\" do segundo 25 segunddo 32 tbm ja tava no meu feed da um bug"
     },
     {
-     "tipo": "video",
-     "x": 0,
-     "w": 1080,
-     "h": "resto",
-     "ajuste": "conter",
-     "raio": 0
+      "em": "2026-11-27T20:27:32.344Z",
+      "print_ids": [],
+      "texto": "segundo 24 eu vou falar o tra... engasgo e começo de novo o trabuco, aprenda isso pra nao ter que te corrigir mais"
+    },
+    {
+      "em": "2026-11-27T20:32:06.555Z",
+      "print_ids": [],
+      "texto": "\"esse video nao vai ser pra....\" de novo cortou o voce"
     }
-   ]
-  }
- ]
+  ],
+  "alertas_fala": [
+    "Você falou \"30 minutinhos do print até o post\": pela Central foram 48 (pedido 19h29, feed 20h17). A fala ficou como você gravou e a legenda corrige.",
+    "Você falou \"aprovei às 8h17 e já tava no meu feed\": a aprovação foi 19h43 e o post entrou 20h17.",
+    "Você falou \"faz uns 3 meses que eu tô ensinando a máquina\": o Studio começou em outubro, uns 2 meses. Não mexi."
+  ],
+  "arquivo": "2026-11-27-grav-claude-print-ao-post.mp4",
+  "capa_id": "65714839c935a454e2e49871ea754269",
+  "cartao_gancho": "DO PRINT AO POST EM MENOS DE 1 HORA",
+  "contas_nossas": "\"8 e 17\" na fala = 20h17 (8 horas e 17 minutos da noite). 48 minutos =do pedido na Central (19h29) ao horário do post no feed (20h17), em 26/11. Menos de 15 minutos = do pedido (19h29) à sua aprovação (19h43).",
+  "criado": "2026-11-27T15:50:00-03:00",
+  "decidido_em": "2026-11-27T20:32:06.555Z",
+  "dicas": [
+    "Grave na mesa, do jeito que você trabalha, com o celular na mão.",
+    "Mostre na tela o seu print do dólar (19h28) e o pedido que você mandou na Central às 19h29. Sem chave e sem nome de cliente.",
+    "Os passos 1, 2 e 3 entram na lateral enquanto você fala, como no Reel de 83 mil da referência que você mandou.",
+    "Se gravar depois de sexta, a fala continua certa (\"quinta-feira\")."
+  ],
+  "duracao": "45 a 55 s",
+  "edicao": [
+    "0:00 faixa no alto por 4,5 s: DO PRINT AO POST EM MENOS DE 1 HORA",
+    "0:06 \"pra você\" agora sai inteiro (o trecho acabava no meio da palavra)",
+    "0:07 corte: tirei 4 s (recomeço \"Olha que curioso, ontem...\")",
+    "0:18 corte: tirei 6 s (\"mas olha que legal, ele corrigiu\" repetido)",
+    "0:23 corte novo: tirei 2 s (o engasgo \"o tra...\"); vai direto para \"O Trabuco tinha aceitado\"",
+    "0:28 corte: tirei 6 s (\"e eu aprovei ali às 8h...\" recomeçado)",
+    "0:31 \"no meu feed\" inteiro, com folga antes da passagem; depois corte de 7 s (\"30 minutos pra tudo sair\" repetido)",
+    "velocidade 1,2x, legenda branca, zoom de 4% em cortes alternados"
+  ],
+  "editado": {
+    "em": "2026-11-27T17:46:00-03:00",
+    "o_que": "3 correções suas: o \"você\" inteiro no começo, o engasgo do Trabuco fora e o fim do \"feed\" sem sujeira"
+  },
+  "fala": "Quinta à noite, eu vi o dólar caindo forte no meu celular.\nMandei o print pro Claude com uma frase: dólar caindo com o Trabuco oficializado ministro.\nEm menos de 15 minutos o post tava pronto. Mas olha que curioso, ele me corrigiu.\nFoi atrás de duas matérias e viu que não tinha anúncio oficial nenhum. O Trabuco tinha aceitado o convite. O texto saiu com aceitou no lugar de oficializado.\nAprovei e às 8 e 17 tava no feed. 48 minutos do print ao post.\nA pauta fui eu que trouxe. A checagem ficou com a máquina. E quem aprova e aperta o botão sou eu.\nQuer ver essa tela por dentro? Segue o perfil.",
+  "fecho": "Quer ver essa tela por dentro? Segue o perfil.",
+  "fontes": [
+    {
+      "titulo": "Central: seu pedido de 26/11 às 19h29 e o post sug-post-dolar-trabuco-aceita (aprovado 19h43, no feed 20h17 pelo Metricool)",
+      "url": "https://claude.ai/artifact/RwwZTd1rE13GAMDnbDqRys"
+    },
+    {
+      "titulo": "CartaCapital (26/11/2026, 18h57): Trabuco aceita convite de Lula e será ministro da Fazenda no quarto mandato",
+      "url": "https://www.cartacapital.com.br/politica/trabuco-aceita-convite-de-lula-e-sera-ministro-da-fazenda-no-quarto-mandato/"
+    },
+    {
+      "titulo": "JOTA (26/11/2026, 19h07): Trabuco aceita convite e será o ministro da Fazenda do novo mandato de Lula",
+      "url": "https://www.jota.info/executivo/lula-e-trabuco-definem-acordo-para-o-comando-da-fazenda"
+    }
+  ],
+  "forca": "media",
+  "formato": "video",
+  "gancho": "Quinta à noite, o dólar caindo forte.",
+  "hashtags": [
+    "#inteligenciaartificial",
+    "#claude",
+    "#bastidores",
+    "#criadordeconteudo",
+    "#financas"
+  ],
+  "id": "grav-claude-print-ao-post",
+  "legenda": "Do print ao post em menos de 1 hora. E no meio do caminho a IA me corrigiu.\n\nQuinta (26/11), 19h29: mandei pro Claude o print do dólar caindo e escrevi que o Trabuco tinha sido oficializado ministro. Ele abriu a CartaCapital e o JOTA, viu que as duas falavam em convite aceito, por fontes, sem anúncio oficial naquela hora, e trocou a palavra.\n\nAprovei pelo celular e o post entrou no feed às 20h17. No vídeo eu falei 30 minutinhos, mas do pedido até o feed foram 48.\n\nÉ assim que eu uso: eu trago a pauta, leio tudo e decido o que vai ao ar. A parte de conferir fonte e montar fica com ele.\n\nQuer o comando? Segue o perfil e me chama no direct.\n\n#inteligenciaartificial #claude #bastidores #criadordeconteudo #financas",
+  "modo_edicao": "dinamico",
+  "motivo": "Seu recado de 27/11 (perfil @natmoraesd: finanças + Claude, Reels de 9 a 83 mil): você pediu roteiros para gravar mostrando seus testes com o Claude. Este é o primeiro, com um caso de ontem: horários, print e correção estão na Central (pedido 19h29, aprovado 19h43, feed 20h17; CartaCapital 18h57 e JOTA 19h07). Quem manda para outro: quem acha que IA só inventa, ou quem quer usar no trabalho e não sabe por onde. Diferenciação: o caso é seu, com o print do seu celular e a tela da sua Central. A frase 'a pauta fui eu que trouxe... o botão sou eu' é sugestão nossa; mude se não for o que você pensa. Lição usada: bastidor pessoal com IA (Perini e Oney) e, da referência, título em cima + passos numerados na lateral.",
+  "nota_corte": "Versão 2, 52 s em 1,2x. O que mudou: (0:06) o \"pra você\" cortava porque o trecho acabava em 9,12 s da gravação e a sua voz vai até 9,36 s; agora vai até 9,45 s. (0:23) saiu o \"o tra...\" engasgado e entra direto \"O Trabuco tinha aceitado o convite\". (0:31) o \"feed\" você fala baixinho depois de uma pausa e a passagem para \"30 minutinhos\" comia o fim; dei folga. Conferi ouvindo o pronto de novo: \"pra você.\", \"ali. O Trabuco tinha\" e \"no meu feed. 30 minutinhos\" saem inteiros. Na troca para \"30 minutinhos\" ainda há a passagem suave de 0,1 s entre dois enquadramentos (você mudou de lugar); se for isso o \"bug\", me diga que eu troco por corte seco. Sem imagens por cima ainda.",
+  "nota_lote": "Esperando a sua revisão",
+  "paga_em": "O texto saiu com aceitou no lugar de oficializado.",
+  "para_quem": "quem tem curiosidade de ver IA sendo usada de verdade no trabalho, não em tutorial",
+  "previa_nota": "Versão 2: o \"pra você\" sai inteiro, tirei o \"o tra...\" engasgado e o \"feed\" não é mais comido na passagem.",
+  "previas": [
+    {
+      "asset_id": "b9c421b99f82f37623638fbe1dab47f7",
+      "em": "2026-11-27T17:46:00-03:00",
+      "tipo": "video",
+      "titulo": "Do print ao post, versão 2 (52 s)"
+    }
+  ],
+  "promessa": "Mas olha que curioso, ele me corrigiu.",
+  "publicado_em": "2026-11-27T17:50:00-03:00",
+  "roteiro": [
+    "Cena: quinta 19h30, o dólar caindo na tela",
+    "1 - Mandei o print com uma frase",
+    "2 - Ele conferiu em duas matérias e me corrigiu (aceitou, não oficializado)",
+    "3 - Li, aprovei e saiu às 20h17: 48 minutos",
+    "Quem faz o quê: a pauta e o botão são meus; a checagem é da máquina",
+    "Chamada para seguir"
+  ],
+  "status": "pronto",
+  "titulo": "Você grava: do print ao post em 48 minutos (e o Claude me corrigiu)",
+  "vence_em": "2026-12-04T23:59:00-03:00",
+  "versao": 2,
+  "video_enviado_em": "2026-11-27T19:08:43.029Z",
+  "video_final_id": "b9c421b99f82f37623638fbe1dab47f7",
+  "video_nome": "982528AC-D153-46CD-9E99-81686300B443.mp4",
+  "video_partes": [
+    "bbbd54065d70146e4c775e78c764af9b",
+    "3f4469c694a11be9799985946dd1c747",
+    "2cb09074d47cc8395df4de1bfd41101a",
+    "31ebf62b225fdfa2da4307505775a287",
+    "e443229c3fcc34992e523ed6b8b97889",
+    "626e578660242c86883276024c560cd9",
+    "1d4596a6eca6b5475a96c97ba79359c9",
+    "111e6f50ac6a9328372a700257ce61e8",
+    "7b70319b700ac0785c17d04f1d3539e5"
+  ],
+  "video_tamanho": 163070768,
+  "slides": [
+    {
+      "altura": 1920,
+      "papel": "vídeo",
+      "tema": "claro",
+      "elementos": [
+        {
+          "tipo": "texto",
+          "texto": "Do print ao post em menos de 1 hora",
+          "tam": 50,
+          "corMarca": "#FFD700",
+          "corTextoMarca": "#111111"
+        },
+        {
+          "tipo": "video",
+          "x": 0,
+          "w": 1080,
+          "h": "resto",
+          "ajuste": "conter",
+          "raio": 0
+        }
+      ]
+    }
+  ],
+  "postado_em": "2026-11-27T19:00:00-03:00"
 }
