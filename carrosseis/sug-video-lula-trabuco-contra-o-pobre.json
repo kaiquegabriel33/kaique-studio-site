@@ -26,7 +26,24 @@
     "texto": "Segue pra ver o próximo corte."
   },
   "nota_corte": "Metrópoles 1:00–1:30 (live do Lula de 28/11); bateu 99% com a fala; gancho 'jamais traria alguém para trabalhar contra o povo pobre'; 32,4 s em 1,1x, topo escura; fonte só em 720p (gravei duas vezes, o vídeo tinha minutos no ar); auditar_cortes 0; conferir_video: falante 60 de 60, nenhum rosto cortado; as repetições acusadas são do próprio Lula ('sobe um degrau e cai dois' duas vezes) e o gancho; volume -16,3 LUFS (pouco abaixo da faixa) e um estalo em 0:31 que vem da fala.",
-  "publicado_em": "2026-11-28T14:25:00-03:00",
+  "publicado_em": "2026-11-28T13:50:00-03:00",
+  "agendado_metricool": {
+    "id": 445609681,
+    "uuid": "-6478637029606996539",
+    "para": "2026-11-28T19:40:00-03:00",
+    "tipo": "TRIAL_REEL",
+    "em": "2026-11-28T13:50:00-03:00"
+  },
+  "agendado_tiktok": {
+    "id": 445609847,
+    "uuid": "2977045382558794587",
+    "para": "2026-11-28T19:40:00-03:00",
+    "tipo": "TIKTOK",
+    "em": "2026-11-28T13:50:00-03:00"
+  },
+  "midia_no_metricool": true,
+  "midia_no_metricool_em": "2026-11-28T13:55:00-03:00",
+  "nota_lote": "AGENDADO no Metricool: IG Reel de teste 28/11 19:40 (topo escura) e TikTok 19:40 (rotina Quente do dia); não poste à mão. Sem Short: a tela cheia corta o nome do Metrópoles (aparece só o M e 'ET') e a regra pede o crédito da emissora na tela.",
   "link_app": "https://kaiquegabriel33.github.io/kaique-studio-site/#/c/sug-video-lula-trabuco-contra-o-pobre",
   "sugerido_por": "rotina Quente do dia 28/11 (13h15)",
   "sem_ok_dele": "Reel de teste, corte puro: montado sem aprovação pela regra de 05/11",
@@ -100,5 +117,5 @@
       ]
     }
   ],
-  "criado": "2026-11-28T13:50:00-03:00"
+  "criado": "2026-11-28T13:40:00-03:00"
 }
